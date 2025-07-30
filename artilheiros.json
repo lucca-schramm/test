@@ -1619,30 +1619,30 @@
             "name": "Goias",
             "logo": "https://media.api-sports.io/football/teams/151.png"
           },
-          "points": 36,
+          "points": 37,
           "goalsDiff": 9,
           "group": "Serie B",
-          "form": "LWWDW",
+          "form": "DLWWD",
           "status": "same",
           "description": "Promotion - Serie A Betano",
           "all": {
-            "played": 18,
+            "played": 19,
             "win": 11,
-            "draw": 3,
+            "draw": 4,
             "lose": 4,
             "goals": {
-              "for": 23,
-              "against": 14
+              "for": 24,
+              "against": 15
             }
           },
           "home": {
-            "played": 9,
+            "played": 10,
             "win": 6,
-            "draw": 2,
+            "draw": 3,
             "lose": 1,
             "goals": {
-              "for": 15,
-              "against": 7
+              "for": 16,
+              "against": 8
             }
           },
           "away": {
@@ -1795,6 +1795,51 @@
         {
           "rank": 5,
           "team": {
+            "id": 1198,
+            "name": "remo",
+            "logo": "https://media.api-sports.io/football/teams/1198.png"
+          },
+          "points": 30,
+          "goalsDiff": 5,
+          "group": "Serie B",
+          "form": "DWDDD",
+          "status": "same",
+          "description": null,
+          "all": {
+            "played": 19,
+            "win": 7,
+            "draw": 9,
+            "lose": 3,
+            "goals": {
+              "for": 22,
+              "against": 17
+            }
+          },
+          "home": {
+            "played": 10,
+            "win": 6,
+            "draw": 3,
+            "lose": 1,
+            "goals": {
+              "for": 12,
+              "against": 5
+            }
+          },
+          "away": {
+            "played": 9,
+            "win": 1,
+            "draw": 6,
+            "lose": 2,
+            "goals": {
+              "for": 10,
+              "against": 12
+            }
+          },
+          "update": "2025-07-29T00:00:00+00:00"
+        },
+        {
+          "rank": 6,
+          "team": {
             "id": 140,
             "name": "Criciuma",
             "logo": "https://media.api-sports.io/football/teams/140.png"
@@ -1833,51 +1878,6 @@
             "goals": {
               "for": 9,
               "against": 8
-            }
-          },
-          "update": "2025-07-29T00:00:00+00:00"
-        },
-        {
-          "rank": 6,
-          "team": {
-            "id": 1198,
-            "name": "remo",
-            "logo": "https://media.api-sports.io/football/teams/1198.png"
-          },
-          "points": 29,
-          "goalsDiff": 5,
-          "group": "Serie B",
-          "form": "WDDDW",
-          "status": "same",
-          "description": null,
-          "all": {
-            "played": 18,
-            "win": 7,
-            "draw": 8,
-            "lose": 3,
-            "goals": {
-              "for": 21,
-              "against": 16
-            }
-          },
-          "home": {
-            "played": 10,
-            "win": 6,
-            "draw": 3,
-            "lose": 1,
-            "goals": {
-              "for": 12,
-              "against": 5
-            }
-          },
-          "away": {
-            "played": 8,
-            "win": 1,
-            "draw": 5,
-            "lose": 2,
-            "goals": {
-              "for": 9,
-              "against": 11
             }
           },
           "update": "2025-07-29T00:00:00+00:00"
