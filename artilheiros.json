@@ -1795,6 +1795,51 @@
         {
           "rank": 5,
           "team": {
+            "id": 140,
+            "name": "Criciuma",
+            "logo": "https://media.api-sports.io/football/teams/140.png"
+          },
+          "points": 29,
+          "goalsDiff": 6,
+          "group": "Serie B",
+          "form": "WWWWD",
+          "status": "same",
+          "description": null,
+          "all": {
+            "played": 19,
+            "win": 8,
+            "draw": 5,
+            "lose": 6,
+            "goals": {
+              "for": 23,
+              "against": 17
+            }
+          },
+          "home": {
+            "played": 10,
+            "win": 5,
+            "draw": 2,
+            "lose": 3,
+            "goals": {
+              "for": 14,
+              "against": 9
+            }
+          },
+          "away": {
+            "played": 9,
+            "win": 3,
+            "draw": 3,
+            "lose": 3,
+            "goals": {
+              "for": 9,
+              "against": 8
+            }
+          },
+          "update": "2025-07-29T00:00:00+00:00"
+        },
+        {
+          "rank": 6,
+          "team": {
             "id": 1198,
             "name": "remo",
             "logo": "https://media.api-sports.io/football/teams/1198.png"
@@ -1838,26 +1883,26 @@
           "update": "2025-07-29T00:00:00+00:00"
         },
         {
-          "rank": 6,
+          "rank": 7,
           "team": {
             "id": 1193,
             "name": "Cuiaba",
             "logo": "https://media.api-sports.io/football/teams/1193.png"
           },
           "points": 28,
-          "goalsDiff": 1,
+          "goalsDiff": 0,
           "group": "Serie B",
-          "form": "WLWDL",
+          "form": "LWLWD",
           "status": "same",
           "description": null,
           "all": {
-            "played": 18,
+            "played": 19,
             "win": 8,
             "draw": 4,
-            "lose": 6,
+            "lose": 7,
             "goals": {
               "for": 22,
-              "against": 21
+              "against": 22
             }
           },
           "home": {
@@ -1871,19 +1916,19 @@
             }
           },
           "away": {
-            "played": 9,
+            "played": 10,
             "win": 2,
             "draw": 3,
-            "lose": 4,
+            "lose": 5,
             "goals": {
               "for": 7,
-              "against": 12
+              "against": 13
             }
           },
           "update": "2025-07-29T00:00:00+00:00"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "team": {
             "id": 145,
             "name": "Avai",
@@ -1928,7 +1973,7 @@
           "update": "2025-07-29T00:00:00+00:00"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "team": {
             "id": 142,
             "name": "Vila Nova",
@@ -1968,51 +2013,6 @@
             "goals": {
               "for": 9,
               "against": 13
-            }
-          },
-          "update": "2025-07-29T00:00:00+00:00"
-        },
-        {
-          "rank": 9,
-          "team": {
-            "id": 140,
-            "name": "Criciuma",
-            "logo": "https://media.api-sports.io/football/teams/140.png"
-          },
-          "points": 26,
-          "goalsDiff": 5,
-          "group": "Serie B",
-          "form": "WWWDL",
-          "status": "same",
-          "description": null,
-          "all": {
-            "played": 18,
-            "win": 7,
-            "draw": 5,
-            "lose": 6,
-            "goals": {
-              "for": 22,
-              "against": 17
-            }
-          },
-          "home": {
-            "played": 9,
-            "win": 4,
-            "draw": 2,
-            "lose": 3,
-            "goals": {
-              "for": 13,
-              "against": 9
-            }
-          },
-          "away": {
-            "played": 9,
-            "win": 3,
-            "draw": 3,
-            "lose": 3,
-            "goals": {
-              "for": 9,
-              "against": 8
             }
           },
           "update": "2025-07-29T00:00:00+00:00"
