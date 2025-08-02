@@ -1800,29 +1800,29 @@
             "logo": "https://media.api-sports.io/football/teams/1198.png"
           },
           "points": 30,
-          "goalsDiff": 5,
+          "goalsDiff": 3,
           "group": "Serie B",
-          "form": "DWDDD",
+          "form": "LDWDD",
           "status": "same",
           "description": null,
           "all": {
-            "played": 19,
+            "played": 20,
             "win": 7,
             "draw": 9,
-            "lose": 3,
+            "lose": 4,
             "goals": {
               "for": 22,
-              "against": 17
+              "against": 19
             }
           },
           "home": {
-            "played": 10,
+            "played": 11,
             "win": 6,
             "draw": 3,
-            "lose": 1,
+            "lose": 2,
             "goals": {
               "for": 12,
-              "against": 5
+              "against": 7
             }
           },
           "away": {
@@ -2200,6 +2200,51 @@
         {
           "rank": 14,
           "team": {
+            "id": 7826,
+            "name": "Ferroviária",
+            "logo": "https://media.api-sports.io/football/teams/7826.png"
+          },
+          "points": 23,
+          "goalsDiff": -2,
+          "group": "Serie B",
+          "form": "WDDLL",
+          "status": "same",
+          "description": null,
+          "all": {
+            "played": 20,
+            "win": 5,
+            "draw": 8,
+            "lose": 7,
+            "goals": {
+              "for": 20,
+              "against": 22
+            }
+          },
+          "home": {
+            "played": 9,
+            "win": 3,
+            "draw": 4,
+            "lose": 2,
+            "goals": {
+              "for": 10,
+              "against": 9
+            }
+          },
+          "away": {
+            "played": 11,
+            "win": 2,
+            "draw": 4,
+            "lose": 5,
+            "goals": {
+              "for": 10,
+              "against": 13
+            }
+          },
+          "update": "2025-08-01T00:00:00+00:00"
+        },
+        {
+          "rank": 15,
+          "team": {
             "id": 144,
             "name": "Atletico Goianiense",
             "logo": "https://media.api-sports.io/football/teams/144.png"
@@ -2243,7 +2288,7 @@
           "update": "2025-08-01T00:00:00+00:00"
         },
         {
-          "rank": 15,
+          "rank": 16,
           "team": {
             "id": 125,
             "name": "America Mineiro",
@@ -2288,7 +2333,7 @@
           "update": "2025-08-01T00:00:00+00:00"
         },
         {
-          "rank": 16,
+          "rank": 17,
           "team": {
             "id": 7814,
             "name": "Volta Redonda",
@@ -2299,7 +2344,7 @@
           "group": "Serie B",
           "form": "WLWDL",
           "status": "same",
-          "description": null,
+          "description": "Relegation - Serie C (First stage: )",
           "all": {
             "played": 19,
             "win": 5,
@@ -2333,7 +2378,7 @@
           "update": "2025-08-01T00:00:00+00:00"
         },
         {
-          "rank": 17,
+          "rank": 18,
           "team": {
             "id": 149,
             "name": "Paysandu",
@@ -2373,51 +2418,6 @@
             "goals": {
               "for": 10,
               "against": 11
-            }
-          },
-          "update": "2025-08-01T00:00:00+00:00"
-        },
-        {
-          "rank": 18,
-          "team": {
-            "id": 7826,
-            "name": "Ferroviária",
-            "logo": "https://media.api-sports.io/football/teams/7826.png"
-          },
-          "points": 20,
-          "goalsDiff": -4,
-          "group": "Serie B",
-          "form": "DDLLL",
-          "status": "same",
-          "description": "Relegation - Serie C (First stage: )",
-          "all": {
-            "played": 19,
-            "win": 4,
-            "draw": 8,
-            "lose": 7,
-            "goals": {
-              "for": 18,
-              "against": 22
-            }
-          },
-          "home": {
-            "played": 9,
-            "win": 3,
-            "draw": 4,
-            "lose": 2,
-            "goals": {
-              "for": 10,
-              "against": 9
-            }
-          },
-          "away": {
-            "played": 10,
-            "win": 1,
-            "draw": 4,
-            "lose": 5,
-            "goals": {
-              "for": 8,
-              "against": 13
             }
           },
           "update": "2025-08-01T00:00:00+00:00"
