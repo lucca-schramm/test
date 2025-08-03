@@ -1026,6 +1026,51 @@
         {
           "rank": 8,
           "team": {
+            "id": 124,
+            "name": "Fluminense",
+            "logo": "https://media.api-sports.io/football/teams/124.png"
+          },
+          "points": 23,
+          "goalsDiff": -2,
+          "group": "Brasileiro Serie A 2025",
+          "form": "WLLLL",
+          "status": "same",
+          "description": "Copa Sudamericana",
+          "all": {
+            "played": 16,
+            "win": 7,
+            "draw": 2,
+            "lose": 7,
+            "goals": {
+              "for": 18,
+              "against": 20
+            }
+          },
+          "home": {
+            "played": 8,
+            "win": 5,
+            "draw": 1,
+            "lose": 2,
+            "goals": {
+              "for": 10,
+              "against": 8
+            }
+          },
+          "away": {
+            "played": 8,
+            "win": 2,
+            "draw": 1,
+            "lose": 5,
+            "goals": {
+              "for": 8,
+              "against": 12
+            }
+          },
+          "update": "2025-08-03T00:00:00+00:00"
+        },
+        {
+          "rank": 9,
+          "team": {
             "id": 126,
             "name": "Sao Paulo",
             "logo": "https://media.api-sports.io/football/teams/126.png"
@@ -1069,7 +1114,7 @@
           "update": "2025-08-03T00:00:00+00:00"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "team": {
             "id": 129,
             "name": "Ceara",
@@ -1109,51 +1154,6 @@
             "goals": {
               "for": 8,
               "against": 10
-            }
-          },
-          "update": "2025-08-03T00:00:00+00:00"
-        },
-        {
-          "rank": 10,
-          "team": {
-            "id": 124,
-            "name": "Fluminense",
-            "logo": "https://media.api-sports.io/football/teams/124.png"
-          },
-          "points": 21,
-          "goalsDiff": -3,
-          "group": "Brasileiro Serie A 2025",
-          "form": "LLLLW",
-          "status": "same",
-          "description": "Copa Sudamericana",
-          "all": {
-            "played": 16,
-            "win": 6,
-            "draw": 3,
-            "lose": 7,
-            "goals": {
-              "for": 17,
-              "against": 20
-            }
-          },
-          "home": {
-            "played": 8,
-            "win": 4,
-            "draw": 2,
-            "lose": 2,
-            "goals": {
-              "for": 9,
-              "against": 8
-            }
-          },
-          "away": {
-            "played": 8,
-            "win": 2,
-            "draw": 1,
-            "lose": 5,
-            "goals": {
-              "for": 8,
-              "against": 12
             }
           },
           "update": "2025-08-03T00:00:00+00:00"
@@ -1251,51 +1251,6 @@
         {
           "rank": 13,
           "team": {
-            "id": 130,
-            "name": "Gremio",
-            "logo": "https://media.api-sports.io/football/teams/130.png"
-          },
-          "points": 21,
-          "goalsDiff": -6,
-          "group": "Brasileiro Serie A 2025",
-          "form": "WLDLD",
-          "status": "same",
-          "description": null,
-          "all": {
-            "played": 17,
-            "win": 5,
-            "draw": 6,
-            "lose": 6,
-            "goals": {
-              "for": 16,
-              "against": 22
-            }
-          },
-          "home": {
-            "played": 8,
-            "win": 4,
-            "draw": 3,
-            "lose": 1,
-            "goals": {
-              "for": 9,
-              "against": 7
-            }
-          },
-          "away": {
-            "played": 9,
-            "win": 1,
-            "draw": 3,
-            "lose": 5,
-            "goals": {
-              "for": 7,
-              "against": 15
-            }
-          },
-          "update": "2025-08-03T00:00:00+00:00"
-        },
-        {
-          "rank": 14,
-          "team": {
             "id": 1062,
             "name": "Atletico-MG",
             "logo": "https://media.api-sports.io/football/teams/1062.png"
@@ -1334,6 +1289,51 @@
             "goals": {
               "for": 8,
               "against": 12
+            }
+          },
+          "update": "2025-08-03T00:00:00+00:00"
+        },
+        {
+          "rank": 14,
+          "team": {
+            "id": 130,
+            "name": "Gremio",
+            "logo": "https://media.api-sports.io/football/teams/130.png"
+          },
+          "points": 20,
+          "goalsDiff": -7,
+          "group": "Brasileiro Serie A 2025",
+          "form": "LWLDL",
+          "status": "same",
+          "description": null,
+          "all": {
+            "played": 17,
+            "win": 5,
+            "draw": 5,
+            "lose": 7,
+            "goals": {
+              "for": 16,
+              "against": 23
+            }
+          },
+          "home": {
+            "played": 8,
+            "win": 4,
+            "draw": 3,
+            "lose": 1,
+            "goals": {
+              "for": 9,
+              "against": 7
+            }
+          },
+          "away": {
+            "played": 9,
+            "win": 1,
+            "draw": 2,
+            "lose": 6,
+            "goals": {
+              "for": 7,
+              "against": 16
             }
           },
           "update": "2025-08-03T00:00:00+00:00"
