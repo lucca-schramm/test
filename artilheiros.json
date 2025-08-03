@@ -361,6 +361,13 @@
         "jogador-gols": "10"
       },
       {
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2022/06/18/f628489b95ae3993e288695d7372fad3_140x140.png",
+        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
+        "jogador-nome": "Anselmo Ramon",
+        "jogador-posicao": "Atacante",
+        "jogador-gols": "7"
+      },
+      {
         "jogador-foto": "https://s.sde.globo.com/media/person_role/2025/04/02/photo_140x140_13MrMGh.png",
         "jogador-escudo": "https://s.sde.globo.com/media/organizations/2016/03/31/Ferroviaria-65.png",
         "jogador-nome": "Carlão",
@@ -375,9 +382,9 @@
         "jogador-gols": "6"
       },
       {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2022/06/18/f628489b95ae3993e288695d7372fad3_140x140.png",
-        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
-        "jogador-nome": "Anselmo Ramon",
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2016/03/17/0a6e077590ceeb04c630887b45c63461_140x140.jpeg",
+        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2024/08/20/amazonas-novo-65.png",
+        "jogador-nome": "Kevin Ramírez",
         "jogador-posicao": "Atacante",
         "jogador-gols": "6"
       },
@@ -448,13 +455,6 @@
         "jogador-foto": "https://s.sde.globo.com/media/person_role/2025/06/20/photo_140x140_9k5Frvb.png",
         "jogador-escudo": "https://s.sde.globo.com/media/organizations/2024/05/07/AMRICA-mg-65.png",
         "jogador-nome": "Willian Bigode",
-        "jogador-posicao": "Atacante",
-        "jogador-gols": "5"
-      },
-      {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2016/03/17/0a6e077590ceeb04c630887b45c63461_140x140.jpeg",
-        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2024/08/20/amazonas-novo-65.png",
-        "jogador-nome": "Kevin Ramírez",
         "jogador-posicao": "Atacante",
         "jogador-gols": "5"
       },
@@ -2295,19 +2295,19 @@
             "logo": "https://media.api-sports.io/football/teams/125.png"
           },
           "points": 21,
-          "goalsDiff": -6,
+          "goalsDiff": -7,
           "group": "Serie B",
-          "form": "DLLLL",
+          "form": "LDLLL",
           "status": "same",
           "description": null,
           "all": {
-            "played": 19,
+            "played": 20,
             "win": 6,
             "draw": 3,
-            "lose": 10,
+            "lose": 11,
             "goals": {
-              "for": 20,
-              "against": 26
+              "for": 21,
+              "against": 28
             }
           },
           "home": {
@@ -2321,13 +2321,13 @@
             }
           },
           "away": {
-            "played": 9,
+            "played": 10,
             "win": 2,
             "draw": 0,
-            "lose": 7,
+            "lose": 8,
             "goals": {
-              "for": 7,
-              "against": 15
+              "for": 8,
+              "against": 17
             }
           },
           "update": "2025-08-02T00:00:00+00:00"
@@ -2380,6 +2380,51 @@
         {
           "rank": 18,
           "team": {
+            "id": 2618,
+            "name": "Botafogo SP",
+            "logo": "https://media.api-sports.io/football/teams/2618.png"
+          },
+          "points": 21,
+          "goalsDiff": -14,
+          "group": "Serie B",
+          "form": "WLLLD",
+          "status": "same",
+          "description": "Relegation - Serie C (First stage: )",
+          "all": {
+            "played": 20,
+            "win": 5,
+            "draw": 6,
+            "lose": 9,
+            "goals": {
+              "for": 14,
+              "against": 28
+            }
+          },
+          "home": {
+            "played": 11,
+            "win": 3,
+            "draw": 5,
+            "lose": 3,
+            "goals": {
+              "for": 8,
+              "against": 11
+            }
+          },
+          "away": {
+            "played": 9,
+            "win": 2,
+            "draw": 1,
+            "lose": 6,
+            "goals": {
+              "for": 6,
+              "against": 17
+            }
+          },
+          "update": "2025-08-02T00:00:00+00:00"
+        },
+        {
+          "rank": 19,
+          "team": {
             "id": 149,
             "name": "Paysandu",
             "logo": "https://media.api-sports.io/football/teams/149.png"
@@ -2423,7 +2468,7 @@
           "update": "2025-08-02T00:00:00+00:00"
         },
         {
-          "rank": 19,
+          "rank": 20,
           "team": {
             "id": 10862,
             "name": "Amazonas",
@@ -2463,51 +2508,6 @@
             "goals": {
               "for": 7,
               "against": 18
-            }
-          },
-          "update": "2025-08-02T00:00:00+00:00"
-        },
-        {
-          "rank": 20,
-          "team": {
-            "id": 2618,
-            "name": "Botafogo SP",
-            "logo": "https://media.api-sports.io/football/teams/2618.png"
-          },
-          "points": 18,
-          "goalsDiff": -15,
-          "group": "Serie B",
-          "form": "LLLDD",
-          "status": "same",
-          "description": "Relegation - Serie C (First stage: )",
-          "all": {
-            "played": 19,
-            "win": 4,
-            "draw": 6,
-            "lose": 9,
-            "goals": {
-              "for": 12,
-              "against": 27
-            }
-          },
-          "home": {
-            "played": 10,
-            "win": 2,
-            "draw": 5,
-            "lose": 3,
-            "goals": {
-              "for": 6,
-              "against": 10
-            }
-          },
-          "away": {
-            "played": 9,
-            "win": 2,
-            "draw": 1,
-            "lose": 6,
-            "goals": {
-              "for": 6,
-              "against": 17
             }
           },
           "update": "2025-08-02T00:00:00+00:00"
