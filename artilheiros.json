@@ -1795,6 +1795,51 @@
         {
           "rank": 5,
           "team": {
+            "id": 1193,
+            "name": "Cuiaba",
+            "logo": "https://media.api-sports.io/football/teams/1193.png"
+          },
+          "points": 31,
+          "goalsDiff": 2,
+          "group": "Serie B",
+          "form": "WLWLW",
+          "status": "same",
+          "description": null,
+          "all": {
+            "played": 20,
+            "win": 9,
+            "draw": 4,
+            "lose": 7,
+            "goals": {
+              "for": 24,
+              "against": 22
+            }
+          },
+          "home": {
+            "played": 10,
+            "win": 7,
+            "draw": 1,
+            "lose": 2,
+            "goals": {
+              "for": 17,
+              "against": 9
+            }
+          },
+          "away": {
+            "played": 10,
+            "win": 2,
+            "draw": 3,
+            "lose": 5,
+            "goals": {
+              "for": 7,
+              "against": 13
+            }
+          },
+          "update": "2025-08-04T00:00:00+00:00"
+        },
+        {
+          "rank": 6,
+          "team": {
             "id": 1198,
             "name": "remo",
             "logo": "https://media.api-sports.io/football/teams/1198.png"
@@ -1838,7 +1883,7 @@
           "update": "2025-08-04T00:00:00+00:00"
         },
         {
-          "rank": 6,
+          "rank": 7,
           "team": {
             "id": 140,
             "name": "Criciuma",
@@ -1883,7 +1928,7 @@
           "update": "2025-08-04T00:00:00+00:00"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "team": {
             "id": 145,
             "name": "Avai",
@@ -1923,51 +1968,6 @@
             "goals": {
               "for": 12,
               "against": 16
-            }
-          },
-          "update": "2025-08-04T00:00:00+00:00"
-        },
-        {
-          "rank": 8,
-          "team": {
-            "id": 1193,
-            "name": "Cuiaba",
-            "logo": "https://media.api-sports.io/football/teams/1193.png"
-          },
-          "points": 28,
-          "goalsDiff": 0,
-          "group": "Serie B",
-          "form": "LWLWD",
-          "status": "same",
-          "description": null,
-          "all": {
-            "played": 19,
-            "win": 8,
-            "draw": 4,
-            "lose": 7,
-            "goals": {
-              "for": 22,
-              "against": 22
-            }
-          },
-          "home": {
-            "played": 9,
-            "win": 6,
-            "draw": 1,
-            "lose": 2,
-            "goals": {
-              "for": 15,
-              "against": 9
-            }
-          },
-          "away": {
-            "played": 10,
-            "win": 2,
-            "draw": 3,
-            "lose": 5,
-            "goals": {
-              "for": 7,
-              "against": 13
             }
           },
           "update": "2025-08-04T00:00:00+00:00"
@@ -2340,19 +2340,19 @@
             "logo": "https://media.api-sports.io/football/teams/7814.png"
           },
           "points": 21,
-          "goalsDiff": -7,
+          "goalsDiff": -9,
           "group": "Serie B",
-          "form": "WLWDL",
+          "form": "LWLWD",
           "status": "same",
           "description": "Relegation - Serie C (First stage: )",
           "all": {
-            "played": 19,
+            "played": 20,
             "win": 5,
             "draw": 6,
-            "lose": 8,
+            "lose": 9,
             "goals": {
               "for": 14,
-              "against": 21
+              "against": 23
             }
           },
           "home": {
@@ -2366,13 +2366,13 @@
             }
           },
           "away": {
-            "played": 10,
+            "played": 11,
             "win": 0,
             "draw": 3,
-            "lose": 7,
+            "lose": 8,
             "goals": {
               "for": 4,
-              "against": 15
+              "against": 17
             }
           },
           "update": "2025-08-04T00:00:00+00:00"
