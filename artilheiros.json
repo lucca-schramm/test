@@ -751,7 +751,7 @@
               "against": 6
             }
           },
-          "update": "2025-08-04T00:00:00+00:00"
+          "update": "2025-08-05T00:00:00+00:00"
         },
         {
           "rank": 2,
@@ -796,7 +796,7 @@
               "against": 5
             }
           },
-          "update": "2025-08-04T00:00:00+00:00"
+          "update": "2025-08-05T00:00:00+00:00"
         },
         {
           "rank": 3,
@@ -841,7 +841,7 @@
               "against": 8
             }
           },
-          "update": "2025-08-04T00:00:00+00:00"
+          "update": "2025-08-05T00:00:00+00:00"
         },
         {
           "rank": 4,
@@ -886,7 +886,7 @@
               "against": 8
             }
           },
-          "update": "2025-08-04T00:00:00+00:00"
+          "update": "2025-08-05T00:00:00+00:00"
         },
         {
           "rank": 5,
@@ -931,7 +931,7 @@
               "against": 8
             }
           },
-          "update": "2025-08-04T00:00:00+00:00"
+          "update": "2025-08-05T00:00:00+00:00"
         },
         {
           "rank": 6,
@@ -976,7 +976,7 @@
               "against": 11
             }
           },
-          "update": "2025-08-04T00:00:00+00:00"
+          "update": "2025-08-05T00:00:00+00:00"
         },
         {
           "rank": 7,
@@ -1021,7 +1021,7 @@
               "against": 3
             }
           },
-          "update": "2025-08-04T00:00:00+00:00"
+          "update": "2025-08-05T00:00:00+00:00"
         },
         {
           "rank": 8,
@@ -1066,7 +1066,7 @@
               "against": 11
             }
           },
-          "update": "2025-08-04T00:00:00+00:00"
+          "update": "2025-08-05T00:00:00+00:00"
         },
         {
           "rank": 9,
@@ -1111,7 +1111,7 @@
               "against": 12
             }
           },
-          "update": "2025-08-04T00:00:00+00:00"
+          "update": "2025-08-05T00:00:00+00:00"
         },
         {
           "rank": 10,
@@ -1156,7 +1156,7 @@
               "against": 12
             }
           },
-          "update": "2025-08-04T00:00:00+00:00"
+          "update": "2025-08-05T00:00:00+00:00"
         },
         {
           "rank": 11,
@@ -1201,7 +1201,7 @@
               "against": 10
             }
           },
-          "update": "2025-08-04T00:00:00+00:00"
+          "update": "2025-08-05T00:00:00+00:00"
         },
         {
           "rank": 12,
@@ -1246,7 +1246,7 @@
               "against": 13
             }
           },
-          "update": "2025-08-04T00:00:00+00:00"
+          "update": "2025-08-05T00:00:00+00:00"
         },
         {
           "rank": 13,
@@ -1291,7 +1291,7 @@
               "against": 14
             }
           },
-          "update": "2025-08-04T00:00:00+00:00"
+          "update": "2025-08-05T00:00:00+00:00"
         },
         {
           "rank": 14,
@@ -1336,10 +1336,55 @@
               "against": 16
             }
           },
-          "update": "2025-08-04T00:00:00+00:00"
+          "update": "2025-08-05T00:00:00+00:00"
         },
         {
           "rank": 15,
+          "team": {
+            "id": 128,
+            "name": "Santos",
+            "logo": "https://media.api-sports.io/football/teams/128.png"
+          },
+          "points": 18,
+          "goalsDiff": -4,
+          "group": "Brasileiro Serie A 2025",
+          "form": "WDLLW",
+          "status": "same",
+          "description": null,
+          "all": {
+            "played": 17,
+            "win": 5,
+            "draw": 3,
+            "lose": 9,
+            "goals": {
+              "for": 18,
+              "against": 22
+            }
+          },
+          "home": {
+            "played": 8,
+            "win": 3,
+            "draw": 2,
+            "lose": 3,
+            "goals": {
+              "for": 10,
+              "against": 8
+            }
+          },
+          "away": {
+            "played": 9,
+            "win": 2,
+            "draw": 1,
+            "lose": 6,
+            "goals": {
+              "for": 8,
+              "against": 14
+            }
+          },
+          "update": "2025-08-05T00:00:00+00:00"
+        },
+        {
+          "rank": 16,
           "team": {
             "id": 136,
             "name": "Vitoria",
@@ -1381,10 +1426,10 @@
               "against": 10
             }
           },
-          "update": "2025-08-04T00:00:00+00:00"
+          "update": "2025-08-05T00:00:00+00:00"
         },
         {
-          "rank": 16,
+          "rank": 17,
           "team": {
             "id": 133,
             "name": "Vasco DA Gama",
@@ -1395,7 +1440,7 @@
           "group": "Brasileiro Serie A 2025",
           "form": "LDDLW",
           "status": "same",
-          "description": null,
+          "description": "Relegation",
           "all": {
             "played": 16,
             "win": 4,
@@ -1426,52 +1471,7 @@
               "against": 15
             }
           },
-          "update": "2025-08-04T00:00:00+00:00"
-        },
-        {
-          "rank": 17,
-          "team": {
-            "id": 128,
-            "name": "Santos",
-            "logo": "https://media.api-sports.io/football/teams/128.png"
-          },
-          "points": 15,
-          "goalsDiff": -6,
-          "group": "Brasileiro Serie A 2025",
-          "form": "DLLWW",
-          "status": "same",
-          "description": "Relegation",
-          "all": {
-            "played": 16,
-            "win": 4,
-            "draw": 3,
-            "lose": 9,
-            "goals": {
-              "for": 15,
-              "against": 21
-            }
-          },
-          "home": {
-            "played": 7,
-            "win": 2,
-            "draw": 2,
-            "lose": 3,
-            "goals": {
-              "for": 7,
-              "against": 7
-            }
-          },
-          "away": {
-            "played": 9,
-            "win": 2,
-            "draw": 1,
-            "lose": 6,
-            "goals": {
-              "for": 8,
-              "against": 14
-            }
-          },
-          "update": "2025-08-04T00:00:00+00:00"
+          "update": "2025-08-05T00:00:00+00:00"
         },
         {
           "rank": 18,
@@ -1516,7 +1516,7 @@
               "against": 14
             }
           },
-          "update": "2025-08-04T00:00:00+00:00"
+          "update": "2025-08-05T00:00:00+00:00"
         },
         {
           "rank": 19,
@@ -1526,19 +1526,19 @@
             "logo": "https://media.api-sports.io/football/teams/152.png"
           },
           "points": 11,
-          "goalsDiff": -22,
+          "goalsDiff": -24,
           "group": "Brasileiro Serie A 2025",
-          "form": "LLLWL",
+          "form": "LLLLW",
           "status": "same",
           "description": "Relegation",
           "all": {
-            "played": 15,
+            "played": 16,
             "win": 3,
             "draw": 2,
-            "lose": 10,
+            "lose": 11,
             "goals": {
-              "for": 10,
-              "against": 32
+              "for": 11,
+              "against": 35
             }
           },
           "home": {
@@ -1552,16 +1552,16 @@
             }
           },
           "away": {
-            "played": 7,
+            "played": 8,
             "win": 0,
             "draw": 0,
-            "lose": 7,
+            "lose": 8,
             "goals": {
-              "for": 1,
-              "against": 24
+              "for": 2,
+              "against": 27
             }
           },
-          "update": "2025-08-04T00:00:00+00:00"
+          "update": "2025-08-05T00:00:00+00:00"
         },
         {
           "rank": 20,
@@ -1606,7 +1606,7 @@
               "against": 14
             }
           },
-          "update": "2025-08-04T00:00:00+00:00"
+          "update": "2025-08-05T00:00:00+00:00"
         }
       ]
     ],
