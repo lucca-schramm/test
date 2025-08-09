@@ -2110,6 +2110,51 @@
         {
           "rank": 12,
           "team": {
+            "id": 7826,
+            "name": "Ferroviária",
+            "logo": "https://media.api-sports.io/football/teams/7826.png"
+          },
+          "points": 26,
+          "goalsDiff": -1,
+          "group": "Serie B",
+          "form": "WWDDL",
+          "status": "same",
+          "description": null,
+          "all": {
+            "played": 21,
+            "win": 6,
+            "draw": 8,
+            "lose": 7,
+            "goals": {
+              "for": 22,
+              "against": 23
+            }
+          },
+          "home": {
+            "played": 10,
+            "win": 4,
+            "draw": 4,
+            "lose": 2,
+            "goals": {
+              "for": 12,
+              "against": 10
+            }
+          },
+          "away": {
+            "played": 11,
+            "win": 2,
+            "draw": 4,
+            "lose": 5,
+            "goals": {
+              "for": 10,
+              "against": 13
+            }
+          },
+          "update": "2025-08-08T00:00:00+00:00"
+        },
+        {
+          "rank": 13,
+          "team": {
             "id": 146,
             "name": "CRB",
             "logo": "https://media.api-sports.io/football/teams/146.png"
@@ -2153,7 +2198,7 @@
           "update": "2025-08-08T00:00:00+00:00"
         },
         {
-          "rank": 13,
+          "rank": 14,
           "team": {
             "id": 13975,
             "name": "Athletic Club",
@@ -2198,7 +2243,7 @@
           "update": "2025-08-08T00:00:00+00:00"
         },
         {
-          "rank": 14,
+          "rank": 15,
           "team": {
             "id": 144,
             "name": "Atletico Goianiense",
@@ -2237,51 +2282,6 @@
             "lose": 4,
             "goals": {
               "for": 7,
-              "against": 13
-            }
-          },
-          "update": "2025-08-08T00:00:00+00:00"
-        },
-        {
-          "rank": 15,
-          "team": {
-            "id": 7826,
-            "name": "Ferroviária",
-            "logo": "https://media.api-sports.io/football/teams/7826.png"
-          },
-          "points": 23,
-          "goalsDiff": -2,
-          "group": "Serie B",
-          "form": "WDDLL",
-          "status": "same",
-          "description": null,
-          "all": {
-            "played": 20,
-            "win": 5,
-            "draw": 8,
-            "lose": 7,
-            "goals": {
-              "for": 20,
-              "against": 22
-            }
-          },
-          "home": {
-            "played": 9,
-            "win": 3,
-            "draw": 4,
-            "lose": 2,
-            "goals": {
-              "for": 10,
-              "against": 9
-            }
-          },
-          "away": {
-            "played": 11,
-            "win": 2,
-            "draw": 4,
-            "lose": 5,
-            "goals": {
-              "for": 10,
               "against": 13
             }
           },
@@ -2475,19 +2475,19 @@
             "logo": "https://media.api-sports.io/football/teams/10862.png"
           },
           "points": 20,
-          "goalsDiff": -7,
+          "goalsDiff": -8,
           "group": "Serie B",
-          "form": "DDDWL",
+          "form": "LDDDW",
           "status": "same",
           "description": "Relegation - Serie C (First stage: )",
           "all": {
-            "played": 20,
+            "played": 21,
             "win": 4,
             "draw": 8,
-            "lose": 8,
+            "lose": 9,
             "goals": {
-              "for": 20,
-              "against": 27
+              "for": 21,
+              "against": 29
             }
           },
           "home": {
@@ -2501,13 +2501,13 @@
             }
           },
           "away": {
-            "played": 9,
+            "played": 10,
             "win": 0,
             "draw": 3,
-            "lose": 6,
+            "lose": 7,
             "goals": {
-              "for": 7,
-              "against": 18
+              "for": 8,
+              "against": 20
             }
           },
           "update": "2025-08-08T00:00:00+00:00"
