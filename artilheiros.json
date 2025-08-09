@@ -296,6 +296,13 @@
         "jogador-gols": "3"
       },
       {
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2025/04/03/photo_140x140_CQzW1SS.png",
+        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
+        "jogador-nome": "Ricardo Mathias",
+        "jogador-posicao": "Atacante",
+        "jogador-gols": "3"
+      },
+      {
         "jogador-foto": "https://s.sde.globo.com/media/person_role/2025/04/03/photo_140x140_18gYBgP.png",
         "jogador-escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
         "jogador-nome": "Michel Araújo",
@@ -342,13 +349,6 @@
         "jogador-escudo": "https://s.sde.globo.com/media/organizations/2019/10/10/ceara-65x65.png",
         "jogador-nome": "Marllon",
         "jogador-posicao": "Zagueiro direito",
-        "jogador-gols": "2"
-      },
-      {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2025/04/08/photo_140x140_HHmNQLK.png",
-        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2015/07/21/sport65.png",
-        "jogador-nome": "Chrystian Barletta",
-        "jogador-posicao": "Atacante",
         "jogador-gols": "2"
       }
     ],
@@ -435,6 +435,13 @@
         "jogador-escudo": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020-65.png",
         "jogador-nome": "Marcelinho",
         "jogador-posicao": "Atacante",
+        "jogador-gols": "5"
+      },
+      {
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2024/08/23/photo_140x140_0xMw14U.png",
+        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2018/02/09/operario_fec_65px.png",
+        "jogador-nome": "Boschilia",
+        "jogador-posicao": "Meio-campo",
         "jogador-gols": "5"
       },
       {
@@ -540,13 +547,6 @@
         "jogador-escudo": "https://s.sde.globo.com/media/organizations/2016/05/11/CRB-65_Mh6W7G6.png",
         "jogador-nome": "Thiaguinho",
         "jogador-posicao": "Atacante",
-        "jogador-gols": "4"
-      },
-      {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2024/08/23/photo_140x140_0xMw14U.png",
-        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2018/02/09/operario_fec_65px.png",
-        "jogador-nome": "Boschilia",
-        "jogador-posicao": "Meio-campo",
         "jogador-gols": "4"
       },
       {
@@ -1795,6 +1795,51 @@
         {
           "rank": 5,
           "team": {
+            "id": 1198,
+            "name": "remo",
+            "logo": "https://media.api-sports.io/football/teams/1198.png"
+          },
+          "points": 33,
+          "goalsDiff": 4,
+          "group": "Serie B",
+          "form": "WLDWD",
+          "status": "same",
+          "description": null,
+          "all": {
+            "played": 21,
+            "win": 8,
+            "draw": 9,
+            "lose": 4,
+            "goals": {
+              "for": 23,
+              "against": 19
+            }
+          },
+          "home": {
+            "played": 11,
+            "win": 6,
+            "draw": 3,
+            "lose": 2,
+            "goals": {
+              "for": 12,
+              "against": 7
+            }
+          },
+          "away": {
+            "played": 10,
+            "win": 2,
+            "draw": 6,
+            "lose": 2,
+            "goals": {
+              "for": 11,
+              "against": 12
+            }
+          },
+          "update": "2025-08-09T00:00:00+00:00"
+        },
+        {
+          "rank": 6,
+          "team": {
             "id": 1193,
             "name": "Cuiaba",
             "logo": "https://media.api-sports.io/football/teams/1193.png"
@@ -1833,51 +1878,6 @@
             "goals": {
               "for": 7,
               "against": 13
-            }
-          },
-          "update": "2025-08-09T00:00:00+00:00"
-        },
-        {
-          "rank": 6,
-          "team": {
-            "id": 1198,
-            "name": "remo",
-            "logo": "https://media.api-sports.io/football/teams/1198.png"
-          },
-          "points": 30,
-          "goalsDiff": 3,
-          "group": "Serie B",
-          "form": "LDWDD",
-          "status": "same",
-          "description": null,
-          "all": {
-            "played": 20,
-            "win": 7,
-            "draw": 9,
-            "lose": 4,
-            "goals": {
-              "for": 22,
-              "against": 19
-            }
-          },
-          "home": {
-            "played": 11,
-            "win": 6,
-            "draw": 3,
-            "lose": 2,
-            "goals": {
-              "for": 12,
-              "against": 7
-            }
-          },
-          "away": {
-            "played": 9,
-            "win": 1,
-            "draw": 6,
-            "lose": 2,
-            "goals": {
-              "for": 10,
-              "against": 12
             }
           },
           "update": "2025-08-09T00:00:00+00:00"
@@ -2295,29 +2295,29 @@
             "logo": "https://media.api-sports.io/football/teams/125.png"
           },
           "points": 21,
-          "goalsDiff": -7,
+          "goalsDiff": -8,
           "group": "Serie B",
-          "form": "LDLLL",
+          "form": "LLDLL",
           "status": "same",
           "description": null,
           "all": {
-            "played": 20,
+            "played": 21,
             "win": 6,
             "draw": 3,
-            "lose": 11,
+            "lose": 12,
             "goals": {
               "for": 21,
-              "against": 28
+              "against": 29
             }
           },
           "home": {
-            "played": 10,
+            "played": 11,
             "win": 4,
             "draw": 3,
-            "lose": 3,
+            "lose": 4,
             "goals": {
               "for": 13,
-              "against": 11
+              "against": 12
             }
           },
           "away": {
