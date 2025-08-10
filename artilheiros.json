@@ -338,16 +338,16 @@
         "jogador-gols": "3"
       },
       {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2024/02/26/photo_140x140_dC0SxZr.png",
-        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
-        "jogador-nome": "Luiz Araújo",
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2025/04/03/photo_140x140_BWJfVps.png",
+        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/santos_60x60.png",
+        "jogador-nome": "Guilherme",
         "jogador-posicao": "Atacante",
         "jogador-gols": "3"
       },
       {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2025/06/08/photo_140x140_jCzssZh.png",
-        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
-        "jogador-nome": "Arthur Cabral",
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2024/02/26/photo_140x140_dC0SxZr.png",
+        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
+        "jogador-nome": "Luiz Araújo",
         "jogador-posicao": "Atacante",
         "jogador-gols": "3"
       }
@@ -1840,24 +1840,69 @@
         {
           "rank": 6,
           "team": {
+            "id": 145,
+            "name": "Avai",
+            "logo": "https://media.api-sports.io/football/teams/145.png"
+          },
+          "points": 32,
+          "goalsDiff": 8,
+          "group": "Serie B",
+          "form": "WDWLD",
+          "status": "same",
+          "description": null,
+          "all": {
+            "played": 21,
+            "win": 8,
+            "draw": 8,
+            "lose": 5,
+            "goals": {
+              "for": 29,
+              "against": 21
+            }
+          },
+          "home": {
+            "played": 11,
+            "win": 6,
+            "draw": 4,
+            "lose": 1,
+            "goals": {
+              "for": 17,
+              "against": 5
+            }
+          },
+          "away": {
+            "played": 10,
+            "win": 2,
+            "draw": 4,
+            "lose": 4,
+            "goals": {
+              "for": 12,
+              "against": 16
+            }
+          },
+          "update": "2025-08-10T00:00:00+00:00"
+        },
+        {
+          "rank": 7,
+          "team": {
             "id": 1193,
             "name": "Cuiaba",
             "logo": "https://media.api-sports.io/football/teams/1193.png"
           },
           "points": 31,
-          "goalsDiff": 2,
+          "goalsDiff": 0,
           "group": "Serie B",
-          "form": "WLWLW",
+          "form": "LWLWL",
           "status": "same",
           "description": null,
           "all": {
-            "played": 20,
+            "played": 21,
             "win": 9,
             "draw": 4,
-            "lose": 7,
+            "lose": 8,
             "goals": {
               "for": 24,
-              "against": 22
+              "against": 24
             }
           },
           "home": {
@@ -1871,19 +1916,19 @@
             }
           },
           "away": {
-            "played": 10,
+            "played": 11,
             "win": 2,
             "draw": 3,
-            "lose": 5,
+            "lose": 6,
             "goals": {
               "for": 7,
-              "against": 13
+              "against": 15
             }
           },
           "update": "2025-08-10T00:00:00+00:00"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "team": {
             "id": 140,
             "name": "Criciuma",
@@ -1923,51 +1968,6 @@
             "goals": {
               "for": 9,
               "against": 9
-            }
-          },
-          "update": "2025-08-10T00:00:00+00:00"
-        },
-        {
-          "rank": 8,
-          "team": {
-            "id": 145,
-            "name": "Avai",
-            "logo": "https://media.api-sports.io/football/teams/145.png"
-          },
-          "points": 29,
-          "goalsDiff": 6,
-          "group": "Serie B",
-          "form": "DWLDL",
-          "status": "same",
-          "description": null,
-          "all": {
-            "played": 20,
-            "win": 7,
-            "draw": 8,
-            "lose": 5,
-            "goals": {
-              "for": 27,
-              "against": 21
-            }
-          },
-          "home": {
-            "played": 10,
-            "win": 5,
-            "draw": 4,
-            "lose": 1,
-            "goals": {
-              "for": 15,
-              "against": 5
-            }
-          },
-          "away": {
-            "played": 10,
-            "win": 2,
-            "draw": 4,
-            "lose": 4,
-            "goals": {
-              "for": 12,
-              "against": 16
             }
           },
           "update": "2025-08-10T00:00:00+00:00"
