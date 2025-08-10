@@ -1709,16 +1709,16 @@
             "name": "Novorizontino",
             "logo": "https://media.api-sports.io/football/teams/7834.png"
           },
-          "points": 35,
+          "points": 36,
           "goalsDiff": 7,
           "group": "Serie B",
-          "form": "DLWDW",
+          "form": "DDLWD",
           "status": "same",
           "description": "Promotion - Serie A Betano",
           "all": {
-            "played": 20,
+            "played": 21,
             "win": 9,
-            "draw": 8,
+            "draw": 9,
             "lose": 3,
             "goals": {
               "for": 24,
@@ -1736,9 +1736,9 @@
             }
           },
           "away": {
-            "played": 9,
+            "played": 10,
             "win": 2,
-            "draw": 4,
+            "draw": 5,
             "lose": 3,
             "goals": {
               "for": 5,
@@ -2290,6 +2290,51 @@
         {
           "rank": 16,
           "team": {
+            "id": 7814,
+            "name": "Volta Redonda",
+            "logo": "https://media.api-sports.io/football/teams/7814.png"
+          },
+          "points": 22,
+          "goalsDiff": -9,
+          "group": "Serie B",
+          "form": "DLWLW",
+          "status": "same",
+          "description": null,
+          "all": {
+            "played": 21,
+            "win": 5,
+            "draw": 7,
+            "lose": 9,
+            "goals": {
+              "for": 14,
+              "against": 23
+            }
+          },
+          "home": {
+            "played": 10,
+            "win": 5,
+            "draw": 4,
+            "lose": 1,
+            "goals": {
+              "for": 10,
+              "against": 6
+            }
+          },
+          "away": {
+            "played": 11,
+            "win": 0,
+            "draw": 3,
+            "lose": 8,
+            "goals": {
+              "for": 4,
+              "against": 17
+            }
+          },
+          "update": "2025-08-09T00:00:00+00:00"
+        },
+        {
+          "rank": 17,
+          "team": {
             "id": 125,
             "name": "America Mineiro",
             "logo": "https://media.api-sports.io/football/teams/125.png"
@@ -2299,7 +2344,7 @@
           "group": "Serie B",
           "form": "LLDLL",
           "status": "same",
-          "description": null,
+          "description": "Relegation - Serie C (First stage: )",
           "all": {
             "played": 21,
             "win": 6,
@@ -2327,51 +2372,6 @@
             "lose": 8,
             "goals": {
               "for": 8,
-              "against": 17
-            }
-          },
-          "update": "2025-08-09T00:00:00+00:00"
-        },
-        {
-          "rank": 17,
-          "team": {
-            "id": 7814,
-            "name": "Volta Redonda",
-            "logo": "https://media.api-sports.io/football/teams/7814.png"
-          },
-          "points": 21,
-          "goalsDiff": -9,
-          "group": "Serie B",
-          "form": "LWLWD",
-          "status": "same",
-          "description": "Relegation - Serie C (First stage: )",
-          "all": {
-            "played": 20,
-            "win": 5,
-            "draw": 6,
-            "lose": 9,
-            "goals": {
-              "for": 14,
-              "against": 23
-            }
-          },
-          "home": {
-            "played": 9,
-            "win": 5,
-            "draw": 3,
-            "lose": 1,
-            "goals": {
-              "for": 10,
-              "against": 6
-            }
-          },
-          "away": {
-            "played": 11,
-            "win": 0,
-            "draw": 3,
-            "lose": 8,
-            "goals": {
-              "for": 4,
               "against": 17
             }
           },
