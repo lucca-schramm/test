@@ -2020,6 +2020,51 @@
         {
           "rank": 10,
           "team": {
+            "id": 144,
+            "name": "Atletico Goianiense",
+            "logo": "https://media.api-sports.io/football/teams/144.png"
+          },
+          "points": 27,
+          "goalsDiff": 0,
+          "group": "Serie B",
+          "form": "WDDLL",
+          "status": "same",
+          "description": null,
+          "all": {
+            "played": 21,
+            "win": 6,
+            "draw": 9,
+            "lose": 6,
+            "goals": {
+              "for": 21,
+              "against": 21
+            }
+          },
+          "home": {
+            "played": 11,
+            "win": 5,
+            "draw": 4,
+            "lose": 2,
+            "goals": {
+              "for": 14,
+              "against": 8
+            }
+          },
+          "away": {
+            "played": 10,
+            "win": 1,
+            "draw": 5,
+            "lose": 4,
+            "goals": {
+              "for": 7,
+              "against": 13
+            }
+          },
+          "update": "2025-08-10T00:00:00+00:00"
+        },
+        {
+          "rank": 11,
+          "team": {
             "id": 1223,
             "name": "Operario-PR",
             "logo": "https://media.api-sports.io/football/teams/1223.png"
@@ -2063,7 +2108,7 @@
           "update": "2025-08-10T00:00:00+00:00"
         },
         {
-          "rank": 11,
+          "rank": 12,
           "team": {
             "id": 134,
             "name": "Atletico Paranaense",
@@ -2108,7 +2153,7 @@
           "update": "2025-08-10T00:00:00+00:00"
         },
         {
-          "rank": 12,
+          "rank": 13,
           "team": {
             "id": 7826,
             "name": "Ferroviária",
@@ -2153,7 +2198,7 @@
           "update": "2025-08-10T00:00:00+00:00"
         },
         {
-          "rank": 13,
+          "rank": 14,
           "team": {
             "id": 146,
             "name": "CRB",
@@ -2198,7 +2243,7 @@
           "update": "2025-08-10T00:00:00+00:00"
         },
         {
-          "rank": 14,
+          "rank": 15,
           "team": {
             "id": 13975,
             "name": "Athletic Club",
@@ -2238,51 +2283,6 @@
             "goals": {
               "for": 11,
               "against": 14
-            }
-          },
-          "update": "2025-08-10T00:00:00+00:00"
-        },
-        {
-          "rank": 15,
-          "team": {
-            "id": 144,
-            "name": "Atletico Goianiense",
-            "logo": "https://media.api-sports.io/football/teams/144.png"
-          },
-          "points": 24,
-          "goalsDiff": -2,
-          "group": "Serie B",
-          "form": "DDLLD",
-          "status": "same",
-          "description": null,
-          "all": {
-            "played": 20,
-            "win": 5,
-            "draw": 9,
-            "lose": 6,
-            "goals": {
-              "for": 19,
-              "against": 21
-            }
-          },
-          "home": {
-            "played": 10,
-            "win": 4,
-            "draw": 4,
-            "lose": 2,
-            "goals": {
-              "for": 12,
-              "against": 8
-            }
-          },
-          "away": {
-            "played": 10,
-            "win": 1,
-            "draw": 5,
-            "lose": 4,
-            "goals": {
-              "for": 7,
-              "against": 13
             }
           },
           "update": "2025-08-10T00:00:00+00:00"
@@ -2385,19 +2385,19 @@
             "logo": "https://media.api-sports.io/football/teams/2618.png"
           },
           "points": 21,
-          "goalsDiff": -14,
+          "goalsDiff": -16,
           "group": "Serie B",
-          "form": "WLLLD",
+          "form": "LWLLL",
           "status": "same",
           "description": "Relegation - Serie C (First stage: )",
           "all": {
-            "played": 20,
+            "played": 21,
             "win": 5,
             "draw": 6,
-            "lose": 9,
+            "lose": 10,
             "goals": {
               "for": 14,
-              "against": 28
+              "against": 30
             }
           },
           "home": {
@@ -2411,13 +2411,13 @@
             }
           },
           "away": {
-            "played": 9,
+            "played": 10,
             "win": 2,
             "draw": 1,
-            "lose": 6,
+            "lose": 7,
             "goals": {
               "for": 6,
-              "against": 17
+              "against": 19
             }
           },
           "update": "2025-08-10T00:00:00+00:00"
