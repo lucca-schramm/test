@@ -606,24 +606,69 @@
         {
           "rank": 8,
           "team": {
+            "id": 124,
+            "name": "Fluminense",
+            "logo": "https://media.api-sports.io/football/teams/124.png"
+          },
+          "points": 27,
+          "goalsDiff": -1,
+          "group": "Brasileiro Serie A 2025",
+          "form": "DWLLL",
+          "status": "same",
+          "description": "Copa Sudamericana",
+          "all": {
+            "played": 18,
+            "win": 8,
+            "draw": 3,
+            "lose": 7,
+            "goals": {
+              "for": 22,
+              "against": 23
+            }
+          },
+          "home": {
+            "played": 9,
+            "win": 6,
+            "draw": 1,
+            "lose": 2,
+            "goals": {
+              "for": 11,
+              "against": 8
+            }
+          },
+          "away": {
+            "played": 9,
+            "win": 2,
+            "draw": 2,
+            "lose": 5,
+            "goals": {
+              "for": 11,
+              "against": 15
+            }
+          },
+          "update": "2025-08-16T00:00:00+00:00"
+        },
+        {
+          "rank": 9,
+          "team": {
             "id": 794,
             "name": "RB Bragantino",
             "logo": "https://media.api-sports.io/football/teams/794.png"
           },
           "points": 27,
-          "goalsDiff": -3,
+          "goalsDiff": -4,
           "group": "Brasileiro Serie A 2025",
           "form": "LLLLL",
           "status": "same",
           "description": "Copa Sudamericana",
           "all": {
-            "played": 19,
+            "played": 20,
             "win": 8,
             "draw": 3,
-            "lose": 8,
+            "lose": 9,
             "goals": {
               "for": 22,
-              "against": 25
+              "against": 26
             }
           },
           "home": {
@@ -649,36 +694,36 @@
           "update": "2025-08-16T00:00:00+00:00"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "team": {
-            "id": 124,
-            "name": "Fluminense",
-            "logo": "https://media.api-sports.io/football/teams/124.png"
+            "id": 129,
+            "name": "Ceara",
+            "logo": "https://media.api-sports.io/football/teams/129.png"
           },
-          "points": 24,
-          "goalsDiff": -2,
+          "points": 25,
+          "goalsDiff": 0,
           "group": "Brasileiro Serie A 2025",
-          "form": "DWLLL",
+          "form": "LDWLL",
           "status": "same",
           "description": "Copa Sudamericana",
           "all": {
-            "played": 17,
+            "played": 19,
             "win": 7,
-            "draw": 3,
-            "lose": 7,
+            "draw": 4,
+            "lose": 8,
             "goals": {
-              "for": 21,
-              "against": 23
+              "for": 19,
+              "against": 19
             }
           },
           "home": {
-            "played": 8,
+            "played": 10,
             "win": 5,
-            "draw": 1,
-            "lose": 2,
+            "draw": 2,
+            "lose": 3,
             "goals": {
               "for": 10,
-              "against": 8
+              "against": 7
             }
           },
           "away": {
@@ -687,14 +732,14 @@
             "draw": 2,
             "lose": 5,
             "goals": {
-              "for": 11,
-              "against": 15
+              "for": 9,
+              "against": 12
             }
           },
           "update": "2025-08-16T00:00:00+00:00"
         },
         {
-          "rank": 10,
+          "rank": 11,
           "team": {
             "id": 1062,
             "name": "Atletico-MG",
@@ -739,7 +784,7 @@
           "update": "2025-08-16T00:00:00+00:00"
         },
         {
-          "rank": 11,
+          "rank": 12,
           "team": {
             "id": 119,
             "name": "Internacional",
@@ -779,51 +824,6 @@
             "goals": {
               "for": 10,
               "against": 15
-            }
-          },
-          "update": "2025-08-16T00:00:00+00:00"
-        },
-        {
-          "rank": 12,
-          "team": {
-            "id": 129,
-            "name": "Ceara",
-            "logo": "https://media.api-sports.io/football/teams/129.png"
-          },
-          "points": 22,
-          "goalsDiff": -1,
-          "group": "Brasileiro Serie A 2025",
-          "form": "LDWLL",
-          "status": "same",
-          "description": "Copa Sudamericana",
-          "all": {
-            "played": 18,
-            "win": 6,
-            "draw": 4,
-            "lose": 8,
-            "goals": {
-              "for": 18,
-              "against": 19
-            }
-          },
-          "home": {
-            "played": 9,
-            "win": 4,
-            "draw": 2,
-            "lose": 3,
-            "goals": {
-              "for": 9,
-              "against": 7
-            }
-          },
-          "away": {
-            "played": 9,
-            "win": 2,
-            "draw": 2,
-            "lose": 5,
-            "goals": {
-              "for": 9,
-              "against": 12
             }
           },
           "update": "2025-08-16T00:00:00+00:00"
@@ -1061,19 +1061,19 @@
             "logo": "https://media.api-sports.io/football/teams/154.png"
           },
           "points": 15,
-          "goalsDiff": -11,
+          "goalsDiff": -12,
           "group": "Brasileiro Serie A 2025",
           "form": "LDLWD",
           "status": "same",
           "description": "Relegation",
           "all": {
-            "played": 18,
+            "played": 19,
             "win": 3,
             "draw": 6,
-            "lose": 9,
+            "lose": 10,
             "goals": {
               "for": 18,
-              "against": 29
+              "against": 30
             }
           },
           "home": {
