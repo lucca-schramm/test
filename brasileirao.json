@@ -331,7 +331,7 @@
               "against": 6
             }
           },
-          "update": "2025-08-12T00:00:00+00:00"
+          "update": "2025-08-16T00:00:00+00:00"
         },
         {
           "rank": 2,
@@ -376,7 +376,7 @@
               "against": 5
             }
           },
-          "update": "2025-08-12T00:00:00+00:00"
+          "update": "2025-08-16T00:00:00+00:00"
         },
         {
           "rank": 3,
@@ -421,7 +421,7 @@
               "against": 8
             }
           },
-          "update": "2025-08-12T00:00:00+00:00"
+          "update": "2025-08-16T00:00:00+00:00"
         },
         {
           "rank": 4,
@@ -466,7 +466,7 @@
               "against": 8
             }
           },
-          "update": "2025-08-12T00:00:00+00:00"
+          "update": "2025-08-16T00:00:00+00:00"
         },
         {
           "rank": 5,
@@ -511,7 +511,7 @@
               "against": 3
             }
           },
-          "update": "2025-08-12T00:00:00+00:00"
+          "update": "2025-08-16T00:00:00+00:00"
         },
         {
           "rank": 6,
@@ -556,7 +556,7 @@
               "against": 10
             }
           },
-          "update": "2025-08-12T00:00:00+00:00"
+          "update": "2025-08-16T00:00:00+00:00"
         },
         {
           "rank": 7,
@@ -601,7 +601,7 @@
               "against": 11
             }
           },
-          "update": "2025-08-12T00:00:00+00:00"
+          "update": "2025-08-16T00:00:00+00:00"
         },
         {
           "rank": 8,
@@ -646,7 +646,7 @@
               "against": 11
             }
           },
-          "update": "2025-08-12T00:00:00+00:00"
+          "update": "2025-08-16T00:00:00+00:00"
         },
         {
           "rank": 9,
@@ -691,7 +691,7 @@
               "against": 15
             }
           },
-          "update": "2025-08-12T00:00:00+00:00"
+          "update": "2025-08-16T00:00:00+00:00"
         },
         {
           "rank": 10,
@@ -736,7 +736,7 @@
               "against": 13
             }
           },
-          "update": "2025-08-12T00:00:00+00:00"
+          "update": "2025-08-16T00:00:00+00:00"
         },
         {
           "rank": 11,
@@ -781,7 +781,7 @@
               "against": 15
             }
           },
-          "update": "2025-08-12T00:00:00+00:00"
+          "update": "2025-08-16T00:00:00+00:00"
         },
         {
           "rank": 12,
@@ -826,7 +826,7 @@
               "against": 12
             }
           },
-          "update": "2025-08-12T00:00:00+00:00"
+          "update": "2025-08-16T00:00:00+00:00"
         },
         {
           "rank": 13,
@@ -871,7 +871,7 @@
               "against": 15
             }
           },
-          "update": "2025-08-12T00:00:00+00:00"
+          "update": "2025-08-16T00:00:00+00:00"
         },
         {
           "rank": 14,
@@ -916,7 +916,7 @@
               "against": 15
             }
           },
-          "update": "2025-08-12T00:00:00+00:00"
+          "update": "2025-08-16T00:00:00+00:00"
         },
         {
           "rank": 15,
@@ -961,7 +961,7 @@
               "against": 16
             }
           },
-          "update": "2025-08-12T00:00:00+00:00"
+          "update": "2025-08-16T00:00:00+00:00"
         },
         {
           "rank": 16,
@@ -1006,7 +1006,7 @@
               "against": 12
             }
           },
-          "update": "2025-08-12T00:00:00+00:00"
+          "update": "2025-08-16T00:00:00+00:00"
         },
         {
           "rank": 17,
@@ -1051,7 +1051,7 @@
               "against": 15
             }
           },
-          "update": "2025-08-12T00:00:00+00:00"
+          "update": "2025-08-16T00:00:00+00:00"
         },
         {
           "rank": 18,
@@ -1096,7 +1096,7 @@
               "against": 14
             }
           },
-          "update": "2025-08-12T00:00:00+00:00"
+          "update": "2025-08-16T00:00:00+00:00"
         },
         {
           "rank": 19,
@@ -1141,7 +1141,7 @@
               "against": 27
             }
           },
-          "update": "2025-08-12T00:00:00+00:00"
+          "update": "2025-08-16T00:00:00+00:00"
         },
         {
           "rank": 20,
@@ -1186,7 +1186,7 @@
               "against": 14
             }
           },
-          "update": "2025-08-12T00:00:00+00:00"
+          "update": "2025-08-16T00:00:00+00:00"
         }
       ]
     ],
@@ -1870,6 +1870,51 @@
         {
           "rank": 16,
           "team": {
+            "id": 125,
+            "name": "America Mineiro",
+            "logo": "https://media.api-sports.io/football/teams/125.png"
+          },
+          "points": 22,
+          "goalsDiff": -8,
+          "group": "Serie B",
+          "form": "DLLDL",
+          "status": "same",
+          "description": null,
+          "all": {
+            "played": 22,
+            "win": 6,
+            "draw": 4,
+            "lose": 12,
+            "goals": {
+              "for": 23,
+              "against": 31
+            }
+          },
+          "home": {
+            "played": 11,
+            "win": 4,
+            "draw": 3,
+            "lose": 4,
+            "goals": {
+              "for": 13,
+              "against": 12
+            }
+          },
+          "away": {
+            "played": 11,
+            "win": 2,
+            "draw": 1,
+            "lose": 8,
+            "goals": {
+              "for": 10,
+              "against": 19
+            }
+          },
+          "update": "2025-08-15T00:00:00+00:00"
+        },
+        {
+          "rank": 17,
+          "team": {
             "id": 7814,
             "name": "Volta Redonda",
             "logo": "https://media.api-sports.io/football/teams/7814.png"
@@ -1879,7 +1924,7 @@
           "group": "Serie B",
           "form": "DLWLW",
           "status": "same",
-          "description": null,
+          "description": "Relegation - Serie C (First stage: )",
           "all": {
             "played": 21,
             "win": 5,
@@ -1907,51 +1952,6 @@
             "lose": 8,
             "goals": {
               "for": 4,
-              "against": 17
-            }
-          },
-          "update": "2025-08-15T00:00:00+00:00"
-        },
-        {
-          "rank": 17,
-          "team": {
-            "id": 125,
-            "name": "America Mineiro",
-            "logo": "https://media.api-sports.io/football/teams/125.png"
-          },
-          "points": 21,
-          "goalsDiff": -8,
-          "group": "Serie B",
-          "form": "LLDLL",
-          "status": "same",
-          "description": "Relegation - Serie C (First stage: )",
-          "all": {
-            "played": 21,
-            "win": 6,
-            "draw": 3,
-            "lose": 12,
-            "goals": {
-              "for": 21,
-              "against": 29
-            }
-          },
-          "home": {
-            "played": 11,
-            "win": 4,
-            "draw": 3,
-            "lose": 4,
-            "goals": {
-              "for": 13,
-              "against": 12
-            }
-          },
-          "away": {
-            "played": 10,
-            "win": 2,
-            "draw": 0,
-            "lose": 8,
-            "goals": {
-              "for": 8,
               "against": 17
             }
           },
@@ -2054,30 +2054,30 @@
             "name": "Amazonas",
             "logo": "https://media.api-sports.io/football/teams/10862.png"
           },
-          "points": 20,
+          "points": 21,
           "goalsDiff": -8,
           "group": "Serie B",
-          "form": "LDDDW",
+          "form": "DLDDD",
           "status": "same",
           "description": "Relegation - Serie C (First stage: )",
           "all": {
-            "played": 21,
+            "played": 22,
             "win": 4,
-            "draw": 8,
+            "draw": 9,
             "lose": 9,
             "goals": {
-              "for": 21,
-              "against": 29
+              "for": 23,
+              "against": 31
             }
           },
           "home": {
-            "played": 11,
+            "played": 12,
             "win": 4,
-            "draw": 5,
+            "draw": 6,
             "lose": 2,
             "goals": {
-              "for": 13,
-              "against": 9
+              "for": 15,
+              "against": 11
             }
           },
           "away": {
