@@ -1245,19 +1245,19 @@
             "logo": "https://media.api-sports.io/football/teams/151.png"
           },
           "points": 41,
-          "goalsDiff": 10,
+          "goalsDiff": 8,
           "group": "Serie B",
-          "form": "WDDLW",
+          "form": "LWDDL",
           "status": "same",
           "description": "Promotion - Serie A Betano",
           "all": {
-            "played": 21,
+            "played": 22,
             "win": 12,
             "draw": 5,
-            "lose": 4,
+            "lose": 5,
             "goals": {
               "for": 28,
-              "against": 18
+              "against": 20
             }
           },
           "home": {
@@ -1271,13 +1271,13 @@
             }
           },
           "away": {
-            "played": 10,
+            "played": 11,
             "win": 5,
             "draw": 2,
-            "lose": 3,
+            "lose": 4,
             "goals": {
               "for": 10,
-              "against": 9
+              "against": 11
             }
           },
           "update": "2025-08-16T00:00:00+00:00"
@@ -1420,6 +1420,51 @@
         {
           "rank": 6,
           "team": {
+            "id": 142,
+            "name": "Vila Nova",
+            "logo": "https://media.api-sports.io/football/teams/142.png"
+          },
+          "points": 33,
+          "goalsDiff": 2,
+          "group": "Serie B",
+          "form": "WWLLW",
+          "status": "same",
+          "description": null,
+          "all": {
+            "played": 22,
+            "win": 10,
+            "draw": 3,
+            "lose": 9,
+            "goals": {
+              "for": 22,
+              "against": 20
+            }
+          },
+          "home": {
+            "played": 11,
+            "win": 7,
+            "draw": 1,
+            "lose": 3,
+            "goals": {
+              "for": 12,
+              "against": 7
+            }
+          },
+          "away": {
+            "played": 11,
+            "win": 3,
+            "draw": 2,
+            "lose": 6,
+            "goals": {
+              "for": 10,
+              "against": 13
+            }
+          },
+          "update": "2025-08-16T00:00:00+00:00"
+        },
+        {
+          "rank": 7,
+          "team": {
             "id": 140,
             "name": "Criciuma",
             "logo": "https://media.api-sports.io/football/teams/140.png"
@@ -1463,7 +1508,7 @@
           "update": "2025-08-16T00:00:00+00:00"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "team": {
             "id": 145,
             "name": "Avai",
@@ -1508,7 +1553,7 @@
           "update": "2025-08-16T00:00:00+00:00"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "team": {
             "id": 1193,
             "name": "Cuiaba",
@@ -1548,51 +1593,6 @@
             "goals": {
               "for": 7,
               "against": 15
-            }
-          },
-          "update": "2025-08-16T00:00:00+00:00"
-        },
-        {
-          "rank": 9,
-          "team": {
-            "id": 142,
-            "name": "Vila Nova",
-            "logo": "https://media.api-sports.io/football/teams/142.png"
-          },
-          "points": 30,
-          "goalsDiff": 0,
-          "group": "Serie B",
-          "form": "WLLWD",
-          "status": "same",
-          "description": null,
-          "all": {
-            "played": 21,
-            "win": 9,
-            "draw": 3,
-            "lose": 9,
-            "goals": {
-              "for": 20,
-              "against": 20
-            }
-          },
-          "home": {
-            "played": 10,
-            "win": 6,
-            "draw": 1,
-            "lose": 3,
-            "goals": {
-              "for": 10,
-              "against": 7
-            }
-          },
-          "away": {
-            "played": 11,
-            "win": 3,
-            "draw": 2,
-            "lose": 6,
-            "goals": {
-              "for": 10,
-              "against": 13
             }
           },
           "update": "2025-08-16T00:00:00+00:00"
