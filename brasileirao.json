@@ -1285,6 +1285,51 @@
         {
           "rank": 3,
           "team": {
+            "id": 132,
+            "name": "Chapecoense-sc",
+            "logo": "https://media.api-sports.io/football/teams/132.png"
+          },
+          "points": 37,
+          "goalsDiff": 10,
+          "group": "Serie B",
+          "form": "WDWDW",
+          "status": "same",
+          "description": "Promotion - Serie A Betano",
+          "all": {
+            "played": 22,
+            "win": 11,
+            "draw": 4,
+            "lose": 7,
+            "goals": {
+              "for": 30,
+              "against": 20
+            }
+          },
+          "home": {
+            "played": 11,
+            "win": 8,
+            "draw": 1,
+            "lose": 2,
+            "goals": {
+              "for": 23,
+              "against": 12
+            }
+          },
+          "away": {
+            "played": 11,
+            "win": 3,
+            "draw": 3,
+            "lose": 5,
+            "goals": {
+              "for": 7,
+              "against": 8
+            }
+          },
+          "update": "2025-08-17T00:00:00+00:00"
+        },
+        {
+          "rank": 4,
+          "team": {
             "id": 7834,
             "name": "Novorizontino",
             "logo": "https://media.api-sports.io/football/teams/7834.png"
@@ -1323,51 +1368,6 @@
             "goals": {
               "for": 5,
               "against": 9
-            }
-          },
-          "update": "2025-08-17T00:00:00+00:00"
-        },
-        {
-          "rank": 4,
-          "team": {
-            "id": 132,
-            "name": "Chapecoense-sc",
-            "logo": "https://media.api-sports.io/football/teams/132.png"
-          },
-          "points": 34,
-          "goalsDiff": 8,
-          "group": "Serie B",
-          "form": "DWDWW",
-          "status": "same",
-          "description": "Promotion - Serie A Betano",
-          "all": {
-            "played": 21,
-            "win": 10,
-            "draw": 4,
-            "lose": 7,
-            "goals": {
-              "for": 28,
-              "against": 20
-            }
-          },
-          "home": {
-            "played": 10,
-            "win": 7,
-            "draw": 1,
-            "lose": 2,
-            "goals": {
-              "for": 21,
-              "against": 12
-            }
-          },
-          "away": {
-            "played": 11,
-            "win": 3,
-            "draw": 3,
-            "lose": 5,
-            "goals": {
-              "for": 7,
-              "against": 8
             }
           },
           "update": "2025-08-17T00:00:00+00:00"
@@ -2010,19 +2010,19 @@
             "logo": "https://media.api-sports.io/football/teams/149.png"
           },
           "points": 21,
-          "goalsDiff": -4,
+          "goalsDiff": -6,
           "group": "Serie B",
-          "form": "LDDDW",
+          "form": "LLDDD",
           "status": "same",
           "description": "Relegation - Serie C (First stage: )",
           "all": {
-            "played": 21,
+            "played": 22,
             "win": 4,
             "draw": 9,
-            "lose": 8,
+            "lose": 9,
             "goals": {
               "for": 19,
-              "against": 23
+              "against": 25
             }
           },
           "home": {
@@ -2036,13 +2036,13 @@
             }
           },
           "away": {
-            "played": 11,
+            "played": 12,
             "win": 2,
             "draw": 5,
-            "lose": 4,
+            "lose": 5,
             "goals": {
               "for": 11,
-              "against": 12
+              "against": 14
             }
           },
           "update": "2025-08-17T00:00:00+00:00"
