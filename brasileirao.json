@@ -1600,6 +1600,51 @@
         {
           "rank": 10,
           "team": {
+            "id": 7826,
+            "name": "Ferroviária",
+            "logo": "https://media.api-sports.io/football/teams/7826.png"
+          },
+          "points": 29,
+          "goalsDiff": 1,
+          "group": "Serie B",
+          "form": "WWWDD",
+          "status": "same",
+          "description": null,
+          "all": {
+            "played": 22,
+            "win": 7,
+            "draw": 8,
+            "lose": 7,
+            "goals": {
+              "for": 25,
+              "against": 24
+            }
+          },
+          "home": {
+            "played": 10,
+            "win": 4,
+            "draw": 4,
+            "lose": 2,
+            "goals": {
+              "for": 12,
+              "against": 10
+            }
+          },
+          "away": {
+            "played": 12,
+            "win": 3,
+            "draw": 4,
+            "lose": 5,
+            "goals": {
+              "for": 13,
+              "against": 14
+            }
+          },
+          "update": "2025-08-17T00:00:00+00:00"
+        },
+        {
+          "rank": 11,
+          "team": {
             "id": 146,
             "name": "CRB",
             "logo": "https://media.api-sports.io/football/teams/146.png"
@@ -1643,7 +1688,7 @@
           "update": "2025-08-17T00:00:00+00:00"
         },
         {
-          "rank": 11,
+          "rank": 12,
           "team": {
             "id": 134,
             "name": "Atletico Paranaense",
@@ -1688,36 +1733,36 @@
           "update": "2025-08-17T00:00:00+00:00"
         },
         {
-          "rank": 12,
+          "rank": 13,
           "team": {
             "id": 144,
             "name": "Atletico Goianiense",
             "logo": "https://media.api-sports.io/football/teams/144.png"
           },
           "points": 27,
-          "goalsDiff": 0,
+          "goalsDiff": -2,
           "group": "Serie B",
-          "form": "WDDLL",
+          "form": "LWDDL",
           "status": "same",
           "description": null,
           "all": {
-            "played": 21,
+            "played": 22,
             "win": 6,
             "draw": 9,
-            "lose": 6,
+            "lose": 7,
             "goals": {
-              "for": 21,
-              "against": 21
+              "for": 22,
+              "against": 24
             }
           },
           "home": {
-            "played": 11,
+            "played": 12,
             "win": 5,
             "draw": 4,
-            "lose": 2,
+            "lose": 3,
             "goals": {
-              "for": 14,
-              "against": 8
+              "for": 15,
+              "against": 11
             }
           },
           "away": {
@@ -1733,7 +1778,7 @@
           "update": "2025-08-17T00:00:00+00:00"
         },
         {
-          "rank": 13,
+          "rank": 14,
           "team": {
             "id": 1223,
             "name": "Operario-PR",
@@ -1773,51 +1818,6 @@
             "goals": {
               "for": 8,
               "against": 15
-            }
-          },
-          "update": "2025-08-17T00:00:00+00:00"
-        },
-        {
-          "rank": 14,
-          "team": {
-            "id": 7826,
-            "name": "Ferroviária",
-            "logo": "https://media.api-sports.io/football/teams/7826.png"
-          },
-          "points": 26,
-          "goalsDiff": -1,
-          "group": "Serie B",
-          "form": "WWDDL",
-          "status": "same",
-          "description": null,
-          "all": {
-            "played": 21,
-            "win": 6,
-            "draw": 8,
-            "lose": 7,
-            "goals": {
-              "for": 22,
-              "against": 23
-            }
-          },
-          "home": {
-            "played": 10,
-            "win": 4,
-            "draw": 4,
-            "lose": 2,
-            "goals": {
-              "for": 12,
-              "against": 10
-            }
-          },
-          "away": {
-            "played": 11,
-            "win": 2,
-            "draw": 4,
-            "lose": 5,
-            "goals": {
-              "for": 10,
-              "against": 13
             }
           },
           "update": "2025-08-17T00:00:00+00:00"
