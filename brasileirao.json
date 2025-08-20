@@ -971,19 +971,19 @@
             "logo": "https://media.api-sports.io/football/teams/133.png"
           },
           "points": 19,
-          "goalsDiff": 1,
+          "goalsDiff": -1,
           "group": "Brasileiro Serie A 2025",
           "form": "WDLDD",
           "status": "same",
           "description": null,
           "all": {
-            "played": 18,
+            "played": 19,
             "win": 5,
             "draw": 4,
-            "lose": 9,
+            "lose": 10,
             "goals": {
               "for": 25,
-              "against": 24
+              "against": 26
             }
           },
           "home": {
@@ -997,13 +997,13 @@
             }
           },
           "away": {
-            "played": 9,
+            "played": 10,
             "win": 2,
             "draw": 1,
-            "lose": 6,
+            "lose": 7,
             "goals": {
               "for": 15,
-              "against": 15
+              "against": 17
             }
           },
           "update": "2025-08-20T00:00:00+00:00"
@@ -1060,29 +1060,29 @@
             "name": "Juventude",
             "logo": "https://media.api-sports.io/football/teams/152.png"
           },
-          "points": 15,
-          "goalsDiff": -23,
+          "points": 18,
+          "goalsDiff": -21,
           "group": "Brasileiro Serie A 2025",
           "form": "DWLLL",
           "status": "same",
           "description": "Relegation",
           "all": {
-            "played": 18,
-            "win": 4,
+            "played": 19,
+            "win": 5,
             "draw": 3,
             "lose": 11,
             "goals": {
-              "for": 15,
+              "for": 17,
               "against": 38
             }
           },
           "home": {
-            "played": 9,
-            "win": 4,
+            "played": 10,
+            "win": 5,
             "draw": 2,
             "lose": 3,
             "goals": {
-              "for": 11,
+              "for": 13,
               "against": 9
             }
           },
