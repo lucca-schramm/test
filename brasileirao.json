@@ -946,6 +946,53 @@
       {
         "rank": 1,
         "team": {
+          "id": 151,
+          "name": "Goias",
+          "logo": "https://media.api-sports.io/football/teams/151.png"
+        },
+        "points": 44,
+        "goalsDiff": 9,
+        "group": "Serie B",
+        "form": "WLWDD",
+        "status": "same",
+        "description": "Promotion - Serie A Betano",
+        "all": {
+          "played": 23,
+          "win": 13,
+          "draw": 5,
+          "lose": 5,
+          "goals": {
+            "for": 29,
+            "against": 20
+          }
+        },
+        "home": {
+          "played": 12,
+          "win": 8,
+          "draw": 3,
+          "lose": 1,
+          "goals": {
+            "for": 19,
+            "against": 9
+          }
+        },
+        "away": {
+          "played": 11,
+          "win": 5,
+          "draw": 2,
+          "lose": 4,
+          "goals": {
+            "for": 10,
+            "against": 11
+          }
+        },
+        "update": "2025-08-23T00:00:00+00:00",
+        "btts_matches": 11,
+        "avg_corners_per_game": 3.45
+      },
+      {
+        "rank": 2,
+        "team": {
           "id": 147,
           "name": "Coritiba",
           "logo": "https://media.api-sports.io/football/teams/147.png"
@@ -989,53 +1036,6 @@
         "update": "2025-08-23T00:00:00+00:00",
         "btts_matches": 8,
         "avg_corners_per_game": 3.34
-      },
-      {
-        "rank": 2,
-        "team": {
-          "id": 151,
-          "name": "Goias",
-          "logo": "https://media.api-sports.io/football/teams/151.png"
-        },
-        "points": 41,
-        "goalsDiff": 8,
-        "group": "Serie B",
-        "form": "LWDDL",
-        "status": "same",
-        "description": "Promotion - Serie A Betano",
-        "all": {
-          "played": 22,
-          "win": 12,
-          "draw": 5,
-          "lose": 5,
-          "goals": {
-            "for": 28,
-            "against": 20
-          }
-        },
-        "home": {
-          "played": 11,
-          "win": 7,
-          "draw": 3,
-          "lose": 1,
-          "goals": {
-            "for": 18,
-            "against": 9
-          }
-        },
-        "away": {
-          "played": 11,
-          "win": 5,
-          "draw": 2,
-          "lose": 4,
-          "goals": {
-            "for": 10,
-            "against": 11
-          }
-        },
-        "update": "2025-08-23T00:00:00+00:00",
-        "btts_matches": 11,
-        "avg_corners_per_game": 3.45
       },
       {
         "rank": 3,
@@ -1656,19 +1656,19 @@
           "logo": "https://media.api-sports.io/football/teams/125.png"
         },
         "points": 22,
-        "goalsDiff": -8,
+        "goalsDiff": -9,
         "group": "Serie B",
-        "form": "DLLDL",
+        "form": "LDLLD",
         "status": "same",
         "description": null,
         "all": {
-          "played": 22,
+          "played": 23,
           "win": 6,
           "draw": 4,
-          "lose": 12,
+          "lose": 13,
           "goals": {
             "for": 23,
-            "against": 31
+            "against": 32
           }
         },
         "home": {
@@ -1682,13 +1682,13 @@
           }
         },
         "away": {
-          "played": 11,
+          "played": 12,
           "win": 2,
           "draw": 1,
-          "lose": 8,
+          "lose": 9,
           "goals": {
             "for": 10,
-            "against": 19
+            "against": 20
           }
         },
         "update": "2025-08-23T00:00:00+00:00",
