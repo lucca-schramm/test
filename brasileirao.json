@@ -336,6 +336,51 @@
         {
           "rank": 2,
           "team": {
+            "id": 121,
+            "name": "Palmeiras",
+            "logo": "https://media.api-sports.io/football/teams/121.png"
+          },
+          "points": 42,
+          "goalsDiff": 10,
+          "group": "Brasileiro Serie A 2025",
+          "form": "WWDWW",
+          "status": "same",
+          "description": "Copa Libertadores",
+          "all": {
+            "played": 19,
+            "win": 13,
+            "draw": 3,
+            "lose": 3,
+            "goals": {
+              "for": 25,
+              "against": 15
+            }
+          },
+          "home": {
+            "played": 10,
+            "win": 6,
+            "draw": 2,
+            "lose": 2,
+            "goals": {
+              "for": 11,
+              "against": 7
+            }
+          },
+          "away": {
+            "played": 9,
+            "win": 7,
+            "draw": 1,
+            "lose": 1,
+            "goals": {
+              "for": 14,
+              "against": 8
+            }
+          },
+          "update": "2025-08-25T00:00:00+00:00"
+        },
+        {
+          "rank": 3,
+          "team": {
             "id": 135,
             "name": "Cruzeiro",
             "logo": "https://media.api-sports.io/football/teams/135.png"
@@ -374,51 +419,6 @@
             "goals": {
               "for": 12,
               "against": 6
-            }
-          },
-          "update": "2025-08-25T00:00:00+00:00"
-        },
-        {
-          "rank": 3,
-          "team": {
-            "id": 121,
-            "name": "Palmeiras",
-            "logo": "https://media.api-sports.io/football/teams/121.png"
-          },
-          "points": 39,
-          "goalsDiff": 9,
-          "group": "Brasileiro Serie A 2025",
-          "form": "WWDWW",
-          "status": "same",
-          "description": "Copa Libertadores",
-          "all": {
-            "played": 18,
-            "win": 12,
-            "draw": 3,
-            "lose": 3,
-            "goals": {
-              "for": 24,
-              "against": 15
-            }
-          },
-          "home": {
-            "played": 9,
-            "win": 5,
-            "draw": 2,
-            "lose": 2,
-            "goals": {
-              "for": 10,
-              "against": 7
-            }
-          },
-          "away": {
-            "played": 9,
-            "win": 7,
-            "draw": 1,
-            "lose": 1,
-            "goals": {
-              "for": 14,
-              "against": 8
             }
           },
           "update": "2025-08-25T00:00:00+00:00"
@@ -1151,19 +1151,19 @@
             "logo": "https://media.api-sports.io/football/teams/123.png"
           },
           "points": 10,
-          "goalsDiff": -15,
+          "goalsDiff": -16,
           "group": "Brasileiro Serie A 2025",
           "form": "DWDDD",
           "status": "same",
           "description": "Relegation",
           "all": {
-            "played": 18,
+            "played": 19,
             "win": 1,
             "draw": 7,
-            "lose": 10,
+            "lose": 11,
             "goals": {
               "for": 12,
-              "against": 27
+              "against": 28
             }
           },
           "home": {
@@ -1177,13 +1177,13 @@
             }
           },
           "away": {
-            "played": 9,
+            "played": 10,
             "win": 1,
             "draw": 2,
-            "lose": 6,
+            "lose": 7,
             "goals": {
               "for": 6,
-              "against": 14
+              "against": 15
             }
           },
           "update": "2025-08-25T00:00:00+00:00"
