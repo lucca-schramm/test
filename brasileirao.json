@@ -1375,6 +1375,51 @@
         {
           "rank": 5,
           "team": {
+            "id": 1198,
+            "name": "remo",
+            "logo": "https://media.api-sports.io/football/teams/1198.png"
+          },
+          "points": 38,
+          "goalsDiff": 5,
+          "group": "Serie B",
+          "form": "WLDDW",
+          "status": "same",
+          "description": null,
+          "all": {
+            "played": 25,
+            "win": 9,
+            "draw": 11,
+            "lose": 5,
+            "goals": {
+              "for": 27,
+              "against": 22
+            }
+          },
+          "home": {
+            "played": 13,
+            "win": 6,
+            "draw": 4,
+            "lose": 3,
+            "goals": {
+              "for": 13,
+              "against": 9
+            }
+          },
+          "away": {
+            "played": 12,
+            "win": 3,
+            "draw": 7,
+            "lose": 2,
+            "goals": {
+              "for": 14,
+              "against": 13
+            }
+          },
+          "update": "2025-09-05T00:00:00+00:00"
+        },
+        {
+          "rank": 6,
+          "team": {
             "id": 7834,
             "name": "Novorizontino",
             "logo": "https://media.api-sports.io/football/teams/7834.png"
@@ -1413,51 +1458,6 @@
             "goals": {
               "for": 6,
               "against": 13
-            }
-          },
-          "update": "2025-09-05T00:00:00+00:00"
-        },
-        {
-          "rank": 6,
-          "team": {
-            "id": 1198,
-            "name": "remo",
-            "logo": "https://media.api-sports.io/football/teams/1198.png"
-          },
-          "points": 35,
-          "goalsDiff": 3,
-          "group": "Serie B",
-          "form": "LDDWL",
-          "status": "same",
-          "description": null,
-          "all": {
-            "played": 24,
-            "win": 8,
-            "draw": 11,
-            "lose": 5,
-            "goals": {
-              "for": 24,
-              "against": 21
-            }
-          },
-          "home": {
-            "played": 13,
-            "win": 6,
-            "draw": 4,
-            "lose": 3,
-            "goals": {
-              "for": 13,
-              "against": 9
-            }
-          },
-          "away": {
-            "played": 11,
-            "win": 2,
-            "draw": 7,
-            "lose": 2,
-            "goals": {
-              "for": 11,
-              "against": 12
             }
           },
           "update": "2025-09-05T00:00:00+00:00"
@@ -1965,29 +1965,29 @@
             "logo": "https://media.api-sports.io/football/teams/10862.png"
           },
           "points": 24,
-          "goalsDiff": -9,
+          "goalsDiff": -11,
           "group": "Serie B",
-          "form": "LWDLD",
+          "form": "LLWDL",
           "status": "same",
           "description": "Relegation - Serie C (First stage: )",
           "all": {
-            "played": 24,
+            "played": 25,
             "win": 5,
             "draw": 9,
-            "lose": 10,
+            "lose": 11,
             "goals": {
-              "for": 25,
-              "against": 34
+              "for": 26,
+              "against": 37
             }
           },
           "home": {
-            "played": 12,
+            "played": 13,
             "win": 4,
             "draw": 6,
-            "lose": 2,
+            "lose": 3,
             "goals": {
-              "for": 15,
-              "against": 11
+              "for": 16,
+              "against": 14
             }
           },
           "away": {
