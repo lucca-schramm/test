@@ -1420,6 +1420,51 @@
         {
           "rank": 6,
           "team": {
+            "id": 134,
+            "name": "Atletico Paranaense",
+            "logo": "https://media.api-sports.io/football/teams/134.png"
+          },
+          "points": 36,
+          "goalsDiff": 0,
+          "group": "Serie B",
+          "form": "WWWDL",
+          "status": "same",
+          "description": null,
+          "all": {
+            "played": 25,
+            "win": 10,
+            "draw": 6,
+            "lose": 9,
+            "goals": {
+              "for": 34,
+              "against": 34
+            }
+          },
+          "home": {
+            "played": 13,
+            "win": 5,
+            "draw": 4,
+            "lose": 4,
+            "goals": {
+              "for": 14,
+              "against": 14
+            }
+          },
+          "away": {
+            "played": 12,
+            "win": 5,
+            "draw": 2,
+            "lose": 5,
+            "goals": {
+              "for": 20,
+              "against": 20
+            }
+          },
+          "update": "2025-09-06T00:00:00+00:00"
+        },
+        {
+          "rank": 7,
+          "team": {
             "id": 7834,
             "name": "Novorizontino",
             "logo": "https://media.api-sports.io/football/teams/7834.png"
@@ -1463,7 +1508,7 @@
           "update": "2025-09-06T00:00:00+00:00"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "team": {
             "id": 146,
             "name": "CRB",
@@ -1508,7 +1553,7 @@
           "update": "2025-09-06T00:00:00+00:00"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "team": {
             "id": 142,
             "name": "Vila Nova",
@@ -1553,7 +1598,7 @@
           "update": "2025-09-06T00:00:00+00:00"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "team": {
             "id": 1193,
             "name": "Cuiaba",
@@ -1598,7 +1643,7 @@
           "update": "2025-09-06T00:00:00+00:00"
         },
         {
-          "rank": 10,
+          "rank": 11,
           "team": {
             "id": 1223,
             "name": "Operario-PR",
@@ -1638,51 +1683,6 @@
             "goals": {
               "for": 10,
               "against": 16
-            }
-          },
-          "update": "2025-09-06T00:00:00+00:00"
-        },
-        {
-          "rank": 11,
-          "team": {
-            "id": 134,
-            "name": "Atletico Paranaense",
-            "logo": "https://media.api-sports.io/football/teams/134.png"
-          },
-          "points": 33,
-          "goalsDiff": -2,
-          "group": "Serie B",
-          "form": "WWDLD",
-          "status": "same",
-          "description": null,
-          "all": {
-            "played": 24,
-            "win": 9,
-            "draw": 6,
-            "lose": 9,
-            "goals": {
-              "for": 31,
-              "against": 33
-            }
-          },
-          "home": {
-            "played": 13,
-            "win": 5,
-            "draw": 4,
-            "lose": 4,
-            "goals": {
-              "for": 14,
-              "against": 14
-            }
-          },
-          "away": {
-            "played": 11,
-            "win": 4,
-            "draw": 2,
-            "lose": 5,
-            "goals": {
-              "for": 17,
-              "against": 19
             }
           },
           "update": "2025-09-06T00:00:00+00:00"
@@ -1875,29 +1875,29 @@
             "logo": "https://media.api-sports.io/football/teams/2618.png"
           },
           "points": 28,
-          "goalsDiff": -13,
+          "goalsDiff": -15,
           "group": "Serie B",
-          "form": "WWDLW",
+          "form": "LWWDL",
           "status": "same",
           "description": null,
           "all": {
-            "played": 24,
+            "played": 25,
             "win": 7,
             "draw": 7,
-            "lose": 10,
+            "lose": 11,
             "goals": {
-              "for": 20,
-              "against": 33
+              "for": 21,
+              "against": 36
             }
           },
           "home": {
-            "played": 12,
+            "played": 13,
             "win": 4,
             "draw": 5,
-            "lose": 3,
+            "lose": 4,
             "goals": {
-              "for": 10,
-              "against": 11
+              "for": 11,
+              "against": 14
             }
           },
           "away": {
