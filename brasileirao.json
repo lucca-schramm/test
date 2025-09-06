@@ -1915,6 +1915,51 @@
         {
           "rank": 17,
           "team": {
+            "id": 7814,
+            "name": "Volta Redonda",
+            "logo": "https://media.api-sports.io/football/teams/7814.png"
+          },
+          "points": 26,
+          "goalsDiff": -11,
+          "group": "Serie B",
+          "form": "WLDLD",
+          "status": "same",
+          "description": "Relegation - Serie C (First stage: )",
+          "all": {
+            "played": 25,
+            "win": 6,
+            "draw": 8,
+            "lose": 11,
+            "goals": {
+              "for": 16,
+              "against": 27
+            }
+          },
+          "home": {
+            "played": 12,
+            "win": 5,
+            "draw": 4,
+            "lose": 3,
+            "goals": {
+              "for": 10,
+              "against": 9
+            }
+          },
+          "away": {
+            "played": 13,
+            "win": 1,
+            "draw": 4,
+            "lose": 8,
+            "goals": {
+              "for": 6,
+              "against": 18
+            }
+          },
+          "update": "2025-09-05T00:00:00+00:00"
+        },
+        {
+          "rank": 18,
+          "team": {
             "id": 125,
             "name": "America Mineiro",
             "logo": "https://media.api-sports.io/football/teams/125.png"
@@ -1958,7 +2003,7 @@
           "update": "2025-09-05T00:00:00+00:00"
         },
         {
-          "rank": 18,
+          "rank": 19,
           "team": {
             "id": 10862,
             "name": "Amazonas",
@@ -2003,51 +2048,6 @@
           "update": "2025-09-05T00:00:00+00:00"
         },
         {
-          "rank": 19,
-          "team": {
-            "id": 7814,
-            "name": "Volta Redonda",
-            "logo": "https://media.api-sports.io/football/teams/7814.png"
-          },
-          "points": 23,
-          "goalsDiff": -12,
-          "group": "Serie B",
-          "form": "LDLDL",
-          "status": "same",
-          "description": "Relegation - Serie C (First stage: )",
-          "all": {
-            "played": 24,
-            "win": 5,
-            "draw": 8,
-            "lose": 11,
-            "goals": {
-              "for": 14,
-              "against": 26
-            }
-          },
-          "home": {
-            "played": 12,
-            "win": 5,
-            "draw": 4,
-            "lose": 3,
-            "goals": {
-              "for": 10,
-              "against": 9
-            }
-          },
-          "away": {
-            "played": 12,
-            "win": 0,
-            "draw": 4,
-            "lose": 8,
-            "goals": {
-              "for": 4,
-              "against": 17
-            }
-          },
-          "update": "2025-09-05T00:00:00+00:00"
-        },
-        {
           "rank": 20,
           "team": {
             "id": 149,
@@ -2055,29 +2055,29 @@
             "logo": "https://media.api-sports.io/football/teams/149.png"
           },
           "points": 21,
-          "goalsDiff": -9,
+          "goalsDiff": -10,
           "group": "Serie B",
-          "form": "LLLLD",
+          "form": "LLLLL",
           "status": "same",
           "description": "Relegation - Serie C (First stage: )",
           "all": {
-            "played": 24,
+            "played": 25,
             "win": 4,
             "draw": 9,
-            "lose": 11,
+            "lose": 12,
             "goals": {
-              "for": 20,
-              "against": 29
+              "for": 21,
+              "against": 31
             }
           },
           "home": {
-            "played": 11,
+            "played": 12,
             "win": 2,
             "draw": 4,
-            "lose": 5,
+            "lose": 6,
             "goals": {
-              "for": 9,
-              "against": 13
+              "for": 10,
+              "against": 15
             }
           },
           "away": {
