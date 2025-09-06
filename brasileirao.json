@@ -1195,6 +1195,51 @@
         {
           "rank": 1,
           "team": {
+            "id": 147,
+            "name": "Coritiba",
+            "logo": "https://media.api-sports.io/football/teams/147.png"
+          },
+          "points": 46,
+          "goalsDiff": 12,
+          "group": "Serie B",
+          "form": "WLDWD",
+          "status": "same",
+          "description": "Promotion - Serie A Betano",
+          "all": {
+            "played": 25,
+            "win": 13,
+            "draw": 7,
+            "lose": 5,
+            "goals": {
+              "for": 28,
+              "against": 16
+            }
+          },
+          "home": {
+            "played": 12,
+            "win": 7,
+            "draw": 4,
+            "lose": 1,
+            "goals": {
+              "for": 17,
+              "against": 7
+            }
+          },
+          "away": {
+            "played": 13,
+            "win": 6,
+            "draw": 3,
+            "lose": 4,
+            "goals": {
+              "for": 11,
+              "against": 9
+            }
+          },
+          "update": "2025-09-05T00:00:00+00:00"
+        },
+        {
+          "rank": 2,
+          "team": {
             "id": 151,
             "name": "Goias",
             "logo": "https://media.api-sports.io/football/teams/151.png"
@@ -1233,51 +1278,6 @@
             "goals": {
               "for": 10,
               "against": 11
-            }
-          },
-          "update": "2025-09-05T00:00:00+00:00"
-        },
-        {
-          "rank": 2,
-          "team": {
-            "id": 147,
-            "name": "Coritiba",
-            "logo": "https://media.api-sports.io/football/teams/147.png"
-          },
-          "points": 43,
-          "goalsDiff": 8,
-          "group": "Serie B",
-          "form": "LDWDW",
-          "status": "same",
-          "description": "Promotion - Serie A Betano",
-          "all": {
-            "played": 24,
-            "win": 12,
-            "draw": 7,
-            "lose": 5,
-            "goals": {
-              "for": 24,
-              "against": 16
-            }
-          },
-          "home": {
-            "played": 11,
-            "win": 6,
-            "draw": 4,
-            "lose": 1,
-            "goals": {
-              "for": 13,
-              "against": 7
-            }
-          },
-          "away": {
-            "played": 13,
-            "win": 6,
-            "draw": 3,
-            "lose": 4,
-            "goals": {
-              "for": 11,
-              "against": 9
             }
           },
           "update": "2025-09-05T00:00:00+00:00"
@@ -1735,51 +1735,6 @@
         {
           "rank": 13,
           "team": {
-            "id": 7826,
-            "name": "Ferroviária",
-            "logo": "https://media.api-sports.io/football/teams/7826.png"
-          },
-          "points": 31,
-          "goalsDiff": 1,
-          "group": "Serie B",
-          "form": "DDWWW",
-          "status": "same",
-          "description": null,
-          "all": {
-            "played": 24,
-            "win": 7,
-            "draw": 10,
-            "lose": 7,
-            "goals": {
-              "for": 27,
-              "against": 26
-            }
-          },
-          "home": {
-            "played": 12,
-            "win": 4,
-            "draw": 6,
-            "lose": 2,
-            "goals": {
-              "for": 14,
-              "against": 12
-            }
-          },
-          "away": {
-            "played": 12,
-            "win": 3,
-            "draw": 4,
-            "lose": 5,
-            "goals": {
-              "for": 13,
-              "against": 14
-            }
-          },
-          "update": "2025-09-05T00:00:00+00:00"
-        },
-        {
-          "rank": 14,
-          "team": {
             "id": 144,
             "name": "Atletico Goianiense",
             "logo": "https://media.api-sports.io/football/teams/144.png"
@@ -1818,6 +1773,51 @@
             "goals": {
               "for": 9,
               "against": 15
+            }
+          },
+          "update": "2025-09-05T00:00:00+00:00"
+        },
+        {
+          "rank": 14,
+          "team": {
+            "id": 7826,
+            "name": "Ferroviária",
+            "logo": "https://media.api-sports.io/football/teams/7826.png"
+          },
+          "points": 31,
+          "goalsDiff": -3,
+          "group": "Serie B",
+          "form": "LDDWW",
+          "status": "same",
+          "description": null,
+          "all": {
+            "played": 25,
+            "win": 7,
+            "draw": 10,
+            "lose": 8,
+            "goals": {
+              "for": 27,
+              "against": 30
+            }
+          },
+          "home": {
+            "played": 12,
+            "win": 4,
+            "draw": 6,
+            "lose": 2,
+            "goals": {
+              "for": 14,
+              "against": 12
+            }
+          },
+          "away": {
+            "played": 13,
+            "win": 3,
+            "draw": 4,
+            "lose": 6,
+            "goals": {
+              "for": 13,
+              "against": 18
             }
           },
           "update": "2025-09-05T00:00:00+00:00"
