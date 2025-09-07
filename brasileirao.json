@@ -1285,24 +1285,69 @@
         {
           "rank": 3,
           "team": {
+            "id": 140,
+            "name": "Criciuma",
+            "logo": "https://media.api-sports.io/football/teams/140.png"
+          },
+          "points": 42,
+          "goalsDiff": 12,
+          "group": "Serie B",
+          "form": "WWWDW",
+          "status": "same",
+          "description": "Promotion - Serie A Betano",
+          "all": {
+            "played": 25,
+            "win": 12,
+            "draw": 6,
+            "lose": 7,
+            "goals": {
+              "for": 33,
+              "against": 21
+            }
+          },
+          "home": {
+            "played": 13,
+            "win": 8,
+            "draw": 2,
+            "lose": 3,
+            "goals": {
+              "for": 22,
+              "against": 11
+            }
+          },
+          "away": {
+            "played": 12,
+            "win": 4,
+            "draw": 4,
+            "lose": 4,
+            "goals": {
+              "for": 11,
+              "against": 10
+            }
+          },
+          "update": "2025-09-07T00:00:00+00:00"
+        },
+        {
+          "rank": 4,
+          "team": {
             "id": 132,
             "name": "Chapecoense-sc",
             "logo": "https://media.api-sports.io/football/teams/132.png"
           },
           "points": 41,
-          "goalsDiff": 14,
+          "goalsDiff": 12,
           "group": "Serie B",
-          "form": "DWWDW",
+          "form": "LDWWD",
           "status": "same",
           "description": "Promotion - Serie A Betano",
           "all": {
-            "played": 24,
+            "played": 25,
             "win": 12,
             "draw": 5,
-            "lose": 7,
+            "lose": 8,
             "goals": {
               "for": 36,
-              "against": 22
+              "against": 24
             }
           },
           "home": {
@@ -1316,55 +1361,10 @@
             }
           },
           "away": {
-            "played": 12,
+            "played": 13,
             "win": 4,
             "draw": 3,
-            "lose": 5,
-            "goals": {
-              "for": 11,
-              "against": 8
-            }
-          },
-          "update": "2025-09-07T00:00:00+00:00"
-        },
-        {
-          "rank": 4,
-          "team": {
-            "id": 140,
-            "name": "Criciuma",
-            "logo": "https://media.api-sports.io/football/teams/140.png"
-          },
-          "points": 39,
-          "goalsDiff": 10,
-          "group": "Serie B",
-          "form": "WWDWL",
-          "status": "same",
-          "description": "Promotion - Serie A Betano",
-          "all": {
-            "played": 24,
-            "win": 11,
-            "draw": 6,
-            "lose": 7,
-            "goals": {
-              "for": 31,
-              "against": 21
-            }
-          },
-          "home": {
-            "played": 12,
-            "win": 7,
-            "draw": 2,
-            "lose": 3,
-            "goals": {
-              "for": 20,
-              "against": 11
-            }
-          },
-          "away": {
-            "played": 12,
-            "win": 4,
-            "draw": 4,
-            "lose": 4,
+            "lose": 6,
             "goals": {
               "for": 11,
               "against": 10
