@@ -1245,19 +1245,19 @@
             "logo": "https://media.api-sports.io/football/teams/151.png"
           },
           "points": 44,
-          "goalsDiff": 8,
+          "goalsDiff": 7,
           "group": "Serie B",
-          "form": "LWLWD",
+          "form": "LLWLW",
           "status": "same",
           "description": "Promotion - Serie A Betano",
           "all": {
-            "played": 24,
+            "played": 25,
             "win": 13,
             "draw": 5,
-            "lose": 6,
+            "lose": 7,
             "goals": {
-              "for": 31,
-              "against": 23
+              "for": 32,
+              "against": 25
             }
           },
           "home": {
@@ -1271,13 +1271,13 @@
             }
           },
           "away": {
-            "played": 11,
+            "played": 12,
             "win": 5,
             "draw": 2,
-            "lose": 4,
+            "lose": 5,
             "goals": {
-              "for": 10,
-              "against": 11
+              "for": 11,
+              "against": 13
             }
           },
           "update": "2025-09-07T00:00:00+00:00"
@@ -1465,6 +1465,51 @@
         {
           "rank": 7,
           "team": {
+            "id": 145,
+            "name": "Avai",
+            "logo": "https://media.api-sports.io/football/teams/145.png"
+          },
+          "points": 36,
+          "goalsDiff": 6,
+          "group": "Serie B",
+          "form": "WLLDW",
+          "status": "same",
+          "description": null,
+          "all": {
+            "played": 25,
+            "win": 9,
+            "draw": 9,
+            "lose": 7,
+            "goals": {
+              "for": 32,
+              "against": 26
+            }
+          },
+          "home": {
+            "played": 13,
+            "win": 7,
+            "draw": 4,
+            "lose": 2,
+            "goals": {
+              "for": 20,
+              "against": 8
+            }
+          },
+          "away": {
+            "played": 12,
+            "win": 2,
+            "draw": 5,
+            "lose": 5,
+            "goals": {
+              "for": 12,
+              "against": 18
+            }
+          },
+          "update": "2025-09-07T00:00:00+00:00"
+        },
+        {
+          "rank": 8,
+          "team": {
             "id": 7834,
             "name": "Novorizontino",
             "logo": "https://media.api-sports.io/football/teams/7834.png"
@@ -1508,7 +1553,7 @@
           "update": "2025-09-07T00:00:00+00:00"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "team": {
             "id": 146,
             "name": "CRB",
@@ -1553,7 +1598,7 @@
           "update": "2025-09-07T00:00:00+00:00"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "team": {
             "id": 142,
             "name": "Vila Nova",
@@ -1598,7 +1643,7 @@
           "update": "2025-09-07T00:00:00+00:00"
         },
         {
-          "rank": 10,
+          "rank": 11,
           "team": {
             "id": 1223,
             "name": "Operario-PR",
@@ -1643,7 +1688,7 @@
           "update": "2025-09-07T00:00:00+00:00"
         },
         {
-          "rank": 11,
+          "rank": 12,
           "team": {
             "id": 1193,
             "name": "Cuiaba",
@@ -1682,51 +1727,6 @@
             "lose": 6,
             "goals": {
               "for": 10,
-              "against": 18
-            }
-          },
-          "update": "2025-09-07T00:00:00+00:00"
-        },
-        {
-          "rank": 12,
-          "team": {
-            "id": 145,
-            "name": "Avai",
-            "logo": "https://media.api-sports.io/football/teams/145.png"
-          },
-          "points": 33,
-          "goalsDiff": 5,
-          "group": "Serie B",
-          "form": "LLDWD",
-          "status": "same",
-          "description": null,
-          "all": {
-            "played": 24,
-            "win": 8,
-            "draw": 9,
-            "lose": 7,
-            "goals": {
-              "for": 30,
-              "against": 25
-            }
-          },
-          "home": {
-            "played": 12,
-            "win": 6,
-            "draw": 4,
-            "lose": 2,
-            "goals": {
-              "for": 18,
-              "against": 7
-            }
-          },
-          "away": {
-            "played": 12,
-            "win": 2,
-            "draw": 5,
-            "lose": 5,
-            "goals": {
-              "for": 12,
               "against": 18
             }
           },
