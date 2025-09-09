@@ -1420,6 +1420,51 @@
         {
           "rank": 6,
           "team": {
+            "id": 7834,
+            "name": "Novorizontino",
+            "logo": "https://media.api-sports.io/football/teams/7834.png"
+          },
+          "points": 37,
+          "goalsDiff": 3,
+          "group": "Serie B",
+          "form": "DLLLD",
+          "status": "same",
+          "description": null,
+          "all": {
+            "played": 25,
+            "win": 9,
+            "draw": 10,
+            "lose": 6,
+            "goals": {
+              "for": 27,
+              "against": 24
+            }
+          },
+          "home": {
+            "played": 13,
+            "win": 7,
+            "draw": 5,
+            "lose": 1,
+            "goals": {
+              "for": 21,
+              "against": 11
+            }
+          },
+          "away": {
+            "played": 12,
+            "win": 2,
+            "draw": 5,
+            "lose": 5,
+            "goals": {
+              "for": 6,
+              "against": 13
+            }
+          },
+          "update": "2025-09-08T00:00:00+00:00"
+        },
+        {
+          "rank": 7,
+          "team": {
             "id": 134,
             "name": "Atletico Paranaense",
             "logo": "https://media.api-sports.io/football/teams/134.png"
@@ -1463,7 +1508,7 @@
           "update": "2025-09-08T00:00:00+00:00"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "team": {
             "id": 145,
             "name": "Avai",
@@ -1503,51 +1548,6 @@
             "goals": {
               "for": 12,
               "against": 18
-            }
-          },
-          "update": "2025-09-08T00:00:00+00:00"
-        },
-        {
-          "rank": 8,
-          "team": {
-            "id": 7834,
-            "name": "Novorizontino",
-            "logo": "https://media.api-sports.io/football/teams/7834.png"
-          },
-          "points": 36,
-          "goalsDiff": 3,
-          "group": "Serie B",
-          "form": "LLLDD",
-          "status": "same",
-          "description": null,
-          "all": {
-            "played": 24,
-            "win": 9,
-            "draw": 9,
-            "lose": 6,
-            "goals": {
-              "for": 26,
-              "against": 23
-            }
-          },
-          "home": {
-            "played": 12,
-            "win": 7,
-            "draw": 4,
-            "lose": 1,
-            "goals": {
-              "for": 20,
-              "against": 10
-            }
-          },
-          "away": {
-            "played": 12,
-            "win": 2,
-            "draw": 5,
-            "lose": 5,
-            "goals": {
-              "for": 6,
-              "against": 13
             }
           },
           "update": "2025-09-08T00:00:00+00:00"
@@ -1739,20 +1739,20 @@
             "name": "Atletico Goianiense",
             "logo": "https://media.api-sports.io/football/teams/144.png"
           },
-          "points": 31,
+          "points": 32,
           "goalsDiff": 0,
           "group": "Serie B",
-          "form": "WDLWD",
+          "form": "DWDLW",
           "status": "same",
           "description": null,
           "all": {
-            "played": 24,
+            "played": 25,
             "win": 7,
-            "draw": 10,
+            "draw": 11,
             "lose": 7,
             "goals": {
-              "for": 26,
-              "against": 26
+              "for": 27,
+              "against": 27
             }
           },
           "home": {
@@ -1766,13 +1766,13 @@
             }
           },
           "away": {
-            "played": 11,
+            "played": 12,
             "win": 1,
-            "draw": 6,
+            "draw": 7,
             "lose": 4,
             "goals": {
-              "for": 9,
-              "against": 15
+              "for": 10,
+              "against": 16
             }
           },
           "update": "2025-09-08T00:00:00+00:00"
