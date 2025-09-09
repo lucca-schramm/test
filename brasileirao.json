@@ -1600,6 +1600,51 @@
         {
           "rank": 10,
           "team": {
+            "id": 142,
+            "name": "Vila Nova",
+            "logo": "https://media.api-sports.io/football/teams/142.png"
+          },
+          "points": 35,
+          "goalsDiff": 0,
+          "group": "Serie B",
+          "form": "DDLWW",
+          "status": "same",
+          "description": null,
+          "all": {
+            "played": 25,
+            "win": 10,
+            "draw": 5,
+            "lose": 10,
+            "goals": {
+              "for": 25,
+              "against": 25
+            }
+          },
+          "home": {
+            "played": 12,
+            "win": 7,
+            "draw": 2,
+            "lose": 3,
+            "goals": {
+              "for": 13,
+              "against": 8
+            }
+          },
+          "away": {
+            "played": 13,
+            "win": 3,
+            "draw": 3,
+            "lose": 7,
+            "goals": {
+              "for": 12,
+              "against": 17
+            }
+          },
+          "update": "2025-09-08T00:00:00+00:00"
+        },
+        {
+          "rank": 11,
+          "team": {
             "id": 146,
             "name": "CRB",
             "logo": "https://media.api-sports.io/football/teams/146.png"
@@ -1638,51 +1683,6 @@
             "goals": {
               "for": 10,
               "against": 18
-            }
-          },
-          "update": "2025-09-08T00:00:00+00:00"
-        },
-        {
-          "rank": 11,
-          "team": {
-            "id": 142,
-            "name": "Vila Nova",
-            "logo": "https://media.api-sports.io/football/teams/142.png"
-          },
-          "points": 34,
-          "goalsDiff": 0,
-          "group": "Serie B",
-          "form": "DLWWL",
-          "status": "same",
-          "description": null,
-          "all": {
-            "played": 24,
-            "win": 10,
-            "draw": 4,
-            "lose": 10,
-            "goals": {
-              "for": 24,
-              "against": 24
-            }
-          },
-          "home": {
-            "played": 11,
-            "win": 7,
-            "draw": 1,
-            "lose": 3,
-            "goals": {
-              "for": 12,
-              "against": 7
-            }
-          },
-          "away": {
-            "played": 13,
-            "win": 3,
-            "draw": 3,
-            "lose": 7,
-            "goals": {
-              "for": 12,
-              "against": 17
             }
           },
           "update": "2025-09-08T00:00:00+00:00"
@@ -1829,20 +1829,20 @@
             "name": "Athletic Club",
             "logo": "https://media.api-sports.io/football/teams/13975.png"
           },
-          "points": 28,
+          "points": 29,
           "goalsDiff": -7,
           "group": "Serie B",
-          "form": "WLDLD",
+          "form": "DWLDL",
           "status": "same",
           "description": null,
           "all": {
-            "played": 24,
+            "played": 25,
             "win": 8,
-            "draw": 4,
+            "draw": 5,
             "lose": 12,
             "goals": {
-              "for": 26,
-              "against": 33
+              "for": 27,
+              "against": 34
             }
           },
           "home": {
@@ -1856,13 +1856,13 @@
             }
           },
           "away": {
-            "played": 12,
+            "played": 13,
             "win": 5,
-            "draw": 1,
+            "draw": 2,
             "lose": 6,
             "goals": {
-              "for": 13,
-              "against": 15
+              "for": 14,
+              "against": 16
             }
           },
           "update": "2025-09-08T00:00:00+00:00"
