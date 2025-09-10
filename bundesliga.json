@@ -1,962 +1,1338 @@
 {
+  "standings": {
+    "bundesliga": [
+      {
+        "rank": 1,
+        "team": {
+          "id": 157,
+          "name": "Bayern München",
+          "logo": "https://media.api-sports.io/football/teams/157.png"
+        },
+        "points": 6,
+        "goalsDiff": 7,
+        "group": "Bundesliga",
+        "form": "WW",
+        "form_home": "W",
+        "form_visitor": "W",
+        "status": "same",
+        "description": "Promotion - Champions League (League phase: )",
+        "all": {
+          "played": 2,
+          "win": 2,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 9,
+            "against": 2
+          }
+        },
+        "home": {
+          "played": 1,
+          "win": 1,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 6,
+            "against": 0
+          }
+        },
+        "away": {
+          "played": 1,
+          "win": 1,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 3,
+            "against": 2
+          }
+        },
+        "update": "2025-09-03T00:00:00+00:00",
+        "btts_matches": 1,
+        "btts_home_matches": 0,
+        "btts_away_matches": 1,
+        "avg_corners_per_game": 5.0,
+        "avg_corners_home_per_game": 5.0,
+        "avg_corners_away_per_game": 5.0,
+        "aproveitamento": 100.0,
+        "over_2_5_goals": 2,
+        "over_0_5_ht": 2,
+        "over_0_5_ft": 2,
+        "clean_sheets": 1,
+        "over_2_5_goals_home": 1,
+        "over_0_5_ht_home": 1,
+        "over_0_5_ft_home": 1,
+        "clean_sheets_home": 1,
+        "over_2_5_goals_away": 1,
+        "over_0_5_ht_away": 1,
+        "over_0_5_ft_away": 1,
+        "clean_sheets_away": 0
+      },
+      {
+        "rank": 2,
+        "team": {
+          "id": 169,
+          "name": "Eintracht Frankfurt",
+          "logo": "https://media.api-sports.io/football/teams/169.png"
+        },
+        "points": 6,
+        "goalsDiff": 5,
+        "group": "Bundesliga",
+        "form": "WW",
+        "form_home": "W",
+        "form_visitor": "W",
+        "status": "same",
+        "description": "Promotion - Champions League (League phase: )",
+        "all": {
+          "played": 2,
+          "win": 2,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 7,
+            "against": 2
+          }
+        },
+        "home": {
+          "played": 1,
+          "win": 1,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 4,
+            "against": 1
+          }
+        },
+        "away": {
+          "played": 1,
+          "win": 1,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 3,
+            "against": 1
+          }
+        },
+        "update": "2025-09-03T00:00:00+00:00",
+        "btts_matches": 2,
+        "btts_home_matches": 1,
+        "btts_away_matches": 1,
+        "avg_corners_per_game": 6.0,
+        "avg_corners_home_per_game": 7.0,
+        "avg_corners_away_per_game": 5.0,
+        "aproveitamento": 100.0,
+        "over_2_5_goals": 2,
+        "over_0_5_ht": 2,
+        "over_0_5_ft": 2,
+        "clean_sheets": 0,
+        "over_2_5_goals_home": 1,
+        "over_0_5_ht_home": 1,
+        "over_0_5_ft_home": 1,
+        "clean_sheets_home": 0,
+        "over_2_5_goals_away": 1,
+        "over_0_5_ht_away": 1,
+        "over_0_5_ft_away": 1,
+        "clean_sheets_away": 0
+      },
+      {
+        "rank": 3,
+        "team": {
+          "id": 192,
+          "name": "1.FC Köln",
+          "logo": "https://media.api-sports.io/football/teams/192.png"
+        },
+        "points": 6,
+        "goalsDiff": 4,
+        "group": "Bundesliga",
+        "form": "WW",
+        "form_home": "W",
+        "form_visitor": "W",
+        "status": "same",
+        "description": "Promotion - Champions League (League phase: )",
+        "all": {
+          "played": 2,
+          "win": 2,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 5,
+            "against": 1
+          }
+        },
+        "home": {
+          "played": 1,
+          "win": 1,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 4,
+            "against": 1
+          }
+        },
+        "away": {
+          "played": 1,
+          "win": 1,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 1,
+            "against": 0
+          }
+        },
+        "update": "2025-09-03T00:00:00+00:00",
+        "btts_matches": 1,
+        "btts_home_matches": 1,
+        "btts_away_matches": 0,
+        "avg_corners_per_game": 3.0,
+        "avg_corners_home_per_game": 3.0,
+        "avg_corners_away_per_game": 3.0,
+        "aproveitamento": 100.0,
+        "over_2_5_goals": 1,
+        "over_0_5_ht": 1,
+        "over_0_5_ft": 2,
+        "clean_sheets": 1,
+        "over_2_5_goals_home": 1,
+        "over_0_5_ht_home": 1,
+        "over_0_5_ft_home": 1,
+        "clean_sheets_home": 0,
+        "over_2_5_goals_away": 0,
+        "over_0_5_ht_away": 0,
+        "over_0_5_ft_away": 1,
+        "clean_sheets_away": 1
+      },
+      {
+        "rank": 4,
+        "team": {
+          "id": 165,
+          "name": "Borussia Dortmund",
+          "logo": "https://media.api-sports.io/football/teams/165.png"
+        },
+        "points": 4,
+        "goalsDiff": 3,
+        "group": "Bundesliga",
+        "form": "DW",
+        "form_home": "W",
+        "form_visitor": "D",
+        "status": "same",
+        "description": "Promotion - Champions League (League phase: )",
+        "all": {
+          "played": 2,
+          "win": 1,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 6,
+            "against": 3
+          }
+        },
+        "home": {
+          "played": 1,
+          "win": 1,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 3,
+            "against": 0
+          }
+        },
+        "away": {
+          "played": 1,
+          "win": 0,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 3,
+            "against": 3
+          }
+        },
+        "update": "2025-09-03T00:00:00+00:00",
+        "btts_matches": 1,
+        "btts_home_matches": 0,
+        "btts_away_matches": 1,
+        "avg_corners_per_game": 3.0,
+        "avg_corners_home_per_game": 4.0,
+        "avg_corners_away_per_game": 2.0,
+        "aproveitamento": 66.7,
+        "over_2_5_goals": 2,
+        "over_0_5_ht": 2,
+        "over_0_5_ft": 2,
+        "clean_sheets": 1,
+        "over_2_5_goals_home": 1,
+        "over_0_5_ht_home": 1,
+        "over_0_5_ft_home": 1,
+        "clean_sheets_home": 1,
+        "over_2_5_goals_away": 1,
+        "over_0_5_ht_away": 1,
+        "over_0_5_ft_away": 1,
+        "clean_sheets_away": 0
+      },
+      {
+        "rank": 5,
+        "team": {
+          "id": 186,
+          "name": "FC St. Pauli",
+          "logo": "https://media.api-sports.io/football/teams/186.png"
+        },
+        "points": 4,
+        "goalsDiff": 2,
+        "group": "Bundesliga",
+        "form": "DW",
+        "form_home": "D",
+        "form_visitor": "W",
+        "status": "same",
+        "description": "Promotion - Europa League (League phase: )",
+        "all": {
+          "played": 2,
+          "win": 1,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 5,
+            "against": 3
+          }
+        },
+        "home": {
+          "played": 1,
+          "win": 0,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 3,
+            "against": 3
+          }
+        },
+        "away": {
+          "played": 1,
+          "win": 1,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 2,
+            "against": 0
+          }
+        },
+        "update": "2025-09-03T00:00:00+00:00",
+        "btts_matches": 1,
+        "btts_home_matches": 1,
+        "btts_away_matches": 0,
+        "avg_corners_per_game": 5.0,
+        "avg_corners_home_per_game": 5.0,
+        "avg_corners_away_per_game": 5.0,
+        "aproveitamento": 66.7,
+        "over_2_5_goals": 1,
+        "over_0_5_ht": 1,
+        "over_0_5_ft": 2,
+        "clean_sheets": 1,
+        "over_2_5_goals_home": 1,
+        "over_0_5_ht_home": 0,
+        "over_0_5_ft_home": 1,
+        "clean_sheets_home": 0,
+        "over_2_5_goals_away": 0,
+        "over_0_5_ht_away": 1,
+        "over_0_5_ft_away": 1,
+        "clean_sheets_away": 1
+      },
+      {
+        "rank": 6,
+        "team": {
+          "id": 161,
+          "name": "VfL Wolfsburg",
+          "logo": "https://media.api-sports.io/football/teams/161.png"
+        },
+        "points": 4,
+        "goalsDiff": 2,
+        "group": "Bundesliga",
+        "form": "WD",
+        "form_home": "D",
+        "form_visitor": "W",
+        "status": "same",
+        "description": "Promotion - Conference League (Qualification: )",
+        "all": {
+          "played": 2,
+          "win": 1,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 4,
+            "against": 2
+          }
+        },
+        "home": {
+          "played": 1,
+          "win": 0,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 1,
+            "against": 1
+          }
+        },
+        "away": {
+          "played": 1,
+          "win": 1,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 3,
+            "against": 1
+          }
+        },
+        "update": "2025-09-03T00:00:00+00:00",
+        "btts_matches": 2,
+        "btts_home_matches": 1,
+        "btts_away_matches": 1,
+        "avg_corners_per_game": 4.0,
+        "avg_corners_home_per_game": 3.0,
+        "avg_corners_away_per_game": 5.0,
+        "aproveitamento": 66.7,
+        "over_2_5_goals": 1,
+        "over_0_5_ht": 2,
+        "over_0_5_ft": 1,
+        "clean_sheets": 0,
+        "over_2_5_goals_home": 0,
+        "over_0_5_ht_home": 1,
+        "over_0_5_ft_home": 0,
+        "clean_sheets_home": 0,
+        "over_2_5_goals_away": 1,
+        "over_0_5_ht_away": 1,
+        "over_0_5_ft_away": 1,
+        "clean_sheets_away": 0
+      },
+      {
+        "rank": 7,
+        "team": {
+          "id": 170,
+          "name": "FC Augsburg",
+          "logo": "https://media.api-sports.io/football/teams/170.png"
+        },
+        "points": 3,
+        "goalsDiff": 1,
+        "group": "Bundesliga",
+        "form": "WL",
+        "form_home": "L",
+        "form_visitor": "W",
+        "status": "same",
+        "description": null,
+        "all": {
+          "played": 2,
+          "win": 1,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 5,
+            "against": 4
+          }
+        },
+        "home": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 2,
+            "against": 3
+          }
+        },
+        "away": {
+          "played": 1,
+          "win": 1,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 3,
+            "against": 1
+          }
+        },
+        "update": "2025-09-03T00:00:00+00:00",
+        "btts_matches": 2,
+        "btts_home_matches": 1,
+        "btts_away_matches": 1,
+        "avg_corners_per_game": 6.0,
+        "avg_corners_home_per_game": 7.0,
+        "avg_corners_away_per_game": 5.0,
+        "aproveitamento": 50.0,
+        "over_2_5_goals": 2,
+        "over_0_5_ht": 1,
+        "over_0_5_ft": 1,
+        "clean_sheets": 0,
+        "over_2_5_goals_home": 1,
+        "over_0_5_ht_home": 0,
+        "over_0_5_ft_home": 1,
+        "clean_sheets_home": 0,
+        "over_2_5_goals_away": 1,
+        "over_0_5_ht_away": 1,
+        "over_0_5_ft_away": 0,
+        "clean_sheets_away": 0
+      },
+      {
+        "rank": 8,
+        "team": {
+          "id": 172,
+          "name": "VfB Stuttgart",
+          "logo": "https://media.api-sports.io/football/teams/172.png"
+        },
+        "points": 3,
+        "goalsDiff": 0,
+        "group": "Bundesliga",
+        "form": "LW",
+        "form_home": "W",
+        "form_visitor": "L",
+        "status": "same",
+        "description": null,
+        "all": {
+          "played": 2,
+          "win": 1,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 2,
+            "against": 2
+          }
+        },
+        "home": {
+          "played": 1,
+          "win": 1,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 1,
+            "against": 0
+          }
+        },
+        "away": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 1,
+            "against": 2
+          }
+        },
+        "update": "2025-09-03T00:00:00+00:00",
+        "btts_matches": 1,
+        "btts_home_matches": 0,
+        "btts_away_matches": 1,
+        "avg_corners_per_game": 8.5,
+        "avg_corners_home_per_game": 6.0,
+        "avg_corners_away_per_game": 11.0,
+        "aproveitamento": 50.0,
+        "over_2_5_goals": 1,
+        "over_0_5_ht": 0,
+        "over_0_5_ft": 2,
+        "clean_sheets": 1,
+        "over_2_5_goals_home": 0,
+        "over_0_5_ht_home": 0,
+        "over_0_5_ft_home": 1,
+        "clean_sheets_home": 1,
+        "over_2_5_goals_away": 1,
+        "over_0_5_ht_away": 0,
+        "over_0_5_ft_away": 1,
+        "clean_sheets_away": 0
+      },
+      {
+        "rank": 9,
+        "team": {
+          "id": 167,
+          "name": "1899 Hoffenheim",
+          "logo": "https://media.api-sports.io/football/teams/167.png"
+        },
+        "points": 3,
+        "goalsDiff": -1,
+        "group": "Bundesliga",
+        "form": "WL",
+        "form_home": "L",
+        "form_visitor": "W",
+        "status": "same",
+        "description": null,
+        "all": {
+          "played": 2,
+          "win": 1,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 3,
+            "against": 4
+          }
+        },
+        "home": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 1,
+            "against": 3
+          }
+        },
+        "away": {
+          "played": 1,
+          "win": 1,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 2,
+            "against": 1
+          }
+        },
+        "update": "2025-09-03T00:00:00+00:00",
+        "btts_matches": 2,
+        "btts_home_matches": 1,
+        "btts_away_matches": 1,
+        "avg_corners_per_game": 4.0,
+        "avg_corners_home_per_game": 4.0,
+        "avg_corners_away_per_game": 4.0,
+        "aproveitamento": 50.0,
+        "over_2_5_goals": 2,
+        "over_0_5_ht": 1,
+        "over_0_5_ft": 2,
+        "clean_sheets": 0,
+        "over_2_5_goals_home": 1,
+        "over_0_5_ht_home": 0,
+        "over_0_5_ft_home": 1,
+        "clean_sheets_home": 0,
+        "over_2_5_goals_away": 1,
+        "over_0_5_ht_away": 1,
+        "over_0_5_ft_away": 1,
+        "clean_sheets_away": 0
+      },
+      {
+        "rank": 10,
+        "team": {
+          "id": 182,
+          "name": "Union Berlin",
+          "logo": "https://media.api-sports.io/football/teams/182.png"
+        },
+        "points": 3,
+        "goalsDiff": -2,
+        "group": "Bundesliga",
+        "form": "WL",
+        "form_home": "W",
+        "form_visitor": "L",
+        "status": "same",
+        "description": null,
+        "all": {
+          "played": 2,
+          "win": 1,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 2,
+            "against": 4
+          }
+        },
+        "home": {
+          "played": 1,
+          "win": 1,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 2,
+            "against": 1
+          }
+        },
+        "away": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 0,
+            "against": 3
+          }
+        },
+        "update": "2025-09-03T00:00:00+00:00",
+        "btts_matches": 1,
+        "btts_home_matches": 1,
+        "btts_away_matches": 0,
+        "avg_corners_per_game": 5.5,
+        "avg_corners_home_per_game": 5.0,
+        "avg_corners_away_per_game": 6.0,
+        "aproveitamento": 50.0,
+        "over_2_5_goals": 2,
+        "over_0_5_ht": 1,
+        "over_0_5_ft": 0,
+        "clean_sheets": 0,
+        "over_2_5_goals_home": 1,
+        "over_0_5_ht_home": 1,
+        "over_0_5_ft_home": 0,
+        "clean_sheets_home": 0,
+        "over_2_5_goals_away": 1,
+        "over_0_5_ht_away": 0,
+        "over_0_5_ft_away": 0,
+        "clean_sheets_away": 0
+      },
+      {
+        "rank": 11,
+        "team": {
+          "id": 173,
+          "name": "RB Leipzig",
+          "logo": "https://media.api-sports.io/football/teams/173.png"
+        },
+        "points": 3,
+        "goalsDiff": -4,
+        "group": "Bundesliga",
+        "form": "LW",
+        "form_home": "W",
+        "form_visitor": "L",
+        "status": "same",
+        "description": null,
+        "all": {
+          "played": 2,
+          "win": 1,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 2,
+            "against": 6
+          }
+        },
+        "home": {
+          "played": 1,
+          "win": 1,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 2,
+            "against": 0
+          }
+        },
+        "away": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 0,
+            "against": 6
+          }
+        },
+        "update": "2025-09-03T00:00:00+00:00",
+        "btts_matches": 0,
+        "btts_home_matches": 0,
+        "btts_away_matches": 0,
+        "avg_corners_per_game": 4.5,
+        "avg_corners_home_per_game": 4.0,
+        "avg_corners_away_per_game": 5.0,
+        "aproveitamento": 50.0,
+        "over_2_5_goals": 1,
+        "over_0_5_ht": 0,
+        "over_0_5_ft": 1,
+        "clean_sheets": 1,
+        "over_2_5_goals_home": 0,
+        "over_0_5_ht_home": 0,
+        "over_0_5_ft_home": 1,
+        "clean_sheets_home": 1,
+        "over_2_5_goals_away": 1,
+        "over_0_5_ht_away": 0,
+        "over_0_5_ft_away": 0,
+        "clean_sheets_away": 0
+      },
+      {
+        "rank": 12,
+        "team": {
+          "id": 168,
+          "name": "Bayer Leverkusen",
+          "logo": "https://media.api-sports.io/football/teams/168.png"
+        },
+        "points": 1,
+        "goalsDiff": -1,
+        "group": "Bundesliga",
+        "form": "LD",
+        "form_home": "L",
+        "form_visitor": "D",
+        "status": "same",
+        "description": null,
+        "all": {
+          "played": 2,
+          "win": 0,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 4,
+            "against": 5
+          }
+        },
+        "home": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 1,
+            "against": 2
+          }
+        },
+        "away": {
+          "played": 1,
+          "win": 0,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 3,
+            "against": 3
+          }
+        },
+        "update": "2025-09-03T00:00:00+00:00",
+        "btts_matches": 2,
+        "btts_home_matches": 1,
+        "btts_away_matches": 1,
+        "avg_corners_per_game": 6.5,
+        "avg_corners_home_per_game": 6.0,
+        "avg_corners_away_per_game": 7.0,
+        "aproveitamento": 16.7,
+        "over_2_5_goals": 2,
+        "over_0_5_ht": 2,
+        "over_0_5_ft": 1,
+        "clean_sheets": 0,
+        "over_2_5_goals_home": 1,
+        "over_0_5_ht_home": 1,
+        "over_0_5_ft_home": 0,
+        "clean_sheets_home": 0,
+        "over_2_5_goals_away": 1,
+        "over_0_5_ht_away": 1,
+        "over_0_5_ft_away": 1,
+        "clean_sheets_away": 0
+      },
+      {
+        "rank": 13,
+        "team": {
+          "id": 164,
+          "name": "FSV Mainz 05",
+          "logo": "https://media.api-sports.io/football/teams/164.png"
+        },
+        "points": 1,
+        "goalsDiff": -1,
+        "group": "Bundesliga",
+        "form": "LD",
+        "form_home": "L",
+        "form_visitor": "D",
+        "status": "same",
+        "description": null,
+        "all": {
+          "played": 2,
+          "win": 0,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 1,
+            "against": 2
+          }
+        },
+        "home": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 0,
+            "against": 1
+          }
+        },
+        "away": {
+          "played": 1,
+          "win": 0,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 1,
+            "against": 1
+          }
+        },
+        "update": "2025-09-03T00:00:00+00:00",
+        "btts_matches": 1,
+        "btts_home_matches": 0,
+        "btts_away_matches": 1,
+        "avg_corners_per_game": 9.0,
+        "avg_corners_home_per_game": 8.0,
+        "avg_corners_away_per_game": 10.0,
+        "aproveitamento": 16.7,
+        "over_2_5_goals": 0,
+        "over_0_5_ht": 0,
+        "over_0_5_ft": 1,
+        "clean_sheets": 0,
+        "over_2_5_goals_home": 0,
+        "over_0_5_ht_home": 0,
+        "over_0_5_ft_home": 0,
+        "clean_sheets_home": 0,
+        "over_2_5_goals_away": 0,
+        "over_0_5_ht_away": 0,
+        "over_0_5_ft_away": 1,
+        "clean_sheets_away": 0
+      },
+      {
+        "rank": 14,
+        "team": {
+          "id": 163,
+          "name": "Borussia Mönchengladbach",
+          "logo": "https://media.api-sports.io/football/teams/163.png"
+        },
+        "points": 1,
+        "goalsDiff": -1,
+        "group": "Bundesliga",
+        "form": "DL",
+        "form_home": "D",
+        "form_visitor": "L",
+        "status": "same",
+        "description": null,
+        "all": {
+          "played": 2,
+          "win": 0,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 0,
+            "against": 1
+          }
+        },
+        "home": {
+          "played": 1,
+          "win": 0,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 0,
+            "against": 0
+          }
+        },
+        "away": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 0,
+            "against": 1
+          }
+        },
+        "update": "2025-09-03T00:00:00+00:00",
+        "btts_matches": 0,
+        "btts_home_matches": 0,
+        "btts_away_matches": 0,
+        "avg_corners_per_game": 8.5,
+        "avg_corners_home_per_game": 7.0,
+        "avg_corners_away_per_game": 10.0,
+        "aproveitamento": 16.7,
+        "over_2_5_goals": 0,
+        "over_0_5_ht": 0,
+        "over_0_5_ft": 0,
+        "clean_sheets": 1,
+        "over_2_5_goals_home": 0,
+        "over_0_5_ht_home": 0,
+        "over_0_5_ft_home": 0,
+        "clean_sheets_home": 1,
+        "over_2_5_goals_away": 0,
+        "over_0_5_ht_away": 0,
+        "over_0_5_ft_away": 0,
+        "clean_sheets_away": 0
+      },
+      {
+        "rank": 15,
+        "team": {
+          "id": 175,
+          "name": "Hamburger SV",
+          "logo": "https://media.api-sports.io/football/teams/175.png"
+        },
+        "points": 1,
+        "goalsDiff": -2,
+        "group": "Bundesliga",
+        "form": "DL",
+        "form_home": "L",
+        "form_visitor": "D",
+        "status": "same",
+        "description": null,
+        "all": {
+          "played": 2,
+          "win": 0,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 0,
+            "against": 2
+          }
+        },
+        "home": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 0,
+            "against": 2
+          }
+        },
+        "away": {
+          "played": 1,
+          "win": 0,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 0,
+            "against": 0
+          }
+        },
+        "update": "2025-09-03T00:00:00+00:00",
+        "btts_matches": 0,
+        "btts_home_matches": 0,
+        "btts_away_matches": 0,
+        "avg_corners_per_game": 4.0,
+        "avg_corners_home_per_game": 2.0,
+        "avg_corners_away_per_game": 6.0,
+        "aproveitamento": 16.7,
+        "over_2_5_goals": 0,
+        "over_0_5_ht": 0,
+        "over_0_5_ft": 0,
+        "clean_sheets": 1,
+        "over_2_5_goals_home": 0,
+        "over_0_5_ht_home": 0,
+        "over_0_5_ft_home": 0,
+        "clean_sheets_home": 0,
+        "over_2_5_goals_away": 0,
+        "over_0_5_ht_away": 0,
+        "over_0_5_ft_away": 0,
+        "clean_sheets_away": 1
+      },
+      {
+        "rank": 16,
+        "team": {
+          "id": 162,
+          "name": "Werder Bremen",
+          "logo": "https://media.api-sports.io/football/teams/162.png"
+        },
+        "points": 1,
+        "goalsDiff": -3,
+        "group": "Bundesliga",
+        "form": "LD",
+        "form_home": "D",
+        "form_visitor": "L",
+        "status": "same",
+        "description": "Bundesliga (Relegation)",
+        "all": {
+          "played": 2,
+          "win": 0,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 4,
+            "against": 7
+          }
+        },
+        "home": {
+          "played": 1,
+          "win": 0,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 3,
+            "against": 3
+          }
+        },
+        "away": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 1,
+            "against": 4
+          }
+        },
+        "update": "2025-09-03T00:00:00+00:00",
+        "btts_matches": 2,
+        "btts_home_matches": 1,
+        "btts_away_matches": 1,
+        "avg_corners_per_game": 2.0,
+        "avg_corners_home_per_game": 3.0,
+        "avg_corners_away_per_game": 1.0,
+        "aproveitamento": 16.7,
+        "over_2_5_goals": 2,
+        "over_0_5_ht": 1,
+        "over_0_5_ft": 2,
+        "clean_sheets": 0,
+        "over_2_5_goals_home": 1,
+        "over_0_5_ht_home": 1,
+        "over_0_5_ft_home": 1,
+        "clean_sheets_home": 0,
+        "over_2_5_goals_away": 1,
+        "over_0_5_ht_away": 0,
+        "over_0_5_ft_away": 1,
+        "clean_sheets_away": 0
+      },
+      {
+        "rank": 17,
+        "team": {
+          "id": 180,
+          "name": "1. FC Heidenheim",
+          "logo": "https://media.api-sports.io/football/teams/180.png"
+        },
+        "points": 0,
+        "goalsDiff": -4,
+        "group": "Bundesliga",
+        "form": "LL",
+        "form_home": "L",
+        "form_visitor": "L",
+        "status": "same",
+        "description": "Relegation - 2. Bundesliga",
+        "all": {
+          "played": 2,
+          "win": 0,
+          "draw": 0,
+          "lose": 2,
+          "goals": {
+            "for": 1,
+            "against": 5
+          }
+        },
+        "home": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 1,
+            "against": 3
+          }
+        },
+        "away": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 0,
+            "against": 2
+          }
+        },
+        "update": "2025-09-03T00:00:00+00:00",
+        "btts_matches": 1,
+        "btts_home_matches": 1,
+        "btts_away_matches": 0,
+        "avg_corners_per_game": 2.5,
+        "avg_corners_home_per_game": 2.0,
+        "avg_corners_away_per_game": 3.0,
+        "aproveitamento": 0.0,
+        "over_2_5_goals": 1,
+        "over_0_5_ht": 1,
+        "over_0_5_ft": 0,
+        "clean_sheets": 0,
+        "over_2_5_goals_home": 1,
+        "over_0_5_ht_home": 1,
+        "over_0_5_ft_home": 0,
+        "clean_sheets_home": 0,
+        "over_2_5_goals_away": 0,
+        "over_0_5_ht_away": 0,
+        "over_0_5_ft_away": 0,
+        "clean_sheets_away": 0
+      },
+      {
+        "rank": 18,
+        "team": {
+          "id": 160,
+          "name": "SC Freiburg",
+          "logo": "https://media.api-sports.io/football/teams/160.png"
+        },
+        "points": 0,
+        "goalsDiff": -5,
+        "group": "Bundesliga",
+        "form": "LL",
+        "form_home": "L",
+        "form_visitor": "L",
+        "status": "same",
+        "description": "Relegation - 2. Bundesliga",
+        "all": {
+          "played": 2,
+          "win": 0,
+          "draw": 0,
+          "lose": 2,
+          "goals": {
+            "for": 2,
+            "against": 7
+          }
+        },
+        "home": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 1,
+            "against": 3
+          }
+        },
+        "away": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 1,
+            "against": 4
+          }
+        },
+        "update": "2025-09-03T00:00:00+00:00",
+        "btts_matches": 2,
+        "btts_home_matches": 1,
+        "btts_away_matches": 1,
+        "avg_corners_per_game": 5.0,
+        "avg_corners_home_per_game": 5.0,
+        "avg_corners_away_per_game": 5.0,
+        "aproveitamento": 0.0,
+        "over_2_5_goals": 2,
+        "over_0_5_ht": 0,
+        "over_0_5_ft": 2,
+        "clean_sheets": 0,
+        "over_2_5_goals_home": 1,
+        "over_0_5_ht_home": 0,
+        "over_0_5_ft_home": 1,
+        "clean_sheets_home": 0,
+        "over_2_5_goals_away": 1,
+        "over_0_5_ht_away": 0,
+        "over_0_5_ft_away": 1,
+        "clean_sheets_away": 0
+      }
+    ]
+  },
   "artilharia": {
-    "liga_a": [
+    "bundesliga": [
       {
         "jogador-foto": "https://media.api-sports.io/football/players/184.png",
         "jogador-escudo": "https://media.api-sports.io/football/teams/157.png",
         "jogador-nome": "H. Kane",
-        "jogador-posicao": null,
+        "jogador-posicao": "Attacker",
         "jogador-gols": 3
       },
       {
         "jogador-foto": "https://media.api-sports.io/football/players/21393.png",
         "jogador-escudo": "https://media.api-sports.io/football/teams/165.png",
         "jogador-nome": "S. Guirassy",
-        "jogador-posicao": null,
+        "jogador-posicao": "Attacker",
         "jogador-gols": 3
       },
       {
         "jogador-foto": "https://media.api-sports.io/football/players/19617.png",
         "jogador-escudo": "https://media.api-sports.io/football/teams/157.png",
         "jogador-nome": "M. Olise",
-        "jogador-posicao": null,
+        "jogador-posicao": "Midfielder",
         "jogador-gols": 3
       },
       {
         "jogador-foto": "https://media.api-sports.io/football/players/339887.png",
         "jogador-escudo": "https://media.api-sports.io/football/teams/169.png",
         "jogador-nome": "C. Uzun",
-        "jogador-posicao": null,
+        "jogador-posicao": "Midfielder",
         "jogador-gols": 2
       },
       {
         "jogador-foto": "https://media.api-sports.io/football/players/25242.png",
         "jogador-escudo": "https://media.api-sports.io/football/teams/192.png",
         "jogador-nome": "M. Bülter",
-        "jogador-posicao": null,
+        "jogador-posicao": "Attacker",
         "jogador-gols": 2
       },
       {
         "jogador-foto": "https://media.api-sports.io/football/players/2489.png",
         "jogador-escudo": "https://media.api-sports.io/football/teams/157.png",
         "jogador-nome": "L. Díaz",
-        "jogador-posicao": null,
+        "jogador-posicao": "Attacker",
         "jogador-gols": 2
       },
       {
         "jogador-foto": "https://media.api-sports.io/football/players/369674.png",
         "jogador-escudo": "https://media.api-sports.io/football/teams/169.png",
         "jogador-nome": "J. Bahoya",
-        "jogador-posicao": null,
+        "jogador-posicao": "Attacker",
         "jogador-gols": 2
       },
       {
         "jogador-foto": "https://media.api-sports.io/football/players/2598.png",
         "jogador-escudo": "https://media.api-sports.io/football/teams/169.png",
         "jogador-nome": "R. Dōan",
-        "jogador-posicao": null,
+        "jogador-posicao": "Midfielder",
         "jogador-gols": 2
       },
       {
         "jogador-foto": "https://media.api-sports.io/football/players/178921.png",
         "jogador-escudo": "https://media.api-sports.io/football/teams/186.png",
         "jogador-nome": "A. Hountondji",
-        "jogador-posicao": null,
+        "jogador-posicao": "Attacker",
         "jogador-gols": 2
       },
       {
         "jogador-foto": "https://media.api-sports.io/football/players/380873.png",
         "jogador-escudo": "https://media.api-sports.io/football/teams/182.png",
         "jogador-nome": "Ilyas  Ansah",
-        "jogador-posicao": null,
+        "jogador-posicao": "Attacker",
         "jogador-gols": 2
       },
       {
         "jogador-foto": "https://media.api-sports.io/football/players/794.png",
         "jogador-escudo": "https://media.api-sports.io/football/teams/168.png",
         "jogador-nome": "P. Schick",
-        "jogador-posicao": null,
+        "jogador-posicao": "Attacker",
         "jogador-gols": 2
       },
       {
         "jogador-foto": "https://media.api-sports.io/football/players/510.png",
         "jogador-escudo": "https://media.api-sports.io/football/teams/157.png",
         "jogador-nome": "S. Gnabry",
-        "jogador-posicao": null,
+        "jogador-posicao": "Attacker",
         "jogador-gols": 1
       },
       {
         "jogador-foto": "https://media.api-sports.io/football/players/637.png",
         "jogador-escudo": "https://media.api-sports.io/football/teams/165.png",
         "jogador-nome": "F. Nmecha",
-        "jogador-posicao": null,
+        "jogador-posicao": "Midfielder",
         "jogador-gols": 1
       },
       {
         "jogador-foto": "https://media.api-sports.io/football/players/181908.png",
         "jogador-escudo": "https://media.api-sports.io/football/teams/192.png",
         "jogador-nome": "J. Thielmann",
-        "jogador-posicao": null,
+        "jogador-posicao": "Midfielder",
         "jogador-gols": 1
       },
       {
         "jogador-foto": "https://media.api-sports.io/football/players/202501.png",
         "jogador-escudo": "https://media.api-sports.io/football/teams/167.png",
         "jogador-nome": "F. Asllani",
-        "jogador-posicao": null,
+        "jogador-posicao": "Attacker",
         "jogador-gols": 1
       },
       {
         "jogador-foto": "https://media.api-sports.io/football/players/14395.png",
         "jogador-escudo": "https://media.api-sports.io/football/teams/170.png",
         "jogador-nome": "K. Jakić",
-        "jogador-posicao": null,
+        "jogador-posicao": "Midfielder",
         "jogador-gols": 1
       },
       {
         "jogador-foto": "https://media.api-sports.io/football/players/348888.png",
         "jogador-escudo": "https://media.api-sports.io/football/teams/170.png",
         "jogador-nome": "M. Kömür",
-        "jogador-posicao": null,
+        "jogador-posicao": "Midfielder",
         "jogador-gols": 1
       },
       {
         "jogador-foto": "https://media.api-sports.io/football/players/24854.png",
         "jogador-escudo": "https://media.api-sports.io/football/teams/167.png",
         "jogador-nome": "G. Prömel",
-        "jogador-posicao": null,
+        "jogador-posicao": "Midfielder",
         "jogador-gols": 1
       },
       {
         "jogador-foto": "https://media.api-sports.io/football/players/432310.png",
         "jogador-escudo": "https://media.api-sports.io/football/teams/192.png",
         "jogador-nome": "S. El Mala",
-        "jogador-posicao": null,
+        "jogador-posicao": "Attacker",
         "jogador-gols": 1
       },
       {
         "jogador-foto": "https://media.api-sports.io/football/players/161922.png",
         "jogador-escudo": "https://media.api-sports.io/football/teams/169.png",
         "jogador-nome": "A. Knauff",
-        "jogador-posicao": null,
+        "jogador-posicao": "Attacker",
         "jogador-gols": 1
       }
-    ]
-  },
-  "standings": {
-    "liga_a": [
-      [
-        {
-          "rank": 1,
-          "team": {
-            "id": 157,
-            "name": "Bayern München",
-            "logo": "https://media.api-sports.io/football/teams/157.png"
-          },
-          "points": 6,
-          "goalsDiff": 7,
-          "group": "Bundesliga",
-          "form": "WW",
-          "status": "same",
-          "description": "Promotion - Champions League (League phase: )",
-          "all": {
-            "played": 2,
-            "win": 2,
-            "draw": 0,
-            "lose": 0,
-            "goals": {
-              "for": 9,
-              "against": 2
-            }
-          },
-          "home": {
-            "played": 1,
-            "win": 1,
-            "draw": 0,
-            "lose": 0,
-            "goals": {
-              "for": 6,
-              "against": 0
-            }
-          },
-          "away": {
-            "played": 1,
-            "win": 1,
-            "draw": 0,
-            "lose": 0,
-            "goals": {
-              "for": 3,
-              "against": 2
-            }
-          },
-          "update": "2025-09-03T00:00:00+00:00"
-        },
-        {
-          "rank": 2,
-          "team": {
-            "id": 169,
-            "name": "Eintracht Frankfurt",
-            "logo": "https://media.api-sports.io/football/teams/169.png"
-          },
-          "points": 6,
-          "goalsDiff": 5,
-          "group": "Bundesliga",
-          "form": "WW",
-          "status": "same",
-          "description": "Promotion - Champions League (League phase: )",
-          "all": {
-            "played": 2,
-            "win": 2,
-            "draw": 0,
-            "lose": 0,
-            "goals": {
-              "for": 7,
-              "against": 2
-            }
-          },
-          "home": {
-            "played": 1,
-            "win": 1,
-            "draw": 0,
-            "lose": 0,
-            "goals": {
-              "for": 4,
-              "against": 1
-            }
-          },
-          "away": {
-            "played": 1,
-            "win": 1,
-            "draw": 0,
-            "lose": 0,
-            "goals": {
-              "for": 3,
-              "against": 1
-            }
-          },
-          "update": "2025-09-03T00:00:00+00:00"
-        },
-        {
-          "rank": 3,
-          "team": {
-            "id": 192,
-            "name": "1.FC Köln",
-            "logo": "https://media.api-sports.io/football/teams/192.png"
-          },
-          "points": 6,
-          "goalsDiff": 4,
-          "group": "Bundesliga",
-          "form": "WW",
-          "status": "same",
-          "description": "Promotion - Champions League (League phase: )",
-          "all": {
-            "played": 2,
-            "win": 2,
-            "draw": 0,
-            "lose": 0,
-            "goals": {
-              "for": 5,
-              "against": 1
-            }
-          },
-          "home": {
-            "played": 1,
-            "win": 1,
-            "draw": 0,
-            "lose": 0,
-            "goals": {
-              "for": 4,
-              "against": 1
-            }
-          },
-          "away": {
-            "played": 1,
-            "win": 1,
-            "draw": 0,
-            "lose": 0,
-            "goals": {
-              "for": 1,
-              "against": 0
-            }
-          },
-          "update": "2025-09-03T00:00:00+00:00"
-        },
-        {
-          "rank": 4,
-          "team": {
-            "id": 165,
-            "name": "Borussia Dortmund",
-            "logo": "https://media.api-sports.io/football/teams/165.png"
-          },
-          "points": 4,
-          "goalsDiff": 3,
-          "group": "Bundesliga",
-          "form": "WD",
-          "status": "same",
-          "description": "Promotion - Champions League (League phase: )",
-          "all": {
-            "played": 2,
-            "win": 1,
-            "draw": 1,
-            "lose": 0,
-            "goals": {
-              "for": 6,
-              "against": 3
-            }
-          },
-          "home": {
-            "played": 1,
-            "win": 1,
-            "draw": 0,
-            "lose": 0,
-            "goals": {
-              "for": 3,
-              "against": 0
-            }
-          },
-          "away": {
-            "played": 1,
-            "win": 0,
-            "draw": 1,
-            "lose": 0,
-            "goals": {
-              "for": 3,
-              "against": 3
-            }
-          },
-          "update": "2025-09-03T00:00:00+00:00"
-        },
-        {
-          "rank": 5,
-          "team": {
-            "id": 186,
-            "name": "FC St. Pauli",
-            "logo": "https://media.api-sports.io/football/teams/186.png"
-          },
-          "points": 4,
-          "goalsDiff": 2,
-          "group": "Bundesliga",
-          "form": "WD",
-          "status": "same",
-          "description": "Promotion - Europa League (League phase: )",
-          "all": {
-            "played": 2,
-            "win": 1,
-            "draw": 1,
-            "lose": 0,
-            "goals": {
-              "for": 5,
-              "against": 3
-            }
-          },
-          "home": {
-            "played": 1,
-            "win": 0,
-            "draw": 1,
-            "lose": 0,
-            "goals": {
-              "for": 3,
-              "against": 3
-            }
-          },
-          "away": {
-            "played": 1,
-            "win": 1,
-            "draw": 0,
-            "lose": 0,
-            "goals": {
-              "for": 2,
-              "against": 0
-            }
-          },
-          "update": "2025-09-03T00:00:00+00:00"
-        },
-        {
-          "rank": 6,
-          "team": {
-            "id": 161,
-            "name": "VfL Wolfsburg",
-            "logo": "https://media.api-sports.io/football/teams/161.png"
-          },
-          "points": 4,
-          "goalsDiff": 2,
-          "group": "Bundesliga",
-          "form": "DW",
-          "status": "same",
-          "description": "Promotion - Conference League (Qualification: )",
-          "all": {
-            "played": 2,
-            "win": 1,
-            "draw": 1,
-            "lose": 0,
-            "goals": {
-              "for": 4,
-              "against": 2
-            }
-          },
-          "home": {
-            "played": 1,
-            "win": 0,
-            "draw": 1,
-            "lose": 0,
-            "goals": {
-              "for": 1,
-              "against": 1
-            }
-          },
-          "away": {
-            "played": 1,
-            "win": 1,
-            "draw": 0,
-            "lose": 0,
-            "goals": {
-              "for": 3,
-              "against": 1
-            }
-          },
-          "update": "2025-09-03T00:00:00+00:00"
-        },
-        {
-          "rank": 7,
-          "team": {
-            "id": 170,
-            "name": "FC Augsburg",
-            "logo": "https://media.api-sports.io/football/teams/170.png"
-          },
-          "points": 3,
-          "goalsDiff": 1,
-          "group": "Bundesliga",
-          "form": "LW",
-          "status": "same",
-          "description": null,
-          "all": {
-            "played": 2,
-            "win": 1,
-            "draw": 0,
-            "lose": 1,
-            "goals": {
-              "for": 5,
-              "against": 4
-            }
-          },
-          "home": {
-            "played": 1,
-            "win": 0,
-            "draw": 0,
-            "lose": 1,
-            "goals": {
-              "for": 2,
-              "against": 3
-            }
-          },
-          "away": {
-            "played": 1,
-            "win": 1,
-            "draw": 0,
-            "lose": 0,
-            "goals": {
-              "for": 3,
-              "against": 1
-            }
-          },
-          "update": "2025-09-03T00:00:00+00:00"
-        },
-        {
-          "rank": 8,
-          "team": {
-            "id": 172,
-            "name": "VfB Stuttgart",
-            "logo": "https://media.api-sports.io/football/teams/172.png"
-          },
-          "points": 3,
-          "goalsDiff": 0,
-          "group": "Bundesliga",
-          "form": "WL",
-          "status": "same",
-          "description": null,
-          "all": {
-            "played": 2,
-            "win": 1,
-            "draw": 0,
-            "lose": 1,
-            "goals": {
-              "for": 2,
-              "against": 2
-            }
-          },
-          "home": {
-            "played": 1,
-            "win": 1,
-            "draw": 0,
-            "lose": 0,
-            "goals": {
-              "for": 1,
-              "against": 0
-            }
-          },
-          "away": {
-            "played": 1,
-            "win": 0,
-            "draw": 0,
-            "lose": 1,
-            "goals": {
-              "for": 1,
-              "against": 2
-            }
-          },
-          "update": "2025-09-03T00:00:00+00:00"
-        },
-        {
-          "rank": 9,
-          "team": {
-            "id": 167,
-            "name": "1899 Hoffenheim",
-            "logo": "https://media.api-sports.io/football/teams/167.png"
-          },
-          "points": 3,
-          "goalsDiff": -1,
-          "group": "Bundesliga",
-          "form": "LW",
-          "status": "same",
-          "description": null,
-          "all": {
-            "played": 2,
-            "win": 1,
-            "draw": 0,
-            "lose": 1,
-            "goals": {
-              "for": 3,
-              "against": 4
-            }
-          },
-          "home": {
-            "played": 1,
-            "win": 0,
-            "draw": 0,
-            "lose": 1,
-            "goals": {
-              "for": 1,
-              "against": 3
-            }
-          },
-          "away": {
-            "played": 1,
-            "win": 1,
-            "draw": 0,
-            "lose": 0,
-            "goals": {
-              "for": 2,
-              "against": 1
-            }
-          },
-          "update": "2025-09-03T00:00:00+00:00"
-        },
-        {
-          "rank": 10,
-          "team": {
-            "id": 182,
-            "name": "Union Berlin",
-            "logo": "https://media.api-sports.io/football/teams/182.png"
-          },
-          "points": 3,
-          "goalsDiff": -2,
-          "group": "Bundesliga",
-          "form": "LW",
-          "status": "same",
-          "description": null,
-          "all": {
-            "played": 2,
-            "win": 1,
-            "draw": 0,
-            "lose": 1,
-            "goals": {
-              "for": 2,
-              "against": 4
-            }
-          },
-          "home": {
-            "played": 1,
-            "win": 1,
-            "draw": 0,
-            "lose": 0,
-            "goals": {
-              "for": 2,
-              "against": 1
-            }
-          },
-          "away": {
-            "played": 1,
-            "win": 0,
-            "draw": 0,
-            "lose": 1,
-            "goals": {
-              "for": 0,
-              "against": 3
-            }
-          },
-          "update": "2025-09-03T00:00:00+00:00"
-        },
-        {
-          "rank": 11,
-          "team": {
-            "id": 173,
-            "name": "RB Leipzig",
-            "logo": "https://media.api-sports.io/football/teams/173.png"
-          },
-          "points": 3,
-          "goalsDiff": -4,
-          "group": "Bundesliga",
-          "form": "WL",
-          "status": "same",
-          "description": null,
-          "all": {
-            "played": 2,
-            "win": 1,
-            "draw": 0,
-            "lose": 1,
-            "goals": {
-              "for": 2,
-              "against": 6
-            }
-          },
-          "home": {
-            "played": 1,
-            "win": 1,
-            "draw": 0,
-            "lose": 0,
-            "goals": {
-              "for": 2,
-              "against": 0
-            }
-          },
-          "away": {
-            "played": 1,
-            "win": 0,
-            "draw": 0,
-            "lose": 1,
-            "goals": {
-              "for": 0,
-              "against": 6
-            }
-          },
-          "update": "2025-09-03T00:00:00+00:00"
-        },
-        {
-          "rank": 12,
-          "team": {
-            "id": 168,
-            "name": "Bayer Leverkusen",
-            "logo": "https://media.api-sports.io/football/teams/168.png"
-          },
-          "points": 1,
-          "goalsDiff": -1,
-          "group": "Bundesliga",
-          "form": "DL",
-          "status": "same",
-          "description": null,
-          "all": {
-            "played": 2,
-            "win": 0,
-            "draw": 1,
-            "lose": 1,
-            "goals": {
-              "for": 4,
-              "against": 5
-            }
-          },
-          "home": {
-            "played": 1,
-            "win": 0,
-            "draw": 0,
-            "lose": 1,
-            "goals": {
-              "for": 1,
-              "against": 2
-            }
-          },
-          "away": {
-            "played": 1,
-            "win": 0,
-            "draw": 1,
-            "lose": 0,
-            "goals": {
-              "for": 3,
-              "against": 3
-            }
-          },
-          "update": "2025-09-03T00:00:00+00:00"
-        },
-        {
-          "rank": 13,
-          "team": {
-            "id": 164,
-            "name": "FSV Mainz 05",
-            "logo": "https://media.api-sports.io/football/teams/164.png"
-          },
-          "points": 1,
-          "goalsDiff": -1,
-          "group": "Bundesliga",
-          "form": "DL",
-          "status": "same",
-          "description": null,
-          "all": {
-            "played": 2,
-            "win": 0,
-            "draw": 1,
-            "lose": 1,
-            "goals": {
-              "for": 1,
-              "against": 2
-            }
-          },
-          "home": {
-            "played": 1,
-            "win": 0,
-            "draw": 0,
-            "lose": 1,
-            "goals": {
-              "for": 0,
-              "against": 1
-            }
-          },
-          "away": {
-            "played": 1,
-            "win": 0,
-            "draw": 1,
-            "lose": 0,
-            "goals": {
-              "for": 1,
-              "against": 1
-            }
-          },
-          "update": "2025-09-03T00:00:00+00:00"
-        },
-        {
-          "rank": 14,
-          "team": {
-            "id": 163,
-            "name": "Borussia Mönchengladbach",
-            "logo": "https://media.api-sports.io/football/teams/163.png"
-          },
-          "points": 1,
-          "goalsDiff": -1,
-          "group": "Bundesliga",
-          "form": "LD",
-          "status": "same",
-          "description": null,
-          "all": {
-            "played": 2,
-            "win": 0,
-            "draw": 1,
-            "lose": 1,
-            "goals": {
-              "for": 0,
-              "against": 1
-            }
-          },
-          "home": {
-            "played": 1,
-            "win": 0,
-            "draw": 1,
-            "lose": 0,
-            "goals": {
-              "for": 0,
-              "against": 0
-            }
-          },
-          "away": {
-            "played": 1,
-            "win": 0,
-            "draw": 0,
-            "lose": 1,
-            "goals": {
-              "for": 0,
-              "against": 1
-            }
-          },
-          "update": "2025-09-03T00:00:00+00:00"
-        },
-        {
-          "rank": 15,
-          "team": {
-            "id": 175,
-            "name": "Hamburger SV",
-            "logo": "https://media.api-sports.io/football/teams/175.png"
-          },
-          "points": 1,
-          "goalsDiff": -2,
-          "group": "Bundesliga",
-          "form": "LD",
-          "status": "same",
-          "description": null,
-          "all": {
-            "played": 2,
-            "win": 0,
-            "draw": 1,
-            "lose": 1,
-            "goals": {
-              "for": 0,
-              "against": 2
-            }
-          },
-          "home": {
-            "played": 1,
-            "win": 0,
-            "draw": 0,
-            "lose": 1,
-            "goals": {
-              "for": 0,
-              "against": 2
-            }
-          },
-          "away": {
-            "played": 1,
-            "win": 0,
-            "draw": 1,
-            "lose": 0,
-            "goals": {
-              "for": 0,
-              "against": 0
-            }
-          },
-          "update": "2025-09-03T00:00:00+00:00"
-        },
-        {
-          "rank": 16,
-          "team": {
-            "id": 162,
-            "name": "Werder Bremen",
-            "logo": "https://media.api-sports.io/football/teams/162.png"
-          },
-          "points": 1,
-          "goalsDiff": -3,
-          "group": "Bundesliga",
-          "form": "DL",
-          "status": "same",
-          "description": "Bundesliga (Relegation)",
-          "all": {
-            "played": 2,
-            "win": 0,
-            "draw": 1,
-            "lose": 1,
-            "goals": {
-              "for": 4,
-              "against": 7
-            }
-          },
-          "home": {
-            "played": 1,
-            "win": 0,
-            "draw": 1,
-            "lose": 0,
-            "goals": {
-              "for": 3,
-              "against": 3
-            }
-          },
-          "away": {
-            "played": 1,
-            "win": 0,
-            "draw": 0,
-            "lose": 1,
-            "goals": {
-              "for": 1,
-              "against": 4
-            }
-          },
-          "update": "2025-09-03T00:00:00+00:00"
-        },
-        {
-          "rank": 17,
-          "team": {
-            "id": 180,
-            "name": "1. FC Heidenheim",
-            "logo": "https://media.api-sports.io/football/teams/180.png"
-          },
-          "points": 0,
-          "goalsDiff": -4,
-          "group": "Bundesliga",
-          "form": "LL",
-          "status": "same",
-          "description": "Relegation - 2. Bundesliga",
-          "all": {
-            "played": 2,
-            "win": 0,
-            "draw": 0,
-            "lose": 2,
-            "goals": {
-              "for": 1,
-              "against": 5
-            }
-          },
-          "home": {
-            "played": 1,
-            "win": 0,
-            "draw": 0,
-            "lose": 1,
-            "goals": {
-              "for": 1,
-              "against": 3
-            }
-          },
-          "away": {
-            "played": 1,
-            "win": 0,
-            "draw": 0,
-            "lose": 1,
-            "goals": {
-              "for": 0,
-              "against": 2
-            }
-          },
-          "update": "2025-09-03T00:00:00+00:00"
-        },
-        {
-          "rank": 18,
-          "team": {
-            "id": 160,
-            "name": "SC Freiburg",
-            "logo": "https://media.api-sports.io/football/teams/160.png"
-          },
-          "points": 0,
-          "goalsDiff": -5,
-          "group": "Bundesliga",
-          "form": "LL",
-          "status": "same",
-          "description": "Relegation - 2. Bundesliga",
-          "all": {
-            "played": 2,
-            "win": 0,
-            "draw": 0,
-            "lose": 2,
-            "goals": {
-              "for": 2,
-              "against": 7
-            }
-          },
-          "home": {
-            "played": 1,
-            "win": 0,
-            "draw": 0,
-            "lose": 1,
-            "goals": {
-              "for": 1,
-              "against": 3
-            }
-          },
-          "away": {
-            "played": 1,
-            "win": 0,
-            "draw": 0,
-            "lose": 1,
-            "goals": {
-              "for": 1,
-              "against": 4
-            }
-          },
-          "update": "2025-09-03T00:00:00+00:00"
-        }
-      ]
     ]
   }
 }
