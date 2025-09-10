@@ -4,514 +4,530 @@
       {
         "rank": 1,
         "team": {
-          "id": 151,
-          "name": "Goias",
-          "logo": "https://media.api-sports.io/football/teams/151.png"
-        },
-        "points": 44,
-        "goalsDiff": 9,
-        "group": "Serie B",
-        "form": "WLWDD",
-        "status": "same",
-        "description": "Promotion - Serie A Betano",
-        "all": {
-          "played": 23,
-          "win": 13,
-          "draw": 5,
-          "lose": 5,
-          "goals": {
-            "for": 29,
-            "against": 20
-          }
-        },
-        "home": {
-          "played": 12,
-          "win": 8,
-          "draw": 3,
-          "lose": 1,
-          "goals": {
-            "for": 19,
-            "against": 9
-          }
-        },
-        "away": {
-          "played": 11,
-          "win": 5,
-          "draw": 2,
-          "lose": 4,
-          "goals": {
-            "for": 10,
-            "against": 11
-          }
-        },
-        "update": "2025-08-26T00:00:00+00:00",
-        "btts_matches": 11,
-        "btts_home_matches": 7,
-        "btts_away_matches": 4,
-        "avg_corners_per_game": 1.08,
-        "avg_corners_home_per_game": 1.32,
-        "avg_corners_away_per_game": 0.84,
-        "aproveitamento": 63.8,
-        "over_2_5_goals": 9,
-        "over_0_5_ht": 10,
-        "over_0_5_ft": 12,
-        "clean_sheets": 7,
-        "over_2_5_goals_home": 5,
-        "over_0_5_ht_home": 7,
-        "over_0_5_ft_home": 9,
-        "clean_sheets_home": 4,
-        "over_2_5_goals_away": 4,
-        "over_0_5_ht_away": 3,
-        "over_0_5_ft_away": 3,
-        "clean_sheets_away": 3
-      },
-      {
-        "rank": 2,
-        "team": {
           "id": 147,
           "name": "Coritiba",
           "logo": "https://media.api-sports.io/football/teams/147.png"
         },
-        "points": 43,
-        "goalsDiff": 9,
+        "points": 46,
+        "goalsDiff": 12,
         "group": "Serie B",
-        "form": "DWDWD",
+        "form": "DWDLW",
+        "form_home": "LDDDW",
+        "form_visitor": "WDWWL",
         "status": "same",
         "description": "Promotion - Serie A Betano",
         "all": {
-          "played": 23,
-          "win": 12,
+          "played": 25,
+          "win": 13,
           "draw": 7,
-          "lose": 4,
+          "lose": 5,
           "goals": {
-            "for": 24,
-            "against": 15
+            "for": 28,
+            "against": 16
           }
         },
         "home": {
-          "played": 11,
-          "win": 6,
+          "played": 12,
+          "win": 7,
           "draw": 4,
           "lose": 1,
           "goals": {
-            "for": 13,
+            "for": 17,
             "against": 7
           }
         },
         "away": {
-          "played": 12,
+          "played": 13,
           "win": 6,
           "draw": 3,
-          "lose": 3,
+          "lose": 4,
           "goals": {
             "for": 11,
-            "against": 8
+            "against": 9
           }
         },
-        "update": "2025-08-26T00:00:00+00:00",
+        "update": "2025-09-09T00:00:00+00:00",
         "btts_matches": 8,
         "btts_home_matches": 3,
         "btts_away_matches": 5,
-        "avg_corners_per_game": 0.95,
-        "avg_corners_home_per_game": 1.16,
-        "avg_corners_away_per_game": 0.74,
-        "aproveitamento": 62.3,
-        "over_2_5_goals": 6,
+        "avg_corners_per_game": 6.08,
+        "avg_corners_home_per_game": 6.83,
+        "avg_corners_away_per_game": 5.38,
+        "aproveitamento": 61.3,
+        "over_2_5_goals": 7,
         "over_0_5_ht": 10,
-        "over_0_5_ft": 9,
-        "clean_sheets": 12,
-        "over_2_5_goals_home": 2,
+        "over_0_5_ft": 10,
+        "clean_sheets": 14,
+        "over_2_5_goals_home": 3,
         "over_0_5_ht_home": 6,
-        "over_0_5_ft_home": 4,
-        "clean_sheets_home": 7,
+        "over_0_5_ft_home": 5,
+        "clean_sheets_home": 9,
         "over_2_5_goals_away": 4,
         "over_0_5_ht_away": 4,
         "over_0_5_ft_away": 5,
         "clean_sheets_away": 5
       },
       {
-        "rank": 3,
+        "rank": 2,
         "team": {
-          "id": 132,
-          "name": "Chapecoense-sc",
-          "logo": "https://media.api-sports.io/football/teams/132.png"
+          "id": 151,
+          "name": "Goias",
+          "logo": "https://media.api-sports.io/football/teams/151.png"
         },
-        "points": 40,
-        "goalsDiff": 14,
+        "points": 44,
+        "goalsDiff": 7,
         "group": "Serie B",
-        "form": "WWDWD",
+        "form": "WLWLL",
+        "form_home": "WDWWL",
+        "form_visitor": "WLDLL",
         "status": "same",
         "description": "Promotion - Serie A Betano",
         "all": {
-          "played": 23,
-          "win": 12,
-          "draw": 4,
+          "played": 25,
+          "win": 13,
+          "draw": 5,
           "lose": 7,
           "goals": {
-            "for": 34,
-            "against": 20
+            "for": 32,
+            "against": 25
           }
         },
         "home": {
-          "played": 11,
+          "played": 13,
           "win": 8,
-          "draw": 1,
+          "draw": 3,
           "lose": 2,
           "goals": {
-            "for": 23,
+            "for": 21,
             "against": 12
           }
         },
         "away": {
           "played": 12,
-          "win": 4,
-          "draw": 3,
+          "win": 5,
+          "draw": 2,
           "lose": 5,
           "goals": {
             "for": 11,
-            "against": 8
+            "against": 13
           }
         },
-        "update": "2025-08-26T00:00:00+00:00",
-        "btts_matches": 11,
+        "update": "2025-09-09T00:00:00+00:00",
+        "btts_matches": 13,
         "btts_home_matches": 8,
-        "btts_away_matches": 3,
-        "avg_corners_per_game": 0.92,
-        "avg_corners_home_per_game": 1.26,
-        "avg_corners_away_per_game": 0.58,
-        "aproveitamento": 58.0,
-        "over_2_5_goals": 10,
-        "over_0_5_ht": 10,
-        "over_0_5_ft": 12,
-        "clean_sheets": 7,
-        "over_2_5_goals_home": 8,
+        "btts_away_matches": 5,
+        "avg_corners_per_game": 6.08,
+        "avg_corners_home_per_game": 6.46,
+        "avg_corners_away_per_game": 5.67,
+        "aproveitamento": 58.7,
+        "over_2_5_goals": 11,
+        "over_0_5_ht": 11,
+        "over_0_5_ft": 15,
+        "clean_sheets": 8,
+        "over_2_5_goals_home": 6,
         "over_0_5_ht_home": 8,
-        "over_0_5_ft_home": 9,
-        "clean_sheets_home": 3,
-        "over_2_5_goals_away": 2,
-        "over_0_5_ht_away": 2,
-        "over_0_5_ft_away": 3,
-        "clean_sheets_away": 4
+        "over_0_5_ft_home": 11,
+        "clean_sheets_home": 5,
+        "over_2_5_goals_away": 5,
+        "over_0_5_ht_away": 3,
+        "over_0_5_ft_away": 4,
+        "clean_sheets_away": 3
       },
       {
-        "rank": 4,
+        "rank": 3,
         "team": {
           "id": 140,
           "name": "Criciuma",
           "logo": "https://media.api-sports.io/football/teams/140.png"
         },
-        "points": 36,
-        "goalsDiff": 9,
+        "points": 42,
+        "goalsDiff": 12,
         "group": "Serie B",
-        "form": "WDWLW",
+        "form": "WDWWW",
+        "form_home": "WWWWW",
+        "form_visitor": "WWLDW",
         "status": "same",
         "description": "Promotion - Serie A Betano",
         "all": {
-          "played": 23,
-          "win": 10,
+          "played": 25,
+          "win": 12,
           "draw": 6,
           "lose": 7,
           "goals": {
-            "for": 30,
+            "for": 33,
             "against": 21
           }
         },
         "home": {
-          "played": 12,
-          "win": 7,
+          "played": 13,
+          "win": 8,
           "draw": 2,
           "lose": 3,
           "goals": {
-            "for": 20,
+            "for": 22,
             "against": 11
           }
         },
         "away": {
-          "played": 11,
-          "win": 3,
+          "played": 12,
+          "win": 4,
           "draw": 4,
           "lose": 4,
           "goals": {
-            "for": 10,
+            "for": 11,
             "against": 10
           }
         },
-        "update": "2025-08-26T00:00:00+00:00",
+        "update": "2025-09-09T00:00:00+00:00",
         "btts_matches": 12,
         "btts_home_matches": 6,
         "btts_away_matches": 6,
-        "avg_corners_per_game": 0.95,
-        "avg_corners_home_per_game": 0.89,
-        "avg_corners_away_per_game": 1.0,
-        "aproveitamento": 52.2,
+        "avg_corners_per_game": 5.36,
+        "avg_corners_home_per_game": 6.77,
+        "avg_corners_away_per_game": 3.83,
+        "aproveitamento": 56.0,
         "over_2_5_goals": 8,
-        "over_0_5_ht": 13,
-        "over_0_5_ft": 10,
-        "clean_sheets": 7,
+        "over_0_5_ht": 14,
+        "over_0_5_ft": 12,
+        "clean_sheets": 10,
         "over_2_5_goals_home": 6,
-        "over_0_5_ht_home": 7,
-        "over_0_5_ft_home": 6,
-        "clean_sheets_home": 4,
+        "over_0_5_ht_home": 8,
+        "over_0_5_ft_home": 7,
+        "clean_sheets_home": 6,
         "over_2_5_goals_away": 2,
         "over_0_5_ht_away": 6,
-        "over_0_5_ft_away": 4,
-        "clean_sheets_away": 3
+        "over_0_5_ft_away": 5,
+        "clean_sheets_away": 4
       },
       {
-        "rank": 5,
+        "rank": 4,
         "team": {
-          "id": 7834,
-          "name": "Novorizontino",
-          "logo": "https://media.api-sports.io/football/teams/7834.png"
+          "id": 132,
+          "name": "Chapecoense-sc",
+          "logo": "https://media.api-sports.io/football/teams/132.png"
         },
-        "points": 36,
-        "goalsDiff": 4,
+        "points": 41,
+        "goalsDiff": 12,
         "group": "Serie B",
-        "form": "LLDDL",
+        "form": "DWWDL",
+        "form_home": "DWWWD",
+        "form_visitor": "WDDWL",
         "status": "same",
-        "description": null,
+        "description": "Promotion - Serie A Betano",
         "all": {
-          "played": 23,
-          "win": 9,
-          "draw": 9,
-          "lose": 5,
+          "played": 25,
+          "win": 12,
+          "draw": 5,
+          "lose": 8,
           "goals": {
-            "for": 25,
-            "against": 21
+            "for": 36,
+            "against": 24
           }
         },
         "home": {
           "played": 12,
-          "win": 7,
-          "draw": 4,
-          "lose": 1,
+          "win": 8,
+          "draw": 2,
+          "lose": 2,
           "goals": {
-            "for": 20,
-            "against": 10
+            "for": 25,
+            "against": 14
           }
         },
         "away": {
-          "played": 11,
-          "win": 2,
-          "draw": 5,
-          "lose": 4,
+          "played": 13,
+          "win": 4,
+          "draw": 3,
+          "lose": 6,
           "goals": {
-            "for": 5,
-            "against": 11
+            "for": 11,
+            "against": 10
           }
         },
-        "update": "2025-08-26T00:00:00+00:00",
-        "btts_matches": 10,
-        "btts_home_matches": 8,
-        "btts_away_matches": 2,
-        "avg_corners_per_game": 1.03,
-        "avg_corners_home_per_game": 0.84,
-        "avg_corners_away_per_game": 1.21,
-        "aproveitamento": 52.2,
-        "over_2_5_goals": 7,
+        "update": "2025-09-09T00:00:00+00:00",
+        "btts_matches": 12,
+        "btts_home_matches": 9,
+        "btts_away_matches": 3,
+        "avg_corners_per_game": 4.6,
+        "avg_corners_home_per_game": 5.33,
+        "avg_corners_away_per_game": 3.92,
+        "aproveitamento": 54.7,
+        "over_2_5_goals": 12,
         "over_0_5_ht": 11,
-        "over_0_5_ft": 10,
-        "clean_sheets": 9,
-        "over_2_5_goals_home": 6,
-        "over_0_5_ht_home": 8,
-        "over_0_5_ft_home": 9,
-        "clean_sheets_home": 4,
-        "over_2_5_goals_away": 1,
-        "over_0_5_ht_away": 3,
-        "over_0_5_ft_away": 1,
+        "over_0_5_ft": 14,
+        "clean_sheets": 8,
+        "over_2_5_goals_home": 9,
+        "over_0_5_ht_home": 9,
+        "over_0_5_ft_home": 10,
+        "clean_sheets_home": 3,
+        "over_2_5_goals_away": 3,
+        "over_0_5_ht_away": 2,
+        "over_0_5_ft_away": 4,
         "clean_sheets_away": 5
       },
       {
-        "rank": 6,
+        "rank": 5,
         "team": {
           "id": 1198,
           "name": "remo",
           "logo": "https://media.api-sports.io/football/teams/1198.png"
         },
-        "points": 35,
-        "goalsDiff": 4,
+        "points": 38,
+        "goalsDiff": 5,
         "group": "Serie B",
-        "form": "DDWLD",
+        "form": "WDDLW",
+        "form_home": "DWLDL",
+        "form_visitor": "DDWDW",
         "status": "same",
         "description": null,
         "all": {
-          "played": 23,
-          "win": 8,
+          "played": 25,
+          "win": 9,
           "draw": 11,
-          "lose": 4,
+          "lose": 5,
           "goals": {
-            "for": 24,
-            "against": 20
-          }
-        },
-        "home": {
-          "played": 12,
-          "win": 6,
-          "draw": 4,
-          "lose": 2,
-          "goals": {
-            "for": 13,
-            "against": 8
-          }
-        },
-        "away": {
-          "played": 11,
-          "win": 2,
-          "draw": 7,
-          "lose": 2,
-          "goals": {
-            "for": 11,
-            "against": 12
-          }
-        },
-        "update": "2025-08-26T00:00:00+00:00",
-        "btts_matches": 13,
-        "btts_home_matches": 5,
-        "btts_away_matches": 8,
-        "avg_corners_per_game": 0.84,
-        "avg_corners_home_per_game": 1.16,
-        "avg_corners_away_per_game": 0.53,
-        "aproveitamento": 50.7,
-        "over_2_5_goals": 5,
-        "over_0_5_ht": 13,
-        "over_0_5_ft": 8,
-        "clean_sheets": 6,
-        "over_2_5_goals_home": 2,
-        "over_0_5_ht_home": 8,
-        "over_0_5_ft_home": 3,
-        "clean_sheets_home": 5,
-        "over_2_5_goals_away": 3,
-        "over_0_5_ht_away": 5,
-        "over_0_5_ft_away": 5,
-        "clean_sheets_away": 1
-      },
-      {
-        "rank": 7,
-        "team": {
-          "id": 142,
-          "name": "Vila Nova",
-          "logo": "https://media.api-sports.io/football/teams/142.png"
-        },
-        "points": 33,
-        "goalsDiff": 0,
-        "group": "Serie B",
-        "form": "LWWLL",
-        "status": "same",
-        "description": null,
-        "all": {
-          "played": 23,
-          "win": 10,
-          "draw": 3,
-          "lose": 10,
-          "goals": {
-            "for": 22,
+            "for": 27,
             "against": 22
           }
         },
         "home": {
-          "played": 11,
-          "win": 7,
-          "draw": 1,
+          "played": 13,
+          "win": 6,
+          "draw": 4,
           "lose": 3,
           "goals": {
-            "for": 12,
-            "against": 7
+            "for": 13,
+            "against": 9
           }
         },
         "away": {
           "played": 12,
           "win": 3,
-          "draw": 2,
-          "lose": 7,
+          "draw": 7,
+          "lose": 2,
           "goals": {
-            "for": 10,
-            "against": 15
+            "for": 14,
+            "against": 13
           }
         },
-        "update": "2025-08-26T00:00:00+00:00",
-        "btts_matches": 7,
-        "btts_home_matches": 2,
-        "btts_away_matches": 5,
-        "avg_corners_per_game": 1.03,
-        "avg_corners_home_per_game": 0.74,
-        "avg_corners_away_per_game": 1.32,
-        "aproveitamento": 47.8,
-        "over_2_5_goals": 7,
-        "over_0_5_ht": 9,
-        "over_0_5_ft": 10,
-        "clean_sheets": 9,
-        "over_2_5_goals_home": 3,
-        "over_0_5_ht_home": 6,
-        "over_0_5_ft_home": 4,
-        "clean_sheets_home": 7,
+        "update": "2025-09-09T00:00:00+00:00",
+        "btts_matches": 14,
+        "btts_home_matches": 5,
+        "btts_away_matches": 9,
+        "avg_corners_per_game": 4.52,
+        "avg_corners_home_per_game": 4.69,
+        "avg_corners_away_per_game": 4.33,
+        "aproveitamento": 50.7,
+        "over_2_5_goals": 6,
+        "over_0_5_ht": 14,
+        "over_0_5_ft": 9,
+        "clean_sheets": 7,
+        "over_2_5_goals_home": 2,
+        "over_0_5_ht_home": 8,
+        "over_0_5_ft_home": 3,
+        "clean_sheets_home": 5,
         "over_2_5_goals_away": 4,
-        "over_0_5_ht_away": 3,
+        "over_0_5_ht_away": 6,
         "over_0_5_ft_away": 6,
         "clean_sheets_away": 2
       },
       {
-        "rank": 8,
+        "rank": 6,
         "team": {
           "id": 1193,
           "name": "Cuiaba",
           "logo": "https://media.api-sports.io/football/teams/1193.png"
         },
-        "points": 33,
-        "goalsDiff": 0,
+        "points": 37,
+        "goalsDiff": 1,
         "group": "Serie B",
-        "form": "DDLWL",
+        "form": "LDDDW",
+        "form_home": "WWWDW",
+        "form_visitor": "LLLDD",
         "status": "same",
         "description": null,
         "all": {
-          "played": 23,
-          "win": 9,
-          "draw": 6,
+          "played": 25,
+          "win": 10,
+          "draw": 7,
           "lose": 8,
           "goals": {
-            "for": 27,
-            "against": 27
+            "for": 30,
+            "against": 29
           }
         },
         "home": {
-          "played": 11,
-          "win": 7,
+          "played": 12,
+          "win": 8,
           "draw": 2,
           "lose": 2,
           "goals": {
-            "for": 19,
+            "for": 20,
+            "against": 11
+          }
+        },
+        "away": {
+          "played": 13,
+          "win": 2,
+          "draw": 5,
+          "lose": 6,
+          "goals": {
+            "for": 10,
+            "against": 18
+          }
+        },
+        "update": "2025-09-09T00:00:00+00:00",
+        "btts_matches": 12,
+        "btts_home_matches": 6,
+        "btts_away_matches": 6,
+        "avg_corners_per_game": 5.52,
+        "avg_corners_home_per_game": 5.33,
+        "avg_corners_away_per_game": 5.69,
+        "aproveitamento": 49.3,
+        "over_2_5_goals": 10,
+        "over_0_5_ht": 10,
+        "over_0_5_ft": 15,
+        "clean_sheets": 8,
+        "over_2_5_goals_home": 6,
+        "over_0_5_ht_home": 7,
+        "over_0_5_ft_home": 9,
+        "clean_sheets_home": 5,
+        "over_2_5_goals_away": 4,
+        "over_0_5_ht_away": 3,
+        "over_0_5_ft_away": 6,
+        "clean_sheets_away": 3
+      },
+      {
+        "rank": 7,
+        "team": {
+          "id": 7834,
+          "name": "Novorizontino",
+          "logo": "https://media.api-sports.io/football/teams/7834.png"
+        },
+        "points": 37,
+        "goalsDiff": 3,
+        "group": "Serie B",
+        "form": "DLLLD",
+        "form_home": "WWDLD",
+        "form_visitor": "DLDLL",
+        "status": "same",
+        "description": null,
+        "all": {
+          "played": 25,
+          "win": 9,
+          "draw": 10,
+          "lose": 6,
+          "goals": {
+            "for": 27,
+            "against": 24
+          }
+        },
+        "home": {
+          "played": 13,
+          "win": 7,
+          "draw": 5,
+          "lose": 1,
+          "goals": {
+            "for": 21,
             "against": 11
           }
         },
         "away": {
           "played": 12,
           "win": 2,
-          "draw": 4,
-          "lose": 6,
+          "draw": 5,
+          "lose": 5,
           "goals": {
-            "for": 8,
-            "against": 16
+            "for": 6,
+            "against": 13
           }
         },
-        "update": "2025-08-26T00:00:00+00:00",
-        "btts_matches": 10,
-        "btts_home_matches": 5,
-        "btts_away_matches": 5,
-        "avg_corners_per_game": 0.79,
-        "avg_corners_home_per_game": 0.42,
-        "avg_corners_away_per_game": 1.16,
-        "aproveitamento": 47.8,
+        "update": "2025-09-09T00:00:00+00:00",
+        "btts_matches": 12,
+        "btts_home_matches": 9,
+        "btts_away_matches": 3,
+        "avg_corners_per_game": 4.96,
+        "avg_corners_home_per_game": 5.85,
+        "avg_corners_away_per_game": 4.0,
+        "aproveitamento": 49.3,
         "over_2_5_goals": 8,
-        "over_0_5_ht": 8,
-        "over_0_5_ft": 13,
-        "clean_sheets": 7,
-        "over_2_5_goals_home": 5,
-        "over_0_5_ht_home": 5,
-        "over_0_5_ft_home": 8,
+        "over_0_5_ht": 12,
+        "over_0_5_ft": 11,
+        "clean_sheets": 9,
+        "over_2_5_goals_home": 6,
+        "over_0_5_ht_home": 8,
+        "over_0_5_ft_home": 10,
         "clean_sheets_home": 4,
-        "over_2_5_goals_away": 3,
-        "over_0_5_ht_away": 3,
-        "over_0_5_ft_away": 5,
-        "clean_sheets_away": 3
+        "over_2_5_goals_away": 2,
+        "over_0_5_ht_away": 4,
+        "over_0_5_ft_away": 1,
+        "clean_sheets_away": 5
+      },
+      {
+        "rank": 8,
+        "team": {
+          "id": 134,
+          "name": "Atletico Paranaense",
+          "logo": "https://media.api-sports.io/football/teams/134.png"
+        },
+        "points": 36,
+        "goalsDiff": 0,
+        "group": "Serie B",
+        "form": "LDWWW",
+        "form_home": "LDDDW",
+        "form_visitor": "LDLWW",
+        "status": "same",
+        "description": null,
+        "all": {
+          "played": 25,
+          "win": 10,
+          "draw": 6,
+          "lose": 9,
+          "goals": {
+            "for": 34,
+            "against": 34
+          }
+        },
+        "home": {
+          "played": 13,
+          "win": 5,
+          "draw": 4,
+          "lose": 4,
+          "goals": {
+            "for": 14,
+            "against": 14
+          }
+        },
+        "away": {
+          "played": 12,
+          "win": 5,
+          "draw": 2,
+          "lose": 5,
+          "goals": {
+            "for": 20,
+            "against": 20
+          }
+        },
+        "update": "2025-09-09T00:00:00+00:00",
+        "btts_matches": 18,
+        "btts_home_matches": 8,
+        "btts_away_matches": 10,
+        "avg_corners_per_game": 5.36,
+        "avg_corners_home_per_game": 7.08,
+        "avg_corners_away_per_game": 3.5,
+        "aproveitamento": 48.0,
+        "over_2_5_goals": 14,
+        "over_0_5_ht": 13,
+        "over_0_5_ft": 17,
+        "clean_sheets": 4,
+        "over_2_5_goals_home": 4,
+        "over_0_5_ht_home": 4,
+        "over_0_5_ft_home": 9,
+        "clean_sheets_home": 2,
+        "over_2_5_goals_away": 10,
+        "over_0_5_ht_away": 9,
+        "over_0_5_ft_away": 8,
+        "clean_sheets_away": 2
       },
       {
         "rank": 9,
@@ -520,57 +536,59 @@
           "name": "Avai",
           "logo": "https://media.api-sports.io/football/teams/145.png"
         },
-        "points": 33,
-        "goalsDiff": 7,
+        "points": 36,
+        "goalsDiff": 6,
         "group": "Serie B",
-        "form": "LDWDW",
+        "form": "WDLLW",
+        "form_home": "DWWLW",
+        "form_visitor": "LLDDL",
         "status": "same",
         "description": null,
         "all": {
-          "played": 23,
-          "win": 8,
+          "played": 25,
+          "win": 9,
           "draw": 9,
-          "lose": 6,
+          "lose": 7,
           "goals": {
-            "for": 30,
-            "against": 23
+            "for": 32,
+            "against": 26
           }
         },
         "home": {
-          "played": 12,
-          "win": 6,
+          "played": 13,
+          "win": 7,
           "draw": 4,
           "lose": 2,
           "goals": {
-            "for": 18,
-            "against": 7
+            "for": 20,
+            "against": 8
           }
         },
         "away": {
-          "played": 11,
+          "played": 12,
           "win": 2,
           "draw": 5,
-          "lose": 4,
+          "lose": 5,
           "goals": {
             "for": 12,
-            "against": 16
+            "against": 18
           }
         },
-        "update": "2025-08-26T00:00:00+00:00",
-        "btts_matches": 12,
-        "btts_home_matches": 4,
+        "update": "2025-09-09T00:00:00+00:00",
+        "btts_matches": 14,
+        "btts_home_matches": 6,
         "btts_away_matches": 8,
-        "avg_corners_per_game": 0.95,
-        "avg_corners_home_per_game": 0.84,
-        "avg_corners_away_per_game": 1.05,
-        "aproveitamento": 47.8,
-        "over_2_5_goals": 10,
-        "over_0_5_ht": 12,
-        "over_0_5_ft": 9,
+        "avg_corners_per_game": 4.44,
+        "avg_corners_home_per_game": 4.69,
+        "avg_corners_away_per_game": 4.17,
+        "aproveitamento": 48.0,
+        "over_2_5_goals": 12,
+        "over_0_5_ht": 13,
+        "over_0_5_ft": 11,
         "clean_sheets": 9,
-        "over_2_5_goals_home": 4,
-        "over_0_5_ht_home": 5,
-        "over_0_5_ft_home": 6,
+        "over_2_5_goals_home": 6,
+        "over_0_5_ht_home": 6,
+        "over_0_5_ft_home": 8,
         "clean_sheets_home": 7,
         "over_2_5_goals_away": 6,
         "over_0_5_ht_away": 7,
@@ -580,322 +598,332 @@
       {
         "rank": 10,
         "team": {
+          "id": 142,
+          "name": "Vila Nova",
+          "logo": "https://media.api-sports.io/football/teams/142.png"
+        },
+        "points": 35,
+        "goalsDiff": 0,
+        "group": "Serie B",
+        "form": "WWLDD",
+        "form_home": "DWLWD",
+        "form_visitor": "DLWLD",
+        "status": "same",
+        "description": null,
+        "all": {
+          "played": 25,
+          "win": 10,
+          "draw": 5,
+          "lose": 10,
+          "goals": {
+            "for": 25,
+            "against": 25
+          }
+        },
+        "home": {
+          "played": 12,
+          "win": 7,
+          "draw": 2,
+          "lose": 3,
+          "goals": {
+            "for": 13,
+            "against": 8
+          }
+        },
+        "away": {
+          "played": 13,
+          "win": 3,
+          "draw": 3,
+          "lose": 7,
+          "goals": {
+            "for": 12,
+            "against": 17
+          }
+        },
+        "update": "2025-09-09T00:00:00+00:00",
+        "btts_matches": 9,
+        "btts_home_matches": 3,
+        "btts_away_matches": 6,
+        "avg_corners_per_game": 4.36,
+        "avg_corners_home_per_game": 5.17,
+        "avg_corners_away_per_game": 3.62,
+        "aproveitamento": 46.7,
+        "over_2_5_goals": 8,
+        "over_0_5_ht": 11,
+        "over_0_5_ft": 11,
+        "clean_sheets": 9,
+        "over_2_5_goals_home": 3,
+        "over_0_5_ht_home": 7,
+        "over_0_5_ft_home": 4,
+        "clean_sheets_home": 7,
+        "over_2_5_goals_away": 5,
+        "over_0_5_ht_away": 4,
+        "over_0_5_ft_away": 7,
+        "clean_sheets_away": 2
+      },
+      {
+        "rank": 11,
+        "team": {
           "id": 146,
           "name": "CRB",
           "logo": "https://media.api-sports.io/football/teams/146.png"
         },
-        "points": 31,
-        "goalsDiff": 2,
+        "points": 34,
+        "goalsDiff": 3,
         "group": "Serie B",
-        "form": "LWWLW",
+        "form": "WWLWL",
+        "form_home": "LWWLW",
+        "form_visitor": "DLLWL",
         "status": "same",
         "description": null,
         "all": {
-          "played": 23,
-          "win": 9,
+          "played": 25,
+          "win": 10,
           "draw": 4,
-          "lose": 10,
+          "lose": 11,
           "goals": {
-            "for": 24,
-            "against": 22
+            "for": 26,
+            "against": 23
           }
         },
         "home": {
-          "played": 11,
-          "win": 7,
+          "played": 12,
+          "win": 8,
           "draw": 1,
           "lose": 3,
           "goals": {
-            "for": 14,
+            "for": 16,
             "against": 5
           }
         },
         "away": {
-          "played": 12,
+          "played": 13,
           "win": 2,
           "draw": 3,
-          "lose": 7,
+          "lose": 8,
           "goals": {
             "for": 10,
-            "against": 17
+            "against": 18
           }
         },
-        "update": "2025-08-26T00:00:00+00:00",
+        "update": "2025-09-09T00:00:00+00:00",
         "btts_matches": 9,
         "btts_home_matches": 2,
         "btts_away_matches": 7,
-        "avg_corners_per_game": 1.24,
-        "avg_corners_home_per_game": 1.11,
-        "avg_corners_away_per_game": 1.37,
-        "aproveitamento": 44.9,
+        "avg_corners_per_game": 6.48,
+        "avg_corners_home_per_game": 5.75,
+        "avg_corners_away_per_game": 7.15,
+        "aproveitamento": 45.3,
         "over_2_5_goals": 6,
         "over_0_5_ht": 11,
-        "over_0_5_ft": 9,
-        "clean_sheets": 8,
+        "over_0_5_ft": 10,
+        "clean_sheets": 9,
         "over_2_5_goals_home": 2,
         "over_0_5_ht_home": 7,
-        "over_0_5_ft_home": 5,
-        "clean_sheets_home": 7,
+        "over_0_5_ft_home": 6,
+        "clean_sheets_home": 8,
         "over_2_5_goals_away": 4,
         "over_0_5_ht_away": 4,
         "over_0_5_ft_away": 4,
         "clean_sheets_away": 1
       },
       {
-        "rank": 11,
+        "rank": 12,
         "team": {
           "id": 1223,
           "name": "Operario-PR",
           "logo": "https://media.api-sports.io/football/teams/1223.png"
         },
-        "points": 30,
-        "goalsDiff": 2,
+        "points": 34,
+        "goalsDiff": 3,
         "group": "Serie B",
-        "form": "WDLWD",
+        "form": "LDWWD",
+        "form_home": "DWWDW",
+        "form_visitor": "DDLWD",
         "status": "same",
         "description": null,
         "all": {
-          "played": 23,
-          "win": 8,
-          "draw": 6,
+          "played": 25,
+          "win": 9,
+          "draw": 7,
           "lose": 9,
           "goals": {
-            "for": 25,
-            "against": 23
-          }
-        },
-        "home": {
-          "played": 11,
-          "win": 5,
-          "draw": 4,
-          "lose": 2,
-          "goals": {
-            "for": 15,
-            "against": 7
-          }
-        },
-        "away": {
-          "played": 12,
-          "win": 3,
-          "draw": 2,
-          "lose": 7,
-          "goals": {
-            "for": 10,
-            "against": 16
-          }
-        },
-        "update": "2025-08-26T00:00:00+00:00",
-        "btts_matches": 9,
-        "btts_home_matches": 4,
-        "btts_away_matches": 5,
-        "avg_corners_per_game": 1.13,
-        "avg_corners_home_per_game": 1.26,
-        "avg_corners_away_per_game": 1.0,
-        "aproveitamento": 43.5,
-        "over_2_5_goals": 10,
-        "over_0_5_ht": 9,
-        "over_0_5_ft": 8,
-        "clean_sheets": 9,
-        "over_2_5_goals_home": 5,
-        "over_0_5_ht_home": 5,
-        "over_0_5_ft_home": 5,
-        "clean_sheets_home": 7,
-        "over_2_5_goals_away": 5,
-        "over_0_5_ht_away": 4,
-        "over_0_5_ft_away": 3,
-        "clean_sheets_away": 2
-      },
-      {
-        "rank": 12,
-        "team": {
-          "id": 134,
-          "name": "Atletico Paranaense",
-          "logo": "https://media.api-sports.io/football/teams/134.png"
-        },
-        "points": 30,
-        "goalsDiff": -3,
-        "group": "Serie B",
-        "form": "WDLDD",
-        "status": "same",
-        "description": null,
-        "all": {
-          "played": 23,
-          "win": 8,
-          "draw": 6,
-          "lose": 9,
-          "goals": {
-            "for": 29,
-            "against": 32
-          }
-        },
-        "home": {
-          "played": 12,
-          "win": 4,
-          "draw": 4,
-          "lose": 4,
-          "goals": {
-            "for": 12,
-            "against": 13
-          }
-        },
-        "away": {
-          "played": 11,
-          "win": 4,
-          "draw": 2,
-          "lose": 5,
-          "goals": {
-            "for": 17,
-            "against": 19
-          }
-        },
-        "update": "2025-08-26T00:00:00+00:00",
-        "btts_matches": 16,
-        "btts_home_matches": 7,
-        "btts_away_matches": 9,
-        "avg_corners_per_game": 1.29,
-        "avg_corners_home_per_game": 1.74,
-        "avg_corners_away_per_game": 0.84,
-        "aproveitamento": 43.5,
-        "over_2_5_goals": 12,
-        "over_0_5_ht": 11,
-        "over_0_5_ft": 14,
-        "clean_sheets": 3,
-        "over_2_5_goals_home": 3,
-        "over_0_5_ht_home": 3,
-        "over_0_5_ft_home": 8,
-        "clean_sheets_home": 2,
-        "over_2_5_goals_away": 9,
-        "over_0_5_ht_away": 8,
-        "over_0_5_ft_away": 6,
-        "clean_sheets_away": 1
-      },
-      {
-        "rank": 13,
-        "team": {
-          "id": 7826,
-          "name": "Ferroviária",
-          "logo": "https://media.api-sports.io/football/teams/7826.png"
-        },
-        "points": 30,
-        "goalsDiff": 1,
-        "group": "Serie B",
-        "form": "DWWWD",
-        "status": "same",
-        "description": null,
-        "all": {
-          "played": 23,
-          "win": 7,
-          "draw": 9,
-          "lose": 7,
-          "goals": {
-            "for": 25,
+            "for": 27,
             "against": 24
           }
         },
         "home": {
-          "played": 11,
-          "win": 4,
-          "draw": 5,
+          "played": 12,
+          "win": 6,
+          "draw": 4,
           "lose": 2,
           "goals": {
-            "for": 12,
-            "against": 10
+            "for": 16,
+            "against": 7
           }
         },
         "away": {
-          "played": 12,
+          "played": 13,
           "win": 3,
-          "draw": 4,
-          "lose": 5,
+          "draw": 3,
+          "lose": 7,
           "goals": {
-            "for": 13,
-            "against": 14
+            "for": 11,
+            "against": 17
           }
         },
-        "update": "2025-08-26T00:00:00+00:00",
-        "btts_matches": 14,
-        "btts_home_matches": 7,
+        "update": "2025-09-09T00:00:00+00:00",
+        "btts_matches": 11,
+        "btts_home_matches": 4,
         "btts_away_matches": 7,
-        "avg_corners_per_game": 0.89,
-        "avg_corners_home_per_game": 1.16,
-        "avg_corners_away_per_game": 0.63,
-        "aproveitamento": 43.5,
-        "over_2_5_goals": 10,
+        "avg_corners_per_game": 4.6,
+        "avg_corners_home_per_game": 4.58,
+        "avg_corners_away_per_game": 4.62,
+        "aproveitamento": 45.3,
+        "over_2_5_goals": 11,
         "over_0_5_ht": 12,
-        "over_0_5_ft": 10,
-        "clean_sheets": 6,
-        "over_2_5_goals_home": 4,
-        "over_0_5_ht_home": 7,
-        "over_0_5_ft_home": 4,
-        "clean_sheets_home": 3,
+        "over_0_5_ft": 9,
+        "clean_sheets": 10,
+        "over_2_5_goals_home": 5,
+        "over_0_5_ht_home": 6,
+        "over_0_5_ft_home": 5,
+        "clean_sheets_home": 8,
         "over_2_5_goals_away": 6,
-        "over_0_5_ht_away": 5,
-        "over_0_5_ft_away": 6,
-        "clean_sheets_away": 3
+        "over_0_5_ht_away": 6,
+        "over_0_5_ft_away": 4,
+        "clean_sheets_away": 2
       },
       {
-        "rank": 14,
+        "rank": 13,
         "team": {
           "id": 144,
           "name": "Atletico Goianiense",
           "logo": "https://media.api-sports.io/football/teams/144.png"
         },
-        "points": 28,
-        "goalsDiff": -2,
+        "points": 32,
+        "goalsDiff": 0,
         "group": "Serie B",
-        "form": "DLWDD",
+        "form": "WLDWD",
+        "form_home": "LDWLW",
+        "form_visitor": "DLDDD",
         "status": "same",
         "description": null,
         "all": {
-          "played": 23,
-          "win": 6,
-          "draw": 10,
+          "played": 25,
+          "win": 7,
+          "draw": 11,
           "lose": 7,
           "goals": {
-            "for": 24,
-            "against": 26
+            "for": 27,
+            "against": 27
           }
         },
         "home": {
-          "played": 12,
-          "win": 5,
+          "played": 13,
+          "win": 6,
           "draw": 4,
           "lose": 3,
           "goals": {
-            "for": 15,
+            "for": 17,
             "against": 11
           }
         },
         "away": {
-          "played": 11,
+          "played": 12,
           "win": 1,
-          "draw": 6,
+          "draw": 7,
           "lose": 4,
           "goals": {
-            "for": 9,
-            "against": 15
+            "for": 10,
+            "against": 16
           }
         },
-        "update": "2025-08-26T00:00:00+00:00",
-        "btts_matches": 11,
+        "update": "2025-09-09T00:00:00+00:00",
+        "btts_matches": 13,
         "btts_home_matches": 6,
-        "btts_away_matches": 5,
-        "avg_corners_per_game": 0.82,
-        "avg_corners_home_per_game": 0.95,
-        "avg_corners_away_per_game": 0.68,
-        "aproveitamento": 40.6,
-        "over_2_5_goals": 7,
-        "over_0_5_ht": 10,
-        "over_0_5_ft": 7,
-        "clean_sheets": 7,
+        "btts_away_matches": 7,
+        "avg_corners_per_game": 4.64,
+        "avg_corners_home_per_game": 5.0,
+        "avg_corners_away_per_game": 4.25,
+        "aproveitamento": 42.7,
+        "over_2_5_goals": 8,
+        "over_0_5_ht": 12,
+        "over_0_5_ft": 10,
+        "clean_sheets": 8,
         "over_2_5_goals_home": 4,
-        "over_0_5_ht_home": 5,
-        "over_0_5_ft_home": 6,
-        "clean_sheets_home": 5,
-        "over_2_5_goals_away": 3,
-        "over_0_5_ht_away": 5,
-        "over_0_5_ft_away": 1,
+        "over_0_5_ht_home": 6,
+        "over_0_5_ft_home": 7,
+        "clean_sheets_home": 6,
+        "over_2_5_goals_away": 4,
+        "over_0_5_ht_away": 6,
+        "over_0_5_ft_away": 3,
         "clean_sheets_away": 2
+      },
+      {
+        "rank": 14,
+        "team": {
+          "id": 7826,
+          "name": "Ferroviária",
+          "logo": "https://media.api-sports.io/football/teams/7826.png"
+        },
+        "points": 31,
+        "goalsDiff": -3,
+        "group": "Serie B",
+        "form": "WWDDL",
+        "form_home": "LDWDD",
+        "form_visitor": "LDWWL",
+        "status": "same",
+        "description": null,
+        "all": {
+          "played": 25,
+          "win": 7,
+          "draw": 10,
+          "lose": 8,
+          "goals": {
+            "for": 27,
+            "against": 30
+          }
+        },
+        "home": {
+          "played": 12,
+          "win": 4,
+          "draw": 6,
+          "lose": 2,
+          "goals": {
+            "for": 14,
+            "against": 12
+          }
+        },
+        "away": {
+          "played": 13,
+          "win": 3,
+          "draw": 4,
+          "lose": 6,
+          "goals": {
+            "for": 13,
+            "against": 18
+          }
+        },
+        "update": "2025-09-09T00:00:00+00:00",
+        "btts_matches": 15,
+        "btts_home_matches": 8,
+        "btts_away_matches": 7,
+        "avg_corners_per_game": 4.04,
+        "avg_corners_home_per_game": 4.33,
+        "avg_corners_away_per_game": 3.77,
+        "aproveitamento": 41.3,
+        "over_2_5_goals": 12,
+        "over_0_5_ht": 13,
+        "over_0_5_ft": 10,
+        "clean_sheets": 7,
+        "over_2_5_goals_home": 5,
+        "over_0_5_ht_home": 8,
+        "over_0_5_ft_home": 4,
+        "clean_sheets_home": 4,
+        "over_2_5_goals_away": 7,
+        "over_0_5_ht_away": 5,
+        "over_0_5_ft_away": 6,
+        "clean_sheets_away": 3
       },
       {
         "rank": 15,
@@ -904,20 +932,22 @@
           "name": "Athletic Club",
           "logo": "https://media.api-sports.io/football/teams/13975.png"
         },
-        "points": 25,
-        "goalsDiff": -9,
+        "points": 29,
+        "goalsDiff": -7,
         "group": "Serie B",
-        "form": "LDLDD",
+        "form": "LDLWD",
+        "form_home": "WDDDL",
+        "form_visitor": "WDLWD",
         "status": "same",
         "description": null,
         "all": {
-          "played": 23,
-          "win": 7,
-          "draw": 4,
+          "played": 25,
+          "win": 8,
+          "draw": 5,
           "lose": 12,
           "goals": {
-            "for": 24,
-            "against": 33
+            "for": 27,
+            "against": 34
           }
         },
         "home": {
@@ -931,35 +961,35 @@
           }
         },
         "away": {
-          "played": 11,
-          "win": 4,
-          "draw": 1,
+          "played": 13,
+          "win": 5,
+          "draw": 2,
           "lose": 6,
           "goals": {
-            "for": 11,
-            "against": 15
+            "for": 14,
+            "against": 16
           }
         },
-        "update": "2025-08-26T00:00:00+00:00",
-        "btts_matches": 11,
+        "update": "2025-09-09T00:00:00+00:00",
+        "btts_matches": 12,
         "btts_home_matches": 7,
-        "btts_away_matches": 4,
-        "avg_corners_per_game": 1.13,
-        "avg_corners_home_per_game": 1.16,
-        "avg_corners_away_per_game": 1.11,
-        "aproveitamento": 36.2,
-        "over_2_5_goals": 10,
+        "btts_away_matches": 5,
+        "avg_corners_per_game": 5.04,
+        "avg_corners_home_per_game": 5.92,
+        "avg_corners_away_per_game": 4.23,
+        "aproveitamento": 38.7,
+        "over_2_5_goals": 11,
         "over_0_5_ht": 12,
-        "over_0_5_ft": 9,
-        "clean_sheets": 3,
-        "over_2_5_goals_home": 5,
+        "over_0_5_ft": 11,
+        "clean_sheets": 4,
+        "over_2_5_goals_home": 6,
         "over_0_5_ht_home": 6,
         "over_0_5_ft_home": 5,
         "clean_sheets_home": 1,
         "over_2_5_goals_away": 5,
         "over_0_5_ht_away": 6,
-        "over_0_5_ft_away": 4,
-        "clean_sheets_away": 2
+        "over_0_5_ft_away": 6,
+        "clean_sheets_away": 3
       },
       {
         "rank": 16,
@@ -968,222 +998,98 @@
           "name": "Botafogo SP",
           "logo": "https://media.api-sports.io/football/teams/2618.png"
         },
-        "points": 25,
-        "goalsDiff": -14,
+        "points": 28,
+        "goalsDiff": -15,
         "group": "Serie B",
-        "form": "WDLWL",
+        "form": "LDWWL",
+        "form_home": "DLWWL",
+        "form_visitor": "LLLDW",
         "status": "same",
         "description": null,
         "all": {
-          "played": 23,
-          "win": 6,
+          "played": 25,
+          "win": 7,
           "draw": 7,
-          "lose": 10,
+          "lose": 11,
           "goals": {
-            "for": 17,
-            "against": 31
+            "for": 21,
+            "against": 36
           }
         },
         "home": {
-          "played": 12,
+          "played": 13,
           "win": 4,
           "draw": 5,
-          "lose": 3,
+          "lose": 4,
           "goals": {
-            "for": 10,
-            "against": 11
+            "for": 11,
+            "against": 14
           }
         },
         "away": {
-          "played": 11,
-          "win": 2,
+          "played": 12,
+          "win": 3,
           "draw": 2,
           "lose": 7,
           "goals": {
-            "for": 7,
-            "against": 20
+            "for": 10,
+            "against": 22
           }
         },
-        "update": "2025-08-26T00:00:00+00:00",
-        "btts_matches": 7,
-        "btts_home_matches": 4,
-        "btts_away_matches": 3,
-        "avg_corners_per_game": 0.97,
-        "avg_corners_home_per_game": 0.79,
-        "avg_corners_away_per_game": 1.16,
-        "aproveitamento": 36.2,
-        "over_2_5_goals": 8,
-        "over_0_5_ht": 5,
-        "over_0_5_ft": 8,
-        "clean_sheets": 5,
-        "over_2_5_goals_home": 4,
+        "update": "2025-09-09T00:00:00+00:00",
+        "btts_matches": 9,
+        "btts_home_matches": 5,
+        "btts_away_matches": 4,
+        "avg_corners_per_game": 4.71,
+        "avg_corners_home_per_game": 5.08,
+        "avg_corners_away_per_game": 4.33,
+        "aproveitamento": 37.3,
+        "over_2_5_goals": 10,
+        "over_0_5_ht": 6,
+        "over_0_5_ft": 11,
+        "clean_sheets": 6,
+        "over_2_5_goals_home": 5,
         "over_0_5_ht_home": 4,
-        "over_0_5_ft_home": 4,
-        "clean_sheets_home": 4,
-        "over_2_5_goals_away": 4,
-        "over_0_5_ht_away": 1,
-        "over_0_5_ft_away": 4,
+        "over_0_5_ft_home": 6,
+        "clean_sheets_home": 5,
+        "over_2_5_goals_away": 5,
+        "over_0_5_ht_away": 2,
+        "over_0_5_ft_away": 5,
         "clean_sheets_away": 1
       },
       {
         "rank": 17,
         "team": {
-          "id": 10862,
-          "name": "Amazonas",
-          "logo": "https://media.api-sports.io/football/teams/10862.png"
-        },
-        "points": 24,
-        "goalsDiff": -7,
-        "group": "Serie B",
-        "form": "WDLDD",
-        "status": "same",
-        "description": "Relegation - Serie C (First stage: )",
-        "all": {
-          "played": 23,
-          "win": 5,
-          "draw": 9,
-          "lose": 9,
-          "goals": {
-            "for": 25,
-            "against": 32
-          }
-        },
-        "home": {
-          "played": 12,
-          "win": 4,
-          "draw": 6,
-          "lose": 2,
-          "goals": {
-            "for": 15,
-            "against": 11
-          }
-        },
-        "away": {
-          "played": 11,
-          "win": 1,
-          "draw": 3,
-          "lose": 7,
-          "goals": {
-            "for": 10,
-            "against": 21
-          }
-        },
-        "update": "2025-08-26T00:00:00+00:00",
-        "btts_matches": 13,
-        "btts_home_matches": 6,
-        "btts_away_matches": 7,
-        "avg_corners_per_game": 0.87,
-        "avg_corners_home_per_game": 1.21,
-        "avg_corners_away_per_game": 0.53,
-        "aproveitamento": 34.8,
-        "over_2_5_goals": 9,
-        "over_0_5_ht": 10,
-        "over_0_5_ft": 11,
-        "clean_sheets": 4,
-        "over_2_5_goals_home": 4,
-        "over_0_5_ht_home": 5,
-        "over_0_5_ft_home": 8,
-        "clean_sheets_home": 4,
-        "over_2_5_goals_away": 5,
-        "over_0_5_ht_away": 5,
-        "over_0_5_ft_away": 3,
-        "clean_sheets_away": 0
-      },
-      {
-        "rank": 18,
-        "team": {
-          "id": 7814,
-          "name": "Volta Redonda",
-          "logo": "https://media.api-sports.io/football/teams/7814.png"
-        },
-        "points": 23,
-        "goalsDiff": -10,
-        "group": "Serie B",
-        "form": "DLDLW",
-        "status": "same",
-        "description": "Relegation - Serie C (First stage: )",
-        "all": {
-          "played": 23,
-          "win": 5,
-          "draw": 8,
-          "lose": 10,
-          "goals": {
-            "for": 14,
-            "against": 24
-          }
-        },
-        "home": {
-          "played": 11,
-          "win": 5,
-          "draw": 4,
-          "lose": 2,
-          "goals": {
-            "for": 10,
-            "against": 7
-          }
-        },
-        "away": {
-          "played": 12,
-          "win": 0,
-          "draw": 4,
-          "lose": 8,
-          "goals": {
-            "for": 4,
-            "against": 17
-          }
-        },
-        "update": "2025-08-26T00:00:00+00:00",
-        "btts_matches": 7,
-        "btts_home_matches": 4,
-        "btts_away_matches": 3,
-        "avg_corners_per_game": 0.76,
-        "avg_corners_home_per_game": 1.11,
-        "avg_corners_away_per_game": 0.42,
-        "aproveitamento": 33.3,
-        "over_2_5_goals": 4,
-        "over_0_5_ht": 3,
-        "over_0_5_ft": 9,
-        "clean_sheets": 7,
-        "over_2_5_goals_home": 2,
-        "over_0_5_ht_home": 1,
-        "over_0_5_ft_home": 7,
-        "clean_sheets_home": 5,
-        "over_2_5_goals_away": 2,
-        "over_0_5_ht_away": 2,
-        "over_0_5_ft_away": 2,
-        "clean_sheets_away": 2
-      },
-      {
-        "rank": 19,
-        "team": {
           "id": 125,
           "name": "America Mineiro",
           "logo": "https://media.api-sports.io/football/teams/125.png"
         },
-        "points": 22,
-        "goalsDiff": -9,
+        "points": 26,
+        "goalsDiff": -7,
         "group": "Serie B",
-        "form": "LDLLD",
+        "form": "LDLWD",
+        "form_home": "LDLWD",
+        "form_visitor": "LLLDL",
         "status": "same",
         "description": "Relegation - Serie C (First stage: )",
         "all": {
-          "played": 23,
-          "win": 6,
-          "draw": 4,
+          "played": 25,
+          "win": 7,
+          "draw": 5,
           "lose": 13,
           "goals": {
-            "for": 23,
-            "against": 32
+            "for": 26,
+            "against": 33
           }
         },
         "home": {
-          "played": 11,
-          "win": 4,
-          "draw": 3,
+          "played": 13,
+          "win": 5,
+          "draw": 4,
           "lose": 4,
           "goals": {
-            "for": 13,
-            "against": 12
+            "for": 16,
+            "against": 13
           }
         },
         "away": {
@@ -1196,26 +1102,158 @@
             "against": 20
           }
         },
-        "update": "2025-08-26T00:00:00+00:00",
-        "btts_matches": 11,
-        "btts_home_matches": 6,
+        "update": "2025-09-09T00:00:00+00:00",
+        "btts_matches": 12,
+        "btts_home_matches": 7,
         "btts_away_matches": 5,
-        "avg_corners_per_game": 1.32,
-        "avg_corners_home_per_game": 1.47,
-        "avg_corners_away_per_game": 1.16,
-        "aproveitamento": 31.9,
+        "avg_corners_per_game": 5.56,
+        "avg_corners_home_per_game": 6.31,
+        "avg_corners_away_per_game": 4.75,
+        "aproveitamento": 34.7,
         "over_2_5_goals": 12,
-        "over_0_5_ht": 9,
-        "over_0_5_ft": 7,
-        "clean_sheets": 3,
+        "over_0_5_ht": 11,
+        "over_0_5_ft": 8,
+        "clean_sheets": 4,
         "over_2_5_goals_home": 5,
-        "over_0_5_ht_home": 5,
-        "over_0_5_ft_home": 4,
-        "clean_sheets_home": 2,
+        "over_0_5_ht_home": 7,
+        "over_0_5_ft_home": 5,
+        "clean_sheets_home": 3,
         "over_2_5_goals_away": 7,
         "over_0_5_ht_away": 4,
         "over_0_5_ft_away": 3,
         "clean_sheets_away": 1
+      },
+      {
+        "rank": 18,
+        "team": {
+          "id": 7814,
+          "name": "Volta Redonda",
+          "logo": "https://media.api-sports.io/football/teams/7814.png"
+        },
+        "points": 26,
+        "goalsDiff": -11,
+        "group": "Serie B",
+        "form": "DLDLW",
+        "form_home": "WWDLL",
+        "form_visitor": "DLLDW",
+        "status": "same",
+        "description": "Relegation - Serie C (First stage: )",
+        "all": {
+          "played": 25,
+          "win": 6,
+          "draw": 8,
+          "lose": 11,
+          "goals": {
+            "for": 16,
+            "against": 27
+          }
+        },
+        "home": {
+          "played": 12,
+          "win": 5,
+          "draw": 4,
+          "lose": 3,
+          "goals": {
+            "for": 10,
+            "against": 9
+          }
+        },
+        "away": {
+          "played": 13,
+          "win": 1,
+          "draw": 4,
+          "lose": 8,
+          "goals": {
+            "for": 6,
+            "against": 18
+          }
+        },
+        "update": "2025-09-09T00:00:00+00:00",
+        "btts_matches": 8,
+        "btts_home_matches": 4,
+        "btts_away_matches": 4,
+        "avg_corners_per_game": 5.62,
+        "avg_corners_home_per_game": 6.33,
+        "avg_corners_away_per_game": 4.92,
+        "aproveitamento": 34.7,
+        "over_2_5_goals": 5,
+        "over_0_5_ht": 3,
+        "over_0_5_ft": 10,
+        "clean_sheets": 8,
+        "over_2_5_goals_home": 2,
+        "over_0_5_ht_home": 1,
+        "over_0_5_ft_home": 7,
+        "clean_sheets_home": 5,
+        "over_2_5_goals_away": 3,
+        "over_0_5_ht_away": 2,
+        "over_0_5_ft_away": 3,
+        "clean_sheets_away": 3
+      },
+      {
+        "rank": 19,
+        "team": {
+          "id": 10862,
+          "name": "Amazonas",
+          "logo": "https://media.api-sports.io/football/teams/10862.png"
+        },
+        "points": 24,
+        "goalsDiff": -11,
+        "group": "Serie B",
+        "form": "LDWLL",
+        "form_home": "WDDDL",
+        "form_visitor": "LDLWL",
+        "status": "same",
+        "description": "Relegation - Serie C (First stage: )",
+        "all": {
+          "played": 25,
+          "win": 5,
+          "draw": 9,
+          "lose": 11,
+          "goals": {
+            "for": 26,
+            "against": 37
+          }
+        },
+        "home": {
+          "played": 13,
+          "win": 4,
+          "draw": 6,
+          "lose": 3,
+          "goals": {
+            "for": 16,
+            "against": 14
+          }
+        },
+        "away": {
+          "played": 12,
+          "win": 1,
+          "draw": 3,
+          "lose": 8,
+          "goals": {
+            "for": 10,
+            "against": 23
+          }
+        },
+        "update": "2025-09-09T00:00:00+00:00",
+        "btts_matches": 15,
+        "btts_home_matches": 7,
+        "btts_away_matches": 8,
+        "avg_corners_per_game": 4.2,
+        "avg_corners_home_per_game": 5.15,
+        "avg_corners_away_per_game": 3.17,
+        "aproveitamento": 32.0,
+        "over_2_5_goals": 11,
+        "over_0_5_ht": 10,
+        "over_0_5_ft": 13,
+        "clean_sheets": 4,
+        "over_2_5_goals_home": 5,
+        "over_0_5_ht_home": 5,
+        "over_0_5_ft_home": 9,
+        "clean_sheets_home": 4,
+        "over_2_5_goals_away": 6,
+        "over_0_5_ht_away": 5,
+        "over_0_5_ft_away": 4,
+        "clean_sheets_away": 0
       },
       {
         "rank": 20,
@@ -1225,55 +1263,57 @@
           "logo": "https://media.api-sports.io/football/teams/149.png"
         },
         "points": 21,
-        "goalsDiff": -7,
+        "goalsDiff": -10,
         "group": "Serie B",
-        "form": "LLLDD",
+        "form": "LLLLL",
+        "form_home": "DDLLL",
+        "form_visitor": "WDDLL",
         "status": "same",
         "description": "Relegation - Serie C (First stage: )",
         "all": {
-          "played": 23,
+          "played": 25,
           "win": 4,
           "draw": 9,
-          "lose": 10,
+          "lose": 12,
           "goals": {
-            "for": 20,
-            "against": 27
+            "for": 21,
+            "against": 31
           }
         },
         "home": {
-          "played": 11,
+          "played": 12,
           "win": 2,
           "draw": 4,
-          "lose": 5,
+          "lose": 6,
           "goals": {
-            "for": 9,
-            "against": 13
+            "for": 10,
+            "against": 15
           }
         },
         "away": {
-          "played": 12,
+          "played": 13,
           "win": 2,
           "draw": 5,
-          "lose": 5,
+          "lose": 6,
           "goals": {
             "for": 11,
-            "against": 14
+            "against": 16
           }
         },
-        "update": "2025-08-26T00:00:00+00:00",
-        "btts_matches": 10,
-        "btts_home_matches": 5,
+        "update": "2025-09-09T00:00:00+00:00",
+        "btts_matches": 12,
+        "btts_home_matches": 7,
         "btts_away_matches": 5,
-        "avg_corners_per_game": 1.13,
-        "avg_corners_home_per_game": 1.32,
-        "avg_corners_away_per_game": 0.95,
-        "aproveitamento": 30.4,
-        "over_2_5_goals": 6,
-        "over_0_5_ht": 7,
+        "avg_corners_per_game": 5.56,
+        "avg_corners_home_per_game": 7.25,
+        "avg_corners_away_per_game": 4.0,
+        "aproveitamento": 28.0,
+        "over_2_5_goals": 8,
+        "over_0_5_ht": 9,
         "over_0_5_ft": 7,
         "clean_sheets": 5,
-        "over_2_5_goals_home": 3,
-        "over_0_5_ht_home": 4,
+        "over_2_5_goals_home": 5,
+        "over_0_5_ht_home": 6,
         "over_0_5_ft_home": 3,
         "clean_sheets_home": 2,
         "over_2_5_goals_away": 3,
@@ -1290,7 +1330,14 @@
         "jogador-escudo": "https://media.api-sports.io/football/teams/1198.png",
         "jogador-nome": "Pedro Rocha",
         "jogador-posicao": "Attacker",
-        "jogador-gols": 10
+        "jogador-gols": 12
+      },
+      {
+        "jogador-foto": "https://media.api-sports.io/football/players/9756.png",
+        "jogador-escudo": "https://media.api-sports.io/football/teams/151.png",
+        "jogador-nome": "Anselmo Ramon",
+        "jogador-posicao": "Attacker",
+        "jogador-gols": 8
       },
       {
         "jogador-foto": "https://media.api-sports.io/football/players/80657.png",
@@ -1300,11 +1347,11 @@
         "jogador-gols": 8
       },
       {
-        "jogador-foto": "https://media.api-sports.io/football/players/9756.png",
-        "jogador-escudo": "https://media.api-sports.io/football/teams/151.png",
-        "jogador-nome": "Anselmo Ramon",
+        "jogador-foto": "https://media.api-sports.io/football/players/9298.png",
+        "jogador-escudo": "https://media.api-sports.io/football/teams/1193.png",
+        "jogador-nome": "Alisson Safira",
         "jogador-posicao": "Attacker",
-        "jogador-gols": 7
+        "jogador-gols": 8
       },
       {
         "jogador-foto": "https://media.api-sports.io/football/players/51589.png",
@@ -1328,10 +1375,45 @@
         "jogador-gols": 6
       },
       {
+        "jogador-foto": "https://media.api-sports.io/football/players/9296.png",
+        "jogador-escudo": "https://media.api-sports.io/football/teams/140.png",
+        "jogador-nome": "Diego Gonçalves",
+        "jogador-posicao": "Attacker",
+        "jogador-gols": 6
+      },
+      {
         "jogador-foto": "https://media.api-sports.io/football/players/197524.png",
         "jogador-escudo": "https://media.api-sports.io/football/teams/149.png",
         "jogador-nome": "Diogo de Oliveira",
         "jogador-posicao": "Attacker",
+        "jogador-gols": 6
+      },
+      {
+        "jogador-foto": "https://media.api-sports.io/football/players/197072.png",
+        "jogador-escudo": "https://media.api-sports.io/football/teams/145.png",
+        "jogador-nome": "Cléber",
+        "jogador-posicao": "Attacker",
+        "jogador-gols": 6
+      },
+      {
+        "jogador-foto": "https://media.api-sports.io/football/players/9936.png",
+        "jogador-escudo": "https://media.api-sports.io/football/teams/125.png",
+        "jogador-nome": "Willian",
+        "jogador-posicao": "Attacker",
+        "jogador-gols": 6
+      },
+      {
+        "jogador-foto": "https://media.api-sports.io/football/players/41789.png",
+        "jogador-escudo": "https://media.api-sports.io/football/teams/13975.png",
+        "jogador-nome": "Ronaldo Tavares",
+        "jogador-posicao": "Attacker",
+        "jogador-gols": 6
+      },
+      {
+        "jogador-foto": "https://media.api-sports.io/football/players/70793.png",
+        "jogador-escudo": "https://media.api-sports.io/football/teams/132.png",
+        "jogador-nome": "W. Clar",
+        "jogador-posicao": "Defender",
         "jogador-gols": 6
       },
       {
@@ -1340,6 +1422,20 @@
         "jogador-nome": "Boschilia",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 6
+      },
+      {
+        "jogador-foto": "https://media.api-sports.io/football/players/106495.png",
+        "jogador-escudo": "https://media.api-sports.io/football/teams/132.png",
+        "jogador-nome": "Rafael Carvalheira",
+        "jogador-posicao": "Attacker",
+        "jogador-gols": 5
+      },
+      {
+        "jogador-foto": "https://media.api-sports.io/football/players/54716.png",
+        "jogador-escudo": "https://media.api-sports.io/football/teams/146.png",
+        "jogador-nome": "Thiaguinho",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 5
       },
       {
         "jogador-foto": "https://media.api-sports.io/football/players/12825.png",
@@ -1356,16 +1452,9 @@
         "jogador-gols": 5
       },
       {
-        "jogador-foto": "https://media.api-sports.io/football/players/197072.png",
-        "jogador-escudo": "https://media.api-sports.io/football/teams/145.png",
-        "jogador-nome": "Cléber",
-        "jogador-posicao": "Attacker",
-        "jogador-gols": 5
-      },
-      {
-        "jogador-foto": "https://media.api-sports.io/football/players/41789.png",
-        "jogador-escudo": "https://media.api-sports.io/football/teams/13975.png",
-        "jogador-nome": "Ronaldo Tavares",
+        "jogador-foto": "https://media.api-sports.io/football/players/54031.png",
+        "jogador-escudo": "https://media.api-sports.io/football/teams/140.png",
+        "jogador-nome": "Nicolas",
         "jogador-posicao": "Attacker",
         "jogador-gols": 5
       },
@@ -1375,55 +1464,6 @@
         "jogador-nome": "Daniel Amorim",
         "jogador-posicao": "Attacker",
         "jogador-gols": 5
-      },
-      {
-        "jogador-foto": "https://media.api-sports.io/football/players/70793.png",
-        "jogador-escudo": "https://media.api-sports.io/football/teams/132.png",
-        "jogador-nome": "W. Clar",
-        "jogador-posicao": "Defender",
-        "jogador-gols": 5
-      },
-      {
-        "jogador-foto": "https://media.api-sports.io/football/players/2150.png",
-        "jogador-escudo": "https://media.api-sports.io/football/teams/147.png",
-        "jogador-nome": "Josué",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 5
-      },
-      {
-        "jogador-foto": "https://media.api-sports.io/football/players/167010.png",
-        "jogador-escudo": "https://media.api-sports.io/football/teams/7834.png",
-        "jogador-nome": "Matheus Frizzo",
-        "jogador-posicao": "Attacker",
-        "jogador-gols": 5
-      },
-      {
-        "jogador-foto": "https://media.api-sports.io/football/players/9298.png",
-        "jogador-escudo": "https://media.api-sports.io/football/teams/1193.png",
-        "jogador-nome": "Alisson Safira",
-        "jogador-posicao": "Attacker",
-        "jogador-gols": 5
-      },
-      {
-        "jogador-foto": "https://media.api-sports.io/football/players/308148.png",
-        "jogador-escudo": "https://media.api-sports.io/football/teams/1193.png",
-        "jogador-nome": "Mateusinho",
-        "jogador-posicao": "Attacker",
-        "jogador-gols": 4
-      },
-      {
-        "jogador-foto": "https://media.api-sports.io/football/players/106495.png",
-        "jogador-escudo": "https://media.api-sports.io/football/teams/132.png",
-        "jogador-nome": "Rafael Carvalheira",
-        "jogador-posicao": "Attacker",
-        "jogador-gols": 4
-      },
-      {
-        "jogador-foto": "https://media.api-sports.io/football/players/410229.png",
-        "jogador-escudo": "https://media.api-sports.io/football/teams/132.png",
-        "jogador-nome": "Italo",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 4
       }
     ]
   }
