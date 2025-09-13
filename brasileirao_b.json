@@ -1060,6 +1060,72 @@
       {
         "rank": 17,
         "team": {
+          "id": 125,
+          "name": "America Mineiro",
+          "logo": "https://media.api-sports.io/football/teams/125.png"
+        },
+        "points": 27,
+        "goalsDiff": -7,
+        "group": "Serie B",
+        "form": "DLWDD",
+        "form_home": "LDLWD",
+        "form_visitor": "LLLDL",
+        "status": "same",
+        "description": "Relegation - Serie C (First stage: )",
+        "all": {
+          "played": 26,
+          "win": 7,
+          "draw": 6,
+          "lose": 13,
+          "goals": {
+            "for": 26,
+            "against": 33
+          }
+        },
+        "home": {
+          "played": 13,
+          "win": 5,
+          "draw": 4,
+          "lose": 4,
+          "goals": {
+            "for": 16,
+            "against": 13
+          }
+        },
+        "away": {
+          "played": 13,
+          "win": 2,
+          "draw": 2,
+          "lose": 9,
+          "goals": {
+            "for": 10,
+            "against": 20
+          }
+        },
+        "update": "2025-09-13T00:00:00+00:00",
+        "btts_matches": 12,
+        "btts_home_matches": 7,
+        "btts_away_matches": 5,
+        "avg_corners_per_game": 5.56,
+        "avg_corners_home_per_game": 6.31,
+        "avg_corners_away_per_game": 4.75,
+        "aproveitamento": 34.6,
+        "over_2_5_goals": 12,
+        "over_0_5_ht": 11,
+        "over_0_5_ft": 8,
+        "clean_sheets": 4,
+        "over_2_5_goals_home": 5,
+        "over_0_5_ht_home": 7,
+        "over_0_5_ft_home": 5,
+        "clean_sheets_home": 3,
+        "over_2_5_goals_away": 7,
+        "over_0_5_ht_away": 4,
+        "over_0_5_ft_away": 3,
+        "clean_sheets_away": 1
+      },
+      {
+        "rank": 18,
+        "team": {
           "id": 7814,
           "name": "Volta Redonda",
           "logo": "https://media.api-sports.io/football/teams/7814.png"
@@ -1122,72 +1188,6 @@
         "over_0_5_ht_away": 2,
         "over_0_5_ft_away": 3,
         "clean_sheets_away": 3
-      },
-      {
-        "rank": 18,
-        "team": {
-          "id": 125,
-          "name": "America Mineiro",
-          "logo": "https://media.api-sports.io/football/teams/125.png"
-        },
-        "points": 26,
-        "goalsDiff": -7,
-        "group": "Serie B",
-        "form": "LDLWD",
-        "form_home": "LDLWD",
-        "form_visitor": "LLLDL",
-        "status": "same",
-        "description": "Relegation - Serie C (First stage: )",
-        "all": {
-          "played": 25,
-          "win": 7,
-          "draw": 5,
-          "lose": 13,
-          "goals": {
-            "for": 26,
-            "against": 33
-          }
-        },
-        "home": {
-          "played": 13,
-          "win": 5,
-          "draw": 4,
-          "lose": 4,
-          "goals": {
-            "for": 16,
-            "against": 13
-          }
-        },
-        "away": {
-          "played": 12,
-          "win": 2,
-          "draw": 1,
-          "lose": 9,
-          "goals": {
-            "for": 10,
-            "against": 20
-          }
-        },
-        "update": "2025-09-13T00:00:00+00:00",
-        "btts_matches": 12,
-        "btts_home_matches": 7,
-        "btts_away_matches": 5,
-        "avg_corners_per_game": 5.56,
-        "avg_corners_home_per_game": 6.31,
-        "avg_corners_away_per_game": 4.75,
-        "aproveitamento": 34.7,
-        "over_2_5_goals": 12,
-        "over_0_5_ht": 11,
-        "over_0_5_ft": 8,
-        "clean_sheets": 4,
-        "over_2_5_goals_home": 5,
-        "over_0_5_ht_home": 7,
-        "over_0_5_ft_home": 5,
-        "clean_sheets_home": 3,
-        "over_2_5_goals_away": 7,
-        "over_0_5_ht_away": 4,
-        "over_0_5_ft_away": 3,
-        "clean_sheets_away": 1
       },
       {
         "rank": 19,
@@ -1262,18 +1262,18 @@
           "name": "Paysandu",
           "logo": "https://media.api-sports.io/football/teams/149.png"
         },
-        "points": 21,
+        "points": 22,
         "goalsDiff": -10,
         "group": "Serie B",
-        "form": "LLLLL",
+        "form": "LLLLD",
         "form_home": "DDLLL",
         "form_visitor": "WDDLL",
         "status": "same",
         "description": "Relegation - Serie C (First stage: )",
         "all": {
-          "played": 25,
+          "played": 26,
           "win": 4,
-          "draw": 9,
+          "draw": 10,
           "lose": 12,
           "goals": {
             "for": 21,
@@ -1281,9 +1281,9 @@
           }
         },
         "home": {
-          "played": 12,
+          "played": 13,
           "win": 2,
-          "draw": 4,
+          "draw": 5,
           "lose": 6,
           "goals": {
             "for": 10,
@@ -1307,7 +1307,7 @@
         "avg_corners_per_game": 5.56,
         "avg_corners_home_per_game": 7.25,
         "avg_corners_away_per_game": 4.0,
-        "aproveitamento": 28.0,
+        "aproveitamento": 28.2,
         "over_2_5_goals": 8,
         "over_0_5_ht": 9,
         "over_0_5_ft": 7,
