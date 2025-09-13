@@ -140,18 +140,18 @@
           "name": "Criciuma",
           "logo": "https://media.api-sports.io/football/teams/140.png"
         },
-        "points": 42,
+        "points": 43,
         "goalsDiff": 12,
         "group": "Serie B",
-        "form": "WDWWW",
+        "form": "DWWWD",
         "form_home": "WWWWW",
         "form_visitor": "WWLDW",
         "status": "same",
         "description": "Promotion - Serie A Betano",
         "all": {
-          "played": 25,
+          "played": 26,
           "win": 12,
-          "draw": 6,
+          "draw": 7,
           "lose": 7,
           "goals": {
             "for": 33,
@@ -169,9 +169,9 @@
           }
         },
         "away": {
-          "played": 12,
+          "played": 13,
           "win": 4,
-          "draw": 4,
+          "draw": 5,
           "lose": 4,
           "goals": {
             "for": 11,
@@ -185,7 +185,7 @@
         "avg_corners_per_game": 5.36,
         "avg_corners_home_per_game": 6.77,
         "avg_corners_away_per_game": 3.83,
-        "aproveitamento": 56.0,
+        "aproveitamento": 55.1,
         "over_2_5_goals": 8,
         "over_0_5_ht": 14,
         "over_0_5_ft": 12,
@@ -1060,6 +1060,72 @@
       {
         "rank": 17,
         "team": {
+          "id": 7814,
+          "name": "Volta Redonda",
+          "logo": "https://media.api-sports.io/football/teams/7814.png"
+        },
+        "points": 27,
+        "goalsDiff": -11,
+        "group": "Serie B",
+        "form": "LDLWD",
+        "form_home": "WWDLL",
+        "form_visitor": "DLLDW",
+        "status": "same",
+        "description": "Relegation - Serie C (First stage: )",
+        "all": {
+          "played": 26,
+          "win": 6,
+          "draw": 9,
+          "lose": 11,
+          "goals": {
+            "for": 16,
+            "against": 27
+          }
+        },
+        "home": {
+          "played": 13,
+          "win": 5,
+          "draw": 5,
+          "lose": 3,
+          "goals": {
+            "for": 10,
+            "against": 9
+          }
+        },
+        "away": {
+          "played": 13,
+          "win": 1,
+          "draw": 4,
+          "lose": 8,
+          "goals": {
+            "for": 6,
+            "against": 18
+          }
+        },
+        "update": "2025-09-12T00:00:00+00:00",
+        "btts_matches": 8,
+        "btts_home_matches": 4,
+        "btts_away_matches": 4,
+        "avg_corners_per_game": 5.62,
+        "avg_corners_home_per_game": 6.33,
+        "avg_corners_away_per_game": 4.92,
+        "aproveitamento": 34.6,
+        "over_2_5_goals": 5,
+        "over_0_5_ht": 3,
+        "over_0_5_ft": 10,
+        "clean_sheets": 8,
+        "over_2_5_goals_home": 2,
+        "over_0_5_ht_home": 1,
+        "over_0_5_ft_home": 7,
+        "clean_sheets_home": 5,
+        "over_2_5_goals_away": 3,
+        "over_0_5_ht_away": 2,
+        "over_0_5_ft_away": 3,
+        "clean_sheets_away": 3
+      },
+      {
+        "rank": 18,
+        "team": {
           "id": 125,
           "name": "America Mineiro",
           "logo": "https://media.api-sports.io/football/teams/125.png"
@@ -1122,72 +1188,6 @@
         "over_0_5_ht_away": 4,
         "over_0_5_ft_away": 3,
         "clean_sheets_away": 1
-      },
-      {
-        "rank": 18,
-        "team": {
-          "id": 7814,
-          "name": "Volta Redonda",
-          "logo": "https://media.api-sports.io/football/teams/7814.png"
-        },
-        "points": 26,
-        "goalsDiff": -11,
-        "group": "Serie B",
-        "form": "DLDLW",
-        "form_home": "WWDLL",
-        "form_visitor": "DLLDW",
-        "status": "same",
-        "description": "Relegation - Serie C (First stage: )",
-        "all": {
-          "played": 25,
-          "win": 6,
-          "draw": 8,
-          "lose": 11,
-          "goals": {
-            "for": 16,
-            "against": 27
-          }
-        },
-        "home": {
-          "played": 12,
-          "win": 5,
-          "draw": 4,
-          "lose": 3,
-          "goals": {
-            "for": 10,
-            "against": 9
-          }
-        },
-        "away": {
-          "played": 13,
-          "win": 1,
-          "draw": 4,
-          "lose": 8,
-          "goals": {
-            "for": 6,
-            "against": 18
-          }
-        },
-        "update": "2025-09-12T00:00:00+00:00",
-        "btts_matches": 8,
-        "btts_home_matches": 4,
-        "btts_away_matches": 4,
-        "avg_corners_per_game": 5.62,
-        "avg_corners_home_per_game": 6.33,
-        "avg_corners_away_per_game": 4.92,
-        "aproveitamento": 34.7,
-        "over_2_5_goals": 5,
-        "over_0_5_ht": 3,
-        "over_0_5_ft": 10,
-        "clean_sheets": 8,
-        "over_2_5_goals_home": 2,
-        "over_0_5_ht_home": 1,
-        "over_0_5_ft_home": 7,
-        "clean_sheets_home": 5,
-        "over_2_5_goals_away": 3,
-        "over_0_5_ht_away": 2,
-        "over_0_5_ft_away": 3,
-        "clean_sheets_away": 3
       },
       {
         "rank": 19,
