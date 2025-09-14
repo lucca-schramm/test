@@ -272,22 +272,22 @@
           "name": "remo",
           "logo": "https://media.api-sports.io/football/teams/1198.png"
         },
-        "points": 38,
+        "points": 39,
         "goalsDiff": 5,
         "group": "Serie B",
-        "form": "WDDLW",
+        "form": "DDLWD",
         "form_home": "DWLDL",
         "form_visitor": "DDWDW",
         "status": "same",
         "description": null,
         "all": {
-          "played": 25,
+          "played": 26,
           "win": 9,
-          "draw": 11,
+          "draw": 12,
           "lose": 5,
           "goals": {
-            "for": 27,
-            "against": 22
+            "for": 28,
+            "against": 23
           }
         },
         "home": {
@@ -301,13 +301,13 @@
           }
         },
         "away": {
-          "played": 12,
+          "played": 13,
           "win": 3,
-          "draw": 7,
+          "draw": 8,
           "lose": 2,
           "goals": {
-            "for": 14,
-            "against": 13
+            "for": 15,
+            "against": 14
           }
         },
         "update": "2025-09-13T00:00:00+00:00",
@@ -317,7 +317,7 @@
         "avg_corners_per_game": 4.52,
         "avg_corners_home_per_game": 4.69,
         "avg_corners_away_per_game": 4.33,
-        "aproveitamento": 50.7,
+        "aproveitamento": 50.0,
         "over_2_5_goals": 6,
         "over_0_5_ht": 14,
         "over_0_5_ft": 9,
@@ -532,6 +532,72 @@
       {
         "rank": 9,
         "team": {
+          "id": 142,
+          "name": "Vila Nova",
+          "logo": "https://media.api-sports.io/football/teams/142.png"
+        },
+        "points": 36,
+        "goalsDiff": 0,
+        "group": "Serie B",
+        "form": "WLDDD",
+        "form_home": "DWLWD",
+        "form_visitor": "DLWLD",
+        "status": "same",
+        "description": null,
+        "all": {
+          "played": 26,
+          "win": 10,
+          "draw": 6,
+          "lose": 10,
+          "goals": {
+            "for": 26,
+            "against": 26
+          }
+        },
+        "home": {
+          "played": 13,
+          "win": 7,
+          "draw": 3,
+          "lose": 3,
+          "goals": {
+            "for": 14,
+            "against": 9
+          }
+        },
+        "away": {
+          "played": 13,
+          "win": 3,
+          "draw": 3,
+          "lose": 7,
+          "goals": {
+            "for": 12,
+            "against": 17
+          }
+        },
+        "update": "2025-09-13T00:00:00+00:00",
+        "btts_matches": 9,
+        "btts_home_matches": 3,
+        "btts_away_matches": 6,
+        "avg_corners_per_game": 4.36,
+        "avg_corners_home_per_game": 5.17,
+        "avg_corners_away_per_game": 3.62,
+        "aproveitamento": 46.2,
+        "over_2_5_goals": 8,
+        "over_0_5_ht": 11,
+        "over_0_5_ft": 11,
+        "clean_sheets": 9,
+        "over_2_5_goals_home": 3,
+        "over_0_5_ht_home": 7,
+        "over_0_5_ft_home": 4,
+        "clean_sheets_home": 7,
+        "over_2_5_goals_away": 5,
+        "over_0_5_ht_away": 4,
+        "over_0_5_ft_away": 7,
+        "clean_sheets_away": 2
+      },
+      {
+        "rank": 10,
+        "team": {
           "id": 145,
           "name": "Avai",
           "logo": "https://media.api-sports.io/football/teams/145.png"
@@ -593,72 +659,6 @@
         "over_2_5_goals_away": 6,
         "over_0_5_ht_away": 7,
         "over_0_5_ft_away": 3,
-        "clean_sheets_away": 2
-      },
-      {
-        "rank": 10,
-        "team": {
-          "id": 142,
-          "name": "Vila Nova",
-          "logo": "https://media.api-sports.io/football/teams/142.png"
-        },
-        "points": 35,
-        "goalsDiff": 0,
-        "group": "Serie B",
-        "form": "WWLDD",
-        "form_home": "DWLWD",
-        "form_visitor": "DLWLD",
-        "status": "same",
-        "description": null,
-        "all": {
-          "played": 25,
-          "win": 10,
-          "draw": 5,
-          "lose": 10,
-          "goals": {
-            "for": 25,
-            "against": 25
-          }
-        },
-        "home": {
-          "played": 12,
-          "win": 7,
-          "draw": 2,
-          "lose": 3,
-          "goals": {
-            "for": 13,
-            "against": 8
-          }
-        },
-        "away": {
-          "played": 13,
-          "win": 3,
-          "draw": 3,
-          "lose": 7,
-          "goals": {
-            "for": 12,
-            "against": 17
-          }
-        },
-        "update": "2025-09-13T00:00:00+00:00",
-        "btts_matches": 9,
-        "btts_home_matches": 3,
-        "btts_away_matches": 6,
-        "avg_corners_per_game": 4.36,
-        "avg_corners_home_per_game": 5.17,
-        "avg_corners_away_per_game": 3.62,
-        "aproveitamento": 46.7,
-        "over_2_5_goals": 8,
-        "over_0_5_ht": 11,
-        "over_0_5_ft": 11,
-        "clean_sheets": 9,
-        "over_2_5_goals_home": 3,
-        "over_0_5_ht_home": 7,
-        "over_0_5_ft_home": 4,
-        "clean_sheets_home": 7,
-        "over_2_5_goals_away": 5,
-        "over_0_5_ht_away": 4,
-        "over_0_5_ft_away": 7,
         "clean_sheets_away": 2
       },
       {
