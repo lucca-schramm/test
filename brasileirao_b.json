@@ -338,22 +338,22 @@
           "name": "Cuiaba",
           "logo": "https://media.api-sports.io/football/teams/1193.png"
         },
-        "points": 37,
+        "points": 38,
         "goalsDiff": 1,
         "group": "Serie B",
-        "form": "LDDDW",
+        "form": "DDDWD",
         "form_home": "WWWDW",
         "form_visitor": "LLLDD",
         "status": "same",
         "description": null,
         "all": {
-          "played": 25,
+          "played": 26,
           "win": 10,
-          "draw": 7,
+          "draw": 8,
           "lose": 8,
           "goals": {
-            "for": 30,
-            "against": 29
+            "for": 31,
+            "against": 30
           }
         },
         "home": {
@@ -367,13 +367,13 @@
           }
         },
         "away": {
-          "played": 13,
+          "played": 14,
           "win": 2,
-          "draw": 5,
+          "draw": 6,
           "lose": 6,
           "goals": {
-            "for": 10,
-            "against": 18
+            "for": 11,
+            "against": 19
           }
         },
         "update": "2025-09-14T00:00:00+00:00",
@@ -383,7 +383,7 @@
         "avg_corners_per_game": 5.52,
         "avg_corners_home_per_game": 5.33,
         "avg_corners_away_per_game": 5.69,
-        "aproveitamento": 49.3,
+        "aproveitamento": 48.7,
         "over_2_5_goals": 10,
         "over_0_5_ht": 10,
         "over_0_5_ft": 15,
@@ -664,6 +664,72 @@
       {
         "rank": 11,
         "team": {
+          "id": 1223,
+          "name": "Operario-PR",
+          "logo": "https://media.api-sports.io/football/teams/1223.png"
+        },
+        "points": 35,
+        "goalsDiff": 3,
+        "group": "Serie B",
+        "form": "DWWDD",
+        "form_home": "DWWDW",
+        "form_visitor": "DDLWD",
+        "status": "same",
+        "description": null,
+        "all": {
+          "played": 26,
+          "win": 9,
+          "draw": 8,
+          "lose": 9,
+          "goals": {
+            "for": 28,
+            "against": 25
+          }
+        },
+        "home": {
+          "played": 13,
+          "win": 6,
+          "draw": 5,
+          "lose": 2,
+          "goals": {
+            "for": 17,
+            "against": 8
+          }
+        },
+        "away": {
+          "played": 13,
+          "win": 3,
+          "draw": 3,
+          "lose": 7,
+          "goals": {
+            "for": 11,
+            "against": 17
+          }
+        },
+        "update": "2025-09-14T00:00:00+00:00",
+        "btts_matches": 11,
+        "btts_home_matches": 4,
+        "btts_away_matches": 7,
+        "avg_corners_per_game": 4.6,
+        "avg_corners_home_per_game": 4.58,
+        "avg_corners_away_per_game": 4.62,
+        "aproveitamento": 44.9,
+        "over_2_5_goals": 11,
+        "over_0_5_ht": 12,
+        "over_0_5_ft": 9,
+        "clean_sheets": 10,
+        "over_2_5_goals_home": 5,
+        "over_0_5_ht_home": 6,
+        "over_0_5_ft_home": 5,
+        "clean_sheets_home": 8,
+        "over_2_5_goals_away": 6,
+        "over_0_5_ht_away": 6,
+        "over_0_5_ft_away": 4,
+        "clean_sheets_away": 2
+      },
+      {
+        "rank": 12,
+        "team": {
           "id": 146,
           "name": "CRB",
           "logo": "https://media.api-sports.io/football/teams/146.png"
@@ -726,72 +792,6 @@
         "over_0_5_ht_away": 4,
         "over_0_5_ft_away": 4,
         "clean_sheets_away": 1
-      },
-      {
-        "rank": 12,
-        "team": {
-          "id": 1223,
-          "name": "Operario-PR",
-          "logo": "https://media.api-sports.io/football/teams/1223.png"
-        },
-        "points": 34,
-        "goalsDiff": 3,
-        "group": "Serie B",
-        "form": "LDWWD",
-        "form_home": "DWWDW",
-        "form_visitor": "DDLWD",
-        "status": "same",
-        "description": null,
-        "all": {
-          "played": 25,
-          "win": 9,
-          "draw": 7,
-          "lose": 9,
-          "goals": {
-            "for": 27,
-            "against": 24
-          }
-        },
-        "home": {
-          "played": 12,
-          "win": 6,
-          "draw": 4,
-          "lose": 2,
-          "goals": {
-            "for": 16,
-            "against": 7
-          }
-        },
-        "away": {
-          "played": 13,
-          "win": 3,
-          "draw": 3,
-          "lose": 7,
-          "goals": {
-            "for": 11,
-            "against": 17
-          }
-        },
-        "update": "2025-09-14T00:00:00+00:00",
-        "btts_matches": 11,
-        "btts_home_matches": 4,
-        "btts_away_matches": 7,
-        "avg_corners_per_game": 4.6,
-        "avg_corners_home_per_game": 4.58,
-        "avg_corners_away_per_game": 4.62,
-        "aproveitamento": 45.3,
-        "over_2_5_goals": 11,
-        "over_0_5_ht": 12,
-        "over_0_5_ft": 9,
-        "clean_sheets": 10,
-        "over_2_5_goals_home": 5,
-        "over_0_5_ht_home": 6,
-        "over_0_5_ft_home": 5,
-        "clean_sheets_home": 8,
-        "over_2_5_goals_away": 6,
-        "over_0_5_ht_away": 6,
-        "over_0_5_ft_away": 4,
-        "clean_sheets_away": 2
       },
       {
         "rank": 13,
