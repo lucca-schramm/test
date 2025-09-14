@@ -8,7 +8,7 @@
           "name": "Flamengo",
           "logo": "https://media.api-sports.io/football/teams/127.png"
         },
-        "points": 47,
+        "points": 48,
         "goalsDiff": 35,
         "group": "Brasileiro Serie A 2025",
         "form": "DWWWD",
@@ -17,9 +17,9 @@
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 21,
+          "played": 22,
           "win": 14,
-          "draw": 5,
+          "draw": 6,
           "lose": 2,
           "goals": {
             "for": 45,
@@ -37,9 +37,9 @@
           }
         },
         "away": {
-          "played": 9,
+          "played": 10,
           "win": 5,
-          "draw": 2,
+          "draw": 3,
           "lose": 2,
           "goals": {
             "for": 13,
@@ -53,7 +53,7 @@
         "avg_corners_per_game": 6.62,
         "avg_corners_home_per_game": 7.25,
         "avg_corners_away_per_game": 5.78,
-        "aproveitamento": 74.6,
+        "aproveitamento": 72.7,
         "over_2_5_goals": 9,
         "over_0_5_ht": 10,
         "over_0_5_ft": 15,
@@ -796,6 +796,72 @@
       {
         "rank": 13,
         "team": {
+          "id": 1062,
+          "name": "Atletico-MG",
+          "logo": "https://media.api-sports.io/football/teams/1062.png"
+        },
+        "points": 25,
+        "goalsDiff": -4,
+        "group": "Brasileiro Serie A 2025",
+        "form": "WDLLL",
+        "form_home": "WDWWL",
+        "form_visitor": "LLDLL",
+        "status": "same",
+        "description": null,
+        "all": {
+          "played": 21,
+          "win": 6,
+          "draw": 7,
+          "lose": 8,
+          "goals": {
+            "for": 20,
+            "against": 24
+          }
+        },
+        "home": {
+          "played": 9,
+          "win": 4,
+          "draw": 4,
+          "lose": 1,
+          "goals": {
+            "for": 11,
+            "against": 8
+          }
+        },
+        "away": {
+          "played": 12,
+          "win": 2,
+          "draw": 3,
+          "lose": 7,
+          "goals": {
+            "for": 9,
+            "against": 16
+          }
+        },
+        "update": "2025-09-14T00:00:00+00:00",
+        "btts_matches": 9,
+        "btts_home_matches": 4,
+        "btts_away_matches": 5,
+        "avg_corners_per_game": 6.7,
+        "avg_corners_home_per_game": 8.25,
+        "avg_corners_away_per_game": 5.67,
+        "aproveitamento": 39.7,
+        "over_2_5_goals": 8,
+        "over_0_5_ht": 6,
+        "over_0_5_ft": 10,
+        "clean_sheets": 7,
+        "over_2_5_goals_home": 4,
+        "over_0_5_ht_home": 3,
+        "over_0_5_ft_home": 5,
+        "clean_sheets_home": 4,
+        "over_2_5_goals_away": 4,
+        "over_0_5_ht_away": 3,
+        "over_0_5_ft_away": 5,
+        "clean_sheets_away": 3
+      },
+      {
+        "rank": 14,
+        "team": {
           "id": 130,
           "name": "Gremio",
           "logo": "https://media.api-sports.io/football/teams/130.png"
@@ -860,73 +926,73 @@
         "clean_sheets_away": 1
       },
       {
-        "rank": 14,
+        "rank": 15,
         "team": {
-          "id": 1062,
-          "name": "Atletico-MG",
-          "logo": "https://media.api-sports.io/football/teams/1062.png"
+          "id": 128,
+          "name": "Santos",
+          "logo": "https://media.api-sports.io/football/teams/128.png"
         },
-        "points": 24,
-        "goalsDiff": -4,
+        "points": 23,
+        "goalsDiff": -11,
         "group": "Brasileiro Serie A 2025",
-        "form": "WDLLL",
-        "form_home": "WDWWL",
-        "form_visitor": "LLDLL",
+        "form": "WWLLD",
+        "form_home": "WLWLD",
+        "form_visitor": "WLDWL",
         "status": "same",
         "description": null,
         "all": {
-          "played": 20,
+          "played": 22,
           "win": 6,
-          "draw": 6,
-          "lose": 8,
+          "draw": 5,
+          "lose": 11,
           "goals": {
             "for": 20,
-            "against": 24
+            "against": 31
           }
         },
         "home": {
-          "played": 8,
-          "win": 4,
+          "played": 10,
+          "win": 3,
           "draw": 3,
-          "lose": 1,
+          "lose": 4,
           "goals": {
-            "for": 11,
-            "against": 8
+            "for": 10,
+            "against": 14
           }
         },
         "away": {
           "played": 12,
-          "win": 2,
-          "draw": 3,
+          "win": 3,
+          "draw": 2,
           "lose": 7,
           "goals": {
-            "for": 9,
-            "against": 16
+            "for": 10,
+            "against": 17
           }
         },
         "update": "2025-09-14T00:00:00+00:00",
         "btts_matches": 9,
         "btts_home_matches": 4,
         "btts_away_matches": 5,
-        "avg_corners_per_game": 6.7,
-        "avg_corners_home_per_game": 8.25,
-        "avg_corners_away_per_game": 5.67,
-        "aproveitamento": 40.0,
-        "over_2_5_goals": 8,
+        "avg_corners_per_game": 4.19,
+        "avg_corners_home_per_game": 5.5,
+        "avg_corners_away_per_game": 3.0,
+        "aproveitamento": 34.8,
+        "over_2_5_goals": 11,
         "over_0_5_ht": 6,
-        "over_0_5_ft": 10,
-        "clean_sheets": 7,
-        "over_2_5_goals_home": 4,
-        "over_0_5_ht_home": 3,
+        "over_0_5_ft": 8,
+        "clean_sheets": 5,
+        "over_2_5_goals_home": 5,
+        "over_0_5_ht_home": 2,
         "over_0_5_ft_home": 5,
         "clean_sheets_home": 4,
-        "over_2_5_goals_away": 4,
-        "over_0_5_ht_away": 3,
-        "over_0_5_ft_away": 5,
-        "clean_sheets_away": 3
+        "over_2_5_goals_away": 6,
+        "over_0_5_ht_away": 4,
+        "over_0_5_ft_away": 3,
+        "clean_sheets_away": 1
       },
       {
-        "rank": 15,
+        "rank": 16,
         "team": {
           "id": 133,
           "name": "Vasco DA Gama",
@@ -992,73 +1058,73 @@
         "clean_sheets_away": 1
       },
       {
-        "rank": 16,
+        "rank": 17,
         "team": {
-          "id": 128,
-          "name": "Santos",
-          "logo": "https://media.api-sports.io/football/teams/128.png"
+          "id": 152,
+          "name": "Juventude",
+          "logo": "https://media.api-sports.io/football/teams/152.png"
         },
         "points": 22,
-        "goalsDiff": -11,
+        "goalsDiff": -22,
         "group": "Brasileiro Serie A 2025",
-        "form": "WWLLD",
-        "form_home": "WLWLD",
-        "form_visitor": "WLDWL",
+        "form": "WDWLW",
+        "form_home": "WLWWL",
+        "form_visitor": "LLLDW",
         "status": "same",
-        "description": null,
+        "description": "Relegation",
         "all": {
-          "played": 21,
+          "played": 22,
           "win": 6,
           "draw": 4,
-          "lose": 11,
+          "lose": 12,
           "goals": {
-            "for": 20,
-            "against": 31
+            "for": 19,
+            "against": 41
           }
         },
         "home": {
-          "played": 10,
-          "win": 3,
+          "played": 12,
+          "win": 5,
           "draw": 3,
           "lose": 4,
           "goals": {
-            "for": 10,
-            "against": 14
+            "for": 14,
+            "against": 12
           }
         },
         "away": {
-          "played": 11,
-          "win": 3,
+          "played": 10,
+          "win": 1,
           "draw": 1,
-          "lose": 7,
+          "lose": 8,
           "goals": {
-            "for": 10,
-            "against": 17
+            "for": 5,
+            "against": 29
           }
         },
         "update": "2025-09-14T00:00:00+00:00",
-        "btts_matches": 9,
-        "btts_home_matches": 4,
-        "btts_away_matches": 5,
-        "avg_corners_per_game": 4.19,
-        "avg_corners_home_per_game": 5.5,
-        "avg_corners_away_per_game": 3.0,
-        "aproveitamento": 34.9,
+        "btts_matches": 8,
+        "btts_home_matches": 5,
+        "btts_away_matches": 3,
+        "avg_corners_per_game": 3.48,
+        "avg_corners_home_per_game": 3.55,
+        "avg_corners_away_per_game": 3.4,
+        "aproveitamento": 33.3,
         "over_2_5_goals": 11,
-        "over_0_5_ht": 6,
-        "over_0_5_ft": 8,
-        "clean_sheets": 5,
-        "over_2_5_goals_home": 5,
-        "over_0_5_ht_home": 2,
+        "over_0_5_ht": 9,
+        "over_0_5_ft": 7,
+        "clean_sheets": 4,
+        "over_2_5_goals_home": 4,
+        "over_0_5_ht_home": 7,
         "over_0_5_ft_home": 5,
-        "clean_sheets_home": 4,
-        "over_2_5_goals_away": 6,
-        "over_0_5_ht_away": 4,
-        "over_0_5_ft_away": 3,
+        "clean_sheets_home": 3,
+        "over_2_5_goals_away": 7,
+        "over_0_5_ht_away": 2,
+        "over_0_5_ft_away": 2,
         "clean_sheets_away": 1
       },
       {
-        "rank": 17,
+        "rank": 18,
         "team": {
           "id": 136,
           "name": "Vitoria",
@@ -1122,72 +1188,6 @@
         "over_0_5_ht_away": 1,
         "over_0_5_ft_away": 3,
         "clean_sheets_away": 2
-      },
-      {
-        "rank": 18,
-        "team": {
-          "id": 152,
-          "name": "Juventude",
-          "logo": "https://media.api-sports.io/football/teams/152.png"
-        },
-        "points": 21,
-        "goalsDiff": -22,
-        "group": "Brasileiro Serie A 2025",
-        "form": "WDWLW",
-        "form_home": "WLWWL",
-        "form_visitor": "LLLDW",
-        "status": "same",
-        "description": "Relegation",
-        "all": {
-          "played": 21,
-          "win": 6,
-          "draw": 3,
-          "lose": 12,
-          "goals": {
-            "for": 19,
-            "against": 41
-          }
-        },
-        "home": {
-          "played": 11,
-          "win": 5,
-          "draw": 2,
-          "lose": 4,
-          "goals": {
-            "for": 14,
-            "against": 12
-          }
-        },
-        "away": {
-          "played": 10,
-          "win": 1,
-          "draw": 1,
-          "lose": 8,
-          "goals": {
-            "for": 5,
-            "against": 29
-          }
-        },
-        "update": "2025-09-14T00:00:00+00:00",
-        "btts_matches": 8,
-        "btts_home_matches": 5,
-        "btts_away_matches": 3,
-        "avg_corners_per_game": 3.48,
-        "avg_corners_home_per_game": 3.55,
-        "avg_corners_away_per_game": 3.4,
-        "aproveitamento": 33.3,
-        "over_2_5_goals": 11,
-        "over_0_5_ht": 9,
-        "over_0_5_ft": 7,
-        "clean_sheets": 4,
-        "over_2_5_goals_home": 4,
-        "over_0_5_ht_home": 7,
-        "over_0_5_ft_home": 5,
-        "clean_sheets_home": 3,
-        "over_2_5_goals_away": 7,
-        "over_0_5_ht_away": 2,
-        "over_0_5_ft_away": 2,
-        "clean_sheets_away": 1
       },
       {
         "rank": 19,
