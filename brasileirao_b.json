@@ -466,6 +466,72 @@
       {
         "rank": 8,
         "team": {
+          "id": 146,
+          "name": "CRB",
+          "logo": "https://media.api-sports.io/football/teams/146.png"
+        },
+        "points": 37,
+        "goalsDiff": 5,
+        "group": "Serie B",
+        "form": "WLWLW",
+        "form_home": "LWWLW",
+        "form_visitor": "DLLWL",
+        "status": "same",
+        "description": null,
+        "all": {
+          "played": 26,
+          "win": 11,
+          "draw": 4,
+          "lose": 11,
+          "goals": {
+            "for": 28,
+            "against": 23
+          }
+        },
+        "home": {
+          "played": 13,
+          "win": 9,
+          "draw": 1,
+          "lose": 3,
+          "goals": {
+            "for": 18,
+            "against": 5
+          }
+        },
+        "away": {
+          "played": 13,
+          "win": 2,
+          "draw": 3,
+          "lose": 8,
+          "goals": {
+            "for": 10,
+            "against": 18
+          }
+        },
+        "update": "2025-09-15T00:00:00+00:00",
+        "btts_matches": 9,
+        "btts_home_matches": 2,
+        "btts_away_matches": 7,
+        "avg_corners_per_game": 6.48,
+        "avg_corners_home_per_game": 5.75,
+        "avg_corners_away_per_game": 7.15,
+        "aproveitamento": 47.4,
+        "over_2_5_goals": 6,
+        "over_0_5_ht": 11,
+        "over_0_5_ft": 10,
+        "clean_sheets": 9,
+        "over_2_5_goals_home": 2,
+        "over_0_5_ht_home": 7,
+        "over_0_5_ft_home": 6,
+        "clean_sheets_home": 8,
+        "over_2_5_goals_away": 4,
+        "over_0_5_ht_away": 4,
+        "over_0_5_ft_away": 4,
+        "clean_sheets_away": 1
+      },
+      {
+        "rank": 9,
+        "team": {
           "id": 134,
           "name": "Atletico Paranaense",
           "logo": "https://media.api-sports.io/football/teams/134.png"
@@ -530,7 +596,7 @@
         "clean_sheets_away": 2
       },
       {
-        "rank": 9,
+        "rank": 10,
         "team": {
           "id": 142,
           "name": "Vila Nova",
@@ -596,7 +662,7 @@
         "clean_sheets_away": 2
       },
       {
-        "rank": 10,
+        "rank": 11,
         "team": {
           "id": 145,
           "name": "Avai",
@@ -662,7 +728,7 @@
         "clean_sheets_away": 2
       },
       {
-        "rank": 11,
+        "rank": 12,
         "team": {
           "id": 1223,
           "name": "Operario-PR",
@@ -726,72 +792,6 @@
         "over_0_5_ht_away": 6,
         "over_0_5_ft_away": 4,
         "clean_sheets_away": 2
-      },
-      {
-        "rank": 12,
-        "team": {
-          "id": 146,
-          "name": "CRB",
-          "logo": "https://media.api-sports.io/football/teams/146.png"
-        },
-        "points": 34,
-        "goalsDiff": 3,
-        "group": "Serie B",
-        "form": "WWLWL",
-        "form_home": "LWWLW",
-        "form_visitor": "DLLWL",
-        "status": "same",
-        "description": null,
-        "all": {
-          "played": 25,
-          "win": 10,
-          "draw": 4,
-          "lose": 11,
-          "goals": {
-            "for": 26,
-            "against": 23
-          }
-        },
-        "home": {
-          "played": 12,
-          "win": 8,
-          "draw": 1,
-          "lose": 3,
-          "goals": {
-            "for": 16,
-            "against": 5
-          }
-        },
-        "away": {
-          "played": 13,
-          "win": 2,
-          "draw": 3,
-          "lose": 8,
-          "goals": {
-            "for": 10,
-            "against": 18
-          }
-        },
-        "update": "2025-09-15T00:00:00+00:00",
-        "btts_matches": 9,
-        "btts_home_matches": 2,
-        "btts_away_matches": 7,
-        "avg_corners_per_game": 6.48,
-        "avg_corners_home_per_game": 5.75,
-        "avg_corners_away_per_game": 7.15,
-        "aproveitamento": 45.3,
-        "over_2_5_goals": 6,
-        "over_0_5_ht": 11,
-        "over_0_5_ft": 10,
-        "clean_sheets": 9,
-        "over_2_5_goals_home": 2,
-        "over_0_5_ht_home": 7,
-        "over_0_5_ft_home": 6,
-        "clean_sheets_home": 8,
-        "over_2_5_goals_away": 4,
-        "over_0_5_ht_away": 4,
-        "over_0_5_ft_away": 4,
-        "clean_sheets_away": 1
       },
       {
         "rank": 13,
@@ -1197,21 +1197,21 @@
           "logo": "https://media.api-sports.io/football/teams/10862.png"
         },
         "points": 24,
-        "goalsDiff": -11,
+        "goalsDiff": -13,
         "group": "Serie B",
-        "form": "LDWLL",
+        "form": "DWLLL",
         "form_home": "WDDDL",
         "form_visitor": "LDLWL",
         "status": "same",
         "description": "Relegation - Serie C (First stage: )",
         "all": {
-          "played": 25,
+          "played": 26,
           "win": 5,
           "draw": 9,
-          "lose": 11,
+          "lose": 12,
           "goals": {
             "for": 26,
-            "against": 37
+            "against": 39
           }
         },
         "home": {
@@ -1225,13 +1225,13 @@
           }
         },
         "away": {
-          "played": 12,
+          "played": 13,
           "win": 1,
           "draw": 3,
-          "lose": 8,
+          "lose": 9,
           "goals": {
             "for": 10,
-            "against": 23
+            "against": 25
           }
         },
         "update": "2025-09-15T00:00:00+00:00",
@@ -1241,7 +1241,7 @@
         "avg_corners_per_game": 4.2,
         "avg_corners_home_per_game": 5.15,
         "avg_corners_away_per_game": 3.17,
-        "aproveitamento": 32.0,
+        "aproveitamento": 30.8,
         "over_2_5_goals": 11,
         "over_0_5_ht": 10,
         "over_0_5_ft": 13,
