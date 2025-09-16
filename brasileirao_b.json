@@ -268,6 +268,72 @@
       {
         "rank": 5,
         "team": {
+          "id": 7834,
+          "name": "Novorizontino",
+          "logo": "https://media.api-sports.io/football/teams/7834.png"
+        },
+        "points": 40,
+        "goalsDiff": 4,
+        "group": "Serie B",
+        "form": "LLLDW",
+        "form_home": "WWDLD",
+        "form_visitor": "DLDLL",
+        "status": "same",
+        "description": null,
+        "all": {
+          "played": 26,
+          "win": 10,
+          "draw": 10,
+          "lose": 6,
+          "goals": {
+            "for": 29,
+            "against": 25
+          }
+        },
+        "home": {
+          "played": 13,
+          "win": 7,
+          "draw": 5,
+          "lose": 1,
+          "goals": {
+            "for": 21,
+            "against": 11
+          }
+        },
+        "away": {
+          "played": 13,
+          "win": 3,
+          "draw": 5,
+          "lose": 5,
+          "goals": {
+            "for": 8,
+            "against": 14
+          }
+        },
+        "update": "2025-09-15T00:00:00+00:00",
+        "btts_matches": 12,
+        "btts_home_matches": 9,
+        "btts_away_matches": 3,
+        "avg_corners_per_game": 4.96,
+        "avg_corners_home_per_game": 5.85,
+        "avg_corners_away_per_game": 4.0,
+        "aproveitamento": 51.3,
+        "over_2_5_goals": 8,
+        "over_0_5_ht": 12,
+        "over_0_5_ft": 11,
+        "clean_sheets": 9,
+        "over_2_5_goals_home": 6,
+        "over_0_5_ht_home": 8,
+        "over_0_5_ft_home": 10,
+        "clean_sheets_home": 4,
+        "over_2_5_goals_away": 2,
+        "over_0_5_ht_away": 4,
+        "over_0_5_ft_away": 1,
+        "clean_sheets_away": 5
+      },
+      {
+        "rank": 6,
+        "team": {
           "id": 1198,
           "name": "remo",
           "logo": "https://media.api-sports.io/football/teams/1198.png"
@@ -332,7 +398,7 @@
         "clean_sheets_away": 2
       },
       {
-        "rank": 6,
+        "rank": 7,
         "team": {
           "id": 1193,
           "name": "Cuiaba",
@@ -396,72 +462,6 @@
         "over_0_5_ht_away": 3,
         "over_0_5_ft_away": 6,
         "clean_sheets_away": 3
-      },
-      {
-        "rank": 7,
-        "team": {
-          "id": 7834,
-          "name": "Novorizontino",
-          "logo": "https://media.api-sports.io/football/teams/7834.png"
-        },
-        "points": 37,
-        "goalsDiff": 3,
-        "group": "Serie B",
-        "form": "DLLLD",
-        "form_home": "WWDLD",
-        "form_visitor": "DLDLL",
-        "status": "same",
-        "description": null,
-        "all": {
-          "played": 25,
-          "win": 9,
-          "draw": 10,
-          "lose": 6,
-          "goals": {
-            "for": 27,
-            "against": 24
-          }
-        },
-        "home": {
-          "played": 13,
-          "win": 7,
-          "draw": 5,
-          "lose": 1,
-          "goals": {
-            "for": 21,
-            "against": 11
-          }
-        },
-        "away": {
-          "played": 12,
-          "win": 2,
-          "draw": 5,
-          "lose": 5,
-          "goals": {
-            "for": 6,
-            "against": 13
-          }
-        },
-        "update": "2025-09-15T00:00:00+00:00",
-        "btts_matches": 12,
-        "btts_home_matches": 9,
-        "btts_away_matches": 3,
-        "avg_corners_per_game": 4.96,
-        "avg_corners_home_per_game": 5.85,
-        "avg_corners_away_per_game": 4.0,
-        "aproveitamento": 49.3,
-        "over_2_5_goals": 8,
-        "over_0_5_ht": 12,
-        "over_0_5_ft": 11,
-        "clean_sheets": 9,
-        "over_2_5_goals_home": 6,
-        "over_0_5_ht_home": 8,
-        "over_0_5_ft_home": 10,
-        "clean_sheets_home": 4,
-        "over_2_5_goals_away": 2,
-        "over_0_5_ht_away": 4,
-        "over_0_5_ft_away": 1,
-        "clean_sheets_away": 5
       },
       {
         "rank": 8,
@@ -933,31 +933,31 @@
           "logo": "https://media.api-sports.io/football/teams/7826.png"
         },
         "points": 31,
-        "goalsDiff": -3,
+        "goalsDiff": -4,
         "group": "Serie B",
-        "form": "WWDDL",
+        "form": "WDDLL",
         "form_home": "LDWDD",
         "form_visitor": "LDWWL",
         "status": "same",
         "description": null,
         "all": {
-          "played": 25,
+          "played": 26,
           "win": 7,
           "draw": 10,
-          "lose": 8,
+          "lose": 9,
           "goals": {
-            "for": 27,
-            "against": 30
+            "for": 28,
+            "against": 32
           }
         },
         "home": {
-          "played": 12,
+          "played": 13,
           "win": 4,
           "draw": 6,
-          "lose": 2,
+          "lose": 3,
           "goals": {
-            "for": 14,
-            "against": 12
+            "for": 15,
+            "against": 14
           }
         },
         "away": {
@@ -977,7 +977,7 @@
         "avg_corners_per_game": 4.04,
         "avg_corners_home_per_game": 4.33,
         "avg_corners_away_per_game": 3.77,
-        "aproveitamento": 41.3,
+        "aproveitamento": 39.7,
         "over_2_5_goals": 12,
         "over_0_5_ht": 13,
         "over_0_5_ft": 10,
