@@ -46,7 +46,7 @@
             "against": 7
           }
         },
-        "update": "2025-09-15T00:00:00+00:00",
+        "update": "2025-09-16T00:00:00+00:00",
         "btts_matches": 8,
         "btts_home_matches": 3,
         "btts_away_matches": 5,
@@ -69,6 +69,72 @@
       },
       {
         "rank": 2,
+        "team": {
+          "id": 135,
+          "name": "Cruzeiro",
+          "logo": "https://media.api-sports.io/football/teams/135.png"
+        },
+        "points": 47,
+        "goalsDiff": 21,
+        "group": "Brasileiro Serie A 2025",
+        "form": "LDWWW",
+        "form_home": "WLLWW",
+        "form_visitor": "DWDWD",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 23,
+          "win": 14,
+          "draw": 5,
+          "lose": 4,
+          "goals": {
+            "for": 37,
+            "against": 16
+          }
+        },
+        "home": {
+          "played": 12,
+          "win": 9,
+          "draw": 1,
+          "lose": 2,
+          "goals": {
+            "for": 23,
+            "against": 9
+          }
+        },
+        "away": {
+          "played": 11,
+          "win": 5,
+          "draw": 4,
+          "lose": 2,
+          "goals": {
+            "for": 14,
+            "against": 7
+          }
+        },
+        "update": "2025-09-16T00:00:00+00:00",
+        "btts_matches": 9,
+        "btts_home_matches": 7,
+        "btts_away_matches": 2,
+        "avg_corners_per_game": 5.91,
+        "avg_corners_home_per_game": 7.17,
+        "avg_corners_away_per_game": 4.4,
+        "aproveitamento": 68.1,
+        "over_2_5_goals": 11,
+        "over_0_5_ht": 14,
+        "over_0_5_ft": 9,
+        "clean_sheets": 11,
+        "over_2_5_goals_home": 9,
+        "over_0_5_ht_home": 9,
+        "over_0_5_ft_home": 7,
+        "clean_sheets_home": 5,
+        "over_2_5_goals_away": 2,
+        "over_0_5_ht_away": 5,
+        "over_0_5_ft_away": 2,
+        "clean_sheets_away": 6
+      },
+      {
+        "rank": 3,
         "team": {
           "id": 121,
           "name": "Palmeiras",
@@ -112,7 +178,7 @@
             "against": 9
           }
         },
-        "update": "2025-09-15T00:00:00+00:00",
+        "update": "2025-09-16T00:00:00+00:00",
         "btts_matches": 10,
         "btts_home_matches": 3,
         "btts_away_matches": 7,
@@ -132,72 +198,6 @@
         "over_0_5_ht_away": 5,
         "over_0_5_ft_away": 8,
         "clean_sheets_away": 3
-      },
-      {
-        "rank": 3,
-        "team": {
-          "id": 135,
-          "name": "Cruzeiro",
-          "logo": "https://media.api-sports.io/football/teams/135.png"
-        },
-        "points": 44,
-        "goalsDiff": 20,
-        "group": "Brasileiro Serie A 2025",
-        "form": "WLDWW",
-        "form_home": "WLLWW",
-        "form_visitor": "DWDWD",
-        "status": "same",
-        "description": "Copa Libertadores",
-        "all": {
-          "played": 22,
-          "win": 13,
-          "draw": 5,
-          "lose": 4,
-          "goals": {
-            "for": 35,
-            "against": 15
-          }
-        },
-        "home": {
-          "played": 12,
-          "win": 9,
-          "draw": 1,
-          "lose": 2,
-          "goals": {
-            "for": 23,
-            "against": 9
-          }
-        },
-        "away": {
-          "played": 10,
-          "win": 4,
-          "draw": 4,
-          "lose": 2,
-          "goals": {
-            "for": 12,
-            "against": 6
-          }
-        },
-        "update": "2025-09-15T00:00:00+00:00",
-        "btts_matches": 9,
-        "btts_home_matches": 7,
-        "btts_away_matches": 2,
-        "avg_corners_per_game": 5.91,
-        "avg_corners_home_per_game": 7.17,
-        "avg_corners_away_per_game": 4.4,
-        "aproveitamento": 66.7,
-        "over_2_5_goals": 11,
-        "over_0_5_ht": 14,
-        "over_0_5_ft": 9,
-        "clean_sheets": 11,
-        "over_2_5_goals_home": 9,
-        "over_0_5_ht_home": 9,
-        "over_0_5_ft_home": 7,
-        "clean_sheets_home": 5,
-        "over_2_5_goals_away": 2,
-        "over_0_5_ht_away": 5,
-        "over_0_5_ft_away": 2,
-        "clean_sheets_away": 6
       },
       {
         "rank": 4,
@@ -244,7 +244,7 @@
             "against": 10
           }
         },
-        "update": "2025-09-15T00:00:00+00:00",
+        "update": "2025-09-16T00:00:00+00:00",
         "btts_matches": 14,
         "btts_home_matches": 8,
         "btts_away_matches": 6,
@@ -273,31 +273,31 @@
           "logo": "https://media.api-sports.io/football/teams/118.png"
         },
         "points": 36,
-        "goalsDiff": 6,
+        "goalsDiff": 5,
         "group": "Brasileiro Serie A 2025",
-        "form": "DDWWL",
+        "form": "DWWLL",
         "form_home": "WWWDW",
         "form_visitor": "WDDWL",
         "status": "same",
         "description": "Copa Libertadores Qualification",
         "all": {
-          "played": 20,
+          "played": 21,
           "win": 10,
           "draw": 6,
-          "lose": 4,
+          "lose": 5,
           "goals": {
-            "for": 28,
-            "against": 22
+            "for": 29,
+            "against": 24
           }
         },
         "home": {
-          "played": 10,
+          "played": 11,
           "win": 7,
           "draw": 3,
-          "lose": 0,
+          "lose": 1,
           "goals": {
-            "for": 18,
-            "against": 8
+            "for": 19,
+            "against": 10
           }
         },
         "away": {
@@ -310,14 +310,14 @@
             "against": 14
           }
         },
-        "update": "2025-09-15T00:00:00+00:00",
+        "update": "2025-09-16T00:00:00+00:00",
         "btts_matches": 10,
         "btts_home_matches": 6,
         "btts_away_matches": 4,
         "avg_corners_per_game": 4.3,
         "avg_corners_home_per_game": 4.2,
         "avg_corners_away_per_game": 4.4,
-        "aproveitamento": 60.0,
+        "aproveitamento": 57.1,
         "over_2_5_goals": 10,
         "over_0_5_ht": 10,
         "over_0_5_ft": 12,
@@ -376,7 +376,7 @@
             "against": 5
           }
         },
-        "update": "2025-09-15T00:00:00+00:00",
+        "update": "2025-09-16T00:00:00+00:00",
         "btts_matches": 5,
         "btts_home_matches": 4,
         "btts_away_matches": 1,
@@ -442,7 +442,7 @@
             "against": 14
           }
         },
-        "update": "2025-09-15T00:00:00+00:00",
+        "update": "2025-09-16T00:00:00+00:00",
         "btts_matches": 11,
         "btts_home_matches": 5,
         "btts_away_matches": 6,
@@ -508,7 +508,7 @@
             "against": 16
           }
         },
-        "update": "2025-09-15T00:00:00+00:00",
+        "update": "2025-09-16T00:00:00+00:00",
         "btts_matches": 13,
         "btts_home_matches": 6,
         "btts_away_matches": 7,
@@ -574,7 +574,7 @@
             "against": 17
           }
         },
-        "update": "2025-09-15T00:00:00+00:00",
+        "update": "2025-09-16T00:00:00+00:00",
         "btts_matches": 12,
         "btts_home_matches": 6,
         "btts_away_matches": 6,
@@ -640,7 +640,7 @@
             "against": 19
           }
         },
-        "update": "2025-09-15T00:00:00+00:00",
+        "update": "2025-09-16T00:00:00+00:00",
         "btts_matches": 11,
         "btts_home_matches": 6,
         "btts_away_matches": 5,
@@ -706,7 +706,7 @@
             "against": 14
           }
         },
-        "update": "2025-09-15T00:00:00+00:00",
+        "update": "2025-09-16T00:00:00+00:00",
         "btts_matches": 8,
         "btts_home_matches": 3,
         "btts_away_matches": 5,
@@ -772,7 +772,7 @@
             "against": 21
           }
         },
-        "update": "2025-09-15T00:00:00+00:00",
+        "update": "2025-09-16T00:00:00+00:00",
         "btts_matches": 13,
         "btts_home_matches": 6,
         "btts_away_matches": 7,
@@ -838,7 +838,7 @@
             "against": 16
           }
         },
-        "update": "2025-09-15T00:00:00+00:00",
+        "update": "2025-09-16T00:00:00+00:00",
         "btts_matches": 9,
         "btts_home_matches": 4,
         "btts_away_matches": 5,
@@ -904,7 +904,7 @@
             "against": 18
           }
         },
-        "update": "2025-09-15T00:00:00+00:00",
+        "update": "2025-09-16T00:00:00+00:00",
         "btts_matches": 12,
         "btts_home_matches": 5,
         "btts_away_matches": 7,
@@ -970,7 +970,7 @@
             "against": 19
           }
         },
-        "update": "2025-09-15T00:00:00+00:00",
+        "update": "2025-09-16T00:00:00+00:00",
         "btts_matches": 12,
         "btts_home_matches": 5,
         "btts_away_matches": 7,
@@ -1036,7 +1036,7 @@
             "against": 18
           }
         },
-        "update": "2025-09-15T00:00:00+00:00",
+        "update": "2025-09-16T00:00:00+00:00",
         "btts_matches": 9,
         "btts_home_matches": 4,
         "btts_away_matches": 5,
@@ -1102,7 +1102,7 @@
             "against": 22
           }
         },
-        "update": "2025-09-15T00:00:00+00:00",
+        "update": "2025-09-16T00:00:00+00:00",
         "btts_matches": 11,
         "btts_home_matches": 7,
         "btts_away_matches": 4,
@@ -1168,7 +1168,7 @@
             "against": 29
           }
         },
-        "update": "2025-09-15T00:00:00+00:00",
+        "update": "2025-09-16T00:00:00+00:00",
         "btts_matches": 8,
         "btts_home_matches": 5,
         "btts_away_matches": 3,
@@ -1234,7 +1234,7 @@
             "against": 18
           }
         },
-        "update": "2025-09-15T00:00:00+00:00",
+        "update": "2025-09-16T00:00:00+00:00",
         "btts_matches": 10,
         "btts_home_matches": 4,
         "btts_away_matches": 6,
@@ -1300,7 +1300,7 @@
             "against": 18
           }
         },
-        "update": "2025-09-15T00:00:00+00:00",
+        "update": "2025-09-16T00:00:00+00:00",
         "btts_matches": 9,
         "btts_home_matches": 5,
         "btts_away_matches": 4,
