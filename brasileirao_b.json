@@ -669,21 +669,21 @@
           "logo": "https://media.api-sports.io/football/teams/145.png"
         },
         "points": 36,
-        "goalsDiff": 6,
+        "goalsDiff": 5,
         "group": "Serie B",
-        "form": "WDLLW",
+        "form": "DLLWL",
         "form_home": "DWWLW",
         "form_visitor": "LLDDL",
         "status": "same",
         "description": null,
         "all": {
-          "played": 25,
+          "played": 26,
           "win": 9,
           "draw": 9,
-          "lose": 7,
+          "lose": 8,
           "goals": {
-            "for": 32,
-            "against": 26
+            "for": 33,
+            "against": 28
           }
         },
         "home": {
@@ -697,13 +697,13 @@
           }
         },
         "away": {
-          "played": 12,
+          "played": 13,
           "win": 2,
           "draw": 5,
-          "lose": 5,
+          "lose": 6,
           "goals": {
-            "for": 12,
-            "against": 18
+            "for": 13,
+            "against": 20
           }
         },
         "update": "2025-09-16T00:00:00+00:00",
@@ -713,7 +713,7 @@
         "avg_corners_per_game": 4.44,
         "avg_corners_home_per_game": 4.69,
         "avg_corners_away_per_game": 4.17,
-        "aproveitamento": 48.0,
+        "aproveitamento": 46.2,
         "over_2_5_goals": 12,
         "over_0_5_ht": 13,
         "over_0_5_ft": 11,
@@ -796,6 +796,72 @@
       {
         "rank": 13,
         "team": {
+          "id": 144,
+          "name": "Atletico Goianiense",
+          "logo": "https://media.api-sports.io/football/teams/144.png"
+        },
+        "points": 35,
+        "goalsDiff": 1,
+        "group": "Serie B",
+        "form": "LDWDW",
+        "form_home": "LDWLW",
+        "form_visitor": "DLDDD",
+        "status": "same",
+        "description": null,
+        "all": {
+          "played": 26,
+          "win": 8,
+          "draw": 11,
+          "lose": 7,
+          "goals": {
+            "for": 29,
+            "against": 28
+          }
+        },
+        "home": {
+          "played": 14,
+          "win": 7,
+          "draw": 4,
+          "lose": 3,
+          "goals": {
+            "for": 19,
+            "against": 12
+          }
+        },
+        "away": {
+          "played": 12,
+          "win": 1,
+          "draw": 7,
+          "lose": 4,
+          "goals": {
+            "for": 10,
+            "against": 16
+          }
+        },
+        "update": "2025-09-16T00:00:00+00:00",
+        "btts_matches": 13,
+        "btts_home_matches": 6,
+        "btts_away_matches": 7,
+        "avg_corners_per_game": 4.64,
+        "avg_corners_home_per_game": 5.0,
+        "avg_corners_away_per_game": 4.25,
+        "aproveitamento": 44.9,
+        "over_2_5_goals": 8,
+        "over_0_5_ht": 12,
+        "over_0_5_ft": 10,
+        "clean_sheets": 8,
+        "over_2_5_goals_home": 4,
+        "over_0_5_ht_home": 6,
+        "over_0_5_ft_home": 7,
+        "clean_sheets_home": 6,
+        "over_2_5_goals_away": 4,
+        "over_0_5_ht_away": 6,
+        "over_0_5_ft_away": 3,
+        "clean_sheets_away": 2
+      },
+      {
+        "rank": 14,
+        "team": {
           "id": 13975,
           "name": "Athletic Club",
           "logo": "https://media.api-sports.io/football/teams/13975.png"
@@ -858,72 +924,6 @@
         "over_0_5_ht_away": 6,
         "over_0_5_ft_away": 6,
         "clean_sheets_away": 3
-      },
-      {
-        "rank": 14,
-        "team": {
-          "id": 144,
-          "name": "Atletico Goianiense",
-          "logo": "https://media.api-sports.io/football/teams/144.png"
-        },
-        "points": 32,
-        "goalsDiff": 0,
-        "group": "Serie B",
-        "form": "WLDWD",
-        "form_home": "LDWLW",
-        "form_visitor": "DLDDD",
-        "status": "same",
-        "description": null,
-        "all": {
-          "played": 25,
-          "win": 7,
-          "draw": 11,
-          "lose": 7,
-          "goals": {
-            "for": 27,
-            "against": 27
-          }
-        },
-        "home": {
-          "played": 13,
-          "win": 6,
-          "draw": 4,
-          "lose": 3,
-          "goals": {
-            "for": 17,
-            "against": 11
-          }
-        },
-        "away": {
-          "played": 12,
-          "win": 1,
-          "draw": 7,
-          "lose": 4,
-          "goals": {
-            "for": 10,
-            "against": 16
-          }
-        },
-        "update": "2025-09-16T00:00:00+00:00",
-        "btts_matches": 13,
-        "btts_home_matches": 6,
-        "btts_away_matches": 7,
-        "avg_corners_per_game": 4.64,
-        "avg_corners_home_per_game": 5.0,
-        "avg_corners_away_per_game": 4.25,
-        "aproveitamento": 42.7,
-        "over_2_5_goals": 8,
-        "over_0_5_ht": 12,
-        "over_0_5_ft": 10,
-        "clean_sheets": 8,
-        "over_2_5_goals_home": 4,
-        "over_0_5_ht_home": 6,
-        "over_0_5_ft_home": 7,
-        "clean_sheets_home": 6,
-        "over_2_5_goals_away": 4,
-        "over_0_5_ht_away": 6,
-        "over_0_5_ft_away": 3,
-        "clean_sheets_away": 2
       },
       {
         "rank": 15,
