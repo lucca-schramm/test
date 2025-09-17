@@ -207,31 +207,31 @@
           "logo": "https://media.api-sports.io/football/teams/132.png"
         },
         "points": 41,
-        "goalsDiff": 12,
+        "goalsDiff": 11,
         "group": "Serie B",
-        "form": "DWWDL",
+        "form": "WWDLL",
         "form_home": "DWWWD",
         "form_visitor": "WDDWL",
         "status": "same",
         "description": "Promotion - Serie A Betano",
         "all": {
-          "played": 25,
+          "played": 26,
           "win": 12,
           "draw": 5,
-          "lose": 8,
+          "lose": 9,
           "goals": {
-            "for": 36,
-            "against": 24
+            "for": 38,
+            "against": 27
           }
         },
         "home": {
-          "played": 12,
+          "played": 13,
           "win": 8,
           "draw": 2,
-          "lose": 2,
+          "lose": 3,
           "goals": {
-            "for": 25,
-            "against": 14
+            "for": 27,
+            "against": 17
           }
         },
         "away": {
@@ -251,7 +251,7 @@
         "avg_corners_per_game": 4.6,
         "avg_corners_home_per_game": 5.33,
         "avg_corners_away_per_game": 3.92,
-        "aproveitamento": 54.7,
+        "aproveitamento": 52.6,
         "over_2_5_goals": 12,
         "over_0_5_ht": 11,
         "over_0_5_ft": 14,
@@ -334,6 +334,72 @@
       {
         "rank": 6,
         "team": {
+          "id": 134,
+          "name": "Atletico Paranaense",
+          "logo": "https://media.api-sports.io/football/teams/134.png"
+        },
+        "points": 39,
+        "goalsDiff": 1,
+        "group": "Serie B",
+        "form": "DWWWW",
+        "form_home": "LDDDW",
+        "form_visitor": "LDLWW",
+        "status": "same",
+        "description": null,
+        "all": {
+          "played": 26,
+          "win": 11,
+          "draw": 6,
+          "lose": 9,
+          "goals": {
+            "for": 37,
+            "against": 36
+          }
+        },
+        "home": {
+          "played": 13,
+          "win": 5,
+          "draw": 4,
+          "lose": 4,
+          "goals": {
+            "for": 14,
+            "against": 14
+          }
+        },
+        "away": {
+          "played": 13,
+          "win": 6,
+          "draw": 2,
+          "lose": 5,
+          "goals": {
+            "for": 23,
+            "against": 22
+          }
+        },
+        "update": "2025-09-16T00:00:00+00:00",
+        "btts_matches": 18,
+        "btts_home_matches": 8,
+        "btts_away_matches": 10,
+        "avg_corners_per_game": 5.36,
+        "avg_corners_home_per_game": 7.08,
+        "avg_corners_away_per_game": 3.5,
+        "aproveitamento": 50.0,
+        "over_2_5_goals": 14,
+        "over_0_5_ht": 13,
+        "over_0_5_ft": 17,
+        "clean_sheets": 4,
+        "over_2_5_goals_home": 4,
+        "over_0_5_ht_home": 4,
+        "over_0_5_ft_home": 9,
+        "clean_sheets_home": 2,
+        "over_2_5_goals_away": 10,
+        "over_0_5_ht_away": 9,
+        "over_0_5_ft_away": 8,
+        "clean_sheets_away": 2
+      },
+      {
+        "rank": 7,
+        "team": {
           "id": 1198,
           "name": "remo",
           "logo": "https://media.api-sports.io/football/teams/1198.png"
@@ -398,7 +464,7 @@
         "clean_sheets_away": 2
       },
       {
-        "rank": 7,
+        "rank": 8,
         "team": {
           "id": 1193,
           "name": "Cuiaba",
@@ -464,7 +530,7 @@
         "clean_sheets_away": 3
       },
       {
-        "rank": 8,
+        "rank": 9,
         "team": {
           "id": 146,
           "name": "CRB",
@@ -528,72 +594,6 @@
         "over_0_5_ht_away": 4,
         "over_0_5_ft_away": 4,
         "clean_sheets_away": 1
-      },
-      {
-        "rank": 9,
-        "team": {
-          "id": 134,
-          "name": "Atletico Paranaense",
-          "logo": "https://media.api-sports.io/football/teams/134.png"
-        },
-        "points": 36,
-        "goalsDiff": 0,
-        "group": "Serie B",
-        "form": "LDWWW",
-        "form_home": "LDDDW",
-        "form_visitor": "LDLWW",
-        "status": "same",
-        "description": null,
-        "all": {
-          "played": 25,
-          "win": 10,
-          "draw": 6,
-          "lose": 9,
-          "goals": {
-            "for": 34,
-            "against": 34
-          }
-        },
-        "home": {
-          "played": 13,
-          "win": 5,
-          "draw": 4,
-          "lose": 4,
-          "goals": {
-            "for": 14,
-            "against": 14
-          }
-        },
-        "away": {
-          "played": 12,
-          "win": 5,
-          "draw": 2,
-          "lose": 5,
-          "goals": {
-            "for": 20,
-            "against": 20
-          }
-        },
-        "update": "2025-09-16T00:00:00+00:00",
-        "btts_matches": 18,
-        "btts_home_matches": 8,
-        "btts_away_matches": 10,
-        "avg_corners_per_game": 5.36,
-        "avg_corners_home_per_game": 7.08,
-        "avg_corners_away_per_game": 3.5,
-        "aproveitamento": 48.0,
-        "over_2_5_goals": 14,
-        "over_0_5_ht": 13,
-        "over_0_5_ft": 17,
-        "clean_sheets": 4,
-        "over_2_5_goals_home": 4,
-        "over_0_5_ht_home": 4,
-        "over_0_5_ft_home": 9,
-        "clean_sheets_home": 2,
-        "over_2_5_goals_away": 10,
-        "over_0_5_ht_away": 9,
-        "over_0_5_ft_away": 8,
-        "clean_sheets_away": 2
       },
       {
         "rank": 10,
