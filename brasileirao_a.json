@@ -928,72 +928,6 @@
       {
         "rank": 15,
         "team": {
-          "id": 128,
-          "name": "Santos",
-          "logo": "https://media.api-sports.io/football/teams/128.png"
-        },
-        "points": 23,
-        "goalsDiff": -11,
-        "group": "Brasileiro Serie A 2025",
-        "form": "WLLDD",
-        "form_home": "WLWLD",
-        "form_visitor": "WLDWL",
-        "status": "same",
-        "description": null,
-        "all": {
-          "played": 22,
-          "win": 6,
-          "draw": 5,
-          "lose": 11,
-          "goals": {
-            "for": 21,
-            "against": 32
-          }
-        },
-        "home": {
-          "played": 10,
-          "win": 3,
-          "draw": 3,
-          "lose": 4,
-          "goals": {
-            "for": 10,
-            "against": 14
-          }
-        },
-        "away": {
-          "played": 12,
-          "win": 3,
-          "draw": 2,
-          "lose": 7,
-          "goals": {
-            "for": 11,
-            "against": 18
-          }
-        },
-        "update": "2025-09-18T00:00:00+00:00",
-        "btts_matches": 9,
-        "btts_home_matches": 4,
-        "btts_away_matches": 5,
-        "avg_corners_per_game": 4.19,
-        "avg_corners_home_per_game": 5.5,
-        "avg_corners_away_per_game": 3.0,
-        "aproveitamento": 34.8,
-        "over_2_5_goals": 11,
-        "over_0_5_ht": 6,
-        "over_0_5_ft": 8,
-        "clean_sheets": 5,
-        "over_2_5_goals_home": 5,
-        "over_0_5_ht_home": 2,
-        "over_0_5_ft_home": 5,
-        "clean_sheets_home": 4,
-        "over_2_5_goals_away": 6,
-        "over_0_5_ht_away": 4,
-        "over_0_5_ft_away": 3,
-        "clean_sheets_away": 1
-      },
-      {
-        "rank": 16,
-        "team": {
           "id": 133,
           "name": "Vasco DA Gama",
           "logo": "https://media.api-sports.io/football/teams/133.png"
@@ -1055,6 +989,72 @@
         "over_2_5_goals_away": 8,
         "over_0_5_ht_away": 6,
         "over_0_5_ft_away": 5,
+        "clean_sheets_away": 1
+      },
+      {
+        "rank": 16,
+        "team": {
+          "id": 128,
+          "name": "Santos",
+          "logo": "https://media.api-sports.io/football/teams/128.png"
+        },
+        "points": 23,
+        "goalsDiff": -11,
+        "group": "Brasileiro Serie A 2025",
+        "form": "WLLDD",
+        "form_home": "WLWLD",
+        "form_visitor": "WLDWL",
+        "status": "same",
+        "description": null,
+        "all": {
+          "played": 22,
+          "win": 6,
+          "draw": 5,
+          "lose": 11,
+          "goals": {
+            "for": 21,
+            "against": 32
+          }
+        },
+        "home": {
+          "played": 10,
+          "win": 3,
+          "draw": 3,
+          "lose": 4,
+          "goals": {
+            "for": 10,
+            "against": 14
+          }
+        },
+        "away": {
+          "played": 12,
+          "win": 3,
+          "draw": 2,
+          "lose": 7,
+          "goals": {
+            "for": 11,
+            "against": 18
+          }
+        },
+        "update": "2025-09-18T00:00:00+00:00",
+        "btts_matches": 9,
+        "btts_home_matches": 4,
+        "btts_away_matches": 5,
+        "avg_corners_per_game": 4.19,
+        "avg_corners_home_per_game": 5.5,
+        "avg_corners_away_per_game": 3.0,
+        "aproveitamento": 34.8,
+        "over_2_5_goals": 11,
+        "over_0_5_ht": 6,
+        "over_0_5_ft": 8,
+        "clean_sheets": 5,
+        "over_2_5_goals_home": 5,
+        "over_0_5_ht_home": 2,
+        "over_0_5_ft_home": 5,
+        "clean_sheets_home": 4,
+        "over_2_5_goals_away": 6,
+        "over_0_5_ht_away": 4,
+        "over_0_5_ft_away": 3,
         "clean_sheets_away": 1
       },
       {
