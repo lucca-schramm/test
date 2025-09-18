@@ -46,7 +46,7 @@
             "against": 7
           }
         },
-        "update": "2025-09-17T00:00:00+00:00",
+        "update": "2025-09-18T00:00:00+00:00",
         "btts_matches": 8,
         "btts_home_matches": 3,
         "btts_away_matches": 5,
@@ -112,7 +112,7 @@
             "against": 7
           }
         },
-        "update": "2025-09-17T00:00:00+00:00",
+        "update": "2025-09-18T00:00:00+00:00",
         "btts_matches": 9,
         "btts_home_matches": 7,
         "btts_away_matches": 2,
@@ -178,7 +178,7 @@
             "against": 9
           }
         },
-        "update": "2025-09-17T00:00:00+00:00",
+        "update": "2025-09-18T00:00:00+00:00",
         "btts_matches": 10,
         "btts_home_matches": 3,
         "btts_away_matches": 7,
@@ -206,22 +206,22 @@
           "name": "Mirassol",
           "logo": "https://media.api-sports.io/football/teams/7848.png"
         },
-        "points": 38,
+        "points": 39,
         "goalsDiff": 16,
         "group": "Brasileiro Serie A 2025",
-        "form": "LDWWW",
+        "form": "DWWWD",
         "form_home": "WDWDW",
         "form_visitor": "WDWLW",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 21,
+          "played": 22,
           "win": 10,
-          "draw": 8,
+          "draw": 9,
           "lose": 3,
           "goals": {
-            "for": 36,
-            "against": 20
+            "for": 39,
+            "against": 23
           }
         },
         "home": {
@@ -235,23 +235,23 @@
           }
         },
         "away": {
-          "played": 11,
+          "played": 12,
           "win": 4,
-          "draw": 4,
+          "draw": 5,
           "lose": 3,
           "goals": {
-            "for": 13,
-            "against": 10
+            "for": 16,
+            "against": 13
           }
         },
-        "update": "2025-09-17T00:00:00+00:00",
+        "update": "2025-09-18T00:00:00+00:00",
         "btts_matches": 14,
         "btts_home_matches": 8,
         "btts_away_matches": 6,
         "avg_corners_per_game": 5.0,
         "avg_corners_home_per_game": 5.7,
         "avg_corners_away_per_game": 4.3,
-        "aproveitamento": 60.3,
+        "aproveitamento": 59.1,
         "over_2_5_goals": 9,
         "over_0_5_ht": 11,
         "over_0_5_ft": 12,
@@ -267,6 +267,72 @@
       },
       {
         "rank": 5,
+        "team": {
+          "id": 120,
+          "name": "Botafogo",
+          "logo": "https://media.api-sports.io/football/teams/120.png"
+        },
+        "points": 36,
+        "goalsDiff": 16,
+        "group": "Brasileiro Serie A 2025",
+        "form": "LWWLD",
+        "form_home": "DDLLW",
+        "form_visitor": "WWWWW",
+        "status": "same",
+        "description": "Copa Libertadores Qualification",
+        "all": {
+          "played": 22,
+          "win": 10,
+          "draw": 6,
+          "lose": 6,
+          "goals": {
+            "for": 33,
+            "against": 17
+          }
+        },
+        "home": {
+          "played": 11,
+          "win": 5,
+          "draw": 4,
+          "lose": 2,
+          "goals": {
+            "for": 21,
+            "against": 12
+          }
+        },
+        "away": {
+          "played": 11,
+          "win": 5,
+          "draw": 2,
+          "lose": 4,
+          "goals": {
+            "for": 12,
+            "against": 5
+          }
+        },
+        "update": "2025-09-18T00:00:00+00:00",
+        "btts_matches": 5,
+        "btts_home_matches": 4,
+        "btts_away_matches": 1,
+        "avg_corners_per_game": 4.8,
+        "avg_corners_home_per_game": 5.4,
+        "avg_corners_away_per_game": 4.2,
+        "aproveitamento": 54.5,
+        "over_2_5_goals": 6,
+        "over_0_5_ht": 9,
+        "over_0_5_ft": 11,
+        "clean_sheets": 10,
+        "over_2_5_goals_home": 4,
+        "over_0_5_ht_home": 7,
+        "over_0_5_ft_home": 6,
+        "clean_sheets_home": 4,
+        "over_2_5_goals_away": 2,
+        "over_0_5_ht_away": 2,
+        "over_0_5_ft_away": 5,
+        "clean_sheets_away": 6
+      },
+      {
+        "rank": 6,
         "team": {
           "id": 118,
           "name": "Bahia",
@@ -310,7 +376,7 @@
             "against": 14
           }
         },
-        "update": "2025-09-17T00:00:00+00:00",
+        "update": "2025-09-18T00:00:00+00:00",
         "btts_matches": 10,
         "btts_home_matches": 6,
         "btts_away_matches": 4,
@@ -330,72 +396,6 @@
         "over_0_5_ht_away": 3,
         "over_0_5_ft_away": 5,
         "clean_sheets_away": 3
-      },
-      {
-        "rank": 6,
-        "team": {
-          "id": 120,
-          "name": "Botafogo",
-          "logo": "https://media.api-sports.io/football/teams/120.png"
-        },
-        "points": 35,
-        "goalsDiff": 16,
-        "group": "Brasileiro Serie A 2025",
-        "form": "WLWWL",
-        "form_home": "DDLLW",
-        "form_visitor": "WWWWW",
-        "status": "same",
-        "description": "Copa Libertadores Qualification",
-        "all": {
-          "played": 21,
-          "win": 10,
-          "draw": 5,
-          "lose": 6,
-          "goals": {
-            "for": 30,
-            "against": 14
-          }
-        },
-        "home": {
-          "played": 10,
-          "win": 5,
-          "draw": 3,
-          "lose": 2,
-          "goals": {
-            "for": 18,
-            "against": 9
-          }
-        },
-        "away": {
-          "played": 11,
-          "win": 5,
-          "draw": 2,
-          "lose": 4,
-          "goals": {
-            "for": 12,
-            "against": 5
-          }
-        },
-        "update": "2025-09-17T00:00:00+00:00",
-        "btts_matches": 5,
-        "btts_home_matches": 4,
-        "btts_away_matches": 1,
-        "avg_corners_per_game": 4.8,
-        "avg_corners_home_per_game": 5.4,
-        "avg_corners_away_per_game": 4.2,
-        "aproveitamento": 55.6,
-        "over_2_5_goals": 6,
-        "over_0_5_ht": 9,
-        "over_0_5_ft": 11,
-        "clean_sheets": 10,
-        "over_2_5_goals_home": 4,
-        "over_0_5_ht_home": 7,
-        "over_0_5_ft_home": 6,
-        "clean_sheets_home": 4,
-        "over_2_5_goals_away": 2,
-        "over_0_5_ht_away": 2,
-        "over_0_5_ft_away": 5,
-        "clean_sheets_away": 6
       },
       {
         "rank": 7,
@@ -442,7 +442,7 @@
             "against": 14
           }
         },
-        "update": "2025-09-17T00:00:00+00:00",
+        "update": "2025-09-18T00:00:00+00:00",
         "btts_matches": 11,
         "btts_home_matches": 5,
         "btts_away_matches": 6,
@@ -508,7 +508,7 @@
             "against": 16
           }
         },
-        "update": "2025-09-17T00:00:00+00:00",
+        "update": "2025-09-18T00:00:00+00:00",
         "btts_matches": 13,
         "btts_home_matches": 6,
         "btts_away_matches": 7,
@@ -574,7 +574,7 @@
             "against": 17
           }
         },
-        "update": "2025-09-17T00:00:00+00:00",
+        "update": "2025-09-18T00:00:00+00:00",
         "btts_matches": 12,
         "btts_home_matches": 6,
         "btts_away_matches": 6,
@@ -640,7 +640,7 @@
             "against": 19
           }
         },
-        "update": "2025-09-17T00:00:00+00:00",
+        "update": "2025-09-18T00:00:00+00:00",
         "btts_matches": 11,
         "btts_home_matches": 6,
         "btts_away_matches": 5,
@@ -706,7 +706,7 @@
             "against": 14
           }
         },
-        "update": "2025-09-17T00:00:00+00:00",
+        "update": "2025-09-18T00:00:00+00:00",
         "btts_matches": 8,
         "btts_home_matches": 3,
         "btts_away_matches": 5,
@@ -772,7 +772,7 @@
             "against": 21
           }
         },
-        "update": "2025-09-17T00:00:00+00:00",
+        "update": "2025-09-18T00:00:00+00:00",
         "btts_matches": 13,
         "btts_home_matches": 6,
         "btts_away_matches": 7,
@@ -838,7 +838,7 @@
             "against": 16
           }
         },
-        "update": "2025-09-17T00:00:00+00:00",
+        "update": "2025-09-18T00:00:00+00:00",
         "btts_matches": 9,
         "btts_home_matches": 4,
         "btts_away_matches": 5,
@@ -904,7 +904,7 @@
             "against": 18
           }
         },
-        "update": "2025-09-17T00:00:00+00:00",
+        "update": "2025-09-18T00:00:00+00:00",
         "btts_matches": 12,
         "btts_home_matches": 5,
         "btts_away_matches": 7,
@@ -927,72 +927,6 @@
       },
       {
         "rank": 15,
-        "team": {
-          "id": 133,
-          "name": "Vasco DA Gama",
-          "logo": "https://media.api-sports.io/football/teams/133.png"
-        },
-        "points": 23,
-        "goalsDiff": -1,
-        "group": "Brasileiro Serie A 2025",
-        "form": "WLLWD",
-        "form_home": "LLDDL",
-        "form_visitor": "DLWLW",
-        "status": "same",
-        "description": null,
-        "all": {
-          "played": 22,
-          "win": 6,
-          "draw": 5,
-          "lose": 11,
-          "goals": {
-            "for": 32,
-            "against": 33
-          }
-        },
-        "home": {
-          "played": 11,
-          "win": 3,
-          "draw": 4,
-          "lose": 4,
-          "goals": {
-            "for": 14,
-            "against": 14
-          }
-        },
-        "away": {
-          "played": 11,
-          "win": 3,
-          "draw": 1,
-          "lose": 7,
-          "goals": {
-            "for": 18,
-            "against": 19
-          }
-        },
-        "update": "2025-09-17T00:00:00+00:00",
-        "btts_matches": 12,
-        "btts_home_matches": 5,
-        "btts_away_matches": 7,
-        "avg_corners_per_game": 4.43,
-        "avg_corners_home_per_game": 4.9,
-        "avg_corners_away_per_game": 4.0,
-        "aproveitamento": 34.8,
-        "over_2_5_goals": 12,
-        "over_0_5_ht": 9,
-        "over_0_5_ft": 10,
-        "clean_sheets": 3,
-        "over_2_5_goals_home": 4,
-        "over_0_5_ht_home": 3,
-        "over_0_5_ft_home": 5,
-        "clean_sheets_home": 2,
-        "over_2_5_goals_away": 8,
-        "over_0_5_ht_away": 6,
-        "over_0_5_ft_away": 5,
-        "clean_sheets_away": 1
-      },
-      {
-        "rank": 16,
         "team": {
           "id": 128,
           "name": "Santos",
@@ -1036,7 +970,7 @@
             "against": 18
           }
         },
-        "update": "2025-09-17T00:00:00+00:00",
+        "update": "2025-09-18T00:00:00+00:00",
         "btts_matches": 9,
         "btts_home_matches": 4,
         "btts_away_matches": 5,
@@ -1055,6 +989,72 @@
         "over_2_5_goals_away": 6,
         "over_0_5_ht_away": 4,
         "over_0_5_ft_away": 3,
+        "clean_sheets_away": 1
+      },
+      {
+        "rank": 16,
+        "team": {
+          "id": 133,
+          "name": "Vasco DA Gama",
+          "logo": "https://media.api-sports.io/football/teams/133.png"
+        },
+        "points": 23,
+        "goalsDiff": -1,
+        "group": "Brasileiro Serie A 2025",
+        "form": "WLLWD",
+        "form_home": "LLDDL",
+        "form_visitor": "DLWLW",
+        "status": "same",
+        "description": null,
+        "all": {
+          "played": 22,
+          "win": 6,
+          "draw": 5,
+          "lose": 11,
+          "goals": {
+            "for": 32,
+            "against": 33
+          }
+        },
+        "home": {
+          "played": 11,
+          "win": 3,
+          "draw": 4,
+          "lose": 4,
+          "goals": {
+            "for": 14,
+            "against": 14
+          }
+        },
+        "away": {
+          "played": 11,
+          "win": 3,
+          "draw": 1,
+          "lose": 7,
+          "goals": {
+            "for": 18,
+            "against": 19
+          }
+        },
+        "update": "2025-09-18T00:00:00+00:00",
+        "btts_matches": 12,
+        "btts_home_matches": 5,
+        "btts_away_matches": 7,
+        "avg_corners_per_game": 4.43,
+        "avg_corners_home_per_game": 4.9,
+        "avg_corners_away_per_game": 4.0,
+        "aproveitamento": 34.8,
+        "over_2_5_goals": 12,
+        "over_0_5_ht": 9,
+        "over_0_5_ft": 10,
+        "clean_sheets": 3,
+        "over_2_5_goals_home": 4,
+        "over_0_5_ht_home": 3,
+        "over_0_5_ft_home": 5,
+        "clean_sheets_home": 2,
+        "over_2_5_goals_away": 8,
+        "over_0_5_ht_away": 6,
+        "over_0_5_ft_away": 5,
         "clean_sheets_away": 1
       },
       {
@@ -1102,7 +1102,7 @@
             "against": 22
           }
         },
-        "update": "2025-09-17T00:00:00+00:00",
+        "update": "2025-09-18T00:00:00+00:00",
         "btts_matches": 11,
         "btts_home_matches": 7,
         "btts_away_matches": 4,
@@ -1168,7 +1168,7 @@
             "against": 29
           }
         },
-        "update": "2025-09-17T00:00:00+00:00",
+        "update": "2025-09-18T00:00:00+00:00",
         "btts_matches": 8,
         "btts_home_matches": 5,
         "btts_away_matches": 3,
@@ -1234,7 +1234,7 @@
             "against": 18
           }
         },
-        "update": "2025-09-17T00:00:00+00:00",
+        "update": "2025-09-18T00:00:00+00:00",
         "btts_matches": 10,
         "btts_home_matches": 4,
         "btts_away_matches": 6,
@@ -1300,7 +1300,7 @@
             "against": 18
           }
         },
-        "update": "2025-09-17T00:00:00+00:00",
+        "update": "2025-09-18T00:00:00+00:00",
         "btts_matches": 9,
         "btts_home_matches": 5,
         "btts_away_matches": 4,
