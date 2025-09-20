@@ -4,6 +4,72 @@
       {
         "rank": 1,
         "team": {
+          "id": 151,
+          "name": "Goias",
+          "logo": "https://media.api-sports.io/football/teams/151.png"
+        },
+        "points": 48,
+        "goalsDiff": 8,
+        "group": "Serie B",
+        "form": "WLLDW",
+        "form_home": "WDWWL",
+        "form_visitor": "WLDLL",
+        "status": "same",
+        "description": "Promotion - Serie A Betano",
+        "all": {
+          "played": 27,
+          "win": 14,
+          "draw": 6,
+          "lose": 7,
+          "goals": {
+            "for": 33,
+            "against": 25
+          }
+        },
+        "home": {
+          "played": 14,
+          "win": 9,
+          "draw": 3,
+          "lose": 2,
+          "goals": {
+            "for": 22,
+            "against": 12
+          }
+        },
+        "away": {
+          "played": 13,
+          "win": 5,
+          "draw": 3,
+          "lose": 5,
+          "goals": {
+            "for": 11,
+            "against": 13
+          }
+        },
+        "update": "2025-09-20T00:00:00+00:00",
+        "btts_matches": 13,
+        "btts_home_matches": 8,
+        "btts_away_matches": 5,
+        "avg_corners_per_game": 6.08,
+        "avg_corners_home_per_game": 6.46,
+        "avg_corners_away_per_game": 5.67,
+        "aproveitamento": 59.3,
+        "over_2_5_goals": 11,
+        "over_0_5_ht": 11,
+        "over_0_5_ft": 15,
+        "clean_sheets": 8,
+        "over_2_5_goals_home": 6,
+        "over_0_5_ht_home": 8,
+        "over_0_5_ft_home": 11,
+        "clean_sheets_home": 5,
+        "over_2_5_goals_away": 5,
+        "over_0_5_ht_away": 3,
+        "over_0_5_ft_away": 4,
+        "clean_sheets_away": 3
+      },
+      {
+        "rank": 2,
+        "team": {
           "id": 147,
           "name": "Coritiba",
           "logo": "https://media.api-sports.io/football/teams/147.png"
@@ -66,72 +132,6 @@
         "over_0_5_ht_away": 4,
         "over_0_5_ft_away": 5,
         "clean_sheets_away": 5
-      },
-      {
-        "rank": 2,
-        "team": {
-          "id": 151,
-          "name": "Goias",
-          "logo": "https://media.api-sports.io/football/teams/151.png"
-        },
-        "points": 45,
-        "goalsDiff": 7,
-        "group": "Serie B",
-        "form": "LWLLD",
-        "form_home": "WDWWL",
-        "form_visitor": "WLDLL",
-        "status": "same",
-        "description": "Promotion - Serie A Betano",
-        "all": {
-          "played": 26,
-          "win": 13,
-          "draw": 6,
-          "lose": 7,
-          "goals": {
-            "for": 32,
-            "against": 25
-          }
-        },
-        "home": {
-          "played": 13,
-          "win": 8,
-          "draw": 3,
-          "lose": 2,
-          "goals": {
-            "for": 21,
-            "against": 12
-          }
-        },
-        "away": {
-          "played": 13,
-          "win": 5,
-          "draw": 3,
-          "lose": 5,
-          "goals": {
-            "for": 11,
-            "against": 13
-          }
-        },
-        "update": "2025-09-20T00:00:00+00:00",
-        "btts_matches": 13,
-        "btts_home_matches": 8,
-        "btts_away_matches": 5,
-        "avg_corners_per_game": 6.08,
-        "avg_corners_home_per_game": 6.46,
-        "avg_corners_away_per_game": 5.67,
-        "aproveitamento": 57.7,
-        "over_2_5_goals": 11,
-        "over_0_5_ht": 11,
-        "over_0_5_ft": 15,
-        "clean_sheets": 8,
-        "over_2_5_goals_home": 6,
-        "over_0_5_ht_home": 8,
-        "over_0_5_ft_home": 11,
-        "clean_sheets_home": 5,
-        "over_2_5_goals_away": 5,
-        "over_0_5_ht_away": 3,
-        "over_0_5_ft_away": 4,
-        "clean_sheets_away": 3
       },
       {
         "rank": 3,
@@ -1263,21 +1263,21 @@
           "logo": "https://media.api-sports.io/football/teams/149.png"
         },
         "points": 22,
-        "goalsDiff": -10,
+        "goalsDiff": -11,
         "group": "Serie B",
-        "form": "LLLLD",
+        "form": "LLLDL",
         "form_home": "DDLLL",
         "form_visitor": "WDDLL",
         "status": "same",
         "description": "Relegation - Serie C (First stage: )",
         "all": {
-          "played": 26,
+          "played": 27,
           "win": 4,
           "draw": 10,
-          "lose": 12,
+          "lose": 13,
           "goals": {
             "for": 21,
-            "against": 31
+            "against": 32
           }
         },
         "home": {
@@ -1291,13 +1291,13 @@
           }
         },
         "away": {
-          "played": 13,
+          "played": 14,
           "win": 2,
           "draw": 5,
-          "lose": 6,
+          "lose": 7,
           "goals": {
             "for": 11,
-            "against": 16
+            "against": 17
           }
         },
         "update": "2025-09-20T00:00:00+00:00",
@@ -1307,7 +1307,7 @@
         "avg_corners_per_game": 5.56,
         "avg_corners_home_per_game": 7.25,
         "avg_corners_away_per_game": 4.0,
-        "aproveitamento": 28.2,
+        "aproveitamento": 27.2,
         "over_2_5_goals": 8,
         "over_0_5_ht": 9,
         "over_0_5_ft": 7,
