@@ -202,6 +202,72 @@
       {
         "rank": 4,
         "team": {
+          "id": 7834,
+          "name": "Novorizontino",
+          "logo": "https://media.api-sports.io/football/teams/7834.png"
+        },
+        "points": 43,
+        "goalsDiff": 5,
+        "group": "Serie B",
+        "form": "LLDWW",
+        "form_home": "WWDLD",
+        "form_visitor": "DLDLL",
+        "status": "same",
+        "description": "Promotion - Serie A Betano",
+        "all": {
+          "played": 27,
+          "win": 11,
+          "draw": 10,
+          "lose": 6,
+          "goals": {
+            "for": 30,
+            "against": 25
+          }
+        },
+        "home": {
+          "played": 14,
+          "win": 8,
+          "draw": 5,
+          "lose": 1,
+          "goals": {
+            "for": 22,
+            "against": 11
+          }
+        },
+        "away": {
+          "played": 13,
+          "win": 3,
+          "draw": 5,
+          "lose": 5,
+          "goals": {
+            "for": 8,
+            "against": 14
+          }
+        },
+        "update": "2025-09-19T00:00:00+00:00",
+        "btts_matches": 12,
+        "btts_home_matches": 9,
+        "btts_away_matches": 3,
+        "avg_corners_per_game": 4.96,
+        "avg_corners_home_per_game": 5.85,
+        "avg_corners_away_per_game": 4.0,
+        "aproveitamento": 53.1,
+        "over_2_5_goals": 8,
+        "over_0_5_ht": 12,
+        "over_0_5_ft": 11,
+        "clean_sheets": 9,
+        "over_2_5_goals_home": 6,
+        "over_0_5_ht_home": 8,
+        "over_0_5_ft_home": 10,
+        "clean_sheets_home": 4,
+        "over_2_5_goals_away": 2,
+        "over_0_5_ht_away": 4,
+        "over_0_5_ft_away": 1,
+        "clean_sheets_away": 5
+      },
+      {
+        "rank": 5,
+        "team": {
           "id": 132,
           "name": "Chapecoense-sc",
           "logo": "https://media.api-sports.io/football/teams/132.png"
@@ -213,7 +279,7 @@
         "form_home": "DWWWD",
         "form_visitor": "WDDWL",
         "status": "same",
-        "description": "Promotion - Serie A Betano",
+        "description": null,
         "all": {
           "played": 26,
           "win": 12,
@@ -263,72 +329,6 @@
         "over_2_5_goals_away": 3,
         "over_0_5_ht_away": 2,
         "over_0_5_ft_away": 4,
-        "clean_sheets_away": 5
-      },
-      {
-        "rank": 5,
-        "team": {
-          "id": 7834,
-          "name": "Novorizontino",
-          "logo": "https://media.api-sports.io/football/teams/7834.png"
-        },
-        "points": 40,
-        "goalsDiff": 4,
-        "group": "Serie B",
-        "form": "LLLDW",
-        "form_home": "WWDLD",
-        "form_visitor": "DLDLL",
-        "status": "same",
-        "description": null,
-        "all": {
-          "played": 26,
-          "win": 10,
-          "draw": 10,
-          "lose": 6,
-          "goals": {
-            "for": 29,
-            "against": 25
-          }
-        },
-        "home": {
-          "played": 13,
-          "win": 7,
-          "draw": 5,
-          "lose": 1,
-          "goals": {
-            "for": 21,
-            "against": 11
-          }
-        },
-        "away": {
-          "played": 13,
-          "win": 3,
-          "draw": 5,
-          "lose": 5,
-          "goals": {
-            "for": 8,
-            "against": 14
-          }
-        },
-        "update": "2025-09-19T00:00:00+00:00",
-        "btts_matches": 12,
-        "btts_home_matches": 9,
-        "btts_away_matches": 3,
-        "avg_corners_per_game": 4.96,
-        "avg_corners_home_per_game": 5.85,
-        "avg_corners_away_per_game": 4.0,
-        "aproveitamento": 51.3,
-        "over_2_5_goals": 8,
-        "over_0_5_ht": 12,
-        "over_0_5_ft": 11,
-        "clean_sheets": 9,
-        "over_2_5_goals_home": 6,
-        "over_0_5_ht_home": 8,
-        "over_0_5_ft_home": 10,
-        "clean_sheets_home": 4,
-        "over_2_5_goals_away": 2,
-        "over_0_5_ht_away": 4,
-        "over_0_5_ft_away": 1,
         "clean_sheets_away": 5
       },
       {
@@ -867,21 +867,21 @@
           "logo": "https://media.api-sports.io/football/teams/13975.png"
         },
         "points": 32,
-        "goalsDiff": -5,
+        "goalsDiff": -6,
         "group": "Serie B",
-        "form": "DLWDW",
+        "form": "LWDWL",
         "form_home": "WDDDL",
         "form_visitor": "WDLWD",
         "status": "same",
         "description": null,
         "all": {
-          "played": 26,
+          "played": 27,
           "win": 9,
           "draw": 5,
-          "lose": 12,
+          "lose": 13,
           "goals": {
             "for": 29,
-            "against": 34
+            "against": 35
           }
         },
         "home": {
@@ -895,13 +895,13 @@
           }
         },
         "away": {
-          "played": 13,
+          "played": 14,
           "win": 5,
           "draw": 2,
-          "lose": 6,
+          "lose": 7,
           "goals": {
             "for": 14,
-            "against": 16
+            "against": 17
           }
         },
         "update": "2025-09-19T00:00:00+00:00",
@@ -911,7 +911,7 @@
         "avg_corners_per_game": 5.04,
         "avg_corners_home_per_game": 5.92,
         "avg_corners_away_per_game": 4.23,
-        "aproveitamento": 41.0,
+        "aproveitamento": 39.5,
         "over_2_5_goals": 11,
         "over_0_5_ht": 12,
         "over_0_5_ft": 11,
