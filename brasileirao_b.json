@@ -598,6 +598,72 @@
       {
         "rank": 10,
         "team": {
+          "id": 145,
+          "name": "Avai",
+          "logo": "https://media.api-sports.io/football/teams/145.png"
+        },
+        "points": 37,
+        "goalsDiff": 5,
+        "group": "Serie B",
+        "form": "LLWLD",
+        "form_home": "DWWLW",
+        "form_visitor": "LLDDL",
+        "status": "same",
+        "description": null,
+        "all": {
+          "played": 27,
+          "win": 9,
+          "draw": 10,
+          "lose": 8,
+          "goals": {
+            "for": 35,
+            "against": 30
+          }
+        },
+        "home": {
+          "played": 14,
+          "win": 7,
+          "draw": 5,
+          "lose": 2,
+          "goals": {
+            "for": 22,
+            "against": 10
+          }
+        },
+        "away": {
+          "played": 13,
+          "win": 2,
+          "draw": 5,
+          "lose": 6,
+          "goals": {
+            "for": 13,
+            "against": 20
+          }
+        },
+        "update": "2025-09-20T00:00:00+00:00",
+        "btts_matches": 14,
+        "btts_home_matches": 6,
+        "btts_away_matches": 8,
+        "avg_corners_per_game": 4.44,
+        "avg_corners_home_per_game": 4.69,
+        "avg_corners_away_per_game": 4.17,
+        "aproveitamento": 45.7,
+        "over_2_5_goals": 12,
+        "over_0_5_ht": 13,
+        "over_0_5_ft": 11,
+        "clean_sheets": 9,
+        "over_2_5_goals_home": 6,
+        "over_0_5_ht_home": 6,
+        "over_0_5_ft_home": 8,
+        "clean_sheets_home": 7,
+        "over_2_5_goals_away": 6,
+        "over_0_5_ht_away": 7,
+        "over_0_5_ft_away": 3,
+        "clean_sheets_away": 2
+      },
+      {
+        "rank": 11,
+        "team": {
           "id": 142,
           "name": "Vila Nova",
           "logo": "https://media.api-sports.io/football/teams/142.png"
@@ -659,72 +725,6 @@
         "over_2_5_goals_away": 5,
         "over_0_5_ht_away": 4,
         "over_0_5_ft_away": 7,
-        "clean_sheets_away": 2
-      },
-      {
-        "rank": 11,
-        "team": {
-          "id": 145,
-          "name": "Avai",
-          "logo": "https://media.api-sports.io/football/teams/145.png"
-        },
-        "points": 36,
-        "goalsDiff": 5,
-        "group": "Serie B",
-        "form": "DLLWL",
-        "form_home": "DWWLW",
-        "form_visitor": "LLDDL",
-        "status": "same",
-        "description": null,
-        "all": {
-          "played": 26,
-          "win": 9,
-          "draw": 9,
-          "lose": 8,
-          "goals": {
-            "for": 33,
-            "against": 28
-          }
-        },
-        "home": {
-          "played": 13,
-          "win": 7,
-          "draw": 4,
-          "lose": 2,
-          "goals": {
-            "for": 20,
-            "against": 8
-          }
-        },
-        "away": {
-          "played": 13,
-          "win": 2,
-          "draw": 5,
-          "lose": 6,
-          "goals": {
-            "for": 13,
-            "against": 20
-          }
-        },
-        "update": "2025-09-20T00:00:00+00:00",
-        "btts_matches": 14,
-        "btts_home_matches": 6,
-        "btts_away_matches": 8,
-        "avg_corners_per_game": 4.44,
-        "avg_corners_home_per_game": 4.69,
-        "avg_corners_away_per_game": 4.17,
-        "aproveitamento": 46.2,
-        "over_2_5_goals": 12,
-        "over_0_5_ht": 13,
-        "over_0_5_ft": 11,
-        "clean_sheets": 9,
-        "over_2_5_goals_home": 6,
-        "over_0_5_ht_home": 6,
-        "over_0_5_ft_home": 8,
-        "clean_sheets_home": 7,
-        "over_2_5_goals_away": 6,
-        "over_0_5_ht_away": 7,
-        "over_0_5_ft_away": 3,
         "clean_sheets_away": 2
       },
       {
@@ -932,22 +932,22 @@
           "name": "Ferroviária",
           "logo": "https://media.api-sports.io/football/teams/7826.png"
         },
-        "points": 31,
+        "points": 32,
         "goalsDiff": -4,
         "group": "Serie B",
-        "form": "WDDLL",
+        "form": "DDLLD",
         "form_home": "LDWDD",
         "form_visitor": "LDWWL",
         "status": "same",
         "description": null,
         "all": {
-          "played": 26,
+          "played": 27,
           "win": 7,
-          "draw": 10,
+          "draw": 11,
           "lose": 9,
           "goals": {
-            "for": 28,
-            "against": 32
+            "for": 30,
+            "against": 34
           }
         },
         "home": {
@@ -961,13 +961,13 @@
           }
         },
         "away": {
-          "played": 13,
+          "played": 14,
           "win": 3,
-          "draw": 4,
+          "draw": 5,
           "lose": 6,
           "goals": {
-            "for": 13,
-            "against": 18
+            "for": 15,
+            "against": 20
           }
         },
         "update": "2025-09-20T00:00:00+00:00",
@@ -977,7 +977,7 @@
         "avg_corners_per_game": 4.04,
         "avg_corners_home_per_game": 4.33,
         "avg_corners_away_per_game": 3.77,
-        "aproveitamento": 39.7,
+        "aproveitamento": 39.5,
         "over_2_5_goals": 12,
         "over_0_5_ht": 13,
         "over_0_5_ft": 10,
@@ -1126,101 +1126,35 @@
       {
         "rank": 18,
         "team": {
-          "id": 7814,
-          "name": "Volta Redonda",
-          "logo": "https://media.api-sports.io/football/teams/7814.png"
-        },
-        "points": 27,
-        "goalsDiff": -11,
-        "group": "Serie B",
-        "form": "LDLWD",
-        "form_home": "WWDLL",
-        "form_visitor": "DLLDW",
-        "status": "same",
-        "description": "Relegation - Serie C (First stage: )",
-        "all": {
-          "played": 26,
-          "win": 6,
-          "draw": 9,
-          "lose": 11,
-          "goals": {
-            "for": 16,
-            "against": 27
-          }
-        },
-        "home": {
-          "played": 13,
-          "win": 5,
-          "draw": 5,
-          "lose": 3,
-          "goals": {
-            "for": 10,
-            "against": 9
-          }
-        },
-        "away": {
-          "played": 13,
-          "win": 1,
-          "draw": 4,
-          "lose": 8,
-          "goals": {
-            "for": 6,
-            "against": 18
-          }
-        },
-        "update": "2025-09-20T00:00:00+00:00",
-        "btts_matches": 8,
-        "btts_home_matches": 4,
-        "btts_away_matches": 4,
-        "avg_corners_per_game": 5.62,
-        "avg_corners_home_per_game": 6.33,
-        "avg_corners_away_per_game": 4.92,
-        "aproveitamento": 34.6,
-        "over_2_5_goals": 5,
-        "over_0_5_ht": 3,
-        "over_0_5_ft": 10,
-        "clean_sheets": 8,
-        "over_2_5_goals_home": 2,
-        "over_0_5_ht_home": 1,
-        "over_0_5_ft_home": 7,
-        "clean_sheets_home": 5,
-        "over_2_5_goals_away": 3,
-        "over_0_5_ht_away": 2,
-        "over_0_5_ft_away": 3,
-        "clean_sheets_away": 3
-      },
-      {
-        "rank": 19,
-        "team": {
           "id": 10862,
           "name": "Amazonas",
           "logo": "https://media.api-sports.io/football/teams/10862.png"
         },
-        "points": 24,
-        "goalsDiff": -13,
+        "points": 27,
+        "goalsDiff": -12,
         "group": "Serie B",
-        "form": "DWLLL",
+        "form": "WLLLW",
         "form_home": "WDDDL",
         "form_visitor": "LDLWL",
         "status": "same",
         "description": "Relegation - Serie C (First stage: )",
         "all": {
-          "played": 26,
-          "win": 5,
+          "played": 27,
+          "win": 6,
           "draw": 9,
           "lose": 12,
           "goals": {
-            "for": 26,
+            "for": 27,
             "against": 39
           }
         },
         "home": {
-          "played": 13,
-          "win": 4,
+          "played": 14,
+          "win": 5,
           "draw": 6,
           "lose": 3,
           "goals": {
-            "for": 16,
+            "for": 17,
             "against": 14
           }
         },
@@ -1241,7 +1175,7 @@
         "avg_corners_per_game": 4.2,
         "avg_corners_home_per_game": 5.15,
         "avg_corners_away_per_game": 3.17,
-        "aproveitamento": 30.8,
+        "aproveitamento": 33.3,
         "over_2_5_goals": 11,
         "over_0_5_ht": 10,
         "over_0_5_ft": 13,
@@ -1254,6 +1188,72 @@
         "over_0_5_ht_away": 5,
         "over_0_5_ft_away": 4,
         "clean_sheets_away": 0
+      },
+      {
+        "rank": 19,
+        "team": {
+          "id": 7814,
+          "name": "Volta Redonda",
+          "logo": "https://media.api-sports.io/football/teams/7814.png"
+        },
+        "points": 27,
+        "goalsDiff": -12,
+        "group": "Serie B",
+        "form": "DLWDL",
+        "form_home": "WWDLL",
+        "form_visitor": "DLLDW",
+        "status": "same",
+        "description": "Relegation - Serie C (First stage: )",
+        "all": {
+          "played": 27,
+          "win": 6,
+          "draw": 9,
+          "lose": 12,
+          "goals": {
+            "for": 16,
+            "against": 28
+          }
+        },
+        "home": {
+          "played": 13,
+          "win": 5,
+          "draw": 5,
+          "lose": 3,
+          "goals": {
+            "for": 10,
+            "against": 9
+          }
+        },
+        "away": {
+          "played": 14,
+          "win": 1,
+          "draw": 4,
+          "lose": 9,
+          "goals": {
+            "for": 6,
+            "against": 19
+          }
+        },
+        "update": "2025-09-20T00:00:00+00:00",
+        "btts_matches": 8,
+        "btts_home_matches": 4,
+        "btts_away_matches": 4,
+        "avg_corners_per_game": 5.62,
+        "avg_corners_home_per_game": 6.33,
+        "avg_corners_away_per_game": 4.92,
+        "aproveitamento": 33.3,
+        "over_2_5_goals": 5,
+        "over_0_5_ht": 3,
+        "over_0_5_ft": 10,
+        "clean_sheets": 8,
+        "over_2_5_goals_home": 2,
+        "over_0_5_ht_home": 1,
+        "over_0_5_ft_home": 7,
+        "clean_sheets_home": 5,
+        "over_2_5_goals_away": 3,
+        "over_0_5_ht_away": 2,
+        "over_0_5_ft_away": 3,
+        "clean_sheets_away": 3
       },
       {
         "rank": 20,
