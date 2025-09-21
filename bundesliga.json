@@ -734,32 +734,32 @@
           "name": "Bayer Leverkusen",
           "logo": "https://media.api-sports.io/football/teams/168.png"
         },
-        "points": 4,
+        "points": 5,
         "goalsDiff": 1,
         "group": "Bundesliga",
-        "form": "LDW",
+        "form": "LDWD",
         "form_home": "L",
         "form_visitor": "D",
         "status": "same",
         "description": null,
         "all": {
+          "played": 4,
+          "win": 1,
+          "draw": 2,
+          "lose": 1,
+          "goals": {
+            "for": 8,
+            "against": 7
+          }
+        },
+        "home": {
           "played": 3,
           "win": 1,
           "draw": 1,
           "lose": 1,
           "goals": {
-            "for": 7,
-            "against": 6
-          }
-        },
-        "home": {
-          "played": 2,
-          "win": 1,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 4,
-            "against": 3
+            "for": 5,
+            "against": 4
           }
         },
         "away": {
@@ -779,7 +779,7 @@
         "avg_corners_per_game": 6.5,
         "avg_corners_home_per_game": 6.0,
         "avg_corners_away_per_game": 7.0,
-        "aproveitamento": 44.4,
+        "aproveitamento": 41.7,
         "over_2_5_goals": 2,
         "over_0_5_ht": 2,
         "over_0_5_ft": 1,
@@ -1064,22 +1064,22 @@
           "name": "Borussia Mönchengladbach",
           "logo": "https://media.api-sports.io/football/teams/163.png"
         },
-        "points": 1,
+        "points": 2,
         "goalsDiff": -5,
         "group": "Bundesliga",
-        "form": "DLL",
+        "form": "DLLD",
         "form_home": "D",
         "form_visitor": "L",
         "status": "same",
         "description": "Relegation - 2. Bundesliga",
         "all": {
-          "played": 3,
+          "played": 4,
           "win": 0,
-          "draw": 1,
+          "draw": 2,
           "lose": 2,
           "goals": {
-            "for": 0,
-            "against": 5
+            "for": 1,
+            "against": 6
           }
         },
         "home": {
@@ -1093,13 +1093,13 @@
           }
         },
         "away": {
-          "played": 1,
+          "played": 2,
           "win": 0,
-          "draw": 0,
+          "draw": 1,
           "lose": 1,
           "goals": {
-            "for": 0,
-            "against": 1
+            "for": 1,
+            "against": 2
           }
         },
         "update": "2025-09-21T00:00:00+00:00",
@@ -1109,7 +1109,7 @@
         "avg_corners_per_game": 8.5,
         "avg_corners_home_per_game": 7.0,
         "avg_corners_away_per_game": 10.0,
-        "aproveitamento": 11.1,
+        "aproveitamento": 16.7,
         "over_2_5_goals": 0,
         "over_0_5_ht": 0,
         "over_0_5_ft": 0,
