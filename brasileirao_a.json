@@ -8,32 +8,32 @@
           "name": "Flamengo",
           "logo": "https://media.api-sports.io/football/teams/127.png"
         },
-        "points": 50,
+        "points": 51,
         "goalsDiff": 37,
         "group": "Brasileiro Serie A 2025",
-        "form": "WWWDW",
+        "form": "WWDWD",
         "form_home": "WWWWD",
         "form_visitor": "WLWDW",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 22,
+          "played": 23,
           "win": 15,
-          "draw": 5,
+          "draw": 6,
           "lose": 2,
           "goals": {
-            "for": 47,
-            "against": 10
+            "for": 48,
+            "against": 11
           }
         },
         "home": {
-          "played": 12,
+          "played": 13,
           "win": 9,
-          "draw": 3,
+          "draw": 4,
           "lose": 0,
           "goals": {
-            "for": 32,
-            "against": 3
+            "for": 33,
+            "against": 4
           }
         },
         "away": {
@@ -46,14 +46,14 @@
             "against": 7
           }
         },
-        "update": "2025-09-21T00:00:00+00:00",
+        "update": "2025-09-22T00:00:00+00:00",
         "btts_matches": 8,
         "btts_home_matches": 3,
         "btts_away_matches": 5,
         "avg_corners_per_game": 6.62,
         "avg_corners_home_per_game": 7.25,
         "avg_corners_away_per_game": 5.78,
-        "aproveitamento": 75.8,
+        "aproveitamento": 73.9,
         "over_2_5_goals": 9,
         "over_0_5_ht": 10,
         "over_0_5_ft": 15,
@@ -69,6 +69,72 @@
       },
       {
         "rank": 2,
+        "team": {
+          "id": 135,
+          "name": "Cruzeiro",
+          "logo": "https://media.api-sports.io/football/teams/135.png"
+        },
+        "points": 50,
+        "goalsDiff": 22,
+        "group": "Brasileiro Serie A 2025",
+        "form": "DWWWW",
+        "form_home": "WLLWW",
+        "form_visitor": "DWDWD",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 24,
+          "win": 15,
+          "draw": 5,
+          "lose": 4,
+          "goals": {
+            "for": 39,
+            "against": 17
+          }
+        },
+        "home": {
+          "played": 13,
+          "win": 10,
+          "draw": 1,
+          "lose": 2,
+          "goals": {
+            "for": 25,
+            "against": 10
+          }
+        },
+        "away": {
+          "played": 11,
+          "win": 5,
+          "draw": 4,
+          "lose": 2,
+          "goals": {
+            "for": 14,
+            "against": 7
+          }
+        },
+        "update": "2025-09-22T00:00:00+00:00",
+        "btts_matches": 9,
+        "btts_home_matches": 7,
+        "btts_away_matches": 2,
+        "avg_corners_per_game": 5.91,
+        "avg_corners_home_per_game": 7.17,
+        "avg_corners_away_per_game": 4.4,
+        "aproveitamento": 69.4,
+        "over_2_5_goals": 11,
+        "over_0_5_ht": 14,
+        "over_0_5_ft": 9,
+        "clean_sheets": 11,
+        "over_2_5_goals_home": 9,
+        "over_0_5_ht_home": 9,
+        "over_0_5_ft_home": 7,
+        "clean_sheets_home": 5,
+        "over_2_5_goals_away": 2,
+        "over_0_5_ht_away": 5,
+        "over_0_5_ft_away": 2,
+        "clean_sheets_away": 6
+      },
+      {
+        "rank": 3,
         "team": {
           "id": 121,
           "name": "Palmeiras",
@@ -112,7 +178,7 @@
             "against": 9
           }
         },
-        "update": "2025-09-21T00:00:00+00:00",
+        "update": "2025-09-22T00:00:00+00:00",
         "btts_matches": 10,
         "btts_home_matches": 3,
         "btts_away_matches": 7,
@@ -134,72 +200,6 @@
         "clean_sheets_away": 3
       },
       {
-        "rank": 3,
-        "team": {
-          "id": 135,
-          "name": "Cruzeiro",
-          "logo": "https://media.api-sports.io/football/teams/135.png"
-        },
-        "points": 47,
-        "goalsDiff": 21,
-        "group": "Brasileiro Serie A 2025",
-        "form": "LDWWW",
-        "form_home": "WLLWW",
-        "form_visitor": "DWDWD",
-        "status": "same",
-        "description": "Copa Libertadores",
-        "all": {
-          "played": 23,
-          "win": 14,
-          "draw": 5,
-          "lose": 4,
-          "goals": {
-            "for": 37,
-            "against": 16
-          }
-        },
-        "home": {
-          "played": 12,
-          "win": 9,
-          "draw": 1,
-          "lose": 2,
-          "goals": {
-            "for": 23,
-            "against": 9
-          }
-        },
-        "away": {
-          "played": 11,
-          "win": 5,
-          "draw": 4,
-          "lose": 2,
-          "goals": {
-            "for": 14,
-            "against": 7
-          }
-        },
-        "update": "2025-09-21T00:00:00+00:00",
-        "btts_matches": 9,
-        "btts_home_matches": 7,
-        "btts_away_matches": 2,
-        "avg_corners_per_game": 5.91,
-        "avg_corners_home_per_game": 7.17,
-        "avg_corners_away_per_game": 4.4,
-        "aproveitamento": 68.1,
-        "over_2_5_goals": 11,
-        "over_0_5_ht": 14,
-        "over_0_5_ft": 9,
-        "clean_sheets": 11,
-        "over_2_5_goals_home": 9,
-        "over_0_5_ht_home": 9,
-        "over_0_5_ft_home": 7,
-        "clean_sheets_home": 5,
-        "over_2_5_goals_away": 2,
-        "over_0_5_ht_away": 5,
-        "over_0_5_ft_away": 2,
-        "clean_sheets_away": 6
-      },
-      {
         "rank": 4,
         "team": {
           "id": 7848,
@@ -207,9 +207,9 @@
           "logo": "https://media.api-sports.io/football/teams/7848.png"
         },
         "points": 42,
-        "goalsDiff": 17,
+        "goalsDiff": 18,
         "group": "Brasileiro Serie A 2025",
-        "form": "DWWWD",
+        "form": "WWWDW",
         "form_home": "WDWDW",
         "form_visitor": "WDWLW",
         "status": "same",
@@ -220,7 +220,7 @@
           "draw": 9,
           "lose": 3,
           "goals": {
-            "for": 40,
+            "for": 41,
             "against": 23
           }
         },
@@ -230,7 +230,7 @@
           "draw": 4,
           "lose": 0,
           "goals": {
-            "for": 24,
+            "for": 25,
             "against": 10
           }
         },
@@ -244,7 +244,7 @@
             "against": 13
           }
         },
-        "update": "2025-09-21T00:00:00+00:00",
+        "update": "2025-09-22T00:00:00+00:00",
         "btts_matches": 14,
         "btts_home_matches": 8,
         "btts_away_matches": 6,
@@ -310,7 +310,7 @@
             "against": 5
           }
         },
-        "update": "2025-09-21T00:00:00+00:00",
+        "update": "2025-09-22T00:00:00+00:00",
         "btts_matches": 5,
         "btts_home_matches": 4,
         "btts_away_matches": 1,
@@ -376,7 +376,7 @@
             "against": 15
           }
         },
-        "update": "2025-09-21T00:00:00+00:00",
+        "update": "2025-09-22T00:00:00+00:00",
         "btts_matches": 10,
         "btts_home_matches": 6,
         "btts_away_matches": 4,
@@ -405,21 +405,21 @@
           "logo": "https://media.api-sports.io/football/teams/126.png"
         },
         "points": 35,
-        "goalsDiff": 4,
+        "goalsDiff": 3,
         "group": "Brasileiro Serie A 2025",
-        "form": "WDWLW",
+        "form": "DWLWL",
         "form_home": "LWWWW",
         "form_visitor": "DWWDL",
         "status": "same",
         "description": "Copa Sudamericana",
         "all": {
-          "played": 23,
+          "played": 24,
           "win": 9,
           "draw": 8,
-          "lose": 6,
+          "lose": 7,
           "goals": {
             "for": 27,
-            "against": 23
+            "against": 24
           }
         },
         "home": {
@@ -433,23 +433,23 @@
           }
         },
         "away": {
-          "played": 11,
+          "played": 12,
           "win": 2,
           "draw": 5,
-          "lose": 4,
+          "lose": 5,
           "goals": {
             "for": 11,
-            "against": 14
+            "against": 15
           }
         },
-        "update": "2025-09-21T00:00:00+00:00",
+        "update": "2025-09-22T00:00:00+00:00",
         "btts_matches": 11,
         "btts_home_matches": 5,
         "btts_away_matches": 6,
         "avg_corners_per_game": 5.0,
         "avg_corners_home_per_game": 5.36,
         "avg_corners_away_per_game": 4.64,
-        "aproveitamento": 50.7,
+        "aproveitamento": 48.6,
         "over_2_5_goals": 9,
         "over_0_5_ht": 9,
         "over_0_5_ft": 11,
@@ -508,7 +508,7 @@
             "against": 19
           }
         },
-        "update": "2025-09-21T00:00:00+00:00",
+        "update": "2025-09-22T00:00:00+00:00",
         "btts_matches": 11,
         "btts_home_matches": 6,
         "btts_away_matches": 5,
@@ -537,21 +537,21 @@
           "logo": "https://media.api-sports.io/football/teams/794.png"
         },
         "points": 31,
-        "goalsDiff": -5,
+        "goalsDiff": -6,
         "group": "Brasileiro Serie A 2025",
-        "form": "LLWLD",
+        "form": "LWLDL",
         "form_home": "LDLLW",
         "form_visitor": "LLLLL",
         "status": "same",
         "description": "Copa Sudamericana",
         "all": {
-          "played": 23,
+          "played": 24,
           "win": 9,
           "draw": 4,
-          "lose": 10,
+          "lose": 11,
           "goals": {
-            "for": 28,
-            "against": 33
+            "for": 29,
+            "against": 35
           }
         },
         "home": {
@@ -565,23 +565,23 @@
           }
         },
         "away": {
-          "played": 11,
+          "played": 12,
           "win": 4,
           "draw": 1,
-          "lose": 6,
+          "lose": 7,
           "goals": {
-            "for": 12,
-            "against": 16
+            "for": 13,
+            "against": 18
           }
         },
-        "update": "2025-09-21T00:00:00+00:00",
+        "update": "2025-09-22T00:00:00+00:00",
         "btts_matches": 13,
         "btts_home_matches": 6,
         "btts_away_matches": 7,
         "avg_corners_per_game": 4.82,
         "avg_corners_home_per_game": 5.09,
         "avg_corners_away_per_game": 4.55,
-        "aproveitamento": 44.9,
+        "aproveitamento": 43.1,
         "over_2_5_goals": 13,
         "over_0_5_ht": 12,
         "over_0_5_ft": 11,
@@ -603,21 +603,21 @@
           "logo": "https://media.api-sports.io/football/teams/131.png"
         },
         "points": 29,
-        "goalsDiff": -4,
+        "goalsDiff": -5,
         "group": "Brasileiro Serie A 2025",
-        "form": "LLWDW",
+        "form": "LWDWL",
         "form_home": "LDDLD",
         "form_visitor": "WLDLW",
         "status": "same",
         "description": "Copa Sudamericana",
         "all": {
-          "played": 23,
+          "played": 24,
           "win": 7,
           "draw": 8,
-          "lose": 8,
+          "lose": 9,
           "goals": {
             "for": 24,
-            "against": 28
+            "against": 29
           }
         },
         "home": {
@@ -631,23 +631,23 @@
           }
         },
         "away": {
-          "played": 12,
+          "played": 13,
           "win": 3,
           "draw": 4,
-          "lose": 5,
+          "lose": 6,
           "goals": {
             "for": 10,
-            "against": 17
+            "against": 18
           }
         },
-        "update": "2025-09-21T00:00:00+00:00",
+        "update": "2025-09-22T00:00:00+00:00",
         "btts_matches": 12,
         "btts_home_matches": 6,
         "btts_away_matches": 6,
         "avg_corners_per_game": 4.55,
         "avg_corners_home_per_game": 5.45,
         "avg_corners_away_per_game": 3.64,
-        "aproveitamento": 42.0,
+        "aproveitamento": 40.3,
         "over_2_5_goals": 9,
         "over_0_5_ht": 7,
         "over_0_5_ft": 11,
@@ -706,7 +706,7 @@
             "against": 14
           }
         },
-        "update": "2025-09-21T00:00:00+00:00",
+        "update": "2025-09-22T00:00:00+00:00",
         "btts_matches": 8,
         "btts_home_matches": 3,
         "btts_away_matches": 5,
@@ -730,36 +730,102 @@
       {
         "rank": 12,
         "team": {
+          "id": 130,
+          "name": "Gremio",
+          "logo": "https://media.api-sports.io/football/teams/130.png"
+        },
+        "points": 28,
+        "goalsDiff": -6,
+        "group": "Brasileiro Serie A 2025",
+        "form": "WDDLW",
+        "form_home": "WDWLD",
+        "form_visitor": "DLLWD",
+        "status": "same",
+        "description": "Copa Sudamericana",
+        "all": {
+          "played": 23,
+          "win": 7,
+          "draw": 7,
+          "lose": 9,
+          "goals": {
+            "for": 23,
+            "against": 29
+          }
+        },
+        "home": {
+          "played": 11,
+          "win": 4,
+          "draw": 4,
+          "lose": 3,
+          "goals": {
+            "for": 9,
+            "against": 9
+          }
+        },
+        "away": {
+          "played": 12,
+          "win": 3,
+          "draw": 3,
+          "lose": 6,
+          "goals": {
+            "for": 14,
+            "against": 20
+          }
+        },
+        "update": "2025-09-22T00:00:00+00:00",
+        "btts_matches": 12,
+        "btts_home_matches": 5,
+        "btts_away_matches": 7,
+        "avg_corners_per_game": 3.67,
+        "avg_corners_home_per_game": 3.3,
+        "avg_corners_away_per_game": 4.0,
+        "aproveitamento": 40.6,
+        "over_2_5_goals": 6,
+        "over_0_5_ht": 8,
+        "over_0_5_ft": 8,
+        "clean_sheets": 4,
+        "over_2_5_goals_home": 2,
+        "over_0_5_ht_home": 4,
+        "over_0_5_ft_home": 3,
+        "clean_sheets_home": 3,
+        "over_2_5_goals_away": 4,
+        "over_0_5_ht_away": 4,
+        "over_0_5_ft_away": 5,
+        "clean_sheets_away": 1
+      },
+      {
+        "rank": 13,
+        "team": {
           "id": 119,
           "name": "Internacional",
           "logo": "https://media.api-sports.io/football/teams/119.png"
         },
         "points": 27,
-        "goalsDiff": -7,
+        "goalsDiff": -8,
         "group": "Brasileiro Serie A 2025",
-        "form": "WLLWL",
+        "form": "LLWLL",
         "form_home": "WDLLW",
         "form_visitor": "DLWWL",
         "status": "same",
-        "description": "Copa Sudamericana",
+        "description": null,
         "all": {
-          "played": 22,
+          "played": 23,
           "win": 7,
           "draw": 6,
-          "lose": 9,
+          "lose": 10,
           "goals": {
-            "for": 26,
-            "against": 33
+            "for": 28,
+            "against": 36
           }
         },
         "home": {
-          "played": 11,
+          "played": 12,
           "win": 5,
           "draw": 2,
-          "lose": 4,
+          "lose": 5,
           "goals": {
-            "for": 14,
-            "against": 12
+            "for": 16,
+            "against": 15
           }
         },
         "away": {
@@ -772,14 +838,14 @@
             "against": 21
           }
         },
-        "update": "2025-09-21T00:00:00+00:00",
+        "update": "2025-09-22T00:00:00+00:00",
         "btts_matches": 13,
         "btts_home_matches": 6,
         "btts_away_matches": 7,
         "avg_corners_per_game": 5.57,
         "avg_corners_home_per_game": 6.45,
         "avg_corners_away_per_game": 4.6,
-        "aproveitamento": 40.9,
+        "aproveitamento": 39.1,
         "over_2_5_goals": 10,
         "over_0_5_ht": 9,
         "over_0_5_ft": 12,
@@ -794,7 +860,73 @@
         "clean_sheets_away": 1
       },
       {
-        "rank": 13,
+        "rank": 14,
+        "team": {
+          "id": 128,
+          "name": "Santos",
+          "logo": "https://media.api-sports.io/football/teams/128.png"
+        },
+        "points": 26,
+        "goalsDiff": -10,
+        "group": "Brasileiro Serie A 2025",
+        "form": "LLDDW",
+        "form_home": "WLWLD",
+        "form_visitor": "WLDWL",
+        "status": "same",
+        "description": null,
+        "all": {
+          "played": 23,
+          "win": 7,
+          "draw": 5,
+          "lose": 11,
+          "goals": {
+            "for": 22,
+            "against": 32
+          }
+        },
+        "home": {
+          "played": 11,
+          "win": 4,
+          "draw": 3,
+          "lose": 4,
+          "goals": {
+            "for": 11,
+            "against": 14
+          }
+        },
+        "away": {
+          "played": 12,
+          "win": 3,
+          "draw": 2,
+          "lose": 7,
+          "goals": {
+            "for": 11,
+            "against": 18
+          }
+        },
+        "update": "2025-09-22T00:00:00+00:00",
+        "btts_matches": 9,
+        "btts_home_matches": 4,
+        "btts_away_matches": 5,
+        "avg_corners_per_game": 4.19,
+        "avg_corners_home_per_game": 5.5,
+        "avg_corners_away_per_game": 3.0,
+        "aproveitamento": 37.7,
+        "over_2_5_goals": 11,
+        "over_0_5_ht": 6,
+        "over_0_5_ft": 8,
+        "clean_sheets": 5,
+        "over_2_5_goals_home": 5,
+        "over_0_5_ht_home": 2,
+        "over_0_5_ft_home": 5,
+        "clean_sheets_home": 4,
+        "over_2_5_goals_away": 6,
+        "over_0_5_ht_away": 4,
+        "over_0_5_ft_away": 3,
+        "clean_sheets_away": 1
+      },
+      {
+        "rank": 15,
         "team": {
           "id": 1062,
           "name": "Atletico-MG",
@@ -838,7 +970,7 @@
             "against": 17
           }
         },
-        "update": "2025-09-21T00:00:00+00:00",
+        "update": "2025-09-22T00:00:00+00:00",
         "btts_matches": 9,
         "btts_home_matches": 4,
         "btts_away_matches": 5,
@@ -860,94 +992,28 @@
         "clean_sheets_away": 3
       },
       {
-        "rank": 14,
-        "team": {
-          "id": 130,
-          "name": "Gremio",
-          "logo": "https://media.api-sports.io/football/teams/130.png"
-        },
-        "points": 25,
-        "goalsDiff": -7,
-        "group": "Brasileiro Serie A 2025",
-        "form": "LWDDL",
-        "form_home": "WDWLD",
-        "form_visitor": "DLLWD",
-        "status": "same",
-        "description": null,
-        "all": {
-          "played": 22,
-          "win": 6,
-          "draw": 7,
-          "lose": 9,
-          "goals": {
-            "for": 20,
-            "against": 27
-          }
-        },
-        "home": {
-          "played": 11,
-          "win": 4,
-          "draw": 4,
-          "lose": 3,
-          "goals": {
-            "for": 9,
-            "against": 9
-          }
-        },
-        "away": {
-          "played": 11,
-          "win": 2,
-          "draw": 3,
-          "lose": 6,
-          "goals": {
-            "for": 11,
-            "against": 18
-          }
-        },
-        "update": "2025-09-21T00:00:00+00:00",
-        "btts_matches": 12,
-        "btts_home_matches": 5,
-        "btts_away_matches": 7,
-        "avg_corners_per_game": 3.67,
-        "avg_corners_home_per_game": 3.3,
-        "avg_corners_away_per_game": 4.0,
-        "aproveitamento": 37.9,
-        "over_2_5_goals": 6,
-        "over_0_5_ht": 8,
-        "over_0_5_ft": 8,
-        "clean_sheets": 4,
-        "over_2_5_goals_home": 2,
-        "over_0_5_ht_home": 4,
-        "over_0_5_ft_home": 3,
-        "clean_sheets_home": 3,
-        "over_2_5_goals_away": 4,
-        "over_0_5_ht_away": 4,
-        "over_0_5_ft_away": 5,
-        "clean_sheets_away": 1
-      },
-      {
-        "rank": 15,
+        "rank": 16,
         "team": {
           "id": 133,
           "name": "Vasco DA Gama",
           "logo": "https://media.api-sports.io/football/teams/133.png"
         },
-        "points": 23,
+        "points": 24,
         "goalsDiff": -1,
         "group": "Brasileiro Serie A 2025",
-        "form": "WLLWD",
+        "form": "LLWDD",
         "form_home": "LLDDL",
         "form_visitor": "DLWLW",
         "status": "same",
         "description": null,
         "all": {
-          "played": 22,
+          "played": 23,
           "win": 6,
-          "draw": 5,
+          "draw": 6,
           "lose": 11,
           "goals": {
-            "for": 32,
-            "against": 33
+            "for": 33,
+            "against": 34
           }
         },
         "home": {
@@ -961,16 +1027,16 @@
           }
         },
         "away": {
-          "played": 11,
+          "played": 12,
           "win": 3,
-          "draw": 1,
+          "draw": 2,
           "lose": 7,
           "goals": {
-            "for": 18,
-            "against": 19
+            "for": 19,
+            "against": 20
           }
         },
-        "update": "2025-09-21T00:00:00+00:00",
+        "update": "2025-09-22T00:00:00+00:00",
         "btts_matches": 12,
         "btts_home_matches": 5,
         "btts_away_matches": 7,
@@ -989,72 +1055,6 @@
         "over_2_5_goals_away": 8,
         "over_0_5_ht_away": 6,
         "over_0_5_ft_away": 5,
-        "clean_sheets_away": 1
-      },
-      {
-        "rank": 16,
-        "team": {
-          "id": 128,
-          "name": "Santos",
-          "logo": "https://media.api-sports.io/football/teams/128.png"
-        },
-        "points": 23,
-        "goalsDiff": -11,
-        "group": "Brasileiro Serie A 2025",
-        "form": "WLLDD",
-        "form_home": "WLWLD",
-        "form_visitor": "WLDWL",
-        "status": "same",
-        "description": null,
-        "all": {
-          "played": 22,
-          "win": 6,
-          "draw": 5,
-          "lose": 11,
-          "goals": {
-            "for": 21,
-            "against": 32
-          }
-        },
-        "home": {
-          "played": 10,
-          "win": 3,
-          "draw": 3,
-          "lose": 4,
-          "goals": {
-            "for": 10,
-            "against": 14
-          }
-        },
-        "away": {
-          "played": 12,
-          "win": 3,
-          "draw": 2,
-          "lose": 7,
-          "goals": {
-            "for": 11,
-            "against": 18
-          }
-        },
-        "update": "2025-09-21T00:00:00+00:00",
-        "btts_matches": 9,
-        "btts_home_matches": 4,
-        "btts_away_matches": 5,
-        "avg_corners_per_game": 4.19,
-        "avg_corners_home_per_game": 5.5,
-        "avg_corners_away_per_game": 3.0,
-        "aproveitamento": 34.8,
-        "over_2_5_goals": 11,
-        "over_0_5_ht": 6,
-        "over_0_5_ft": 8,
-        "clean_sheets": 5,
-        "over_2_5_goals_home": 5,
-        "over_0_5_ht_home": 2,
-        "over_0_5_ft_home": 5,
-        "clean_sheets_home": 4,
-        "over_2_5_goals_away": 6,
-        "over_0_5_ht_away": 4,
-        "over_0_5_ft_away": 3,
         "clean_sheets_away": 1
       },
       {
@@ -1102,7 +1102,7 @@
             "against": 22
           }
         },
-        "update": "2025-09-21T00:00:00+00:00",
+        "update": "2025-09-22T00:00:00+00:00",
         "btts_matches": 11,
         "btts_home_matches": 7,
         "btts_away_matches": 4,
@@ -1131,9 +1131,9 @@
           "logo": "https://media.api-sports.io/football/teams/152.png"
         },
         "points": 21,
-        "goalsDiff": -25,
+        "goalsDiff": -26,
         "group": "Brasileiro Serie A 2025",
-        "form": "DWLWL",
+        "form": "WLWLL",
         "form_home": "WLWWL",
         "form_visitor": "LLLDW",
         "status": "same",
@@ -1145,7 +1145,7 @@
           "lose": 14,
           "goals": {
             "for": 19,
-            "against": 44
+            "against": 45
           }
         },
         "home": {
@@ -1165,10 +1165,10 @@
           "lose": 9,
           "goals": {
             "for": 5,
-            "against": 30
+            "against": 31
           }
         },
-        "update": "2025-09-21T00:00:00+00:00",
+        "update": "2025-09-22T00:00:00+00:00",
         "btts_matches": 8,
         "btts_home_matches": 5,
         "btts_away_matches": 3,
@@ -1234,7 +1234,7 @@
             "against": 22
           }
         },
-        "update": "2025-09-21T00:00:00+00:00",
+        "update": "2025-09-22T00:00:00+00:00",
         "btts_matches": 10,
         "btts_home_matches": 4,
         "btts_away_matches": 6,
@@ -1262,31 +1262,31 @@
           "name": "Sport Recife",
           "logo": "https://media.api-sports.io/football/teams/123.png"
         },
-        "points": 11,
-        "goalsDiff": -19,
+        "points": 14,
+        "goalsDiff": -18,
         "group": "Brasileiro Serie A 2025",
-        "form": "WDLLD",
+        "form": "DLLDW",
         "form_home": "LDDDL",
         "form_visitor": "LLDWL",
         "status": "same",
         "description": "Relegation",
         "all": {
-          "played": 21,
-          "win": 1,
+          "played": 22,
+          "win": 2,
           "draw": 8,
           "lose": 12,
           "goals": {
-            "for": 15,
+            "for": 16,
             "against": 34
           }
         },
         "home": {
-          "played": 10,
-          "win": 0,
+          "played": 11,
+          "win": 1,
           "draw": 5,
           "lose": 5,
           "goals": {
-            "for": 8,
+            "for": 9,
             "against": 16
           }
         },
@@ -1300,14 +1300,14 @@
             "against": 18
           }
         },
-        "update": "2025-09-21T00:00:00+00:00",
+        "update": "2025-09-22T00:00:00+00:00",
         "btts_matches": 9,
         "btts_home_matches": 5,
         "btts_away_matches": 4,
         "avg_corners_per_game": 6.05,
         "avg_corners_home_per_game": 6.1,
         "avg_corners_away_per_game": 6.0,
-        "aproveitamento": 17.5,
+        "aproveitamento": 21.2,
         "over_2_5_goals": 10,
         "over_0_5_ht": 7,
         "over_0_5_ft": 6,
