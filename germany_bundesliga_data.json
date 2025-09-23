@@ -106,12 +106,12 @@
       {
         "rank": 3,
         "team": {
-          "id": 41,
-          "name": "1. FC Köln",
-          "logo": "https://cdn.footystats.org/img/teams/germany-1-fc-koln.png"
+          "id": 46,
+          "name": "Rasen Ballsport Leipzig",
+          "logo": "https://cdn.footystats.org/img/teams/germany-rasen-ballsport-leipzig.png"
         },
-        "points": 7,
-        "goalsDiff": 4,
+        "points": 9,
+        "goalsDiff": -1,
         "group": "Germany Bundesliga 2025",
         "form": "",
         "form_home": "",
@@ -119,13 +119,13 @@
         "status": "same",
         "description": "",
         "all": {
-          "played": 3,
-          "win": 2,
-          "draw": 1,
-          "lose": 0,
+          "played": 4,
+          "win": 3,
+          "draw": 0,
+          "lose": 1,
           "goals": {
-            "for": 8,
-            "against": 4
+            "for": 6,
+            "against": 7
           }
         },
         "home": {
@@ -149,13 +149,64 @@
           }
         },
         "update": "",
-        "btts_matches": 2,
+        "btts_matches": 1,
         "over_2_5_goals": 2,
-        "clean_sheets": 1,
-        "aproveitamento": 77.8
+        "clean_sheets": 2,
+        "aproveitamento": 75.0
       },
       {
         "rank": 4,
+        "team": {
+          "id": 41,
+          "name": "1. FC Köln",
+          "logo": "https://cdn.footystats.org/img/teams/germany-1-fc-koln.png"
+        },
+        "points": 7,
+        "goalsDiff": 2,
+        "group": "Germany Bundesliga 2025",
+        "form": "",
+        "form_home": "",
+        "form_visitor": "",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 4,
+          "win": 2,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 9,
+            "against": 7
+          }
+        },
+        "home": {
+          "played": 0,
+          "win": 0,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 0,
+            "against": 0
+          }
+        },
+        "away": {
+          "played": 0,
+          "win": 0,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 0,
+            "against": 0
+          }
+        },
+        "update": "",
+        "btts_matches": 3,
+        "over_2_5_goals": 3,
+        "clean_sheets": 1,
+        "aproveitamento": 58.3
+      },
+      {
+        "rank": 5,
         "team": {
           "id": 548,
           "name": "FC St. Pauli",
@@ -206,14 +257,14 @@
         "aproveitamento": 58.3
       },
       {
-        "rank": 5,
+        "rank": 6,
         "team": {
-          "id": 51,
-          "name": "VfB Stuttgart 1893",
-          "logo": "https://cdn.footystats.org/img/teams/germany-vfb-stuttgart-1893.png"
+          "id": 44,
+          "name": "Eintracht Frankfurt",
+          "logo": "https://cdn.footystats.org/img/teams/germany-eintracht-frankfurt.png"
         },
         "points": 6,
-        "goalsDiff": 1,
+        "goalsDiff": 2,
         "group": "Germany Bundesliga 2025",
         "form": "",
         "form_home": "",
@@ -221,13 +272,13 @@
         "status": "same",
         "description": "",
         "all": {
-          "played": 3,
+          "played": 4,
           "win": 2,
           "draw": 0,
-          "lose": 1,
+          "lose": 2,
           "goals": {
-            "for": 4,
-            "against": 3
+            "for": 11,
+            "against": 9
           }
         },
         "home": {
@@ -251,13 +302,13 @@
           }
         },
         "update": "",
-        "btts_matches": 1,
-        "over_2_5_goals": 1,
-        "clean_sheets": 2,
-        "aproveitamento": 66.7
+        "btts_matches": 4,
+        "over_2_5_goals": 4,
+        "clean_sheets": 0,
+        "aproveitamento": 50.0
       },
       {
-        "rank": 6,
+        "rank": 7,
         "team": {
           "id": 42,
           "name": "SC Freiburg",
@@ -310,6 +361,57 @@
       {
         "rank": 7,
         "team": {
+          "id": 51,
+          "name": "VfB Stuttgart 1893",
+          "logo": "https://cdn.footystats.org/img/teams/germany-vfb-stuttgart-1893.png"
+        },
+        "points": 6,
+        "goalsDiff": 0,
+        "group": "Germany Bundesliga 2025",
+        "form": "",
+        "form_home": "",
+        "form_visitor": "",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 4,
+          "win": 2,
+          "draw": 0,
+          "lose": 2,
+          "goals": {
+            "for": 5,
+            "against": 5
+          }
+        },
+        "home": {
+          "played": 0,
+          "win": 0,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 0,
+            "against": 0
+          }
+        },
+        "away": {
+          "played": 0,
+          "win": 0,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 0,
+            "against": 0
+          }
+        },
+        "update": "",
+        "btts_matches": 2,
+        "over_2_5_goals": 2,
+        "clean_sheets": 2,
+        "aproveitamento": 50.0
+      },
+      {
+        "rank": 9,
+        "team": {
           "id": 49,
           "name": "TSG 1899 Hoffenheim",
           "logo": "https://cdn.footystats.org/img/teams/germany-tsg-1899-hoffenheim.png"
@@ -359,7 +461,58 @@
         "aproveitamento": 50.0
       },
       {
-        "rank": 8,
+        "rank": 10,
+        "team": {
+          "id": 541,
+          "name": "1. FC Union Berlin",
+          "logo": "https://cdn.footystats.org/img/teams/germany-1-fc-union-berlin.png"
+        },
+        "points": 6,
+        "goalsDiff": -3,
+        "group": "Germany Bundesliga 2025",
+        "form": "",
+        "form_home": "",
+        "form_visitor": "",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 4,
+          "win": 2,
+          "draw": 0,
+          "lose": 2,
+          "goals": {
+            "for": 8,
+            "against": 11
+          }
+        },
+        "home": {
+          "played": 0,
+          "win": 0,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 0,
+            "against": 0
+          }
+        },
+        "away": {
+          "played": 0,
+          "win": 0,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 0,
+            "against": 0
+          }
+        },
+        "update": "",
+        "btts_matches": 3,
+        "over_2_5_goals": 4,
+        "clean_sheets": 0,
+        "aproveitamento": 50.0
+      },
+      {
+        "rank": 11,
         "team": {
           "id": 40,
           "name": "Bayer 04 Leverkusen",
@@ -410,7 +563,7 @@
         "aproveitamento": 41.7
       },
       {
-        "rank": 8,
+        "rank": 11,
         "team": {
           "id": 43,
           "name": "VfL Wolfsburg",
@@ -461,14 +614,14 @@
         "aproveitamento": 41.7
       },
       {
-        "rank": 10,
+        "rank": 13,
         "team": {
-          "id": 36,
-          "name": "Hamburger SV",
-          "logo": "https://cdn.footystats.org/img/teams/germany-hamburger-sv.png"
+          "id": 34,
+          "name": "1. FSV Mainz 05",
+          "logo": "https://cdn.footystats.org/img/teams/germany-1-fsv-mainz-05.png"
         },
         "points": 4,
-        "goalsDiff": -6,
+        "goalsDiff": 1,
         "group": "Germany Bundesliga 2025",
         "form": "",
         "form_home": "",
@@ -481,8 +634,8 @@
           "draw": 1,
           "lose": 2,
           "goals": {
-            "for": 2,
-            "against": 8
+            "for": 5,
+            "against": 4
           }
         },
         "home": {
@@ -506,71 +659,20 @@
           }
         },
         "update": "",
-        "btts_matches": 1,
-        "over_2_5_goals": 2,
-        "clean_sheets": 1,
-        "aproveitamento": 33.3
-      },
-      {
-        "rank": 11,
-        "team": {
-          "id": 50,
-          "name": "FC Augsburg",
-          "logo": "https://cdn.footystats.org/img/teams/germany-fc-augsburg.png"
-        },
-        "points": 3,
-        "goalsDiff": 0,
-        "group": "Germany Bundesliga 2025",
-        "form": "",
-        "form_home": "",
-        "form_visitor": "",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 3,
-          "win": 1,
-          "draw": 0,
-          "lose": 2,
-          "goals": {
-            "for": 6,
-            "against": 6
-          }
-        },
-        "home": {
-          "played": 0,
-          "win": 0,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 0,
-            "against": 0
-          }
-        },
-        "away": {
-          "played": 0,
-          "win": 0,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 0,
-            "against": 0
-          }
-        },
-        "update": "",
-        "btts_matches": 3,
-        "over_2_5_goals": 3,
+        "btts_matches": 2,
+        "over_2_5_goals": 1,
         "clean_sheets": 0,
         "aproveitamento": 33.3
       },
       {
-        "rank": 12,
+        "rank": 14,
         "team": {
-          "id": 44,
-          "name": "Eintracht Frankfurt",
-          "logo": "https://cdn.footystats.org/img/teams/germany-eintracht-frankfurt.png"
+          "id": 37,
+          "name": "SV Werder Bremen",
+          "logo": "https://cdn.footystats.org/img/teams/germany-sv-werder-bremen.png"
         },
-        "points": 3,
-        "goalsDiff": -1,
+        "points": 4,
+        "goalsDiff": -2,
         "group": "Germany Bundesliga 2025",
         "form": "",
         "form_home": "",
@@ -578,63 +680,12 @@
         "status": "same",
         "description": "",
         "all": {
-          "played": 3,
+          "played": 4,
           "win": 1,
-          "draw": 0,
+          "draw": 1,
           "lose": 2,
           "goals": {
-            "for": 7,
-            "against": 8
-          }
-        },
-        "home": {
-          "played": 0,
-          "win": 0,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 0,
-            "against": 0
-          }
-        },
-        "away": {
-          "played": 0,
-          "win": 0,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 0,
-            "against": 0
-          }
-        },
-        "update": "",
-        "btts_matches": 3,
-        "over_2_5_goals": 3,
-        "clean_sheets": 0,
-        "aproveitamento": 33.3
-      },
-      {
-        "rank": 13,
-        "team": {
-          "id": 541,
-          "name": "1. FC Union Berlin",
-          "logo": "https://cdn.footystats.org/img/teams/germany-1-fc-union-berlin.png"
-        },
-        "points": 3,
-        "goalsDiff": -4,
-        "group": "Germany Bundesliga 2025",
-        "form": "",
-        "form_home": "",
-        "form_visitor": "",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 3,
-          "win": 1,
-          "draw": 0,
-          "lose": 2,
-          "goals": {
-            "for": 6,
+            "for": 8,
             "against": 10
           }
         },
@@ -660,171 +711,18 @@
         },
         "update": "",
         "btts_matches": 2,
-        "over_2_5_goals": 3,
-        "clean_sheets": 0,
-        "aproveitamento": 33.3
-      },
-      {
-        "rank": 14,
-        "team": {
-          "id": 46,
-          "name": "Rasen Ballsport Leipzig",
-          "logo": "https://cdn.footystats.org/img/teams/germany-rasen-ballsport-leipzig.png"
-        },
-        "points": 3,
-        "goalsDiff": -5,
-        "group": "Germany Bundesliga 2025",
-        "form": "",
-        "form_home": "",
-        "form_visitor": "",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 2,
-          "win": 1,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 1,
-            "against": 6
-          }
-        },
-        "home": {
-          "played": 0,
-          "win": 0,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 0,
-            "against": 0
-          }
-        },
-        "away": {
-          "played": 0,
-          "win": 0,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 0,
-            "against": 0
-          }
-        },
-        "update": "",
-        "btts_matches": 0,
-        "over_2_5_goals": 1,
+        "over_2_5_goals": 4,
         "clean_sheets": 1,
-        "aproveitamento": 50.0
+        "aproveitamento": 33.3
       },
       {
         "rank": 15,
         "team": {
-          "id": 39,
-          "name": "Borussia VfL Mönchengladbach",
-          "logo": "https://cdn.footystats.org/img/teams/germany-borussia-vfl-monchengladbach.png"
+          "id": 50,
+          "name": "FC Augsburg",
+          "logo": "https://cdn.footystats.org/img/teams/germany-fc-augsburg.png"
         },
-        "points": 2,
-        "goalsDiff": -1,
-        "group": "Germany Bundesliga 2025",
-        "form": "",
-        "form_home": "",
-        "form_visitor": "",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 3,
-          "win": 0,
-          "draw": 2,
-          "lose": 1,
-          "goals": {
-            "for": 1,
-            "against": 2
-          }
-        },
-        "home": {
-          "played": 0,
-          "win": 0,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 0,
-            "against": 0
-          }
-        },
-        "away": {
-          "played": 0,
-          "win": 0,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 0,
-            "against": 0
-          }
-        },
-        "update": "",
-        "btts_matches": 1,
-        "over_2_5_goals": 0,
-        "clean_sheets": 1,
-        "aproveitamento": 22.2
-      },
-      {
-        "rank": 16,
-        "team": {
-          "id": 34,
-          "name": "1. FSV Mainz 05",
-          "logo": "https://cdn.footystats.org/img/teams/germany-1-fsv-mainz-05.png"
-        },
-        "points": 1,
-        "goalsDiff": -2,
-        "group": "Germany Bundesliga 2025",
-        "form": "",
-        "form_home": "",
-        "form_visitor": "",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 3,
-          "win": 0,
-          "draw": 1,
-          "lose": 2,
-          "goals": {
-            "for": 1,
-            "against": 3
-          }
-        },
-        "home": {
-          "played": 0,
-          "win": 0,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 0,
-            "against": 0
-          }
-        },
-        "away": {
-          "played": 0,
-          "win": 0,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 0,
-            "against": 0
-          }
-        },
-        "update": "",
-        "btts_matches": 1,
-        "over_2_5_goals": 0,
-        "clean_sheets": 0,
-        "aproveitamento": 11.1
-      },
-      {
-        "rank": 17,
-        "team": {
-          "id": 37,
-          "name": "SV Werder Bremen",
-          "logo": "https://cdn.footystats.org/img/teams/germany-sv-werder-bremen.png"
-        },
-        "points": 1,
+        "points": 3,
         "goalsDiff": -3,
         "group": "Germany Bundesliga 2025",
         "form": "",
@@ -833,13 +731,64 @@
         "status": "same",
         "description": "",
         "all": {
-          "played": 2,
-          "win": 0,
-          "draw": 1,
-          "lose": 1,
+          "played": 4,
+          "win": 1,
+          "draw": 0,
+          "lose": 3,
           "goals": {
-            "for": 3,
-            "against": 6
+            "for": 7,
+            "against": 10
+          }
+        },
+        "home": {
+          "played": 0,
+          "win": 0,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 0,
+            "against": 0
+          }
+        },
+        "away": {
+          "played": 0,
+          "win": 0,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 0,
+            "against": 0
+          }
+        },
+        "update": "",
+        "btts_matches": 4,
+        "over_2_5_goals": 4,
+        "clean_sheets": 0,
+        "aproveitamento": 25.0
+      },
+      {
+        "rank": 16,
+        "team": {
+          "id": 36,
+          "name": "Hamburger SV",
+          "logo": "https://cdn.footystats.org/img/teams/germany-hamburger-sv.png"
+        },
+        "points": 3,
+        "goalsDiff": -6,
+        "group": "Germany Bundesliga 2025",
+        "form": "",
+        "form_home": "",
+        "form_visitor": "",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 3,
+          "win": 1,
+          "draw": 0,
+          "lose": 2,
+          "goals": {
+            "for": 2,
+            "against": 8
           }
         },
         "home": {
@@ -866,16 +815,16 @@
         "btts_matches": 1,
         "over_2_5_goals": 2,
         "clean_sheets": 0,
-        "aproveitamento": 16.7
+        "aproveitamento": 33.3
       },
       {
-        "rank": 18,
+        "rank": 17,
         "team": {
-          "id": 552,
-          "name": "1. FC Heidenheim 1846",
-          "logo": "https://cdn.footystats.org/img/teams/germany-1-fc-heidenheim-1846.png"
+          "id": 39,
+          "name": "Borussia VfL Mönchengladbach",
+          "logo": "https://cdn.footystats.org/img/teams/germany-borussia-vfl-monchengladbach.png"
         },
-        "points": 0,
+        "points": 1,
         "goalsDiff": -5,
         "group": "Germany Bundesliga 2025",
         "form": "",
@@ -886,11 +835,62 @@
         "all": {
           "played": 3,
           "win": 0,
+          "draw": 1,
+          "lose": 2,
+          "goals": {
+            "for": 1,
+            "against": 6
+          }
+        },
+        "home": {
+          "played": 0,
+          "win": 0,
           "draw": 0,
-          "lose": 3,
+          "lose": 0,
+          "goals": {
+            "for": 0,
+            "against": 0
+          }
+        },
+        "away": {
+          "played": 0,
+          "win": 0,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 0,
+            "against": 0
+          }
+        },
+        "update": "",
+        "btts_matches": 1,
+        "over_2_5_goals": 1,
+        "clean_sheets": 0,
+        "aproveitamento": 11.1
+      },
+      {
+        "rank": 18,
+        "team": {
+          "id": 552,
+          "name": "1. FC Heidenheim 1846",
+          "logo": "https://cdn.footystats.org/img/teams/germany-1-fc-heidenheim-1846.png"
+        },
+        "points": 0,
+        "goalsDiff": -7,
+        "group": "Germany Bundesliga 2025",
+        "form": "",
+        "form_home": "",
+        "form_visitor": "",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 4,
+          "win": 0,
+          "draw": 0,
+          "lose": 4,
           "goals": {
             "for": 2,
-            "against": 7
+            "against": 9
           }
         },
         "home": {
