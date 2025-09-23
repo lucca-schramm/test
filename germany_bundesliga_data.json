@@ -928,6 +928,72 @@
       {
         "rank": 15,
         "team": {
+          "id": 36,
+          "name": "Hamburger SV",
+          "logo": "https://cdn.footystats.org/img/teams/germany-hamburger-sv.png"
+        },
+        "points": 4,
+        "goalsDiff": -6,
+        "group": "Germany Bundesliga 2025",
+        "form": "WLLD",
+        "form_home": "WL",
+        "form_visitor": "LD",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 4,
+          "win": 1,
+          "draw": 1,
+          "lose": 2,
+          "goals": {
+            "for": 2,
+            "against": 8
+          }
+        },
+        "home": {
+          "played": 2,
+          "win": 1,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 2,
+            "against": 3
+          }
+        },
+        "away": {
+          "played": 2,
+          "win": 0,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 0,
+            "against": 5
+          }
+        },
+        "update": "2025-09-23T00:00:00+00:00",
+        "btts_matches": 1,
+        "btts_home_matches": 1,
+        "btts_away_matches": 0,
+        "avg_corners_per_game": 10.25,
+        "avg_corners_home_per_game": 1.1,
+        "avg_corners_away_per_game": 0.0,
+        "aproveitamento": 33.3,
+        "over_2_5_goals": 2,
+        "over_0_5_ht": 3,
+        "over_0_5_ft": 3,
+        "clean_sheets": 3,
+        "over_2_5_goals_home": 1,
+        "over_0_5_ht_home": 2,
+        "over_0_5_ft_home": 2,
+        "clean_sheets_home": 1,
+        "over_2_5_goals_away": 1,
+        "over_0_5_ht_away": 1,
+        "over_0_5_ft_away": 1,
+        "clean_sheets_away": 2
+      },
+      {
+        "rank": 16,
+        "team": {
           "id": 50,
           "name": "FC Augsburg",
           "logo": "https://cdn.footystats.org/img/teams/germany-fc-augsburg.png"
@@ -992,90 +1058,24 @@
         "clean_sheets_away": 0
       },
       {
-        "rank": 16,
-        "team": {
-          "id": 36,
-          "name": "Hamburger SV",
-          "logo": "https://cdn.footystats.org/img/teams/germany-hamburger-sv.png"
-        },
-        "points": 3,
-        "goalsDiff": -6,
-        "group": "Germany Bundesliga 2025",
-        "form": "WLL",
-        "form_home": "WL",
-        "form_visitor": "L",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 3,
-          "win": 1,
-          "draw": 0,
-          "lose": 2,
-          "goals": {
-            "for": 2,
-            "against": 8
-          }
-        },
-        "home": {
-          "played": 2,
-          "win": 1,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 2,
-            "against": 3
-          }
-        },
-        "away": {
-          "played": 1,
-          "win": 0,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 0,
-            "against": 5
-          }
-        },
-        "update": "2025-09-23T00:00:00+00:00",
-        "btts_matches": 1,
-        "btts_home_matches": 1,
-        "btts_away_matches": 0,
-        "avg_corners_per_game": 9.33,
-        "avg_corners_home_per_game": 1.1,
-        "avg_corners_away_per_game": 0.0,
-        "aproveitamento": 33.3,
-        "over_2_5_goals": 2,
-        "over_0_5_ht": 3,
-        "over_0_5_ft": 3,
-        "clean_sheets": 2,
-        "over_2_5_goals_home": 1,
-        "over_0_5_ht_home": 2,
-        "over_0_5_ft_home": 2,
-        "clean_sheets_home": 1,
-        "over_2_5_goals_away": 1,
-        "over_0_5_ht_away": 1,
-        "over_0_5_ft_away": 1,
-        "clean_sheets_away": 1
-      },
-      {
         "rank": 17,
         "team": {
           "id": 39,
           "name": "Borussia VfL Mönchengladbach",
           "logo": "https://cdn.footystats.org/img/teams/germany-borussia-vfl-monchengladbach.png"
         },
-        "points": 1,
+        "points": 2,
         "goalsDiff": -5,
         "group": "Germany Bundesliga 2025",
-        "form": "DLL",
-        "form_home": "L",
+        "form": "DLLD",
+        "form_home": "LD",
         "form_visitor": "DL",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 3,
+          "played": 4,
           "win": 0,
-          "draw": 1,
+          "draw": 2,
           "lose": 2,
           "goals": {
             "for": 1,
@@ -1083,9 +1083,9 @@
           }
         },
         "home": {
-          "played": 1,
+          "played": 2,
           "win": 0,
-          "draw": 0,
+          "draw": 1,
           "lose": 1,
           "goals": {
             "for": 0,
@@ -1106,18 +1106,18 @@
         "btts_matches": 1,
         "btts_home_matches": 0,
         "btts_away_matches": 1,
-        "avg_corners_per_game": 12.0,
+        "avg_corners_per_game": 12.25,
         "avg_corners_home_per_game": 0.0,
         "avg_corners_away_per_game": 0.9,
-        "aproveitamento": 11.1,
+        "aproveitamento": 16.7,
         "over_2_5_goals": 1,
         "over_0_5_ht": 2,
         "over_0_5_ft": 2,
-        "clean_sheets": 2,
+        "clean_sheets": 3,
         "over_2_5_goals_home": 1,
         "over_0_5_ht_home": 1,
         "over_0_5_ft_home": 1,
-        "clean_sheets_home": 1,
+        "clean_sheets_home": 2,
         "over_2_5_goals_away": 0,
         "over_0_5_ht_away": 1,
         "over_0_5_ft_away": 1,
