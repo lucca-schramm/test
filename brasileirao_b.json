@@ -8,22 +8,22 @@
           "name": "Goias",
           "logo": "https://media.api-sports.io/football/teams/151.png"
         },
-        "points": 48,
+        "points": 49,
         "goalsDiff": 8,
         "group": "Serie B",
-        "form": "WLLDW",
+        "form": "LLDWD",
         "form_home": "WDWWL",
         "form_visitor": "WLDLL",
         "status": "same",
         "description": "Promotion - Serie A Betano",
         "all": {
-          "played": 27,
+          "played": 28,
           "win": 14,
-          "draw": 6,
+          "draw": 7,
           "lose": 7,
           "goals": {
-            "for": 33,
-            "against": 25
+            "for": 34,
+            "against": 26
           }
         },
         "home": {
@@ -37,13 +37,13 @@
           }
         },
         "away": {
-          "played": 13,
+          "played": 14,
           "win": 5,
-          "draw": 3,
+          "draw": 4,
           "lose": 5,
           "goals": {
-            "for": 11,
-            "against": 13
+            "for": 12,
+            "against": 14
           }
         },
         "update": "2025-09-23T00:00:00+00:00",
@@ -53,7 +53,7 @@
         "avg_corners_per_game": 6.08,
         "avg_corners_home_per_game": 6.46,
         "avg_corners_away_per_game": 5.67,
-        "aproveitamento": 59.3,
+        "aproveitamento": 58.3,
         "over_2_5_goals": 11,
         "over_0_5_ht": 11,
         "over_0_5_ft": 15,
@@ -862,6 +862,72 @@
       {
         "rank": 14,
         "team": {
+          "id": 7826,
+          "name": "Ferroviária",
+          "logo": "https://media.api-sports.io/football/teams/7826.png"
+        },
+        "points": 33,
+        "goalsDiff": -4,
+        "group": "Serie B",
+        "form": "DLLDD",
+        "form_home": "LDWDD",
+        "form_visitor": "LDWWL",
+        "status": "same",
+        "description": null,
+        "all": {
+          "played": 28,
+          "win": 7,
+          "draw": 12,
+          "lose": 9,
+          "goals": {
+            "for": 31,
+            "against": 35
+          }
+        },
+        "home": {
+          "played": 14,
+          "win": 4,
+          "draw": 7,
+          "lose": 3,
+          "goals": {
+            "for": 16,
+            "against": 15
+          }
+        },
+        "away": {
+          "played": 14,
+          "win": 3,
+          "draw": 5,
+          "lose": 6,
+          "goals": {
+            "for": 15,
+            "against": 20
+          }
+        },
+        "update": "2025-09-23T00:00:00+00:00",
+        "btts_matches": 15,
+        "btts_home_matches": 8,
+        "btts_away_matches": 7,
+        "avg_corners_per_game": 4.04,
+        "avg_corners_home_per_game": 4.33,
+        "avg_corners_away_per_game": 3.77,
+        "aproveitamento": 39.3,
+        "over_2_5_goals": 12,
+        "over_0_5_ht": 13,
+        "over_0_5_ft": 10,
+        "clean_sheets": 7,
+        "over_2_5_goals_home": 5,
+        "over_0_5_ht_home": 8,
+        "over_0_5_ft_home": 4,
+        "clean_sheets_home": 4,
+        "over_2_5_goals_away": 7,
+        "over_0_5_ht_away": 5,
+        "over_0_5_ft_away": 6,
+        "clean_sheets_away": 3
+      },
+      {
+        "rank": 15,
+        "team": {
           "id": 13975,
           "name": "Athletic Club",
           "logo": "https://media.api-sports.io/football/teams/13975.png"
@@ -922,72 +988,6 @@
         "clean_sheets_home": 1,
         "over_2_5_goals_away": 5,
         "over_0_5_ht_away": 6,
-        "over_0_5_ft_away": 6,
-        "clean_sheets_away": 3
-      },
-      {
-        "rank": 15,
-        "team": {
-          "id": 7826,
-          "name": "Ferroviária",
-          "logo": "https://media.api-sports.io/football/teams/7826.png"
-        },
-        "points": 32,
-        "goalsDiff": -4,
-        "group": "Serie B",
-        "form": "DDLLD",
-        "form_home": "LDWDD",
-        "form_visitor": "LDWWL",
-        "status": "same",
-        "description": null,
-        "all": {
-          "played": 27,
-          "win": 7,
-          "draw": 11,
-          "lose": 9,
-          "goals": {
-            "for": 30,
-            "against": 34
-          }
-        },
-        "home": {
-          "played": 13,
-          "win": 4,
-          "draw": 6,
-          "lose": 3,
-          "goals": {
-            "for": 15,
-            "against": 14
-          }
-        },
-        "away": {
-          "played": 14,
-          "win": 3,
-          "draw": 5,
-          "lose": 6,
-          "goals": {
-            "for": 15,
-            "against": 20
-          }
-        },
-        "update": "2025-09-23T00:00:00+00:00",
-        "btts_matches": 15,
-        "btts_home_matches": 8,
-        "btts_away_matches": 7,
-        "avg_corners_per_game": 4.04,
-        "avg_corners_home_per_game": 4.33,
-        "avg_corners_away_per_game": 3.77,
-        "aproveitamento": 39.5,
-        "over_2_5_goals": 12,
-        "over_0_5_ht": 13,
-        "over_0_5_ft": 10,
-        "clean_sheets": 7,
-        "over_2_5_goals_home": 5,
-        "over_0_5_ht_home": 8,
-        "over_0_5_ft_home": 4,
-        "clean_sheets_home": 4,
-        "over_2_5_goals_away": 7,
-        "over_0_5_ht_away": 5,
         "over_0_5_ft_away": 6,
         "clean_sheets_away": 3
       },
