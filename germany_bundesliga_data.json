@@ -8,46 +8,46 @@
           "name": "FC Bayern München",
           "logo": "https://cdn.footystats.org/img/teams/germany-fc-bayern-munchen.png"
         },
-        "points": 12,
-        "goalsDiff": 15,
+        "points": 15,
+        "goalsDiff": 19,
         "group": "Germany Bundesliga 2025",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 4,
-          "win": 4,
+          "played": 5,
+          "win": 5,
           "draw": 0,
           "lose": 0,
           "goals": {
-            "for": 18,
+            "for": 22,
             "against": 3
           },
-          "form": "WWWW",
+          "form": "WWWWW",
           "btts_matches": 2,
-          "avg_corners_per_game": 5.0,
+          "avg_corners_per_game": 5.4,
           "aproveitamento": 100.0,
-          "over_2_5_goals": 4,
-          "over_0_5_ht": 4,
-          "over_0_5_ft": 4,
-          "clean_sheets": 2
+          "over_2_5_goals": 5,
+          "over_0_5_ht": 5,
+          "over_0_5_ft": 5,
+          "clean_sheets": 3
         },
         "home": {
-          "played": 2,
-          "win": 2,
+          "played": 3,
+          "win": 3,
           "draw": 0,
           "lose": 0,
           "goals": {
-            "for": 11,
+            "for": 15,
             "against": 0
           },
-          "form_home": "WW",
-          "avg_corners_home_per_game": 5.0,
+          "form_home": "WWW",
+          "avg_corners_home_per_game": 5.67,
           "aproveitamento_home": 100.0,
           "btts_home_matches": 0,
-          "over_2_5_goals_home": 2,
-          "over_0_5_ht_home": 2,
-          "over_0_5_ft_home": 2,
-          "clean_sheets_home": 2
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 3
         },
         "away": {
           "played": 2,
@@ -888,74 +888,6 @@
       {
         "rank": 14,
         "team": {
-          "id": 37,
-          "name": "SV Werder Bremen",
-          "logo": "https://cdn.footystats.org/img/teams/germany-sv-werder-bremen.png"
-        },
-        "points": 4,
-        "goalsDiff": -2,
-        "group": "Germany Bundesliga 2025",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 4,
-          "win": 1,
-          "draw": 1,
-          "lose": 2,
-          "goals": {
-            "for": 8,
-            "against": 10
-          },
-          "form": "LDWL",
-          "btts_matches": 2,
-          "avg_corners_per_game": 2.5,
-          "aproveitamento": 33.3,
-          "over_2_5_goals": 4,
-          "over_0_5_ht": 2,
-          "over_0_5_ft": 3,
-          "clean_sheets": 1
-        },
-        "home": {
-          "played": 2,
-          "win": 0,
-          "draw": 1,
-          "lose": 1,
-          "goals": {
-            "for": 3,
-            "against": 6
-          },
-          "form_home": "DL",
-          "avg_corners_home_per_game": 2.5,
-          "aproveitamento_home": 16.7,
-          "btts_home_matches": 1,
-          "over_2_5_goals_home": 2,
-          "over_0_5_ht_home": 1,
-          "over_0_5_ft_home": 1,
-          "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 2,
-          "win": 1,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 5,
-            "against": 4
-          },
-          "form_visitor": "LW",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 2.5,
-          "aproveitamento_away": 50.0,
-          "over_2_5_goals_away": 2,
-          "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 2,
-          "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 15,
-        "team": {
           "id": 36,
           "name": "Hamburger SV",
           "logo": "https://cdn.footystats.org/img/teams/germany-hamburger-sv.png"
@@ -1017,6 +949,74 @@
           "over_2_5_goals_away": 1,
           "over_0_5_ht_away": 0,
           "over_0_5_ft_away": 0,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 14,
+        "team": {
+          "id": 37,
+          "name": "SV Werder Bremen",
+          "logo": "https://cdn.footystats.org/img/teams/germany-sv-werder-bremen.png"
+        },
+        "points": 4,
+        "goalsDiff": -6,
+        "group": "Germany Bundesliga 2025",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 5,
+          "win": 1,
+          "draw": 1,
+          "lose": 3,
+          "goals": {
+            "for": 8,
+            "against": 14
+          },
+          "form": "LDWLL",
+          "btts_matches": 2,
+          "avg_corners_per_game": 3.2,
+          "aproveitamento": 26.7,
+          "over_2_5_goals": 5,
+          "over_0_5_ht": 2,
+          "over_0_5_ft": 3,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 2,
+          "win": 0,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 3,
+            "against": 6
+          },
+          "form_home": "DL",
+          "avg_corners_home_per_game": 2.5,
+          "aproveitamento_home": 16.7,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 3,
+          "win": 1,
+          "draw": 0,
+          "lose": 2,
+          "goals": {
+            "for": 5,
+            "against": 8
+          },
+          "form_visitor": "LWL",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 3.67,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 3,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 2,
           "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1232,9 +1232,9 @@
       {
         "jogador-nome": "Harry Edward Kane",
         "jogador-posicao": "Forward",
-        "jogador-gols": 8,
+        "jogador-gols": 10,
         "jogador-assists": 3,
-        "jogador-partidas": 4,
+        "jogador-partidas": 5,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-fc-bayern-munchen.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/england-harry-kane.png"
       },
@@ -1266,22 +1266,31 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/-ilyas-ansah.png"
       },
       {
+        "jogador-nome": "Luis Fernando Díaz Marulanda",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 3,
+        "jogador-assists": 3,
+        "jogador-partidas": 5,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-fc-bayern-munchen.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/colombia-luis-diaz.png"
+      },
+      {
         "jogador-nome": "Serge Gnabry",
         "jogador-posicao": "Forward",
         "jogador-gols": 3,
         "jogador-assists": 2,
-        "jogador-partidas": 4,
+        "jogador-partidas": 5,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-fc-bayern-munchen.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/germany-serge-gnabry.png"
       },
       {
-        "jogador-nome": "Luis Fernando Díaz Marulanda",
-        "jogador-posicao": "Forward",
+        "jogador-nome": "Michael Akpovie Olise",
+        "jogador-posicao": "Midfielder",
         "jogador-gols": 3,
         "jogador-assists": 2,
-        "jogador-partidas": 4,
+        "jogador-partidas": 5,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-fc-bayern-munchen.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/colombia-luis-diaz.png"
+        "jogador-foto": "https://cdn.footystats.org/img/players/france-michael-olise.png"
       },
       {
         "jogador-nome": "Patrik Schick",
@@ -1291,15 +1300,6 @@
         "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-bayer-04-leverkusen.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/czech-republic-patrik-schick.png"
-      },
-      {
-        "jogador-nome": "Michael Akpovie Olise",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 3,
-        "jogador-assists": 1,
-        "jogador-partidas": 4,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-fc-bayern-munchen.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/france-michael-olise.png"
       },
       {
         "jogador-nome": "Fisnik Asllani",
