@@ -8,28 +8,28 @@
           "name": "Al Nassr FC",
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-nassr-fc.png"
         },
-        "points": 9,
-        "goalsDiff": 11,
+        "points": 12,
+        "goalsDiff": 13,
         "group": "Saudi Arabia Professional League 2025",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 3,
-          "win": 3,
+          "played": 4,
+          "win": 4,
           "draw": 0,
           "lose": 0,
           "goals": {
-            "for": 12,
+            "for": 14,
             "against": 1
           },
-          "form": "WWW",
+          "form": "WWWW",
           "btts_matches": 1,
-          "avg_corners_per_game": 10.33,
+          "avg_corners_per_game": 9.25,
           "aproveitamento": 100.0,
           "over_2_5_goals": 2,
-          "over_0_5_ht": 2,
+          "over_0_5_ht": 3,
           "over_0_5_ft": 3,
-          "clean_sheets": 2
+          "clean_sheets": 3
         },
         "home": {
           "played": 2,
@@ -50,22 +50,22 @@
           "clean_sheets_home": 1
         },
         "away": {
-          "played": 1,
-          "win": 1,
+          "played": 2,
+          "win": 2,
           "draw": 0,
           "lose": 0,
           "goals": {
-            "for": 5,
+            "for": 7,
             "against": 0
           },
-          "form_visitor": "W",
+          "form_visitor": "WW",
           "btts_away_matches": 0,
-          "avg_corners_away_per_game": 5.0,
+          "avg_corners_away_per_game": 5.5,
           "aproveitamento_away": 100.0,
           "over_2_5_goals_away": 1,
-          "over_0_5_ht_away": 1,
+          "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 1,
-          "clean_sheets_away": 1
+          "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -77,40 +77,40 @@
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-ittihad-fc-jeddah.png"
         },
         "points": 9,
-        "goalsDiff": 6,
+        "goalsDiff": 4,
         "group": "Saudi Arabia Professional League 2025",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 3,
+          "played": 4,
           "win": 3,
           "draw": 0,
-          "lose": 0,
+          "lose": 1,
           "goals": {
             "for": 10,
-            "against": 4
+            "against": 6
           },
-          "form": "WWW",
+          "form": "WWWL",
           "btts_matches": 2,
-          "avg_corners_per_game": 7.67,
-          "aproveitamento": 100.0,
+          "avg_corners_per_game": 6.5,
+          "aproveitamento": 75.0,
           "over_2_5_goals": 2,
           "over_0_5_ht": 2,
           "over_0_5_ft": 3,
           "clean_sheets": 1
         },
         "home": {
-          "played": 1,
+          "played": 2,
           "win": 1,
           "draw": 0,
-          "lose": 0,
+          "lose": 1,
           "goals": {
             "for": 4,
-            "against": 2
+            "against": 4
           },
-          "form_home": "W",
-          "avg_corners_home_per_game": 8.0,
-          "aproveitamento_home": 100.0,
+          "form_home": "WL",
+          "avg_corners_home_per_game": 5.5,
+          "aproveitamento_home": 50.0,
           "btts_home_matches": 1,
           "over_2_5_goals_home": 1,
           "over_0_5_ht_home": 1,
@@ -1234,7 +1234,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 5,
         "jogador-assists": 1,
-        "jogador-partidas": 3,
+        "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-nassr-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/portugal-joao-felix.png"
       },
@@ -1246,6 +1246,15 @@
         "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-khaleej-saihat.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/norway-joshua-king.png"
+      },
+      {
+        "jogador-nome": "Cristiano Ronaldo dos Santos Aveiro",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 4,
+        "jogador-assists": 0,
+        "jogador-partidas": 4,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-nassr-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/portugal-cristiano-ronaldo.png"
       },
       {
         "jogador-nome": "Musa Barrow",
@@ -1279,7 +1288,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 3,
         "jogador-assists": 1,
-        "jogador-partidas": 3,
+        "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-ittihad-fc-jeddah.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/netherlands-steven-bergwijn.png"
       },
@@ -1306,7 +1315,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 3,
         "jogador-assists": 0,
-        "jogador-partidas": 1,
+        "jogador-partidas": 2,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-ittihad-fc-jeddah.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/france-karim-benzema.png"
       },
@@ -1320,20 +1329,11 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/england-ivan-toney.png"
       },
       {
-        "jogador-nome": "Cristiano Ronaldo dos Santos Aveiro",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 3,
-        "jogador-assists": 0,
-        "jogador-partidas": 3,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-nassr-fc.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/portugal-cristiano-ronaldo.png"
-      },
-      {
         "jogador-nome": "Kingsley Coman",
         "jogador-posicao": "Forward",
         "jogador-gols": 2,
-        "jogador-assists": 3,
-        "jogador-partidas": 3,
+        "jogador-assists": 4,
+        "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-nassr-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/france-kingsley-coman.png"
       },
@@ -1345,6 +1345,15 @@
         "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-dhamk-club.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/argentina-valentin-vada.png"
+      },
+      {
+        "jogador-nome": "Sadio Mané",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 2,
+        "jogador-assists": 2,
+        "jogador-partidas": 4,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-nassr-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/senegal-sadio-mane.png"
       },
       {
         "jogador-nome": "Theo Bernard François Hernández",
@@ -1399,15 +1408,6 @@
         "jogador-partidas": 3,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-quadisiya-al-khubar.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/colombia-julian-andres-quinones-quinones.png"
-      },
-      {
-        "jogador-nome": "Juan Sebastián Pedroza Perdomo",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 2,
-        "jogador-assists": 0,
-        "jogador-partidas": 3,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-akhdoud.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/colombia-juan-sebastian-pedroza-perdomo.png"
       }
     ]
   }
