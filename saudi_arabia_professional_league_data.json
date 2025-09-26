@@ -24,7 +24,15 @@
           "goals": {
             "for": 12,
             "against": 1
-          }
+          },
+          "btts_matches": 1,
+          "btts_home_matches": 1,
+          "avg_corners_per_game": 10.33,
+          "aproveitamento": 100.0,
+          "over_2_5_goals": 2,
+          "over_0_5_ht": 2,
+          "over_0_5_ft": 3,
+          "clean_sheets": 2
         },
         "home": {
           "played": 2,
@@ -34,7 +42,13 @@
           "goals": {
             "for": 7,
             "against": 1
-          }
+          },
+          "avg_corners_home_per_game": 13.0,
+          "aproveitamento_home": 100.0,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 2,
+          "clean_sheets_home": 1
         },
         "away": {
           "played": 1,
@@ -44,30 +58,16 @@
           "goals": {
             "for": 5,
             "against": 0
-          }
+          },
+          "btts_away_matches": 0,
+          "avg_corners_away_per_game": 5.0,
+          "aproveitamento_away": 100.0,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 1
         },
-        "update": "2025-09-23T00:00:00+00:00",
-        "btts_matches": 1,
-        "btts_home_matches": 1,
-        "btts_away_matches": 0,
-        "avg_corners_per_game": 10.33,
-        "avg_corners_home_per_game": 13.0,
-        "avg_corners_away_per_game": 5.0,
-        "aproveitamento": 100.0,
-        "aproveitamento_home": 100.0,
-        "aproveitamento_away": 100.0,
-        "over_2_5_goals": 2,
-        "over_0_5_ht": 2,
-        "over_0_5_ft": 3,
-        "clean_sheets": 2,
-        "over_2_5_goals_home": 1,
-        "over_0_5_ht_home": 1,
-        "over_0_5_ft_home": 2,
-        "clean_sheets_home": 1,
-        "over_2_5_goals_away": 1,
-        "over_0_5_ht_away": 1,
-        "over_0_5_ft_away": 1,
-        "clean_sheets_away": 1
+        "update": "2025-09-23T00:00:00+00:00"
       },
       {
         "rank": 2,
@@ -92,7 +92,15 @@
           "goals": {
             "for": 10,
             "against": 4
-          }
+          },
+          "btts_matches": 2,
+          "btts_home_matches": 1,
+          "avg_corners_per_game": 7.67,
+          "aproveitamento": 100.0,
+          "over_2_5_goals": 2,
+          "over_0_5_ht": 2,
+          "over_0_5_ft": 3,
+          "clean_sheets": 1
         },
         "home": {
           "played": 1,
@@ -102,7 +110,13 @@
           "goals": {
             "for": 4,
             "against": 2
-          }
+          },
+          "avg_corners_home_per_game": 8.0,
+          "aproveitamento_home": 100.0,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 0
         },
         "away": {
           "played": 2,
@@ -112,33 +126,155 @@
           "goals": {
             "for": 6,
             "against": 2
-          }
+          },
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 7.5,
+          "aproveitamento_away": 100.0,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 1
         },
-        "update": "2025-09-23T00:00:00+00:00",
-        "btts_matches": 2,
-        "btts_home_matches": 1,
-        "btts_away_matches": 1,
-        "avg_corners_per_game": 7.67,
-        "avg_corners_home_per_game": 8.0,
-        "avg_corners_away_per_game": 7.5,
-        "aproveitamento": 100.0,
-        "aproveitamento_home": 100.0,
-        "aproveitamento_away": 100.0,
-        "over_2_5_goals": 2,
-        "over_0_5_ht": 2,
-        "over_0_5_ft": 3,
-        "clean_sheets": 1,
-        "over_2_5_goals_home": 1,
-        "over_0_5_ht_home": 1,
-        "over_0_5_ft_home": 1,
-        "clean_sheets_home": 0,
-        "over_2_5_goals_away": 1,
-        "over_0_5_ht_away": 1,
-        "over_0_5_ft_away": 2,
-        "clean_sheets_away": 1
+        "update": "2025-09-23T00:00:00+00:00"
       },
       {
         "rank": 3,
+        "team": {
+          "id": 5074,
+          "name": "Al Taawon FC",
+          "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-taawon-fc.png"
+        },
+        "points": 9,
+        "goalsDiff": 0,
+        "group": "Saudi Arabia Professional League 2025",
+        "form": "LWWW",
+        "form_home": "LW",
+        "form_visitor": "WW",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 4,
+          "win": 3,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 8,
+            "against": 8
+          },
+          "btts_matches": 2,
+          "btts_home_matches": 1,
+          "avg_corners_per_game": 1.75,
+          "aproveitamento": 75.0,
+          "over_2_5_goals": 3,
+          "over_0_5_ht": 2,
+          "over_0_5_ft": 3,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 2,
+          "win": 1,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 4,
+            "against": 6
+          },
+          "avg_corners_home_per_game": 2.0,
+          "aproveitamento_home": 50.0,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 2,
+          "win": 2,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 4,
+            "against": 2
+          },
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 1.5,
+          "aproveitamento_away": 100.0,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 4,
+        "team": {
+          "id": 5066,
+          "name": "Al Hilal FC Riyadh",
+          "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-hilal-fc-riyadh.png"
+        },
+        "points": 8,
+        "goalsDiff": 4,
+        "group": "Saudi Arabia Professional League 2025",
+        "form": "WDDW",
+        "form_home": "WDW",
+        "form_visitor": "D",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 4,
+          "win": 2,
+          "draw": 2,
+          "lose": 0,
+          "goals": {
+            "for": 10,
+            "against": 6
+          },
+          "btts_matches": 3,
+          "btts_home_matches": 2,
+          "avg_corners_per_game": 5.75,
+          "aproveitamento": 66.7,
+          "over_2_5_goals": 3,
+          "over_0_5_ht": 3,
+          "over_0_5_ft": 2,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 3,
+          "win": 2,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 7,
+            "against": 3
+          },
+          "avg_corners_home_per_game": 7.0,
+          "aproveitamento_home": 77.8,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 2,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 1,
+          "win": 0,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 3,
+            "against": 3
+          },
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 2.0,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 5,
         "team": {
           "id": 5068,
           "name": "Al Quadisiya Al Khubar",
@@ -151,7 +287,7 @@
         "form_home": "WW",
         "form_visitor": "D",
         "status": "same",
-        "description": "Copa Libertadores",
+        "description": "Copa Sul-Americana",
         "all": {
           "played": 3,
           "win": 2,
@@ -160,7 +296,15 @@
           "goals": {
             "for": 7,
             "against": 4
-          }
+          },
+          "btts_matches": 3,
+          "btts_home_matches": 2,
+          "avg_corners_per_game": 6.33,
+          "aproveitamento": 77.8,
+          "over_2_5_goals": 3,
+          "over_0_5_ht": 3,
+          "over_0_5_ft": 3,
+          "clean_sheets": 0
         },
         "home": {
           "played": 2,
@@ -170,7 +314,13 @@
           "goals": {
             "for": 5,
             "against": 2
-          }
+          },
+          "avg_corners_home_per_game": 8.0,
+          "aproveitamento_home": 100.0,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 2,
+          "clean_sheets_home": 0
         },
         "away": {
           "played": 1,
@@ -180,65 +330,65 @@
           "goals": {
             "for": 2,
             "against": 2
-          }
+          },
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 3.0,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 0
         },
-        "update": "2025-09-23T00:00:00+00:00",
-        "btts_matches": 3,
-        "btts_home_matches": 2,
-        "btts_away_matches": 1,
-        "avg_corners_per_game": 6.33,
-        "avg_corners_home_per_game": 8.0,
-        "avg_corners_away_per_game": 3.0,
-        "aproveitamento": 77.8,
-        "aproveitamento_home": 100.0,
-        "aproveitamento_away": 33.3,
-        "over_2_5_goals": 3,
-        "over_0_5_ht": 3,
-        "over_0_5_ft": 3,
-        "clean_sheets": 0,
-        "over_2_5_goals_home": 2,
-        "over_0_5_ht_home": 2,
-        "over_0_5_ft_home": 2,
-        "clean_sheets_home": 0,
-        "over_2_5_goals_away": 1,
-        "over_0_5_ht_away": 1,
-        "over_0_5_ft_away": 1,
-        "clean_sheets_away": 0
+        "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 4,
+        "rank": 6,
         "team": {
           "id": 5077,
           "name": "Al Khaleej Saihat",
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-khaleej-saihat.png"
         },
         "points": 6,
-        "goalsDiff": 5,
+        "goalsDiff": 4,
         "group": "Saudi Arabia Professional League 2025",
-        "form": "WWL",
-        "form_home": "W",
+        "form": "WWLL",
+        "form_home": "WL",
         "form_visitor": "WL",
         "status": "same",
-        "description": "Copa Libertadores",
+        "description": "Copa Sul-Americana",
         "all": {
-          "played": 3,
+          "played": 4,
           "win": 2,
+          "draw": 0,
+          "lose": 2,
+          "goals": {
+            "for": 8,
+            "against": 4
+          },
+          "btts_matches": 2,
+          "btts_home_matches": 0,
+          "avg_corners_per_game": 5.0,
+          "aproveitamento": 50.0,
+          "over_2_5_goals": 3,
+          "over_0_5_ht": 2,
+          "over_0_5_ft": 3,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 2,
+          "win": 1,
           "draw": 0,
           "lose": 1,
           "goals": {
-            "for": 8,
-            "against": 3
-          }
-        },
-        "home": {
-          "played": 1,
-          "win": 1,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
             "for": 3,
-            "against": 0
-          }
+            "against": 1
+          },
+          "avg_corners_home_per_game": 4.5,
+          "aproveitamento_home": 50.0,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 1
         },
         "away": {
           "played": 2,
@@ -248,33 +398,19 @@
           "goals": {
             "for": 5,
             "against": 3
-          }
+          },
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 5.5,
+          "aproveitamento_away": 50.0,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 0
         },
-        "update": "2025-09-23T00:00:00+00:00",
-        "btts_matches": 2,
-        "btts_home_matches": 0,
-        "btts_away_matches": 2,
-        "avg_corners_per_game": 4.33,
-        "avg_corners_home_per_game": 2.0,
-        "avg_corners_away_per_game": 5.5,
-        "aproveitamento": 66.7,
-        "aproveitamento_home": 100.0,
-        "aproveitamento_away": 50.0,
-        "over_2_5_goals": 3,
-        "over_0_5_ht": 2,
-        "over_0_5_ft": 3,
-        "clean_sheets": 1,
-        "over_2_5_goals_home": 1,
-        "over_0_5_ht_home": 1,
-        "over_0_5_ft_home": 1,
-        "clean_sheets_home": 1,
-        "over_2_5_goals_away": 2,
-        "over_0_5_ht_away": 1,
-        "over_0_5_ft_away": 2,
-        "clean_sheets_away": 0
+        "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 5,
+        "rank": 7,
         "team": {
           "id": 5097,
           "name": "Neom SC",
@@ -287,7 +423,7 @@
         "form_home": "W",
         "form_visitor": "LW",
         "status": "same",
-        "description": "Copa Sul-Americana",
+        "description": "",
         "all": {
           "played": 3,
           "win": 2,
@@ -296,7 +432,15 @@
           "goals": {
             "for": 3,
             "against": 2
-          }
+          },
+          "btts_matches": 1,
+          "btts_home_matches": 0,
+          "avg_corners_per_game": 4.33,
+          "aproveitamento": 66.7,
+          "over_2_5_goals": 1,
+          "over_0_5_ht": 2,
+          "over_0_5_ft": 1,
+          "clean_sheets": 1
         },
         "home": {
           "played": 1,
@@ -306,7 +450,13 @@
           "goals": {
             "for": 1,
             "against": 0
-          }
+          },
+          "avg_corners_home_per_game": 6.0,
+          "aproveitamento_home": 100.0,
+          "over_2_5_goals_home": 0,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 0,
+          "clean_sheets_home": 1
         },
         "away": {
           "played": 2,
@@ -316,169 +466,87 @@
           "goals": {
             "for": 2,
             "against": 2
-          }
+          },
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 3.5,
+          "aproveitamento_away": 50.0,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 0
         },
-        "update": "2025-09-23T00:00:00+00:00",
-        "btts_matches": 1,
-        "btts_home_matches": 0,
-        "btts_away_matches": 1,
-        "avg_corners_per_game": 4.33,
-        "avg_corners_home_per_game": 6.0,
-        "avg_corners_away_per_game": 3.5,
-        "aproveitamento": 66.7,
-        "aproveitamento_home": 100.0,
-        "aproveitamento_away": 50.0,
-        "over_2_5_goals": 1,
-        "over_0_5_ht": 2,
-        "over_0_5_ft": 1,
-        "clean_sheets": 1,
-        "over_2_5_goals_home": 0,
-        "over_0_5_ht_home": 1,
-        "over_0_5_ft_home": 0,
-        "clean_sheets_home": 1,
-        "over_2_5_goals_away": 1,
-        "over_0_5_ht_away": 1,
-        "over_0_5_ft_away": 1,
-        "clean_sheets_away": 0
+        "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 6,
+        "rank": 8,
         "team": {
-          "id": 5074,
-          "name": "Al Taawon FC",
-          "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-taawon-fc.png"
+          "id": 5125,
+          "name": "Al Kholood Club",
+          "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-kholood-club.png"
         },
         "points": 6,
         "goalsDiff": -1,
         "group": "Saudi Arabia Professional League 2025",
-        "form": "LWW",
-        "form_home": "LW",
-        "form_visitor": "W",
-        "status": "same",
-        "description": "Copa Sul-Americana",
-        "all": {
-          "played": 3,
-          "win": 2,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 7,
-            "against": 8
-          }
-        },
-        "home": {
-          "played": 2,
-          "win": 1,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 4,
-            "against": 6
-          }
-        },
-        "away": {
-          "played": 1,
-          "win": 1,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 3,
-            "against": 2
-          }
-        },
-        "update": "2025-09-23T00:00:00+00:00",
-        "btts_matches": 2,
-        "btts_home_matches": 1,
-        "btts_away_matches": 1,
-        "avg_corners_per_game": 2.33,
-        "avg_corners_home_per_game": 2.0,
-        "avg_corners_away_per_game": 3.0,
-        "aproveitamento": 66.7,
-        "aproveitamento_home": 50.0,
-        "aproveitamento_away": 100.0,
-        "over_2_5_goals": 3,
-        "over_0_5_ht": 2,
-        "over_0_5_ft": 2,
-        "clean_sheets": 0,
-        "over_2_5_goals_home": 2,
-        "over_0_5_ht_home": 1,
-        "over_0_5_ft_home": 1,
-        "clean_sheets_home": 0,
-        "over_2_5_goals_away": 1,
-        "over_0_5_ht_away": 1,
-        "over_0_5_ft_away": 1,
-        "clean_sheets_away": 0
-      },
-      {
-        "rank": 7,
-        "team": {
-          "id": 5066,
-          "name": "Al Hilal FC Riyadh",
-          "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-hilal-fc-riyadh.png"
-        },
-        "points": 5,
-        "goalsDiff": 2,
-        "group": "Saudi Arabia Professional League 2025",
-        "form": "WDD",
-        "form_home": "WD",
-        "form_visitor": "D",
+        "form": "LLWW",
+        "form_home": "W",
+        "form_visitor": "LLW",
         "status": "same",
         "description": "",
         "all": {
-          "played": 3,
-          "win": 1,
-          "draw": 2,
-          "lose": 0,
+          "played": 4,
+          "win": 2,
+          "draw": 0,
+          "lose": 2,
           "goals": {
-            "for": 7,
-            "against": 5
-          }
+            "for": 5,
+            "against": 6
+          },
+          "btts_matches": 3,
+          "btts_home_matches": 1,
+          "avg_corners_per_game": 2.25,
+          "aproveitamento": 50.0,
+          "over_2_5_goals": 3,
+          "over_0_5_ht": 2,
+          "over_0_5_ft": 2,
+          "clean_sheets": 0
         },
         "home": {
-          "played": 2,
+          "played": 1,
           "win": 1,
-          "draw": 1,
+          "draw": 0,
           "lose": 0,
           "goals": {
-            "for": 4,
-            "against": 2
-          }
+            "for": 2,
+            "against": 1
+          },
+          "avg_corners_home_per_game": 3.0,
+          "aproveitamento_home": 100.0,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 0
         },
         "away": {
-          "played": 1,
-          "win": 0,
-          "draw": 1,
-          "lose": 0,
+          "played": 3,
+          "win": 1,
+          "draw": 0,
+          "lose": 2,
           "goals": {
             "for": 3,
-            "against": 3
-          }
+            "against": 5
+          },
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 2.0,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 0
         },
-        "update": "2025-09-23T00:00:00+00:00",
-        "btts_matches": 2,
-        "btts_home_matches": 1,
-        "btts_away_matches": 1,
-        "avg_corners_per_game": 4.67,
-        "avg_corners_home_per_game": 6.0,
-        "avg_corners_away_per_game": 2.0,
-        "aproveitamento": 55.6,
-        "aproveitamento_home": 66.7,
-        "aproveitamento_away": 33.3,
-        "over_2_5_goals": 2,
-        "over_0_5_ht": 2,
-        "over_0_5_ft": 1,
-        "clean_sheets": 1,
-        "over_2_5_goals_home": 1,
-        "over_0_5_ht_home": 1,
-        "over_0_5_ft_home": 1,
-        "clean_sheets_home": 1,
-        "over_2_5_goals_away": 1,
-        "over_0_5_ht_away": 1,
-        "over_0_5_ft_away": 0,
-        "clean_sheets_away": 0
+        "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "team": {
           "id": 5062,
           "name": "Al Ahli SC Jeddah",
@@ -500,7 +568,15 @@
           "goals": {
             "for": 4,
             "against": 3
-          }
+          },
+          "btts_matches": 1,
+          "btts_home_matches": 1,
+          "avg_corners_per_game": 8.0,
+          "aproveitamento": 55.6,
+          "over_2_5_goals": 1,
+          "over_0_5_ht": 1,
+          "over_0_5_ft": 1,
+          "clean_sheets": 2
         },
         "home": {
           "played": 2,
@@ -510,7 +586,13 @@
           "goals": {
             "for": 4,
             "against": 3
-          }
+          },
+          "avg_corners_home_per_game": 7.0,
+          "aproveitamento_home": 66.7,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 1
         },
         "away": {
           "played": 1,
@@ -520,33 +602,19 @@
           "goals": {
             "for": 0,
             "against": 0
-          }
+          },
+          "btts_away_matches": 0,
+          "avg_corners_away_per_game": 10.0,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 0,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 1
         },
-        "update": "2025-09-23T00:00:00+00:00",
-        "btts_matches": 1,
-        "btts_home_matches": 1,
-        "btts_away_matches": 0,
-        "avg_corners_per_game": 8.0,
-        "avg_corners_home_per_game": 7.0,
-        "avg_corners_away_per_game": 10.0,
-        "aproveitamento": 55.6,
-        "aproveitamento_home": 66.7,
-        "aproveitamento_away": 33.3,
-        "over_2_5_goals": 1,
-        "over_0_5_ht": 1,
-        "over_0_5_ft": 1,
-        "clean_sheets": 2,
-        "over_2_5_goals_home": 1,
-        "over_0_5_ht_home": 1,
-        "over_0_5_ft_home": 1,
-        "clean_sheets_home": 1,
-        "over_2_5_goals_away": 0,
-        "over_0_5_ht_away": 0,
-        "over_0_5_ft_away": 0,
-        "clean_sheets_away": 1
+        "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "team": {
           "id": 5065,
           "name": "Al Ittifaq FC Dammam",
@@ -568,7 +636,15 @@
           "goals": {
             "for": 3,
             "against": 5
-          }
+          },
+          "btts_matches": 2,
+          "btts_home_matches": 1,
+          "avg_corners_per_game": 4.33,
+          "aproveitamento": 44.4,
+          "over_2_5_goals": 2,
+          "over_0_5_ht": 1,
+          "over_0_5_ft": 2,
+          "clean_sheets": 1
         },
         "home": {
           "played": 2,
@@ -578,7 +654,13 @@
           "goals": {
             "for": 2,
             "against": 1
-          }
+          },
+          "avg_corners_home_per_game": 3.0,
+          "aproveitamento_home": 66.7,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 1
         },
         "away": {
           "played": 1,
@@ -588,101 +670,19 @@
           "goals": {
             "for": 1,
             "against": 4
-          }
+          },
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 7.0,
+          "aproveitamento_away": 0.0,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 0
         },
-        "update": "2025-09-23T00:00:00+00:00",
-        "btts_matches": 2,
-        "btts_home_matches": 1,
-        "btts_away_matches": 1,
-        "avg_corners_per_game": 4.33,
-        "avg_corners_home_per_game": 3.0,
-        "avg_corners_away_per_game": 7.0,
-        "aproveitamento": 44.4,
-        "aproveitamento_home": 66.7,
-        "aproveitamento_away": 0.0,
-        "over_2_5_goals": 2,
-        "over_0_5_ht": 1,
-        "over_0_5_ft": 2,
-        "clean_sheets": 1,
-        "over_2_5_goals_home": 1,
-        "over_0_5_ht_home": 1,
-        "over_0_5_ft_home": 1,
-        "clean_sheets_home": 1,
-        "over_2_5_goals_away": 1,
-        "over_0_5_ht_away": 0,
-        "over_0_5_ft_away": 1,
-        "clean_sheets_away": 0
+        "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 9,
-        "team": {
-          "id": 5067,
-          "name": "Al Shabab FC Riyadh",
-          "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-shabab-fc-riyadh.png"
-        },
-        "points": 4,
-        "goalsDiff": -2,
-        "group": "Saudi Arabia Professional League 2025",
-        "form": "LWD",
-        "form_home": "LW",
-        "form_visitor": "D",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 3,
-          "win": 1,
-          "draw": 1,
-          "lose": 1,
-          "goals": {
-            "for": 2,
-            "against": 4
-          }
-        },
-        "home": {
-          "played": 2,
-          "win": 1,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 2,
-            "against": 4
-          }
-        },
-        "away": {
-          "played": 1,
-          "win": 0,
-          "draw": 1,
-          "lose": 0,
-          "goals": {
-            "for": 0,
-            "against": 0
-          }
-        },
-        "update": "2025-09-23T00:00:00+00:00",
-        "btts_matches": 1,
-        "btts_home_matches": 1,
-        "btts_away_matches": 0,
-        "avg_corners_per_game": 5.67,
-        "avg_corners_home_per_game": 7.0,
-        "avg_corners_away_per_game": 3.0,
-        "aproveitamento": 44.4,
-        "aproveitamento_home": 50.0,
-        "aproveitamento_away": 33.3,
-        "over_2_5_goals": 1,
-        "over_0_5_ht": 0,
-        "over_0_5_ft": 2,
-        "clean_sheets": 2,
-        "over_2_5_goals_home": 1,
-        "over_0_5_ht_home": 0,
-        "over_0_5_ft_home": 2,
-        "clean_sheets_home": 1,
-        "over_2_5_goals_away": 0,
-        "over_0_5_ht_away": 0,
-        "over_0_5_ft_away": 0,
-        "clean_sheets_away": 1
-      },
-      {
-        "rank": 9,
+        "rank": 10,
         "team": {
           "id": 5071,
           "name": "Al Feiha",
@@ -704,7 +704,15 @@
           "goals": {
             "for": 2,
             "against": 4
-          }
+          },
+          "btts_matches": 1,
+          "btts_home_matches": 0,
+          "avg_corners_per_game": 5.67,
+          "aproveitamento": 44.4,
+          "over_2_5_goals": 2,
+          "over_0_5_ht": 1,
+          "over_0_5_ft": 0,
+          "clean_sheets": 1
         },
         "home": {
           "played": 1,
@@ -714,7 +722,13 @@
           "goals": {
             "for": 0,
             "against": 0
-          }
+          },
+          "avg_corners_home_per_game": 7.0,
+          "aproveitamento_home": 33.3,
+          "over_2_5_goals_home": 0,
+          "over_0_5_ht_home": 0,
+          "over_0_5_ft_home": 0,
+          "clean_sheets_home": 1
         },
         "away": {
           "played": 2,
@@ -724,98 +738,84 @@
           "goals": {
             "for": 2,
             "against": 4
-          }
+          },
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 5.0,
+          "aproveitamento_away": 50.0,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 0
         },
-        "update": "2025-09-23T00:00:00+00:00",
-        "btts_matches": 1,
-        "btts_home_matches": 0,
-        "btts_away_matches": 1,
-        "avg_corners_per_game": 5.67,
-        "avg_corners_home_per_game": 7.0,
-        "avg_corners_away_per_game": 5.0,
-        "aproveitamento": 44.4,
-        "aproveitamento_home": 33.3,
-        "aproveitamento_away": 50.0,
-        "over_2_5_goals": 2,
-        "over_0_5_ht": 1,
-        "over_0_5_ft": 0,
-        "clean_sheets": 1,
-        "over_2_5_goals_home": 0,
-        "over_0_5_ht_home": 0,
-        "over_0_5_ft_home": 0,
-        "clean_sheets_home": 1,
-        "over_2_5_goals_away": 2,
-        "over_0_5_ht_away": 1,
-        "over_0_5_ft_away": 0,
-        "clean_sheets_away": 0
+        "update": "2025-09-23T00:00:00+00:00"
       },
       {
         "rank": 12,
         "team": {
-          "id": 5125,
-          "name": "Al Kholood Club",
-          "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-kholood-club.png"
+          "id": 5067,
+          "name": "Al Shabab FC Riyadh",
+          "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-shabab-fc-riyadh.png"
         },
-        "points": 3,
-        "goalsDiff": -2,
+        "points": 4,
+        "goalsDiff": -3,
         "group": "Saudi Arabia Professional League 2025",
-        "form": "LLW",
-        "form_home": "W",
-        "form_visitor": "LL",
+        "form": "LWDL",
+        "form_home": "LWL",
+        "form_visitor": "D",
         "status": "same",
         "description": "",
         "all": {
+          "played": 4,
+          "win": 1,
+          "draw": 1,
+          "lose": 2,
+          "goals": {
+            "for": 3,
+            "against": 6
+          },
+          "btts_matches": 2,
+          "btts_home_matches": 2,
+          "avg_corners_per_game": 6.0,
+          "aproveitamento": 33.3,
+          "over_2_5_goals": 2,
+          "over_0_5_ht": 0,
+          "over_0_5_ft": 3,
+          "clean_sheets": 2
+        },
+        "home": {
           "played": 3,
           "win": 1,
           "draw": 0,
           "lose": 2,
           "goals": {
             "for": 3,
-            "against": 5
-          }
-        },
-        "home": {
-          "played": 1,
-          "win": 1,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 2,
-            "against": 1
-          }
+            "against": 6
+          },
+          "avg_corners_home_per_game": 7.0,
+          "aproveitamento_home": 33.3,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 0,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 1
         },
         "away": {
-          "played": 2,
+          "played": 1,
           "win": 0,
-          "draw": 0,
-          "lose": 2,
+          "draw": 1,
+          "lose": 0,
           "goals": {
-            "for": 1,
-            "against": 4
-          }
+            "for": 0,
+            "against": 0
+          },
+          "btts_away_matches": 0,
+          "avg_corners_away_per_game": 3.0,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 0,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 1
         },
-        "update": "2025-09-23T00:00:00+00:00",
-        "btts_matches": 2,
-        "btts_home_matches": 1,
-        "btts_away_matches": 1,
-        "avg_corners_per_game": 1.67,
-        "avg_corners_home_per_game": 3.0,
-        "avg_corners_away_per_game": 1.0,
-        "aproveitamento": 33.3,
-        "aproveitamento_home": 100.0,
-        "aproveitamento_away": 0.0,
-        "over_2_5_goals": 2,
-        "over_0_5_ht": 2,
-        "over_0_5_ft": 1,
-        "clean_sheets": 0,
-        "over_2_5_goals_home": 1,
-        "over_0_5_ht_home": 1,
-        "over_0_5_ft_home": 1,
-        "clean_sheets_home": 0,
-        "over_2_5_goals_away": 1,
-        "over_0_5_ht_away": 1,
-        "over_0_5_ft_away": 0,
-        "clean_sheets_away": 0
+        "update": "2025-09-23T00:00:00+00:00"
       },
       {
         "rank": 13,
@@ -840,7 +840,15 @@
           "goals": {
             "for": 3,
             "against": 8
-          }
+          },
+          "btts_matches": 2,
+          "btts_home_matches": 1,
+          "avg_corners_per_game": 2.67,
+          "aproveitamento": 33.3,
+          "over_2_5_goals": 2,
+          "over_0_5_ht": 1,
+          "over_0_5_ft": 1,
+          "clean_sheets": 0
         },
         "home": {
           "played": 1,
@@ -850,7 +858,13 @@
           "goals": {
             "for": 2,
             "against": 1
-          }
+          },
+          "avg_corners_home_per_game": 3.0,
+          "aproveitamento_home": 100.0,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 0,
+          "clean_sheets_home": 0
         },
         "away": {
           "played": 2,
@@ -860,30 +874,16 @@
           "goals": {
             "for": 1,
             "against": 7
-          }
+          },
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 2.5,
+          "aproveitamento_away": 0.0,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 0
         },
-        "update": "2025-09-23T00:00:00+00:00",
-        "btts_matches": 2,
-        "btts_home_matches": 1,
-        "btts_away_matches": 1,
-        "avg_corners_per_game": 2.67,
-        "avg_corners_home_per_game": 3.0,
-        "avg_corners_away_per_game": 2.5,
-        "aproveitamento": 33.3,
-        "aproveitamento_home": 100.0,
-        "aproveitamento_away": 0.0,
-        "over_2_5_goals": 2,
-        "over_0_5_ht": 1,
-        "over_0_5_ft": 1,
-        "clean_sheets": 0,
-        "over_2_5_goals_home": 1,
-        "over_0_5_ht_home": 1,
-        "over_0_5_ft_home": 0,
-        "clean_sheets_home": 0,
-        "over_2_5_goals_away": 1,
-        "over_0_5_ht_away": 0,
-        "over_0_5_ft_away": 1,
-        "clean_sheets_away": 0
+        "update": "2025-09-23T00:00:00+00:00"
       },
       {
         "rank": 14,
@@ -908,7 +908,15 @@
           "goals": {
             "for": 1,
             "against": 2
-          }
+          },
+          "btts_matches": 1,
+          "btts_home_matches": 0,
+          "avg_corners_per_game": 2.33,
+          "aproveitamento": 22.2,
+          "over_2_5_goals": 0,
+          "over_0_5_ht": 0,
+          "over_0_5_ft": 1,
+          "clean_sheets": 1
         },
         "home": {
           "played": 1,
@@ -918,7 +926,13 @@
           "goals": {
             "for": 0,
             "against": 0
-          }
+          },
+          "avg_corners_home_per_game": 2.0,
+          "aproveitamento_home": 33.3,
+          "over_2_5_goals_home": 0,
+          "over_0_5_ht_home": 0,
+          "over_0_5_ft_home": 0,
+          "clean_sheets_home": 1
         },
         "away": {
           "played": 2,
@@ -928,30 +942,16 @@
           "goals": {
             "for": 1,
             "against": 2
-          }
+          },
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 2.5,
+          "aproveitamento_away": 16.7,
+          "over_2_5_goals_away": 0,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 0
         },
-        "update": "2025-09-23T00:00:00+00:00",
-        "btts_matches": 1,
-        "btts_home_matches": 0,
-        "btts_away_matches": 1,
-        "avg_corners_per_game": 2.33,
-        "avg_corners_home_per_game": 2.0,
-        "avg_corners_away_per_game": 2.5,
-        "aproveitamento": 22.2,
-        "aproveitamento_home": 33.3,
-        "aproveitamento_away": 16.7,
-        "over_2_5_goals": 0,
-        "over_0_5_ht": 0,
-        "over_0_5_ft": 1,
-        "clean_sheets": 1,
-        "over_2_5_goals_home": 0,
-        "over_0_5_ht_home": 0,
-        "over_0_5_ft_home": 0,
-        "clean_sheets_home": 1,
-        "over_2_5_goals_away": 0,
-        "over_0_5_ht_away": 0,
-        "over_0_5_ft_away": 1,
-        "clean_sheets_away": 0
+        "update": "2025-09-23T00:00:00+00:00"
       },
       {
         "rank": 15,
@@ -976,7 +976,15 @@
           "goals": {
             "for": 3,
             "against": 5
-          }
+          },
+          "btts_matches": 3,
+          "btts_home_matches": 2,
+          "avg_corners_per_game": 4.33,
+          "aproveitamento": 11.1,
+          "over_2_5_goals": 2,
+          "over_0_5_ht": 1,
+          "over_0_5_ft": 2,
+          "clean_sheets": 0
         },
         "home": {
           "played": 2,
@@ -986,7 +994,13 @@
           "goals": {
             "for": 2,
             "against": 3
-          }
+          },
+          "avg_corners_home_per_game": 4.0,
+          "aproveitamento_home": 16.7,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 0,
+          "over_0_5_ft_home": 2,
+          "clean_sheets_home": 0
         },
         "away": {
           "played": 1,
@@ -996,30 +1010,16 @@
           "goals": {
             "for": 1,
             "against": 2
-          }
+          },
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 5.0,
+          "aproveitamento_away": 0.0,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 0
         },
-        "update": "2025-09-23T00:00:00+00:00",
-        "btts_matches": 3,
-        "btts_home_matches": 2,
-        "btts_away_matches": 1,
-        "avg_corners_per_game": 4.33,
-        "avg_corners_home_per_game": 4.0,
-        "avg_corners_away_per_game": 5.0,
-        "aproveitamento": 11.1,
-        "aproveitamento_home": 16.7,
-        "aproveitamento_away": 0.0,
-        "over_2_5_goals": 2,
-        "over_0_5_ht": 1,
-        "over_0_5_ft": 2,
-        "clean_sheets": 0,
-        "over_2_5_goals_home": 1,
-        "over_0_5_ht_home": 0,
-        "over_0_5_ft_home": 2,
-        "clean_sheets_home": 0,
-        "over_2_5_goals_away": 1,
-        "over_0_5_ht_away": 1,
-        "over_0_5_ft_away": 0,
-        "clean_sheets_away": 0
+        "update": "2025-09-23T00:00:00+00:00"
       },
       {
         "rank": 16,
@@ -1044,7 +1044,15 @@
           "goals": {
             "for": 3,
             "against": 6
-          }
+          },
+          "btts_matches": 2,
+          "btts_home_matches": 1,
+          "avg_corners_per_game": 4.67,
+          "aproveitamento": 11.1,
+          "over_2_5_goals": 2,
+          "over_0_5_ht": 2,
+          "over_0_5_ft": 1,
+          "clean_sheets": 1
         },
         "home": {
           "played": 1,
@@ -1054,7 +1062,13 @@
           "goals": {
             "for": 1,
             "against": 2
-          }
+          },
+          "avg_corners_home_per_game": 5.0,
+          "aproveitamento_home": 0.0,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 0,
+          "clean_sheets_home": 0
         },
         "away": {
           "played": 2,
@@ -1064,30 +1078,16 @@
           "goals": {
             "for": 2,
             "against": 4
-          }
+          },
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 4.5,
+          "aproveitamento_away": 16.7,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 1
         },
-        "update": "2025-09-23T00:00:00+00:00",
-        "btts_matches": 2,
-        "btts_home_matches": 1,
-        "btts_away_matches": 1,
-        "avg_corners_per_game": 4.67,
-        "avg_corners_home_per_game": 5.0,
-        "avg_corners_away_per_game": 4.5,
-        "aproveitamento": 11.1,
-        "aproveitamento_home": 0.0,
-        "aproveitamento_away": 16.7,
-        "over_2_5_goals": 2,
-        "over_0_5_ht": 2,
-        "over_0_5_ft": 1,
-        "clean_sheets": 1,
-        "over_2_5_goals_home": 1,
-        "over_0_5_ht_home": 1,
-        "over_0_5_ft_home": 0,
-        "clean_sheets_home": 0,
-        "over_2_5_goals_away": 1,
-        "over_0_5_ht_away": 1,
-        "over_0_5_ft_away": 1,
-        "clean_sheets_away": 1
+        "update": "2025-09-23T00:00:00+00:00"
       },
       {
         "rank": 17,
@@ -1112,7 +1112,15 @@
           "goals": {
             "for": 2,
             "against": 6
-          }
+          },
+          "btts_matches": 2,
+          "btts_home_matches": 0,
+          "avg_corners_per_game": 2.33,
+          "aproveitamento": 0.0,
+          "over_2_5_goals": 2,
+          "over_0_5_ht": 0,
+          "over_0_5_ft": 2,
+          "clean_sheets": 0
         },
         "home": {
           "played": 1,
@@ -1122,7 +1130,13 @@
           "goals": {
             "for": 0,
             "against": 1
-          }
+          },
+          "avg_corners_home_per_game": 3.0,
+          "aproveitamento_home": 0.0,
+          "over_2_5_goals_home": 0,
+          "over_0_5_ht_home": 0,
+          "over_0_5_ft_home": 0,
+          "clean_sheets_home": 0
         },
         "away": {
           "played": 2,
@@ -1132,30 +1146,16 @@
           "goals": {
             "for": 2,
             "against": 5
-          }
+          },
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 2.0,
+          "aproveitamento_away": 0.0,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 0
         },
-        "update": "2025-09-23T00:00:00+00:00",
-        "btts_matches": 2,
-        "btts_home_matches": 0,
-        "btts_away_matches": 2,
-        "avg_corners_per_game": 2.33,
-        "avg_corners_home_per_game": 3.0,
-        "avg_corners_away_per_game": 2.0,
-        "aproveitamento": 0.0,
-        "aproveitamento_home": 0.0,
-        "aproveitamento_away": 0.0,
-        "over_2_5_goals": 2,
-        "over_0_5_ht": 0,
-        "over_0_5_ft": 2,
-        "clean_sheets": 0,
-        "over_2_5_goals_home": 0,
-        "over_0_5_ht_home": 0,
-        "over_0_5_ft_home": 0,
-        "clean_sheets_home": 0,
-        "over_2_5_goals_away": 2,
-        "over_0_5_ht_away": 0,
-        "over_0_5_ft_away": 2,
-        "clean_sheets_away": 0
+        "update": "2025-09-23T00:00:00+00:00"
       },
       {
         "rank": 18,
@@ -1165,22 +1165,30 @@
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-akhdoud.png"
         },
         "points": 0,
-        "goalsDiff": -5,
+        "goalsDiff": -7,
         "group": "Saudi Arabia Professional League 2025",
-        "form": "LLL",
+        "form": "LLLL",
         "form_home": "LL",
-        "form_visitor": "L",
+        "form_visitor": "LL",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 3,
+          "played": 4,
           "win": 0,
           "draw": 0,
-          "lose": 3,
+          "lose": 4,
           "goals": {
-            "for": 4,
-            "against": 9
-          }
+            "for": 5,
+            "against": 12
+          },
+          "btts_matches": 3,
+          "btts_home_matches": 2,
+          "avg_corners_per_game": 4.5,
+          "aproveitamento": 0.0,
+          "over_2_5_goals": 3,
+          "over_0_5_ht": 3,
+          "over_0_5_ft": 2,
+          "clean_sheets": 0
         },
         "home": {
           "played": 2,
@@ -1190,40 +1198,32 @@
           "goals": {
             "for": 4,
             "against": 8
-          }
+          },
+          "avg_corners_home_per_game": 5.0,
+          "aproveitamento_home": 0.0,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 2,
+          "clean_sheets_home": 0
         },
         "away": {
-          "played": 1,
+          "played": 2,
           "win": 0,
           "draw": 0,
-          "lose": 1,
+          "lose": 2,
           "goals": {
-            "for": 0,
-            "against": 1
-          }
+            "for": 1,
+            "against": 4
+          },
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 4.0,
+          "aproveitamento_away": 0.0,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 0
         },
-        "update": "2025-09-23T00:00:00+00:00",
-        "btts_matches": 2,
-        "btts_home_matches": 2,
-        "btts_away_matches": 0,
-        "avg_corners_per_game": 5.0,
-        "avg_corners_home_per_game": 5.0,
-        "avg_corners_away_per_game": 5.0,
-        "aproveitamento": 0.0,
-        "aproveitamento_home": 0.0,
-        "aproveitamento_away": 0.0,
-        "over_2_5_goals": 2,
-        "over_0_5_ht": 2,
-        "over_0_5_ft": 2,
-        "clean_sheets": 0,
-        "over_2_5_goals_home": 2,
-        "over_0_5_ht_home": 2,
-        "over_0_5_ft_home": 2,
-        "clean_sheets_home": 0,
-        "over_2_5_goals_away": 0,
-        "over_0_5_ht_away": 0,
-        "over_0_5_ft_away": 0,
-        "clean_sheets_away": 0
+        "update": "2025-09-23T00:00:00+00:00"
       }
     ]
   },
@@ -1243,9 +1243,18 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 4,
         "jogador-assists": 0,
-        "jogador-partidas": 3,
+        "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-khaleej-saihat.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/joshua-christian-kojo-king.png"
+      },
+      {
+        "jogador-nome": "Musa Barrow",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 3,
+        "jogador-assists": 2,
+        "jogador-partidas": 4,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-taawon-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/musa-barrow.png"
       },
       {
         "jogador-nome": "Malcom Filipe Silva de Oliveira",
@@ -1264,6 +1273,15 @@
         "jogador-partidas": 3,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-ittihad-fc-jeddah.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/steven-bergwijn.png"
+      },
+      {
+        "jogador-nome": "Yannick Ferreira Carrasco",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 3,
+        "jogador-assists": 0,
+        "jogador-partidas": 4,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-shabab-fc-riyadh.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/yannick-ferreira-carrasco.png"
       },
       {
         "jogador-nome": "Mateo Retegui",
@@ -1311,31 +1329,40 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/kingsley-coman.png"
       },
       {
-        "jogador-nome": "Musa Barrow",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 2,
-        "jogador-assists": 2,
-        "jogador-partidas": 3,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-taawon-fc.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/musa-barrow.png"
-      },
-      {
-        "jogador-nome": "Yannick Ferreira Carrasco",
-        "jogador-posicao": "Forward",
+        "jogador-nome": "Theo Bernard François Hernández",
+        "jogador-posicao": "Defender",
         "jogador-gols": 2,
         "jogador-assists": 0,
         "jogador-partidas": 3,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-shabab-fc-riyadh.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/yannick-ferreira-carrasco.png"
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-hilal-fc-riyadh.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/theo-bernard-françois-hernández.png"
       },
       {
         "jogador-nome": "Roger Beyker Martínez Tobinson",
         "jogador-posicao": "Forward",
         "jogador-gols": 2,
         "jogador-assists": 0,
-        "jogador-partidas": 3,
+        "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-taawon-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/roger-beyker-martínez-tobinson.png"
+      },
+      {
+        "jogador-nome": "Ramiro Enrique Paz",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 2,
+        "jogador-assists": 0,
+        "jogador-partidas": 3,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-kholood-club.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/ramiro-enrique-paz.png"
+      },
+      {
+        "jogador-nome": "Marcos Leonardo Santos Almeida",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 2,
+        "jogador-assists": 0,
+        "jogador-partidas": 1,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-hilal-fc-riyadh.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/marcos-leonardo-santos-almeida.png"
       },
       {
         "jogador-nome": "Mamadou Sylla Diallo",
@@ -1369,7 +1396,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 2,
         "jogador-assists": 0,
-        "jogador-partidas": 3,
+        "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-kholood-club.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/john-buckley.png"
       },
@@ -1381,33 +1408,6 @@
         "jogador-partidas": 3,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-neom-sc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/alexandre-lacazette.png"
-      },
-      {
-        "jogador-nome": "Konstantinos Fortounis",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 1,
-        "jogador-assists": 3,
-        "jogador-partidas": 3,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-khaleej-saihat.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/konstantinos-fortounis.png"
-      },
-      {
-        "jogador-nome": "Valentín Vada",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 1,
-        "jogador-assists": 2,
-        "jogador-partidas": 3,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-dhamk-club.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/valentín-vada.png"
-      },
-      {
-        "jogador-nome": "Sofiane Bendebka",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 1,
-        "jogador-assists": 1,
-        "jogador-partidas": 3,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-fateh-sc.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/sofiane-bendebka.png"
       }
     ]
   }
