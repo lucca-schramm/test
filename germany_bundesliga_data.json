@@ -11,9 +11,6 @@
         "points": 12,
         "goalsDiff": 15,
         "group": "Germany Bundesliga 2025",
-        "form": "WWWW",
-        "form_home": "WW",
-        "form_visitor": "WW",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
@@ -25,6 +22,7 @@
             "for": 18,
             "against": 3
           },
+          "form": "WWWW",
           "btts_matches": 2,
           "btts_home_matches": 0,
           "avg_corners_per_game": 5.0,
@@ -43,6 +41,7 @@
             "for": 11,
             "against": 0
           },
+          "form_home": "WW",
           "avg_corners_home_per_game": 5.0,
           "aproveitamento_home": 100.0,
           "over_2_5_goals_home": 2,
@@ -59,6 +58,7 @@
             "for": 7,
             "against": 3
           },
+          "form_visitor": "WW",
           "btts_away_matches": 2,
           "avg_corners_away_per_game": 5.0,
           "aproveitamento_away": 100.0,
@@ -79,9 +79,6 @@
         "points": 10,
         "goalsDiff": 6,
         "group": "Germany Bundesliga 2025",
-        "form": "DWWW",
-        "form_home": "WW",
-        "form_visitor": "DW",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
@@ -93,6 +90,7 @@
             "for": 9,
             "against": 3
           },
+          "form": "DWWW",
           "btts_matches": 1,
           "btts_home_matches": 0,
           "avg_corners_per_game": 4.75,
@@ -111,6 +109,7 @@
             "for": 4,
             "against": 0
           },
+          "form_home": "WW",
           "avg_corners_home_per_game": 6.5,
           "aproveitamento_home": 100.0,
           "over_2_5_goals_home": 1,
@@ -127,6 +126,7 @@
             "for": 5,
             "against": 3
           },
+          "form_visitor": "DW",
           "btts_away_matches": 1,
           "avg_corners_away_per_game": 3.0,
           "aproveitamento_away": 66.7,
@@ -147,9 +147,6 @@
         "points": 9,
         "goalsDiff": -1,
         "group": "Germany Bundesliga 2025",
-        "form": "LWWW",
-        "form_home": "WW",
-        "form_visitor": "LW",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
@@ -161,6 +158,7 @@
             "for": 6,
             "against": 7
           },
+          "form": "LWWW",
           "btts_matches": 1,
           "btts_home_matches": 1,
           "avg_corners_per_game": 5.75,
@@ -179,6 +177,7 @@
             "for": 5,
             "against": 1
           },
+          "form_home": "WW",
           "avg_corners_home_per_game": 6.5,
           "aproveitamento_home": 100.0,
           "over_2_5_goals_home": 1,
@@ -195,6 +194,7 @@
             "for": 1,
             "against": 6
           },
+          "form_visitor": "LW",
           "btts_away_matches": 0,
           "avg_corners_away_per_game": 5.0,
           "aproveitamento_away": 50.0,
@@ -215,9 +215,6 @@
         "points": 7,
         "goalsDiff": 2,
         "group": "Germany Bundesliga 2025",
-        "form": "WWDL",
-        "form_home": "W",
-        "form_visitor": "WDL",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
@@ -229,6 +226,7 @@
             "for": 9,
             "against": 7
           },
+          "form": "WWDL",
           "btts_matches": 3,
           "btts_home_matches": 1,
           "avg_corners_per_game": 3.75,
@@ -247,6 +245,7 @@
             "for": 4,
             "against": 1
           },
+          "form_home": "W",
           "avg_corners_home_per_game": 3.0,
           "aproveitamento_home": 100.0,
           "over_2_5_goals_home": 1,
@@ -263,6 +262,7 @@
             "for": 5,
             "against": 6
           },
+          "form_visitor": "WDL",
           "btts_away_matches": 2,
           "avg_corners_away_per_game": 4.0,
           "aproveitamento_away": 44.4,
@@ -283,9 +283,6 @@
         "points": 7,
         "goalsDiff": 1,
         "group": "Germany Bundesliga 2025",
-        "form": "DWWL",
-        "form_home": "DW",
-        "form_visitor": "WL",
         "status": "same",
         "description": "Copa Sul-Americana",
         "all": {
@@ -297,6 +294,7 @@
             "for": 7,
             "against": 6
           },
+          "form": "DWWL",
           "btts_matches": 2,
           "btts_home_matches": 2,
           "avg_corners_per_game": 4.25,
@@ -315,6 +313,7 @@
             "for": 5,
             "against": 4
           },
+          "form_home": "DW",
           "avg_corners_home_per_game": 4.0,
           "aproveitamento_home": 66.7,
           "over_2_5_goals_home": 2,
@@ -331,6 +330,7 @@
             "for": 2,
             "against": 2
           },
+          "form_visitor": "WL",
           "btts_away_matches": 0,
           "avg_corners_away_per_game": 4.5,
           "aproveitamento_away": 50.0,
@@ -351,9 +351,6 @@
         "points": 6,
         "goalsDiff": 2,
         "group": "Germany Bundesliga 2025",
-        "form": "WWLL",
-        "form_home": "WL",
-        "form_visitor": "WL",
         "status": "same",
         "description": "Copa Sul-Americana",
         "all": {
@@ -365,6 +362,7 @@
             "for": 11,
             "against": 9
           },
+          "form": "WWLL",
           "btts_matches": 4,
           "btts_home_matches": 2,
           "avg_corners_per_game": 6.25,
@@ -383,6 +381,7 @@
             "for": 7,
             "against": 5
           },
+          "form_home": "WL",
           "avg_corners_home_per_game": 6.0,
           "aproveitamento_home": 50.0,
           "over_2_5_goals_home": 2,
@@ -399,6 +398,7 @@
             "for": 4,
             "against": 4
           },
+          "form_visitor": "WL",
           "btts_away_matches": 2,
           "avg_corners_away_per_game": 6.5,
           "aproveitamento_away": 50.0,
@@ -419,9 +419,6 @@
         "points": 6,
         "goalsDiff": 0,
         "group": "Germany Bundesliga 2025",
-        "form": "LLWW",
-        "form_home": "LW",
-        "form_visitor": "LW",
         "status": "same",
         "description": "",
         "all": {
@@ -433,6 +430,7 @@
             "for": 8,
             "against": 8
           },
+          "form": "LLWW",
           "btts_matches": 3,
           "btts_home_matches": 2,
           "avg_corners_per_game": 4.25,
@@ -451,6 +449,7 @@
             "for": 4,
             "against": 4
           },
+          "form_home": "LW",
           "avg_corners_home_per_game": 6.0,
           "aproveitamento_home": 50.0,
           "over_2_5_goals_home": 2,
@@ -467,6 +466,7 @@
             "for": 4,
             "against": 4
           },
+          "form_visitor": "LW",
           "btts_away_matches": 1,
           "avg_corners_away_per_game": 2.5,
           "aproveitamento_away": 50.0,
@@ -487,9 +487,6 @@
         "points": 6,
         "goalsDiff": 0,
         "group": "Germany Bundesliga 2025",
-        "form": "LWLW",
-        "form_home": "WW",
-        "form_visitor": "LL",
         "status": "same",
         "description": "",
         "all": {
@@ -501,6 +498,7 @@
             "for": 5,
             "against": 5
           },
+          "form": "LWLW",
           "btts_matches": 2,
           "btts_home_matches": 0,
           "avg_corners_per_game": 6.5,
@@ -519,6 +517,7 @@
             "for": 3,
             "against": 0
           },
+          "form_home": "WW",
           "avg_corners_home_per_game": 7.0,
           "aproveitamento_home": 100.0,
           "over_2_5_goals_home": 0,
@@ -535,6 +534,7 @@
             "for": 2,
             "against": 5
           },
+          "form_visitor": "LL",
           "btts_away_matches": 2,
           "avg_corners_away_per_game": 6.0,
           "aproveitamento_away": 0.0,
@@ -555,9 +555,6 @@
         "points": 6,
         "goalsDiff": -2,
         "group": "Germany Bundesliga 2025",
-        "form": "WLWL",
-        "form_home": "LL",
-        "form_visitor": "WW",
         "status": "same",
         "description": "",
         "all": {
@@ -569,6 +566,7 @@
             "for": 8,
             "against": 10
           },
+          "form": "WLWL",
           "btts_matches": 4,
           "btts_home_matches": 2,
           "avg_corners_per_game": 3.75,
@@ -587,6 +585,7 @@
             "for": 2,
             "against": 7
           },
+          "form_home": "LL",
           "avg_corners_home_per_game": 4.5,
           "aproveitamento_home": 0.0,
           "over_2_5_goals_home": 2,
@@ -603,6 +602,7 @@
             "for": 6,
             "against": 3
           },
+          "form_visitor": "WW",
           "btts_away_matches": 2,
           "avg_corners_away_per_game": 3.0,
           "aproveitamento_away": 100.0,
@@ -623,9 +623,6 @@
         "points": 6,
         "goalsDiff": -3,
         "group": "Germany Bundesliga 2025",
-        "form": "WLLW",
-        "form_home": "WL",
-        "form_visitor": "LW",
         "status": "same",
         "description": "",
         "all": {
@@ -637,6 +634,7 @@
             "for": 8,
             "against": 11
           },
+          "form": "WLLW",
           "btts_matches": 3,
           "btts_home_matches": 2,
           "avg_corners_per_game": 5.25,
@@ -655,6 +653,7 @@
             "for": 4,
             "against": 5
           },
+          "form_home": "WL",
           "avg_corners_home_per_game": 7.0,
           "aproveitamento_home": 50.0,
           "over_2_5_goals_home": 2,
@@ -671,6 +670,7 @@
             "for": 4,
             "against": 6
           },
+          "form_visitor": "LW",
           "btts_away_matches": 1,
           "avg_corners_away_per_game": 3.5,
           "aproveitamento_away": 50.0,
@@ -691,9 +691,6 @@
         "points": 5,
         "goalsDiff": 1,
         "group": "Germany Bundesliga 2025",
-        "form": "LDWD",
-        "form_home": "LWD",
-        "form_visitor": "D",
         "status": "same",
         "description": "",
         "all": {
@@ -705,6 +702,7 @@
             "for": 8,
             "against": 7
           },
+          "form": "LDWD",
           "btts_matches": 4,
           "btts_home_matches": 3,
           "avg_corners_per_game": 5.0,
@@ -723,6 +721,7 @@
             "for": 5,
             "against": 4
           },
+          "form_home": "LWD",
           "avg_corners_home_per_game": 4.33,
           "aproveitamento_home": 44.4,
           "over_2_5_goals_home": 2,
@@ -739,6 +738,7 @@
             "for": 3,
             "against": 3
           },
+          "form_visitor": "D",
           "btts_away_matches": 1,
           "avg_corners_away_per_game": 7.0,
           "aproveitamento_away": 33.3,
@@ -759,9 +759,6 @@
         "points": 5,
         "goalsDiff": 1,
         "group": "Germany Bundesliga 2025",
-        "form": "WDDL",
-        "form_home": "DD",
-        "form_visitor": "WL",
         "status": "same",
         "description": "",
         "all": {
@@ -773,6 +770,7 @@
             "for": 7,
             "against": 6
           },
+          "form": "WDDL",
           "btts_matches": 3,
           "btts_home_matches": 2,
           "avg_corners_per_game": 4.5,
@@ -791,6 +789,7 @@
             "for": 4,
             "against": 4
           },
+          "form_home": "DD",
           "avg_corners_home_per_game": 5.0,
           "aproveitamento_home": 33.3,
           "over_2_5_goals_home": 1,
@@ -807,6 +806,7 @@
             "for": 3,
             "against": 2
           },
+          "form_visitor": "WL",
           "btts_away_matches": 1,
           "avg_corners_away_per_game": 4.0,
           "aproveitamento_away": 50.0,
@@ -827,9 +827,6 @@
         "points": 4,
         "goalsDiff": 1,
         "group": "Germany Bundesliga 2025",
-        "form": "LDLW",
-        "form_home": "LL",
-        "form_visitor": "DW",
         "status": "same",
         "description": "",
         "all": {
@@ -841,6 +838,7 @@
             "for": 5,
             "against": 4
           },
+          "form": "LDLW",
           "btts_matches": 2,
           "btts_home_matches": 0,
           "avg_corners_per_game": 6.75,
@@ -859,6 +857,7 @@
             "for": 0,
             "against": 2
           },
+          "form_home": "LL",
           "avg_corners_home_per_game": 5.5,
           "aproveitamento_home": 0.0,
           "over_2_5_goals_home": 0,
@@ -875,6 +874,7 @@
             "for": 5,
             "against": 2
           },
+          "form_visitor": "DW",
           "btts_away_matches": 2,
           "avg_corners_away_per_game": 8.0,
           "aproveitamento_away": 66.7,
@@ -895,9 +895,6 @@
         "points": 4,
         "goalsDiff": -2,
         "group": "Germany Bundesliga 2025",
-        "form": "LDWL",
-        "form_home": "DL",
-        "form_visitor": "LW",
         "status": "same",
         "description": "",
         "all": {
@@ -909,6 +906,7 @@
             "for": 8,
             "against": 10
           },
+          "form": "LDWL",
           "btts_matches": 2,
           "btts_home_matches": 1,
           "avg_corners_per_game": 2.5,
@@ -927,6 +925,7 @@
             "for": 3,
             "against": 6
           },
+          "form_home": "DL",
           "avg_corners_home_per_game": 2.5,
           "aproveitamento_home": 16.7,
           "over_2_5_goals_home": 2,
@@ -943,6 +942,7 @@
             "for": 5,
             "against": 4
           },
+          "form_visitor": "LW",
           "btts_away_matches": 1,
           "avg_corners_away_per_game": 2.5,
           "aproveitamento_away": 50.0,
@@ -963,9 +963,6 @@
         "points": 4,
         "goalsDiff": -6,
         "group": "Germany Bundesliga 2025",
-        "form": "DLLW",
-        "form_home": "LW",
-        "form_visitor": "DL",
         "status": "same",
         "description": "",
         "all": {
@@ -977,6 +974,7 @@
             "for": 2,
             "against": 8
           },
+          "form": "DLLW",
           "btts_matches": 1,
           "btts_home_matches": 1,
           "avg_corners_per_game": 3.0,
@@ -995,6 +993,7 @@
             "for": 2,
             "against": 3
           },
+          "form_home": "LW",
           "avg_corners_home_per_game": 1.5,
           "aproveitamento_home": 50.0,
           "over_2_5_goals_home": 1,
@@ -1011,6 +1010,7 @@
             "for": 0,
             "against": 5
           },
+          "form_visitor": "DL",
           "btts_away_matches": 0,
           "avg_corners_away_per_game": 4.5,
           "aproveitamento_away": 16.7,
@@ -1031,9 +1031,6 @@
         "points": 3,
         "goalsDiff": -3,
         "group": "Germany Bundesliga 2025",
-        "form": "WLLL",
-        "form_home": "LL",
-        "form_visitor": "WL",
         "status": "same",
         "description": "",
         "all": {
@@ -1045,6 +1042,7 @@
             "for": 7,
             "against": 10
           },
+          "form": "WLLL",
           "btts_matches": 4,
           "btts_home_matches": 2,
           "avg_corners_per_game": 4.75,
@@ -1063,6 +1061,7 @@
             "for": 3,
             "against": 7
           },
+          "form_home": "LL",
           "avg_corners_home_per_game": 6.5,
           "aproveitamento_home": 0.0,
           "over_2_5_goals_home": 2,
@@ -1079,6 +1078,7 @@
             "for": 4,
             "against": 3
           },
+          "form_visitor": "WL",
           "btts_away_matches": 2,
           "avg_corners_away_per_game": 3.0,
           "aproveitamento_away": 50.0,
@@ -1099,9 +1099,6 @@
         "points": 2,
         "goalsDiff": -5,
         "group": "Germany Bundesliga 2025",
-        "form": "DLLD",
-        "form_home": "DL",
-        "form_visitor": "LD",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
@@ -1113,6 +1110,7 @@
             "for": 1,
             "against": 6
           },
+          "form": "DLLD",
           "btts_matches": 1,
           "btts_home_matches": 0,
           "avg_corners_per_game": 7.5,
@@ -1131,6 +1129,7 @@
             "for": 0,
             "against": 4
           },
+          "form_home": "DL",
           "avg_corners_home_per_game": 8.0,
           "aproveitamento_home": 16.7,
           "over_2_5_goals_home": 1,
@@ -1147,6 +1146,7 @@
             "for": 1,
             "against": 2
           },
+          "form_visitor": "LD",
           "btts_away_matches": 1,
           "avg_corners_away_per_game": 7.0,
           "aproveitamento_away": 16.7,
@@ -1167,9 +1167,6 @@
         "points": 0,
         "goalsDiff": -7,
         "group": "Germany Bundesliga 2025",
-        "form": "LLLL",
-        "form_home": "LL",
-        "form_visitor": "LL",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
@@ -1181,6 +1178,7 @@
             "for": 2,
             "against": 9
           },
+          "form": "LLLL",
           "btts_matches": 2,
           "btts_home_matches": 1,
           "avg_corners_per_game": 5.5,
@@ -1199,6 +1197,7 @@
             "for": 1,
             "against": 5
           },
+          "form_home": "LL",
           "avg_corners_home_per_game": 3.5,
           "aproveitamento_home": 0.0,
           "over_2_5_goals_home": 1,
@@ -1215,6 +1214,7 @@
             "for": 1,
             "against": 4
           },
+          "form_visitor": "LL",
           "btts_away_matches": 1,
           "avg_corners_away_per_game": 7.5,
           "aproveitamento_away": 0.0,
@@ -1236,7 +1236,7 @@
         "jogador-assists": 3,
         "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-fc-bayern-munchen.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/harry-edward-kane.png"
+        "jogador-foto": "https://cdn.footystats.org/img/players/england-harry-edward-kane.png"
       },
       {
         "jogador-nome": "Can Yılmaz Uzun",
@@ -1245,7 +1245,7 @@
         "jogador-assists": 2,
         "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-eintracht-frankfurt.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/can-yılmaz-uzun.png"
+        "jogador-foto": "https://cdn.footystats.org/img/players/-can-yılmaz-uzun.png"
       },
       {
         "jogador-nome": "Sehrou Guirassy",
@@ -1254,7 +1254,7 @@
         "jogador-assists": 0,
         "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-bvb-09-borussia-dortmund.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/sehrou-guirassy.png"
+        "jogador-foto": "https://cdn.footystats.org/img/players/france-sehrou-guirassy.png"
       },
       {
         "jogador-nome": "Ilyas Ansah",
@@ -1263,7 +1263,7 @@
         "jogador-assists": 0,
         "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-1-fc-union-berlin.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/ilyas-ansah.png"
+        "jogador-foto": "https://cdn.footystats.org/img/players/-ilyas-ansah.png"
       },
       {
         "jogador-nome": "Serge Gnabry",
@@ -1272,7 +1272,7 @@
         "jogador-assists": 2,
         "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-fc-bayern-munchen.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/serge-gnabry.png"
+        "jogador-foto": "https://cdn.footystats.org/img/players/germany-serge-gnabry.png"
       },
       {
         "jogador-nome": "Luis Fernando Díaz Marulanda",
@@ -1281,7 +1281,7 @@
         "jogador-assists": 2,
         "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-fc-bayern-munchen.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/luis-fernando-díaz-marulanda.png"
+        "jogador-foto": "https://cdn.footystats.org/img/players/colombia-luis-fernando-díaz-marulanda.png"
       },
       {
         "jogador-nome": "Patrik Schick",
@@ -1290,7 +1290,7 @@
         "jogador-assists": 1,
         "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-bayer-04-leverkusen.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/patrik-schick.png"
+        "jogador-foto": "https://cdn.footystats.org/img/players/czech-republic-patrik-schick.png"
       },
       {
         "jogador-nome": "Michael Akpovie Olise",
@@ -1299,7 +1299,7 @@
         "jogador-assists": 1,
         "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-fc-bayern-munchen.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/michael-akpovie-olise.png"
+        "jogador-foto": "https://cdn.footystats.org/img/players/france-michael-akpovie-olise.png"
       },
       {
         "jogador-nome": "Fisnik Asllani",
@@ -1308,7 +1308,7 @@
         "jogador-assists": 1,
         "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-tsg-1899-hoffenheim.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/fisnik-asllani.png"
+        "jogador-foto": "https://cdn.footystats.org/img/players/kosovo-fisnik-asllani.png"
       },
       {
         "jogador-nome": "Oliver Burke",
@@ -1317,7 +1317,7 @@
         "jogador-assists": 0,
         "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-1-fc-union-berlin.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/oliver-burke.png"
+        "jogador-foto": "https://cdn.footystats.org/img/players/scotland-oliver-burke.png"
       },
       {
         "jogador-nome": "Andreas Hountondji",
@@ -1326,7 +1326,7 @@
         "jogador-assists": 0,
         "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-fc-st-pauli.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/andreas-hountondji.png"
+        "jogador-foto": "https://cdn.footystats.org/img/players/-andreas-hountondji.png"
       },
       {
         "jogador-nome": "Marius Bülter",
@@ -1335,7 +1335,7 @@
         "jogador-assists": 2,
         "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-1-fc-koln.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/marius-bülter.png"
+        "jogador-foto": "https://cdn.footystats.org/img/players/germany-marius-bülter.png"
       },
       {
         "jogador-nome": "Vincenzo Grifo",
@@ -1344,7 +1344,7 @@
         "jogador-assists": 1,
         "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-sc-freiburg.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/vincenzo-grifo.png"
+        "jogador-foto": "https://cdn.footystats.org/img/players/italy-vincenzo-grifo.png"
       },
       {
         "jogador-nome": "Tim Lemperle",
@@ -1353,7 +1353,7 @@
         "jogador-assists": 1,
         "jogador-partidas": 3,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-tsg-1899-hoffenheim.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/tim-lemperle.png"
+        "jogador-foto": "https://cdn.footystats.org/img/players/germany-tim-lemperle.png"
       },
       {
         "jogador-nome": "Rômulo José Cardoso da Cruz",
@@ -1362,7 +1362,7 @@
         "jogador-assists": 1,
         "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-rasen-ballsport-leipzig.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/rômulo-josé-cardoso-da-cruz.png"
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-rômulo-josé-cardoso-da-cruz.png"
       },
       {
         "jogador-nome": "Ritsu Dōan",
@@ -1371,7 +1371,7 @@
         "jogador-assists": 1,
         "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-eintracht-frankfurt.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/ritsu-dōan.png"
+        "jogador-foto": "https://cdn.footystats.org/img/players/japan-ritsu-dōan.png"
       },
       {
         "jogador-nome": "Jean Matteo Bahoya",
@@ -1380,7 +1380,7 @@
         "jogador-assists": 1,
         "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-eintracht-frankfurt.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/jean-matteo-bahoya.png"
+        "jogador-foto": "https://cdn.footystats.org/img/players/-jean-matteo-bahoya.png"
       },
       {
         "jogador-nome": "Jan Thielmann",
@@ -1389,7 +1389,7 @@
         "jogador-assists": 1,
         "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-1-fc-koln.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/jan-thielmann.png"
+        "jogador-foto": "https://cdn.footystats.org/img/players/germany-jan-thielmann.png"
       },
       {
         "jogador-nome": "Ermedin Demirović",
@@ -1398,7 +1398,7 @@
         "jogador-assists": 1,
         "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-vfb-stuttgart-1893.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/ermedin-demirović.png"
+        "jogador-foto": "https://cdn.footystats.org/img/players/bosnia-and-herzegovina-ermedin-demirović.png"
       },
       {
         "jogador-nome": "Danel Sinani",
@@ -1407,7 +1407,7 @@
         "jogador-assists": 1,
         "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-fc-st-pauli.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/danel-sinani.png"
+        "jogador-foto": "https://cdn.footystats.org/img/players/luxembourg-danel-sinani.png"
       }
     ]
   }
