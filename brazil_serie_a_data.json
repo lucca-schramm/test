@@ -1160,6 +1160,74 @@
       {
         "rank": 18,
         "team": {
+          "id": 2601,
+          "name": "Fortaleza EC",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-fortaleza-ec.png"
+        },
+        "points": 21,
+        "goalsDiff": -14,
+        "group": "Brazil Serie A 2025",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 24,
+          "win": 5,
+          "draw": 6,
+          "lose": 13,
+          "goals": {
+            "for": 24,
+            "against": 38
+          },
+          "form": "LLWLW",
+          "btts_matches": 11,
+          "avg_corners_per_game": 6.08,
+          "aproveitamento": 29.2,
+          "over_2_5_goals": 12,
+          "over_0_5_ht": 11,
+          "over_0_5_ft": 7,
+          "clean_sheets": 7
+        },
+        "home": {
+          "played": 13,
+          "win": 5,
+          "draw": 2,
+          "lose": 6,
+          "goals": {
+            "for": 17,
+            "against": 16
+          },
+          "form_home": "WLLWW",
+          "avg_corners_home_per_game": 6.85,
+          "aproveitamento_home": 43.6,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 6,
+          "over_0_5_ft_home": 5,
+          "clean_sheets_home": 5
+        },
+        "away": {
+          "played": 11,
+          "win": 0,
+          "draw": 4,
+          "lose": 7,
+          "goals": {
+            "for": 7,
+            "against": 22
+          },
+          "form_visitor": "LDLLL",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 5.18,
+          "aproveitamento_away": 12.1,
+          "over_2_5_goals_away": 7,
+          "over_0_5_ht_away": 5,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 19,
+        "team": {
           "id": 1053,
           "name": "EC Juventude",
           "logo": "https://cdn.footystats.org/img/teams/brazil-ec-juventude.png"
@@ -1226,74 +1294,6 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 19,
-        "team": {
-          "id": 2601,
-          "name": "Fortaleza EC",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-fortaleza-ec.png"
-        },
-        "points": 18,
-        "goalsDiff": -15,
-        "group": "Brazil Serie A 2025",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 23,
-          "win": 4,
-          "draw": 6,
-          "lose": 13,
-          "goals": {
-            "for": 23,
-            "against": 38
-          },
-          "form": "LLLWL",
-          "btts_matches": 11,
-          "avg_corners_per_game": 6.0,
-          "aproveitamento": 26.1,
-          "over_2_5_goals": 12,
-          "over_0_5_ht": 10,
-          "over_0_5_ft": 7,
-          "clean_sheets": 6
-        },
-        "home": {
-          "played": 12,
-          "win": 4,
-          "draw": 2,
-          "lose": 6,
-          "goals": {
-            "for": 16,
-            "against": 16
-          },
-          "form_home": "DWLLW",
-          "avg_corners_home_per_game": 6.75,
-          "aproveitamento_home": 38.9,
-          "btts_home_matches": 4,
-          "over_2_5_goals_home": 5,
-          "over_0_5_ht_home": 5,
-          "over_0_5_ft_home": 5,
-          "clean_sheets_home": 4
-        },
-        "away": {
-          "played": 11,
-          "win": 0,
-          "draw": 4,
-          "lose": 7,
-          "goals": {
-            "for": 7,
-            "against": 22
-          },
-          "form_visitor": "LDLLL",
-          "btts_away_matches": 7,
-          "avg_corners_away_per_game": 5.18,
-          "aproveitamento_away": 12.1,
-          "over_2_5_goals_away": 7,
-          "over_0_5_ht_away": 5,
-          "over_0_5_ft_away": 2,
-          "clean_sheets_away": 2
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
         "rank": 20,
         "team": {
           "id": 614,
@@ -1301,23 +1301,23 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-sc-do-recife.png"
         },
         "points": 14,
-        "goalsDiff": -18,
+        "goalsDiff": -19,
         "group": "Brazil Serie A 2025",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 22,
+          "played": 23,
           "win": 2,
           "draw": 8,
-          "lose": 12,
+          "lose": 13,
           "goals": {
             "for": 16,
-            "against": 34
+            "against": 35
           },
-          "form": "DLLDW",
+          "form": "LLDWL",
           "btts_matches": 10,
-          "avg_corners_per_game": 6.18,
-          "aproveitamento": 21.2,
+          "avg_corners_per_game": 6.13,
+          "aproveitamento": 20.3,
           "over_2_5_goals": 10,
           "over_0_5_ht": 7,
           "over_0_5_ft": 8,
@@ -1342,18 +1342,18 @@
           "clean_sheets_home": 3
         },
         "away": {
-          "played": 11,
+          "played": 12,
           "win": 1,
           "draw": 3,
-          "lose": 7,
+          "lose": 8,
           "goals": {
             "for": 7,
-            "against": 18
+            "against": 19
           },
-          "form_visitor": "LDWLD",
+          "form_visitor": "DWLDL",
           "btts_away_matches": 5,
-          "avg_corners_away_per_game": 6.09,
-          "aproveitamento_away": 18.2,
+          "avg_corners_away_per_game": 6.0,
+          "aproveitamento_away": 16.7,
           "over_2_5_goals_away": 5,
           "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 4,
