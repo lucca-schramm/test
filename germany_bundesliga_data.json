@@ -208,6 +208,74 @@
       {
         "rank": 4,
         "team": {
+          "id": 44,
+          "name": "Eintracht Frankfurt",
+          "logo": "https://cdn.footystats.org/img/teams/germany-eintracht-frankfurt.png"
+        },
+        "points": 9,
+        "goalsDiff": 4,
+        "group": "Germany Bundesliga 2025",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 5,
+          "win": 3,
+          "draw": 0,
+          "lose": 2,
+          "goals": {
+            "for": 17,
+            "against": 13
+          },
+          "form": "WWLLW",
+          "btts_matches": 5,
+          "avg_corners_per_game": 6.2,
+          "aproveitamento": 60.0,
+          "over_2_5_goals": 5,
+          "over_0_5_ht": 4,
+          "over_0_5_ft": 5,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 2,
+          "win": 1,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 7,
+            "against": 5
+          },
+          "form_home": "WL",
+          "avg_corners_home_per_game": 6.0,
+          "aproveitamento_home": 50.0,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 2,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 3,
+          "win": 2,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 10,
+            "against": 8
+          },
+          "form_visitor": "WLW",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 6.33,
+          "aproveitamento_away": 66.7,
+          "over_2_5_goals_away": 3,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 5,
+        "team": {
           "id": 40,
           "name": "Bayer 04 Leverkusen",
           "logo": "https://cdn.footystats.org/img/teams/germany-bayer-04-leverkusen.png"
@@ -216,7 +284,7 @@
         "goalsDiff": 2,
         "group": "Germany Bundesliga 2025",
         "status": "same",
-        "description": "Copa Libertadores",
+        "description": "Copa Sul-Americana",
         "all": {
           "played": 5,
           "win": 2,
@@ -274,7 +342,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "team": {
           "id": 41,
           "name": "1. FC Köln",
@@ -342,7 +410,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "team": {
           "id": 548,
           "name": "FC St. Pauli",
@@ -352,7 +420,7 @@
         "goalsDiff": 0,
         "group": "Germany Bundesliga 2025",
         "status": "same",
-        "description": "Copa Sul-Americana",
+        "description": "",
         "all": {
           "played": 5,
           "win": 2,
@@ -406,74 +474,6 @@
           "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 1,
           "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 7,
-        "team": {
-          "id": 44,
-          "name": "Eintracht Frankfurt",
-          "logo": "https://cdn.footystats.org/img/teams/germany-eintracht-frankfurt.png"
-        },
-        "points": 6,
-        "goalsDiff": 2,
-        "group": "Germany Bundesliga 2025",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 4,
-          "win": 2,
-          "draw": 0,
-          "lose": 2,
-          "goals": {
-            "for": 11,
-            "against": 9
-          },
-          "form": "WWLL",
-          "btts_matches": 4,
-          "avg_corners_per_game": 6.25,
-          "aproveitamento": 50.0,
-          "over_2_5_goals": 4,
-          "over_0_5_ht": 3,
-          "over_0_5_ft": 4,
-          "clean_sheets": 0
-        },
-        "home": {
-          "played": 2,
-          "win": 1,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 7,
-            "against": 5
-          },
-          "form_home": "WL",
-          "avg_corners_home_per_game": 6.0,
-          "aproveitamento_home": 50.0,
-          "btts_home_matches": 2,
-          "over_2_5_goals_home": 2,
-          "over_0_5_ht_home": 2,
-          "over_0_5_ft_home": 2,
-          "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 2,
-          "win": 1,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 4,
-            "against": 4
-          },
-          "form_visitor": "WL",
-          "btts_away_matches": 2,
-          "avg_corners_away_per_game": 6.5,
-          "aproveitamento_away": 50.0,
-          "over_2_5_goals_away": 2,
-          "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 2,
-          "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1165,44 +1165,44 @@
           "logo": "https://cdn.footystats.org/img/teams/germany-borussia-vfl-monchengladbach.png"
         },
         "points": 2,
-        "goalsDiff": -5,
+        "goalsDiff": -7,
         "group": "Germany Bundesliga 2025",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 4,
+          "played": 5,
           "win": 0,
           "draw": 2,
-          "lose": 2,
+          "lose": 3,
           "goals": {
-            "for": 1,
-            "against": 6
+            "for": 5,
+            "against": 12
           },
-          "form": "DLLD",
-          "btts_matches": 1,
-          "avg_corners_per_game": 7.5,
-          "aproveitamento": 16.7,
-          "over_2_5_goals": 1,
+          "form": "DLLDL",
+          "btts_matches": 2,
+          "avg_corners_per_game": 6.8,
+          "aproveitamento": 13.3,
+          "over_2_5_goals": 2,
           "over_0_5_ht": 0,
-          "over_0_5_ft": 1,
+          "over_0_5_ft": 2,
           "clean_sheets": 1
         },
         "home": {
-          "played": 2,
+          "played": 3,
           "win": 0,
           "draw": 1,
-          "lose": 1,
+          "lose": 2,
           "goals": {
-            "for": 0,
-            "against": 4
+            "for": 4,
+            "against": 10
           },
-          "form_home": "DL",
-          "avg_corners_home_per_game": 8.0,
-          "aproveitamento_home": 16.7,
-          "btts_home_matches": 0,
-          "over_2_5_goals_home": 1,
+          "form_home": "DLL",
+          "avg_corners_home_per_game": 6.67,
+          "aproveitamento_home": 11.1,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 2,
           "over_0_5_ht_home": 0,
-          "over_0_5_ft_home": 0,
+          "over_0_5_ft_home": 1,
           "clean_sheets_home": 1
         },
         "away": {
@@ -1241,9 +1241,9 @@
       {
         "jogador-nome": "Can Yılmaz Uzun",
         "jogador-posicao": "Midfielder",
-        "jogador-gols": 4,
-        "jogador-assists": 2,
-        "jogador-partidas": 4,
+        "jogador-gols": 5,
+        "jogador-assists": 3,
+        "jogador-partidas": 5,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-eintracht-frankfurt.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-can-yılmaz-uzun.png"
       },
@@ -1329,6 +1329,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/-andreas-hountondji.png"
       },
       {
+        "jogador-nome": "Ritsu Dōan",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 2,
+        "jogador-assists": 3,
+        "jogador-partidas": 5,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-eintracht-frankfurt.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/japan-ritsu-doan.png"
+      },
+      {
         "jogador-nome": "Rômulo José Cardoso da Cruz",
         "jogador-posicao": "Forward",
         "jogador-gols": 2,
@@ -1372,15 +1381,6 @@
         "jogador-partidas": 3,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-tsg-1899-hoffenheim.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/germany-tim-lemperle.png"
-      },
-      {
-        "jogador-nome": "Ritsu Dōan",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 2,
-        "jogador-assists": 1,
-        "jogador-partidas": 4,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-eintracht-frankfurt.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/japan-ritsu-doan.png"
       },
       {
         "jogador-nome": "Karim Adeyemi",
