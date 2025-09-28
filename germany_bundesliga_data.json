@@ -688,46 +688,46 @@
           "name": "1. FC Union Berlin",
           "logo": "https://cdn.footystats.org/img/teams/germany-1-fc-union-berlin.png"
         },
-        "points": 6,
+        "points": 7,
         "goalsDiff": -3,
         "group": "Germany Bundesliga 2025",
         "status": "same",
         "description": "",
         "all": {
-          "played": 4,
+          "played": 5,
           "win": 2,
-          "draw": 0,
+          "draw": 1,
           "lose": 2,
           "goals": {
             "for": 8,
             "against": 11
           },
-          "form": "WLLW",
+          "form": "WLLWD",
           "btts_matches": 3,
-          "avg_corners_per_game": 5.25,
-          "aproveitamento": 50.0,
+          "avg_corners_per_game": 5.2,
+          "aproveitamento": 46.7,
           "over_2_5_goals": 4,
           "over_0_5_ht": 2,
           "over_0_5_ft": 2,
-          "clean_sheets": 0
+          "clean_sheets": 1
         },
         "home": {
-          "played": 2,
+          "played": 3,
           "win": 1,
-          "draw": 0,
+          "draw": 1,
           "lose": 1,
           "goals": {
             "for": 4,
             "against": 5
           },
-          "form_home": "WL",
-          "avg_corners_home_per_game": 7.0,
-          "aproveitamento_home": 50.0,
+          "form_home": "WLD",
+          "avg_corners_home_per_game": 6.33,
+          "aproveitamento_home": 44.4,
           "btts_home_matches": 2,
           "over_2_5_goals_home": 2,
           "over_0_5_ht_home": 1,
           "over_0_5_ft_home": 1,
-          "clean_sheets_home": 0
+          "clean_sheets_home": 1
         },
         "away": {
           "played": 2,
@@ -820,6 +820,74 @@
       {
         "rank": 13,
         "team": {
+          "id": 36,
+          "name": "Hamburger SV",
+          "logo": "https://cdn.footystats.org/img/teams/germany-hamburger-sv.png"
+        },
+        "points": 5,
+        "goalsDiff": -6,
+        "group": "Germany Bundesliga 2025",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 5,
+          "win": 1,
+          "draw": 2,
+          "lose": 2,
+          "goals": {
+            "for": 2,
+            "against": 8
+          },
+          "form": "DLLWD",
+          "btts_matches": 1,
+          "avg_corners_per_game": 3.0,
+          "aproveitamento": 33.3,
+          "over_2_5_goals": 2,
+          "over_0_5_ht": 1,
+          "over_0_5_ft": 1,
+          "clean_sheets": 2
+        },
+        "home": {
+          "played": 2,
+          "win": 1,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 2,
+            "against": 3
+          },
+          "form_home": "LW",
+          "avg_corners_home_per_game": 1.5,
+          "aproveitamento_home": 50.0,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 3,
+          "win": 0,
+          "draw": 2,
+          "lose": 1,
+          "goals": {
+            "for": 0,
+            "against": 5
+          },
+          "form_visitor": "DLD",
+          "btts_away_matches": 0,
+          "avg_corners_away_per_game": 4.0,
+          "aproveitamento_away": 22.2,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 14,
+        "team": {
           "id": 34,
           "name": "1. FSV Mainz 05",
           "logo": "https://cdn.footystats.org/img/teams/germany-1-fsv-mainz-05.png"
@@ -886,75 +954,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 14,
-        "team": {
-          "id": 36,
-          "name": "Hamburger SV",
-          "logo": "https://cdn.footystats.org/img/teams/germany-hamburger-sv.png"
-        },
-        "points": 4,
-        "goalsDiff": -6,
-        "group": "Germany Bundesliga 2025",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 4,
-          "win": 1,
-          "draw": 1,
-          "lose": 2,
-          "goals": {
-            "for": 2,
-            "against": 8
-          },
-          "form": "DLLW",
-          "btts_matches": 1,
-          "avg_corners_per_game": 3.0,
-          "aproveitamento": 33.3,
-          "over_2_5_goals": 2,
-          "over_0_5_ht": 1,
-          "over_0_5_ft": 1,
-          "clean_sheets": 1
-        },
-        "home": {
-          "played": 2,
-          "win": 1,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 2,
-            "against": 3
-          },
-          "form_home": "LW",
-          "avg_corners_home_per_game": 1.5,
-          "aproveitamento_home": 50.0,
-          "btts_home_matches": 1,
-          "over_2_5_goals_home": 1,
-          "over_0_5_ht_home": 1,
-          "over_0_5_ft_home": 1,
-          "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 2,
-          "win": 0,
-          "draw": 1,
-          "lose": 1,
-          "goals": {
-            "for": 0,
-            "against": 5
-          },
-          "form_visitor": "DL",
-          "btts_away_matches": 0,
-          "avg_corners_away_per_game": 4.5,
-          "aproveitamento_away": 16.7,
-          "over_2_5_goals_away": 1,
-          "over_0_5_ht_away": 0,
-          "over_0_5_ft_away": 0,
-          "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 14,
+        "rank": 15,
         "team": {
           "id": 37,
           "name": "SV Werder Bremen",
@@ -1270,7 +1270,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 4,
         "jogador-assists": 0,
-        "jogador-partidas": 4,
+        "jogador-partidas": 5,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-1-fc-union-berlin.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-ilyas-ansah.png"
       },
@@ -1324,7 +1324,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 3,
         "jogador-assists": 0,
-        "jogador-partidas": 4,
+        "jogador-partidas": 5,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-1-fc-union-berlin.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/scotland-oliver-burke.png"
       },
