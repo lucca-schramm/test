@@ -213,23 +213,23 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-mirassol-futebol-clube.png"
         },
         "points": 42,
-        "goalsDiff": 18,
+        "goalsDiff": 17,
         "group": "Brazil Serie A 2025",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 23,
+          "played": 24,
           "win": 11,
           "draw": 9,
-          "lose": 3,
+          "lose": 4,
           "goals": {
             "for": 41,
-            "against": 23
+            "against": 24
           },
-          "form": "WWWDW",
+          "form": "WWDWL",
           "btts_matches": 15,
-          "avg_corners_per_game": 4.87,
-          "aproveitamento": 60.9,
+          "avg_corners_per_game": 5.12,
+          "aproveitamento": 58.3,
           "over_2_5_goals": 10,
           "over_0_5_ht": 13,
           "over_0_5_ft": 13,
@@ -254,18 +254,18 @@
           "clean_sheets_home": 3
         },
         "away": {
-          "played": 12,
+          "played": 13,
           "win": 4,
           "draw": 5,
-          "lose": 3,
+          "lose": 4,
           "goals": {
             "for": 16,
-            "against": 13
+            "against": 14
           },
-          "form_visitor": "WLWWD",
+          "form_visitor": "LWWDL",
           "btts_away_matches": 7,
-          "avg_corners_away_per_game": 4.25,
-          "aproveitamento_away": 47.2,
+          "avg_corners_away_per_game": 4.77,
+          "aproveitamento_away": 43.6,
           "over_2_5_goals_away": 4,
           "over_0_5_ht_away": 7,
           "over_0_5_ft_away": 5,
@@ -888,6 +888,74 @@
       {
         "rank": 14,
         "team": {
+          "id": 620,
+          "name": "CA Mineiro",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-ca-mineiro.png"
+        },
+        "points": 28,
+        "goalsDiff": -4,
+        "group": "Brazil Serie A 2025",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 23,
+          "win": 7,
+          "draw": 7,
+          "lose": 9,
+          "goals": {
+            "for": 22,
+            "against": 26
+          },
+          "form": "LLDLW",
+          "btts_matches": 10,
+          "avg_corners_per_game": 6.48,
+          "aproveitamento": 40.6,
+          "over_2_5_goals": 8,
+          "over_0_5_ht": 7,
+          "over_0_5_ft": 11,
+          "clean_sheets": 8
+        },
+        "home": {
+          "played": 10,
+          "win": 5,
+          "draw": 4,
+          "lose": 1,
+          "goals": {
+            "for": 13,
+            "against": 9
+          },
+          "form_home": "WWLDW",
+          "avg_corners_home_per_game": 7.7,
+          "aproveitamento_home": 63.3,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 6,
+          "clean_sheets_home": 5
+        },
+        "away": {
+          "played": 13,
+          "win": 2,
+          "draw": 3,
+          "lose": 8,
+          "goals": {
+            "for": 9,
+            "against": 17
+          },
+          "form_visitor": "LDLLL",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 5.54,
+          "aproveitamento_away": 23.1,
+          "over_2_5_goals_away": 4,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 5,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 15,
+        "team": {
           "id": 630,
           "name": "SC Internacional",
           "logo": "https://cdn.footystats.org/img/teams/brazil-sc-internacional.png"
@@ -954,7 +1022,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 15,
+        "rank": 16,
         "team": {
           "id": 611,
           "name": "Santos FC Sao Paulo",
@@ -1018,74 +1086,6 @@
           "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 4,
           "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 16,
-        "team": {
-          "id": 620,
-          "name": "CA Mineiro",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-ca-mineiro.png"
-        },
-        "points": 25,
-        "goalsDiff": -5,
-        "group": "Brazil Serie A 2025",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 22,
-          "win": 6,
-          "draw": 7,
-          "lose": 9,
-          "goals": {
-            "for": 21,
-            "against": 26
-          },
-          "form": "LLLDL",
-          "btts_matches": 10,
-          "avg_corners_per_game": 6.59,
-          "aproveitamento": 37.9,
-          "over_2_5_goals": 8,
-          "over_0_5_ht": 6,
-          "over_0_5_ft": 11,
-          "clean_sheets": 7
-        },
-        "home": {
-          "played": 9,
-          "win": 4,
-          "draw": 4,
-          "lose": 1,
-          "goals": {
-            "for": 12,
-            "against": 9
-          },
-          "form_home": "DWWLD",
-          "avg_corners_home_per_game": 8.11,
-          "aproveitamento_home": 59.3,
-          "btts_home_matches": 5,
-          "over_2_5_goals_home": 4,
-          "over_0_5_ht_home": 3,
-          "over_0_5_ft_home": 6,
-          "clean_sheets_home": 4
-        },
-        "away": {
-          "played": 13,
-          "win": 2,
-          "draw": 3,
-          "lose": 8,
-          "goals": {
-            "for": 9,
-            "against": 17
-          },
-          "form_visitor": "LDLLL",
-          "btts_away_matches": 5,
-          "avg_corners_away_per_game": 5.54,
-          "aproveitamento_away": 23.1,
-          "over_2_5_goals_away": 4,
-          "over_0_5_ht_away": 3,
-          "over_0_5_ft_away": 5,
-          "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1424,7 +1424,7 @@
         "jogador-posicao": "Defender",
         "jogador-gols": 8,
         "jogador-assists": 3,
-        "jogador-partidas": 22,
+        "jogador-partidas": 23,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-mirassol-futebol-clube.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-reinaldo-manoel-da-silva.png"
       },
