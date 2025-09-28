@@ -276,6 +276,74 @@
       {
         "rank": 5,
         "team": {
+          "id": 2594,
+          "name": "Clube do Remo",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-clube-do-remo.png"
+        },
+        "points": 42,
+        "goalsDiff": 5,
+        "group": "Brazil Serie B 2025",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 29,
+          "win": 10,
+          "draw": 12,
+          "lose": 7,
+          "goals": {
+            "for": 33,
+            "against": 28
+          },
+          "form": "WDLLW",
+          "btts_matches": 17,
+          "avg_corners_per_game": 4.38,
+          "aproveitamento": 48.3,
+          "over_2_5_goals": 8,
+          "over_0_5_ht": 15,
+          "over_0_5_ft": 12,
+          "clean_sheets": 7
+        },
+        "home": {
+          "played": 15,
+          "win": 7,
+          "draw": 4,
+          "lose": 4,
+          "goals": {
+            "for": 17,
+            "against": 12
+          },
+          "form_home": "LDLLW",
+          "avg_corners_home_per_game": 4.4,
+          "aproveitamento_home": 55.6,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 9,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 5
+        },
+        "away": {
+          "played": 14,
+          "win": 3,
+          "draw": 8,
+          "lose": 3,
+          "goals": {
+            "for": 16,
+            "against": 16
+          },
+          "form_visitor": "WDWDL",
+          "btts_away_matches": 11,
+          "avg_corners_away_per_game": 4.36,
+          "aproveitamento_away": 40.5,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 6,
+          "over_0_5_ft_away": 8,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 6,
+        "team": {
           "id": 2592,
           "name": "Cuiabá EC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-cuiaba-ec.png"
@@ -342,7 +410,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "team": {
           "id": 623,
           "name": "Chapecoense AF",
@@ -352,7 +420,7 @@
         "goalsDiff": 9,
         "group": "Brazil Serie B 2025",
         "status": "same",
-        "description": "Copa Sul-Americana",
+        "description": "",
         "all": {
           "played": 28,
           "win": 12,
@@ -410,7 +478,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "team": {
           "id": 629,
           "name": "AC Goianiense",
@@ -478,7 +546,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "team": {
           "id": 691,
           "name": "Criciuma EC",
@@ -546,7 +614,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "team": {
           "id": 621,
           "name": "Avai FC",
@@ -614,33 +682,33 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "team": {
           "id": 694,
           "name": "Clube de Regatas Brasil",
           "logo": "https://cdn.footystats.org/img/teams/brazil-clube-de-regatas-brasil.png"
         },
         "points": 40,
-        "goalsDiff": 5,
+        "goalsDiff": 3,
         "group": "Brazil Serie B 2025",
         "status": "same",
         "description": "",
         "all": {
-          "played": 28,
+          "played": 29,
           "win": 12,
           "draw": 4,
-          "lose": 12,
+          "lose": 13,
           "goals": {
-            "for": 31,
-            "against": 26
+            "for": 33,
+            "against": 30
           },
-          "form": "WLWLW",
-          "btts_matches": 10,
-          "avg_corners_per_game": 6.29,
-          "aproveitamento": 47.6,
-          "over_2_5_goals": 7,
-          "over_0_5_ht": 13,
-          "over_0_5_ft": 12,
+          "form": "LWLWL",
+          "btts_matches": 11,
+          "avg_corners_per_game": 6.59,
+          "aproveitamento": 46.0,
+          "over_2_5_goals": 8,
+          "over_0_5_ht": 14,
+          "over_0_5_ft": 13,
           "clean_sheets": 10
         },
         "home": {
@@ -662,95 +730,27 @@
           "clean_sheets_home": 9
         },
         "away": {
-          "played": 14,
+          "played": 15,
           "win": 2,
           "draw": 3,
-          "lose": 9,
+          "lose": 10,
           "goals": {
-            "for": 10,
-            "against": 19
+            "for": 12,
+            "against": 23
           },
-          "form_visitor": "LLWLL",
-          "btts_away_matches": 7,
-          "avg_corners_away_per_game": 7.07,
-          "aproveitamento_away": 21.4,
-          "over_2_5_goals_away": 4,
-          "over_0_5_ht_away": 4,
-          "over_0_5_ft_away": 4,
+          "form_visitor": "LWLLL",
+          "btts_away_matches": 8,
+          "avg_corners_away_per_game": 7.6,
+          "aproveitamento_away": 20.0,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 5,
+          "over_0_5_ft_away": 5,
           "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 11,
-        "team": {
-          "id": 2594,
-          "name": "Clube do Remo",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-clube-do-remo.png"
-        },
-        "points": 39,
-        "goalsDiff": 3,
-        "group": "Brazil Serie B 2025",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 28,
-          "win": 9,
-          "draw": 12,
-          "lose": 7,
-          "goals": {
-            "for": 29,
-            "against": 26
-          },
-          "form": "LWDLL",
-          "btts_matches": 16,
-          "avg_corners_per_game": 4.46,
-          "aproveitamento": 46.4,
-          "over_2_5_goals": 7,
-          "over_0_5_ht": 14,
-          "over_0_5_ft": 11,
-          "clean_sheets": 7
-        },
-        "home": {
-          "played": 14,
-          "win": 6,
-          "draw": 4,
-          "lose": 4,
-          "goals": {
-            "for": 13,
-            "against": 10
-          },
-          "form_home": "WLDLL",
-          "avg_corners_home_per_game": 4.57,
-          "aproveitamento_home": 52.4,
-          "btts_home_matches": 5,
-          "over_2_5_goals_home": 2,
-          "over_0_5_ht_home": 8,
-          "over_0_5_ft_home": 3,
-          "clean_sheets_home": 5
-        },
-        "away": {
-          "played": 14,
-          "win": 3,
-          "draw": 8,
-          "lose": 3,
-          "goals": {
-            "for": 16,
-            "against": 16
-          },
-          "form_visitor": "WDWDL",
-          "btts_away_matches": 11,
-          "avg_corners_away_per_game": 4.36,
-          "aproveitamento_away": 40.5,
-          "over_2_5_goals_away": 5,
-          "over_0_5_ht_away": 6,
-          "over_0_5_ft_away": 8,
-          "clean_sheets_away": 2
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 11,
+        "rank": 12,
         "team": {
           "id": 2662,
           "name": "Operário Ferroviário EC",
