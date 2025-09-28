@@ -620,45 +620,45 @@
           "name": "Clube Atlético Bragantino",
           "logo": "https://cdn.footystats.org/img/teams/brazil-clube-atletico-bragantino.png"
         },
-        "points": 31,
+        "points": 32,
         "goalsDiff": -6,
         "group": "Brazil Serie A 2025",
         "status": "same",
         "description": "",
         "all": {
-          "played": 24,
+          "played": 25,
           "win": 9,
-          "draw": 4,
+          "draw": 5,
           "lose": 11,
           "goals": {
-            "for": 29,
-            "against": 35
+            "for": 31,
+            "against": 37
           },
-          "form": "LWLDL",
-          "btts_matches": 15,
-          "avg_corners_per_game": 4.79,
-          "aproveitamento": 43.1,
-          "over_2_5_goals": 14,
-          "over_0_5_ht": 13,
-          "over_0_5_ft": 12,
+          "form": "WLDLD",
+          "btts_matches": 16,
+          "avg_corners_per_game": 4.8,
+          "aproveitamento": 42.7,
+          "over_2_5_goals": 15,
+          "over_0_5_ht": 14,
+          "over_0_5_ft": 13,
           "clean_sheets": 6
         },
         "home": {
-          "played": 12,
+          "played": 13,
           "win": 5,
-          "draw": 3,
+          "draw": 4,
           "lose": 4,
           "goals": {
-            "for": 16,
-            "against": 17
+            "for": 18,
+            "against": 19
           },
-          "form_home": "DLLWD",
+          "form_home": "LLWDD",
           "avg_corners_home_per_game": 5.08,
-          "aproveitamento_home": 50.0,
-          "btts_home_matches": 7,
-          "over_2_5_goals_home": 7,
-          "over_0_5_ht_home": 7,
-          "over_0_5_ft_home": 7,
+          "aproveitamento_home": 48.7,
+          "btts_home_matches": 8,
+          "over_2_5_goals_home": 8,
+          "over_0_5_ht_home": 8,
+          "over_0_5_ft_home": 8,
           "clean_sheets_home": 4
         },
         "away": {
@@ -1028,27 +1028,27 @@
           "name": "Santos FC Sao Paulo",
           "logo": "https://cdn.footystats.org/img/teams/brazil-santos-fc-sao-paulo.png"
         },
-        "points": 26,
+        "points": 27,
         "goalsDiff": -10,
         "group": "Brazil Serie A 2025",
         "status": "same",
         "description": "",
         "all": {
-          "played": 23,
+          "played": 24,
           "win": 7,
-          "draw": 5,
+          "draw": 6,
           "lose": 11,
           "goals": {
-            "for": 22,
-            "against": 32
+            "for": 24,
+            "against": 34
           },
-          "form": "LLDDW",
-          "btts_matches": 10,
-          "avg_corners_per_game": 4.13,
-          "aproveitamento": 37.7,
-          "over_2_5_goals": 11,
+          "form": "LDDWD",
+          "btts_matches": 11,
+          "avg_corners_per_game": 4.25,
+          "aproveitamento": 37.5,
+          "over_2_5_goals": 12,
           "over_0_5_ht": 6,
-          "over_0_5_ft": 10,
+          "over_0_5_ft": 11,
           "clean_sheets": 6
         },
         "home": {
@@ -1070,21 +1070,21 @@
           "clean_sheets_home": 5
         },
         "away": {
-          "played": 12,
+          "played": 13,
           "win": 3,
-          "draw": 2,
+          "draw": 3,
           "lose": 7,
           "goals": {
-            "for": 11,
-            "against": 18
+            "for": 13,
+            "against": 20
           },
-          "form_visitor": "LDWLD",
-          "btts_away_matches": 6,
-          "avg_corners_away_per_game": 3.0,
-          "aproveitamento_away": 30.6,
-          "over_2_5_goals_away": 6,
+          "form_visitor": "DWLDD",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 3.31,
+          "aproveitamento_away": 30.8,
+          "over_2_5_goals_away": 7,
           "over_0_5_ht_away": 4,
-          "over_0_5_ft_away": 4,
+          "over_0_5_ft_away": 5,
           "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1483,6 +1483,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/-isidro-miguel-pitta-saldívar.png"
       },
       {
+        "jogador-nome": "Álvaro Barreal",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 6,
+        "jogador-assists": 0,
+        "jogador-partidas": 20,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-santos-fc-sao-paulo.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/argentina-alvaro-barreal.png"
+      },
+      {
         "jogador-nome": "José Manuel López",
         "jogador-posicao": "Forward",
         "jogador-gols": 6,
@@ -1522,8 +1531,8 @@
         "jogador-nome": "Jogador_711874",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 5,
-        "jogador-assists": 3,
-        "jogador-partidas": 22,
+        "jogador-assists": 4,
+        "jogador-partidas": 23,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-clube-atletico-bragantino.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-jogador_711874.png"
       },
@@ -1535,15 +1544,6 @@
         "jogador-partidas": 19,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-cr-vasco-da-gama.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-philippe-coutinho.png"
-      },
-      {
-        "jogador-nome": "Gabriel Barbosa Almeida",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 5,
-        "jogador-assists": 2,
-        "jogador-partidas": 19,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-cruzeiro-ec.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-gabriel-barbosa-almeida.png"
       }
     ]
   }
