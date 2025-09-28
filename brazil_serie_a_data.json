@@ -480,6 +480,74 @@
       {
         "rank": 8,
         "team": {
+          "id": 616,
+          "name": "Grêmio FB Porto Alegrense",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-gremio-fb-porto-alegrense.png"
+        },
+        "points": 32,
+        "goalsDiff": -4,
+        "group": "Brazil Serie A 2025",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 25,
+          "win": 8,
+          "draw": 8,
+          "lose": 9,
+          "goals": {
+            "for": 27,
+            "against": 31
+          },
+          "form": "DLWDW",
+          "btts_matches": 15,
+          "avg_corners_per_game": 3.72,
+          "aproveitamento": 42.7,
+          "over_2_5_goals": 8,
+          "over_0_5_ht": 10,
+          "over_0_5_ft": 11,
+          "clean_sheets": 4
+        },
+        "home": {
+          "played": 13,
+          "win": 5,
+          "draw": 5,
+          "lose": 3,
+          "goals": {
+            "for": 13,
+            "against": 11
+          },
+          "form_home": "LDLDW",
+          "avg_corners_home_per_game": 3.62,
+          "aproveitamento_home": 51.3,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 5,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 12,
+          "win": 3,
+          "draw": 3,
+          "lose": 6,
+          "goals": {
+            "for": 14,
+            "against": 20
+          },
+          "form_visitor": "LLWDW",
+          "btts_away_matches": 8,
+          "avg_corners_away_per_game": 3.83,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 5,
+          "over_0_5_ft_away": 6,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 9,
+        "team": {
           "id": 617,
           "name": "Fluminense FC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-fluminense-fc.png"
@@ -546,7 +614,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "team": {
           "id": 635,
           "name": "Clube Atlético Bragantino",
@@ -614,7 +682,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "team": {
           "id": 625,
           "name": "CR Vasco da Gama",
@@ -682,7 +750,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 11,
+        "rank": 12,
         "team": {
           "id": 624,
           "name": "SC Corinthians Paulista",
@@ -746,74 +814,6 @@
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 6,
           "clean_sheets_away": 3
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 12,
-        "team": {
-          "id": 616,
-          "name": "Grêmio FB Porto Alegrense",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-gremio-fb-porto-alegrense.png"
-        },
-        "points": 29,
-        "goalsDiff": -6,
-        "group": "Brazil Serie A 2025",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 24,
-          "win": 7,
-          "draw": 8,
-          "lose": 9,
-          "goals": {
-            "for": 24,
-            "against": 30
-          },
-          "form": "DDLWD",
-          "btts_matches": 14,
-          "avg_corners_per_game": 3.83,
-          "aproveitamento": 40.3,
-          "over_2_5_goals": 7,
-          "over_0_5_ht": 9,
-          "over_0_5_ft": 10,
-          "clean_sheets": 4
-        },
-        "home": {
-          "played": 12,
-          "win": 4,
-          "draw": 5,
-          "lose": 3,
-          "goals": {
-            "for": 10,
-            "against": 10
-          },
-          "form_home": "WLDLD",
-          "avg_corners_home_per_game": 3.83,
-          "aproveitamento_home": 47.2,
-          "btts_home_matches": 6,
-          "over_2_5_goals_home": 2,
-          "over_0_5_ht_home": 4,
-          "over_0_5_ft_home": 4,
-          "clean_sheets_home": 3
-        },
-        "away": {
-          "played": 12,
-          "win": 3,
-          "draw": 3,
-          "lose": 6,
-          "goals": {
-            "for": 14,
-            "against": 20
-          },
-          "form_visitor": "LLWDW",
-          "btts_away_matches": 8,
-          "avg_corners_away_per_game": 3.83,
-          "aproveitamento_away": 33.3,
-          "over_2_5_goals_away": 5,
-          "over_0_5_ht_away": 5,
-          "over_0_5_ft_away": 6,
-          "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1097,26 +1097,26 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-ec-vitoria.png"
         },
         "points": 22,
-        "goalsDiff": -16,
+        "goalsDiff": -18,
         "group": "Brazil Serie A 2025",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 24,
+          "played": 25,
           "win": 4,
           "draw": 10,
-          "lose": 10,
+          "lose": 11,
           "goals": {
-            "for": 19,
-            "against": 35
+            "for": 20,
+            "against": 38
           },
-          "form": "DLWLL",
-          "btts_matches": 11,
-          "avg_corners_per_game": 4.67,
-          "aproveitamento": 30.6,
-          "over_2_5_goals": 9,
+          "form": "LWLLL",
+          "btts_matches": 12,
+          "avg_corners_per_game": 4.68,
+          "aproveitamento": 29.3,
+          "over_2_5_goals": 10,
           "over_0_5_ht": 6,
-          "over_0_5_ft": 10,
+          "over_0_5_ft": 11,
           "clean_sheets": 5
         },
         "home": {
@@ -1138,21 +1138,21 @@
           "clean_sheets_home": 3
         },
         "away": {
-          "played": 12,
+          "played": 13,
           "win": 0,
           "draw": 5,
-          "lose": 7,
+          "lose": 8,
           "goals": {
-            "for": 5,
-            "against": 22
+            "for": 6,
+            "against": 25
           },
-          "form_visitor": "DDLLL",
-          "btts_away_matches": 4,
-          "avg_corners_away_per_game": 4.08,
-          "aproveitamento_away": 13.9,
-          "over_2_5_goals_away": 3,
+          "form_visitor": "DLLLL",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 4.15,
+          "aproveitamento_away": 12.8,
+          "over_2_5_goals_away": 4,
           "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 3,
+          "over_0_5_ft_away": 4,
           "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1442,7 +1442,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 7,
         "jogador-assists": 0,
-        "jogador-partidas": 16,
+        "jogador-partidas": 17,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ec-vitoria.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-renato-kayzer-de-souza.png"
       },
