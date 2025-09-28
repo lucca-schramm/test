@@ -72,6 +72,74 @@
       {
         "rank": 2,
         "team": {
+          "id": 622,
+          "name": "CA Paranaense",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-ca-paranaense.png"
+        },
+        "points": 48,
+        "goalsDiff": 7,
+        "group": "Brazil Serie B 2025",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 29,
+          "win": 14,
+          "draw": 6,
+          "lose": 9,
+          "goals": {
+            "for": 43,
+            "against": 36
+          },
+          "form": "WWWWW",
+          "btts_matches": 19,
+          "avg_corners_per_game": 5.1,
+          "aproveitamento": 55.2,
+          "over_2_5_goals": 16,
+          "over_0_5_ht": 17,
+          "over_0_5_ft": 20,
+          "clean_sheets": 7
+        },
+        "home": {
+          "played": 15,
+          "win": 7,
+          "draw": 4,
+          "lose": 4,
+          "goals": {
+            "for": 17,
+            "against": 14
+          },
+          "form_home": "DDWWW",
+          "avg_corners_home_per_game": 6.53,
+          "aproveitamento_home": 55.6,
+          "btts_home_matches": 8,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 6,
+          "over_0_5_ft_home": 10,
+          "clean_sheets_home": 4
+        },
+        "away": {
+          "played": 14,
+          "win": 7,
+          "draw": 2,
+          "lose": 5,
+          "goals": {
+            "for": 26,
+            "against": 22
+          },
+          "form_visitor": "LWWWW",
+          "btts_away_matches": 11,
+          "avg_corners_away_per_game": 3.57,
+          "aproveitamento_away": 54.8,
+          "over_2_5_goals_away": 12,
+          "over_0_5_ht_away": 11,
+          "over_0_5_ft_away": 10,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 3,
+        "team": {
           "id": 627,
           "name": "Coritiba FBC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-coritiba-fbc.png"
@@ -138,7 +206,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "team": {
           "id": 2712,
           "name": "Grêmio Novorizontino",
@@ -202,74 +270,6 @@
           "over_0_5_ht_away": 5,
           "over_0_5_ft_away": 3,
           "clean_sheets_away": 6
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 4,
-        "team": {
-          "id": 622,
-          "name": "CA Paranaense",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-ca-paranaense.png"
-        },
-        "points": 45,
-        "goalsDiff": 6,
-        "group": "Brazil Serie B 2025",
-        "status": "same",
-        "description": "Copa Libertadores",
-        "all": {
-          "played": 28,
-          "win": 13,
-          "draw": 6,
-          "lose": 9,
-          "goals": {
-            "for": 42,
-            "against": 36
-          },
-          "form": "WWWWW",
-          "btts_matches": 19,
-          "avg_corners_per_game": 5.25,
-          "aproveitamento": 53.6,
-          "over_2_5_goals": 16,
-          "over_0_5_ht": 16,
-          "over_0_5_ft": 20,
-          "clean_sheets": 6
-        },
-        "home": {
-          "played": 14,
-          "win": 6,
-          "draw": 4,
-          "lose": 4,
-          "goals": {
-            "for": 16,
-            "against": 14
-          },
-          "form_home": "DDDWW",
-          "avg_corners_home_per_game": 6.93,
-          "aproveitamento_home": 52.4,
-          "btts_home_matches": 8,
-          "over_2_5_goals_home": 4,
-          "over_0_5_ht_home": 5,
-          "over_0_5_ft_home": 10,
-          "clean_sheets_home": 3
-        },
-        "away": {
-          "played": 14,
-          "win": 7,
-          "draw": 2,
-          "lose": 5,
-          "goals": {
-            "for": 26,
-            "against": 22
-          },
-          "form_visitor": "LWWWW",
-          "btts_away_matches": 11,
-          "avg_corners_away_per_game": 3.57,
-          "aproveitamento_away": 54.8,
-          "over_2_5_goals_away": 12,
-          "over_0_5_ht_away": 11,
-          "over_0_5_ft_away": 10,
-          "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -684,74 +684,6 @@
       {
         "rank": 11,
         "team": {
-          "id": 2662,
-          "name": "Operário Ferroviário EC",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-operario-ferroviario-ec.png"
-        },
-        "points": 39,
-        "goalsDiff": 4,
-        "group": "Brazil Serie B 2025",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 28,
-          "win": 10,
-          "draw": 9,
-          "lose": 9,
-          "goals": {
-            "for": 31,
-            "against": 27
-          },
-          "form": "WDDDW",
-          "btts_matches": 14,
-          "avg_corners_per_game": 4.68,
-          "aproveitamento": 46.4,
-          "over_2_5_goals": 12,
-          "over_0_5_ht": 14,
-          "over_0_5_ft": 11,
-          "clean_sheets": 10
-        },
-        "home": {
-          "played": 14,
-          "win": 7,
-          "draw": 5,
-          "lose": 2,
-          "goals": {
-            "for": 19,
-            "against": 9
-          },
-          "form_home": "WDWDW",
-          "avg_corners_home_per_game": 4.57,
-          "aproveitamento_home": 61.9,
-          "btts_home_matches": 6,
-          "over_2_5_goals_home": 6,
-          "over_0_5_ht_home": 7,
-          "over_0_5_ft_home": 7,
-          "clean_sheets_home": 8
-        },
-        "away": {
-          "played": 14,
-          "win": 3,
-          "draw": 4,
-          "lose": 7,
-          "goals": {
-            "for": 12,
-            "against": 18
-          },
-          "form_visitor": "DLWDD",
-          "btts_away_matches": 8,
-          "avg_corners_away_per_game": 4.79,
-          "aproveitamento_away": 31.0,
-          "over_2_5_goals_away": 6,
-          "over_0_5_ht_away": 7,
-          "over_0_5_ft_away": 4,
-          "clean_sheets_away": 2
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 12,
-        "team": {
           "id": 2594,
           "name": "Clube do Remo",
           "logo": "https://cdn.footystats.org/img/teams/brazil-clube-do-remo.png"
@@ -813,6 +745,74 @@
           "over_2_5_goals_away": 5,
           "over_0_5_ht_away": 6,
           "over_0_5_ft_away": 8,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 11,
+        "team": {
+          "id": 2662,
+          "name": "Operário Ferroviário EC",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-operario-ferroviario-ec.png"
+        },
+        "points": 39,
+        "goalsDiff": 3,
+        "group": "Brazil Serie B 2025",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 29,
+          "win": 10,
+          "draw": 9,
+          "lose": 10,
+          "goals": {
+            "for": 31,
+            "against": 28
+          },
+          "form": "DDDWL",
+          "btts_matches": 14,
+          "avg_corners_per_game": 4.69,
+          "aproveitamento": 44.8,
+          "over_2_5_goals": 12,
+          "over_0_5_ht": 14,
+          "over_0_5_ft": 11,
+          "clean_sheets": 10
+        },
+        "home": {
+          "played": 14,
+          "win": 7,
+          "draw": 5,
+          "lose": 2,
+          "goals": {
+            "for": 19,
+            "against": 9
+          },
+          "form_home": "WDWDW",
+          "avg_corners_home_per_game": 4.57,
+          "aproveitamento_home": 61.9,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 7,
+          "over_0_5_ft_home": 7,
+          "clean_sheets_home": 8
+        },
+        "away": {
+          "played": 15,
+          "win": 3,
+          "draw": 4,
+          "lose": 8,
+          "goals": {
+            "for": 12,
+            "against": 19
+          },
+          "form_visitor": "LWDDL",
+          "btts_away_matches": 8,
+          "avg_corners_away_per_game": 4.8,
+          "aproveitamento_away": 28.9,
+          "over_2_5_goals_away": 6,
+          "over_0_5_ht_away": 7,
+          "over_0_5_ft_away": 4,
           "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1492,7 +1492,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 7,
         "jogador-assists": 5,
-        "jogador-partidas": 25,
+        "jogador-partidas": 26,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-operario-ferroviario-ec.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-gabriel-boschilia.png"
       },
@@ -1501,7 +1501,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 7,
         "jogador-assists": 1,
-        "jogador-partidas": 17,
+        "jogador-partidas": 18,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-operario-ferroviario-ec.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-daniel-amorim-dias-da-silva.png"
       },
@@ -1519,7 +1519,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 7,
         "jogador-assists": 0,
-        "jogador-partidas": 12,
+        "jogador-partidas": 13,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ca-paranaense.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/colombia-kevin-stiven-viveros-rodallega.png"
       },
