@@ -892,27 +892,27 @@
           "name": "Associação Ferroviária de Esportes",
           "logo": "https://cdn.footystats.org/img/teams/brazil-associacao-ferroviaria-de-esportes.png"
         },
-        "points": 33,
-        "goalsDiff": -4,
+        "points": 36,
+        "goalsDiff": -3,
         "group": "Brazil Serie B 2025",
         "status": "same",
         "description": "",
         "all": {
-          "played": 28,
-          "win": 7,
+          "played": 29,
+          "win": 8,
           "draw": 12,
           "lose": 9,
           "goals": {
-            "for": 31,
-            "against": 35
+            "for": 33,
+            "against": 36
           },
-          "form": "DLLDD",
-          "btts_matches": 18,
-          "avg_corners_per_game": 4.11,
-          "aproveitamento": 39.3,
-          "over_2_5_goals": 14,
+          "form": "LLDDW",
+          "btts_matches": 19,
+          "avg_corners_per_game": 4.24,
+          "aproveitamento": 41.4,
+          "over_2_5_goals": 15,
           "over_0_5_ht": 15,
-          "over_0_5_ft": 12,
+          "over_0_5_ft": 13,
           "clean_sheets": 7
         },
         "home": {
@@ -934,21 +934,21 @@
           "clean_sheets_home": 4
         },
         "away": {
-          "played": 14,
-          "win": 3,
+          "played": 15,
+          "win": 4,
           "draw": 5,
           "lose": 6,
           "goals": {
-            "for": 15,
-            "against": 20
+            "for": 17,
+            "against": 21
           },
-          "form_visitor": "DWWLD",
-          "btts_away_matches": 8,
-          "avg_corners_away_per_game": 3.71,
-          "aproveitamento_away": 33.3,
-          "over_2_5_goals_away": 8,
+          "form_visitor": "WWLDW",
+          "btts_away_matches": 9,
+          "avg_corners_away_per_game": 4.0,
+          "aproveitamento_away": 37.8,
+          "over_2_5_goals_away": 9,
           "over_0_5_ht_away": 6,
-          "over_0_5_ft_away": 7,
+          "over_0_5_ft_away": 8,
           "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1165,44 +1165,44 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-botafogo-fc-ribeirao-preto.png"
         },
         "points": 29,
-        "goalsDiff": -18,
+        "goalsDiff": -19,
         "group": "Brazil Serie B 2025",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 28,
+          "played": 29,
           "win": 7,
           "draw": 8,
-          "lose": 13,
+          "lose": 14,
           "goals": {
-            "for": 24,
-            "against": 42
+            "for": 25,
+            "against": 44
           },
-          "form": "WLLDL",
-          "btts_matches": 11,
-          "avg_corners_per_game": 4.54,
-          "aproveitamento": 34.5,
-          "over_2_5_goals": 11,
+          "form": "LLDLL",
+          "btts_matches": 12,
+          "avg_corners_per_game": 4.66,
+          "aproveitamento": 33.3,
+          "over_2_5_goals": 12,
           "over_0_5_ht": 6,
-          "over_0_5_ft": 13,
+          "over_0_5_ft": 14,
           "clean_sheets": 6
         },
         "home": {
-          "played": 14,
+          "played": 15,
           "win": 4,
           "draw": 6,
-          "lose": 4,
+          "lose": 5,
           "goals": {
-            "for": 12,
-            "against": 15
+            "for": 13,
+            "against": 17
           },
-          "form_home": "LWWLD",
-          "avg_corners_home_per_game": 4.93,
-          "aproveitamento_home": 42.9,
-          "btts_home_matches": 6,
-          "over_2_5_goals_home": 5,
+          "form_home": "WWLDL",
+          "avg_corners_home_per_game": 5.13,
+          "aproveitamento_home": 40.0,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 6,
           "over_0_5_ht_home": 4,
-          "over_0_5_ft_home": 7,
+          "over_0_5_ft_home": 8,
           "clean_sheets_home": 5
         },
         "away": {
@@ -1443,6 +1443,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-pedro-rocha-neves.png"
       },
       {
+        "jogador-nome": "Carlos Henrique de Moura Brito",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 9,
+        "jogador-assists": 2,
+        "jogador-partidas": 27,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-associacao-ferroviaria-de-esportes.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-carlos-henrique-de-moura-brito.png"
+      },
+      {
         "jogador-nome": "Alisson Pelegrini Safira",
         "jogador-posicao": "Forward",
         "jogador-gols": 9,
@@ -1459,15 +1468,6 @@
         "jogador-partidas": 27,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-avai-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-cleber-bomfim-de-jesus.png"
-      },
-      {
-        "jogador-nome": "Carlos Henrique de Moura Brito",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 8,
-        "jogador-assists": 2,
-        "jogador-partidas": 26,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-associacao-ferroviaria-de-esportes.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-carlos-henrique-de-moura-brito.png"
       },
       {
         "jogador-nome": "Kevin Federik Ramírez Dutra",
