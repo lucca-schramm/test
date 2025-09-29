@@ -276,6 +276,74 @@
       {
         "rank": 5,
         "team": {
+          "id": 2592,
+          "name": "Cuiabá EC",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-cuiaba-ec.png"
+        },
+        "points": 45,
+        "goalsDiff": 3,
+        "group": "Brazil Serie B 2025",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 29,
+          "win": 12,
+          "draw": 9,
+          "lose": 8,
+          "goals": {
+            "for": 36,
+            "against": 33
+          },
+          "form": "WDWDW",
+          "btts_matches": 15,
+          "avg_corners_per_game": 5.62,
+          "aproveitamento": 51.7,
+          "over_2_5_goals": 12,
+          "over_0_5_ht": 12,
+          "over_0_5_ft": 18,
+          "clean_sheets": 9
+        },
+        "home": {
+          "played": 14,
+          "win": 10,
+          "draw": 2,
+          "lose": 2,
+          "goals": {
+            "for": 23,
+            "against": 12
+          },
+          "form_home": "WDWWW",
+          "avg_corners_home_per_game": 5.79,
+          "aproveitamento_home": 76.2,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 7,
+          "over_0_5_ht_home": 8,
+          "over_0_5_ft_home": 11,
+          "clean_sheets_home": 6
+        },
+        "away": {
+          "played": 15,
+          "win": 2,
+          "draw": 7,
+          "lose": 6,
+          "goals": {
+            "for": 13,
+            "against": 21
+          },
+          "form_visitor": "LDDDD",
+          "btts_away_matches": 8,
+          "avg_corners_away_per_game": 5.47,
+          "aproveitamento_away": 28.9,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 7,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 6,
+        "team": {
           "id": 2594,
           "name": "Clube do Remo",
           "logo": "https://cdn.footystats.org/img/teams/brazil-clube-do-remo.png"
@@ -338,74 +406,6 @@
           "over_0_5_ht_away": 6,
           "over_0_5_ft_away": 8,
           "clean_sheets_away": 2
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 6,
-        "team": {
-          "id": 2592,
-          "name": "Cuiabá EC",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-cuiaba-ec.png"
-        },
-        "points": 42,
-        "goalsDiff": 2,
-        "group": "Brazil Serie B 2025",
-        "status": "same",
-        "description": "Copa Sul-Americana",
-        "all": {
-          "played": 28,
-          "win": 11,
-          "draw": 9,
-          "lose": 8,
-          "goals": {
-            "for": 34,
-            "against": 32
-          },
-          "form": "DWDWD",
-          "btts_matches": 14,
-          "avg_corners_per_game": 5.64,
-          "aproveitamento": 50.0,
-          "over_2_5_goals": 11,
-          "over_0_5_ht": 11,
-          "over_0_5_ft": 17,
-          "clean_sheets": 9
-        },
-        "home": {
-          "played": 13,
-          "win": 9,
-          "draw": 2,
-          "lose": 2,
-          "goals": {
-            "for": 21,
-            "against": 11
-          },
-          "form_home": "WWDWW",
-          "avg_corners_home_per_game": 5.85,
-          "aproveitamento_home": 74.4,
-          "btts_home_matches": 6,
-          "over_2_5_goals_home": 6,
-          "over_0_5_ht_home": 7,
-          "over_0_5_ft_home": 10,
-          "clean_sheets_home": 6
-        },
-        "away": {
-          "played": 15,
-          "win": 2,
-          "draw": 7,
-          "lose": 6,
-          "goals": {
-            "for": 13,
-            "against": 21
-          },
-          "form_visitor": "LDDDD",
-          "btts_away_matches": 8,
-          "avg_corners_away_per_game": 5.47,
-          "aproveitamento_away": 28.9,
-          "over_2_5_goals_away": 5,
-          "over_0_5_ht_away": 4,
-          "over_0_5_ft_away": 7,
-          "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -961,25 +961,25 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-athletic-club-minas-gerais.png"
         },
         "points": 33,
-        "goalsDiff": -5,
+        "goalsDiff": -6,
         "group": "Brazil Serie B 2025",
         "status": "same",
         "description": "",
         "all": {
-          "played": 28,
+          "played": 29,
           "win": 9,
           "draw": 6,
-          "lose": 13,
+          "lose": 14,
           "goals": {
-            "for": 29,
-            "against": 34
+            "for": 30,
+            "against": 36
           },
-          "form": "WDWLL",
-          "btts_matches": 12,
-          "avg_corners_per_game": 5.07,
-          "aproveitamento": 39.3,
-          "over_2_5_goals": 11,
-          "over_0_5_ht": 12,
+          "form": "DWLLL",
+          "btts_matches": 13,
+          "avg_corners_per_game": 4.97,
+          "aproveitamento": 37.9,
+          "over_2_5_goals": 12,
+          "over_0_5_ht": 13,
           "over_0_5_ft": 12,
           "clean_sheets": 6
         },
@@ -1002,20 +1002,20 @@
           "clean_sheets_home": 2
         },
         "away": {
-          "played": 14,
+          "played": 15,
           "win": 5,
           "draw": 3,
-          "lose": 6,
+          "lose": 7,
           "goals": {
-            "for": 14,
-            "against": 13
+            "for": 15,
+            "against": 15
           },
-          "form_visitor": "DLWDL",
-          "btts_away_matches": 5,
-          "avg_corners_away_per_game": 4.29,
-          "aproveitamento_away": 42.9,
-          "over_2_5_goals_away": 4,
-          "over_0_5_ht_away": 6,
+          "form_visitor": "LWDLL",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 4.13,
+          "aproveitamento_away": 40.0,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 7,
           "over_0_5_ft_away": 6,
           "clean_sheets_away": 4
         },
@@ -1537,7 +1537,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 7,
         "jogador-assists": 0,
-        "jogador-partidas": 24,
+        "jogador-partidas": 25,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-athletic-club-minas-gerais.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-arnaldo-francisco-da-costa-neto.png"
       },
@@ -1555,7 +1555,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 6,
         "jogador-assists": 3,
-        "jogador-partidas": 16,
+        "jogador-partidas": 17,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-athletic-club-minas-gerais.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/portugal-ronaldo-rodrigues-tavares.png"
       },
