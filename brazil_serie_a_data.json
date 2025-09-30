@@ -417,40 +417,40 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-sao-paulo-fc.png"
         },
         "points": 35,
-        "goalsDiff": 3,
+        "goalsDiff": 2,
         "group": "Brazil Serie A 2025",
         "status": "same",
         "description": "",
         "all": {
-          "played": 24,
+          "played": 25,
           "win": 9,
           "draw": 8,
-          "lose": 7,
+          "lose": 8,
           "goals": {
             "for": 27,
-            "against": 24
+            "against": 25
           },
-          "form": "DWLWL",
+          "form": "WLWLL",
           "btts_matches": 11,
-          "avg_corners_per_game": 4.88,
-          "aproveitamento": 48.6,
+          "avg_corners_per_game": 4.96,
+          "aproveitamento": 46.7,
           "over_2_5_goals": 9,
           "over_0_5_ht": 10,
           "over_0_5_ft": 11,
           "clean_sheets": 8
         },
         "home": {
-          "played": 12,
+          "played": 13,
           "win": 7,
           "draw": 3,
-          "lose": 2,
+          "lose": 3,
           "goals": {
             "for": 16,
-            "against": 9
+            "against": 10
           },
-          "form_home": "WWWWW",
-          "avg_corners_home_per_game": 5.25,
-          "aproveitamento_home": 66.7,
+          "form_home": "WWWWL",
+          "avg_corners_home_per_game": 5.38,
+          "aproveitamento_home": 61.5,
           "btts_home_matches": 5,
           "over_2_5_goals_home": 4,
           "over_0_5_ht_home": 6,
@@ -684,6 +684,74 @@
       {
         "rank": 11,
         "team": {
+          "id": 642,
+          "name": "Ceará SC",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-ceara-sc.png"
+        },
+        "points": 31,
+        "goalsDiff": 0,
+        "group": "Brazil Serie A 2025",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 24,
+          "win": 8,
+          "draw": 7,
+          "lose": 9,
+          "goals": {
+            "for": 23,
+            "against": 23
+          },
+          "form": "DLDDW",
+          "btts_matches": 10,
+          "avg_corners_per_game": 3.96,
+          "aproveitamento": 43.1,
+          "over_2_5_goals": 7,
+          "over_0_5_ht": 10,
+          "over_0_5_ft": 11,
+          "clean_sheets": 8
+        },
+        "home": {
+          "played": 12,
+          "win": 5,
+          "draw": 3,
+          "lose": 4,
+          "goals": {
+            "for": 11,
+            "against": 9
+          },
+          "form_home": "LDWLD",
+          "avg_corners_home_per_game": 4.75,
+          "aproveitamento_home": 50.0,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 6,
+          "over_0_5_ft_home": 5,
+          "clean_sheets_home": 4
+        },
+        "away": {
+          "played": 12,
+          "win": 3,
+          "draw": 4,
+          "lose": 5,
+          "goals": {
+            "for": 12,
+            "against": 14
+          },
+          "form_visitor": "WLDDW",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 3.17,
+          "aproveitamento_away": 36.1,
+          "over_2_5_goals_away": 6,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 6,
+          "clean_sheets_away": 4
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 12,
+        "team": {
           "id": 625,
           "name": "CR Vasco da Gama",
           "logo": "https://cdn.footystats.org/img/teams/brazil-cr-vasco-da-gama.png"
@@ -750,7 +818,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "team": {
           "id": 624,
           "name": "SC Corinthians Paulista",
@@ -813,74 +881,6 @@
           "over_2_5_goals_away": 4,
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 6,
-          "clean_sheets_away": 3
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 13,
-        "team": {
-          "id": 642,
-          "name": "Ceará SC",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-ceara-sc.png"
-        },
-        "points": 28,
-        "goalsDiff": -1,
-        "group": "Brazil Serie A 2025",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 23,
-          "win": 7,
-          "draw": 7,
-          "lose": 9,
-          "goals": {
-            "for": 22,
-            "against": 23
-          },
-          "form": "WDLDD",
-          "btts_matches": 10,
-          "avg_corners_per_game": 4.0,
-          "aproveitamento": 40.6,
-          "over_2_5_goals": 7,
-          "over_0_5_ht": 10,
-          "over_0_5_ft": 10,
-          "clean_sheets": 7
-        },
-        "home": {
-          "played": 12,
-          "win": 5,
-          "draw": 3,
-          "lose": 4,
-          "goals": {
-            "for": 11,
-            "against": 9
-          },
-          "form_home": "LDWLD",
-          "avg_corners_home_per_game": 4.75,
-          "aproveitamento_home": 50.0,
-          "btts_home_matches": 4,
-          "over_2_5_goals_home": 1,
-          "over_0_5_ht_home": 6,
-          "over_0_5_ft_home": 5,
-          "clean_sheets_home": 4
-        },
-        "away": {
-          "played": 11,
-          "win": 2,
-          "draw": 4,
-          "lose": 5,
-          "goals": {
-            "for": 11,
-            "against": 14
-          },
-          "form_visitor": "LWLDD",
-          "btts_away_matches": 6,
-          "avg_corners_away_per_game": 3.18,
-          "aproveitamento_away": 30.3,
-          "over_2_5_goals_away": 6,
-          "over_0_5_ht_away": 4,
-          "over_0_5_ft_away": 5,
           "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1451,7 +1451,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 7,
         "jogador-assists": 0,
-        "jogador-partidas": 21,
+        "jogador-partidas": 22,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ceara-sc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-pedro-raul-garay-da-silva.png"
       },
