@@ -8,46 +8,46 @@
           "name": "Qarabağ Ağdam FK",
           "logo": "https://cdn.footystats.org/img/teams/azerbaijan-qarabag-agdam-fk.png"
         },
-        "points": 18,
-        "goalsDiff": 11,
+        "points": 21,
+        "goalsDiff": 13,
         "group": "Europe UEFA Champions League 2025",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 7,
-          "win": 6,
+          "played": 8,
+          "win": 7,
           "draw": 0,
           "lose": 1,
           "goals": {
-            "for": 18,
+            "for": 20,
             "against": 7
           },
-          "form": "WWWLW",
+          "form": "WWLWW",
           "btts_matches": 4,
-          "avg_corners_per_game": 4.43,
-          "aproveitamento": 85.7,
+          "avg_corners_per_game": 4.38,
+          "aproveitamento": 87.5,
           "over_2_5_goals": 5,
-          "over_0_5_ht": 6,
-          "over_0_5_ft": 4,
-          "clean_sheets": 3
+          "over_0_5_ht": 7,
+          "over_0_5_ft": 5,
+          "clean_sheets": 4
         },
         "home": {
-          "played": 3,
-          "win": 2,
+          "played": 4,
+          "win": 3,
           "draw": 0,
           "lose": 1,
           "goals": {
-            "for": 8,
+            "for": 10,
             "against": 4
           },
-          "form_home": "WWL",
-          "avg_corners_home_per_game": 4.33,
-          "aproveitamento_home": 66.7,
+          "form_home": "WWLW",
+          "avg_corners_home_per_game": 4.25,
+          "aproveitamento_home": 75.0,
           "btts_home_matches": 2,
           "over_2_5_goals_home": 2,
-          "over_0_5_ht_home": 3,
-          "over_0_5_ft_home": 1,
-          "clean_sheets_home": 1
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 2,
+          "clean_sheets_home": 2
         },
         "away": {
           "played": 4,
@@ -145,23 +145,23 @@
           "logo": "https://cdn.footystats.org/img/teams/denmark-fc-kobenhavn.png"
         },
         "points": 15,
-        "goalsDiff": 10,
+        "goalsDiff": 8,
         "group": "Europe UEFA Champions League 2025",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 7,
+          "played": 8,
           "win": 4,
           "draw": 3,
-          "lose": 0,
+          "lose": 1,
           "goals": {
             "for": 13,
-            "against": 3
+            "against": 5
           },
-          "form": "DWDWD",
+          "form": "WDWDL",
           "btts_matches": 2,
-          "avg_corners_per_game": 4.29,
-          "aproveitamento": 71.4,
+          "avg_corners_per_game": 4.62,
+          "aproveitamento": 62.5,
           "over_2_5_goals": 2,
           "over_0_5_ht": 4,
           "over_0_5_ft": 4,
@@ -186,18 +186,18 @@
           "clean_sheets_home": 3
         },
         "away": {
-          "played": 3,
+          "played": 4,
           "win": 1,
           "draw": 2,
-          "lose": 0,
+          "lose": 1,
           "goals": {
             "for": 2,
-            "against": 1
+            "against": 3
           },
-          "form_visitor": "WDD",
+          "form_visitor": "WDDL",
           "btts_away_matches": 1,
-          "avg_corners_away_per_game": 5.0,
-          "aproveitamento_away": 55.6,
+          "avg_corners_away_per_game": 5.5,
+          "aproveitamento_away": 41.7,
           "over_2_5_goals_away": 0,
           "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 0,
@@ -2248,6 +2248,74 @@
       {
         "rank": 32,
         "team": {
+          "id": 157,
+          "name": "Newcastle United FC",
+          "logo": "https://cdn.footystats.org/img/teams/england-newcastle-united-fc.png"
+        },
+        "points": 3,
+        "goalsDiff": 3,
+        "group": "Europe UEFA Champions League 2025",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 2,
+          "win": 1,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 5,
+            "against": 2
+          },
+          "form": "LW",
+          "btts_matches": 1,
+          "avg_corners_per_game": 5.5,
+          "aproveitamento": 50.0,
+          "over_2_5_goals": 2,
+          "over_0_5_ht": 1,
+          "over_0_5_ft": 2,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 1,
+            "against": 2
+          },
+          "form_home": "L",
+          "avg_corners_home_per_game": 6.0,
+          "aproveitamento_home": 0.0,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 0,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 1,
+          "win": 1,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 4,
+            "against": 0
+          },
+          "form_visitor": "W",
+          "btts_away_matches": 0,
+          "avg_corners_away_per_game": 5.0,
+          "aproveitamento_away": 100.0,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 32,
+        "team": {
           "id": 443,
           "name": "Olympique de Marseille",
           "logo": "https://cdn.footystats.org/img/teams/france-olympique-de-marseille.png"
@@ -2314,7 +2382,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 35,
+        "rank": 36,
         "team": {
           "id": 59,
           "name": "Arsenal FC",
@@ -2382,7 +2450,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 35,
+        "rank": 36,
         "team": {
           "id": 93,
           "name": "Manchester City FC",
@@ -2445,74 +2513,6 @@
           "over_2_5_goals_away": 0,
           "over_0_5_ht_away": 0,
           "over_0_5_ft_away": 0,
-          "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 35,
-        "team": {
-          "id": 2572,
-          "name": "Royal Union Saint-Gilloise",
-          "logo": "https://cdn.footystats.org/img/teams/belgium-royal-union-saint-gilloise.png"
-        },
-        "points": 3,
-        "goalsDiff": 2,
-        "group": "Europe UEFA Champions League 2025",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 1,
-          "win": 1,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 3,
-            "against": 1
-          },
-          "form": "W",
-          "btts_matches": 1,
-          "avg_corners_per_game": 7.0,
-          "aproveitamento": 100.0,
-          "over_2_5_goals": 1,
-          "over_0_5_ht": 1,
-          "over_0_5_ft": 1,
-          "clean_sheets": 0
-        },
-        "home": {
-          "played": 0,
-          "win": 0,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 0,
-            "against": 0
-          },
-          "form_home": "",
-          "avg_corners_home_per_game": 0,
-          "aproveitamento_home": 0,
-          "btts_home_matches": 0,
-          "over_2_5_goals_home": 0,
-          "over_0_5_ht_home": 0,
-          "over_0_5_ft_home": 0,
-          "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 1,
-          "win": 1,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 3,
-            "against": 1
-          },
-          "form_visitor": "W",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 7.0,
-          "aproveitamento_away": 100.0,
-          "over_2_5_goals_away": 1,
-          "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 1,
           "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -3130,7 +3130,75 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 47,
+        "rank": 46,
+        "team": {
+          "id": 2572,
+          "name": "Royal Union Saint-Gilloise",
+          "logo": "https://cdn.footystats.org/img/teams/belgium-royal-union-saint-gilloise.png"
+        },
+        "points": 3,
+        "goalsDiff": -2,
+        "group": "Europe UEFA Champions League 2025",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 2,
+          "win": 1,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 3,
+            "against": 5
+          },
+          "form": "WL",
+          "btts_matches": 1,
+          "avg_corners_per_game": 7.0,
+          "aproveitamento": 50.0,
+          "over_2_5_goals": 2,
+          "over_0_5_ht": 1,
+          "over_0_5_ft": 1,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 0,
+            "against": 4
+          },
+          "form_home": "L",
+          "avg_corners_home_per_game": 7.0,
+          "aproveitamento_home": 0.0,
+          "btts_home_matches": 0,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 0,
+          "over_0_5_ft_home": 0,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 1,
+          "win": 1,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 3,
+            "against": 1
+          },
+          "form_visitor": "W",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 7.0,
+          "aproveitamento_away": 100.0,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 48,
         "team": {
           "id": 187,
           "name": "Galatasaray",
@@ -3198,7 +3266,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 47,
+        "rank": 48,
         "team": {
           "id": 464,
           "name": "Atalanta Bergamasca Calcio",
@@ -3266,7 +3334,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 47,
+        "rank": 48,
         "team": {
           "id": 3803,
           "name": "Breidablik UBK",
@@ -3334,7 +3402,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 50,
+        "rank": 51,
         "team": {
           "id": 582,
           "name": "SK Sturm Graz",
@@ -3402,7 +3470,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 50,
+        "rank": 51,
         "team": {
           "id": 1789,
           "name": "KS Egnatia Rrogozhinë",
@@ -3470,7 +3538,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 52,
+        "rank": 53,
         "team": {
           "id": 2484,
           "name": "Hamrun Spartans FC",
@@ -3538,7 +3606,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 53,
+        "rank": 54,
         "team": {
           "id": 23,
           "name": "Celtic FC",
@@ -3606,7 +3674,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 54,
+        "rank": 55,
         "team": {
           "id": 33,
           "name": "BVB 09 Borussia Dortmund",
@@ -3674,7 +3742,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 54,
+        "rank": 55,
         "team": {
           "id": 40,
           "name": "Bayer 04 Leverkusen",
@@ -3742,7 +3810,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 54,
+        "rank": 55,
         "team": {
           "id": 90,
           "name": "Juventus FC",
@@ -3810,7 +3878,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 54,
+        "rank": 55,
         "team": {
           "id": 116,
           "name": "Olympiakos CFP",
@@ -3878,7 +3946,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 58,
+        "rank": 59,
         "team": {
           "id": 69,
           "name": "The New Saints FC",
@@ -3946,7 +4014,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 58,
+        "rank": 59,
         "team": {
           "id": 825,
           "name": "FC Dinamo Minsk",
@@ -4014,7 +4082,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 58,
+        "rank": 59,
         "team": {
           "id": 956,
           "name": "Maccabi Tel Aviv FC",
@@ -4082,7 +4150,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 58,
+        "rank": 59,
         "team": {
           "id": 964,
           "name": "FC Milsami Orhei",
@@ -4150,7 +4218,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 58,
+        "rank": 59,
         "team": {
           "id": 1208,
           "name": "Linfield FC",
@@ -4218,7 +4286,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 58,
+        "rank": 59,
         "team": {
           "id": 1214,
           "name": "FK Budućnost Podgorica",
@@ -4286,7 +4354,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 64,
+        "rank": 65,
         "team": {
           "id": 79,
           "name": "FC Basel 1893",
@@ -4354,7 +4422,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 64,
+        "rank": 65,
         "team": {
           "id": 115,
           "name": "NK Olimpija Ljubljana",
@@ -4422,7 +4490,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 64,
+        "rank": 65,
         "team": {
           "id": 960,
           "name": "Panathinaikos FC",
@@ -4490,7 +4558,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 64,
+        "rank": 65,
         "team": {
           "id": 1215,
           "name": "HNK Rijeka",
@@ -4558,7 +4626,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 68,
+        "rank": 69,
         "team": {
           "id": 336,
           "name": "SK Brann",
@@ -4626,7 +4694,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 68,
+        "rank": 69,
         "team": {
           "id": 1213,
           "name": "SK Slavia Praha",
@@ -4694,7 +4762,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 70,
+        "rank": 71,
         "team": {
           "id": 76,
           "name": "Villarreal CF",
@@ -4754,74 +4822,6 @@
           "btts_away_matches": 0,
           "avg_corners_away_per_game": 3.0,
           "aproveitamento_away": 0.0,
-          "over_2_5_goals_away": 0,
-          "over_0_5_ht_away": 0,
-          "over_0_5_ft_away": 0,
-          "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 70,
-        "team": {
-          "id": 157,
-          "name": "Newcastle United FC",
-          "logo": "https://cdn.footystats.org/img/teams/england-newcastle-united-fc.png"
-        },
-        "points": 0,
-        "goalsDiff": -1,
-        "group": "Europe UEFA Champions League 2025",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 1,
-          "win": 0,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 1,
-            "against": 2
-          },
-          "form": "L",
-          "btts_matches": 1,
-          "avg_corners_per_game": 6.0,
-          "aproveitamento": 0.0,
-          "over_2_5_goals": 1,
-          "over_0_5_ht": 0,
-          "over_0_5_ft": 1,
-          "clean_sheets": 0
-        },
-        "home": {
-          "played": 1,
-          "win": 0,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 1,
-            "against": 2
-          },
-          "form_home": "L",
-          "avg_corners_home_per_game": 6.0,
-          "aproveitamento_home": 0.0,
-          "btts_home_matches": 1,
-          "over_2_5_goals_home": 1,
-          "over_0_5_ht_home": 0,
-          "over_0_5_ft_home": 1,
-          "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 0,
-          "win": 0,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 0,
-            "against": 0
-          },
-          "form_visitor": "",
-          "btts_away_matches": 0,
-          "avg_corners_away_per_game": 0,
-          "aproveitamento_away": 0,
           "over_2_5_goals_away": 0,
           "over_0_5_ht_away": 0,
           "over_0_5_ft_away": 0,
@@ -5613,7 +5613,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 4,
         "jogador-assists": 2,
-        "jogador-partidas": 7,
+        "jogador-partidas": 8,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/azerbaijan-qarabag-agdam-fk.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/cape-verde-leandro-andrade.png"
       },
@@ -5712,7 +5712,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 3,
         "jogador-assists": 0,
-        "jogador-partidas": 6,
+        "jogador-partidas": 7,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/denmark-fc-kobenhavn.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-robert-vinicius-rodrigues-silva.png"
       },
@@ -5744,6 +5744,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/-arb-manaj.png"
       },
       {
+        "jogador-nome": "Anthony Michael Gordon",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 3,
+        "jogador-assists": 0,
+        "jogador-partidas": 2,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/england-newcastle-united-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/england-anthony-gordon.png"
+      },
+      {
         "jogador-nome": "Christos Tzolis",
         "jogador-posicao": "Forward",
         "jogador-gols": 2,
@@ -5751,15 +5760,6 @@
         "jogador-partidas": 6,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/belgium-club-brugge-kv.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/greece-christos-tzolis.png"
-      },
-      {
-        "jogador-nome": "Mirko Ivanić",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 2,
-        "jogador-assists": 3,
-        "jogador-partidas": 5,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/serbia-red-star-belgrade.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/montenegro-mirko-ivanic.png"
       }
     ]
   }
