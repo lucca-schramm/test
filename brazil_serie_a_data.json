@@ -548,6 +548,74 @@
       {
         "rank": 9,
         "team": {
+          "id": 616,
+          "name": "Grêmio FB Porto Alegrense",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-gremio-fb-porto-alegrense.png"
+        },
+        "points": 33,
+        "goalsDiff": -4,
+        "group": "Brazil Serie A 2025",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 26,
+          "win": 8,
+          "draw": 9,
+          "lose": 9,
+          "goals": {
+            "for": 28,
+            "against": 32
+          },
+          "form": "LWDWD",
+          "btts_matches": 16,
+          "avg_corners_per_game": 3.58,
+          "aproveitamento": 42.3,
+          "over_2_5_goals": 8,
+          "over_0_5_ht": 10,
+          "over_0_5_ft": 12,
+          "clean_sheets": 4
+        },
+        "home": {
+          "played": 13,
+          "win": 5,
+          "draw": 5,
+          "lose": 3,
+          "goals": {
+            "for": 13,
+            "against": 11
+          },
+          "form_home": "LDLDW",
+          "avg_corners_home_per_game": 3.62,
+          "aproveitamento_home": 51.3,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 5,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 13,
+          "win": 3,
+          "draw": 4,
+          "lose": 6,
+          "goals": {
+            "for": 15,
+            "against": 21
+          },
+          "form_visitor": "LWDWD",
+          "btts_away_matches": 9,
+          "avg_corners_away_per_game": 3.54,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 5,
+          "over_0_5_ft_away": 7,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 10,
+        "team": {
           "id": 635,
           "name": "Clube Atlético Bragantino",
           "logo": "https://cdn.footystats.org/img/teams/brazil-clube-atletico-bragantino.png"
@@ -610,74 +678,6 @@
           "over_0_5_ht_away": 7,
           "over_0_5_ft_away": 5,
           "clean_sheets_away": 2
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 10,
-        "team": {
-          "id": 616,
-          "name": "Grêmio FB Porto Alegrense",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-gremio-fb-porto-alegrense.png"
-        },
-        "points": 32,
-        "goalsDiff": -4,
-        "group": "Brazil Serie A 2025",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 25,
-          "win": 8,
-          "draw": 8,
-          "lose": 9,
-          "goals": {
-            "for": 27,
-            "against": 31
-          },
-          "form": "DLWDW",
-          "btts_matches": 15,
-          "avg_corners_per_game": 3.72,
-          "aproveitamento": 42.7,
-          "over_2_5_goals": 8,
-          "over_0_5_ht": 10,
-          "over_0_5_ft": 11,
-          "clean_sheets": 4
-        },
-        "home": {
-          "played": 13,
-          "win": 5,
-          "draw": 5,
-          "lose": 3,
-          "goals": {
-            "for": 13,
-            "against": 11
-          },
-          "form_home": "LDLDW",
-          "avg_corners_home_per_game": 3.62,
-          "aproveitamento_home": 51.3,
-          "btts_home_matches": 7,
-          "over_2_5_goals_home": 3,
-          "over_0_5_ht_home": 5,
-          "over_0_5_ft_home": 5,
-          "clean_sheets_home": 3
-        },
-        "away": {
-          "played": 12,
-          "win": 3,
-          "draw": 3,
-          "lose": 6,
-          "goals": {
-            "for": 14,
-            "against": 20
-          },
-          "form_visitor": "LLWDW",
-          "btts_away_matches": 8,
-          "avg_corners_away_per_game": 3.83,
-          "aproveitamento_away": 33.3,
-          "over_2_5_goals_away": 5,
-          "over_0_5_ht_away": 5,
-          "over_0_5_ft_away": 6,
-          "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1028,45 +1028,45 @@
           "name": "Santos FC Sao Paulo",
           "logo": "https://cdn.footystats.org/img/teams/brazil-santos-fc-sao-paulo.png"
         },
-        "points": 27,
+        "points": 28,
         "goalsDiff": -10,
         "group": "Brazil Serie A 2025",
         "status": "same",
         "description": "",
         "all": {
-          "played": 24,
+          "played": 25,
           "win": 7,
-          "draw": 6,
+          "draw": 7,
           "lose": 11,
           "goals": {
-            "for": 24,
-            "against": 34
+            "for": 25,
+            "against": 35
           },
-          "form": "LDDWD",
-          "btts_matches": 11,
-          "avg_corners_per_game": 4.25,
-          "aproveitamento": 37.5,
+          "form": "DDWDD",
+          "btts_matches": 12,
+          "avg_corners_per_game": 4.48,
+          "aproveitamento": 37.3,
           "over_2_5_goals": 12,
           "over_0_5_ht": 6,
-          "over_0_5_ft": 11,
+          "over_0_5_ft": 12,
           "clean_sheets": 6
         },
         "home": {
-          "played": 11,
+          "played": 12,
           "win": 4,
-          "draw": 3,
+          "draw": 4,
           "lose": 4,
           "goals": {
-            "for": 11,
-            "against": 14
+            "for": 12,
+            "against": 15
           },
-          "form_home": "LWLDW",
-          "avg_corners_home_per_game": 5.36,
-          "aproveitamento_home": 45.5,
-          "btts_home_matches": 4,
+          "form_home": "WLDWD",
+          "avg_corners_home_per_game": 5.75,
+          "aproveitamento_home": 44.4,
+          "btts_home_matches": 5,
           "over_2_5_goals_home": 5,
           "over_0_5_ht_home": 2,
-          "over_0_5_ft_home": 6,
+          "over_0_5_ft_home": 7,
           "clean_sheets_home": 5
         },
         "away": {
@@ -1505,7 +1505,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 6,
         "jogador-assists": 0,
-        "jogador-partidas": 20,
+        "jogador-partidas": 21,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-santos-fc-sao-paulo.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/argentina-alvaro-barreal.png"
       },
