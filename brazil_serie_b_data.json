@@ -208,6 +208,74 @@
       {
         "rank": 4,
         "team": {
+          "id": 691,
+          "name": "Criciuma EC",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-criciuma-ec.png"
+        },
+        "points": 47,
+        "goalsDiff": 11,
+        "group": "Brazil Serie B 2025",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 29,
+          "win": 13,
+          "draw": 8,
+          "lose": 8,
+          "goals": {
+            "for": 37,
+            "against": 26
+          },
+          "form": "WDWLD",
+          "btts_matches": 14,
+          "avg_corners_per_game": 5.34,
+          "aproveitamento": 54.0,
+          "over_2_5_goals": 9,
+          "over_0_5_ht": 16,
+          "over_0_5_ft": 13,
+          "clean_sheets": 12
+        },
+        "home": {
+          "played": 15,
+          "win": 9,
+          "draw": 2,
+          "lose": 4,
+          "goals": {
+            "for": 25,
+            "against": 15
+          },
+          "form_home": "WWWWL",
+          "avg_corners_home_per_game": 6.8,
+          "aproveitamento_home": 64.4,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 7,
+          "over_0_5_ht_home": 10,
+          "over_0_5_ft_home": 7,
+          "clean_sheets_home": 7
+        },
+        "away": {
+          "played": 14,
+          "win": 4,
+          "draw": 6,
+          "lose": 4,
+          "goals": {
+            "for": 12,
+            "against": 11
+          },
+          "form_visitor": "LDWDD",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 3.79,
+          "aproveitamento_away": 42.9,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 6,
+          "over_0_5_ft_away": 6,
+          "clean_sheets_away": 5
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 5,
+        "team": {
           "id": 2712,
           "name": "Grêmio Novorizontino",
           "logo": "https://cdn.footystats.org/img/teams/brazil-gremio-novorizontino.png"
@@ -216,7 +284,7 @@
         "goalsDiff": 6,
         "group": "Brazil Serie B 2025",
         "status": "same",
-        "description": "Copa Libertadores",
+        "description": "Copa Sul-Americana",
         "all": {
           "played": 29,
           "win": 12,
@@ -270,74 +338,6 @@
           "over_0_5_ht_away": 5,
           "over_0_5_ft_away": 3,
           "clean_sheets_away": 6
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 5,
-        "team": {
-          "id": 691,
-          "name": "Criciuma EC",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-criciuma-ec.png"
-        },
-        "points": 46,
-        "goalsDiff": 11,
-        "group": "Brazil Serie B 2025",
-        "status": "same",
-        "description": "Copa Sul-Americana",
-        "all": {
-          "played": 28,
-          "win": 13,
-          "draw": 7,
-          "lose": 8,
-          "goals": {
-            "for": 36,
-            "against": 25
-          },
-          "form": "WWDWL",
-          "btts_matches": 13,
-          "avg_corners_per_game": 5.36,
-          "aproveitamento": 54.8,
-          "over_2_5_goals": 9,
-          "over_0_5_ht": 16,
-          "over_0_5_ft": 12,
-          "clean_sheets": 12
-        },
-        "home": {
-          "played": 15,
-          "win": 9,
-          "draw": 2,
-          "lose": 4,
-          "goals": {
-            "for": 25,
-            "against": 15
-          },
-          "form_home": "WWWWL",
-          "avg_corners_home_per_game": 6.8,
-          "aproveitamento_home": 64.4,
-          "btts_home_matches": 7,
-          "over_2_5_goals_home": 7,
-          "over_0_5_ht_home": 10,
-          "over_0_5_ft_home": 7,
-          "clean_sheets_home": 7
-        },
-        "away": {
-          "played": 13,
-          "win": 4,
-          "draw": 5,
-          "lose": 4,
-          "goals": {
-            "for": 11,
-            "against": 10
-          },
-          "form_visitor": "WLDWD",
-          "btts_away_matches": 6,
-          "avg_corners_away_per_game": 3.69,
-          "aproveitamento_away": 43.6,
-          "over_2_5_goals_away": 2,
-          "over_0_5_ht_away": 6,
-          "over_0_5_ft_away": 5,
-          "clean_sheets_away": 5
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -824,44 +824,44 @@
           "name": "Vila Nova FC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-vila-nova-fc.png"
         },
-        "points": 38,
+        "points": 39,
         "goalsDiff": -2,
         "group": "Brazil Serie B 2025",
         "status": "same",
         "description": "",
         "all": {
-          "played": 29,
+          "played": 30,
           "win": 10,
-          "draw": 8,
+          "draw": 9,
           "lose": 11,
           "goals": {
-            "for": 29,
-            "against": 31
+            "for": 30,
+            "against": 32
           },
-          "form": "DDLDD",
-          "btts_matches": 12,
-          "avg_corners_per_game": 4.24,
-          "aproveitamento": 43.7,
+          "form": "DLDDD",
+          "btts_matches": 13,
+          "avg_corners_per_game": 4.2,
+          "aproveitamento": 43.3,
           "over_2_5_goals": 9,
-          "over_0_5_ht": 12,
+          "over_0_5_ht": 13,
           "over_0_5_ft": 13,
           "clean_sheets": 9
         },
         "home": {
-          "played": 14,
+          "played": 15,
           "win": 7,
-          "draw": 4,
+          "draw": 5,
           "lose": 3,
           "goals": {
-            "for": 16,
-            "against": 11
+            "for": 17,
+            "against": 12
           },
-          "form_home": "LWDDD",
-          "avg_corners_home_per_game": 5.14,
-          "aproveitamento_home": 59.5,
-          "btts_home_matches": 5,
+          "form_home": "WDDDD",
+          "avg_corners_home_per_game": 5.0,
+          "aproveitamento_home": 57.8,
+          "btts_home_matches": 6,
           "over_2_5_goals_home": 4,
-          "over_0_5_ht_home": 7,
+          "over_0_5_ht_home": 8,
           "over_0_5_ft_home": 6,
           "clean_sheets_home": 7
         },
@@ -1506,11 +1506,20 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-gabriel-boschilia.png"
       },
       {
+        "jogador-nome": "Diego Gonçalves",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 7,
+        "jogador-assists": 3,
+        "jogador-partidas": 29,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-criciuma-ec.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-diego-goncalves.png"
+      },
+      {
         "jogador-nome": "Nicolás Godinho Johann",
         "jogador-posicao": "Forward",
         "jogador-gols": 7,
         "jogador-assists": 1,
-        "jogador-partidas": 27,
+        "jogador-partidas": 28,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-paysandu-sc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-nicolas-godinho-johann.png"
       },
@@ -1578,15 +1587,6 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-rafael-dos-santos-cavalheira-natividade.png"
       },
       {
-        "jogador-nome": "Diego Gonçalves",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 6,
-        "jogador-assists": 3,
-        "jogador-partidas": 28,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-criciuma-ec.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-diego-goncalves.png"
-      },
-      {
         "jogador-nome": "Walter David Clar Fritz",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 6,
@@ -1596,6 +1596,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/paraguay-walter-david-clar-fritz.png"
       },
       {
+        "jogador-nome": "Geremias Ribeiro Junior",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 6,
+        "jogador-assists": 1,
+        "jogador-partidas": 22,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-vila-nova-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-geremias-ribeiro-junior.png"
+      },
+      {
         "jogador-nome": "Diogo de Oliveira Barbosa",
         "jogador-posicao": "Forward",
         "jogador-gols": 6,
@@ -1603,15 +1612,6 @@
         "jogador-partidas": 16,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-paysandu-sc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-diogo-de-oliveira-barbosa.png"
-      },
-      {
-        "jogador-nome": "Miguel Ángel Terceros",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 5,
-        "jogador-assists": 4,
-        "jogador-partidas": 21,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-america-fc-minas-gerais.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/-miguel-ángel-terceros.png"
       }
     ]
   }
