@@ -416,28 +416,28 @@
           "name": "São Paulo FC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-sao-paulo-fc.png"
         },
-        "points": 35,
-        "goalsDiff": 2,
+        "points": 38,
+        "goalsDiff": 4,
         "group": "Brazil Serie A 2025",
         "status": "same",
         "description": "",
         "all": {
-          "played": 25,
-          "win": 9,
+          "played": 26,
+          "win": 10,
           "draw": 8,
           "lose": 8,
           "goals": {
-            "for": 27,
+            "for": 29,
             "against": 25
           },
-          "form": "WLWLL",
+          "form": "LWLLW",
           "btts_matches": 11,
-          "avg_corners_per_game": 4.96,
-          "aproveitamento": 46.7,
+          "avg_corners_per_game": 5.0,
+          "aproveitamento": 48.7,
           "over_2_5_goals": 9,
-          "over_0_5_ht": 10,
-          "over_0_5_ft": 11,
-          "clean_sheets": 8
+          "over_0_5_ht": 11,
+          "over_0_5_ft": 12,
+          "clean_sheets": 9
         },
         "home": {
           "played": 13,
@@ -458,22 +458,22 @@
           "clean_sheets_home": 6
         },
         "away": {
-          "played": 12,
-          "win": 2,
+          "played": 13,
+          "win": 3,
           "draw": 5,
           "lose": 5,
           "goals": {
-            "for": 11,
+            "for": 13,
             "against": 15
           },
-          "form_visitor": "WWDLL",
+          "form_visitor": "WDLLW",
           "btts_away_matches": 6,
-          "avg_corners_away_per_game": 4.5,
-          "aproveitamento_away": 30.6,
+          "avg_corners_away_per_game": 4.62,
+          "aproveitamento_away": 35.9,
           "over_2_5_goals_away": 5,
-          "over_0_5_ht_away": 4,
-          "over_0_5_ft_away": 5,
-          "clean_sheets_away": 2
+          "over_0_5_ht_away": 5,
+          "over_0_5_ft_away": 6,
+          "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1233,40 +1233,40 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-fortaleza-ec.png"
         },
         "points": 21,
-        "goalsDiff": -14,
+        "goalsDiff": -16,
         "group": "Brazil Serie A 2025",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 24,
+          "played": 25,
           "win": 5,
           "draw": 6,
-          "lose": 13,
+          "lose": 14,
           "goals": {
             "for": 24,
-            "against": 38
+            "against": 40
           },
-          "form": "LLWLW",
+          "form": "LWLWL",
           "btts_matches": 11,
-          "avg_corners_per_game": 6.08,
-          "aproveitamento": 29.2,
+          "avg_corners_per_game": 6.16,
+          "aproveitamento": 28.0,
           "over_2_5_goals": 12,
           "over_0_5_ht": 11,
           "over_0_5_ft": 7,
           "clean_sheets": 7
         },
         "home": {
-          "played": 13,
+          "played": 14,
           "win": 5,
           "draw": 2,
-          "lose": 6,
+          "lose": 7,
           "goals": {
             "for": 17,
-            "against": 16
+            "against": 18
           },
-          "form_home": "WLLWW",
-          "avg_corners_home_per_game": 6.85,
-          "aproveitamento_home": 43.6,
+          "form_home": "LLWWL",
+          "avg_corners_home_per_game": 6.93,
+          "aproveitamento_home": 40.5,
           "btts_home_matches": 4,
           "over_2_5_goals_home": 5,
           "over_0_5_ht_home": 6,
