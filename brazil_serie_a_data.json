@@ -548,28 +548,96 @@
       {
         "rank": 9,
         "team": {
+          "id": 635,
+          "name": "Clube Atlético Bragantino",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-clube-atletico-bragantino.png"
+        },
+        "points": 36,
+        "goalsDiff": -5,
+        "group": "Brazil Serie A 2025",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 27,
+          "win": 10,
+          "draw": 6,
+          "lose": 11,
+          "goals": {
+            "for": 33,
+            "against": 38
+          },
+          "form": "DLDDW",
+          "btts_matches": 17,
+          "avg_corners_per_game": 4.85,
+          "aproveitamento": 44.4,
+          "over_2_5_goals": 15,
+          "over_0_5_ht": 15,
+          "over_0_5_ft": 14,
+          "clean_sheets": 7
+        },
+        "home": {
+          "played": 14,
+          "win": 6,
+          "draw": 4,
+          "lose": 4,
+          "goals": {
+            "for": 19,
+            "against": 19
+          },
+          "form_home": "LWDDW",
+          "avg_corners_home_per_game": 5.14,
+          "aproveitamento_home": 52.4,
+          "btts_home_matches": 8,
+          "over_2_5_goals_home": 8,
+          "over_0_5_ht_home": 8,
+          "over_0_5_ft_home": 9,
+          "clean_sheets_home": 5
+        },
+        "away": {
+          "played": 13,
+          "win": 4,
+          "draw": 2,
+          "lose": 7,
+          "goals": {
+            "for": 14,
+            "against": 19
+          },
+          "form_visitor": "LLLLD",
+          "btts_away_matches": 9,
+          "avg_corners_away_per_game": 4.54,
+          "aproveitamento_away": 35.9,
+          "over_2_5_goals_away": 7,
+          "over_0_5_ht_away": 7,
+          "over_0_5_ft_away": 5,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 10,
+        "team": {
           "id": 616,
           "name": "Grêmio FB Porto Alegrense",
           "logo": "https://cdn.footystats.org/img/teams/brazil-gremio-fb-porto-alegrense.png"
         },
         "points": 33,
-        "goalsDiff": -4,
+        "goalsDiff": -5,
         "group": "Brazil Serie A 2025",
         "status": "same",
         "description": "",
         "all": {
-          "played": 26,
+          "played": 27,
           "win": 8,
           "draw": 9,
-          "lose": 9,
+          "lose": 10,
           "goals": {
             "for": 28,
-            "against": 32
+            "against": 33
           },
-          "form": "LWDWD",
+          "form": "WDWDL",
           "btts_matches": 16,
-          "avg_corners_per_game": 3.58,
-          "aproveitamento": 42.3,
+          "avg_corners_per_game": 3.52,
+          "aproveitamento": 40.7,
           "over_2_5_goals": 8,
           "over_0_5_ht": 10,
           "over_0_5_ft": 12,
@@ -594,90 +662,22 @@
           "clean_sheets_home": 3
         },
         "away": {
-          "played": 13,
+          "played": 14,
           "win": 3,
           "draw": 4,
-          "lose": 6,
+          "lose": 7,
           "goals": {
             "for": 15,
-            "against": 21
+            "against": 22
           },
-          "form_visitor": "LWDWD",
+          "form_visitor": "WDWDL",
           "btts_away_matches": 9,
-          "avg_corners_away_per_game": 3.54,
-          "aproveitamento_away": 33.3,
+          "avg_corners_away_per_game": 3.43,
+          "aproveitamento_away": 31.0,
           "over_2_5_goals_away": 5,
           "over_0_5_ht_away": 5,
           "over_0_5_ft_away": 7,
           "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 10,
-        "team": {
-          "id": 635,
-          "name": "Clube Atlético Bragantino",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-clube-atletico-bragantino.png"
-        },
-        "points": 33,
-        "goalsDiff": -6,
-        "group": "Brazil Serie A 2025",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 26,
-          "win": 9,
-          "draw": 6,
-          "lose": 11,
-          "goals": {
-            "for": 32,
-            "against": 38
-          },
-          "form": "LDLDD",
-          "btts_matches": 17,
-          "avg_corners_per_game": 4.81,
-          "aproveitamento": 42.3,
-          "over_2_5_goals": 15,
-          "over_0_5_ht": 15,
-          "over_0_5_ft": 13,
-          "clean_sheets": 6
-        },
-        "home": {
-          "played": 13,
-          "win": 5,
-          "draw": 4,
-          "lose": 4,
-          "goals": {
-            "for": 18,
-            "against": 19
-          },
-          "form_home": "LLWDD",
-          "avg_corners_home_per_game": 5.08,
-          "aproveitamento_home": 48.7,
-          "btts_home_matches": 8,
-          "over_2_5_goals_home": 8,
-          "over_0_5_ht_home": 8,
-          "over_0_5_ft_home": 8,
-          "clean_sheets_home": 4
-        },
-        "away": {
-          "played": 13,
-          "win": 4,
-          "draw": 2,
-          "lose": 7,
-          "goals": {
-            "for": 14,
-            "against": 19
-          },
-          "form_visitor": "LLLLD",
-          "btts_away_matches": 9,
-          "avg_corners_away_per_game": 4.54,
-          "aproveitamento_away": 35.9,
-          "over_2_5_goals_away": 7,
-          "over_0_5_ht_away": 7,
-          "over_0_5_ft_away": 5,
-          "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1465,6 +1465,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-pedro-raul-garay-da-silva.png"
       },
       {
+        "jogador-nome": "Jogador_711874",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 6,
+        "jogador-assists": 4,
+        "jogador-partidas": 24,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-clube-atletico-bragantino.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-jogador_711874.png"
+      },
+      {
         "jogador-nome": "Luciano Batista da Silva Junior",
         "jogador-posicao": "Defender",
         "jogador-gols": 6,
@@ -1535,15 +1544,6 @@
         "jogador-partidas": 24,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-cruzeiro-ec.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-matheus-fellipe-costa-pereira.png"
-      },
-      {
-        "jogador-nome": "Jogador_711874",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 5,
-        "jogador-assists": 4,
-        "jogador-partidas": 23,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-clube-atletico-bragantino.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/-jogador_711874.png"
       }
     ]
   }
