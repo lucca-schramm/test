@@ -208,6 +208,74 @@
       {
         "rank": 4,
         "team": {
+          "id": 623,
+          "name": "Chapecoense AF",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-chapecoense-af.png"
+        },
+        "points": 47,
+        "goalsDiff": 12,
+        "group": "Brazil Serie B 2025",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 30,
+          "win": 14,
+          "draw": 5,
+          "lose": 11,
+          "goals": {
+            "for": 42,
+            "against": 30
+          },
+          "form": "LLLWW",
+          "btts_matches": 14,
+          "avg_corners_per_game": 4.67,
+          "aproveitamento": 52.2,
+          "over_2_5_goals": 14,
+          "over_0_5_ht": 12,
+          "over_0_5_ft": 17,
+          "clean_sheets": 9
+        },
+        "home": {
+          "played": 15,
+          "win": 9,
+          "draw": 2,
+          "lose": 4,
+          "goals": {
+            "for": 28,
+            "against": 18
+          },
+          "form_home": "WDLLW",
+          "avg_corners_home_per_game": 5.47,
+          "aproveitamento_home": 64.4,
+          "btts_home_matches": 10,
+          "over_2_5_goals_home": 10,
+          "over_0_5_ht_home": 9,
+          "over_0_5_ft_home": 12,
+          "clean_sheets_home": 4
+        },
+        "away": {
+          "played": 15,
+          "win": 5,
+          "draw": 3,
+          "lose": 7,
+          "goals": {
+            "for": 14,
+            "against": 12
+          },
+          "form_visitor": "DWLLW",
+          "btts_away_matches": 4,
+          "avg_corners_away_per_game": 3.87,
+          "aproveitamento_away": 40.0,
+          "over_2_5_goals_away": 4,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 5,
+          "clean_sheets_away": 5
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 5,
+        "team": {
           "id": 691,
           "name": "Criciuma EC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-criciuma-ec.png"
@@ -216,7 +284,7 @@
         "goalsDiff": 11,
         "group": "Brazil Serie B 2025",
         "status": "same",
-        "description": "Copa Libertadores",
+        "description": "Copa Sul-Americana",
         "all": {
           "played": 29,
           "win": 13,
@@ -274,30 +342,30 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "team": {
           "id": 2712,
           "name": "Grêmio Novorizontino",
           "logo": "https://cdn.footystats.org/img/teams/brazil-gremio-novorizontino.png"
         },
         "points": 47,
-        "goalsDiff": 6,
+        "goalsDiff": 5,
         "group": "Brazil Serie B 2025",
         "status": "same",
         "description": "Copa Sul-Americana",
         "all": {
-          "played": 29,
+          "played": 30,
           "win": 12,
           "draw": 11,
-          "lose": 6,
+          "lose": 7,
           "goals": {
             "for": 32,
-            "against": 26
+            "against": 27
           },
-          "form": "DWWWD",
+          "form": "WWWDL",
           "btts_matches": 14,
-          "avg_corners_per_game": 5.45,
-          "aproveitamento": 54.0,
+          "avg_corners_per_game": 5.4,
+          "aproveitamento": 52.2,
           "over_2_5_goals": 9,
           "over_0_5_ht": 13,
           "over_0_5_ft": 15,
@@ -322,18 +390,18 @@
           "clean_sheets_home": 5
         },
         "away": {
-          "played": 14,
+          "played": 15,
           "win": 4,
           "draw": 5,
-          "lose": 5,
+          "lose": 6,
           "goals": {
             "for": 9,
-            "against": 14
+            "against": 15
           },
-          "form_visitor": "DLLWW",
+          "form_visitor": "LLWWL",
           "btts_away_matches": 4,
-          "avg_corners_away_per_game": 4.57,
-          "aproveitamento_away": 40.5,
+          "avg_corners_away_per_game": 4.53,
+          "aproveitamento_away": 37.8,
           "over_2_5_goals_away": 3,
           "over_0_5_ht_away": 5,
           "over_0_5_ft_away": 3,
@@ -342,7 +410,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "team": {
           "id": 2592,
           "name": "Cuiabá EC",
@@ -352,7 +420,7 @@
         "goalsDiff": 3,
         "group": "Brazil Serie B 2025",
         "status": "same",
-        "description": "Copa Sul-Americana",
+        "description": "",
         "all": {
           "played": 30,
           "win": 12,
@@ -406,74 +474,6 @@
           "over_0_5_ht_away": 5,
           "over_0_5_ft_away": 7,
           "clean_sheets_away": 3
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 7,
-        "team": {
-          "id": 623,
-          "name": "Chapecoense AF",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-chapecoense-af.png"
-        },
-        "points": 44,
-        "goalsDiff": 11,
-        "group": "Brazil Serie B 2025",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 29,
-          "win": 13,
-          "draw": 5,
-          "lose": 11,
-          "goals": {
-            "for": 41,
-            "against": 30
-          },
-          "form": "LLLLW",
-          "btts_matches": 14,
-          "avg_corners_per_game": 4.76,
-          "aproveitamento": 50.6,
-          "over_2_5_goals": 14,
-          "over_0_5_ht": 12,
-          "over_0_5_ft": 16,
-          "clean_sheets": 8
-        },
-        "home": {
-          "played": 14,
-          "win": 8,
-          "draw": 2,
-          "lose": 4,
-          "goals": {
-            "for": 27,
-            "against": 18
-          },
-          "form_home": "WWDLL",
-          "avg_corners_home_per_game": 5.71,
-          "aproveitamento_home": 61.9,
-          "btts_home_matches": 10,
-          "over_2_5_goals_home": 10,
-          "over_0_5_ht_home": 9,
-          "over_0_5_ft_home": 11,
-          "clean_sheets_home": 3
-        },
-        "away": {
-          "played": 15,
-          "win": 5,
-          "draw": 3,
-          "lose": 7,
-          "goals": {
-            "for": 14,
-            "against": 12
-          },
-          "form_visitor": "DWLLW",
-          "btts_away_matches": 4,
-          "avg_corners_away_per_game": 3.87,
-          "aproveitamento_away": 40.0,
-          "over_2_5_goals_away": 4,
-          "over_0_5_ht_away": 3,
-          "over_0_5_ft_away": 5,
-          "clean_sheets_away": 5
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1582,7 +1582,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 6,
         "jogador-assists": 3,
-        "jogador-partidas": 29,
+        "jogador-partidas": 30,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-chapecoense-af.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-rafael-dos-santos-cavalheira-natividade.png"
       },
@@ -1600,7 +1600,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 6,
         "jogador-assists": 1,
-        "jogador-partidas": 29,
+        "jogador-partidas": 30,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-chapecoense-af.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/paraguay-walter-david-clar-fritz.png"
       },
