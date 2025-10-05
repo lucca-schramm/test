@@ -9,23 +9,23 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-cr-flamengo.png"
         },
         "points": 55,
-        "goalsDiff": 38,
+        "goalsDiff": 37,
         "group": "Brazil Serie A 2025",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 25,
+          "played": 26,
           "win": 16,
           "draw": 7,
-          "lose": 2,
+          "lose": 3,
           "goals": {
             "for": 50,
-            "against": 12
+            "against": 13
           },
-          "form": "DWDWD",
+          "form": "WDWDL",
           "btts_matches": 10,
-          "avg_corners_per_game": 6.32,
-          "aproveitamento": 73.3,
+          "avg_corners_per_game": 6.12,
+          "aproveitamento": 70.5,
           "over_2_5_goals": 10,
           "over_0_5_ht": 12,
           "over_0_5_ft": 17,
@@ -50,18 +50,18 @@
           "clean_sheets_home": 10
         },
         "away": {
-          "played": 11,
+          "played": 12,
           "win": 7,
           "draw": 2,
-          "lose": 2,
+          "lose": 3,
           "goals": {
             "for": 17,
-            "against": 8
+            "against": 9
           },
-          "form_visitor": "WDWWW",
+          "form_visitor": "DWWWL",
           "btts_away_matches": 6,
-          "avg_corners_away_per_game": 5.64,
-          "aproveitamento_away": 69.7,
+          "avg_corners_away_per_game": 5.25,
+          "aproveitamento_away": 63.9,
           "over_2_5_goals_away": 5,
           "over_0_5_ht_away": 5,
           "over_0_5_ft_away": 7,
@@ -348,46 +348,46 @@
           "name": "EC Bahia",
           "logo": "https://cdn.footystats.org/img/teams/brazil-ec-bahia.png"
         },
-        "points": 40,
-        "goalsDiff": 3,
+        "points": 43,
+        "goalsDiff": 4,
         "group": "Brazil Serie A 2025",
         "status": "same",
         "description": "Copa Sul-Americana",
         "all": {
-          "played": 25,
-          "win": 11,
+          "played": 26,
+          "win": 12,
           "draw": 7,
           "lose": 7,
           "goals": {
-            "for": 33,
+            "for": 34,
             "against": 30
           },
-          "form": "LDLWL",
+          "form": "DLWLW",
           "btts_matches": 14,
-          "avg_corners_per_game": 4.2,
-          "aproveitamento": 53.3,
+          "avg_corners_per_game": 4.15,
+          "aproveitamento": 55.1,
           "over_2_5_goals": 13,
-          "over_0_5_ht": 11,
+          "over_0_5_ht": 12,
           "over_0_5_ft": 16,
-          "clean_sheets": 8
+          "clean_sheets": 9
         },
         "home": {
-          "played": 12,
-          "win": 8,
+          "played": 13,
+          "win": 9,
           "draw": 3,
           "lose": 1,
           "goals": {
-            "for": 20,
+            "for": 21,
             "against": 10
           },
-          "form_home": "WDWLW",
-          "avg_corners_home_per_game": 4.08,
-          "aproveitamento_home": 75.0,
+          "form_home": "DWLWW",
+          "avg_corners_home_per_game": 4.0,
+          "aproveitamento_home": 76.9,
           "btts_home_matches": 7,
           "over_2_5_goals_home": 6,
-          "over_0_5_ht_home": 7,
+          "over_0_5_ht_home": 8,
           "over_0_5_ft_home": 9,
-          "clean_sheets_home": 5
+          "clean_sheets_home": 6
         },
         "away": {
           "played": 13,
@@ -1160,99 +1160,31 @@
       {
         "rank": 18,
         "team": {
-          "id": 1053,
-          "name": "EC Juventude",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-ec-juventude.png"
-        },
-        "points": 23,
-        "goalsDiff": -26,
-        "group": "Brazil Serie A 2025",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 25,
-          "win": 6,
-          "draw": 5,
-          "lose": 14,
-          "goals": {
-            "for": 20,
-            "against": 46
-          },
-          "form": "WLLDD",
-          "btts_matches": 9,
-          "avg_corners_per_game": 3.92,
-          "aproveitamento": 30.7,
-          "over_2_5_goals": 11,
-          "over_0_5_ht": 9,
-          "over_0_5_ft": 8,
-          "clean_sheets": 5
-        },
-        "home": {
-          "played": 13,
-          "win": 5,
-          "draw": 3,
-          "lose": 5,
-          "goals": {
-            "for": 15,
-            "against": 15
-          },
-          "form_home": "WWLLD",
-          "avg_corners_home_per_game": 4.0,
-          "aproveitamento_home": 46.2,
-          "btts_home_matches": 6,
-          "over_2_5_goals_home": 4,
-          "over_0_5_ht_home": 7,
-          "over_0_5_ft_home": 6,
-          "clean_sheets_home": 3
-        },
-        "away": {
-          "played": 12,
-          "win": 1,
-          "draw": 2,
-          "lose": 9,
-          "goals": {
-            "for": 5,
-            "against": 31
-          },
-          "form_visitor": "LDWLD",
-          "btts_away_matches": 3,
-          "avg_corners_away_per_game": 3.83,
-          "aproveitamento_away": 13.9,
-          "over_2_5_goals_away": 7,
-          "over_0_5_ht_away": 2,
-          "over_0_5_ft_away": 2,
-          "clean_sheets_away": 2
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 19,
-        "team": {
           "id": 2601,
           "name": "Fortaleza EC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-fortaleza-ec.png"
         },
-        "points": 21,
-        "goalsDiff": -16,
+        "points": 24,
+        "goalsDiff": -15,
         "group": "Brazil Serie A 2025",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 25,
-          "win": 5,
+          "played": 26,
+          "win": 6,
           "draw": 6,
           "lose": 14,
           "goals": {
-            "for": 24,
-            "against": 40
+            "for": 26,
+            "against": 41
           },
-          "form": "LWLWL",
-          "btts_matches": 11,
-          "avg_corners_per_game": 6.16,
-          "aproveitamento": 28.0,
-          "over_2_5_goals": 12,
+          "form": "WLWLW",
+          "btts_matches": 12,
+          "avg_corners_per_game": 5.96,
+          "aproveitamento": 30.8,
+          "over_2_5_goals": 13,
           "over_0_5_ht": 11,
-          "over_0_5_ft": 7,
+          "over_0_5_ft": 8,
           "clean_sheets": 7
         },
         "home": {
@@ -1274,20 +1206,88 @@
           "clean_sheets_home": 5
         },
         "away": {
-          "played": 11,
-          "win": 0,
+          "played": 12,
+          "win": 1,
           "draw": 4,
           "lose": 7,
           "goals": {
-            "for": 7,
-            "against": 22
+            "for": 9,
+            "against": 23
           },
-          "form_visitor": "LDLLL",
-          "btts_away_matches": 7,
-          "avg_corners_away_per_game": 5.18,
-          "aproveitamento_away": 12.1,
-          "over_2_5_goals_away": 7,
+          "form_visitor": "DLLLW",
+          "btts_away_matches": 8,
+          "avg_corners_away_per_game": 4.83,
+          "aproveitamento_away": 19.4,
+          "over_2_5_goals_away": 8,
           "over_0_5_ht_away": 5,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 19,
+        "team": {
+          "id": 1053,
+          "name": "EC Juventude",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-ec-juventude.png"
+        },
+        "points": 23,
+        "goalsDiff": -27,
+        "group": "Brazil Serie A 2025",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 26,
+          "win": 6,
+          "draw": 5,
+          "lose": 15,
+          "goals": {
+            "for": 21,
+            "against": 48
+          },
+          "form": "LLDDL",
+          "btts_matches": 10,
+          "avg_corners_per_game": 4.08,
+          "aproveitamento": 29.5,
+          "over_2_5_goals": 12,
+          "over_0_5_ht": 10,
+          "over_0_5_ft": 8,
+          "clean_sheets": 5
+        },
+        "home": {
+          "played": 14,
+          "win": 5,
+          "draw": 3,
+          "lose": 6,
+          "goals": {
+            "for": 16,
+            "against": 17
+          },
+          "form_home": "WLLDL",
+          "avg_corners_home_per_game": 4.29,
+          "aproveitamento_home": 42.9,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 8,
+          "over_0_5_ft_home": 6,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 12,
+          "win": 1,
+          "draw": 2,
+          "lose": 9,
+          "goals": {
+            "for": 5,
+            "against": 31
+          },
+          "form_visitor": "LDWLD",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 3.83,
+          "aproveitamento_away": 13.9,
+          "over_2_5_goals_away": 7,
+          "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 2,
           "clean_sheets_away": 2
         },
@@ -1379,7 +1379,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 14,
         "jogador-assists": 10,
-        "jogador-partidas": 23,
+        "jogador-partidas": 24,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-cr-flamengo.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/uruguay-giorgian-daniel-de-arrascaeta-benedetti.png"
       },
@@ -1397,7 +1397,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 10,
         "jogador-assists": 4,
-        "jogador-partidas": 18,
+        "jogador-partidas": 19,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-cr-flamengo.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-pedro-guilherme-abreu-dos-santos.png"
       },
