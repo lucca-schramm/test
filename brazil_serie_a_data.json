@@ -208,74 +208,6 @@
       {
         "rank": 4,
         "team": {
-          "id": 2721,
-          "name": "Mirassol Futebol Clube",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-mirassol-futebol-clube.png"
-        },
-        "points": 43,
-        "goalsDiff": 17,
-        "group": "Brazil Serie A 2025",
-        "status": "same",
-        "description": "Copa Libertadores",
-        "all": {
-          "played": 25,
-          "win": 11,
-          "draw": 10,
-          "lose": 4,
-          "goals": {
-            "for": 42,
-            "against": 25
-          },
-          "form": "WDWLD",
-          "btts_matches": 16,
-          "avg_corners_per_game": 5.4,
-          "aproveitamento": 57.3,
-          "over_2_5_goals": 10,
-          "over_0_5_ht": 13,
-          "over_0_5_ft": 14,
-          "clean_sheets": 7
-        },
-        "home": {
-          "played": 12,
-          "win": 7,
-          "draw": 5,
-          "lose": 0,
-          "goals": {
-            "for": 26,
-            "against": 11
-          },
-          "form_home": "WDWWD",
-          "avg_corners_home_per_game": 6.08,
-          "aproveitamento_home": 72.2,
-          "btts_home_matches": 9,
-          "over_2_5_goals_home": 6,
-          "over_0_5_ht_home": 6,
-          "over_0_5_ft_home": 9,
-          "clean_sheets_home": 3
-        },
-        "away": {
-          "played": 13,
-          "win": 4,
-          "draw": 5,
-          "lose": 4,
-          "goals": {
-            "for": 16,
-            "against": 14
-          },
-          "form_visitor": "LWWDL",
-          "btts_away_matches": 7,
-          "avg_corners_away_per_game": 4.77,
-          "aproveitamento_away": 43.6,
-          "over_2_5_goals_away": 4,
-          "over_0_5_ht_away": 7,
-          "over_0_5_ft_away": 5,
-          "clean_sheets_away": 4
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 5,
-        "team": {
           "id": 615,
           "name": "Botafogo FR",
           "logo": "https://cdn.footystats.org/img/teams/brazil-botafogo-fr.png"
@@ -284,7 +216,7 @@
         "goalsDiff": 14,
         "group": "Brazil Serie A 2025",
         "status": "same",
-        "description": "Copa Sul-Americana",
+        "description": "Copa Libertadores",
         "all": {
           "played": 27,
           "win": 12,
@@ -338,6 +270,74 @@
           "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 6,
           "clean_sheets_away": 6
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 4,
+        "team": {
+          "id": 2721,
+          "name": "Mirassol Futebol Clube",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-mirassol-futebol-clube.png"
+        },
+        "points": 43,
+        "goalsDiff": 14,
+        "group": "Brazil Serie A 2025",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 26,
+          "win": 11,
+          "draw": 10,
+          "lose": 5,
+          "goals": {
+            "for": 42,
+            "against": 28
+          },
+          "form": "DWLDL",
+          "btts_matches": 16,
+          "avg_corners_per_game": 5.42,
+          "aproveitamento": 55.1,
+          "over_2_5_goals": 11,
+          "over_0_5_ht": 13,
+          "over_0_5_ft": 14,
+          "clean_sheets": 7
+        },
+        "home": {
+          "played": 12,
+          "win": 7,
+          "draw": 5,
+          "lose": 0,
+          "goals": {
+            "for": 26,
+            "against": 11
+          },
+          "form_home": "WDWWD",
+          "avg_corners_home_per_game": 6.08,
+          "aproveitamento_home": 72.2,
+          "btts_home_matches": 9,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 6,
+          "over_0_5_ft_home": 9,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 14,
+          "win": 4,
+          "draw": 5,
+          "lose": 5,
+          "goals": {
+            "for": 16,
+            "against": 17
+          },
+          "form_visitor": "WWDLL",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 4.86,
+          "aproveitamento_away": 40.5,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 7,
+          "over_0_5_ft_away": 5,
+          "clean_sheets_away": 4
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -616,6 +616,74 @@
       {
         "rank": 10,
         "team": {
+          "id": 624,
+          "name": "SC Corinthians Paulista",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-sc-corinthians-paulista.png"
+        },
+        "points": 33,
+        "goalsDiff": -3,
+        "group": "Brazil Serie A 2025",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 27,
+          "win": 8,
+          "draw": 9,
+          "lose": 10,
+          "goals": {
+            "for": 29,
+            "against": 32
+          },
+          "form": "WLLDW",
+          "btts_matches": 14,
+          "avg_corners_per_game": 4.52,
+          "aproveitamento": 40.7,
+          "over_2_5_goals": 11,
+          "over_0_5_ht": 9,
+          "over_0_5_ft": 14,
+          "clean_sheets": 8
+        },
+        "home": {
+          "played": 13,
+          "win": 5,
+          "draw": 4,
+          "lose": 4,
+          "goals": {
+            "for": 18,
+            "against": 13
+          },
+          "form_home": "DLDLW",
+          "avg_corners_home_per_game": 5.15,
+          "aproveitamento_home": 48.7,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 7,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 8,
+          "clean_sheets_home": 5
+        },
+        "away": {
+          "played": 14,
+          "win": 3,
+          "draw": 5,
+          "lose": 6,
+          "goals": {
+            "for": 11,
+            "against": 19
+          },
+          "form_visitor": "LWWLD",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 3.93,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 4,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 6,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 11,
+        "team": {
           "id": 616,
           "name": "Grêmio FB Porto Alegrense",
           "logo": "https://cdn.footystats.org/img/teams/brazil-gremio-fb-porto-alegrense.png"
@@ -682,7 +750,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 11,
+        "rank": 12,
         "team": {
           "id": 630,
           "name": "SC Internacional",
@@ -750,7 +818,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "team": {
           "id": 642,
           "name": "Ceará SC",
@@ -818,7 +886,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "team": {
           "id": 625,
           "name": "CR Vasco da Gama",
@@ -882,74 +950,6 @@
           "over_0_5_ht_away": 7,
           "over_0_5_ft_away": 5,
           "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 14,
-        "team": {
-          "id": 624,
-          "name": "SC Corinthians Paulista",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-sc-corinthians-paulista.png"
-        },
-        "points": 30,
-        "goalsDiff": -6,
-        "group": "Brazil Serie A 2025",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 26,
-          "win": 7,
-          "draw": 9,
-          "lose": 10,
-          "goals": {
-            "for": 26,
-            "against": 32
-          },
-          "form": "DWLLD",
-          "btts_matches": 14,
-          "avg_corners_per_game": 4.62,
-          "aproveitamento": 38.5,
-          "over_2_5_goals": 10,
-          "over_0_5_ht": 8,
-          "over_0_5_ft": 13,
-          "clean_sheets": 7
-        },
-        "home": {
-          "played": 12,
-          "win": 4,
-          "draw": 4,
-          "lose": 4,
-          "goals": {
-            "for": 15,
-            "against": 13
-          },
-          "form_home": "DDLDL",
-          "avg_corners_home_per_game": 5.42,
-          "aproveitamento_home": 44.4,
-          "btts_home_matches": 7,
-          "over_2_5_goals_home": 6,
-          "over_0_5_ht_home": 4,
-          "over_0_5_ft_home": 7,
-          "clean_sheets_home": 4
-        },
-        "away": {
-          "played": 14,
-          "win": 3,
-          "draw": 5,
-          "lose": 6,
-          "goals": {
-            "for": 11,
-            "against": 19
-          },
-          "form_visitor": "LWWLD",
-          "btts_away_matches": 7,
-          "avg_corners_away_per_game": 3.93,
-          "aproveitamento_away": 33.3,
-          "over_2_5_goals_away": 4,
-          "over_0_5_ht_away": 4,
-          "over_0_5_ft_away": 6,
-          "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1424,7 +1424,7 @@
         "jogador-posicao": "Defender",
         "jogador-gols": 9,
         "jogador-assists": 3,
-        "jogador-partidas": 24,
+        "jogador-partidas": 25,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-mirassol-futebol-clube.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-reinaldo-manoel-da-silva.png"
       },
@@ -1436,6 +1436,15 @@
         "jogador-partidas": 22,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-se-palmeiras.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/argentina-jose-manuel-lopez.png"
+      },
+      {
+        "jogador-nome": "Yuri Alberto Monteiro da Silva",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 7,
+        "jogador-assists": 2,
+        "jogador-partidas": 17,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-sc-corinthians-paulista.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-yuri-alberto-monteiro-da-silva.png"
       },
       {
         "jogador-nome": "Rayan Rocha",
@@ -1483,15 +1492,6 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-luciano-batista-da-silva-junior.png"
       },
       {
-        "jogador-nome": "Yuri Alberto Monteiro da Silva",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 6,
-        "jogador-assists": 1,
-        "jogador-partidas": 16,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-sc-corinthians-paulista.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-yuri-alberto-monteiro-da-silva.png"
-      },
-      {
         "jogador-nome": "Martin Braithwaite",
         "jogador-posicao": "Forward",
         "jogador-gols": 6,
@@ -1532,7 +1532,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 6,
         "jogador-assists": 0,
-        "jogador-partidas": 12,
+        "jogador-partidas": 13,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-mirassol-futebol-clube.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-francisco-da-costa.png"
       },
