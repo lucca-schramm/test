@@ -480,6 +480,74 @@
       {
         "rank": 8,
         "team": {
+          "id": 2594,
+          "name": "Clube do Remo",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-clube-do-remo.png"
+        },
+        "points": 45,
+        "goalsDiff": 6,
+        "group": "Brazil Serie B 2025",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 30,
+          "win": 11,
+          "draw": 12,
+          "lose": 7,
+          "goals": {
+            "for": 34,
+            "against": 28
+          },
+          "form": "DLLWW",
+          "btts_matches": 17,
+          "avg_corners_per_game": 4.27,
+          "aproveitamento": 50.0,
+          "over_2_5_goals": 8,
+          "over_0_5_ht": 15,
+          "over_0_5_ft": 13,
+          "clean_sheets": 8
+        },
+        "home": {
+          "played": 15,
+          "win": 7,
+          "draw": 4,
+          "lose": 4,
+          "goals": {
+            "for": 17,
+            "against": 12
+          },
+          "form_home": "LDLLW",
+          "avg_corners_home_per_game": 4.4,
+          "aproveitamento_home": 55.6,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 9,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 5
+        },
+        "away": {
+          "played": 15,
+          "win": 4,
+          "draw": 8,
+          "lose": 3,
+          "goals": {
+            "for": 17,
+            "against": 16
+          },
+          "form_visitor": "DWDLW",
+          "btts_away_matches": 11,
+          "avg_corners_away_per_game": 4.13,
+          "aproveitamento_away": 44.4,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 6,
+          "over_0_5_ft_away": 9,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 9,
+        "team": {
           "id": 694,
           "name": "Clube de Regatas Brasil",
           "logo": "https://cdn.footystats.org/img/teams/brazil-clube-de-regatas-brasil.png"
@@ -542,74 +610,6 @@
           "over_0_5_ht_away": 5,
           "over_0_5_ft_away": 5,
           "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 9,
-        "team": {
-          "id": 2594,
-          "name": "Clube do Remo",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-clube-do-remo.png"
-        },
-        "points": 42,
-        "goalsDiff": 5,
-        "group": "Brazil Serie B 2025",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 29,
-          "win": 10,
-          "draw": 12,
-          "lose": 7,
-          "goals": {
-            "for": 33,
-            "against": 28
-          },
-          "form": "WDLLW",
-          "btts_matches": 17,
-          "avg_corners_per_game": 4.38,
-          "aproveitamento": 48.3,
-          "over_2_5_goals": 8,
-          "over_0_5_ht": 15,
-          "over_0_5_ft": 12,
-          "clean_sheets": 7
-        },
-        "home": {
-          "played": 15,
-          "win": 7,
-          "draw": 4,
-          "lose": 4,
-          "goals": {
-            "for": 17,
-            "against": 12
-          },
-          "form_home": "LDLLW",
-          "avg_corners_home_per_game": 4.4,
-          "aproveitamento_home": 55.6,
-          "btts_home_matches": 6,
-          "over_2_5_goals_home": 3,
-          "over_0_5_ht_home": 9,
-          "over_0_5_ft_home": 4,
-          "clean_sheets_home": 5
-        },
-        "away": {
-          "played": 14,
-          "win": 3,
-          "draw": 8,
-          "lose": 3,
-          "goals": {
-            "for": 16,
-            "against": 16
-          },
-          "form_visitor": "WDWDL",
-          "btts_away_matches": 11,
-          "avg_corners_away_per_game": 4.36,
-          "aproveitamento_away": 40.5,
-          "over_2_5_goals_away": 5,
-          "over_0_5_ht_away": 6,
-          "over_0_5_ft_away": 8,
-          "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -757,40 +757,40 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-operario-ferroviario-ec.png"
         },
         "points": 39,
-        "goalsDiff": 3,
+        "goalsDiff": 2,
         "group": "Brazil Serie B 2025",
         "status": "same",
         "description": "",
         "all": {
-          "played": 29,
+          "played": 30,
           "win": 10,
           "draw": 9,
-          "lose": 10,
+          "lose": 11,
           "goals": {
             "for": 31,
-            "against": 28
+            "against": 29
           },
-          "form": "DDDWL",
+          "form": "DDWLL",
           "btts_matches": 14,
-          "avg_corners_per_game": 4.69,
-          "aproveitamento": 44.8,
+          "avg_corners_per_game": 4.73,
+          "aproveitamento": 43.3,
           "over_2_5_goals": 12,
           "over_0_5_ht": 14,
           "over_0_5_ft": 11,
           "clean_sheets": 10
         },
         "home": {
-          "played": 14,
+          "played": 15,
           "win": 7,
           "draw": 5,
-          "lose": 2,
+          "lose": 3,
           "goals": {
             "for": 19,
-            "against": 9
+            "against": 10
           },
-          "form_home": "WDWDW",
-          "avg_corners_home_per_game": 4.57,
-          "aproveitamento_home": 61.9,
+          "form_home": "DWDWL",
+          "avg_corners_home_per_game": 4.67,
+          "aproveitamento_home": 57.8,
           "btts_home_matches": 6,
           "over_2_5_goals_home": 6,
           "over_0_5_ht_home": 7,
@@ -1501,7 +1501,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 7,
         "jogador-assists": 5,
-        "jogador-partidas": 26,
+        "jogador-partidas": 27,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-operario-ferroviario-ec.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-gabriel-boschilia.png"
       },
@@ -1528,7 +1528,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 7,
         "jogador-assists": 1,
-        "jogador-partidas": 18,
+        "jogador-partidas": 19,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-operario-ferroviario-ec.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-daniel-amorim-dias-da-silva.png"
       },
