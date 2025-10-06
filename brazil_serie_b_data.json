@@ -145,24 +145,24 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-ca-paranaense.png"
         },
         "points": 48,
-        "goalsDiff": 7,
+        "goalsDiff": 4,
         "group": "Brazil Serie B 2025",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 29,
+          "played": 30,
           "win": 14,
           "draw": 6,
-          "lose": 9,
+          "lose": 10,
           "goals": {
             "for": 43,
-            "against": 36
+            "against": 39
           },
-          "form": "WWWWW",
+          "form": "WWWWL",
           "btts_matches": 19,
           "avg_corners_per_game": 5.1,
-          "aproveitamento": 55.2,
-          "over_2_5_goals": 16,
+          "aproveitamento": 53.3,
+          "over_2_5_goals": 17,
           "over_0_5_ht": 17,
           "over_0_5_ft": 20,
           "clean_sheets": 7
@@ -186,19 +186,19 @@
           "clean_sheets_home": 4
         },
         "away": {
-          "played": 14,
+          "played": 15,
           "win": 7,
           "draw": 2,
-          "lose": 5,
+          "lose": 6,
           "goals": {
             "for": 26,
-            "against": 22
+            "against": 25
           },
-          "form_visitor": "LWWWW",
+          "form_visitor": "WWWWL",
           "btts_away_matches": 11,
-          "avg_corners_away_per_game": 3.57,
-          "aproveitamento_away": 54.8,
-          "over_2_5_goals_away": 12,
+          "avg_corners_away_per_game": 3.67,
+          "aproveitamento_away": 51.1,
+          "over_2_5_goals_away": 13,
           "over_0_5_ht_away": 11,
           "over_0_5_ft_away": 10,
           "clean_sheets_away": 3
@@ -480,6 +480,74 @@
       {
         "rank": 8,
         "team": {
+          "id": 629,
+          "name": "AC Goianiense",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-ac-goianiense.png"
+        },
+        "points": 45,
+        "goalsDiff": 6,
+        "group": "Brazil Serie B 2025",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 30,
+          "win": 11,
+          "draw": 12,
+          "lose": 7,
+          "goals": {
+            "for": 34,
+            "against": 28
+          },
+          "form": "WWWDW",
+          "btts_matches": 14,
+          "avg_corners_per_game": 4.77,
+          "aproveitamento": 50.0,
+          "over_2_5_goals": 10,
+          "over_0_5_ht": 15,
+          "over_0_5_ft": 13,
+          "clean_sheets": 12
+        },
+        "home": {
+          "played": 16,
+          "win": 9,
+          "draw": 4,
+          "lose": 3,
+          "goals": {
+            "for": 23,
+            "against": 12
+          },
+          "form_home": "LWWWW",
+          "avg_corners_home_per_game": 5.25,
+          "aproveitamento_home": 64.6,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 8,
+          "over_0_5_ft_home": 10,
+          "clean_sheets_home": 8
+        },
+        "away": {
+          "played": 14,
+          "win": 2,
+          "draw": 8,
+          "lose": 4,
+          "goals": {
+            "for": 11,
+            "against": 16
+          },
+          "form_visitor": "DDDWD",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 4.21,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 4,
+          "over_0_5_ht_away": 7,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 4
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 8,
+        "team": {
           "id": 2594,
           "name": "Clube do Remo",
           "logo": "https://cdn.footystats.org/img/teams/brazil-clube-do-remo.png"
@@ -546,7 +614,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "team": {
           "id": 694,
           "name": "Clube de Regatas Brasil",
@@ -610,74 +678,6 @@
           "over_0_5_ht_away": 5,
           "over_0_5_ft_away": 5,
           "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 10,
-        "team": {
-          "id": 629,
-          "name": "AC Goianiense",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-ac-goianiense.png"
-        },
-        "points": 42,
-        "goalsDiff": 3,
-        "group": "Brazil Serie B 2025",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 29,
-          "win": 10,
-          "draw": 12,
-          "lose": 7,
-          "goals": {
-            "for": 31,
-            "against": 28
-          },
-          "form": "DWWWD",
-          "btts_matches": 14,
-          "avg_corners_per_game": 4.72,
-          "aproveitamento": 48.3,
-          "over_2_5_goals": 9,
-          "over_0_5_ht": 14,
-          "over_0_5_ft": 12,
-          "clean_sheets": 11
-        },
-        "home": {
-          "played": 15,
-          "win": 8,
-          "draw": 4,
-          "lose": 3,
-          "goals": {
-            "for": 20,
-            "against": 12
-          },
-          "form_home": "WLWWW",
-          "avg_corners_home_per_game": 5.2,
-          "aproveitamento_home": 62.2,
-          "btts_home_matches": 7,
-          "over_2_5_goals_home": 5,
-          "over_0_5_ht_home": 7,
-          "over_0_5_ft_home": 9,
-          "clean_sheets_home": 7
-        },
-        "away": {
-          "played": 14,
-          "win": 2,
-          "draw": 8,
-          "lose": 4,
-          "goals": {
-            "for": 11,
-            "against": 16
-          },
-          "form_visitor": "DDDWD",
-          "btts_away_matches": 7,
-          "avg_corners_away_per_game": 4.21,
-          "aproveitamento_away": 33.3,
-          "over_2_5_goals_away": 4,
-          "over_0_5_ht_away": 7,
-          "over_0_5_ft_away": 3,
-          "clean_sheets_away": 4
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1537,7 +1537,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 7,
         "jogador-assists": 0,
-        "jogador-partidas": 19,
+        "jogador-partidas": 20,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ca-paranaense.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-renan-peixoto-nepomuceno.png"
       },
@@ -1546,7 +1546,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 7,
         "jogador-assists": 0,
-        "jogador-partidas": 13,
+        "jogador-partidas": 14,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ca-paranaense.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/colombia-kevin-stiven-viveros-rodallega.png"
       },
