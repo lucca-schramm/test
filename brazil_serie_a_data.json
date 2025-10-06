@@ -4,74 +4,6 @@
       {
         "rank": 1,
         "team": {
-          "id": 612,
-          "name": "CR Flamengo",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-cr-flamengo.png"
-        },
-        "points": 55,
-        "goalsDiff": 37,
-        "group": "Brazil Serie A 2025",
-        "status": "same",
-        "description": "Copa Libertadores",
-        "all": {
-          "played": 26,
-          "win": 16,
-          "draw": 7,
-          "lose": 3,
-          "goals": {
-            "for": 50,
-            "against": 13
-          },
-          "form": "WDWDL",
-          "btts_matches": 10,
-          "avg_corners_per_game": 6.12,
-          "aproveitamento": 70.5,
-          "over_2_5_goals": 10,
-          "over_0_5_ht": 12,
-          "over_0_5_ft": 17,
-          "clean_sheets": 14
-        },
-        "home": {
-          "played": 14,
-          "win": 9,
-          "draw": 5,
-          "lose": 0,
-          "goals": {
-            "for": 33,
-            "against": 4
-          },
-          "form_home": "WWDDD",
-          "avg_corners_home_per_game": 6.86,
-          "aproveitamento_home": 76.2,
-          "btts_home_matches": 4,
-          "over_2_5_goals_home": 5,
-          "over_0_5_ht_home": 7,
-          "over_0_5_ft_home": 10,
-          "clean_sheets_home": 10
-        },
-        "away": {
-          "played": 12,
-          "win": 7,
-          "draw": 2,
-          "lose": 3,
-          "goals": {
-            "for": 17,
-            "against": 9
-          },
-          "form_visitor": "DWWWL",
-          "btts_away_matches": 6,
-          "avg_corners_away_per_game": 5.25,
-          "aproveitamento_away": 63.9,
-          "over_2_5_goals_away": 5,
-          "over_0_5_ht_away": 5,
-          "over_0_5_ft_away": 7,
-          "clean_sheets_away": 4
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 2,
-        "team": {
           "id": 619,
           "name": "SE Palmeiras",
           "logo": "https://cdn.footystats.org/img/teams/brazil-se-palmeiras.png"
@@ -134,6 +66,74 @@
           "over_0_5_ht_away": 5,
           "over_0_5_ft_away": 9,
           "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 2,
+        "team": {
+          "id": 612,
+          "name": "CR Flamengo",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-cr-flamengo.png"
+        },
+        "points": 55,
+        "goalsDiff": 37,
+        "group": "Brazil Serie A 2025",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 26,
+          "win": 16,
+          "draw": 7,
+          "lose": 3,
+          "goals": {
+            "for": 50,
+            "against": 13
+          },
+          "form": "WDWDL",
+          "btts_matches": 10,
+          "avg_corners_per_game": 6.12,
+          "aproveitamento": 70.5,
+          "over_2_5_goals": 10,
+          "over_0_5_ht": 12,
+          "over_0_5_ft": 17,
+          "clean_sheets": 14
+        },
+        "home": {
+          "played": 14,
+          "win": 9,
+          "draw": 5,
+          "lose": 0,
+          "goals": {
+            "for": 33,
+            "against": 4
+          },
+          "form_home": "WWDDD",
+          "avg_corners_home_per_game": 6.86,
+          "aproveitamento_home": 76.2,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 7,
+          "over_0_5_ft_home": 10,
+          "clean_sheets_home": 10
+        },
+        "away": {
+          "played": 12,
+          "win": 7,
+          "draw": 2,
+          "lose": 3,
+          "goals": {
+            "for": 17,
+            "against": 9
+          },
+          "form_visitor": "DWWWL",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 5.25,
+          "aproveitamento_away": 63.9,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 5,
+          "over_0_5_ft_away": 7,
+          "clean_sheets_away": 4
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -274,75 +274,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 4,
-        "team": {
-          "id": 2721,
-          "name": "Mirassol Futebol Clube",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-mirassol-futebol-clube.png"
-        },
-        "points": 43,
-        "goalsDiff": 14,
-        "group": "Brazil Serie A 2025",
-        "status": "same",
-        "description": "Copa Libertadores",
-        "all": {
-          "played": 26,
-          "win": 11,
-          "draw": 10,
-          "lose": 5,
-          "goals": {
-            "for": 42,
-            "against": 28
-          },
-          "form": "DWLDL",
-          "btts_matches": 16,
-          "avg_corners_per_game": 5.42,
-          "aproveitamento": 55.1,
-          "over_2_5_goals": 11,
-          "over_0_5_ht": 13,
-          "over_0_5_ft": 14,
-          "clean_sheets": 7
-        },
-        "home": {
-          "played": 12,
-          "win": 7,
-          "draw": 5,
-          "lose": 0,
-          "goals": {
-            "for": 26,
-            "against": 11
-          },
-          "form_home": "WDWWD",
-          "avg_corners_home_per_game": 6.08,
-          "aproveitamento_home": 72.2,
-          "btts_home_matches": 9,
-          "over_2_5_goals_home": 6,
-          "over_0_5_ht_home": 6,
-          "over_0_5_ft_home": 9,
-          "clean_sheets_home": 3
-        },
-        "away": {
-          "played": 14,
-          "win": 4,
-          "draw": 5,
-          "lose": 5,
-          "goals": {
-            "for": 16,
-            "against": 17
-          },
-          "form_visitor": "WWDLL",
-          "btts_away_matches": 7,
-          "avg_corners_away_per_game": 4.86,
-          "aproveitamento_away": 40.5,
-          "over_2_5_goals_away": 5,
-          "over_0_5_ht_away": 7,
-          "over_0_5_ft_away": 5,
-          "clean_sheets_away": 4
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 6,
+        "rank": 5,
         "team": {
           "id": 626,
           "name": "EC Bahia",
@@ -410,75 +342,75 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "team": {
-          "id": 618,
-          "name": "São Paulo FC",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-sao-paulo-fc.png"
+          "id": 2721,
+          "name": "Mirassol Futebol Clube",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-mirassol-futebol-clube.png"
         },
-        "points": 38,
-        "goalsDiff": 3,
+        "points": 43,
+        "goalsDiff": 14,
         "group": "Brazil Serie A 2025",
         "status": "same",
-        "description": "",
+        "description": "Copa Sul-Americana",
         "all": {
-          "played": 27,
-          "win": 10,
-          "draw": 8,
-          "lose": 9,
+          "played": 26,
+          "win": 11,
+          "draw": 10,
+          "lose": 5,
           "goals": {
-            "for": 31,
+            "for": 42,
             "against": 28
           },
-          "form": "WLLWL",
-          "btts_matches": 12,
-          "avg_corners_per_game": 4.96,
-          "aproveitamento": 46.9,
-          "over_2_5_goals": 10,
-          "over_0_5_ht": 12,
-          "over_0_5_ft": 12,
-          "clean_sheets": 9
+          "form": "DWLDL",
+          "btts_matches": 16,
+          "avg_corners_per_game": 5.42,
+          "aproveitamento": 55.1,
+          "over_2_5_goals": 11,
+          "over_0_5_ht": 13,
+          "over_0_5_ft": 14,
+          "clean_sheets": 7
         },
         "home": {
-          "played": 14,
+          "played": 12,
           "win": 7,
-          "draw": 3,
-          "lose": 4,
+          "draw": 5,
+          "lose": 0,
           "goals": {
-            "for": 18,
-            "against": 13
+            "for": 26,
+            "against": 11
           },
-          "form_home": "WWWLL",
-          "avg_corners_home_per_game": 5.29,
-          "aproveitamento_home": 57.1,
-          "btts_home_matches": 6,
-          "over_2_5_goals_home": 5,
-          "over_0_5_ht_home": 7,
-          "over_0_5_ft_home": 6,
-          "clean_sheets_home": 6
+          "form_home": "WDWWD",
+          "avg_corners_home_per_game": 6.08,
+          "aproveitamento_home": 72.2,
+          "btts_home_matches": 9,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 6,
+          "over_0_5_ft_home": 9,
+          "clean_sheets_home": 3
         },
         "away": {
-          "played": 13,
-          "win": 3,
+          "played": 14,
+          "win": 4,
           "draw": 5,
           "lose": 5,
           "goals": {
-            "for": 13,
-            "against": 15
+            "for": 16,
+            "against": 17
           },
-          "form_visitor": "WDLLW",
-          "btts_away_matches": 6,
-          "avg_corners_away_per_game": 4.62,
-          "aproveitamento_away": 35.9,
+          "form_visitor": "WWDLL",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 4.86,
+          "aproveitamento_away": 40.5,
           "over_2_5_goals_away": 5,
-          "over_0_5_ht_away": 5,
-          "over_0_5_ft_away": 6,
-          "clean_sheets_away": 3
+          "over_0_5_ht_away": 7,
+          "over_0_5_ft_away": 5,
+          "clean_sheets_away": 4
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "team": {
           "id": 617,
           "name": "Fluminense FC",
@@ -542,6 +474,74 @@
           "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 8,
           "clean_sheets_away": 4
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 8,
+        "team": {
+          "id": 618,
+          "name": "São Paulo FC",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-sao-paulo-fc.png"
+        },
+        "points": 38,
+        "goalsDiff": 3,
+        "group": "Brazil Serie A 2025",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 27,
+          "win": 10,
+          "draw": 8,
+          "lose": 9,
+          "goals": {
+            "for": 31,
+            "against": 28
+          },
+          "form": "WLLWL",
+          "btts_matches": 12,
+          "avg_corners_per_game": 4.96,
+          "aproveitamento": 46.9,
+          "over_2_5_goals": 10,
+          "over_0_5_ht": 12,
+          "over_0_5_ft": 12,
+          "clean_sheets": 9
+        },
+        "home": {
+          "played": 14,
+          "win": 7,
+          "draw": 3,
+          "lose": 4,
+          "goals": {
+            "for": 18,
+            "against": 13
+          },
+          "form_home": "WWWLL",
+          "avg_corners_home_per_game": 5.29,
+          "aproveitamento_home": 57.1,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 7,
+          "over_0_5_ft_home": 6,
+          "clean_sheets_home": 6
+        },
+        "away": {
+          "played": 13,
+          "win": 3,
+          "draw": 5,
+          "lose": 5,
+          "goals": {
+            "for": 13,
+            "against": 15
+          },
+          "form_visitor": "WDLLW",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 4.62,
+          "aproveitamento_away": 35.9,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 5,
+          "over_0_5_ft_away": 6,
+          "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
