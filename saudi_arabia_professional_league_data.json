@@ -348,45 +348,45 @@
           "name": "Al Ahli SC Jeddah",
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-ahli-sc-jeddah.png"
         },
-        "points": 12,
+        "points": 13,
         "goalsDiff": 4,
         "group": "Saudi Arabia Professional League 2025",
         "status": "same",
         "description": "Copa Sul-Americana",
         "all": {
-          "played": 6,
+          "played": 7,
           "win": 3,
-          "draw": 3,
+          "draw": 4,
           "lose": 0,
           "goals": {
-            "for": 8,
-            "against": 4
+            "for": 9,
+            "against": 5
           },
-          "form": "DDWDW",
-          "btts_matches": 2,
-          "avg_corners_per_game": 6.33,
-          "aproveitamento": 66.7,
+          "form": "DWDWD",
+          "btts_matches": 3,
+          "avg_corners_per_game": 6.71,
+          "aproveitamento": 61.9,
           "over_2_5_goals": 1,
           "over_0_5_ht": 3,
-          "over_0_5_ft": 2,
+          "over_0_5_ft": 3,
           "clean_sheets": 4
         },
         "home": {
-          "played": 3,
+          "played": 4,
           "win": 1,
-          "draw": 2,
+          "draw": 3,
           "lose": 0,
           "goals": {
-            "for": 5,
-            "against": 4
+            "for": 6,
+            "against": 5
           },
-          "form_home": "WDD",
-          "avg_corners_home_per_game": 6.67,
-          "aproveitamento_home": 55.6,
-          "btts_home_matches": 2,
+          "form_home": "WDDD",
+          "avg_corners_home_per_game": 7.25,
+          "aproveitamento_home": 50.0,
+          "btts_home_matches": 3,
           "over_2_5_goals_home": 1,
           "over_0_5_ht_home": 2,
-          "over_0_5_ft_home": 1,
+          "over_0_5_ft_home": 2,
           "clean_sheets_home": 1
         },
         "away": {
@@ -756,27 +756,27 @@
           "name": "Al Riyadh SC",
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-riyadh-sc.png"
         },
-        "points": 6,
+        "points": 7,
         "goalsDiff": -8,
         "group": "Saudi Arabia Professional League 2025",
         "status": "same",
         "description": "",
         "all": {
-          "played": 6,
+          "played": 7,
           "win": 2,
-          "draw": 0,
+          "draw": 1,
           "lose": 4,
           "goals": {
-            "for": 7,
-            "against": 15
+            "for": 8,
+            "against": 16
           },
-          "form": "WLLLW",
-          "btts_matches": 4,
-          "avg_corners_per_game": 5.5,
+          "form": "LLLWD",
+          "btts_matches": 5,
+          "avg_corners_per_game": 5.29,
           "aproveitamento": 33.3,
           "over_2_5_goals": 4,
           "over_0_5_ht": 4,
-          "over_0_5_ft": 2,
+          "over_0_5_ft": 3,
           "clean_sheets": 1
         },
         "home": {
@@ -798,21 +798,21 @@
           "clean_sheets_home": 1
         },
         "away": {
-          "played": 3,
+          "played": 4,
           "win": 0,
-          "draw": 0,
+          "draw": 1,
           "lose": 3,
           "goals": {
-            "for": 2,
-            "against": 11
+            "for": 3,
+            "against": 12
           },
-          "form_visitor": "LLL",
-          "btts_away_matches": 2,
-          "avg_corners_away_per_game": 5.67,
-          "aproveitamento_away": 0.0,
+          "form_visitor": "LLLD",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 5.25,
+          "aproveitamento_away": 8.3,
           "over_2_5_goals_away": 2,
           "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 1,
+          "over_0_5_ft_away": 2,
           "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1275,6 +1275,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-marcos-leonardo-santos-almeida.png"
       },
       {
+        "jogador-nome": "Ivan Toney",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 5,
+        "jogador-assists": 0,
+        "jogador-partidas": 7,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-ahli-sc-jeddah.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/england-ivan-toney.png"
+      },
+      {
         "jogador-nome": "Alexandre Lacazette",
         "jogador-posicao": "Forward",
         "jogador-gols": 4,
@@ -1306,18 +1315,9 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 4,
         "jogador-assists": 0,
-        "jogador-partidas": 6,
+        "jogador-partidas": 7,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-riyadh-sc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/senegal-mamadou-sylla-diallo.png"
-      },
-      {
-        "jogador-nome": "Ivan Toney",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 4,
-        "jogador-assists": 0,
-        "jogador-partidas": 6,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-ahli-sc-jeddah.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/england-ivan-toney.png"
       },
       {
         "jogador-nome": "Kingsley Coman",
