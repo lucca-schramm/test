@@ -960,27 +960,27 @@
           "name": "Al Fateh SC",
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-fateh-sc.png"
         },
-        "points": 4,
+        "points": 5,
         "goalsDiff": -7,
         "group": "Saudi Arabia Professional League 2025",
         "status": "same",
         "description": "",
         "all": {
-          "played": 6,
+          "played": 7,
           "win": 1,
-          "draw": 1,
+          "draw": 2,
           "lose": 4,
           "goals": {
-            "for": 6,
-            "against": 13
+            "for": 7,
+            "against": 14
           },
-          "form": "LDLLW",
-          "btts_matches": 4,
-          "avg_corners_per_game": 4.83,
-          "aproveitamento": 22.2,
+          "form": "DLLWD",
+          "btts_matches": 5,
+          "avg_corners_per_game": 4.86,
+          "aproveitamento": 23.8,
           "over_2_5_goals": 4,
           "over_0_5_ht": 3,
-          "over_0_5_ft": 3,
+          "over_0_5_ft": 4,
           "clean_sheets": 1
         },
         "home": {
@@ -1002,21 +1002,21 @@
           "clean_sheets_home": 0
         },
         "away": {
-          "played": 3,
+          "played": 4,
           "win": 0,
-          "draw": 1,
+          "draw": 2,
           "lose": 2,
           "goals": {
-            "for": 3,
-            "against": 9
+            "for": 4,
+            "against": 10
           },
-          "form_visitor": "LDL",
-          "btts_away_matches": 2,
-          "avg_corners_away_per_game": 4.0,
-          "aproveitamento_away": 11.1,
+          "form_visitor": "LDLD",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 4.25,
+          "aproveitamento_away": 16.7,
           "over_2_5_goals_away": 2,
           "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 2,
+          "over_0_5_ft_away": 3,
           "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1028,45 +1028,45 @@
           "name": "Dhamk Club",
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-dhamk-club.png"
         },
-        "points": 2,
+        "points": 3,
         "goalsDiff": -9,
         "group": "Saudi Arabia Professional League 2025",
         "status": "same",
         "description": "",
         "all": {
-          "played": 6,
+          "played": 7,
           "win": 0,
-          "draw": 2,
+          "draw": 3,
           "lose": 4,
           "goals": {
-            "for": 6,
-            "against": 15
+            "for": 7,
+            "against": 16
           },
-          "form": "LLLLD",
-          "btts_matches": 6,
-          "avg_corners_per_game": 3.83,
-          "aproveitamento": 11.1,
+          "form": "LLLDD",
+          "btts_matches": 7,
+          "avg_corners_per_game": 3.71,
+          "aproveitamento": 14.3,
           "over_2_5_goals": 4,
           "over_0_5_ht": 4,
-          "over_0_5_ft": 2,
+          "over_0_5_ft": 3,
           "clean_sheets": 0
         },
         "home": {
-          "played": 3,
+          "played": 4,
           "win": 0,
-          "draw": 1,
+          "draw": 2,
           "lose": 2,
           "goals": {
-            "for": 3,
-            "against": 6
+            "for": 4,
+            "against": 7
           },
-          "form_home": "DLL",
-          "avg_corners_home_per_game": 5.0,
-          "aproveitamento_home": 11.1,
-          "btts_home_matches": 3,
+          "form_home": "DLLD",
+          "avg_corners_home_per_game": 4.5,
+          "aproveitamento_home": 16.7,
+          "btts_home_matches": 4,
           "over_2_5_goals_home": 2,
           "over_0_5_ht_home": 1,
-          "over_0_5_ft_home": 2,
+          "over_0_5_ft_home": 3,
           "clean_sheets_home": 0
         },
         "away": {
@@ -1342,7 +1342,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 3,
         "jogador-assists": 2,
-        "jogador-partidas": 6,
+        "jogador-partidas": 7,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-dhamk-club.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/argentina-valentin-vada.png"
       },
@@ -1374,6 +1374,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/netherlands-steven-bergwijn.png"
       },
       {
+        "jogador-nome": "Sofiane Bendebka",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 3,
+        "jogador-assists": 1,
+        "jogador-partidas": 6,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-fateh-sc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/algeria-sofiane-bendebka.png"
+      },
+      {
         "jogador-nome": "Roger Beyker Martínez Tobinson",
         "jogador-posicao": "Forward",
         "jogador-gols": 3,
@@ -1399,15 +1408,6 @@
         "jogador-partidas": 6,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-quadisiya-al-khubar.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/argentina-mateo-retegui.png"
-      },
-      {
-        "jogador-nome": "Karim Benzema",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 3,
-        "jogador-assists": 0,
-        "jogador-partidas": 4,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-ittihad-fc-jeddah.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/france-karim-benzema.png"
       }
     ]
   }
