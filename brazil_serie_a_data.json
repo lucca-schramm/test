@@ -344,6 +344,74 @@
       {
         "rank": 6,
         "team": {
+          "id": 617,
+          "name": "Fluminense FC",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-fluminense-fc.png"
+        },
+        "points": 47,
+        "goalsDiff": 2,
+        "group": "Brazil Serie A 2025",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 30,
+          "win": 14,
+          "draw": 5,
+          "lose": 11,
+          "goals": {
+            "for": 37,
+            "against": 35
+          },
+          "form": "LWLWW",
+          "btts_matches": 13,
+          "avg_corners_per_game": 4.7,
+          "aproveitamento": 52.2,
+          "over_2_5_goals": 12,
+          "over_0_5_ht": 13,
+          "over_0_5_ft": 18,
+          "clean_sheets": 11
+        },
+        "home": {
+          "played": 15,
+          "win": 11,
+          "draw": 1,
+          "lose": 3,
+          "goals": {
+            "for": 20,
+            "against": 10
+          },
+          "form_home": "WWWWW",
+          "avg_corners_home_per_game": 5.8,
+          "aproveitamento_home": 75.6,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 9,
+          "over_0_5_ft_home": 9,
+          "clean_sheets_home": 7
+        },
+        "away": {
+          "played": 15,
+          "win": 3,
+          "draw": 4,
+          "lose": 8,
+          "goals": {
+            "for": 17,
+            "against": 25
+          },
+          "form_visitor": "DWDLL",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 3.6,
+          "aproveitamento_away": 28.9,
+          "over_2_5_goals_away": 6,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 9,
+          "clean_sheets_away": 4
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 7,
+        "team": {
           "id": 615,
           "name": "Botafogo FR",
           "logo": "https://cdn.footystats.org/img/teams/brazil-botafogo-fr.png"
@@ -352,7 +420,7 @@
         "goalsDiff": 13,
         "group": "Brazil Serie A 2025",
         "status": "same",
-        "description": "Copa Sul-Americana",
+        "description": "",
         "all": {
           "played": 30,
           "win": 13,
@@ -406,74 +474,6 @@
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 7,
           "clean_sheets_away": 7
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 7,
-        "team": {
-          "id": 617,
-          "name": "Fluminense FC",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-fluminense-fc.png"
-        },
-        "points": 44,
-        "goalsDiff": 1,
-        "group": "Brazil Serie A 2025",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 29,
-          "win": 13,
-          "draw": 5,
-          "lose": 11,
-          "goals": {
-            "for": 36,
-            "against": 35
-          },
-          "form": "WLWLW",
-          "btts_matches": 13,
-          "avg_corners_per_game": 4.55,
-          "aproveitamento": 50.6,
-          "over_2_5_goals": 12,
-          "over_0_5_ht": 12,
-          "over_0_5_ft": 18,
-          "clean_sheets": 10
-        },
-        "home": {
-          "played": 14,
-          "win": 10,
-          "draw": 1,
-          "lose": 3,
-          "goals": {
-            "for": 19,
-            "against": 10
-          },
-          "form_home": "LWWWW",
-          "avg_corners_home_per_game": 5.57,
-          "aproveitamento_home": 73.8,
-          "btts_home_matches": 6,
-          "over_2_5_goals_home": 6,
-          "over_0_5_ht_home": 8,
-          "over_0_5_ft_home": 9,
-          "clean_sheets_home": 6
-        },
-        "away": {
-          "played": 15,
-          "win": 3,
-          "draw": 4,
-          "lose": 8,
-          "goals": {
-            "for": 17,
-            "against": 25
-          },
-          "form_visitor": "DWDLL",
-          "btts_away_matches": 7,
-          "avg_corners_away_per_game": 3.6,
-          "aproveitamento_away": 28.9,
-          "over_2_5_goals_away": 6,
-          "over_0_5_ht_away": 4,
-          "over_0_5_ft_away": 9,
-          "clean_sheets_away": 4
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -893,23 +893,23 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-ceara-sc.png"
         },
         "points": 35,
-        "goalsDiff": -1,
+        "goalsDiff": -2,
         "group": "Brazil Serie A 2025",
         "status": "same",
         "description": "",
         "all": {
-          "played": 29,
+          "played": 30,
           "win": 9,
           "draw": 8,
-          "lose": 12,
+          "lose": 13,
           "goals": {
             "for": 27,
-            "against": 28
+            "against": 29
           },
-          "form": "LWDLL",
+          "form": "WDLLL",
           "btts_matches": 11,
-          "avg_corners_per_game": 4.14,
-          "aproveitamento": 40.2,
+          "avg_corners_per_game": 4.1,
+          "aproveitamento": 38.9,
           "over_2_5_goals": 8,
           "over_0_5_ht": 11,
           "over_0_5_ft": 13,
@@ -934,18 +934,18 @@
           "clean_sheets_home": 5
         },
         "away": {
-          "played": 15,
+          "played": 16,
           "win": 3,
           "draw": 5,
-          "lose": 7,
+          "lose": 8,
           "goals": {
             "for": 13,
-            "against": 17
+            "against": 18
           },
-          "form_visitor": "DWLDL",
+          "form_visitor": "WLDLL",
           "btts_away_matches": 7,
-          "avg_corners_away_per_game": 3.47,
-          "aproveitamento_away": 31.1,
+          "avg_corners_away_per_game": 3.44,
+          "aproveitamento_away": 29.2,
           "over_2_5_goals_away": 6,
           "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 7,
@@ -1460,7 +1460,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 8,
         "jogador-assists": 1,
-        "jogador-partidas": 27,
+        "jogador-partidas": 28,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ceara-sc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-pedro-raul-garay-da-silva.png"
       },
