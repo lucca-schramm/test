@@ -8,46 +8,46 @@
           "name": "FC Bayern München",
           "logo": "https://cdn.footystats.org/img/teams/germany-fc-bayern-munchen.png"
         },
-        "points": 24,
-        "goalsDiff": 26,
+        "points": 27,
+        "goalsDiff": 29,
         "group": "Germany Bundesliga 2025",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 8,
-          "win": 8,
+          "played": 9,
+          "win": 9,
           "draw": 0,
           "lose": 0,
           "goals": {
-            "for": 30,
+            "for": 33,
             "against": 4
           },
           "form": "WWWWW",
           "btts_matches": 3,
-          "avg_corners_per_game": 5.25,
+          "avg_corners_per_game": 5.78,
           "aproveitamento": 100.0,
-          "over_2_5_goals": 8,
-          "over_0_5_ht": 7,
+          "over_2_5_goals": 9,
+          "over_0_5_ht": 8,
           "over_0_5_ft": 8,
-          "clean_sheets": 5
+          "clean_sheets": 6
         },
         "home": {
-          "played": 4,
-          "win": 4,
+          "played": 5,
+          "win": 5,
           "draw": 0,
           "lose": 0,
           "goals": {
-            "for": 17,
+            "for": 20,
             "against": 1
           },
-          "form_home": "WWWW",
-          "avg_corners_home_per_game": 5.25,
+          "form_home": "WWWWW",
+          "avg_corners_home_per_game": 6.2,
           "aproveitamento_home": 100.0,
           "btts_home_matches": 1,
-          "over_2_5_goals_home": 4,
-          "over_0_5_ht_home": 4,
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 5,
           "over_0_5_ft_home": 4,
-          "clean_sheets_home": 3
+          "clean_sheets_home": 4
         },
         "away": {
           "played": 4,
@@ -281,24 +281,24 @@
           "logo": "https://cdn.footystats.org/img/teams/germany-bayer-04-leverkusen.png"
         },
         "points": 17,
-        "goalsDiff": 7,
+        "goalsDiff": 4,
         "group": "Germany Bundesliga 2025",
         "status": "same",
         "description": "Copa Sul-Americana",
         "all": {
-          "played": 8,
+          "played": 9,
           "win": 5,
           "draw": 2,
-          "lose": 1,
+          "lose": 2,
           "goals": {
             "for": 18,
-            "against": 11
+            "against": 14
           },
-          "form": "DWWWW",
+          "form": "WWWWL",
           "btts_matches": 6,
-          "avg_corners_per_game": 3.75,
-          "aproveitamento": 70.8,
-          "over_2_5_goals": 5,
+          "avg_corners_per_game": 3.78,
+          "aproveitamento": 63.0,
+          "over_2_5_goals": 6,
           "over_0_5_ht": 7,
           "over_0_5_ft": 7,
           "clean_sheets": 2
@@ -322,19 +322,19 @@
           "clean_sheets_home": 2
         },
         "away": {
-          "played": 3,
+          "played": 4,
           "win": 2,
           "draw": 1,
-          "lose": 0,
+          "lose": 1,
           "goals": {
             "for": 9,
-            "against": 7
+            "against": 10
           },
-          "form_visitor": "DWW",
+          "form_visitor": "DWWL",
           "btts_away_matches": 3,
-          "avg_corners_away_per_game": 3.67,
-          "aproveitamento_away": 77.8,
-          "over_2_5_goals_away": 3,
+          "avg_corners_away_per_game": 3.75,
+          "aproveitamento_away": 58.3,
+          "over_2_5_goals_away": 4,
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 3,
           "clean_sheets_away": 0
@@ -1234,7 +1234,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 12,
         "jogador-assists": 3,
-        "jogador-partidas": 8,
+        "jogador-partidas": 9,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-fc-bayern-munchen.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/england-harry-kane.png"
       },
@@ -1252,7 +1252,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 5,
         "jogador-assists": 4,
-        "jogador-partidas": 8,
+        "jogador-partidas": 9,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-fc-bayern-munchen.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/colombia-luis-diaz.png"
       },
@@ -1311,11 +1311,20 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-romulo.png"
       },
       {
+        "jogador-nome": "Serge Gnabry",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 4,
+        "jogador-assists": 3,
+        "jogador-partidas": 8,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-fc-bayern-munchen.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/germany-serge-gnabry.png"
+      },
+      {
         "jogador-nome": "Michael Akpovie Olise",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 4,
         "jogador-assists": 3,
-        "jogador-partidas": 8,
+        "jogador-partidas": 9,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-fc-bayern-munchen.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/france-michael-olise.png"
       },
@@ -1336,15 +1345,6 @@
         "jogador-partidas": 9,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-1-fc-union-berlin.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-ilyas-ansah.png"
-      },
-      {
-        "jogador-nome": "Serge Gnabry",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 3,
-        "jogador-assists": 3,
-        "jogador-partidas": 7,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-fc-bayern-munchen.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/germany-serge-gnabry.png"
       },
       {
         "jogador-nome": "Andrej Kramarić",
@@ -1387,7 +1387,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 3,
         "jogador-assists": 1,
-        "jogador-partidas": 6,
+        "jogador-partidas": 7,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-bayer-04-leverkusen.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/czech-republic-patrik-schick.png"
       },
@@ -1405,7 +1405,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 3,
         "jogador-assists": 1,
-        "jogador-partidas": 7,
+        "jogador-partidas": 8,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-bayer-04-leverkusen.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/netherlands-ernest-poku.png"
       }
