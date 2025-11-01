@@ -548,6 +548,74 @@
       {
         "rank": 9,
         "team": {
+          "id": 621,
+          "name": "Avai FC",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-avai-fc.png"
+        },
+        "points": 51,
+        "goalsDiff": 8,
+        "group": "Brazil Serie B 2025",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 35,
+          "win": 13,
+          "draw": 12,
+          "lose": 10,
+          "goals": {
+            "for": 45,
+            "against": 37
+          },
+          "form": "WDDWW",
+          "btts_matches": 20,
+          "avg_corners_per_game": 4.54,
+          "aproveitamento": 48.6,
+          "over_2_5_goals": 17,
+          "over_0_5_ht": 19,
+          "over_0_5_ft": 16,
+          "clean_sheets": 11
+        },
+        "home": {
+          "played": 18,
+          "win": 9,
+          "draw": 6,
+          "lose": 3,
+          "goals": {
+            "for": 28,
+            "against": 14
+          },
+          "form_home": "DLWDW",
+          "avg_corners_home_per_game": 5.22,
+          "aproveitamento_home": 61.1,
+          "btts_home_matches": 9,
+          "over_2_5_goals_home": 9,
+          "over_0_5_ht_home": 9,
+          "over_0_5_ft_home": 12,
+          "clean_sheets_home": 8
+        },
+        "away": {
+          "played": 17,
+          "win": 4,
+          "draw": 6,
+          "lose": 7,
+          "goals": {
+            "for": 17,
+            "against": 23
+          },
+          "form_visitor": "LWLDW",
+          "btts_away_matches": 11,
+          "avg_corners_away_per_game": 3.82,
+          "aproveitamento_away": 35.3,
+          "over_2_5_goals_away": 8,
+          "over_0_5_ht_away": 10,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 10,
+        "team": {
           "id": 629,
           "name": "AC Goianiense",
           "logo": "https://cdn.footystats.org/img/teams/brazil-ac-goianiense.png"
@@ -614,7 +682,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "team": {
           "id": 2592,
           "name": "Cuiabá EC",
@@ -677,74 +745,6 @@
           "over_2_5_goals_away": 6,
           "over_0_5_ht_away": 6,
           "over_0_5_ft_away": 7,
-          "clean_sheets_away": 3
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 11,
-        "team": {
-          "id": 621,
-          "name": "Avai FC",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-avai-fc.png"
-        },
-        "points": 48,
-        "goalsDiff": 7,
-        "group": "Brazil Serie B 2025",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 34,
-          "win": 12,
-          "draw": 12,
-          "lose": 10,
-          "goals": {
-            "for": 43,
-            "against": 36
-          },
-          "form": "LWDDW",
-          "btts_matches": 19,
-          "avg_corners_per_game": 4.56,
-          "aproveitamento": 47.1,
-          "over_2_5_goals": 16,
-          "over_0_5_ht": 18,
-          "over_0_5_ft": 15,
-          "clean_sheets": 11
-        },
-        "home": {
-          "played": 17,
-          "win": 8,
-          "draw": 6,
-          "lose": 3,
-          "goals": {
-            "for": 26,
-            "against": 13
-          },
-          "form_home": "WDLWD",
-          "avg_corners_home_per_game": 5.29,
-          "aproveitamento_home": 58.8,
-          "btts_home_matches": 8,
-          "over_2_5_goals_home": 8,
-          "over_0_5_ht_home": 8,
-          "over_0_5_ft_home": 11,
-          "clean_sheets_home": 8
-        },
-        "away": {
-          "played": 17,
-          "win": 4,
-          "draw": 6,
-          "lose": 7,
-          "goals": {
-            "for": 17,
-            "against": 23
-          },
-          "form_visitor": "LWLDW",
-          "btts_away_matches": 11,
-          "avg_corners_away_per_game": 3.82,
-          "aproveitamento_away": 35.3,
-          "over_2_5_goals_away": 8,
-          "over_0_5_ht_away": 10,
-          "over_0_5_ft_away": 4,
           "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1029,26 +1029,26 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-athletic-club-minas-gerais.png"
         },
         "points": 37,
-        "goalsDiff": -11,
+        "goalsDiff": -12,
         "group": "Brazil Serie B 2025",
         "status": "same",
         "description": "",
         "all": {
-          "played": 34,
+          "played": 35,
           "win": 10,
           "draw": 7,
-          "lose": 17,
+          "lose": 18,
           "goals": {
-            "for": 38,
-            "against": 49
+            "for": 39,
+            "against": 51
           },
-          "form": "DWDLL",
-          "btts_matches": 17,
-          "avg_corners_per_game": 5.0,
-          "aproveitamento": 36.3,
-          "over_2_5_goals": 16,
+          "form": "WDLLL",
+          "btts_matches": 18,
+          "avg_corners_per_game": 5.06,
+          "aproveitamento": 35.2,
+          "over_2_5_goals": 17,
           "over_0_5_ht": 16,
-          "over_0_5_ft": 14,
+          "over_0_5_ft": 15,
           "clean_sheets": 5
         },
         "home": {
@@ -1070,21 +1070,21 @@
           "clean_sheets_home": 2
         },
         "away": {
-          "played": 17,
+          "played": 18,
           "win": 6,
           "draw": 2,
-          "lose": 9,
+          "lose": 10,
           "goals": {
-            "for": 20,
-            "against": 23
+            "for": 21,
+            "against": 25
           },
-          "form_visitor": "DLLWL",
-          "btts_away_matches": 8,
-          "avg_corners_away_per_game": 4.0,
-          "aproveitamento_away": 39.2,
-          "over_2_5_goals_away": 8,
+          "form_visitor": "LLWLL",
+          "btts_away_matches": 9,
+          "avg_corners_away_per_game": 4.17,
+          "aproveitamento_away": 37.0,
+          "over_2_5_goals_away": 9,
           "over_0_5_ht_away": 8,
-          "over_0_5_ft_away": 7,
+          "over_0_5_ft_away": 8,
           "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1452,6 +1452,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-carlos-henrique-de-moura-brito.png"
       },
       {
+        "jogador-nome": "Cleber Bomfim de Jesus",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 10,
+        "jogador-assists": 4,
+        "jogador-partidas": 34,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-avai-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-cleber-bomfim-de-jesus.png"
+      },
+      {
         "jogador-nome": "Alisson Pelegrini Safira",
         "jogador-posicao": "Forward",
         "jogador-gols": 10,
@@ -1470,13 +1479,13 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/uruguay-kevin-federik-ramirez-dutra.png"
       },
       {
-        "jogador-nome": "Cleber Bomfim de Jesus",
-        "jogador-posicao": "Midfielder",
+        "jogador-nome": "Ronaldo Rodrigues Tavares",
+        "jogador-posicao": "Forward",
         "jogador-gols": 9,
-        "jogador-assists": 4,
-        "jogador-partidas": 33,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-avai-fc.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-cleber-bomfim-de-jesus.png"
+        "jogador-assists": 5,
+        "jogador-partidas": 23,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-athletic-club-minas-gerais.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/portugal-ronaldo-rodrigues-tavares.png"
       },
       {
         "jogador-nome": "Diego Gonçalves",
@@ -1504,15 +1513,6 @@
         "jogador-partidas": 18,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ca-paranaense.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/colombia-kevin-stiven-viveros-rodallega.png"
-      },
-      {
-        "jogador-nome": "Ronaldo Rodrigues Tavares",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 8,
-        "jogador-assists": 5,
-        "jogador-partidas": 22,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-athletic-club-minas-gerais.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/portugal-ronaldo-rodrigues-tavares.png"
       },
       {
         "jogador-nome": "Gabriel Boschilia",
@@ -1600,7 +1600,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 7,
         "jogador-assists": 0,
-        "jogador-partidas": 29,
+        "jogador-partidas": 30,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-athletic-club-minas-gerais.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-arnaldo-francisco-da-costa-neto.png"
       },
