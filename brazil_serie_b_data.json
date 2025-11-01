@@ -8,46 +8,46 @@
           "name": "Coritiba FBC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-coritiba-fbc.png"
         },
-        "points": 60,
+        "points": 61,
         "goalsDiff": 14,
         "group": "Brazil Serie B 2025",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 34,
+          "played": 35,
           "win": 17,
-          "draw": 9,
+          "draw": 10,
           "lose": 8,
           "goals": {
             "for": 35,
             "against": 21
           },
-          "form": "WWLDW",
+          "form": "WLDWD",
           "btts_matches": 9,
-          "avg_corners_per_game": 5.38,
-          "aproveitamento": 58.8,
+          "avg_corners_per_game": 5.34,
+          "aproveitamento": 58.1,
           "over_2_5_goals": 8,
           "over_0_5_ht": 13,
           "over_0_5_ft": 12,
-          "clean_sheets": 19
+          "clean_sheets": 20
         },
         "home": {
-          "played": 17,
+          "played": 18,
           "win": 9,
-          "draw": 6,
+          "draw": 7,
           "lose": 2,
           "goals": {
             "for": 21,
             "against": 10
           },
-          "form_home": "DLWWD",
-          "avg_corners_home_per_game": 5.82,
-          "aproveitamento_home": 64.7,
+          "form_home": "LWWDD",
+          "avg_corners_home_per_game": 5.72,
+          "aproveitamento_home": 63.0,
           "btts_home_matches": 4,
           "over_2_5_goals_home": 4,
           "over_0_5_ht_home": 7,
           "over_0_5_ft_home": 6,
-          "clean_sheets_home": 12
+          "clean_sheets_home": 13
         },
         "away": {
           "played": 17,
@@ -484,28 +484,28 @@
           "name": "Clube de Regatas Brasil",
           "logo": "https://cdn.footystats.org/img/teams/brazil-clube-de-regatas-brasil.png"
         },
-        "points": 51,
+        "points": 52,
         "goalsDiff": 6,
         "group": "Brazil Serie B 2025",
         "status": "same",
         "description": "",
         "all": {
-          "played": 34,
+          "played": 35,
           "win": 15,
-          "draw": 6,
+          "draw": 7,
           "lose": 13,
           "goals": {
             "for": 41,
             "against": 35
           },
-          "form": "WWDDW",
+          "form": "WDDWD",
           "btts_matches": 15,
-          "avg_corners_per_game": 6.44,
-          "aproveitamento": 50.0,
+          "avg_corners_per_game": 6.51,
+          "aproveitamento": 49.5,
           "over_2_5_goals": 11,
           "over_0_5_ht": 18,
           "over_0_5_ft": 15,
-          "clean_sheets": 11
+          "clean_sheets": 12
         },
         "home": {
           "played": 17,
@@ -526,27 +526,95 @@
           "clean_sheets_home": 10
         },
         "away": {
-          "played": 17,
+          "played": 18,
           "win": 3,
-          "draw": 4,
+          "draw": 5,
           "lose": 10,
           "goals": {
             "for": 15,
             "against": 25
           },
-          "form_visitor": "LLLWD",
+          "form_visitor": "LLWDD",
           "btts_away_matches": 10,
-          "avg_corners_away_per_game": 7.29,
-          "aproveitamento_away": 25.5,
+          "avg_corners_away_per_game": 7.39,
+          "aproveitamento_away": 25.9,
           "over_2_5_goals_away": 6,
           "over_0_5_ht_away": 7,
           "over_0_5_ft_away": 6,
-          "clean_sheets_away": 1
+          "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
         "rank": 9,
+        "team": {
+          "id": 629,
+          "name": "AC Goianiense",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-ac-goianiense.png"
+        },
+        "points": 51,
+        "goalsDiff": 3,
+        "group": "Brazil Serie B 2025",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 35,
+          "win": 13,
+          "draw": 12,
+          "lose": 10,
+          "goals": {
+            "for": 39,
+            "against": 36
+          },
+          "form": "LLWLW",
+          "btts_matches": 17,
+          "avg_corners_per_game": 4.46,
+          "aproveitamento": 48.6,
+          "over_2_5_goals": 14,
+          "over_0_5_ht": 16,
+          "over_0_5_ft": 16,
+          "clean_sheets": 13
+        },
+        "home": {
+          "played": 18,
+          "win": 11,
+          "draw": 4,
+          "lose": 3,
+          "goals": {
+            "for": 26,
+            "against": 13
+          },
+          "form_home": "WWWWW",
+          "avg_corners_home_per_game": 5.0,
+          "aproveitamento_home": 68.5,
+          "btts_home_matches": 8,
+          "over_2_5_goals_home": 7,
+          "over_0_5_ht_home": 8,
+          "over_0_5_ft_home": 12,
+          "clean_sheets_home": 9
+        },
+        "away": {
+          "played": 17,
+          "win": 2,
+          "draw": 8,
+          "lose": 7,
+          "goals": {
+            "for": 13,
+            "against": 23
+          },
+          "form_visitor": "WDLLL",
+          "btts_away_matches": 9,
+          "avg_corners_away_per_game": 3.88,
+          "aproveitamento_away": 27.5,
+          "over_2_5_goals_away": 7,
+          "over_0_5_ht_away": 8,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 4
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 10,
         "team": {
           "id": 2592,
           "name": "Cuiabá EC",
@@ -614,7 +682,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "team": {
           "id": 621,
           "name": "Avai FC",
@@ -678,74 +746,6 @@
           "over_0_5_ht_away": 10,
           "over_0_5_ft_away": 4,
           "clean_sheets_away": 3
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 11,
-        "team": {
-          "id": 629,
-          "name": "AC Goianiense",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-ac-goianiense.png"
-        },
-        "points": 48,
-        "goalsDiff": 2,
-        "group": "Brazil Serie B 2025",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 34,
-          "win": 12,
-          "draw": 12,
-          "lose": 10,
-          "goals": {
-            "for": 37,
-            "against": 35
-          },
-          "form": "WLLWL",
-          "btts_matches": 16,
-          "avg_corners_per_game": 4.44,
-          "aproveitamento": 47.1,
-          "over_2_5_goals": 13,
-          "over_0_5_ht": 16,
-          "over_0_5_ft": 15,
-          "clean_sheets": 13
-        },
-        "home": {
-          "played": 17,
-          "win": 10,
-          "draw": 4,
-          "lose": 3,
-          "goals": {
-            "for": 24,
-            "against": 12
-          },
-          "form_home": "WWWWW",
-          "avg_corners_home_per_game": 5.0,
-          "aproveitamento_home": 66.7,
-          "btts_home_matches": 7,
-          "over_2_5_goals_home": 6,
-          "over_0_5_ht_home": 8,
-          "over_0_5_ft_home": 11,
-          "clean_sheets_home": 9
-        },
-        "away": {
-          "played": 17,
-          "win": 2,
-          "draw": 8,
-          "lose": 7,
-          "goals": {
-            "for": 13,
-            "against": 23
-          },
-          "form_visitor": "WDLLL",
-          "btts_away_matches": 9,
-          "avg_corners_away_per_game": 3.88,
-          "aproveitamento_away": 27.5,
-          "over_2_5_goals_away": 7,
-          "over_0_5_ht_away": 8,
-          "over_0_5_ft_away": 4,
-          "clean_sheets_away": 4
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1301,25 +1301,25 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-paysandu-sc.png"
         },
         "points": 27,
-        "goalsDiff": -13,
+        "goalsDiff": -14,
         "group": "Brazil Serie B 2025",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 34,
+          "played": 35,
           "win": 5,
           "draw": 12,
-          "lose": 17,
+          "lose": 18,
           "goals": {
-            "for": 31,
-            "against": 44
+            "for": 32,
+            "against": 46
           },
-          "form": "DLLDL",
-          "btts_matches": 17,
+          "form": "LLDLL",
+          "btts_matches": 18,
           "avg_corners_per_game": 5.26,
-          "aproveitamento": 26.5,
-          "over_2_5_goals": 12,
-          "over_0_5_ht": 11,
+          "aproveitamento": 25.7,
+          "over_2_5_goals": 13,
+          "over_0_5_ht": 12,
           "over_0_5_ft": 11,
           "clean_sheets": 6
         },
@@ -1342,20 +1342,20 @@
           "clean_sheets_home": 3
         },
         "away": {
-          "played": 17,
+          "played": 18,
           "win": 3,
           "draw": 6,
-          "lose": 8,
+          "lose": 9,
           "goals": {
-            "for": 17,
-            "against": 22
+            "for": 18,
+            "against": 24
           },
-          "form_visitor": "LLWLD",
-          "btts_away_matches": 7,
-          "avg_corners_away_per_game": 3.76,
-          "aproveitamento_away": 29.4,
-          "over_2_5_goals_away": 5,
-          "over_0_5_ht_away": 5,
+          "form_visitor": "LWLDL",
+          "btts_away_matches": 8,
+          "avg_corners_away_per_game": 3.83,
+          "aproveitamento_away": 27.8,
+          "over_2_5_goals_away": 6,
+          "over_0_5_ht_away": 6,
           "over_0_5_ft_away": 5,
           "clean_sheets_away": 3
         },
@@ -1533,6 +1533,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/colombia-kevin-stiven-viveros-rodallega.png"
       },
       {
+        "jogador-nome": "Mauricio Garcez",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 7,
+        "jogador-assists": 4,
+        "jogador-partidas": 22,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-paysandu-sc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-mauricio-garcez.png"
+      },
+      {
         "jogador-nome": "Rafael dos Santos Cavalheira Natividade",
         "jogador-posicao": "Forward",
         "jogador-gols": 7,
@@ -1546,7 +1555,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 7,
         "jogador-assists": 2,
-        "jogador-partidas": 33,
+        "jogador-partidas": 34,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-clube-de-regatas-brasil.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-thiago-fernandes-rodrigues.png"
       },
@@ -1603,15 +1612,6 @@
         "jogador-partidas": 20,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-chapecoense-af.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-mailton-dos-santos-de-sa.png"
-      },
-      {
-        "jogador-nome": "Miguel Ángel Terceros",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 6,
-        "jogador-assists": 4,
-        "jogador-partidas": 24,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-america-fc-minas-gerais.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/-miguel-ángel-terceros.png"
       }
     ]
   }
