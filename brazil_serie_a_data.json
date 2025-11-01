@@ -212,46 +212,46 @@
           "name": "Mirassol Futebol Clube",
           "logo": "https://cdn.footystats.org/img/teams/brazil-mirassol-futebol-clube.png"
         },
-        "points": 55,
+        "points": 56,
         "goalsDiff": 21,
         "group": "Brazil Serie A 2025",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 30,
+          "played": 31,
           "win": 15,
-          "draw": 10,
+          "draw": 11,
           "lose": 5,
           "goals": {
             "for": 52,
             "against": 31
           },
-          "form": "LWWWW",
+          "form": "WWWWD",
           "btts_matches": 19,
-          "avg_corners_per_game": 5.3,
-          "aproveitamento": 61.1,
+          "avg_corners_per_game": 5.35,
+          "aproveitamento": 60.2,
           "over_2_5_goals": 15,
           "over_0_5_ht": 17,
           "over_0_5_ft": 18,
-          "clean_sheets": 8
+          "clean_sheets": 9
         },
         "home": {
-          "played": 15,
+          "played": 16,
           "win": 10,
-          "draw": 5,
+          "draw": 6,
           "lose": 0,
           "goals": {
             "for": 34,
             "against": 13
           },
-          "form_home": "WDWWW",
-          "avg_corners_home_per_game": 6.0,
-          "aproveitamento_home": 77.8,
+          "form_home": "DWWWD",
+          "avg_corners_home_per_game": 6.06,
+          "aproveitamento_home": 75.0,
           "btts_home_matches": 11,
           "over_2_5_goals_home": 9,
           "over_0_5_ht_home": 9,
           "over_0_5_ft_home": 12,
-          "clean_sheets_home": 4
+          "clean_sheets_home": 5
         },
         "away": {
           "played": 15,
@@ -344,6 +344,74 @@
       {
         "rank": 6,
         "team": {
+          "id": 615,
+          "name": "Botafogo FR",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-botafogo-fr.png"
+        },
+        "points": 48,
+        "goalsDiff": 13,
+        "group": "Brazil Serie A 2025",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 31,
+          "win": 13,
+          "draw": 9,
+          "lose": 9,
+          "goals": {
+            "for": 41,
+            "against": 28
+          },
+          "form": "LLWDD",
+          "btts_matches": 9,
+          "avg_corners_per_game": 4.58,
+          "aproveitamento": 51.6,
+          "over_2_5_goals": 10,
+          "over_0_5_ht": 13,
+          "over_0_5_ft": 15,
+          "clean_sheets": 13
+        },
+        "home": {
+          "played": 15,
+          "win": 7,
+          "draw": 5,
+          "lose": 3,
+          "goals": {
+            "for": 26,
+            "against": 18
+          },
+          "form_home": "DWWLD",
+          "avg_corners_home_per_game": 5.47,
+          "aproveitamento_home": 57.8,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 8,
+          "over_0_5_ht_home": 10,
+          "over_0_5_ft_home": 8,
+          "clean_sheets_home": 5
+        },
+        "away": {
+          "played": 16,
+          "win": 6,
+          "draw": 4,
+          "lose": 6,
+          "goals": {
+            "for": 15,
+            "against": 10
+          },
+          "form_visitor": "DLLWD",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 3.75,
+          "aproveitamento_away": 45.8,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 7,
+          "clean_sheets_away": 8
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 7,
+        "team": {
           "id": 617,
           "name": "Fluminense FC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-fluminense-fc.png"
@@ -352,7 +420,7 @@
         "goalsDiff": 2,
         "group": "Brazil Serie A 2025",
         "status": "same",
-        "description": "Copa Sul-Americana",
+        "description": "",
         "all": {
           "played": 30,
           "win": 14,
@@ -406,74 +474,6 @@
           "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 9,
           "clean_sheets_away": 4
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 7,
-        "team": {
-          "id": 615,
-          "name": "Botafogo FR",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-botafogo-fr.png"
-        },
-        "points": 47,
-        "goalsDiff": 13,
-        "group": "Brazil Serie A 2025",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 30,
-          "win": 13,
-          "draw": 8,
-          "lose": 9,
-          "goals": {
-            "for": 41,
-            "against": 28
-          },
-          "form": "WLLWD",
-          "btts_matches": 9,
-          "avg_corners_per_game": 4.67,
-          "aproveitamento": 52.2,
-          "over_2_5_goals": 10,
-          "over_0_5_ht": 13,
-          "over_0_5_ft": 15,
-          "clean_sheets": 12
-        },
-        "home": {
-          "played": 15,
-          "win": 7,
-          "draw": 5,
-          "lose": 3,
-          "goals": {
-            "for": 26,
-            "against": 18
-          },
-          "form_home": "DWWLD",
-          "avg_corners_home_per_game": 5.47,
-          "aproveitamento_home": 57.8,
-          "btts_home_matches": 7,
-          "over_2_5_goals_home": 8,
-          "over_0_5_ht_home": 10,
-          "over_0_5_ft_home": 8,
-          "clean_sheets_home": 5
-        },
-        "away": {
-          "played": 15,
-          "win": 6,
-          "draw": 3,
-          "lose": 6,
-          "goals": {
-            "for": 15,
-            "against": 10
-          },
-          "form_visitor": "LDLLW",
-          "btts_away_matches": 2,
-          "avg_corners_away_per_game": 3.87,
-          "aproveitamento_away": 46.7,
-          "over_2_5_goals_away": 2,
-          "over_0_5_ht_away": 3,
-          "over_0_5_ft_away": 7,
-          "clean_sheets_away": 7
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1532,7 +1532,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 6,
         "jogador-assists": 3,
-        "jogador-partidas": 25,
+        "jogador-partidas": 26,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-mirassol-futebol-clube.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-luiz-henrique-soares-firmino.png"
       },
