@@ -160,30 +160,30 @@
           },
           "form": "WWWWW",
           "btts_matches": 4,
-          "avg_corners_per_game": 2.5,
+          "avg_corners_per_game": 2.43,
           "aproveitamento": 83.3,
           "over_2_5_goals": 5,
           "over_0_5_ht": 4,
-          "over_0_5_ft": 4,
-          "clean_sheets": 1
+          "over_0_5_ft": 5,
+          "clean_sheets": 2
         },
         "home": {
-          "played": 3,
-          "win": 2,
+          "played": 4,
+          "win": 3,
           "draw": 0,
           "lose": 1,
           "goals": {
-            "for": 10,
+            "for": 12,
             "against": 7
           },
-          "form_home": "LWW",
-          "avg_corners_home_per_game": 3.67,
-          "aproveitamento_home": 66.7,
+          "form_home": "LWWW",
+          "avg_corners_home_per_game": 3.25,
+          "aproveitamento_home": 75.0,
           "btts_home_matches": 2,
           "over_2_5_goals_home": 3,
           "over_0_5_ht_home": 2,
-          "over_0_5_ft_home": 2,
-          "clean_sheets_home": 0
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 1
         },
         "away": {
           "played": 3,
@@ -226,9 +226,9 @@
             "for": 11,
             "against": 5
           },
-          "form": "DWWWD",
+          "form": "WWWDL",
           "btts_matches": 4,
-          "avg_corners_per_game": 5.5,
+          "avg_corners_per_game": 6.14,
           "aproveitamento": 77.8,
           "over_2_5_goals": 4,
           "over_0_5_ht": 4,
@@ -254,18 +254,18 @@
           "clean_sheets_home": 1
         },
         "away": {
-          "played": 3,
+          "played": 4,
           "win": 2,
           "draw": 1,
-          "lose": 0,
+          "lose": 1,
           "goals": {
             "for": 6,
-            "against": 3
+            "against": 5
           },
-          "form_visitor": "DWW",
+          "form_visitor": "DWWL",
           "btts_away_matches": 2,
-          "avg_corners_away_per_game": 3.0,
-          "aproveitamento_away": 77.8,
+          "avg_corners_away_per_game": 4.75,
+          "aproveitamento_away": 58.3,
           "over_2_5_goals_away": 2,
           "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 3,
@@ -1365,6 +1365,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/argentina-valentin-vada.png"
       },
       {
+        "jogador-nome": "Roger Beyker Martínez Tobinson",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 3,
+        "jogador-assists": 2,
+        "jogador-partidas": 7,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-taawon-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/colombia-roger-beyker-martinez-tobinson.png"
+      },
+      {
         "jogador-nome": "Darwin Gabriel Núñez Ribeiro",
         "jogador-posicao": "Forward",
         "jogador-gols": 3,
@@ -1392,22 +1401,13 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/algeria-sofiane-bendebka.png"
       },
       {
-        "jogador-nome": "Roger Beyker Martínez Tobinson",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 3,
-        "jogador-assists": 1,
-        "jogador-partidas": 6,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-taawon-fc.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/colombia-roger-beyker-martinez-tobinson.png"
-      },
-      {
-        "jogador-nome": "Saeed Awadh Al Yami",
+        "jogador-nome": "Waleed Abdul Wahab Al-Ahmad",
         "jogador-posicao": "Defender",
         "jogador-gols": 3,
         "jogador-assists": 0,
-        "jogador-partidas": 5,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-akhdoud.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/saudi-arabia-saeed-awadh-al-yami.png"
+        "jogador-partidas": 7,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-taawon-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/saudi-arabia-waleed-abdul-wahab-al-ahmad.png"
       }
     ]
   }
