@@ -4,6 +4,74 @@
       {
         "rank": 1,
         "team": {
+          "id": 612,
+          "name": "CR Flamengo",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-cr-flamengo.png"
+        },
+        "points": 64,
+        "goalsDiff": 43,
+        "group": "Brazil Serie A 2025",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 30,
+          "win": 19,
+          "draw": 7,
+          "lose": 4,
+          "goals": {
+            "for": 59,
+            "against": 16
+          },
+          "form": "LWWLW",
+          "btts_matches": 11,
+          "avg_corners_per_game": 6.07,
+          "aproveitamento": 71.1,
+          "over_2_5_goals": 13,
+          "over_0_5_ht": 14,
+          "over_0_5_ft": 19,
+          "clean_sheets": 16
+        },
+        "home": {
+          "played": 16,
+          "win": 11,
+          "draw": 5,
+          "lose": 0,
+          "goals": {
+            "for": 39,
+            "against": 6
+          },
+          "form_home": "DDDWW",
+          "avg_corners_home_per_game": 6.62,
+          "aproveitamento_home": 79.2,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 7,
+          "over_0_5_ht_home": 8,
+          "over_0_5_ft_home": 11,
+          "clean_sheets_home": 11
+        },
+        "away": {
+          "played": 14,
+          "win": 8,
+          "draw": 2,
+          "lose": 4,
+          "goals": {
+            "for": 20,
+            "against": 10
+          },
+          "form_visitor": "WWLWL",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 5.43,
+          "aproveitamento_away": 61.9,
+          "over_2_5_goals_away": 6,
+          "over_0_5_ht_away": 6,
+          "over_0_5_ft_away": 8,
+          "clean_sheets_away": 5
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 2,
+        "team": {
           "id": 619,
           "name": "SE Palmeiras",
           "logo": "https://cdn.footystats.org/img/teams/brazil-se-palmeiras.png"
@@ -66,74 +134,6 @@
           "over_0_5_ht_away": 6,
           "over_0_5_ft_away": 10,
           "clean_sheets_away": 3
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 2,
-        "team": {
-          "id": 612,
-          "name": "CR Flamengo",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-cr-flamengo.png"
-        },
-        "points": 61,
-        "goalsDiff": 40,
-        "group": "Brazil Serie A 2025",
-        "status": "same",
-        "description": "Copa Libertadores",
-        "all": {
-          "played": 29,
-          "win": 18,
-          "draw": 7,
-          "lose": 4,
-          "goals": {
-            "for": 56,
-            "against": 16
-          },
-          "form": "DLWWL",
-          "btts_matches": 11,
-          "avg_corners_per_game": 5.97,
-          "aproveitamento": 70.1,
-          "over_2_5_goals": 12,
-          "over_0_5_ht": 14,
-          "over_0_5_ft": 18,
-          "clean_sheets": 15
-        },
-        "home": {
-          "played": 15,
-          "win": 10,
-          "draw": 5,
-          "lose": 0,
-          "goals": {
-            "for": 36,
-            "against": 6
-          },
-          "form_home": "WDDDW",
-          "avg_corners_home_per_game": 6.47,
-          "aproveitamento_home": 77.8,
-          "btts_home_matches": 5,
-          "over_2_5_goals_home": 6,
-          "over_0_5_ht_home": 8,
-          "over_0_5_ft_home": 10,
-          "clean_sheets_home": 10
-        },
-        "away": {
-          "played": 14,
-          "win": 8,
-          "draw": 2,
-          "lose": 4,
-          "goals": {
-            "for": 20,
-            "against": 10
-          },
-          "form_visitor": "WWLWL",
-          "btts_away_matches": 6,
-          "avg_corners_away_per_game": 5.43,
-          "aproveitamento_away": 61.9,
-          "over_2_5_goals_away": 6,
-          "over_0_5_ht_away": 6,
-          "over_0_5_ft_away": 8,
-          "clean_sheets_away": 5
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1301,24 +1301,24 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-sc-do-recife.png"
         },
         "points": 17,
-        "goalsDiff": -24,
+        "goalsDiff": -27,
         "group": "Brazil Serie A 2025",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 29,
+          "played": 30,
           "win": 2,
           "draw": 11,
-          "lose": 16,
+          "lose": 17,
           "goals": {
             "for": 22,
-            "against": 46
+            "against": 49
           },
-          "form": "DLDLL",
+          "form": "LDLLL",
           "btts_matches": 15,
-          "avg_corners_per_game": 6.0,
-          "aproveitamento": 19.5,
-          "over_2_5_goals": 13,
+          "avg_corners_per_game": 6.07,
+          "aproveitamento": 18.9,
+          "over_2_5_goals": 14,
           "over_0_5_ht": 9,
           "over_0_5_ft": 11,
           "clean_sheets": 5
@@ -1342,19 +1342,19 @@
           "clean_sheets_home": 3
         },
         "away": {
-          "played": 15,
+          "played": 16,
           "win": 1,
           "draw": 4,
-          "lose": 10,
+          "lose": 11,
           "goals": {
             "for": 9,
-            "against": 25
+            "against": 28
           },
-          "form_visitor": "DLDLL",
+          "form_visitor": "LDLLL",
           "btts_away_matches": 7,
-          "avg_corners_away_per_game": 6.0,
-          "aproveitamento_away": 15.6,
-          "over_2_5_goals_away": 6,
+          "avg_corners_away_per_game": 6.12,
+          "aproveitamento_away": 14.6,
+          "over_2_5_goals_away": 7,
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 5,
           "clean_sheets_away": 2
@@ -1377,9 +1377,9 @@
       {
         "jogador-nome": "Giorgian Daniel De Arrascaeta Benedetti",
         "jogador-posicao": "Midfielder",
-        "jogador-gols": 15,
+        "jogador-gols": 16,
         "jogador-assists": 12,
-        "jogador-partidas": 27,
+        "jogador-partidas": 28,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-cr-flamengo.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/uruguay-giorgian-daniel-de-arrascaeta-benedetti.png"
       },
