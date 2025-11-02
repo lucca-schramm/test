@@ -344,6 +344,74 @@
       {
         "rank": 6,
         "team": {
+          "id": 41,
+          "name": "1. FC Köln",
+          "logo": "https://cdn.footystats.org/img/teams/germany-1-fc-koln.png"
+        },
+        "points": 14,
+        "goalsDiff": 4,
+        "group": "Germany Bundesliga 2025",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 9,
+          "win": 4,
+          "draw": 2,
+          "lose": 3,
+          "goals": {
+            "for": 16,
+            "against": 12
+          },
+          "form": "LWDLW",
+          "btts_matches": 6,
+          "avg_corners_per_game": 4.22,
+          "aproveitamento": 51.9,
+          "over_2_5_goals": 5,
+          "over_0_5_ht": 6,
+          "over_0_5_ft": 5,
+          "clean_sheets": 2
+        },
+        "home": {
+          "played": 4,
+          "win": 2,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 10,
+            "against": 5
+          },
+          "form_home": "WLDW",
+          "avg_corners_home_per_game": 4.5,
+          "aproveitamento_home": 58.3,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 5,
+          "win": 2,
+          "draw": 1,
+          "lose": 2,
+          "goals": {
+            "for": 6,
+            "against": 7
+          },
+          "form_visitor": "WDLWL",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 4.0,
+          "aproveitamento_away": 46.7,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 7,
+        "team": {
           "id": 44,
           "name": "Eintracht Frankfurt",
           "logo": "https://cdn.footystats.org/img/teams/germany-eintracht-frankfurt.png"
@@ -352,7 +420,7 @@
         "goalsDiff": 3,
         "group": "Germany Bundesliga 2025",
         "status": "same",
-        "description": "Copa Sul-Americana",
+        "description": "",
         "all": {
           "played": 9,
           "win": 4,
@@ -410,7 +478,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "team": {
           "id": 49,
           "name": "TSG 1899 Hoffenheim",
@@ -478,7 +546,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "team": {
           "id": 37,
           "name": "SV Werder Bremen",
@@ -542,74 +610,6 @@
           "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 4,
           "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 9,
-        "team": {
-          "id": 41,
-          "name": "1. FC Köln",
-          "logo": "https://cdn.footystats.org/img/teams/germany-1-fc-koln.png"
-        },
-        "points": 11,
-        "goalsDiff": 1,
-        "group": "Germany Bundesliga 2025",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 8,
-          "win": 3,
-          "draw": 2,
-          "lose": 3,
-          "goals": {
-            "for": 12,
-            "against": 11
-          },
-          "form": "LLWDL",
-          "btts_matches": 5,
-          "avg_corners_per_game": 4.5,
-          "aproveitamento": 45.8,
-          "over_2_5_goals": 4,
-          "over_0_5_ht": 5,
-          "over_0_5_ft": 4,
-          "clean_sheets": 2
-        },
-        "home": {
-          "played": 3,
-          "win": 1,
-          "draw": 1,
-          "lose": 1,
-          "goals": {
-            "for": 6,
-            "against": 4
-          },
-          "form_home": "WLD",
-          "avg_corners_home_per_game": 5.33,
-          "aproveitamento_home": 44.4,
-          "btts_home_matches": 3,
-          "over_2_5_goals_home": 2,
-          "over_0_5_ht_home": 2,
-          "over_0_5_ft_home": 2,
-          "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 5,
-          "win": 2,
-          "draw": 1,
-          "lose": 2,
-          "goals": {
-            "for": 6,
-            "against": 7
-          },
-          "form_visitor": "WDLWL",
-          "btts_away_matches": 2,
-          "avg_corners_away_per_game": 4.0,
-          "aproveitamento_away": 46.7,
-          "over_2_5_goals_away": 2,
-          "over_0_5_ht_away": 3,
-          "over_0_5_ft_away": 2,
-          "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -825,26 +825,26 @@
           "logo": "https://cdn.footystats.org/img/teams/germany-hamburger-sv.png"
         },
         "points": 8,
-        "goalsDiff": -4,
+        "goalsDiff": -7,
         "group": "Germany Bundesliga 2025",
         "status": "same",
         "description": "",
         "all": {
-          "played": 8,
+          "played": 9,
           "win": 2,
           "draw": 2,
-          "lose": 4,
+          "lose": 5,
           "goals": {
-            "for": 7,
-            "against": 11
+            "for": 8,
+            "against": 15
           },
-          "form": "WDWLL",
-          "btts_matches": 2,
-          "avg_corners_per_game": 4.0,
-          "aproveitamento": 33.3,
-          "over_2_5_goals": 4,
+          "form": "DWLLL",
+          "btts_matches": 3,
+          "avg_corners_per_game": 3.89,
+          "aproveitamento": 29.6,
+          "over_2_5_goals": 5,
           "over_0_5_ht": 2,
-          "over_0_5_ft": 3,
+          "over_0_5_ft": 4,
           "clean_sheets": 3
         },
         "home": {
@@ -866,21 +866,21 @@
           "clean_sheets_home": 1
         },
         "away": {
-          "played": 4,
+          "played": 5,
           "win": 0,
           "draw": 2,
-          "lose": 2,
+          "lose": 3,
           "goals": {
-            "for": 1,
-            "against": 7
+            "for": 2,
+            "against": 11
           },
-          "form_visitor": "DLDL",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 4.25,
-          "aproveitamento_away": 16.7,
-          "over_2_5_goals_away": 2,
+          "form_visitor": "DLDLL",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 4.0,
+          "aproveitamento_away": 13.3,
+          "over_2_5_goals_away": 3,
           "over_0_5_ht_away": 0,
-          "over_0_5_ft_away": 1,
+          "over_0_5_ft_away": 2,
           "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1338,6 +1338,24 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/spain-alex-grimaldo.png"
       },
       {
+        "jogador-nome": "Said El Mala",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 4,
+        "jogador-assists": 2,
+        "jogador-partidas": 9,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-1-fc-koln.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-said-el-mala.png"
+      },
+      {
+        "jogador-nome": "Jakub Kamiński",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 4,
+        "jogador-assists": 1,
+        "jogador-partidas": 9,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-1-fc-koln.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/poland-jakub-kaminski.png"
+      },
+      {
         "jogador-nome": "Ilyas Ansah",
         "jogador-posicao": "Forward",
         "jogador-gols": 4,
@@ -1374,15 +1392,6 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/germany-tim-lemperle.png"
       },
       {
-        "jogador-nome": "Said El Mala",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 3,
-        "jogador-assists": 1,
-        "jogador-partidas": 8,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-1-fc-koln.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/-said-el-mala.png"
-      },
-      {
         "jogador-nome": "Patrik Schick",
         "jogador-posicao": "Forward",
         "jogador-gols": 3,
@@ -1399,15 +1408,6 @@
         "jogador-partidas": 9,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-1-fsv-mainz-05.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/germany-nadiem-amiri.png"
-      },
-      {
-        "jogador-nome": "Ernest Poku",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 3,
-        "jogador-assists": 1,
-        "jogador-partidas": 8,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-bayer-04-leverkusen.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/netherlands-ernest-poku.png"
       }
     ]
   }
