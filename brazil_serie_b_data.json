@@ -689,23 +689,23 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-cuiaba-ec.png"
         },
         "points": 50,
-        "goalsDiff": 1,
+        "goalsDiff": -1,
         "group": "Brazil Serie B 2025",
         "status": "same",
         "description": "",
         "all": {
-          "played": 34,
+          "played": 35,
           "win": 13,
           "draw": 11,
-          "lose": 10,
+          "lose": 11,
           "goals": {
             "for": 41,
-            "against": 40
+            "against": 42
           },
-          "form": "DLWDL",
+          "form": "LWDLL",
           "btts_matches": 18,
-          "avg_corners_per_game": 5.68,
-          "aproveitamento": 49.0,
+          "avg_corners_per_game": 5.51,
+          "aproveitamento": 47.6,
           "over_2_5_goals": 14,
           "over_0_5_ht": 15,
           "over_0_5_ft": 19,
@@ -730,18 +730,18 @@
           "clean_sheets_home": 7
         },
         "away": {
-          "played": 17,
+          "played": 18,
           "win": 2,
           "draw": 9,
-          "lose": 6,
+          "lose": 7,
           "goals": {
             "for": 16,
-            "against": 24
+            "against": 26
           },
-          "form_visitor": "DDDDD",
+          "form_visitor": "DDDDL",
           "btts_away_matches": 10,
-          "avg_corners_away_per_game": 5.47,
-          "aproveitamento_away": 29.4,
+          "avg_corners_away_per_game": 5.17,
+          "aproveitamento_away": 27.8,
           "over_2_5_goals_away": 6,
           "over_0_5_ht_away": 6,
           "over_0_5_ft_away": 7,
@@ -1092,6 +1092,74 @@
       {
         "rank": 17,
         "team": {
+          "id": 677389,
+          "name": "Amazonas FC",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-amazonas-fc.png"
+        },
+        "points": 35,
+        "goalsDiff": -15,
+        "group": "Brazil Serie B 2025",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 35,
+          "win": 8,
+          "draw": 11,
+          "lose": 16,
+          "goals": {
+            "for": 35,
+            "against": 50
+          },
+          "form": "WLDLW",
+          "btts_matches": 19,
+          "avg_corners_per_game": 4.43,
+          "aproveitamento": 33.3,
+          "over_2_5_goals": 15,
+          "over_0_5_ht": 15,
+          "over_0_5_ft": 16,
+          "clean_sheets": 7
+        },
+        "home": {
+          "played": 18,
+          "win": 7,
+          "draw": 7,
+          "lose": 4,
+          "goals": {
+            "for": 22,
+            "against": 18
+          },
+          "form_home": "WLWDW",
+          "avg_corners_home_per_game": 5.39,
+          "aproveitamento_home": 51.9,
+          "btts_home_matches": 9,
+          "over_2_5_goals_home": 7,
+          "over_0_5_ht_home": 8,
+          "over_0_5_ft_home": 11,
+          "clean_sheets_home": 7
+        },
+        "away": {
+          "played": 17,
+          "win": 1,
+          "draw": 4,
+          "lose": 12,
+          "goals": {
+            "for": 13,
+            "against": 32
+          },
+          "form_visitor": "LLDLL",
+          "btts_away_matches": 10,
+          "avg_corners_away_per_game": 3.41,
+          "aproveitamento_away": 13.7,
+          "over_2_5_goals_away": 8,
+          "over_0_5_ht_away": 7,
+          "over_0_5_ft_away": 5,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 18,
+        "team": {
           "id": 2598,
           "name": "Botafogo FC Ribeirão Preto",
           "logo": "https://cdn.footystats.org/img/teams/brazil-botafogo-fc-ribeirao-preto.png"
@@ -1158,7 +1226,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 18,
+        "rank": 19,
         "team": {
           "id": 2588,
           "name": "Volta Redonda FC",
@@ -1222,74 +1290,6 @@
           "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 5,
           "clean_sheets_away": 3
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 19,
-        "team": {
-          "id": 677389,
-          "name": "Amazonas FC",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-amazonas-fc.png"
-        },
-        "points": 32,
-        "goalsDiff": -17,
-        "group": "Brazil Serie B 2025",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 34,
-          "win": 7,
-          "draw": 11,
-          "lose": 16,
-          "goals": {
-            "for": 33,
-            "against": 50
-          },
-          "form": "DWLDL",
-          "btts_matches": 19,
-          "avg_corners_per_game": 4.35,
-          "aproveitamento": 31.4,
-          "over_2_5_goals": 15,
-          "over_0_5_ht": 14,
-          "over_0_5_ft": 15,
-          "clean_sheets": 6
-        },
-        "home": {
-          "played": 17,
-          "win": 6,
-          "draw": 7,
-          "lose": 4,
-          "goals": {
-            "for": 20,
-            "against": 18
-          },
-          "form_home": "LWLWD",
-          "avg_corners_home_per_game": 5.29,
-          "aproveitamento_home": 49.0,
-          "btts_home_matches": 9,
-          "over_2_5_goals_home": 7,
-          "over_0_5_ht_home": 7,
-          "over_0_5_ft_home": 10,
-          "clean_sheets_home": 6
-        },
-        "away": {
-          "played": 17,
-          "win": 1,
-          "draw": 4,
-          "lose": 12,
-          "goals": {
-            "for": 13,
-            "against": 32
-          },
-          "form_visitor": "LLDLL",
-          "btts_away_matches": 10,
-          "avg_corners_away_per_game": 3.41,
-          "aproveitamento_away": 13.7,
-          "over_2_5_goals_away": 8,
-          "over_0_5_ht_away": 7,
-          "over_0_5_ft_away": 5,
-          "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1465,7 +1465,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 10,
         "jogador-assists": 2,
-        "jogador-partidas": 20,
+        "jogador-partidas": 21,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-cuiaba-ec.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-alisson-pelegrini-safira.png"
       },
