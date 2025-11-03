@@ -756,27 +756,27 @@
           "name": "Vila Nova FC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-vila-nova-fc.png"
         },
-        "points": 44,
+        "points": 45,
         "goalsDiff": -2,
         "group": "Brazil Serie B 2025",
         "status": "same",
         "description": "",
         "all": {
-          "played": 34,
+          "played": 35,
           "win": 11,
-          "draw": 11,
+          "draw": 12,
           "lose": 12,
           "goals": {
-            "for": 34,
-            "against": 36
+            "for": 36,
+            "against": 38
           },
-          "form": "DDWLD",
-          "btts_matches": 15,
-          "avg_corners_per_game": 4.15,
-          "aproveitamento": 43.1,
-          "over_2_5_goals": 10,
-          "over_0_5_ht": 15,
-          "over_0_5_ft": 14,
+          "form": "DWLDD",
+          "btts_matches": 16,
+          "avg_corners_per_game": 4.14,
+          "aproveitamento": 42.9,
+          "over_2_5_goals": 11,
+          "over_0_5_ht": 16,
+          "over_0_5_ft": 15,
           "clean_sheets": 10
         },
         "home": {
@@ -798,21 +798,21 @@
           "clean_sheets_home": 8
         },
         "away": {
-          "played": 17,
+          "played": 18,
           "win": 3,
-          "draw": 5,
+          "draw": 6,
           "lose": 9,
           "goals": {
-            "for": 14,
-            "against": 22
+            "for": 16,
+            "against": 24
           },
-          "form_visitor": "DLDDL",
-          "btts_away_matches": 8,
-          "avg_corners_away_per_game": 3.24,
-          "aproveitamento_away": 27.5,
-          "over_2_5_goals_away": 5,
-          "over_0_5_ht_away": 6,
-          "over_0_5_ft_away": 7,
+          "form_visitor": "LDDLD",
+          "btts_away_matches": 9,
+          "avg_corners_away_per_game": 3.28,
+          "aproveitamento_away": 27.8,
+          "over_2_5_goals_away": 6,
+          "over_0_5_ht_away": 7,
+          "over_0_5_ft_away": 8,
           "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -824,45 +824,45 @@
           "name": "Operário Ferroviário EC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-operario-ferroviario-ec.png"
         },
-        "points": 42,
+        "points": 43,
         "goalsDiff": -5,
         "group": "Brazil Serie B 2025",
         "status": "same",
         "description": "",
         "all": {
-          "played": 34,
+          "played": 35,
           "win": 11,
-          "draw": 9,
+          "draw": 10,
           "lose": 14,
           "goals": {
-            "for": 34,
-            "against": 39
+            "for": 36,
+            "against": 41
           },
-          "form": "LLLWL",
-          "btts_matches": 16,
-          "avg_corners_per_game": 4.85,
-          "aproveitamento": 41.2,
-          "over_2_5_goals": 15,
+          "form": "LLWLD",
+          "btts_matches": 17,
+          "avg_corners_per_game": 5.03,
+          "aproveitamento": 41.0,
+          "over_2_5_goals": 16,
           "over_0_5_ht": 16,
-          "over_0_5_ft": 11,
+          "over_0_5_ft": 12,
           "clean_sheets": 10
         },
         "home": {
-          "played": 17,
+          "played": 18,
           "win": 8,
-          "draw": 5,
+          "draw": 6,
           "lose": 4,
           "goals": {
-            "for": 22,
-            "against": 15
+            "for": 24,
+            "against": 17
           },
-          "form_home": "DWLLW",
-          "avg_corners_home_per_game": 5.18,
-          "aproveitamento_home": 56.9,
-          "btts_home_matches": 8,
-          "over_2_5_goals_home": 8,
+          "form_home": "WLLWD",
+          "avg_corners_home_per_game": 5.5,
+          "aproveitamento_home": 55.6,
+          "btts_home_matches": 9,
+          "over_2_5_goals_home": 9,
           "over_0_5_ht_home": 9,
-          "over_0_5_ft_home": 7,
+          "over_0_5_ft_home": 8,
           "clean_sheets_home": 8
         },
         "away": {
@@ -1479,6 +1479,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/uruguay-kevin-federik-ramirez-dutra.png"
       },
       {
+        "jogador-nome": "Gabriel Boschilia",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 9,
+        "jogador-assists": 6,
+        "jogador-partidas": 32,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-operario-ferroviario-ec.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-gabriel-boschilia.png"
+      },
+      {
         "jogador-nome": "Ronaldo Rodrigues Tavares",
         "jogador-posicao": "Forward",
         "jogador-gols": 9,
@@ -1513,15 +1522,6 @@
         "jogador-partidas": 18,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ca-paranaense.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/colombia-kevin-stiven-viveros-rodallega.png"
-      },
-      {
-        "jogador-nome": "Gabriel Boschilia",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 8,
-        "jogador-assists": 5,
-        "jogador-partidas": 31,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-operario-ferroviario-ec.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-gabriel-boschilia.png"
       },
       {
         "jogador-nome": "Willian Gomes de Siqueira",
@@ -1582,7 +1582,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 7,
         "jogador-assists": 1,
-        "jogador-partidas": 20,
+        "jogador-partidas": 21,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-operario-ferroviario-ec.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-daniel-amorim-dias-da-silva.png"
       },
