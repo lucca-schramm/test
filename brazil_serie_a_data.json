@@ -480,45 +480,113 @@
       {
         "rank": 8,
         "team": {
+          "id": 618,
+          "name": "São Paulo FC",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-sao-paulo-fc.png"
+        },
+        "points": 44,
+        "goalsDiff": 2,
+        "group": "Brazil Serie A 2025",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 31,
+          "win": 12,
+          "draw": 8,
+          "lose": 11,
+          "goals": {
+            "for": 35,
+            "against": 33
+          },
+          "form": "LLLWW",
+          "btts_matches": 12,
+          "avg_corners_per_game": 4.97,
+          "aproveitamento": 47.3,
+          "over_2_5_goals": 11,
+          "over_0_5_ht": 14,
+          "over_0_5_ft": 13,
+          "clean_sheets": 11
+        },
+        "home": {
+          "played": 15,
+          "win": 8,
+          "draw": 3,
+          "lose": 4,
+          "goals": {
+            "for": 20,
+            "against": 13
+          },
+          "form_home": "WWLLW",
+          "avg_corners_home_per_game": 5.27,
+          "aproveitamento_home": 60.0,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 8,
+          "over_0_5_ft_home": 6,
+          "clean_sheets_home": 7
+        },
+        "away": {
+          "played": 16,
+          "win": 4,
+          "draw": 5,
+          "lose": 7,
+          "goals": {
+            "for": 15,
+            "against": 20
+          },
+          "form_visitor": "LWLLW",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 4.69,
+          "aproveitamento_away": 35.4,
+          "over_2_5_goals_away": 6,
+          "over_0_5_ht_away": 6,
+          "over_0_5_ft_away": 7,
+          "clean_sheets_away": 4
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 9,
+        "team": {
           "id": 625,
           "name": "CR Vasco da Gama",
           "logo": "https://cdn.footystats.org/img/teams/brazil-cr-vasco-da-gama.png"
         },
         "points": 42,
-        "goalsDiff": 8,
+        "goalsDiff": 6,
         "group": "Brazil Serie A 2025",
         "status": "same",
         "description": "",
         "all": {
-          "played": 30,
+          "played": 31,
           "win": 12,
           "draw": 6,
-          "lose": 12,
+          "lose": 13,
           "goals": {
             "for": 49,
-            "against": 41
+            "against": 43
           },
-          "form": "LWWWW",
+          "form": "WWWWL",
           "btts_matches": 16,
-          "avg_corners_per_game": 4.2,
-          "aproveitamento": 46.7,
+          "avg_corners_per_game": 4.26,
+          "aproveitamento": 45.2,
           "over_2_5_goals": 17,
           "over_0_5_ht": 17,
           "over_0_5_ft": 17,
           "clean_sheets": 7
         },
         "home": {
-          "played": 15,
+          "played": 16,
           "win": 7,
           "draw": 4,
-          "lose": 4,
+          "lose": 5,
           "goals": {
             "for": 25,
-            "against": 18
+            "against": 20
           },
-          "form_home": "DWWWW",
-          "avg_corners_home_per_game": 4.47,
-          "aproveitamento_home": 55.6,
+          "form_home": "WWWWL",
+          "avg_corners_home_per_game": 4.56,
+          "aproveitamento_home": 52.1,
           "btts_home_matches": 8,
           "over_2_5_goals_home": 7,
           "over_0_5_ht_home": 8,
@@ -546,7 +614,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "team": {
           "id": 624,
           "name": "SC Corinthians Paulista",
@@ -610,74 +678,6 @@
           "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 8,
           "clean_sheets_away": 4
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 10,
-        "team": {
-          "id": 618,
-          "name": "São Paulo FC",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-sao-paulo-fc.png"
-        },
-        "points": 41,
-        "goalsDiff": 0,
-        "group": "Brazil Serie A 2025",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 30,
-          "win": 11,
-          "draw": 8,
-          "lose": 11,
-          "goals": {
-            "for": 33,
-            "against": 33
-          },
-          "form": "WLLLW",
-          "btts_matches": 12,
-          "avg_corners_per_game": 4.97,
-          "aproveitamento": 45.6,
-          "over_2_5_goals": 11,
-          "over_0_5_ht": 13,
-          "over_0_5_ft": 12,
-          "clean_sheets": 10
-        },
-        "home": {
-          "played": 15,
-          "win": 8,
-          "draw": 3,
-          "lose": 4,
-          "goals": {
-            "for": 20,
-            "against": 13
-          },
-          "form_home": "WWLLW",
-          "avg_corners_home_per_game": 5.27,
-          "aproveitamento_home": 60.0,
-          "btts_home_matches": 6,
-          "over_2_5_goals_home": 5,
-          "over_0_5_ht_home": 8,
-          "over_0_5_ft_home": 6,
-          "clean_sheets_home": 7
-        },
-        "away": {
-          "played": 15,
-          "win": 3,
-          "draw": 5,
-          "lose": 7,
-          "goals": {
-            "for": 13,
-            "against": 20
-          },
-          "form_visitor": "LLWLL",
-          "btts_away_matches": 6,
-          "avg_corners_away_per_game": 4.67,
-          "aproveitamento_away": 31.1,
-          "over_2_5_goals_away": 6,
-          "over_0_5_ht_away": 5,
-          "over_0_5_ft_away": 6,
-          "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1388,7 +1388,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 15,
         "jogador-assists": 1,
-        "jogador-partidas": 27,
+        "jogador-partidas": 28,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-cr-vasco-da-gama.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/argentina-pablo-ezequiel-vegetti-pfaffen.png"
       },
@@ -1424,7 +1424,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 11,
         "jogador-assists": 1,
-        "jogador-partidas": 27,
+        "jogador-partidas": 28,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-cr-vasco-da-gama.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-rayan-rocha.png"
       },
@@ -1523,7 +1523,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 6,
         "jogador-assists": 5,
-        "jogador-partidas": 30,
+        "jogador-partidas": 31,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-cr-vasco-da-gama.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/portugal-arilson-edgardeline-fernandes-camati.png"
       },
