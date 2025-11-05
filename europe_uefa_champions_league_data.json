@@ -22,30 +22,30 @@
             "for": 20,
             "against": 7
           },
-          "form": "WLWWL",
-          "btts_matches": 5,
-          "avg_corners_per_game": 4.22,
+          "form": "LWWLD",
+          "btts_matches": 6,
+          "avg_corners_per_game": 4.0,
           "aproveitamento": 87.5,
-          "over_2_5_goals": 6,
-          "over_0_5_ht": 8,
+          "over_2_5_goals": 7,
+          "over_0_5_ht": 9,
           "over_0_5_ft": 5,
           "clean_sheets": 4
         },
         "home": {
-          "played": 4,
+          "played": 5,
           "win": 3,
-          "draw": 0,
+          "draw": 1,
           "lose": 1,
           "goals": {
-            "for": 10,
-            "against": 4
+            "for": 12,
+            "against": 6
           },
-          "form_home": "WWLW",
-          "avg_corners_home_per_game": 4.25,
-          "aproveitamento_home": 75.0,
-          "btts_home_matches": 2,
-          "over_2_5_goals_home": 2,
-          "over_0_5_ht_home": 4,
+          "form_home": "WWLWD",
+          "avg_corners_home_per_game": 3.8,
+          "aproveitamento_home": 66.7,
+          "btts_home_matches": 3,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 5,
           "over_0_5_ft_home": 2,
           "clean_sheets_home": 2
         },
@@ -226,32 +226,32 @@
             "for": 9,
             "against": 8
           },
-          "form": "WDDLD",
+          "form": "DDLDW",
           "btts_matches": 4,
-          "avg_corners_per_game": 4.0,
+          "avg_corners_per_game": 3.8,
           "aproveitamento": 62.5,
           "over_2_5_goals": 2,
           "over_0_5_ht": 4,
-          "over_0_5_ft": 5,
-          "clean_sheets": 5
+          "over_0_5_ft": 6,
+          "clean_sheets": 6
         },
         "home": {
-          "played": 4,
-          "win": 1,
+          "played": 5,
+          "win": 2,
           "draw": 2,
           "lose": 1,
           "goals": {
-            "for": 5,
+            "for": 6,
             "against": 7
           },
-          "form_home": "DWDL",
-          "avg_corners_home_per_game": 4.25,
-          "aproveitamento_home": 41.7,
+          "form_home": "DWDLW",
+          "avg_corners_home_per_game": 3.8,
+          "aproveitamento_home": 53.3,
           "btts_home_matches": 3,
           "over_2_5_goals_home": 1,
           "over_0_5_ht_home": 2,
-          "over_0_5_ft_home": 3,
-          "clean_sheets_home": 1
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 2
         },
         "away": {
           "played": 5,
@@ -3014,13 +3014,13 @@
             "for": 2,
             "against": 3
           },
-          "form": "LWW",
-          "btts_matches": 2,
-          "avg_corners_per_game": 5.33,
+          "form": "LWWD",
+          "btts_matches": 3,
+          "avg_corners_per_game": 6.0,
           "aproveitamento": 50.0,
-          "over_2_5_goals": 2,
-          "over_0_5_ht": 3,
-          "over_0_5_ft": 1,
+          "over_2_5_goals": 3,
+          "over_0_5_ht": 4,
+          "over_0_5_ft": 2,
           "clean_sheets": 1
         },
         "home": {
@@ -3042,21 +3042,21 @@
           "clean_sheets_home": 1
         },
         "away": {
-          "played": 1,
+          "played": 2,
           "win": 0,
-          "draw": 0,
+          "draw": 1,
           "lose": 1,
           "goals": {
-            "for": 1,
-            "against": 3
+            "for": 3,
+            "against": 5
           },
-          "form_visitor": "L",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 2.0,
-          "aproveitamento_away": 0.0,
-          "over_2_5_goals_away": 1,
-          "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 0,
+          "form_visitor": "LD",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 5.0,
+          "aproveitamento_away": 16.7,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 1,
           "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -4034,9 +4034,9 @@
             "for": 2,
             "against": 3
           },
-          "form": "LDL",
+          "form": "LDLL",
           "btts_matches": 1,
-          "avg_corners_per_game": 2.67,
+          "avg_corners_per_game": 2.75,
           "aproveitamento": 16.7,
           "over_2_5_goals": 1,
           "over_0_5_ht": 1,
@@ -4062,15 +4062,15 @@
           "clean_sheets_home": 0
         },
         "away": {
-          "played": 1,
+          "played": 2,
           "win": 0,
           "draw": 0,
-          "lose": 1,
+          "lose": 2,
           "goals": {
             "for": 0,
-            "against": 1
+            "against": 2
           },
-          "form_visitor": "L",
+          "form_visitor": "LL",
           "btts_away_matches": 0,
           "avg_corners_away_per_game": 3.0,
           "aproveitamento_away": 0.0,
@@ -5582,6 +5582,15 @@
   "artilharia": {
     "europe_uefa_champions_league": [
       {
+        "jogador-nome": "Leandro Livramento Andrade",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 6,
+        "jogador-assists": 2,
+        "jogador-partidas": 10,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/azerbaijan-qarabag-agdam-fk.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/cape-verde-leandro-andrade.png"
+      },
+      {
         "jogador-nome": "Barnabás Varga",
         "jogador-posicao": "Forward",
         "jogador-gols": 6,
@@ -5598,15 +5607,6 @@
         "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/poland-kks-lech-poznan.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/sweden-mikael-ishak.png"
-      },
-      {
-        "jogador-nome": "Leandro Livramento Andrade",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 5,
-        "jogador-assists": 2,
-        "jogador-partidas": 9,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/azerbaijan-qarabag-agdam-fk.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/cape-verde-leandro-andrade.png"
       },
       {
         "jogador-nome": "Kylian Mbappé Lottin",
@@ -5699,6 +5699,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/belgium-hans-vanaken.png"
       },
       {
+        "jogador-nome": "Marko Janković",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 3,
+        "jogador-assists": 1,
+        "jogador-partidas": 7,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/azerbaijan-qarabag-agdam-fk.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/montenegro-marko-jankovic.png"
+      },
+      {
         "jogador-nome": "Jonathan Burkardt",
         "jogador-posicao": "Forward",
         "jogador-gols": 3,
@@ -5751,15 +5760,6 @@
         "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/gibraltar-lincoln-red-imps-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/gibraltar-andre-tjay-de-barr.png"
-      },
-      {
-        "jogador-nome": "Victor James Osimhen",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 3,
-        "jogador-assists": 0,
-        "jogador-partidas": 2,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/turkey-galatasaray.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/nigeria-victor-osimhen.png"
       }
     ]
   }
