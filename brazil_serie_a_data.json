@@ -144,28 +144,28 @@
           "name": "Cruzeiro EC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-cruzeiro-ec.png"
         },
-        "points": 60,
-        "goalsDiff": 23,
+        "points": 63,
+        "goalsDiff": 24,
         "group": "Brazil Serie A 2025",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 31,
-          "win": 17,
+          "played": 32,
+          "win": 18,
           "draw": 9,
           "lose": 5,
           "goals": {
-            "for": 45,
+            "for": 46,
             "against": 22
           },
-          "form": "DDWDW",
+          "form": "DWDWW",
           "btts_matches": 14,
           "avg_corners_per_game": 5.81,
-          "aproveitamento": 64.5,
+          "aproveitamento": 65.6,
           "over_2_5_goals": 14,
-          "over_0_5_ht": 17,
+          "over_0_5_ht": 18,
           "over_0_5_ft": 13,
-          "clean_sheets": 14
+          "clean_sheets": 15
         },
         "home": {
           "played": 16,
@@ -186,22 +186,22 @@
           "clean_sheets_home": 6
         },
         "away": {
-          "played": 15,
-          "win": 5,
+          "played": 16,
+          "win": 6,
           "draw": 7,
           "lose": 3,
           "goals": {
-            "for": 15,
+            "for": 16,
             "against": 10
           },
-          "form_visitor": "WLDDD",
+          "form_visitor": "LDDDW",
           "btts_away_matches": 4,
-          "avg_corners_away_per_game": 4.6,
-          "aproveitamento_away": 48.9,
+          "avg_corners_away_per_game": 4.69,
+          "aproveitamento_away": 52.1,
           "over_2_5_goals_away": 3,
-          "over_0_5_ht_away": 5,
+          "over_0_5_ht_away": 6,
           "over_0_5_ft_away": 4,
-          "clean_sheets_away": 8
+          "clean_sheets_away": 9
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -281,24 +281,24 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-ec-bahia.png"
         },
         "points": 52,
-        "goalsDiff": 7,
+        "goalsDiff": 4,
         "group": "Brazil Serie A 2025",
         "status": "same",
         "description": "Copa Sul-Americana",
         "all": {
-          "played": 31,
+          "played": 32,
           "win": 15,
           "draw": 7,
-          "lose": 9,
+          "lose": 10,
           "goals": {
             "for": 42,
-            "against": 35
+            "against": 38
           },
-          "form": "LWWLW",
+          "form": "WWLWL",
           "btts_matches": 16,
-          "avg_corners_per_game": 4.39,
-          "aproveitamento": 55.9,
-          "over_2_5_goals": 16,
+          "avg_corners_per_game": 4.34,
+          "aproveitamento": 54.2,
+          "over_2_5_goals": 17,
           "over_0_5_ht": 15,
           "over_0_5_ft": 18,
           "clean_sheets": 11
@@ -322,19 +322,19 @@
           "clean_sheets_home": 8
         },
         "away": {
-          "played": 15,
+          "played": 16,
           "win": 3,
           "draw": 4,
-          "lose": 8,
+          "lose": 9,
           "goals": {
             "for": 14,
-            "against": 24
+            "against": 27
           },
-          "form_visitor": "DLLLL",
+          "form_visitor": "LLLLL",
           "btts_away_matches": 8,
-          "avg_corners_away_per_game": 4.2,
-          "aproveitamento_away": 28.9,
-          "over_2_5_goals_away": 8,
+          "avg_corners_away_per_game": 4.12,
+          "aproveitamento_away": 27.1,
+          "over_2_5_goals_away": 9,
           "over_0_5_ht_away": 5,
           "over_0_5_ft_away": 7,
           "clean_sheets_away": 3
@@ -684,6 +684,74 @@
       {
         "rank": 11,
         "team": {
+          "id": 620,
+          "name": "CA Mineiro",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-ca-mineiro.png"
+        },
+        "points": 40,
+        "goalsDiff": -2,
+        "group": "Brazil Serie A 2025",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 31,
+          "win": 10,
+          "draw": 10,
+          "lose": 11,
+          "goals": {
+            "for": 30,
+            "against": 32
+          },
+          "form": "DLWDW",
+          "btts_matches": 12,
+          "avg_corners_per_game": 5.94,
+          "aproveitamento": 43.0,
+          "over_2_5_goals": 11,
+          "over_0_5_ht": 9,
+          "over_0_5_ft": 14,
+          "clean_sheets": 12
+        },
+        "home": {
+          "played": 15,
+          "win": 8,
+          "draw": 6,
+          "lose": 1,
+          "goals": {
+            "for": 21,
+            "against": 11
+          },
+          "form_home": "DWDWW",
+          "avg_corners_home_per_game": 7.07,
+          "aproveitamento_home": 66.7,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 6,
+          "over_0_5_ft_home": 9,
+          "clean_sheets_home": 8
+        },
+        "away": {
+          "played": 16,
+          "win": 2,
+          "draw": 4,
+          "lose": 10,
+          "goals": {
+            "for": 9,
+            "against": 21
+          },
+          "form_visitor": "LLLLD",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 4.88,
+          "aproveitamento_away": 20.8,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 5,
+          "clean_sheets_away": 4
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 12,
+        "team": {
           "id": 635,
           "name": "Clube Atlético Bragantino",
           "logo": "https://cdn.footystats.org/img/teams/brazil-clube-atletico-bragantino.png"
@@ -750,47 +818,47 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "team": {
           "id": 616,
           "name": "Grêmio FB Porto Alegrense",
           "logo": "https://cdn.footystats.org/img/teams/brazil-gremio-fb-porto-alegrense.png"
         },
         "points": 39,
-        "goalsDiff": -7,
+        "goalsDiff": -8,
         "group": "Brazil Serie A 2025",
         "status": "same",
         "description": "",
         "all": {
-          "played": 31,
+          "played": 32,
           "win": 10,
           "draw": 9,
-          "lose": 12,
+          "lose": 13,
           "goals": {
             "for": 33,
-            "against": 40
+            "against": 41
           },
-          "form": "LWLWL",
+          "form": "WLWLL",
           "btts_matches": 17,
-          "avg_corners_per_game": 3.77,
-          "aproveitamento": 41.9,
+          "avg_corners_per_game": 3.81,
+          "aproveitamento": 40.6,
           "over_2_5_goals": 10,
           "over_0_5_ht": 12,
           "over_0_5_ft": 14,
           "clean_sheets": 5
         },
         "home": {
-          "played": 15,
+          "played": 16,
           "win": 7,
           "draw": 5,
-          "lose": 3,
+          "lose": 4,
           "goals": {
             "for": 18,
-            "against": 12
+            "against": 13
           },
-          "form_home": "LDWWW",
-          "avg_corners_home_per_game": 3.73,
-          "aproveitamento_home": 57.8,
+          "form_home": "DWWWL",
+          "avg_corners_home_per_game": 3.81,
+          "aproveitamento_home": 54.2,
           "btts_home_matches": 8,
           "over_2_5_goals_home": 4,
           "over_0_5_ht_home": 7,
@@ -818,7 +886,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "team": {
           "id": 642,
           "name": "Ceará SC",
@@ -881,74 +949,6 @@
           "over_2_5_goals_away": 6,
           "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 7,
-          "clean_sheets_away": 4
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 14,
-        "team": {
-          "id": 620,
-          "name": "CA Mineiro",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-ca-mineiro.png"
-        },
-        "points": 37,
-        "goalsDiff": -5,
-        "group": "Brazil Serie A 2025",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 30,
-          "win": 9,
-          "draw": 10,
-          "lose": 11,
-          "goals": {
-            "for": 27,
-            "against": 32
-          },
-          "form": "WDLWD",
-          "btts_matches": 12,
-          "avg_corners_per_game": 5.67,
-          "aproveitamento": 41.1,
-          "over_2_5_goals": 10,
-          "over_0_5_ht": 9,
-          "over_0_5_ft": 13,
-          "clean_sheets": 11
-        },
-        "home": {
-          "played": 14,
-          "win": 7,
-          "draw": 6,
-          "lose": 1,
-          "goals": {
-            "for": 18,
-            "against": 11
-          },
-          "form_home": "WDWDW",
-          "avg_corners_home_per_game": 6.57,
-          "aproveitamento_home": 64.3,
-          "btts_home_matches": 7,
-          "over_2_5_goals_home": 5,
-          "over_0_5_ht_home": 6,
-          "over_0_5_ft_home": 8,
-          "clean_sheets_home": 7
-        },
-        "away": {
-          "played": 16,
-          "win": 2,
-          "draw": 4,
-          "lose": 10,
-          "goals": {
-            "for": 9,
-            "against": 21
-          },
-          "form_visitor": "LLLLD",
-          "btts_away_matches": 5,
-          "avg_corners_away_per_game": 4.88,
-          "aproveitamento_away": 20.8,
-          "over_2_5_goals_away": 5,
-          "over_0_5_ht_away": 3,
-          "over_0_5_ft_away": 5,
           "clean_sheets_away": 4
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1370,7 +1370,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 17,
         "jogador-assists": 7,
-        "jogador-partidas": 28,
+        "jogador-partidas": 29,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-cruzeiro-ec.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-kaio-jorge.png"
       },
@@ -1451,7 +1451,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 9,
         "jogador-assists": 5,
-        "jogador-partidas": 26,
+        "jogador-partidas": 27,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ec-bahia.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-willian-jose.png"
       },
@@ -1523,7 +1523,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 6,
         "jogador-assists": 7,
-        "jogador-partidas": 29,
+        "jogador-partidas": 30,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-cruzeiro-ec.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-matheus-fellipe-costa-pereira.png"
       },
@@ -1541,7 +1541,7 @@
         "jogador-posicao": "Defender",
         "jogador-gols": 6,
         "jogador-assists": 4,
-        "jogador-partidas": 28,
+        "jogador-partidas": 29,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ec-bahia.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-luciano-batista-da-silva-junior.png"
       }
