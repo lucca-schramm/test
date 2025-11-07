@@ -412,6 +412,74 @@
       {
         "rank": 7,
         "team": {
+          "id": 37,
+          "name": "SV Werder Bremen",
+          "logo": "https://cdn.footystats.org/img/teams/germany-sv-werder-bremen.png"
+        },
+        "points": 15,
+        "goalsDiff": -3,
+        "group": "Germany Bundesliga 2025",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 10,
+          "win": 4,
+          "draw": 3,
+          "lose": 3,
+          "goals": {
+            "for": 15,
+            "against": 18
+          },
+          "form": "WDWDW",
+          "btts_matches": 5,
+          "avg_corners_per_game": 4.0,
+          "aproveitamento": 50.0,
+          "over_2_5_goals": 7,
+          "over_0_5_ht": 3,
+          "over_0_5_ft": 7,
+          "clean_sheets": 3
+        },
+        "home": {
+          "played": 5,
+          "win": 3,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 7,
+            "against": 7
+          },
+          "form_home": "DLWWW",
+          "avg_corners_home_per_game": 5.4,
+          "aproveitamento_home": 66.7,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 5,
+          "win": 1,
+          "draw": 2,
+          "lose": 2,
+          "goals": {
+            "for": 8,
+            "against": 11
+          },
+          "form_visitor": "LWLDD",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 2.6,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 4,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 8,
+        "team": {
           "id": 41,
           "name": "1. FC Köln",
           "logo": "https://cdn.footystats.org/img/teams/germany-1-fc-koln.png"
@@ -478,7 +546,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "team": {
           "id": 44,
           "name": "Eintracht Frankfurt",
@@ -542,74 +610,6 @@
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 4,
           "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 9,
-        "team": {
-          "id": 37,
-          "name": "SV Werder Bremen",
-          "logo": "https://cdn.footystats.org/img/teams/germany-sv-werder-bremen.png"
-        },
-        "points": 12,
-        "goalsDiff": -4,
-        "group": "Germany Bundesliga 2025",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 9,
-          "win": 3,
-          "draw": 3,
-          "lose": 3,
-          "goals": {
-            "for": 13,
-            "against": 17
-          },
-          "form": "LWDWD",
-          "btts_matches": 4,
-          "avg_corners_per_game": 3.0,
-          "aproveitamento": 44.4,
-          "over_2_5_goals": 6,
-          "over_0_5_ht": 3,
-          "over_0_5_ft": 6,
-          "clean_sheets": 3
-        },
-        "home": {
-          "played": 4,
-          "win": 2,
-          "draw": 1,
-          "lose": 1,
-          "goals": {
-            "for": 5,
-            "against": 6
-          },
-          "form_home": "DLWW",
-          "avg_corners_home_per_game": 3.5,
-          "aproveitamento_home": 58.3,
-          "btts_home_matches": 1,
-          "over_2_5_goals_home": 2,
-          "over_0_5_ht_home": 2,
-          "over_0_5_ft_home": 2,
-          "clean_sheets_home": 2
-        },
-        "away": {
-          "played": 5,
-          "win": 1,
-          "draw": 2,
-          "lose": 2,
-          "goals": {
-            "for": 8,
-            "against": 11
-          },
-          "form_visitor": "LWLDD",
-          "btts_away_matches": 3,
-          "avg_corners_away_per_game": 2.6,
-          "aproveitamento_away": 33.3,
-          "over_2_5_goals_away": 4,
-          "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 4,
-          "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -757,25 +757,25 @@
           "logo": "https://cdn.footystats.org/img/teams/germany-vfl-wolfsburg.png"
         },
         "points": 8,
-        "goalsDiff": -5,
+        "goalsDiff": -6,
         "group": "Germany Bundesliga 2025",
         "status": "same",
         "description": "",
         "all": {
-          "played": 9,
+          "played": 10,
           "win": 2,
           "draw": 2,
-          "lose": 5,
+          "lose": 6,
           "goals": {
-            "for": 11,
-            "against": 16
+            "for": 12,
+            "against": 18
           },
-          "form": "LLLWL",
-          "btts_matches": 5,
-          "avg_corners_per_game": 3.89,
-          "aproveitamento": 29.6,
-          "over_2_5_goals": 5,
-          "over_0_5_ht": 5,
+          "form": "LLWLL",
+          "btts_matches": 6,
+          "avg_corners_per_game": 3.8,
+          "aproveitamento": 26.7,
+          "over_2_5_goals": 6,
+          "over_0_5_ht": 6,
           "over_0_5_ft": 4,
           "clean_sheets": 1
         },
@@ -798,20 +798,20 @@
           "clean_sheets_home": 0
         },
         "away": {
-          "played": 4,
+          "played": 5,
           "win": 2,
           "draw": 0,
-          "lose": 2,
+          "lose": 3,
           "goals": {
-            "for": 5,
-            "against": 5
+            "for": 6,
+            "against": 7
           },
-          "form_visitor": "WLLW",
-          "btts_away_matches": 2,
-          "avg_corners_away_per_game": 3.5,
-          "aproveitamento_away": 50.0,
-          "over_2_5_goals_away": 2,
-          "over_0_5_ht_away": 2,
+          "form_visitor": "WLLWL",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 3.4,
+          "aproveitamento_away": 40.0,
+          "over_2_5_goals_away": 3,
+          "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 2,
           "clean_sheets_away": 1
         },
@@ -1365,6 +1365,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/-ilyas-ansah.png"
       },
       {
+        "jogador-nome": "Jens Stage",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 4,
+        "jogador-assists": 0,
+        "jogador-partidas": 8,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-sv-werder-bremen.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/denmark-jens-stage.png"
+      },
+      {
         "jogador-nome": "Andrej Kramarić",
         "jogador-posicao": "Forward",
         "jogador-gols": 3,
@@ -1392,22 +1401,13 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/germany-tim-lemperle.png"
       },
       {
-        "jogador-nome": "Patrik Schick",
+        "jogador-nome": "Samuel Mbangula",
         "jogador-posicao": "Forward",
         "jogador-gols": 3,
         "jogador-assists": 1,
-        "jogador-partidas": 7,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-bayer-04-leverkusen.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/czech-republic-patrik-schick.png"
-      },
-      {
-        "jogador-nome": "Nadiem Amiri",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 3,
-        "jogador-assists": 1,
         "jogador-partidas": 9,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-1-fsv-mainz-05.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/germany-nadiem-amiri.png"
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-sv-werder-bremen.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-samuel-mbangula.png"
       }
     ]
   }
