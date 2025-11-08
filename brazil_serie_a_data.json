@@ -548,6 +548,74 @@
       {
         "rank": 9,
         "team": {
+          "id": 620,
+          "name": "CA Mineiro",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-ca-mineiro.png"
+        },
+        "points": 43,
+        "goalsDiff": 0,
+        "group": "Brazil Serie A 2025",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 32,
+          "win": 11,
+          "draw": 10,
+          "lose": 11,
+          "goals": {
+            "for": 34,
+            "against": 34
+          },
+          "form": "LWDWW",
+          "btts_matches": 13,
+          "avg_corners_per_game": 5.84,
+          "aproveitamento": 44.8,
+          "over_2_5_goals": 12,
+          "over_0_5_ht": 9,
+          "over_0_5_ft": 15,
+          "clean_sheets": 12
+        },
+        "home": {
+          "played": 15,
+          "win": 8,
+          "draw": 6,
+          "lose": 1,
+          "goals": {
+            "for": 21,
+            "against": 11
+          },
+          "form_home": "DWDWW",
+          "avg_corners_home_per_game": 7.0,
+          "aproveitamento_home": 66.7,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 6,
+          "over_0_5_ft_home": 9,
+          "clean_sheets_home": 8
+        },
+        "away": {
+          "played": 17,
+          "win": 3,
+          "draw": 4,
+          "lose": 10,
+          "goals": {
+            "for": 13,
+            "against": 23
+          },
+          "form_visitor": "LLLDW",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 4.82,
+          "aproveitamento_away": 25.5,
+          "over_2_5_goals_away": 6,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 6,
+          "clean_sheets_away": 4
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 10,
+        "team": {
           "id": 625,
           "name": "CR Vasco da Gama",
           "logo": "https://cdn.footystats.org/img/teams/brazil-cr-vasco-da-gama.png"
@@ -614,7 +682,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "team": {
           "id": 624,
           "name": "SC Corinthians Paulista",
@@ -677,74 +745,6 @@
           "over_2_5_goals_away": 6,
           "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 9,
-          "clean_sheets_away": 4
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 11,
-        "team": {
-          "id": 620,
-          "name": "CA Mineiro",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-ca-mineiro.png"
-        },
-        "points": 40,
-        "goalsDiff": -2,
-        "group": "Brazil Serie A 2025",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 31,
-          "win": 10,
-          "draw": 10,
-          "lose": 11,
-          "goals": {
-            "for": 30,
-            "against": 32
-          },
-          "form": "DLWDW",
-          "btts_matches": 12,
-          "avg_corners_per_game": 5.9,
-          "aproveitamento": 43.0,
-          "over_2_5_goals": 11,
-          "over_0_5_ht": 9,
-          "over_0_5_ft": 14,
-          "clean_sheets": 12
-        },
-        "home": {
-          "played": 15,
-          "win": 8,
-          "draw": 6,
-          "lose": 1,
-          "goals": {
-            "for": 21,
-            "against": 11
-          },
-          "form_home": "DWDWW",
-          "avg_corners_home_per_game": 7.0,
-          "aproveitamento_home": 66.7,
-          "btts_home_matches": 7,
-          "over_2_5_goals_home": 6,
-          "over_0_5_ht_home": 6,
-          "over_0_5_ft_home": 9,
-          "clean_sheets_home": 8
-        },
-        "away": {
-          "played": 16,
-          "win": 2,
-          "draw": 4,
-          "lose": 10,
-          "goals": {
-            "for": 9,
-            "against": 21
-          },
-          "form_visitor": "LLLLD",
-          "btts_away_matches": 5,
-          "avg_corners_away_per_game": 4.88,
-          "aproveitamento_away": 20.8,
-          "over_2_5_goals_away": 5,
-          "over_0_5_ht_away": 3,
-          "over_0_5_ft_away": 5,
           "clean_sheets_away": 4
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1301,44 +1301,44 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-sc-do-recife.png"
         },
         "points": 17,
-        "goalsDiff": -29,
+        "goalsDiff": -31,
         "group": "Brazil Serie A 2025",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 31,
+          "played": 32,
           "win": 2,
           "draw": 11,
-          "lose": 18,
+          "lose": 19,
           "goals": {
-            "for": 22,
-            "against": 51
+            "for": 24,
+            "against": 55
           },
-          "form": "DLLLL",
-          "btts_matches": 15,
-          "avg_corners_per_game": 6.0,
-          "aproveitamento": 18.3,
-          "over_2_5_goals": 14,
-          "over_0_5_ht": 9,
-          "over_0_5_ft": 11,
+          "form": "LLLLL",
+          "btts_matches": 16,
+          "avg_corners_per_game": 5.94,
+          "aproveitamento": 17.7,
+          "over_2_5_goals": 15,
+          "over_0_5_ht": 10,
+          "over_0_5_ft": 12,
           "clean_sheets": 5
         },
         "home": {
-          "played": 15,
+          "played": 16,
           "win": 1,
           "draw": 7,
-          "lose": 7,
+          "lose": 8,
           "goals": {
-            "for": 13,
-            "against": 23
+            "for": 15,
+            "against": 27
           },
-          "form_home": "WDDLL",
-          "avg_corners_home_per_game": 5.87,
-          "aproveitamento_home": 22.2,
-          "btts_home_matches": 8,
-          "over_2_5_goals_home": 7,
-          "over_0_5_ht_home": 6,
-          "over_0_5_ft_home": 6,
+          "form_home": "DDLLL",
+          "avg_corners_home_per_game": 5.75,
+          "aproveitamento_home": 20.8,
+          "btts_home_matches": 9,
+          "over_2_5_goals_home": 8,
+          "over_0_5_ht_home": 7,
+          "over_0_5_ft_home": 7,
           "clean_sheets_home": 3
         },
         "away": {
@@ -1528,6 +1528,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-matheus-fellipe-costa-pereira.png"
       },
       {
+        "jogador-nome": "Givanildo Vieira de Souza",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 6,
+        "jogador-assists": 5,
+        "jogador-partidas": 27,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ca-mineiro.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-hulk.png"
+      },
+      {
         "jogador-nome": "Arilson Edgardeline Fernandes Camati",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 6,
@@ -1535,15 +1544,6 @@
         "jogador-partidas": 31,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-cr-vasco-da-gama.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/portugal-arilson-edgardeline-fernandes-camati.png"
-      },
-      {
-        "jogador-nome": "Luciano Batista da Silva Junior",
-        "jogador-posicao": "Defender",
-        "jogador-gols": 6,
-        "jogador-assists": 4,
-        "jogador-partidas": 29,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ec-bahia.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-luciano-batista-da-silva-junior.png"
       }
     ]
   }
