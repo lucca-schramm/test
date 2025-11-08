@@ -621,43 +621,43 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-cr-vasco-da-gama.png"
         },
         "points": 42,
-        "goalsDiff": 3,
+        "goalsDiff": 1,
         "group": "Brazil Serie A 2025",
         "status": "same",
         "description": "",
         "all": {
-          "played": 32,
+          "played": 33,
           "win": 12,
           "draw": 6,
-          "lose": 14,
+          "lose": 15,
           "goals": {
-            "for": 49,
-            "against": 46
+            "for": 50,
+            "against": 49
           },
-          "form": "WWWLL",
-          "btts_matches": 16,
-          "avg_corners_per_game": 4.22,
-          "aproveitamento": 43.8,
-          "over_2_5_goals": 18,
-          "over_0_5_ht": 17,
+          "form": "WWLLL",
+          "btts_matches": 17,
+          "avg_corners_per_game": 4.3,
+          "aproveitamento": 42.4,
+          "over_2_5_goals": 19,
+          "over_0_5_ht": 18,
           "over_0_5_ft": 17,
           "clean_sheets": 7
         },
         "home": {
-          "played": 16,
+          "played": 17,
           "win": 7,
           "draw": 4,
-          "lose": 5,
+          "lose": 6,
           "goals": {
-            "for": 25,
-            "against": 20
+            "for": 26,
+            "against": 23
           },
-          "form_home": "WWWWL",
-          "avg_corners_home_per_game": 4.56,
-          "aproveitamento_home": 52.1,
-          "btts_home_matches": 8,
-          "over_2_5_goals_home": 7,
-          "over_0_5_ht_home": 8,
+          "form_home": "WWWLL",
+          "avg_corners_home_per_game": 4.71,
+          "aproveitamento_home": 49.0,
+          "btts_home_matches": 9,
+          "over_2_5_goals_home": 8,
+          "over_0_5_ht_home": 9,
           "over_0_5_ft_home": 10,
           "clean_sheets_home": 4
         },
@@ -1164,27 +1164,27 @@
           "name": "EC Juventude",
           "logo": "https://cdn.footystats.org/img/teams/brazil-ec-juventude.png"
         },
-        "points": 29,
-        "goalsDiff": -32,
+        "points": 32,
+        "goalsDiff": -30,
         "group": "Brazil Serie A 2025",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 32,
-          "win": 8,
+          "played": 33,
+          "win": 9,
           "draw": 5,
           "lose": 19,
           "goals": {
-            "for": 26,
-            "against": 58
+            "for": 29,
+            "against": 59
           },
-          "form": "LWLLW",
-          "btts_matches": 12,
-          "avg_corners_per_game": 3.88,
-          "aproveitamento": 30.2,
-          "over_2_5_goals": 14,
-          "over_0_5_ht": 12,
-          "over_0_5_ft": 11,
+          "form": "WLLWW",
+          "btts_matches": 13,
+          "avg_corners_per_game": 3.79,
+          "aproveitamento": 32.3,
+          "over_2_5_goals": 15,
+          "over_0_5_ht": 13,
+          "over_0_5_ft": 12,
           "clean_sheets": 7
         },
         "home": {
@@ -1206,21 +1206,21 @@
           "clean_sheets_home": 4
         },
         "away": {
-          "played": 16,
-          "win": 2,
+          "played": 17,
+          "win": 3,
           "draw": 2,
           "lose": 12,
           "goals": {
-            "for": 9,
-            "against": 39
+            "for": 12,
+            "against": 40
           },
-          "form_visitor": "DLLLW",
-          "btts_away_matches": 5,
-          "avg_corners_away_per_game": 3.5,
-          "aproveitamento_away": 16.7,
-          "over_2_5_goals_away": 9,
-          "over_0_5_ht_away": 3,
-          "over_0_5_ft_away": 5,
+          "form_visitor": "LLLWW",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 3.35,
+          "aproveitamento_away": 21.6,
+          "over_2_5_goals_away": 10,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 6,
           "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1397,7 +1397,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 15,
         "jogador-assists": 1,
-        "jogador-partidas": 29,
+        "jogador-partidas": 30,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-cr-vasco-da-gama.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/argentina-pablo-ezequiel-vegetti-pfaffen.png"
       },
@@ -1411,6 +1411,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-pedro-guilherme-abreu-dos-santos.png"
       },
       {
+        "jogador-nome": "Rayan Rocha",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 12,
+        "jogador-assists": 1,
+        "jogador-partidas": 30,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-cr-vasco-da-gama.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-rayan-rocha.png"
+      },
+      {
         "jogador-nome": "Reinaldo Manoel da Silva",
         "jogador-posicao": "Defender",
         "jogador-gols": 11,
@@ -1418,15 +1427,6 @@
         "jogador-partidas": 30,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-mirassol-futebol-clube.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-reinaldo-manoel-da-silva.png"
-      },
-      {
-        "jogador-nome": "Rayan Rocha",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 11,
-        "jogador-assists": 1,
-        "jogador-partidas": 29,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-cr-vasco-da-gama.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/-rayan-rocha.png"
       },
       {
         "jogador-nome": "José Manuel López",
@@ -1541,7 +1541,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 6,
         "jogador-assists": 5,
-        "jogador-partidas": 31,
+        "jogador-partidas": 32,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-cr-vasco-da-gama.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/portugal-arilson-edgardeline-fernandes-camati.png"
       }
