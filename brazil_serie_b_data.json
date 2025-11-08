@@ -956,30 +956,98 @@
       {
         "rank": 15,
         "team": {
+          "id": 677199,
+          "name": "Athletic Club (Minas Gerais)",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-athletic-club-minas-gerais.png"
+        },
+        "points": 40,
+        "goalsDiff": -11,
+        "group": "Brazil Serie B 2025",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 36,
+          "win": 11,
+          "draw": 7,
+          "lose": 18,
+          "goals": {
+            "for": 41,
+            "against": 52
+          },
+          "form": "DLLLW",
+          "btts_matches": 19,
+          "avg_corners_per_game": 4.94,
+          "aproveitamento": 37.0,
+          "over_2_5_goals": 18,
+          "over_0_5_ht": 17,
+          "over_0_5_ft": 16,
+          "clean_sheets": 5
+        },
+        "home": {
+          "played": 18,
+          "win": 5,
+          "draw": 5,
+          "lose": 8,
+          "goals": {
+            "for": 20,
+            "against": 27
+          },
+          "form_home": "LDDLW",
+          "avg_corners_home_per_game": 5.72,
+          "aproveitamento_home": 37.0,
+          "btts_home_matches": 10,
+          "over_2_5_goals_home": 9,
+          "over_0_5_ht_home": 9,
+          "over_0_5_ft_home": 8,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 18,
+          "win": 6,
+          "draw": 2,
+          "lose": 10,
+          "goals": {
+            "for": 21,
+            "against": 25
+          },
+          "form_visitor": "LLWLL",
+          "btts_away_matches": 9,
+          "avg_corners_away_per_game": 4.17,
+          "aproveitamento_away": 37.0,
+          "over_2_5_goals_away": 9,
+          "over_0_5_ht_away": 8,
+          "over_0_5_ft_away": 8,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 16,
+        "team": {
           "id": 2714,
           "name": "Associação Ferroviária de Esportes",
           "logo": "https://cdn.footystats.org/img/teams/brazil-associacao-ferroviaria-de-esportes.png"
         },
         "points": 40,
-        "goalsDiff": -6,
+        "goalsDiff": -7,
         "group": "Brazil Serie B 2025",
         "status": "same",
         "description": "",
         "all": {
-          "played": 35,
+          "played": 36,
           "win": 8,
           "draw": 16,
-          "lose": 11,
+          "lose": 12,
           "goals": {
-            "for": 40,
-            "against": 46
+            "for": 41,
+            "against": 48
           },
-          "form": "LDDDD",
-          "btts_matches": 23,
-          "avg_corners_per_game": 4.54,
-          "aproveitamento": 38.1,
-          "over_2_5_goals": 19,
-          "over_0_5_ht": 19,
+          "form": "DDDDL",
+          "btts_matches": 24,
+          "avg_corners_per_game": 4.42,
+          "aproveitamento": 37.0,
+          "over_2_5_goals": 20,
+          "over_0_5_ht": 20,
           "over_0_5_ft": 16,
           "clean_sheets": 8
         },
@@ -1002,27 +1070,27 @@
           "clean_sheets_home": 5
         },
         "away": {
-          "played": 17,
+          "played": 18,
           "win": 4,
           "draw": 7,
-          "lose": 6,
+          "lose": 7,
           "goals": {
-            "for": 21,
-            "against": 25
+            "for": 22,
+            "against": 27
           },
-          "form_visitor": "LDWDD",
-          "btts_away_matches": 11,
-          "avg_corners_away_per_game": 4.0,
-          "aproveitamento_away": 37.3,
-          "over_2_5_goals_away": 11,
-          "over_0_5_ht_away": 8,
+          "form_visitor": "DWDDL",
+          "btts_away_matches": 12,
+          "avg_corners_away_per_game": 3.78,
+          "aproveitamento_away": 35.2,
+          "over_2_5_goals_away": 12,
+          "over_0_5_ht_away": 9,
           "over_0_5_ft_away": 10,
           "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 16,
+        "rank": 17,
         "team": {
           "id": 2598,
           "name": "Botafogo FC Ribeirão Preto",
@@ -1032,7 +1100,7 @@
         "goalsDiff": -19,
         "group": "Brazil Serie B 2025",
         "status": "same",
-        "description": "",
+        "description": "Rebaixamento",
         "all": {
           "played": 35,
           "win": 9,
@@ -1086,74 +1154,6 @@
           "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 9,
           "clean_sheets_away": 2
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 17,
-        "team": {
-          "id": 677199,
-          "name": "Athletic Club (Minas Gerais)",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-athletic-club-minas-gerais.png"
-        },
-        "points": 37,
-        "goalsDiff": -12,
-        "group": "Brazil Serie B 2025",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 35,
-          "win": 10,
-          "draw": 7,
-          "lose": 18,
-          "goals": {
-            "for": 39,
-            "against": 51
-          },
-          "form": "WDLLL",
-          "btts_matches": 18,
-          "avg_corners_per_game": 5.06,
-          "aproveitamento": 35.2,
-          "over_2_5_goals": 17,
-          "over_0_5_ht": 16,
-          "over_0_5_ft": 15,
-          "clean_sheets": 5
-        },
-        "home": {
-          "played": 17,
-          "win": 4,
-          "draw": 5,
-          "lose": 8,
-          "goals": {
-            "for": 18,
-            "against": 26
-          },
-          "form_home": "WLDDL",
-          "avg_corners_home_per_game": 6.0,
-          "aproveitamento_home": 33.3,
-          "btts_home_matches": 9,
-          "over_2_5_goals_home": 8,
-          "over_0_5_ht_home": 8,
-          "over_0_5_ft_home": 7,
-          "clean_sheets_home": 2
-        },
-        "away": {
-          "played": 18,
-          "win": 6,
-          "draw": 2,
-          "lose": 10,
-          "goals": {
-            "for": 21,
-            "against": 25
-          },
-          "form_visitor": "LLWLL",
-          "btts_away_matches": 9,
-          "avg_corners_away_per_game": 4.17,
-          "aproveitamento_away": 37.0,
-          "over_2_5_goals_away": 9,
-          "over_0_5_ht_away": 8,
-          "over_0_5_ft_away": 8,
-          "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1445,9 +1445,9 @@
       {
         "jogador-nome": "Carlos Henrique de Moura Brito",
         "jogador-posicao": "Forward",
-        "jogador-gols": 12,
+        "jogador-gols": 13,
         "jogador-assists": 2,
-        "jogador-partidas": 33,
+        "jogador-partidas": 34,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-associacao-ferroviaria-de-esportes.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-carlos-henrique-de-moura-brito.png"
       },
@@ -1492,7 +1492,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 9,
         "jogador-assists": 5,
-        "jogador-partidas": 23,
+        "jogador-partidas": 24,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-athletic-club-minas-gerais.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/portugal-ronaldo-rodrigues-tavares.png"
       },
@@ -1609,7 +1609,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 7,
         "jogador-assists": 0,
-        "jogador-partidas": 30,
+        "jogador-partidas": 31,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-athletic-club-minas-gerais.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-arnaldo-francisco-da-costa-neto.png"
       }
