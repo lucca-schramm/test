@@ -72,6 +72,74 @@
       {
         "rank": 2,
         "team": {
+          "id": 622,
+          "name": "CA Paranaense",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-ca-paranaense.png"
+        },
+        "points": 59,
+        "goalsDiff": 8,
+        "group": "Brazil Serie B 2025",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 36,
+          "win": 17,
+          "draw": 8,
+          "lose": 11,
+          "goals": {
+            "for": 50,
+            "against": 42
+          },
+          "form": "DDWWW",
+          "btts_matches": 21,
+          "avg_corners_per_game": 5.33,
+          "aproveitamento": 54.6,
+          "over_2_5_goals": 18,
+          "over_0_5_ht": 19,
+          "over_0_5_ft": 25,
+          "clean_sheets": 11
+        },
+        "home": {
+          "played": 18,
+          "win": 9,
+          "draw": 5,
+          "lose": 4,
+          "goals": {
+            "for": 22,
+            "against": 15
+          },
+          "form_home": "WWDWW",
+          "avg_corners_home_per_game": 6.33,
+          "aproveitamento_home": 59.3,
+          "btts_home_matches": 9,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 8,
+          "over_0_5_ft_home": 13,
+          "clean_sheets_home": 6
+        },
+        "away": {
+          "played": 18,
+          "win": 8,
+          "draw": 3,
+          "lose": 7,
+          "goals": {
+            "for": 28,
+            "against": 27
+          },
+          "form_visitor": "WLLDW",
+          "btts_away_matches": 12,
+          "avg_corners_away_per_game": 4.33,
+          "aproveitamento_away": 50.0,
+          "over_2_5_goals_away": 14,
+          "over_0_5_ht_away": 11,
+          "over_0_5_ft_away": 12,
+          "clean_sheets_away": 5
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 3,
+        "team": {
           "id": 2594,
           "name": "Clube do Remo",
           "logo": "https://cdn.footystats.org/img/teams/brazil-clube-do-remo.png"
@@ -138,7 +206,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "team": {
           "id": 623,
           "name": "Chapecoense AF",
@@ -206,7 +274,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "team": {
           "id": 1056,
           "name": "Goiás EC",
@@ -216,7 +284,7 @@
         "goalsDiff": 6,
         "group": "Brazil Serie B 2025",
         "status": "same",
-        "description": "Copa Libertadores",
+        "description": "Copa Sul-Americana",
         "all": {
           "played": 36,
           "win": 16,
@@ -274,7 +342,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "team": {
           "id": 2712,
           "name": "Grêmio Novorizontino",
@@ -338,74 +406,6 @@
           "over_0_5_ht_away": 6,
           "over_0_5_ft_away": 5,
           "clean_sheets_away": 8
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 6,
-        "team": {
-          "id": 622,
-          "name": "CA Paranaense",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-ca-paranaense.png"
-        },
-        "points": 56,
-        "goalsDiff": 6,
-        "group": "Brazil Serie B 2025",
-        "status": "same",
-        "description": "Copa Sul-Americana",
-        "all": {
-          "played": 35,
-          "win": 16,
-          "draw": 8,
-          "lose": 11,
-          "goals": {
-            "for": 48,
-            "against": 42
-          },
-          "form": "LDDWW",
-          "btts_matches": 21,
-          "avg_corners_per_game": 5.43,
-          "aproveitamento": 53.3,
-          "over_2_5_goals": 18,
-          "over_0_5_ht": 18,
-          "over_0_5_ft": 24,
-          "clean_sheets": 10
-        },
-        "home": {
-          "played": 17,
-          "win": 8,
-          "draw": 5,
-          "lose": 4,
-          "goals": {
-            "for": 20,
-            "against": 15
-          },
-          "form_home": "WWWDW",
-          "avg_corners_home_per_game": 6.59,
-          "aproveitamento_home": 56.9,
-          "btts_home_matches": 9,
-          "over_2_5_goals_home": 4,
-          "over_0_5_ht_home": 7,
-          "over_0_5_ft_home": 12,
-          "clean_sheets_home": 5
-        },
-        "away": {
-          "played": 18,
-          "win": 8,
-          "draw": 3,
-          "lose": 7,
-          "goals": {
-            "for": 28,
-            "against": 27
-          },
-          "form_visitor": "WLLDW",
-          "btts_away_matches": 12,
-          "avg_corners_away_per_game": 4.33,
-          "aproveitamento_away": 50.0,
-          "over_2_5_goals_away": 14,
-          "over_0_5_ht_away": 11,
-          "over_0_5_ft_away": 12,
-          "clean_sheets_away": 5
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1233,23 +1233,23 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-volta-redonda-fc.png"
         },
         "points": 34,
-        "goalsDiff": -15,
+        "goalsDiff": -17,
         "group": "Brazil Serie B 2025",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 35,
+          "played": 36,
           "win": 8,
           "draw": 10,
-          "lose": 17,
+          "lose": 18,
           "goals": {
             "for": 23,
-            "against": 38
+            "against": 40
           },
-          "form": "LWLLL",
+          "form": "WLLLL",
           "btts_matches": 11,
-          "avg_corners_per_game": 5.46,
-          "aproveitamento": 32.4,
+          "avg_corners_per_game": 5.53,
+          "aproveitamento": 31.5,
           "over_2_5_goals": 10,
           "over_0_5_ht": 4,
           "over_0_5_ft": 14,
@@ -1274,18 +1274,18 @@
           "clean_sheets_home": 8
         },
         "away": {
-          "played": 17,
+          "played": 18,
           "win": 1,
           "draw": 4,
-          "lose": 12,
+          "lose": 13,
           "goals": {
             "for": 8,
-            "against": 26
+            "against": 28
           },
-          "form_visitor": "WLLLL",
+          "form_visitor": "LLLLL",
           "btts_away_matches": 6,
-          "avg_corners_away_per_game": 4.94,
-          "aproveitamento_away": 13.7,
+          "avg_corners_away_per_game": 5.11,
+          "aproveitamento_away": 13.0,
           "over_2_5_goals_away": 6,
           "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 5,
@@ -1515,6 +1515,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-diego-goncalves.png"
       },
       {
+        "jogador-nome": "Kevin Stiven Viveros Rodallega",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 9,
+        "jogador-assists": 1,
+        "jogador-partidas": 19,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ca-paranaense.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/colombia-kevin-stiven-viveros-rodallega.png"
+      },
+      {
         "jogador-nome": "Anselmo Ramon Alves Erculano",
         "jogador-posicao": "Forward",
         "jogador-gols": 9,
@@ -1522,15 +1531,6 @@
         "jogador-partidas": 33,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-goias-ec.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-anselmo-ramon-alves-erculano.png"
-      },
-      {
-        "jogador-nome": "Kevin Stiven Viveros Rodallega",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 9,
-        "jogador-assists": 0,
-        "jogador-partidas": 18,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ca-paranaense.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/colombia-kevin-stiven-viveros-rodallega.png"
       },
       {
         "jogador-nome": "Miguel Ángel Terceros",
