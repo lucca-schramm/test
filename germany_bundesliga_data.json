@@ -616,6 +616,74 @@
       {
         "rank": 10,
         "team": {
+          "id": 42,
+          "name": "SC Freiburg",
+          "logo": "https://cdn.footystats.org/img/teams/germany-sc-freiburg.png"
+        },
+        "points": 13,
+        "goalsDiff": -1,
+        "group": "Germany Bundesliga 2025",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 10,
+          "win": 3,
+          "draw": 4,
+          "lose": 3,
+          "goals": {
+            "for": 13,
+            "against": 14
+          },
+          "form": "DDLDW",
+          "btts_matches": 6,
+          "avg_corners_per_game": 4.4,
+          "aproveitamento": 43.3,
+          "over_2_5_goals": 6,
+          "over_0_5_ht": 4,
+          "over_0_5_ft": 6,
+          "clean_sheets": 3
+        },
+        "home": {
+          "played": 5,
+          "win": 2,
+          "draw": 2,
+          "lose": 1,
+          "goals": {
+            "for": 9,
+            "against": 8
+          },
+          "form_home": "LWDDW",
+          "avg_corners_home_per_game": 6.0,
+          "aproveitamento_home": 53.3,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 5,
+          "win": 1,
+          "draw": 2,
+          "lose": 2,
+          "goals": {
+            "for": 4,
+            "against": 6
+          },
+          "form_visitor": "LWDLD",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 2.8,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 11,
+        "team": {
           "id": 541,
           "name": "1. FC Union Berlin",
           "logo": "https://cdn.footystats.org/img/teams/germany-1-fc-union-berlin.png"
@@ -678,74 +746,6 @@
           "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 1,
           "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 11,
-        "team": {
-          "id": 42,
-          "name": "SC Freiburg",
-          "logo": "https://cdn.footystats.org/img/teams/germany-sc-freiburg.png"
-        },
-        "points": 10,
-        "goalsDiff": -2,
-        "group": "Germany Bundesliga 2025",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 9,
-          "win": 2,
-          "draw": 4,
-          "lose": 3,
-          "goals": {
-            "for": 11,
-            "against": 13
-          },
-          "form": "DDDLD",
-          "btts_matches": 5,
-          "avg_corners_per_game": 3.89,
-          "aproveitamento": 37.0,
-          "over_2_5_goals": 5,
-          "over_0_5_ht": 3,
-          "over_0_5_ft": 5,
-          "clean_sheets": 3
-        },
-        "home": {
-          "played": 4,
-          "win": 1,
-          "draw": 2,
-          "lose": 1,
-          "goals": {
-            "for": 7,
-            "against": 7
-          },
-          "form_home": "LWDD",
-          "avg_corners_home_per_game": 5.25,
-          "aproveitamento_home": 41.7,
-          "btts_home_matches": 4,
-          "over_2_5_goals_home": 3,
-          "over_0_5_ht_home": 2,
-          "over_0_5_ft_home": 3,
-          "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 5,
-          "win": 1,
-          "draw": 2,
-          "lose": 2,
-          "goals": {
-            "for": 4,
-            "against": 6
-          },
-          "form_visitor": "LWDLD",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 2.8,
-          "aproveitamento_away": 33.3,
-          "over_2_5_goals_away": 2,
-          "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 2,
-          "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1029,26 +1029,26 @@
           "logo": "https://cdn.footystats.org/img/teams/germany-fc-st-pauli.png"
         },
         "points": 7,
-        "goalsDiff": -10,
+        "goalsDiff": -11,
         "group": "Germany Bundesliga 2025",
         "status": "same",
         "description": "",
         "all": {
-          "played": 9,
+          "played": 10,
           "win": 2,
           "draw": 1,
-          "lose": 6,
+          "lose": 7,
           "goals": {
-            "for": 8,
-            "against": 18
+            "for": 9,
+            "against": 20
           },
           "form": "LLLLL",
-          "btts_matches": 3,
-          "avg_corners_per_game": 5.56,
-          "aproveitamento": 25.9,
-          "over_2_5_goals": 5,
+          "btts_matches": 4,
+          "avg_corners_per_game": 5.3,
+          "aproveitamento": 23.3,
+          "over_2_5_goals": 6,
           "over_0_5_ht": 3,
-          "over_0_5_ft": 3,
+          "over_0_5_ft": 4,
           "clean_sheets": 1
         },
         "home": {
@@ -1070,21 +1070,21 @@
           "clean_sheets_home": 0
         },
         "away": {
-          "played": 4,
+          "played": 5,
           "win": 1,
           "draw": 0,
-          "lose": 3,
+          "lose": 4,
           "goals": {
-            "for": 2,
-            "against": 5
+            "for": 3,
+            "against": 7
           },
-          "form_visitor": "WLLL",
-          "btts_away_matches": 0,
+          "form_visitor": "WLLLL",
+          "btts_away_matches": 1,
           "avg_corners_away_per_game": 3.0,
-          "aproveitamento_away": 25.0,
-          "over_2_5_goals_away": 0,
+          "aproveitamento_away": 20.0,
+          "over_2_5_goals_away": 1,
           "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 1,
+          "over_0_5_ft_away": 2,
           "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
