@@ -484,45 +484,45 @@
           "name": "Clube de Regatas Brasil",
           "logo": "https://cdn.footystats.org/img/teams/brazil-clube-de-regatas-brasil.png"
         },
-        "points": 52,
+        "points": 53,
         "goalsDiff": 6,
         "group": "Brazil Serie B 2025",
         "status": "same",
         "description": "",
         "all": {
-          "played": 35,
+          "played": 36,
           "win": 15,
-          "draw": 7,
+          "draw": 8,
           "lose": 13,
           "goals": {
-            "for": 41,
-            "against": 35
+            "for": 43,
+            "against": 37
           },
-          "form": "WDDWD",
-          "btts_matches": 15,
-          "avg_corners_per_game": 6.51,
-          "aproveitamento": 49.5,
-          "over_2_5_goals": 11,
-          "over_0_5_ht": 18,
-          "over_0_5_ft": 15,
+          "form": "DDWDD",
+          "btts_matches": 16,
+          "avg_corners_per_game": 6.53,
+          "aproveitamento": 49.1,
+          "over_2_5_goals": 12,
+          "over_0_5_ht": 19,
+          "over_0_5_ft": 16,
           "clean_sheets": 12
         },
         "home": {
-          "played": 17,
+          "played": 18,
           "win": 12,
-          "draw": 2,
+          "draw": 3,
           "lose": 3,
           "goals": {
-            "for": 26,
-            "against": 10
+            "for": 28,
+            "against": 12
           },
-          "form_home": "WWWDW",
-          "avg_corners_home_per_game": 5.59,
-          "aproveitamento_home": 74.5,
-          "btts_home_matches": 5,
-          "over_2_5_goals_home": 5,
-          "over_0_5_ht_home": 11,
-          "over_0_5_ft_home": 9,
+          "form_home": "WWDWD",
+          "avg_corners_home_per_game": 5.67,
+          "aproveitamento_home": 72.2,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 12,
+          "over_0_5_ft_home": 10,
           "clean_sheets_home": 10
         },
         "away": {
@@ -824,27 +824,27 @@
           "name": "Operário Ferroviário EC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-operario-ferroviario-ec.png"
         },
-        "points": 43,
+        "points": 44,
         "goalsDiff": -5,
         "group": "Brazil Serie B 2025",
         "status": "same",
         "description": "",
         "all": {
-          "played": 35,
+          "played": 36,
           "win": 11,
-          "draw": 10,
+          "draw": 11,
           "lose": 14,
           "goals": {
-            "for": 36,
-            "against": 41
+            "for": 38,
+            "against": 43
           },
-          "form": "LLWLD",
-          "btts_matches": 17,
-          "avg_corners_per_game": 5.03,
-          "aproveitamento": 41.0,
-          "over_2_5_goals": 16,
-          "over_0_5_ht": 16,
-          "over_0_5_ft": 12,
+          "form": "LWLDD",
+          "btts_matches": 18,
+          "avg_corners_per_game": 5.0,
+          "aproveitamento": 40.7,
+          "over_2_5_goals": 17,
+          "over_0_5_ht": 17,
+          "over_0_5_ft": 13,
           "clean_sheets": 10
         },
         "home": {
@@ -866,21 +866,21 @@
           "clean_sheets_home": 8
         },
         "away": {
-          "played": 17,
+          "played": 18,
           "win": 3,
-          "draw": 4,
+          "draw": 5,
           "lose": 10,
           "goals": {
-            "for": 12,
-            "against": 24
+            "for": 14,
+            "against": 26
           },
-          "form_visitor": "DDLLL",
-          "btts_away_matches": 8,
-          "avg_corners_away_per_game": 4.53,
-          "aproveitamento_away": 25.5,
-          "over_2_5_goals_away": 7,
-          "over_0_5_ht_away": 7,
-          "over_0_5_ft_away": 4,
+          "form_visitor": "DLLLD",
+          "btts_away_matches": 9,
+          "avg_corners_away_per_game": 4.5,
+          "aproveitamento_away": 25.9,
+          "over_2_5_goals_away": 8,
+          "over_0_5_ht_away": 8,
+          "over_0_5_ft_away": 5,
           "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1483,7 +1483,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 9,
         "jogador-assists": 6,
-        "jogador-partidas": 32,
+        "jogador-partidas": 33,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-operario-ferroviario-ec.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-gabriel-boschilia.png"
       },
@@ -1533,6 +1533,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-anselmo-ramon-alves-erculano.png"
       },
       {
+        "jogador-nome": "Thiago Fernandes Rodrigues",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 8,
+        "jogador-assists": 2,
+        "jogador-partidas": 35,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-clube-de-regatas-brasil.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-thiago-fernandes-rodrigues.png"
+      },
+      {
         "jogador-nome": "Miguel Ángel Terceros",
         "jogador-posicao": "Forward",
         "jogador-gols": 7,
@@ -1560,15 +1569,6 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-rafael-dos-santos-cavalheira-natividade.png"
       },
       {
-        "jogador-nome": "Thiago Fernandes Rodrigues",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 7,
-        "jogador-assists": 2,
-        "jogador-partidas": 34,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-clube-de-regatas-brasil.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-thiago-fernandes-rodrigues.png"
-      },
-      {
         "jogador-nome": "Walter David Clar Fritz",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 7,
@@ -1587,11 +1587,20 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-nicolas-godinho-johann.png"
       },
       {
+        "jogador-nome": "Mikael Filipe Viana de Sousa",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 7,
+        "jogador-assists": 1,
+        "jogador-partidas": 30,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-clube-de-regatas-brasil.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-mikael-filipe-viana-de-sousa.png"
+      },
+      {
         "jogador-nome": "Daniel Amorim Dias da Silva",
         "jogador-posicao": "Forward",
         "jogador-gols": 7,
         "jogador-assists": 1,
-        "jogador-partidas": 21,
+        "jogador-partidas": 22,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-operario-ferroviario-ec.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-daniel-amorim-dias-da-silva.png"
       },
@@ -1603,15 +1612,6 @@
         "jogador-partidas": 20,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ca-paranaense.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-renan-peixoto-nepomuceno.png"
-      },
-      {
-        "jogador-nome": "Arnaldo Francisco da Costa Neto",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 7,
-        "jogador-assists": 0,
-        "jogador-partidas": 31,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-athletic-club-minas-gerais.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-arnaldo-francisco-da-costa-neto.png"
       }
     ]
   }
