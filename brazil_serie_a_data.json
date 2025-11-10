@@ -892,26 +892,26 @@
           "name": "Grêmio FB Porto Alegrense",
           "logo": "https://cdn.footystats.org/img/teams/brazil-gremio-fb-porto-alegrense.png"
         },
-        "points": 39,
+        "points": 40,
         "goalsDiff": -8,
         "group": "Brazil Serie A 2025",
         "status": "same",
         "description": "",
         "all": {
-          "played": 32,
+          "played": 33,
           "win": 10,
-          "draw": 9,
+          "draw": 10,
           "lose": 13,
           "goals": {
-            "for": 33,
-            "against": 41
+            "for": 35,
+            "against": 43
           },
-          "form": "WLWLL",
-          "btts_matches": 17,
-          "avg_corners_per_game": 3.81,
-          "aproveitamento": 40.6,
-          "over_2_5_goals": 10,
-          "over_0_5_ht": 12,
+          "form": "LWLLD",
+          "btts_matches": 18,
+          "avg_corners_per_game": 3.85,
+          "aproveitamento": 40.4,
+          "over_2_5_goals": 11,
+          "over_0_5_ht": 13,
           "over_0_5_ft": 14,
           "clean_sheets": 5
         },
@@ -934,20 +934,20 @@
           "clean_sheets_home": 4
         },
         "away": {
-          "played": 16,
+          "played": 17,
           "win": 3,
-          "draw": 4,
+          "draw": 5,
           "lose": 9,
           "goals": {
-            "for": 15,
-            "against": 28
+            "for": 17,
+            "against": 30
           },
-          "form_visitor": "WDLLL",
-          "btts_away_matches": 9,
-          "avg_corners_away_per_game": 3.81,
-          "aproveitamento_away": 27.1,
-          "over_2_5_goals_away": 6,
-          "over_0_5_ht_away": 5,
+          "form_visitor": "DLLLD",
+          "btts_away_matches": 10,
+          "avg_corners_away_per_game": 3.88,
+          "aproveitamento_away": 27.5,
+          "over_2_5_goals_away": 7,
+          "over_0_5_ht_away": 6,
           "over_0_5_ft_away": 7,
           "clean_sheets_away": 1
         },
@@ -1232,45 +1232,45 @@
           "name": "Fortaleza EC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-fortaleza-ec.png"
         },
-        "points": 29,
+        "points": 30,
         "goalsDiff": -17,
         "group": "Brazil Serie A 2025",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 31,
+          "played": 32,
           "win": 7,
-          "draw": 8,
+          "draw": 9,
           "lose": 16,
           "goals": {
-            "for": 29,
-            "against": 46
+            "for": 31,
+            "against": 48
           },
-          "form": "LLWDD",
-          "btts_matches": 14,
-          "avg_corners_per_game": 5.94,
+          "form": "LWDDD",
+          "btts_matches": 15,
+          "avg_corners_per_game": 5.97,
           "aproveitamento": 31.2,
-          "over_2_5_goals": 13,
-          "over_0_5_ht": 14,
-          "over_0_5_ft": 8,
+          "over_2_5_goals": 14,
+          "over_0_5_ht": 15,
+          "over_0_5_ft": 9,
           "clean_sheets": 8
         },
         "home": {
-          "played": 16,
+          "played": 17,
           "win": 6,
-          "draw": 2,
+          "draw": 3,
           "lose": 8,
           "goals": {
-            "for": 18,
-            "against": 20
+            "for": 20,
+            "against": 22
           },
-          "form_home": "WWLLW",
+          "form_home": "WLLWD",
           "avg_corners_home_per_game": 7.0,
-          "aproveitamento_home": 41.7,
-          "btts_home_matches": 4,
-          "over_2_5_goals_home": 5,
-          "over_0_5_ht_home": 7,
-          "over_0_5_ft_home": 5,
+          "aproveitamento_home": 41.2,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 8,
+          "over_0_5_ft_home": 6,
           "clean_sheets_home": 6
         },
         "away": {
@@ -1528,6 +1528,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/-isidro-miguel-pitta-saldívar.png"
       },
       {
+        "jogador-nome": "Carlos Vinícius Alves Morais",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 7,
+        "jogador-assists": 1,
+        "jogador-partidas": 10,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-gremio-fb-porto-alegrense.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-carlos-vinicius.png"
+      },
+      {
         "jogador-nome": "Matheus Fellipe Costa Pereira",
         "jogador-posicao": "Forward",
         "jogador-gols": 6,
@@ -1535,15 +1544,6 @@
         "jogador-partidas": 31,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-cruzeiro-ec.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-matheus-fellipe-costa-pereira.png"
-      },
-      {
-        "jogador-nome": "Givanildo Vieira de Souza",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 6,
-        "jogador-assists": 5,
-        "jogador-partidas": 27,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ca-mineiro.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-hulk.png"
       }
     ]
   }
