@@ -213,40 +213,40 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-chapecoense-af.png"
         },
         "points": 58,
-        "goalsDiff": 17,
+        "goalsDiff": 16,
         "group": "Brazil Serie B 2025",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 35,
+          "played": 36,
           "win": 17,
           "draw": 7,
-          "lose": 11,
+          "lose": 12,
           "goals": {
             "for": 50,
-            "against": 33
+            "against": 34
           },
-          "form": "WDWWD",
+          "form": "DWWDL",
           "btts_matches": 17,
-          "avg_corners_per_game": 4.74,
-          "aproveitamento": 55.2,
+          "avg_corners_per_game": 4.97,
+          "aproveitamento": 53.7,
           "over_2_5_goals": 15,
           "over_0_5_ht": 14,
           "over_0_5_ft": 21,
           "clean_sheets": 11
         },
         "home": {
-          "played": 17,
+          "played": 18,
           "win": 10,
           "draw": 3,
-          "lose": 4,
+          "lose": 5,
           "goals": {
             "for": 31,
-            "against": 19
+            "against": 20
           },
-          "form_home": "LLWDW",
-          "avg_corners_home_per_game": 5.41,
-          "aproveitamento_home": 64.7,
+          "form_home": "LWDWL",
+          "avg_corners_home_per_game": 5.83,
+          "aproveitamento_home": 61.1,
           "btts_home_matches": 11,
           "over_2_5_goals_home": 10,
           "over_0_5_ht_home": 10,
@@ -820,6 +820,74 @@
       {
         "rank": 13,
         "team": {
+          "id": 633,
+          "name": "América FC - Minas Gerais",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-america-fc-minas-gerais.png"
+        },
+        "points": 45,
+        "goalsDiff": -2,
+        "group": "Brazil Serie B 2025",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 36,
+          "win": 12,
+          "draw": 9,
+          "lose": 15,
+          "goals": {
+            "for": 40,
+            "against": 42
+          },
+          "form": "LDWDW",
+          "btts_matches": 18,
+          "avg_corners_per_game": 5.5,
+          "aproveitamento": 41.7,
+          "over_2_5_goals": 16,
+          "over_0_5_ht": 14,
+          "over_0_5_ft": 17,
+          "clean_sheets": 8
+        },
+        "home": {
+          "played": 18,
+          "win": 7,
+          "draw": 7,
+          "lose": 4,
+          "goals": {
+            "for": 23,
+            "against": 18
+          },
+          "form_home": "WWDDD",
+          "avg_corners_home_per_game": 6.5,
+          "aproveitamento_home": 51.9,
+          "btts_home_matches": 11,
+          "over_2_5_goals_home": 7,
+          "over_0_5_ht_home": 9,
+          "over_0_5_ft_home": 10,
+          "clean_sheets_home": 4
+        },
+        "away": {
+          "played": 18,
+          "win": 5,
+          "draw": 2,
+          "lose": 11,
+          "goals": {
+            "for": 17,
+            "against": 24
+          },
+          "form_visitor": "LWLWW",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 4.5,
+          "aproveitamento_away": 31.5,
+          "over_2_5_goals_away": 9,
+          "over_0_5_ht_away": 5,
+          "over_0_5_ft_away": 7,
+          "clean_sheets_away": 4
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 14,
+        "team": {
           "id": 2662,
           "name": "Operário Ferroviário EC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-operario-ferroviario-ec.png"
@@ -886,75 +954,75 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 14,
+        "rank": 15,
         "team": {
-          "id": 633,
-          "name": "América FC - Minas Gerais",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-america-fc-minas-gerais.png"
+          "id": 2598,
+          "name": "Botafogo FC Ribeirão Preto",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-botafogo-fc-ribeirao-preto.png"
         },
-        "points": 42,
-        "goalsDiff": -3,
+        "points": 41,
+        "goalsDiff": -18,
         "group": "Brazil Serie B 2025",
         "status": "same",
         "description": "",
         "all": {
-          "played": 35,
-          "win": 11,
-          "draw": 9,
+          "played": 36,
+          "win": 10,
+          "draw": 11,
           "lose": 15,
           "goals": {
-            "for": 39,
-            "against": 42
+            "for": 32,
+            "against": 50
           },
-          "form": "DLDWD",
-          "btts_matches": 18,
-          "avg_corners_per_game": 5.63,
-          "aproveitamento": 40.0,
-          "over_2_5_goals": 16,
-          "over_0_5_ht": 14,
-          "over_0_5_ft": 16,
-          "clean_sheets": 7
+          "form": "DDDWW",
+          "btts_matches": 15,
+          "avg_corners_per_game": 4.67,
+          "aproveitamento": 38.0,
+          "over_2_5_goals": 13,
+          "over_0_5_ht": 7,
+          "over_0_5_ft": 20,
+          "clean_sheets": 9
         },
         "home": {
           "played": 18,
-          "win": 7,
+          "win": 6,
           "draw": 7,
-          "lose": 4,
+          "lose": 5,
           "goals": {
-            "for": 23,
-            "against": 18
+            "for": 17,
+            "against": 19
           },
-          "form_home": "WWDDD",
-          "avg_corners_home_per_game": 6.5,
-          "aproveitamento_home": 51.9,
-          "btts_home_matches": 11,
+          "form_home": "DLWDW",
+          "avg_corners_home_per_game": 5.17,
+          "aproveitamento_home": 46.3,
+          "btts_home_matches": 8,
           "over_2_5_goals_home": 7,
-          "over_0_5_ht_home": 9,
-          "over_0_5_ft_home": 10,
-          "clean_sheets_home": 4
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 11,
+          "clean_sheets_home": 7
         },
         "away": {
-          "played": 17,
+          "played": 18,
           "win": 4,
-          "draw": 2,
-          "lose": 11,
+          "draw": 4,
+          "lose": 10,
           "goals": {
-            "for": 16,
-            "against": 24
+            "for": 15,
+            "against": 31
           },
-          "form_visitor": "DLWLW",
+          "form_visitor": "LLDDW",
           "btts_away_matches": 7,
-          "avg_corners_away_per_game": 4.71,
-          "aproveitamento_away": 27.5,
-          "over_2_5_goals_away": 9,
-          "over_0_5_ht_away": 5,
-          "over_0_5_ft_away": 6,
-          "clean_sheets_away": 3
+          "avg_corners_away_per_game": 4.17,
+          "aproveitamento_away": 29.6,
+          "over_2_5_goals_away": 6,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 9,
+          "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 15,
+        "rank": 16,
         "team": {
           "id": 677199,
           "name": "Athletic Club (Minas Gerais)",
@@ -1022,7 +1090,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 16,
+        "rank": 17,
         "team": {
           "id": 2714,
           "name": "Associação Ferroviária de Esportes",
@@ -1032,7 +1100,7 @@
         "goalsDiff": -7,
         "group": "Brazil Serie B 2025",
         "status": "same",
-        "description": "",
+        "description": "Rebaixamento",
         "all": {
           "played": 36,
           "win": 8,
@@ -1090,74 +1158,6 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 17,
-        "team": {
-          "id": 2598,
-          "name": "Botafogo FC Ribeirão Preto",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-botafogo-fc-ribeirao-preto.png"
-        },
-        "points": 38,
-        "goalsDiff": -19,
-        "group": "Brazil Serie B 2025",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 35,
-          "win": 9,
-          "draw": 11,
-          "lose": 15,
-          "goals": {
-            "for": 31,
-            "against": 50
-          },
-          "form": "WDDDW",
-          "btts_matches": 15,
-          "avg_corners_per_game": 4.66,
-          "aproveitamento": 36.2,
-          "over_2_5_goals": 13,
-          "over_0_5_ht": 7,
-          "over_0_5_ft": 19,
-          "clean_sheets": 8
-        },
-        "home": {
-          "played": 17,
-          "win": 5,
-          "draw": 7,
-          "lose": 5,
-          "goals": {
-            "for": 16,
-            "against": 19
-          },
-          "form_home": "LDLWD",
-          "avg_corners_home_per_game": 5.18,
-          "aproveitamento_home": 43.1,
-          "btts_home_matches": 8,
-          "over_2_5_goals_home": 7,
-          "over_0_5_ht_home": 5,
-          "over_0_5_ft_home": 10,
-          "clean_sheets_home": 6
-        },
-        "away": {
-          "played": 18,
-          "win": 4,
-          "draw": 4,
-          "lose": 10,
-          "goals": {
-            "for": 15,
-            "against": 31
-          },
-          "form_visitor": "LLDDW",
-          "btts_away_matches": 7,
-          "avg_corners_away_per_game": 4.17,
-          "aproveitamento_away": 29.6,
-          "over_2_5_goals_away": 6,
-          "over_0_5_ht_away": 2,
-          "over_0_5_ft_away": 9,
-          "clean_sheets_away": 2
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
         "rank": 18,
         "team": {
           "id": 677389,
@@ -1165,23 +1165,23 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-amazonas-fc.png"
         },
         "points": 35,
-        "goalsDiff": -15,
+        "goalsDiff": -16,
         "group": "Brazil Serie B 2025",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 35,
+          "played": 36,
           "win": 8,
           "draw": 11,
-          "lose": 16,
+          "lose": 17,
           "goals": {
             "for": 35,
-            "against": 50
+            "against": 51
           },
-          "form": "WLDLW",
+          "form": "LDLWL",
           "btts_matches": 19,
-          "avg_corners_per_game": 4.43,
-          "aproveitamento": 33.3,
+          "avg_corners_per_game": 4.42,
+          "aproveitamento": 32.4,
           "over_2_5_goals": 15,
           "over_0_5_ht": 15,
           "over_0_5_ft": 16,
@@ -1206,18 +1206,18 @@
           "clean_sheets_home": 7
         },
         "away": {
-          "played": 17,
+          "played": 18,
           "win": 1,
           "draw": 4,
-          "lose": 12,
+          "lose": 13,
           "goals": {
             "for": 13,
-            "against": 32
+            "against": 33
           },
-          "form_visitor": "LLDLL",
+          "form_visitor": "LDLLL",
           "btts_away_matches": 10,
-          "avg_corners_away_per_game": 3.41,
-          "aproveitamento_away": 13.7,
+          "avg_corners_away_per_game": 3.44,
+          "aproveitamento_away": 13.0,
           "over_2_5_goals_away": 8,
           "over_0_5_ht_away": 7,
           "over_0_5_ft_away": 5,
@@ -1461,6 +1461,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-cleber-bomfim-de-jesus.png"
       },
       {
+        "jogador-nome": "Willian Gomes de Siqueira",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 10,
+        "jogador-assists": 3,
+        "jogador-partidas": 31,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-america-fc-minas-gerais.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-willian-gomes-de-siqueira.png"
+      },
+      {
         "jogador-nome": "Alisson Pelegrini Safira",
         "jogador-posicao": "Forward",
         "jogador-gols": 10,
@@ -1474,7 +1483,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 10,
         "jogador-assists": 1,
-        "jogador-partidas": 27,
+        "jogador-partidas": 28,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-amazonas-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/uruguay-kevin-federik-ramirez-dutra.png"
       },
@@ -1495,15 +1504,6 @@
         "jogador-partidas": 24,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-athletic-club-minas-gerais.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/portugal-ronaldo-rodrigues-tavares.png"
-      },
-      {
-        "jogador-nome": "Willian Gomes de Siqueira",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 9,
-        "jogador-assists": 3,
-        "jogador-partidas": 30,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-america-fc-minas-gerais.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-willian-gomes-de-siqueira.png"
       },
       {
         "jogador-nome": "Diego Gonçalves",
@@ -1564,7 +1564,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 7,
         "jogador-assists": 3,
-        "jogador-partidas": 35,
+        "jogador-partidas": 36,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-chapecoense-af.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-rafael-dos-santos-cavalheira-natividade.png"
       },
@@ -1573,7 +1573,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 7,
         "jogador-assists": 1,
-        "jogador-partidas": 35,
+        "jogador-partidas": 36,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-chapecoense-af.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/paraguay-walter-david-clar-fritz.png"
       },
