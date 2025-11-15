@@ -213,26 +213,26 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-clube-do-remo.png"
         },
         "points": 59,
-        "goalsDiff": 12,
+        "goalsDiff": 10,
         "group": "Brazil Serie B 2025",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 36,
+          "played": 37,
           "win": 15,
           "draw": 14,
-          "lose": 7,
+          "lose": 8,
           "goals": {
-            "for": 47,
-            "against": 35
+            "for": 48,
+            "against": 38
           },
-          "form": "WWWDD",
-          "btts_matches": 23,
-          "avg_corners_per_game": 4.11,
-          "aproveitamento": 54.6,
-          "over_2_5_goals": 12,
+          "form": "WWDDL",
+          "btts_matches": 24,
+          "avg_corners_per_game": 4.32,
+          "aproveitamento": 53.2,
+          "over_2_5_goals": 13,
           "over_0_5_ht": 20,
-          "over_0_5_ft": 18,
+          "over_0_5_ft": 19,
           "clean_sheets": 8
         },
         "home": {
@@ -254,21 +254,21 @@
           "clean_sheets_home": 5
         },
         "away": {
-          "played": 18,
+          "played": 19,
           "win": 6,
           "draw": 9,
-          "lose": 3,
+          "lose": 4,
           "goals": {
-            "for": 24,
-            "against": 20
+            "for": 25,
+            "against": 23
           },
-          "form_visitor": "LWWWD",
-          "btts_away_matches": 14,
-          "avg_corners_away_per_game": 3.89,
-          "aproveitamento_away": 50.0,
-          "over_2_5_goals_away": 7,
+          "form_visitor": "WWWDL",
+          "btts_away_matches": 15,
+          "avg_corners_away_per_game": 4.32,
+          "aproveitamento_away": 47.4,
+          "over_2_5_goals_away": 8,
           "over_0_5_ht_away": 8,
-          "over_0_5_ft_away": 12,
+          "over_0_5_ft_away": 13,
           "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -552,45 +552,45 @@
           "name": "Avai FC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-avai-fc.png"
         },
-        "points": 52,
-        "goalsDiff": 8,
+        "points": 55,
+        "goalsDiff": 10,
         "group": "Brazil Serie B 2025",
         "status": "same",
         "description": "",
         "all": {
-          "played": 36,
-          "win": 13,
+          "played": 37,
+          "win": 14,
           "draw": 13,
           "lose": 10,
           "goals": {
-            "for": 47,
-            "against": 39
+            "for": 50,
+            "against": 40
           },
-          "form": "DDWWD",
-          "btts_matches": 21,
-          "avg_corners_per_game": 4.67,
-          "aproveitamento": 48.1,
-          "over_2_5_goals": 18,
-          "over_0_5_ht": 19,
-          "over_0_5_ft": 17,
+          "form": "DWWDW",
+          "btts_matches": 22,
+          "avg_corners_per_game": 4.65,
+          "aproveitamento": 49.5,
+          "over_2_5_goals": 19,
+          "over_0_5_ht": 20,
+          "over_0_5_ft": 18,
           "clean_sheets": 11
         },
         "home": {
-          "played": 18,
-          "win": 9,
+          "played": 19,
+          "win": 10,
           "draw": 6,
           "lose": 3,
           "goals": {
-            "for": 28,
-            "against": 14
+            "for": 31,
+            "against": 15
           },
-          "form_home": "DLWDW",
-          "avg_corners_home_per_game": 5.22,
-          "aproveitamento_home": 61.1,
-          "btts_home_matches": 9,
-          "over_2_5_goals_home": 9,
-          "over_0_5_ht_home": 9,
-          "over_0_5_ft_home": 12,
+          "form_home": "LWDWW",
+          "avg_corners_home_per_game": 5.16,
+          "aproveitamento_home": 63.2,
+          "btts_home_matches": 10,
+          "over_2_5_goals_home": 10,
+          "over_0_5_ht_home": 10,
+          "over_0_5_ft_home": 13,
           "clean_sheets_home": 8
         },
         "away": {
@@ -1437,10 +1437,19 @@
         "jogador-nome": "Pedro Rocha Neves",
         "jogador-posicao": "Forward",
         "jogador-gols": 14,
-        "jogador-assists": 5,
-        "jogador-partidas": 30,
+        "jogador-assists": 6,
+        "jogador-partidas": 31,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-clube-do-remo.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-pedro-rocha-neves.png"
+      },
+      {
+        "jogador-nome": "Cleber Bomfim de Jesus",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 13,
+        "jogador-assists": 4,
+        "jogador-partidas": 36,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-avai-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-cleber-bomfim-de-jesus.png"
       },
       {
         "jogador-nome": "Carlos Henrique de Moura Brito",
@@ -1450,15 +1459,6 @@
         "jogador-partidas": 34,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-associacao-ferroviaria-de-esportes.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-carlos-henrique-de-moura-brito.png"
-      },
-      {
-        "jogador-nome": "Cleber Bomfim de Jesus",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 11,
-        "jogador-assists": 4,
-        "jogador-partidas": 35,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-avai-fc.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-cleber-bomfim-de-jesus.png"
       },
       {
         "jogador-nome": "Willian Gomes de Siqueira",
