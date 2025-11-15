@@ -4,6 +4,74 @@
       {
         "rank": 1,
         "team": {
+          "id": 612,
+          "name": "CR Flamengo",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-cr-flamengo.png"
+        },
+        "points": 71,
+        "goalsDiff": 48,
+        "group": "Brazil Serie A 2025",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 33,
+          "win": 21,
+          "draw": 8,
+          "lose": 4,
+          "goals": {
+            "for": 69,
+            "against": 21
+          },
+          "form": "LWDWW",
+          "btts_matches": 14,
+          "avg_corners_per_game": 6.42,
+          "aproveitamento": 71.7,
+          "over_2_5_goals": 16,
+          "over_0_5_ht": 17,
+          "over_0_5_ft": 22,
+          "clean_sheets": 16
+        },
+        "home": {
+          "played": 17,
+          "win": 12,
+          "draw": 5,
+          "lose": 0,
+          "goals": {
+            "for": 42,
+            "against": 8
+          },
+          "form_home": "DDWWW",
+          "avg_corners_home_per_game": 6.82,
+          "aproveitamento_home": 80.4,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 8,
+          "over_0_5_ht_home": 9,
+          "over_0_5_ft_home": 12,
+          "clean_sheets_home": 11
+        },
+        "away": {
+          "played": 16,
+          "win": 9,
+          "draw": 3,
+          "lose": 4,
+          "goals": {
+            "for": 27,
+            "against": 13
+          },
+          "form_visitor": "LWLDW",
+          "btts_away_matches": 8,
+          "avg_corners_away_per_game": 6.0,
+          "aproveitamento_away": 62.5,
+          "over_2_5_goals_away": 8,
+          "over_0_5_ht_away": 8,
+          "over_0_5_ft_away": 10,
+          "clean_sheets_away": 5
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 2,
+        "team": {
           "id": 619,
           "name": "SE Palmeiras",
           "logo": "https://cdn.footystats.org/img/teams/brazil-se-palmeiras.png"
@@ -66,74 +134,6 @@
           "over_0_5_ht_away": 8,
           "over_0_5_ft_away": 11,
           "clean_sheets_away": 4
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 2,
-        "team": {
-          "id": 612,
-          "name": "CR Flamengo",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-cr-flamengo.png"
-        },
-        "points": 68,
-        "goalsDiff": 44,
-        "group": "Brazil Serie A 2025",
-        "status": "same",
-        "description": "Copa Libertadores",
-        "all": {
-          "played": 32,
-          "win": 20,
-          "draw": 8,
-          "lose": 4,
-          "goals": {
-            "for": 64,
-            "against": 20
-          },
-          "form": "WLWDW",
-          "btts_matches": 13,
-          "avg_corners_per_game": 6.16,
-          "aproveitamento": 70.8,
-          "over_2_5_goals": 15,
-          "over_0_5_ht": 16,
-          "over_0_5_ft": 21,
-          "clean_sheets": 16
-        },
-        "home": {
-          "played": 17,
-          "win": 12,
-          "draw": 5,
-          "lose": 0,
-          "goals": {
-            "for": 42,
-            "against": 8
-          },
-          "form_home": "DDWWW",
-          "avg_corners_home_per_game": 6.82,
-          "aproveitamento_home": 80.4,
-          "btts_home_matches": 6,
-          "over_2_5_goals_home": 8,
-          "over_0_5_ht_home": 9,
-          "over_0_5_ft_home": 12,
-          "clean_sheets_home": 11
-        },
-        "away": {
-          "played": 15,
-          "win": 8,
-          "draw": 3,
-          "lose": 4,
-          "goals": {
-            "for": 22,
-            "against": 12
-          },
-          "form_visitor": "WLWLD",
-          "btts_away_matches": 7,
-          "avg_corners_away_per_game": 5.4,
-          "aproveitamento_away": 60.0,
-          "over_2_5_goals_away": 7,
-          "over_0_5_ht_away": 7,
-          "over_0_5_ft_away": 9,
-          "clean_sheets_away": 5
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1301,43 +1301,43 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-sc-do-recife.png"
         },
         "points": 17,
-        "goalsDiff": -31,
+        "goalsDiff": -35,
         "group": "Brazil Serie A 2025",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 32,
+          "played": 33,
           "win": 2,
           "draw": 11,
-          "lose": 19,
+          "lose": 20,
           "goals": {
-            "for": 24,
-            "against": 55
+            "for": 25,
+            "against": 60
           },
           "form": "LLLLL",
-          "btts_matches": 16,
-          "avg_corners_per_game": 5.94,
-          "aproveitamento": 17.7,
-          "over_2_5_goals": 15,
-          "over_0_5_ht": 10,
+          "btts_matches": 17,
+          "avg_corners_per_game": 5.88,
+          "aproveitamento": 17.2,
+          "over_2_5_goals": 16,
+          "over_0_5_ht": 11,
           "over_0_5_ft": 12,
           "clean_sheets": 5
         },
         "home": {
-          "played": 16,
+          "played": 17,
           "win": 1,
           "draw": 7,
-          "lose": 8,
+          "lose": 9,
           "goals": {
-            "for": 15,
-            "against": 27
+            "for": 16,
+            "against": 32
           },
-          "form_home": "DDLLL",
-          "avg_corners_home_per_game": 5.75,
-          "aproveitamento_home": 20.8,
-          "btts_home_matches": 9,
-          "over_2_5_goals_home": 8,
-          "over_0_5_ht_home": 7,
+          "form_home": "DLLLL",
+          "avg_corners_home_per_game": 5.65,
+          "aproveitamento_home": 19.6,
+          "btts_home_matches": 10,
+          "over_2_5_goals_home": 9,
+          "over_0_5_ht_home": 8,
           "over_0_5_ft_home": 7,
           "clean_sheets_home": 3
         },
@@ -1519,6 +1519,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-hulk.png"
       },
       {
+        "jogador-nome": "Luiz de Araujo Guimarães Neto",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 7,
+        "jogador-assists": 3,
+        "jogador-partidas": 31,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-cr-flamengo.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-luiz-araujo.png"
+      },
+      {
         "jogador-nome": "Antonio Javier Galeano Ferreira",
         "jogador-posicao": "Forward",
         "jogador-gols": 7,
@@ -1535,15 +1544,6 @@
         "jogador-partidas": 19,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-clube-atletico-bragantino.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-isidro-miguel-pitta-saldívar.png"
-      },
-      {
-        "jogador-nome": "Carlos Vinícius Alves Morais",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 7,
-        "jogador-assists": 1,
-        "jogador-partidas": 10,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-gremio-fb-porto-alegrense.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-carlos-vinicius.png"
       }
     ]
   }
