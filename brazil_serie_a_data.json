@@ -77,23 +77,23 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-se-palmeiras.png"
         },
         "points": 68,
-        "goalsDiff": 30,
+        "goalsDiff": 29,
         "group": "Brazil Serie A 2025",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 32,
+          "played": 33,
           "win": 21,
           "draw": 5,
-          "lose": 6,
+          "lose": 7,
           "goals": {
             "for": 58,
-            "against": 28
+            "against": 29
           },
-          "form": "LDWWL",
+          "form": "DWWLL",
           "btts_matches": 17,
-          "avg_corners_per_game": 6.0,
-          "aproveitamento": 70.8,
+          "avg_corners_per_game": 5.97,
+          "aproveitamento": 68.7,
           "over_2_5_goals": 17,
           "over_0_5_ht": 17,
           "over_0_5_ft": 20,
@@ -118,18 +118,18 @@
           "clean_sheets_home": 8
         },
         "away": {
-          "played": 15,
+          "played": 16,
           "win": 9,
           "draw": 2,
-          "lose": 4,
+          "lose": 5,
           "goals": {
             "for": 23,
-            "against": 17
+            "against": 18
           },
-          "form_visitor": "LWLWL",
+          "form_visitor": "WLWLL",
           "btts_away_matches": 10,
-          "avg_corners_away_per_game": 6.2,
-          "aproveitamento_away": 64.4,
+          "avg_corners_away_per_game": 6.12,
+          "aproveitamento_away": 60.4,
           "over_2_5_goals_away": 9,
           "over_0_5_ht_away": 8,
           "over_0_5_ft_away": 11,
@@ -1024,6 +1024,74 @@
       {
         "rank": 16,
         "team": {
+          "id": 611,
+          "name": "Santos FC Sao Paulo",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-santos-fc-sao-paulo.png"
+        },
+        "points": 36,
+        "goalsDiff": -14,
+        "group": "Brazil Serie A 2025",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 33,
+          "win": 9,
+          "draw": 9,
+          "lose": 15,
+          "goals": {
+            "for": 34,
+            "against": 48
+          },
+          "form": "DDLLW",
+          "btts_matches": 16,
+          "avg_corners_per_game": 4.73,
+          "aproveitamento": 36.4,
+          "over_2_5_goals": 16,
+          "over_0_5_ht": 8,
+          "over_0_5_ft": 17,
+          "clean_sheets": 7
+        },
+        "home": {
+          "played": 16,
+          "win": 6,
+          "draw": 5,
+          "lose": 5,
+          "goals": {
+            "for": 17,
+            "against": 18
+          },
+          "form_home": "DWLDW",
+          "avg_corners_home_per_game": 5.75,
+          "aproveitamento_home": 47.9,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 10,
+          "clean_sheets_home": 6
+        },
+        "away": {
+          "played": 17,
+          "win": 3,
+          "draw": 4,
+          "lose": 10,
+          "goals": {
+            "for": 17,
+            "against": 30
+          },
+          "form_visitor": "DLDLL",
+          "btts_away_matches": 9,
+          "avg_corners_away_per_game": 3.76,
+          "aproveitamento_away": 25.5,
+          "over_2_5_goals_away": 10,
+          "over_0_5_ht_away": 5,
+          "over_0_5_ft_away": 7,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 17,
+        "team": {
           "id": 610,
           "name": "EC Vitória",
           "logo": "https://cdn.footystats.org/img/teams/brazil-ec-vitoria.png"
@@ -1032,7 +1100,7 @@
         "goalsDiff": -18,
         "group": "Brazil Serie A 2025",
         "status": "same",
-        "description": "",
+        "description": "Rebaixamento",
         "all": {
           "played": 33,
           "win": 8,
@@ -1086,74 +1154,6 @@
           "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 5,
           "clean_sheets_away": 3
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 17,
-        "team": {
-          "id": 611,
-          "name": "Santos FC Sao Paulo",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-santos-fc-sao-paulo.png"
-        },
-        "points": 33,
-        "goalsDiff": -15,
-        "group": "Brazil Serie A 2025",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 32,
-          "win": 8,
-          "draw": 9,
-          "lose": 15,
-          "goals": {
-            "for": 33,
-            "against": 48
-          },
-          "form": "LDDLL",
-          "btts_matches": 16,
-          "avg_corners_per_game": 4.62,
-          "aproveitamento": 34.4,
-          "over_2_5_goals": 16,
-          "over_0_5_ht": 8,
-          "over_0_5_ft": 16,
-          "clean_sheets": 6
-        },
-        "home": {
-          "played": 15,
-          "win": 5,
-          "draw": 5,
-          "lose": 5,
-          "goals": {
-            "for": 16,
-            "against": 18
-          },
-          "form_home": "WDWLD",
-          "avg_corners_home_per_game": 5.6,
-          "aproveitamento_home": 44.4,
-          "btts_home_matches": 7,
-          "over_2_5_goals_home": 6,
-          "over_0_5_ht_home": 3,
-          "over_0_5_ft_home": 9,
-          "clean_sheets_home": 5
-        },
-        "away": {
-          "played": 17,
-          "win": 3,
-          "draw": 4,
-          "lose": 10,
-          "goals": {
-            "for": 17,
-            "against": 30
-          },
-          "form_visitor": "DLDLL",
-          "btts_away_matches": 9,
-          "avg_corners_away_per_game": 3.76,
-          "aproveitamento_away": 25.5,
-          "over_2_5_goals_away": 10,
-          "over_0_5_ht_away": 5,
-          "over_0_5_ft_away": 7,
-          "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1442,7 +1442,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 10,
         "jogador-assists": 2,
-        "jogador-partidas": 28,
+        "jogador-partidas": 29,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-se-palmeiras.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/argentina-jose-manuel-lopez.png"
       },
@@ -1496,7 +1496,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 8,
         "jogador-assists": 1,
-        "jogador-partidas": 28,
+        "jogador-partidas": 29,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-santos-fc-sao-paulo.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/argentina-alvaro-barreal.png"
       },
