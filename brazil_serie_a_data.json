@@ -276,6 +276,74 @@
       {
         "rank": 5,
         "team": {
+          "id": 615,
+          "name": "Botafogo FR",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-botafogo-fr.png"
+        },
+        "points": 55,
+        "goalsDiff": 17,
+        "group": "Brazil Serie A 2025",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 34,
+          "win": 15,
+          "draw": 10,
+          "lose": 9,
+          "goals": {
+            "for": 47,
+            "against": 30
+          },
+          "form": "DDWDW",
+          "btts_matches": 10,
+          "avg_corners_per_game": 4.82,
+          "aproveitamento": 53.9,
+          "over_2_5_goals": 12,
+          "over_0_5_ht": 15,
+          "over_0_5_ft": 17,
+          "clean_sheets": 15
+        },
+        "home": {
+          "played": 17,
+          "win": 9,
+          "draw": 5,
+          "lose": 3,
+          "goals": {
+            "for": 32,
+            "against": 20
+          },
+          "form_home": "WLDWW",
+          "avg_corners_home_per_game": 5.71,
+          "aproveitamento_home": 62.7,
+          "btts_home_matches": 8,
+          "over_2_5_goals_home": 10,
+          "over_0_5_ht_home": 12,
+          "over_0_5_ft_home": 10,
+          "clean_sheets_home": 6
+        },
+        "away": {
+          "played": 17,
+          "win": 6,
+          "draw": 5,
+          "lose": 6,
+          "goals": {
+            "for": 15,
+            "against": 10
+          },
+          "form_visitor": "LLWDD",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 3.94,
+          "aproveitamento_away": 45.1,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 7,
+          "clean_sheets_away": 9
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 6,
+        "team": {
           "id": 626,
           "name": "EC Bahia",
           "logo": "https://cdn.footystats.org/img/teams/brazil-ec-bahia.png"
@@ -338,74 +406,6 @@
           "over_0_5_ht_away": 5,
           "over_0_5_ft_away": 8,
           "clean_sheets_away": 3
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 6,
-        "team": {
-          "id": 615,
-          "name": "Botafogo FR",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-botafogo-fr.png"
-        },
-        "points": 52,
-        "goalsDiff": 16,
-        "group": "Brazil Serie A 2025",
-        "status": "same",
-        "description": "Copa Sul-Americana",
-        "all": {
-          "played": 33,
-          "win": 14,
-          "draw": 10,
-          "lose": 9,
-          "goals": {
-            "for": 44,
-            "against": 28
-          },
-          "form": "WDDWD",
-          "btts_matches": 9,
-          "avg_corners_per_game": 4.76,
-          "aproveitamento": 52.5,
-          "over_2_5_goals": 11,
-          "over_0_5_ht": 14,
-          "over_0_5_ft": 16,
-          "clean_sheets": 15
-        },
-        "home": {
-          "played": 16,
-          "win": 8,
-          "draw": 5,
-          "lose": 3,
-          "goals": {
-            "for": 29,
-            "against": 18
-          },
-          "form_home": "WWLDW",
-          "avg_corners_home_per_game": 5.62,
-          "aproveitamento_home": 60.4,
-          "btts_home_matches": 7,
-          "over_2_5_goals_home": 9,
-          "over_0_5_ht_home": 11,
-          "over_0_5_ft_home": 9,
-          "clean_sheets_home": 6
-        },
-        "away": {
-          "played": 17,
-          "win": 6,
-          "draw": 5,
-          "lose": 6,
-          "goals": {
-            "for": 15,
-            "against": 10
-          },
-          "form_visitor": "LLWDD",
-          "btts_away_matches": 2,
-          "avg_corners_away_per_game": 3.94,
-          "aproveitamento_away": 45.1,
-          "over_2_5_goals_away": 2,
-          "over_0_5_ht_away": 3,
-          "over_0_5_ft_away": 7,
-          "clean_sheets_away": 9
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1301,25 +1301,25 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-sc-do-recife.png"
         },
         "points": 17,
-        "goalsDiff": -35,
+        "goalsDiff": -36,
         "group": "Brazil Serie A 2025",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 33,
+          "played": 34,
           "win": 2,
           "draw": 11,
-          "lose": 20,
+          "lose": 21,
           "goals": {
-            "for": 25,
-            "against": 60
+            "for": 27,
+            "against": 63
           },
           "form": "LLLLL",
-          "btts_matches": 17,
-          "avg_corners_per_game": 5.88,
-          "aproveitamento": 17.2,
-          "over_2_5_goals": 16,
-          "over_0_5_ht": 11,
+          "btts_matches": 18,
+          "avg_corners_per_game": 5.85,
+          "aproveitamento": 16.7,
+          "over_2_5_goals": 17,
+          "over_0_5_ht": 12,
           "over_0_5_ft": 12,
           "clean_sheets": 5
         },
@@ -1342,20 +1342,20 @@
           "clean_sheets_home": 3
         },
         "away": {
-          "played": 16,
+          "played": 17,
           "win": 1,
           "draw": 4,
-          "lose": 11,
+          "lose": 12,
           "goals": {
-            "for": 9,
-            "against": 28
+            "for": 11,
+            "against": 31
           },
-          "form_visitor": "LDLLL",
-          "btts_away_matches": 7,
-          "avg_corners_away_per_game": 6.12,
-          "aproveitamento_away": 14.6,
-          "over_2_5_goals_away": 7,
-          "over_0_5_ht_away": 3,
+          "form_visitor": "DLLLL",
+          "btts_away_matches": 8,
+          "avg_corners_away_per_game": 6.06,
+          "aproveitamento_away": 13.7,
+          "over_2_5_goals_away": 8,
+          "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 5,
           "clean_sheets_away": 2
         },
