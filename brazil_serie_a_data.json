@@ -144,27 +144,27 @@
           "name": "Cruzeiro EC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-cruzeiro-ec.png"
         },
-        "points": 64,
+        "points": 65,
         "goalsDiff": 24,
         "group": "Brazil Serie A 2025",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 33,
+          "played": 34,
           "win": 18,
-          "draw": 10,
+          "draw": 11,
           "lose": 5,
           "goals": {
-            "for": 46,
-            "against": 22
+            "for": 49,
+            "against": 25
           },
-          "form": "WDWWD",
-          "btts_matches": 14,
-          "avg_corners_per_game": 5.79,
-          "aproveitamento": 64.6,
-          "over_2_5_goals": 14,
-          "over_0_5_ht": 18,
-          "over_0_5_ft": 13,
+          "form": "DWWDD",
+          "btts_matches": 15,
+          "avg_corners_per_game": 5.88,
+          "aproveitamento": 63.7,
+          "over_2_5_goals": 15,
+          "over_0_5_ht": 19,
+          "over_0_5_ft": 14,
           "clean_sheets": 16
         },
         "home": {
@@ -186,21 +186,21 @@
           "clean_sheets_home": 7
         },
         "away": {
-          "played": 16,
+          "played": 17,
           "win": 6,
-          "draw": 7,
+          "draw": 8,
           "lose": 3,
           "goals": {
-            "for": 16,
-            "against": 10
+            "for": 19,
+            "against": 13
           },
-          "form_visitor": "LDDDW",
-          "btts_away_matches": 4,
-          "avg_corners_away_per_game": 4.69,
-          "aproveitamento_away": 52.1,
-          "over_2_5_goals_away": 3,
-          "over_0_5_ht_away": 6,
-          "over_0_5_ft_away": 4,
+          "form_visitor": "DDDWD",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 4.94,
+          "aproveitamento_away": 51.0,
+          "over_2_5_goals_away": 4,
+          "over_0_5_ht_away": 7,
+          "over_0_5_ft_away": 5,
           "clean_sheets_away": 9
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1164,45 +1164,45 @@
           "name": "EC Juventude",
           "logo": "https://cdn.footystats.org/img/teams/brazil-ec-juventude.png"
         },
-        "points": 32,
+        "points": 33,
         "goalsDiff": -30,
         "group": "Brazil Serie A 2025",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 33,
+          "played": 34,
           "win": 9,
-          "draw": 5,
+          "draw": 6,
           "lose": 19,
           "goals": {
-            "for": 29,
-            "against": 59
+            "for": 32,
+            "against": 62
           },
-          "form": "WLLWW",
-          "btts_matches": 13,
-          "avg_corners_per_game": 3.79,
-          "aproveitamento": 32.3,
-          "over_2_5_goals": 15,
-          "over_0_5_ht": 13,
-          "over_0_5_ft": 12,
+          "form": "LLWWD",
+          "btts_matches": 14,
+          "avg_corners_per_game": 3.76,
+          "aproveitamento": 32.4,
+          "over_2_5_goals": 16,
+          "over_0_5_ht": 14,
+          "over_0_5_ft": 13,
           "clean_sheets": 7
         },
         "home": {
-          "played": 16,
+          "played": 17,
           "win": 6,
-          "draw": 3,
+          "draw": 4,
           "lose": 7,
           "goals": {
-            "for": 17,
-            "against": 19
+            "for": 20,
+            "against": 22
           },
-          "form_home": "LDLWL",
-          "avg_corners_home_per_game": 4.25,
-          "aproveitamento_home": 43.8,
-          "btts_home_matches": 7,
-          "over_2_5_goals_home": 5,
-          "over_0_5_ht_home": 9,
-          "over_0_5_ft_home": 6,
+          "form_home": "DLWLD",
+          "avg_corners_home_per_game": 4.18,
+          "aproveitamento_home": 43.1,
+          "btts_home_matches": 8,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 10,
+          "over_0_5_ft_home": 7,
           "clean_sheets_home": 4
         },
         "away": {
@@ -1366,6 +1366,15 @@
   "artilharia": {
     "brazil_serie_a": [
       {
+        "jogador-nome": "Kaio Jorge Pinto Ramos",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 19,
+        "jogador-assists": 7,
+        "jogador-partidas": 31,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-cruzeiro-ec.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-kaio-jorge.png"
+      },
+      {
         "jogador-nome": "Giorgian Daniel De Arrascaeta Benedetti",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 17,
@@ -1373,15 +1382,6 @@
         "jogador-partidas": 30,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-cr-flamengo.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/uruguay-giorgian-daniel-de-arrascaeta-benedetti.png"
-      },
-      {
-        "jogador-nome": "Kaio Jorge Pinto Ramos",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 17,
-        "jogador-assists": 7,
-        "jogador-partidas": 30,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-cruzeiro-ec.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-kaio-jorge.png"
       },
       {
         "jogador-nome": "Vitor Hugo Roque Ferreira",
@@ -1528,6 +1528,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-hulk.png"
       },
       {
+        "jogador-nome": "Gabriel Pereira Taliari",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 7,
+        "jogador-assists": 4,
+        "jogador-partidas": 30,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ec-juventude.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-gabriel-pereira-taliari.png"
+      },
+      {
         "jogador-nome": "Luiz de Araujo Guimarães Neto",
         "jogador-posicao": "Forward",
         "jogador-gols": 7,
@@ -1535,15 +1544,6 @@
         "jogador-partidas": 32,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-cr-flamengo.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-luiz-araujo.png"
-      },
-      {
-        "jogador-nome": "Antonio Javier Galeano Ferreira",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 7,
-        "jogador-assists": 3,
-        "jogador-partidas": 33,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ceara-sc.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/paraguay-antonio-galeano.png"
       }
     ]
   }
