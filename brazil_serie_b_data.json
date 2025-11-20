@@ -752,6 +752,74 @@
       {
         "rank": 12,
         "team": {
+          "id": 645,
+          "name": "Vila Nova FC",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-vila-nova-fc.png"
+        },
+        "points": 47,
+        "goalsDiff": -4,
+        "group": "Brazil Serie B 2025",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 38,
+          "win": 11,
+          "draw": 14,
+          "lose": 13,
+          "goals": {
+            "for": 40,
+            "against": 44
+          },
+          "form": "DDDLD",
+          "btts_matches": 18,
+          "avg_corners_per_game": 4.32,
+          "aproveitamento": 41.2,
+          "over_2_5_goals": 13,
+          "over_0_5_ht": 18,
+          "over_0_5_ft": 17,
+          "clean_sheets": 10
+        },
+        "home": {
+          "played": 19,
+          "win": 8,
+          "draw": 8,
+          "lose": 3,
+          "goals": {
+            "for": 24,
+            "against": 18
+          },
+          "form_home": "DWDDD",
+          "avg_corners_home_per_game": 5.37,
+          "aproveitamento_home": 56.1,
+          "btts_home_matches": 9,
+          "over_2_5_goals_home": 7,
+          "over_0_5_ht_home": 11,
+          "over_0_5_ft_home": 9,
+          "clean_sheets_home": 8
+        },
+        "away": {
+          "played": 19,
+          "win": 3,
+          "draw": 6,
+          "lose": 10,
+          "goals": {
+            "for": 16,
+            "against": 26
+          },
+          "form_visitor": "DDLDL",
+          "btts_away_matches": 9,
+          "avg_corners_away_per_game": 3.26,
+          "aproveitamento_away": 26.3,
+          "over_2_5_goals_away": 6,
+          "over_0_5_ht_away": 7,
+          "over_0_5_ft_away": 8,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 13,
+        "team": {
           "id": 633,
           "name": "América FC - Minas Gerais",
           "logo": "https://cdn.footystats.org/img/teams/brazil-america-fc-minas-gerais.png"
@@ -814,74 +882,6 @@
           "over_0_5_ht_away": 5,
           "over_0_5_ft_away": 7,
           "clean_sheets_away": 4
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 13,
-        "team": {
-          "id": 645,
-          "name": "Vila Nova FC",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-vila-nova-fc.png"
-        },
-        "points": 46,
-        "goalsDiff": -4,
-        "group": "Brazil Serie B 2025",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 37,
-          "win": 11,
-          "draw": 13,
-          "lose": 13,
-          "goals": {
-            "for": 38,
-            "against": 42
-          },
-          "form": "LDDDL",
-          "btts_matches": 17,
-          "avg_corners_per_game": 4.05,
-          "aproveitamento": 41.4,
-          "over_2_5_goals": 12,
-          "over_0_5_ht": 17,
-          "over_0_5_ft": 16,
-          "clean_sheets": 10
-        },
-        "home": {
-          "played": 18,
-          "win": 8,
-          "draw": 7,
-          "lose": 3,
-          "goals": {
-            "for": 22,
-            "against": 16
-          },
-          "form_home": "DDWDD",
-          "avg_corners_home_per_game": 4.89,
-          "aproveitamento_home": 57.4,
-          "btts_home_matches": 8,
-          "over_2_5_goals_home": 6,
-          "over_0_5_ht_home": 10,
-          "over_0_5_ft_home": 8,
-          "clean_sheets_home": 8
-        },
-        "away": {
-          "played": 19,
-          "win": 3,
-          "draw": 6,
-          "lose": 10,
-          "goals": {
-            "for": 16,
-            "against": 26
-          },
-          "form_visitor": "DDLDL",
-          "btts_away_matches": 9,
-          "avg_corners_away_per_game": 3.26,
-          "aproveitamento_away": 26.3,
-          "over_2_5_goals_away": 6,
-          "over_0_5_ht_away": 7,
-          "over_0_5_ft_away": 8,
-          "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1232,27 +1232,27 @@
           "name": "Volta Redonda FC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-volta-redonda-fc.png"
         },
-        "points": 35,
+        "points": 36,
         "goalsDiff": -17,
         "group": "Brazil Serie B 2025",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 37,
+          "played": 38,
           "win": 8,
-          "draw": 11,
+          "draw": 12,
           "lose": 18,
           "goals": {
-            "for": 24,
-            "against": 41
+            "for": 26,
+            "against": 43
           },
-          "form": "LLLLD",
-          "btts_matches": 12,
-          "avg_corners_per_game": 5.46,
-          "aproveitamento": 31.5,
-          "over_2_5_goals": 10,
-          "over_0_5_ht": 4,
-          "over_0_5_ft": 15,
+          "form": "LLLDD",
+          "btts_matches": 13,
+          "avg_corners_per_game": 5.39,
+          "aproveitamento": 31.6,
+          "over_2_5_goals": 11,
+          "over_0_5_ht": 5,
+          "over_0_5_ft": 16,
           "clean_sheets": 11
         },
         "home": {
@@ -1274,21 +1274,21 @@
           "clean_sheets_home": 8
         },
         "away": {
-          "played": 18,
+          "played": 19,
           "win": 1,
-          "draw": 4,
+          "draw": 5,
           "lose": 13,
           "goals": {
-            "for": 8,
-            "against": 28
+            "for": 10,
+            "against": 30
           },
-          "form_visitor": "LLLLL",
-          "btts_away_matches": 6,
-          "avg_corners_away_per_game": 5.11,
-          "aproveitamento_away": 13.0,
-          "over_2_5_goals_away": 6,
-          "over_0_5_ht_away": 2,
-          "over_0_5_ft_away": 5,
+          "form_visitor": "LLLLD",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 5.0,
+          "aproveitamento_away": 14.0,
+          "over_2_5_goals_away": 7,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 6,
           "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
