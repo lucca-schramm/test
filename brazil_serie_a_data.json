@@ -417,44 +417,44 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-ec-bahia.png"
         },
         "points": 53,
-        "goalsDiff": 4,
+        "goalsDiff": 3,
         "group": "Brazil Serie A 2025",
         "status": "same",
         "description": "",
         "all": {
-          "played": 33,
+          "played": 34,
           "win": 15,
           "draw": 8,
-          "lose": 10,
+          "lose": 11,
           "goals": {
-            "for": 44,
-            "against": 40
+            "for": 46,
+            "against": 43
           },
-          "form": "WLWLD",
-          "btts_matches": 17,
-          "avg_corners_per_game": 4.36,
-          "aproveitamento": 53.5,
-          "over_2_5_goals": 18,
+          "form": "LWLDL",
+          "btts_matches": 18,
+          "avg_corners_per_game": 4.53,
+          "aproveitamento": 52.0,
+          "over_2_5_goals": 19,
           "over_0_5_ht": 15,
-          "over_0_5_ft": 19,
+          "over_0_5_ft": 20,
           "clean_sheets": 11
         },
         "home": {
-          "played": 16,
+          "played": 17,
           "win": 12,
           "draw": 3,
-          "lose": 1,
+          "lose": 2,
           "goals": {
-            "for": 28,
-            "against": 11
+            "for": 30,
+            "against": 14
           },
-          "form_home": "WWWWW",
-          "avg_corners_home_per_game": 4.56,
-          "aproveitamento_home": 81.2,
-          "btts_home_matches": 8,
-          "over_2_5_goals_home": 8,
+          "form_home": "WWWWL",
+          "avg_corners_home_per_game": 4.88,
+          "aproveitamento_home": 76.5,
+          "btts_home_matches": 9,
+          "over_2_5_goals_home": 9,
           "over_0_5_ht_home": 10,
-          "over_0_5_ft_home": 11,
+          "over_0_5_ft_home": 12,
           "clean_sheets_home": 8
         },
         "away": {
@@ -1160,6 +1160,74 @@
       {
         "rank": 18,
         "team": {
+          "id": 2601,
+          "name": "Fortaleza EC",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-fortaleza-ec.png"
+        },
+        "points": 34,
+        "goalsDiff": -16,
+        "group": "Brazil Serie A 2025",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 34,
+          "win": 8,
+          "draw": 10,
+          "lose": 16,
+          "goals": {
+            "for": 37,
+            "against": 53
+          },
+          "form": "DDDDW",
+          "btts_matches": 17,
+          "avg_corners_per_game": 5.85,
+          "aproveitamento": 33.3,
+          "over_2_5_goals": 16,
+          "over_0_5_ht": 16,
+          "over_0_5_ft": 11,
+          "clean_sheets": 8
+        },
+        "home": {
+          "played": 17,
+          "win": 6,
+          "draw": 3,
+          "lose": 8,
+          "goals": {
+            "for": 20,
+            "against": 22
+          },
+          "form_home": "WLLWD",
+          "avg_corners_home_per_game": 7.0,
+          "aproveitamento_home": 41.2,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 8,
+          "over_0_5_ft_home": 6,
+          "clean_sheets_home": 6
+        },
+        "away": {
+          "played": 17,
+          "win": 2,
+          "draw": 7,
+          "lose": 8,
+          "goals": {
+            "for": 17,
+            "against": 31
+          },
+          "form_visitor": "LDDDW",
+          "btts_away_matches": 12,
+          "avg_corners_away_per_game": 4.71,
+          "aproveitamento_away": 25.5,
+          "over_2_5_goals_away": 10,
+          "over_0_5_ht_away": 8,
+          "over_0_5_ft_away": 5,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 19,
+        "team": {
           "id": 1053,
           "name": "EC Juventude",
           "logo": "https://cdn.footystats.org/img/teams/brazil-ec-juventude.png"
@@ -1222,74 +1290,6 @@
           "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 6,
           "clean_sheets_away": 3
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 19,
-        "team": {
-          "id": 2601,
-          "name": "Fortaleza EC",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-fortaleza-ec.png"
-        },
-        "points": 31,
-        "goalsDiff": -17,
-        "group": "Brazil Serie A 2025",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 33,
-          "win": 7,
-          "draw": 10,
-          "lose": 16,
-          "goals": {
-            "for": 34,
-            "against": 51
-          },
-          "form": "WDDDD",
-          "btts_matches": 16,
-          "avg_corners_per_game": 5.97,
-          "aproveitamento": 31.3,
-          "over_2_5_goals": 15,
-          "over_0_5_ht": 15,
-          "over_0_5_ft": 10,
-          "clean_sheets": 8
-        },
-        "home": {
-          "played": 17,
-          "win": 6,
-          "draw": 3,
-          "lose": 8,
-          "goals": {
-            "for": 20,
-            "against": 22
-          },
-          "form_home": "WLLWD",
-          "avg_corners_home_per_game": 7.0,
-          "aproveitamento_home": 41.2,
-          "btts_home_matches": 5,
-          "over_2_5_goals_home": 6,
-          "over_0_5_ht_home": 8,
-          "over_0_5_ft_home": 6,
-          "clean_sheets_home": 6
-        },
-        "away": {
-          "played": 16,
-          "win": 1,
-          "draw": 7,
-          "lose": 8,
-          "goals": {
-            "for": 14,
-            "against": 29
-          },
-          "form_visitor": "WLDDD",
-          "btts_away_matches": 11,
-          "avg_corners_away_per_game": 4.88,
-          "aproveitamento_away": 20.8,
-          "over_2_5_goals_away": 9,
-          "over_0_5_ht_away": 7,
-          "over_0_5_ft_away": 4,
-          "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1431,9 +1431,9 @@
       {
         "jogador-nome": "Willian José da Silva",
         "jogador-posicao": "Forward",
-        "jogador-gols": 10,
+        "jogador-gols": 11,
         "jogador-assists": 5,
-        "jogador-partidas": 28,
+        "jogador-partidas": 29,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ec-bahia.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-willian-jose.png"
       },
