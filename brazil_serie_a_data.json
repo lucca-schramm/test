@@ -566,13 +566,13 @@
             "for": 37,
             "against": 36
           },
-          "form": "LWWDL",
-          "btts_matches": 13,
+          "form": "WWDLL",
+          "btts_matches": 14,
           "avg_corners_per_game": 4.97,
           "aproveitamento": 45.5,
-          "over_2_5_goals": 12,
+          "over_2_5_goals": 13,
           "over_0_5_ht": 15,
-          "over_0_5_ft": 14,
+          "over_0_5_ft": 15,
           "clean_sheets": 11
         },
         "home": {
@@ -594,21 +594,21 @@
           "clean_sheets_home": 7
         },
         "away": {
-          "played": 16,
+          "played": 17,
           "win": 4,
           "draw": 5,
-          "lose": 7,
+          "lose": 8,
           "goals": {
-            "for": 15,
-            "against": 20
+            "for": 16,
+            "against": 23
           },
-          "form_visitor": "LWLLW",
-          "btts_away_matches": 6,
-          "avg_corners_away_per_game": 4.69,
-          "aproveitamento_away": 35.4,
-          "over_2_5_goals_away": 6,
+          "form_visitor": "WLLWL",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 4.71,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 7,
           "over_0_5_ht_away": 6,
-          "over_0_5_ft_away": 7,
+          "over_0_5_ft_away": 8,
           "clean_sheets_away": 4
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -906,31 +906,31 @@
             "for": 35,
             "against": 38
           },
-          "form": "WWWLL",
-          "btts_matches": 16,
-          "avg_corners_per_game": 4.61,
+          "form": "WWLLW",
+          "btts_matches": 17,
+          "avg_corners_per_game": 4.59,
           "aproveitamento": 42.4,
-          "over_2_5_goals": 13,
-          "over_0_5_ht": 10,
-          "over_0_5_ft": 19,
+          "over_2_5_goals": 14,
+          "over_0_5_ht": 11,
+          "over_0_5_ft": 20,
           "clean_sheets": 11
         },
         "home": {
-          "played": 16,
-          "win": 7,
+          "played": 17,
+          "win": 8,
           "draw": 4,
           "lose": 5,
           "goals": {
-            "for": 21,
-            "against": 14
+            "for": 24,
+            "against": 15
           },
-          "form_home": "LWWWL",
-          "avg_corners_home_per_game": 5.38,
-          "aproveitamento_home": 52.1,
-          "btts_home_matches": 7,
-          "over_2_5_goals_home": 7,
-          "over_0_5_ht_home": 6,
-          "over_0_5_ft_home": 10,
+          "form_home": "WWWLW",
+          "avg_corners_home_per_game": 5.29,
+          "aproveitamento_home": 54.9,
+          "btts_home_matches": 8,
+          "over_2_5_goals_home": 8,
+          "over_0_5_ht_home": 7,
+          "over_0_5_ft_home": 11,
           "clean_sheets_home": 7
         },
         "away": {
@@ -1438,6 +1438,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-willian-jose.png"
       },
       {
+        "jogador-nome": "Yuri Alberto Monteiro da Silva",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 10,
+        "jogador-assists": 2,
+        "jogador-partidas": 24,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-sc-corinthians-paulista.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-yuri-alberto-monteiro-da-silva.png"
+      },
+      {
         "jogador-nome": "José Manuel López",
         "jogador-posicao": "Forward",
         "jogador-gols": 10,
@@ -1478,18 +1487,9 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 8,
         "jogador-assists": 4,
-        "jogador-partidas": 28,
+        "jogador-partidas": 29,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-sao-paulo-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-luciano-da-rocha-neves.png"
-      },
-      {
-        "jogador-nome": "Yuri Alberto Monteiro da Silva",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 8,
-        "jogador-assists": 2,
-        "jogador-partidas": 23,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-sc-corinthians-paulista.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-yuri-alberto-monteiro-da-silva.png"
       },
       {
         "jogador-nome": "Álvaro Barreal",
