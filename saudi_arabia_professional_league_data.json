@@ -8,45 +8,45 @@
           "name": "Al Nassr FC",
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-nassr-fc.png"
         },
-        "points": 24,
-        "goalsDiff": 22,
+        "points": 27,
+        "goalsDiff": 25,
         "group": "Saudi Arabia Professional League 2025",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 8,
-          "win": 8,
+          "played": 9,
+          "win": 9,
           "draw": 0,
           "lose": 0,
           "goals": {
-            "for": 26,
-            "against": 4
+            "for": 30,
+            "against": 5
           },
           "form": "WWWWW",
-          "btts_matches": 4,
-          "avg_corners_per_game": 8.38,
+          "btts_matches": 5,
+          "avg_corners_per_game": 7.89,
           "aproveitamento": 100.0,
-          "over_2_5_goals": 5,
-          "over_0_5_ht": 6,
-          "over_0_5_ft": 7,
+          "over_2_5_goals": 6,
+          "over_0_5_ht": 7,
+          "over_0_5_ft": 8,
           "clean_sheets": 4
         },
         "home": {
-          "played": 4,
-          "win": 4,
+          "played": 5,
+          "win": 5,
           "draw": 0,
           "lose": 0,
           "goals": {
-            "for": 14,
-            "against": 3
+            "for": 18,
+            "against": 4
           },
-          "form_home": "WWWW",
-          "avg_corners_home_per_game": 10.75,
+          "form_home": "WWWWW",
+          "avg_corners_home_per_game": 9.4,
           "aproveitamento_home": 100.0,
-          "btts_home_matches": 3,
-          "over_2_5_goals_home": 3,
-          "over_0_5_ht_home": 3,
-          "over_0_5_ft_home": 4,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 5,
           "clean_sheets_home": 1
         },
         "away": {
@@ -349,26 +349,26 @@
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-khaleej-saihat.png"
         },
         "points": 14,
-        "goalsDiff": 10,
+        "goalsDiff": 7,
         "group": "Saudi Arabia Professional League 2025",
         "status": "same",
         "description": "Copa Sul-Americana",
         "all": {
-          "played": 8,
+          "played": 9,
           "win": 4,
           "draw": 2,
-          "lose": 2,
+          "lose": 3,
           "goals": {
-            "for": 21,
-            "against": 11
+            "for": 22,
+            "against": 15
           },
-          "form": "LWDDW",
-          "btts_matches": 6,
-          "avg_corners_per_game": 4.38,
-          "aproveitamento": 58.3,
-          "over_2_5_goals": 6,
+          "form": "WDDWL",
+          "btts_matches": 7,
+          "avg_corners_per_game": 4.11,
+          "aproveitamento": 51.9,
+          "over_2_5_goals": 7,
           "over_0_5_ht": 6,
-          "over_0_5_ft": 6,
+          "over_0_5_ft": 7,
           "clean_sheets": 1
         },
         "home": {
@@ -390,21 +390,21 @@
           "clean_sheets_home": 1
         },
         "away": {
-          "played": 4,
+          "played": 5,
           "win": 2,
           "draw": 1,
-          "lose": 1,
+          "lose": 2,
           "goals": {
-            "for": 10,
-            "against": 5
+            "for": 11,
+            "against": 9
           },
-          "form_visitor": "WLDW",
-          "btts_away_matches": 4,
-          "avg_corners_away_per_game": 4.75,
-          "aproveitamento_away": 58.3,
-          "over_2_5_goals_away": 3,
+          "form_visitor": "WLDWL",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 4.2,
+          "aproveitamento_away": 46.7,
+          "over_2_5_goals_away": 4,
           "over_0_5_ht_away": 3,
-          "over_0_5_ft_away": 3,
+          "over_0_5_ft_away": 4,
           "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1232,11 +1232,20 @@
       {
         "jogador-nome": "João Félix Sequeira",
         "jogador-posicao": "Forward",
-        "jogador-gols": 10,
-        "jogador-assists": 1,
-        "jogador-partidas": 8,
+        "jogador-gols": 11,
+        "jogador-assists": 2,
+        "jogador-partidas": 9,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-nassr-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/portugal-joao-felix.png"
+      },
+      {
+        "jogador-nome": "Cristiano Ronaldo dos Santos Aveiro",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 10,
+        "jogador-assists": 1,
+        "jogador-partidas": 9,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-nassr-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/portugal-cristiano-ronaldo.png"
       },
       {
         "jogador-nome": "Joshua Christian Kojo King",
@@ -1246,15 +1255,6 @@
         "jogador-partidas": 8,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-khaleej-saihat.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/norway-joshua-king.png"
-      },
-      {
-        "jogador-nome": "Cristiano Ronaldo dos Santos Aveiro",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 9,
-        "jogador-assists": 1,
-        "jogador-partidas": 8,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-nassr-fc.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/portugal-cristiano-ronaldo.png"
       },
       {
         "jogador-nome": "Roger Beyker Martínez Tobinson",
@@ -1332,8 +1332,8 @@
         "jogador-nome": "Konstantinos Fortounis",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 4,
-        "jogador-assists": 8,
-        "jogador-partidas": 8,
+        "jogador-assists": 9,
+        "jogador-partidas": 9,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-khaleej-saihat.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/greece-konstantinos-fortounis.png"
       },
