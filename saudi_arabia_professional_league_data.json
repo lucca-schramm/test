@@ -892,26 +892,26 @@
           "name": "Al Shabab FC Riyadh",
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-shabab-fc-riyadh.png"
         },
-        "points": 7,
+        "points": 8,
         "goalsDiff": -4,
         "group": "Saudi Arabia Professional League 2025",
         "status": "same",
         "description": "",
         "all": {
-          "played": 8,
+          "played": 9,
           "win": 1,
-          "draw": 4,
+          "draw": 5,
           "lose": 3,
           "goals": {
-            "for": 6,
-            "against": 10
+            "for": 7,
+            "against": 11
           },
-          "form": "LDDLD",
-          "btts_matches": 5,
+          "form": "DDLDD",
+          "btts_matches": 6,
           "avg_corners_per_game": 5.0,
-          "aproveitamento": 29.2,
+          "aproveitamento": 29.6,
           "over_2_5_goals": 2,
-          "over_0_5_ht": 2,
+          "over_0_5_ht": 3,
           "over_0_5_ft": 4,
           "clean_sheets": 2
         },
@@ -934,20 +934,20 @@
           "clean_sheets_home": 1
         },
         "away": {
-          "played": 3,
+          "played": 4,
           "win": 0,
-          "draw": 2,
+          "draw": 3,
           "lose": 1,
           "goals": {
-            "for": 1,
-            "against": 2
+            "for": 2,
+            "against": 3
           },
-          "form_visitor": "DDL",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 3.67,
-          "aproveitamento_away": 22.2,
+          "form_visitor": "DDLD",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 4.0,
+          "aproveitamento_away": 25.0,
           "over_2_5_goals_away": 0,
-          "over_0_5_ht_away": 0,
+          "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 1,
           "clean_sheets_away": 1
         },
@@ -955,6 +955,74 @@
       },
       {
         "rank": 15,
+        "team": {
+          "id": 5111,
+          "name": "Al Akhdoud",
+          "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-akhdoud.png"
+        },
+        "points": 5,
+        "goalsDiff": -9,
+        "group": "Saudi Arabia Professional League 2025",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 9,
+          "win": 1,
+          "draw": 2,
+          "lose": 6,
+          "goals": {
+            "for": 9,
+            "against": 18
+          },
+          "form": "LDWLD",
+          "btts_matches": 6,
+          "avg_corners_per_game": 4.33,
+          "aproveitamento": 18.5,
+          "over_2_5_goals": 5,
+          "over_0_5_ht": 6,
+          "over_0_5_ft": 3,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 5,
+          "win": 1,
+          "draw": 1,
+          "lose": 3,
+          "goals": {
+            "for": 8,
+            "against": 12
+          },
+          "form_home": "LLLWD",
+          "avg_corners_home_per_game": 5.4,
+          "aproveitamento_home": 26.7,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 4,
+          "win": 0,
+          "draw": 1,
+          "lose": 3,
+          "goals": {
+            "for": 1,
+            "against": 6
+          },
+          "form_visitor": "LLDL",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 3.0,
+          "aproveitamento_away": 8.3,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 16,
         "team": {
           "id": 5064,
           "name": "Al Fateh SC",
@@ -1022,7 +1090,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 16,
+        "rank": 17,
         "team": {
           "id": 5083,
           "name": "Dhamk Club",
@@ -1032,7 +1100,7 @@
         "goalsDiff": -9,
         "group": "Saudi Arabia Professional League 2025",
         "status": "same",
-        "description": "",
+        "description": "Rebaixamento",
         "all": {
           "played": 9,
           "win": 0,
@@ -1086,74 +1154,6 @@
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 1,
           "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 17,
-        "team": {
-          "id": 5111,
-          "name": "Al Akhdoud",
-          "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-akhdoud.png"
-        },
-        "points": 4,
-        "goalsDiff": -9,
-        "group": "Saudi Arabia Professional League 2025",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 8,
-          "win": 1,
-          "draw": 1,
-          "lose": 6,
-          "goals": {
-            "for": 8,
-            "against": 17
-          },
-          "form": "LLDWL",
-          "btts_matches": 5,
-          "avg_corners_per_game": 4.5,
-          "aproveitamento": 16.7,
-          "over_2_5_goals": 5,
-          "over_0_5_ht": 5,
-          "over_0_5_ft": 3,
-          "clean_sheets": 1
-        },
-        "home": {
-          "played": 4,
-          "win": 1,
-          "draw": 0,
-          "lose": 3,
-          "goals": {
-            "for": 7,
-            "against": 11
-          },
-          "form_home": "LLLW",
-          "avg_corners_home_per_game": 6.0,
-          "aproveitamento_home": 25.0,
-          "btts_home_matches": 4,
-          "over_2_5_goals_home": 4,
-          "over_0_5_ht_home": 4,
-          "over_0_5_ft_home": 3,
-          "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 4,
-          "win": 0,
-          "draw": 1,
-          "lose": 3,
-          "goals": {
-            "for": 1,
-            "against": 6
-          },
-          "form_visitor": "LLDL",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 3.0,
-          "aproveitamento_away": 8.3,
-          "over_2_5_goals_away": 1,
-          "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 0,
-          "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
