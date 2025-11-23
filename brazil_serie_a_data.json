@@ -344,6 +344,74 @@
       {
         "rank": 6,
         "team": {
+          "id": 626,
+          "name": "EC Bahia",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-ec-bahia.png"
+        },
+        "points": 56,
+        "goalsDiff": 4,
+        "group": "Brazil Serie A 2025",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 35,
+          "win": 16,
+          "draw": 8,
+          "lose": 11,
+          "goals": {
+            "for": 47,
+            "against": 43
+          },
+          "form": "WLDLW",
+          "btts_matches": 18,
+          "avg_corners_per_game": 4.71,
+          "aproveitamento": 53.3,
+          "over_2_5_goals": 19,
+          "over_0_5_ht": 15,
+          "over_0_5_ft": 21,
+          "clean_sheets": 12
+        },
+        "home": {
+          "played": 18,
+          "win": 13,
+          "draw": 3,
+          "lose": 2,
+          "goals": {
+            "for": 31,
+            "against": 14
+          },
+          "form_home": "WWWLW",
+          "avg_corners_home_per_game": 5.22,
+          "aproveitamento_home": 77.8,
+          "btts_home_matches": 9,
+          "over_2_5_goals_home": 9,
+          "over_0_5_ht_home": 10,
+          "over_0_5_ft_home": 13,
+          "clean_sheets_home": 9
+        },
+        "away": {
+          "played": 17,
+          "win": 3,
+          "draw": 5,
+          "lose": 9,
+          "goals": {
+            "for": 16,
+            "against": 29
+          },
+          "form_visitor": "LLLLD",
+          "btts_away_matches": 9,
+          "avg_corners_away_per_game": 4.18,
+          "aproveitamento_away": 27.5,
+          "over_2_5_goals_away": 10,
+          "over_0_5_ht_away": 5,
+          "over_0_5_ft_away": 8,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 7,
+        "team": {
           "id": 617,
           "name": "Fluminense FC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-fluminense-fc.png"
@@ -352,7 +420,7 @@
         "goalsDiff": 2,
         "group": "Brazil Serie A 2025",
         "status": "same",
-        "description": "Copa Sul-Americana",
+        "description": "",
         "all": {
           "played": 35,
           "win": 16,
@@ -406,74 +474,6 @@
           "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 9,
           "clean_sheets_away": 6
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 7,
-        "team": {
-          "id": 626,
-          "name": "EC Bahia",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-ec-bahia.png"
-        },
-        "points": 53,
-        "goalsDiff": 3,
-        "group": "Brazil Serie A 2025",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 34,
-          "win": 15,
-          "draw": 8,
-          "lose": 11,
-          "goals": {
-            "for": 46,
-            "against": 43
-          },
-          "form": "LWLDL",
-          "btts_matches": 18,
-          "avg_corners_per_game": 4.53,
-          "aproveitamento": 52.0,
-          "over_2_5_goals": 19,
-          "over_0_5_ht": 15,
-          "over_0_5_ft": 20,
-          "clean_sheets": 11
-        },
-        "home": {
-          "played": 17,
-          "win": 12,
-          "draw": 3,
-          "lose": 2,
-          "goals": {
-            "for": 30,
-            "against": 14
-          },
-          "form_home": "WWWWL",
-          "avg_corners_home_per_game": 4.88,
-          "aproveitamento_home": 76.5,
-          "btts_home_matches": 9,
-          "over_2_5_goals_home": 9,
-          "over_0_5_ht_home": 10,
-          "over_0_5_ft_home": 12,
-          "clean_sheets_home": 8
-        },
-        "away": {
-          "played": 17,
-          "win": 3,
-          "draw": 5,
-          "lose": 9,
-          "goals": {
-            "for": 16,
-            "against": 29
-          },
-          "form_visitor": "LLLLD",
-          "btts_away_matches": 9,
-          "avg_corners_away_per_game": 4.18,
-          "aproveitamento_away": 27.5,
-          "over_2_5_goals_away": 10,
-          "over_0_5_ht_away": 5,
-          "over_0_5_ft_away": 8,
-          "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -825,23 +825,23 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-cr-vasco-da-gama.png"
         },
         "points": 42,
-        "goalsDiff": -1,
+        "goalsDiff": -2,
         "group": "Brazil Serie A 2025",
         "status": "same",
         "description": "",
         "all": {
-          "played": 34,
+          "played": 35,
           "win": 12,
           "draw": 6,
-          "lose": 16,
+          "lose": 17,
           "goals": {
             "for": 50,
-            "against": 51
+            "against": 52
           },
-          "form": "WLLLL",
+          "form": "LLLLL",
           "btts_matches": 17,
-          "avg_corners_per_game": 4.26,
-          "aproveitamento": 41.2,
+          "avg_corners_per_game": 4.17,
+          "aproveitamento": 40.0,
           "over_2_5_goals": 19,
           "over_0_5_ht": 18,
           "over_0_5_ft": 17,
@@ -866,18 +866,18 @@
           "clean_sheets_home": 4
         },
         "away": {
-          "played": 17,
+          "played": 18,
           "win": 5,
           "draw": 2,
-          "lose": 10,
+          "lose": 11,
           "goals": {
             "for": 24,
-            "against": 28
+            "against": 29
           },
-          "form_visitor": "LWWLL",
+          "form_visitor": "WWLLL",
           "btts_away_matches": 8,
-          "avg_corners_away_per_game": 3.82,
-          "aproveitamento_away": 33.3,
+          "avg_corners_away_per_game": 3.67,
+          "aproveitamento_away": 31.5,
           "over_2_5_goals_away": 11,
           "over_0_5_ht_away": 9,
           "over_0_5_ft_away": 7,
@@ -1397,7 +1397,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 15,
         "jogador-assists": 1,
-        "jogador-partidas": 31,
+        "jogador-partidas": 32,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-cr-vasco-da-gama.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/argentina-pablo-ezequiel-vegetti-pfaffen.png"
       },
@@ -1424,7 +1424,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 12,
         "jogador-assists": 1,
-        "jogador-partidas": 31,
+        "jogador-partidas": 32,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-cr-vasco-da-gama.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-rayan-rocha.png"
       },
@@ -1433,7 +1433,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 11,
         "jogador-assists": 5,
-        "jogador-partidas": 29,
+        "jogador-partidas": 30,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ec-bahia.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-willian-jose.png"
       },
