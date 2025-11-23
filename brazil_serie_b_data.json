@@ -276,6 +276,74 @@
       {
         "rank": 5,
         "team": {
+          "id": 2712,
+          "name": "Grêmio Novorizontino",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-gremio-novorizontino.png"
+        },
+        "points": 60,
+        "goalsDiff": 11,
+        "group": "Brazil Serie B 2025",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 38,
+          "win": 15,
+          "draw": 15,
+          "lose": 8,
+          "goals": {
+            "for": 43,
+            "against": 32
+          },
+          "form": "DDDLW",
+          "btts_matches": 17,
+          "avg_corners_per_game": 5.32,
+          "aproveitamento": 52.6,
+          "over_2_5_goals": 12,
+          "over_0_5_ht": 16,
+          "over_0_5_ft": 20,
+          "clean_sheets": 15
+        },
+        "home": {
+          "played": 19,
+          "win": 10,
+          "draw": 8,
+          "lose": 1,
+          "goals": {
+            "for": 31,
+            "against": 14
+          },
+          "form_home": "DWDDW",
+          "avg_corners_home_per_game": 5.79,
+          "aproveitamento_home": 66.7,
+          "btts_home_matches": 12,
+          "over_2_5_goals_home": 8,
+          "over_0_5_ht_home": 10,
+          "over_0_5_ft_home": 15,
+          "clean_sheets_home": 7
+        },
+        "away": {
+          "played": 19,
+          "win": 5,
+          "draw": 7,
+          "lose": 7,
+          "goals": {
+            "for": 12,
+            "against": 18
+          },
+          "form_visitor": "LWDDL",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 4.84,
+          "aproveitamento_away": 38.6,
+          "over_2_5_goals_away": 4,
+          "over_0_5_ht_away": 6,
+          "over_0_5_ft_away": 5,
+          "clean_sheets_away": 8
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 6,
+        "team": {
           "id": 623,
           "name": "Chapecoense AF",
           "logo": "https://cdn.footystats.org/img/teams/brazil-chapecoense-af.png"
@@ -342,7 +410,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "team": {
           "id": 2594,
           "name": "Clube do Remo",
@@ -352,7 +420,7 @@
         "goalsDiff": 10,
         "group": "Brazil Serie B 2025",
         "status": "same",
-        "description": "Copa Sul-Americana",
+        "description": "",
         "all": {
           "played": 37,
           "win": 15,
@@ -410,74 +478,6 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 7,
-        "team": {
-          "id": 2712,
-          "name": "Grêmio Novorizontino",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-gremio-novorizontino.png"
-        },
-        "points": 57,
-        "goalsDiff": 8,
-        "group": "Brazil Serie B 2025",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 37,
-          "win": 14,
-          "draw": 15,
-          "lose": 8,
-          "goals": {
-            "for": 40,
-            "against": 32
-          },
-          "form": "DDDDL",
-          "btts_matches": 17,
-          "avg_corners_per_game": 5.35,
-          "aproveitamento": 51.4,
-          "over_2_5_goals": 11,
-          "over_0_5_ht": 15,
-          "over_0_5_ft": 19,
-          "clean_sheets": 14
-        },
-        "home": {
-          "played": 18,
-          "win": 9,
-          "draw": 8,
-          "lose": 1,
-          "goals": {
-            "for": 28,
-            "against": 14
-          },
-          "form_home": "WDWDD",
-          "avg_corners_home_per_game": 5.89,
-          "aproveitamento_home": 64.8,
-          "btts_home_matches": 12,
-          "over_2_5_goals_home": 7,
-          "over_0_5_ht_home": 9,
-          "over_0_5_ft_home": 14,
-          "clean_sheets_home": 6
-        },
-        "away": {
-          "played": 19,
-          "win": 5,
-          "draw": 7,
-          "lose": 7,
-          "goals": {
-            "for": 12,
-            "against": 18
-          },
-          "form_visitor": "LWDDL",
-          "btts_away_matches": 5,
-          "avg_corners_away_per_game": 4.84,
-          "aproveitamento_away": 38.6,
-          "over_2_5_goals_away": 4,
-          "over_0_5_ht_away": 6,
-          "over_0_5_ft_away": 5,
-          "clean_sheets_away": 8
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
         "rank": 8,
         "team": {
           "id": 694,
@@ -485,24 +485,24 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-clube-de-regatas-brasil.png"
         },
         "points": 56,
-        "goalsDiff": 8,
+        "goalsDiff": 5,
         "group": "Brazil Serie B 2025",
         "status": "same",
         "description": "",
         "all": {
-          "played": 37,
+          "played": 38,
           "win": 16,
           "draw": 8,
-          "lose": 13,
+          "lose": 14,
           "goals": {
             "for": 45,
-            "against": 37
+            "against": 40
           },
-          "form": "DWDDW",
+          "form": "WDDWL",
           "btts_matches": 16,
-          "avg_corners_per_game": 6.59,
-          "aproveitamento": 50.5,
-          "over_2_5_goals": 12,
+          "avg_corners_per_game": 6.74,
+          "aproveitamento": 49.1,
+          "over_2_5_goals": 13,
           "over_0_5_ht": 20,
           "over_0_5_ft": 17,
           "clean_sheets": 13
@@ -526,19 +526,19 @@
           "clean_sheets_home": 11
         },
         "away": {
-          "played": 18,
+          "played": 19,
           "win": 3,
           "draw": 5,
-          "lose": 10,
+          "lose": 11,
           "goals": {
             "for": 15,
-            "against": 25
+            "against": 28
           },
-          "form_visitor": "LLWDD",
+          "form_visitor": "LWDDL",
           "btts_away_matches": 10,
-          "avg_corners_away_per_game": 7.39,
-          "aproveitamento_away": 25.9,
-          "over_2_5_goals_away": 6,
+          "avg_corners_away_per_game": 7.63,
+          "aproveitamento_away": 24.6,
+          "over_2_5_goals_away": 7,
           "over_0_5_ht_away": 7,
           "over_0_5_ft_away": 6,
           "clean_sheets_away": 2
@@ -1537,7 +1537,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 8,
         "jogador-assists": 2,
-        "jogador-partidas": 35,
+        "jogador-partidas": 36,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-clube-de-regatas-brasil.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-thiago-fernandes-rodrigues.png"
       },
@@ -1600,7 +1600,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 7,
         "jogador-assists": 2,
-        "jogador-partidas": 31,
+        "jogador-partidas": 32,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-clube-de-regatas-brasil.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-mikael-filipe-viana-de-sousa.png"
       },
