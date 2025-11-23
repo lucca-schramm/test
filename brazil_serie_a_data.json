@@ -294,31 +294,31 @@
             "for": 47,
             "against": 30
           },
-          "form": "DDWDW",
-          "btts_matches": 10,
-          "avg_corners_per_game": 4.82,
+          "form": "DWDWW",
+          "btts_matches": 11,
+          "avg_corners_per_game": 4.89,
           "aproveitamento": 53.9,
-          "over_2_5_goals": 12,
-          "over_0_5_ht": 15,
-          "over_0_5_ft": 17,
+          "over_2_5_goals": 13,
+          "over_0_5_ht": 16,
+          "over_0_5_ft": 18,
           "clean_sheets": 15
         },
         "home": {
-          "played": 17,
-          "win": 9,
+          "played": 18,
+          "win": 10,
           "draw": 5,
           "lose": 3,
           "goals": {
-            "for": 32,
-            "against": 20
+            "for": 35,
+            "against": 22
           },
-          "form_home": "WLDWW",
-          "avg_corners_home_per_game": 5.71,
-          "aproveitamento_home": 62.7,
-          "btts_home_matches": 8,
-          "over_2_5_goals_home": 10,
-          "over_0_5_ht_home": 12,
-          "over_0_5_ft_home": 10,
+          "form_home": "LDWWW",
+          "avg_corners_home_per_game": 5.78,
+          "aproveitamento_home": 64.8,
+          "btts_home_matches": 9,
+          "over_2_5_goals_home": 11,
+          "over_0_5_ht_home": 13,
+          "over_0_5_ft_home": 11,
           "clean_sheets_home": 6
         },
         "away": {
@@ -702,13 +702,13 @@
             "for": 37,
             "against": 43
           },
-          "form": "WLLDW",
-          "btts_matches": 18,
-          "avg_corners_per_game": 3.88,
+          "form": "LLDWL",
+          "btts_matches": 19,
+          "avg_corners_per_game": 3.8,
           "aproveitamento": 42.2,
-          "over_2_5_goals": 11,
+          "over_2_5_goals": 12,
           "over_0_5_ht": 13,
-          "over_0_5_ft": 15,
+          "over_0_5_ft": 16,
           "clean_sheets": 6
         },
         "home": {
@@ -730,21 +730,21 @@
           "clean_sheets_home": 5
         },
         "away": {
-          "played": 17,
+          "played": 18,
           "win": 3,
           "draw": 5,
-          "lose": 9,
+          "lose": 10,
           "goals": {
-            "for": 17,
-            "against": 30
+            "for": 19,
+            "against": 33
           },
-          "form_visitor": "DLLLD",
-          "btts_away_matches": 10,
-          "avg_corners_away_per_game": 3.88,
-          "aproveitamento_away": 27.5,
-          "over_2_5_goals_away": 7,
+          "form_visitor": "LLLDL",
+          "btts_away_matches": 11,
+          "avg_corners_away_per_game": 3.72,
+          "aproveitamento_away": 25.9,
+          "over_2_5_goals_away": 8,
           "over_0_5_ht_away": 6,
-          "over_0_5_ft_away": 7,
+          "over_0_5_ft_away": 8,
           "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1474,6 +1474,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-alan-patrick.png"
       },
       {
+        "jogador-nome": "Carlos Vinícius Alves Morais",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 9,
+        "jogador-assists": 1,
+        "jogador-partidas": 12,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-gremio-fb-porto-alegrense.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-carlos-vinicius.png"
+      },
+      {
         "jogador-nome": "Jogador_711874",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 8,
@@ -1499,15 +1508,6 @@
         "jogador-partidas": 30,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-santos-fc-sao-paulo.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/argentina-alvaro-barreal.png"
-      },
-      {
-        "jogador-nome": "Carlos Vinícius Alves Morais",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 8,
-        "jogador-assists": 1,
-        "jogador-partidas": 11,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-gremio-fb-porto-alegrense.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-carlos-vinicius.png"
       },
       {
         "jogador-nome": "Renato Kayzer de Souza",
