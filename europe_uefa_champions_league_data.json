@@ -566,14 +566,14 @@
             "for": 7,
             "against": 4
           },
-          "form": "WLLLL",
+          "form": "LLLLW",
           "btts_matches": 1,
-          "avg_corners_per_game": 5.75,
+          "avg_corners_per_game": 5.56,
           "aproveitamento": 55.6,
           "over_2_5_goals": 2,
-          "over_0_5_ht": 3,
-          "over_0_5_ft": 1,
-          "clean_sheets": 4
+          "over_0_5_ht": 4,
+          "over_0_5_ft": 2,
+          "clean_sheets": 5
         },
         "home": {
           "played": 4,
@@ -594,22 +594,22 @@
           "clean_sheets_home": 2
         },
         "away": {
-          "played": 4,
-          "win": 1,
+          "played": 5,
+          "win": 2,
           "draw": 1,
           "lose": 2,
           "goals": {
-            "for": 2,
+            "for": 4,
             "against": 4
           },
-          "form_visitor": "WDLL",
+          "form_visitor": "WDLLW",
           "btts_away_matches": 0,
-          "avg_corners_away_per_game": 5.5,
-          "aproveitamento_away": 33.3,
+          "avg_corners_away_per_game": 5.2,
+          "aproveitamento_away": 46.7,
           "over_2_5_goals_away": 1,
-          "over_0_5_ht_away": 0,
-          "over_0_5_ft_away": 1,
-          "clean_sheets_away": 2
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -3286,14 +3286,14 @@
             "for": 3,
             "against": 5
           },
-          "form": "WLLL",
+          "form": "WLLLW",
           "btts_matches": 2,
-          "avg_corners_per_game": 4.5,
+          "avg_corners_per_game": 4.6,
           "aproveitamento": 50.0,
           "over_2_5_goals": 4,
           "over_0_5_ht": 1,
-          "over_0_5_ft": 2,
-          "clean_sheets": 0
+          "over_0_5_ft": 3,
+          "clean_sheets": 1
         },
         "home": {
           "played": 2,
@@ -3314,22 +3314,22 @@
           "clean_sheets_home": 0
         },
         "away": {
-          "played": 2,
-          "win": 1,
+          "played": 3,
+          "win": 2,
           "draw": 0,
           "lose": 1,
           "goals": {
-            "for": 4,
+            "for": 5,
             "against": 4
           },
-          "form_visitor": "WL",
+          "form_visitor": "WLW",
           "btts_away_matches": 2,
-          "avg_corners_away_per_game": 4.0,
-          "aproveitamento_away": 50.0,
+          "avg_corners_away_per_game": 4.33,
+          "aproveitamento_away": 66.7,
           "over_2_5_goals_away": 2,
           "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 2,
-          "clean_sheets_away": 0
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -3354,9 +3354,9 @@
             "for": 2,
             "against": 5
           },
-          "form": "LWWW",
+          "form": "LWWWL",
           "btts_matches": 2,
-          "avg_corners_per_game": 3.75,
+          "avg_corners_per_game": 3.8,
           "aproveitamento": 50.0,
           "over_2_5_goals": 3,
           "over_0_5_ht": 3,
@@ -3364,17 +3364,17 @@
           "clean_sheets": 2
         },
         "home": {
-          "played": 2,
+          "played": 3,
           "win": 2,
           "draw": 0,
-          "lose": 0,
+          "lose": 1,
           "goals": {
             "for": 4,
-            "against": 1
+            "against": 2
           },
-          "form_home": "WW",
-          "avg_corners_home_per_game": 5.0,
-          "aproveitamento_home": 100.0,
+          "form_home": "WWL",
+          "avg_corners_home_per_game": 4.67,
+          "aproveitamento_home": 66.7,
           "btts_home_matches": 1,
           "over_2_5_goals_home": 1,
           "over_0_5_ht_home": 2,
@@ -5530,9 +5530,9 @@
             "for": 0,
             "against": 6
           },
-          "form": "LLLL",
+          "form": "LLLLL",
           "btts_matches": 1,
-          "avg_corners_per_game": 3.25,
+          "avg_corners_per_game": 4.6,
           "aproveitamento": 0.0,
           "over_2_5_goals": 3,
           "over_0_5_ht": 1,
@@ -5540,16 +5540,16 @@
           "clean_sheets": 0
         },
         "home": {
-          "played": 2,
+          "played": 3,
           "win": 0,
           "draw": 0,
-          "lose": 2,
+          "lose": 3,
           "goals": {
             "for": 0,
-            "against": 5
+            "against": 7
           },
-          "form_home": "LL",
-          "avg_corners_home_per_game": 3.0,
+          "form_home": "LLL",
+          "avg_corners_home_per_game": 5.33,
           "aproveitamento_home": 0.0,
           "btts_home_matches": 0,
           "over_2_5_goals_home": 1,
