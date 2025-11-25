@@ -960,44 +960,44 @@
           "name": "SC Internacional",
           "logo": "https://cdn.footystats.org/img/teams/brazil-sc-internacional.png"
         },
-        "points": 40,
+        "points": 41,
         "goalsDiff": -8,
         "group": "Brazil Serie A 2025",
         "status": "same",
         "description": "",
         "all": {
-          "played": 34,
+          "played": 35,
           "win": 10,
-          "draw": 10,
+          "draw": 11,
           "lose": 14,
           "goals": {
-            "for": 39,
-            "against": 47
+            "for": 40,
+            "against": 48
           },
-          "form": "LDLDW",
-          "btts_matches": 20,
+          "form": "DLDWD",
+          "btts_matches": 21,
           "avg_corners_per_game": 5.03,
-          "aproveitamento": 39.2,
+          "aproveitamento": 39.0,
           "over_2_5_goals": 15,
-          "over_0_5_ht": 15,
+          "over_0_5_ht": 16,
           "over_0_5_ft": 18,
           "clean_sheets": 7
         },
         "home": {
-          "played": 17,
+          "played": 18,
           "win": 7,
-          "draw": 5,
+          "draw": 6,
           "lose": 5,
           "goals": {
-            "for": 23,
-            "against": 18
+            "for": 24,
+            "against": 19
           },
-          "form_home": "DWWDD",
-          "avg_corners_home_per_game": 6.12,
-          "aproveitamento_home": 51.0,
-          "btts_home_matches": 9,
+          "form_home": "WWDDD",
+          "avg_corners_home_per_game": 6.06,
+          "aproveitamento_home": 50.0,
+          "btts_home_matches": 10,
           "over_2_5_goals_home": 7,
-          "over_0_5_ht_home": 8,
+          "over_0_5_ht_home": 9,
           "over_0_5_ft_home": 12,
           "clean_sheets_home": 6
         },
@@ -1096,27 +1096,27 @@
           "name": "Santos FC Sao Paulo",
           "logo": "https://cdn.footystats.org/img/teams/brazil-santos-fc-sao-paulo.png"
         },
-        "points": 37,
+        "points": 38,
         "goalsDiff": -14,
         "group": "Brazil Serie A 2025",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 34,
+          "played": 35,
           "win": 9,
-          "draw": 10,
+          "draw": 11,
           "lose": 15,
           "goals": {
-            "for": 35,
-            "against": 49
+            "for": 36,
+            "against": 50
           },
-          "form": "DLLWD",
-          "btts_matches": 17,
-          "avg_corners_per_game": 4.74,
-          "aproveitamento": 36.3,
+          "form": "LLWDD",
+          "btts_matches": 18,
+          "avg_corners_per_game": 4.6,
+          "aproveitamento": 36.2,
           "over_2_5_goals": 16,
           "over_0_5_ht": 9,
-          "over_0_5_ft": 17,
+          "over_0_5_ft": 18,
           "clean_sheets": 7
         },
         "home": {
@@ -1138,21 +1138,21 @@
           "clean_sheets_home": 6
         },
         "away": {
-          "played": 17,
+          "played": 18,
           "win": 3,
-          "draw": 4,
+          "draw": 5,
           "lose": 10,
           "goals": {
-            "for": 17,
-            "against": 30
+            "for": 18,
+            "against": 31
           },
-          "form_visitor": "DLDLL",
-          "btts_away_matches": 9,
-          "avg_corners_away_per_game": 3.76,
-          "aproveitamento_away": 25.5,
+          "form_visitor": "LDLLD",
+          "btts_away_matches": 10,
+          "avg_corners_away_per_game": 3.56,
+          "aproveitamento_away": 25.9,
           "over_2_5_goals_away": 10,
           "over_0_5_ht_away": 5,
-          "over_0_5_ft_away": 7,
+          "over_0_5_ft_away": 8,
           "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1438,6 +1438,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-willian-jose.png"
       },
       {
+        "jogador-nome": "Alan Patrick Lourenço",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 10,
+        "jogador-assists": 7,
+        "jogador-partidas": 27,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-sc-internacional.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-alan-patrick.png"
+      },
+      {
         "jogador-nome": "Yuri Alberto Monteiro da Silva",
         "jogador-posicao": "Forward",
         "jogador-gols": 10,
@@ -1465,13 +1474,13 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-pedro-raul-garay-da-silva.png"
       },
       {
-        "jogador-nome": "Alan Patrick Lourenço",
+        "jogador-nome": "Álvaro Barreal",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 9,
-        "jogador-assists": 7,
-        "jogador-partidas": 26,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-sc-internacional.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-alan-patrick.png"
+        "jogador-assists": 1,
+        "jogador-partidas": 31,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-santos-fc-sao-paulo.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/argentina-alvaro-barreal.png"
       },
       {
         "jogador-nome": "Carlos Vinícius Alves Morais",
@@ -1508,15 +1517,6 @@
         "jogador-partidas": 30,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-sao-paulo-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-luciano-da-rocha-neves.png"
-      },
-      {
-        "jogador-nome": "Álvaro Barreal",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 8,
-        "jogador-assists": 1,
-        "jogador-partidas": 30,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-santos-fc-sao-paulo.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/argentina-alvaro-barreal.png"
       },
       {
         "jogador-nome": "Givanildo Vieira de Souza",
