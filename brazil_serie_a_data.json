@@ -8,27 +8,27 @@
           "name": "CR Flamengo",
           "logo": "https://cdn.footystats.org/img/teams/brazil-cr-flamengo.png"
         },
-        "points": 74,
+        "points": 75,
         "goalsDiff": 50,
         "group": "Brazil Serie A 2025",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 35,
+          "played": 36,
           "win": 22,
-          "draw": 8,
+          "draw": 9,
           "lose": 5,
           "goals": {
-            "for": 73,
-            "against": 23
+            "for": 74,
+            "against": 24
           },
-          "form": "DWWLW",
-          "btts_matches": 15,
-          "avg_corners_per_game": 6.31,
-          "aproveitamento": 70.5,
+          "form": "WWLWD",
+          "btts_matches": 16,
+          "avg_corners_per_game": 6.25,
+          "aproveitamento": 69.4,
           "over_2_5_goals": 18,
           "over_0_5_ht": 17,
-          "over_0_5_ft": 24,
+          "over_0_5_ft": 25,
           "clean_sheets": 17
         },
         "home": {
@@ -50,21 +50,21 @@
           "clean_sheets_home": 12
         },
         "away": {
-          "played": 17,
+          "played": 18,
           "win": 9,
-          "draw": 3,
+          "draw": 4,
           "lose": 5,
           "goals": {
-            "for": 28,
-            "against": 15
+            "for": 29,
+            "against": 16
           },
-          "form_visitor": "WLDWL",
-          "btts_away_matches": 9,
-          "avg_corners_away_per_game": 5.94,
-          "aproveitamento_away": 58.8,
+          "form_visitor": "LDWLD",
+          "btts_away_matches": 10,
+          "avg_corners_away_per_game": 5.83,
+          "aproveitamento_away": 57.4,
           "over_2_5_goals_away": 9,
           "over_0_5_ht_away": 8,
-          "over_0_5_ft_away": 11,
+          "over_0_5_ft_away": 12,
           "clean_sheets_away": 5
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -688,44 +688,44 @@
           "name": "CA Mineiro",
           "logo": "https://cdn.footystats.org/img/teams/brazil-ca-mineiro.png"
         },
-        "points": 44,
+        "points": 45,
         "goalsDiff": -2,
         "group": "Brazil Serie A 2025",
         "status": "same",
         "description": "",
         "all": {
-          "played": 34,
+          "played": 35,
           "win": 11,
-          "draw": 11,
+          "draw": 12,
           "lose": 12,
           "goals": {
-            "for": 37,
-            "against": 39
+            "for": 38,
+            "against": 40
           },
-          "form": "DWWDL",
-          "btts_matches": 14,
-          "avg_corners_per_game": 5.97,
-          "aproveitamento": 43.1,
+          "form": "WWDLD",
+          "btts_matches": 15,
+          "avg_corners_per_game": 5.86,
+          "aproveitamento": 42.9,
           "over_2_5_goals": 13,
-          "over_0_5_ht": 10,
+          "over_0_5_ht": 11,
           "over_0_5_ft": 16,
           "clean_sheets": 12
         },
         "home": {
-          "played": 16,
+          "played": 17,
           "win": 8,
-          "draw": 7,
+          "draw": 8,
           "lose": 1,
           "goals": {
-            "for": 24,
-            "against": 14
+            "for": 25,
+            "against": 15
           },
-          "form_home": "WDWWD",
-          "avg_corners_home_per_game": 7.12,
-          "aproveitamento_home": 64.6,
-          "btts_home_matches": 8,
+          "form_home": "DWWDD",
+          "avg_corners_home_per_game": 6.82,
+          "aproveitamento_home": 62.7,
+          "btts_home_matches": 9,
           "over_2_5_goals_home": 7,
-          "over_0_5_ht_home": 7,
+          "over_0_5_ht_home": 8,
           "over_0_5_ft_home": 10,
           "clean_sheets_home": 8
         },
@@ -1379,7 +1379,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 18,
         "jogador-assists": 14,
-        "jogador-partidas": 31,
+        "jogador-partidas": 32,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-cr-flamengo.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/uruguay-giorgian-daniel-de-arrascaeta-benedetti.png"
       },
@@ -1519,11 +1519,20 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-luciano-da-rocha-neves.png"
       },
       {
+        "jogador-nome": "Bruno Henrique Pinto",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 8,
+        "jogador-assists": 0,
+        "jogador-partidas": 31,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-cr-flamengo.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-bruno-henrique-pinto.png"
+      },
+      {
         "jogador-nome": "Givanildo Vieira de Souza",
         "jogador-posicao": "Forward",
         "jogador-gols": 7,
         "jogador-assists": 5,
-        "jogador-partidas": 29,
+        "jogador-partidas": 30,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ca-mineiro.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-hulk.png"
       },
@@ -1535,15 +1544,6 @@
         "jogador-partidas": 31,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ec-juventude.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-gabriel-pereira-taliari.png"
-      },
-      {
-        "jogador-nome": "Luiz de Araujo Guimarães Neto",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 7,
-        "jogador-assists": 3,
-        "jogador-partidas": 33,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-cr-flamengo.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-luiz-araujo.png"
       }
     ]
   }
