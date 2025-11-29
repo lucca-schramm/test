@@ -416,26 +416,26 @@
           "name": "EC Bahia",
           "logo": "https://cdn.footystats.org/img/teams/brazil-ec-bahia.png"
         },
-        "points": 56,
+        "points": 57,
         "goalsDiff": 4,
         "group": "Brazil Serie A 2025",
         "status": "same",
         "description": "",
         "all": {
-          "played": 35,
+          "played": 36,
           "win": 16,
-          "draw": 8,
+          "draw": 9,
           "lose": 11,
           "goals": {
-            "for": 47,
-            "against": 43
+            "for": 48,
+            "against": 44
           },
-          "form": "WLDLW",
-          "btts_matches": 18,
-          "avg_corners_per_game": 4.71,
-          "aproveitamento": 53.3,
+          "form": "LDLWD",
+          "btts_matches": 19,
+          "avg_corners_per_game": 4.72,
+          "aproveitamento": 52.8,
           "over_2_5_goals": 19,
-          "over_0_5_ht": 15,
+          "over_0_5_ht": 16,
           "over_0_5_ft": 21,
           "clean_sheets": 12
         },
@@ -458,20 +458,20 @@
           "clean_sheets_home": 9
         },
         "away": {
-          "played": 17,
+          "played": 18,
           "win": 3,
-          "draw": 5,
+          "draw": 6,
           "lose": 9,
           "goals": {
-            "for": 16,
-            "against": 29
+            "for": 17,
+            "against": 30
           },
-          "form_visitor": "LLLLD",
-          "btts_away_matches": 9,
-          "avg_corners_away_per_game": 4.18,
-          "aproveitamento_away": 27.5,
+          "form_visitor": "LLLDD",
+          "btts_away_matches": 10,
+          "avg_corners_away_per_game": 4.22,
+          "aproveitamento_away": 27.8,
           "over_2_5_goals_away": 10,
-          "over_0_5_ht_away": 5,
+          "over_0_5_ht_away": 6,
           "over_0_5_ft_away": 8,
           "clean_sheets_away": 3
         },
@@ -1232,44 +1232,44 @@
           "name": "EC Juventude",
           "logo": "https://cdn.footystats.org/img/teams/brazil-ec-juventude.png"
         },
-        "points": 33,
+        "points": 34,
         "goalsDiff": -31,
         "group": "Brazil Serie A 2025",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 35,
+          "played": 36,
           "win": 9,
-          "draw": 6,
+          "draw": 7,
           "lose": 20,
           "goals": {
-            "for": 33,
-            "against": 64
+            "for": 34,
+            "against": 65
           },
-          "form": "LWWDL",
-          "btts_matches": 15,
-          "avg_corners_per_game": 3.89,
-          "aproveitamento": 31.4,
+          "form": "WWDLD",
+          "btts_matches": 16,
+          "avg_corners_per_game": 3.94,
+          "aproveitamento": 31.5,
           "over_2_5_goals": 17,
-          "over_0_5_ht": 14,
+          "over_0_5_ht": 15,
           "over_0_5_ft": 14,
           "clean_sheets": 7
         },
         "home": {
-          "played": 17,
+          "played": 18,
           "win": 6,
-          "draw": 4,
+          "draw": 5,
           "lose": 7,
           "goals": {
-            "for": 20,
-            "against": 22
+            "for": 21,
+            "against": 23
           },
-          "form_home": "DLWLD",
-          "avg_corners_home_per_game": 4.18,
-          "aproveitamento_home": 43.1,
-          "btts_home_matches": 8,
+          "form_home": "LWLDD",
+          "avg_corners_home_per_game": 4.28,
+          "aproveitamento_home": 42.6,
+          "btts_home_matches": 9,
           "over_2_5_goals_home": 6,
-          "over_0_5_ht_home": 10,
+          "over_0_5_ht_home": 11,
           "over_0_5_ft_home": 7,
           "clean_sheets_home": 4
         },
@@ -1432,8 +1432,8 @@
         "jogador-nome": "Willian José da Silva",
         "jogador-posicao": "Forward",
         "jogador-gols": 11,
-        "jogador-assists": 5,
-        "jogador-partidas": 30,
+        "jogador-assists": 6,
+        "jogador-partidas": 31,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ec-bahia.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-willian-jose.png"
       },
@@ -1519,6 +1519,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-luciano-da-rocha-neves.png"
       },
       {
+        "jogador-nome": "Gabriel Pereira Taliari",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 8,
+        "jogador-assists": 4,
+        "jogador-partidas": 32,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ec-juventude.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-gabriel-pereira-taliari.png"
+      },
+      {
         "jogador-nome": "Bruno Henrique Pinto",
         "jogador-posicao": "Forward",
         "jogador-gols": 8,
@@ -1535,15 +1544,6 @@
         "jogador-partidas": 31,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-fluminense-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-kevin-steven-serna-jaramillo.png"
-      },
-      {
-        "jogador-nome": "Givanildo Vieira de Souza",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 7,
-        "jogador-assists": 5,
-        "jogador-partidas": 30,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ca-mineiro.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-hulk.png"
       }
     ]
   }
