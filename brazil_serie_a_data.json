@@ -213,23 +213,23 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-mirassol-futebol-clube.png"
         },
         "points": 63,
-        "goalsDiff": 24,
+        "goalsDiff": 22,
         "group": "Brazil Serie A 2025",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 35,
+          "played": 36,
           "win": 17,
           "draw": 12,
-          "lose": 6,
+          "lose": 7,
           "goals": {
             "for": 58,
-            "against": 34
+            "against": 36
           },
-          "form": "DLWDW",
+          "form": "LWDWL",
           "btts_matches": 21,
-          "avg_corners_per_game": 5.43,
-          "aproveitamento": 60.0,
+          "avg_corners_per_game": 5.53,
+          "aproveitamento": 58.3,
           "over_2_5_goals": 17,
           "over_0_5_ht": 19,
           "over_0_5_ft": 20,
@@ -254,18 +254,18 @@
           "clean_sheets_home": 6
         },
         "away": {
-          "played": 17,
+          "played": 18,
           "win": 5,
           "draw": 6,
-          "lose": 6,
+          "lose": 7,
           "goals": {
             "for": 19,
-            "against": 20
+            "against": 22
           },
-          "form_visitor": "LLWLD",
+          "form_visitor": "LWLDL",
           "btts_away_matches": 9,
-          "avg_corners_away_per_game": 4.65,
-          "aproveitamento_away": 41.2,
+          "avg_corners_away_per_game": 4.89,
+          "aproveitamento_away": 38.9,
           "over_2_5_goals_away": 6,
           "over_0_5_ht_away": 8,
           "over_0_5_ft_away": 7,
@@ -956,6 +956,74 @@
       {
         "rank": 15,
         "team": {
+          "id": 610,
+          "name": "EC Vitória",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-ec-vitoria.png"
+        },
+        "points": 42,
+        "goalsDiff": -14,
+        "group": "Brazil Serie A 2025",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 36,
+          "win": 10,
+          "draw": 12,
+          "lose": 14,
+          "goals": {
+            "for": 34,
+            "against": 48
+          },
+          "form": "WDDWW",
+          "btts_matches": 16,
+          "avg_corners_per_game": 4.33,
+          "aproveitamento": 38.9,
+          "over_2_5_goals": 14,
+          "over_0_5_ht": 13,
+          "over_0_5_ft": 16,
+          "clean_sheets": 11
+        },
+        "home": {
+          "played": 18,
+          "win": 8,
+          "draw": 6,
+          "lose": 4,
+          "goals": {
+            "for": 20,
+            "against": 15
+          },
+          "form_home": "WLWDW",
+          "avg_corners_home_per_game": 5.06,
+          "aproveitamento_home": 55.6,
+          "btts_home_matches": 8,
+          "over_2_5_goals_home": 7,
+          "over_0_5_ht_home": 8,
+          "over_0_5_ft_home": 10,
+          "clean_sheets_home": 7
+        },
+        "away": {
+          "played": 18,
+          "win": 2,
+          "draw": 6,
+          "lose": 10,
+          "goals": {
+            "for": 14,
+            "against": 33
+          },
+          "form_visitor": "LWLDW",
+          "btts_away_matches": 8,
+          "avg_corners_away_per_game": 3.61,
+          "aproveitamento_away": 22.2,
+          "over_2_5_goals_away": 7,
+          "over_0_5_ht_away": 5,
+          "over_0_5_ft_away": 6,
+          "clean_sheets_away": 4
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 16,
+        "team": {
           "id": 611,
           "name": "Santos FC Sao Paulo",
           "logo": "https://cdn.footystats.org/img/teams/brazil-santos-fc-sao-paulo.png"
@@ -1022,7 +1090,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 16,
+        "rank": 17,
         "team": {
           "id": 630,
           "name": "SC Internacional",
@@ -1032,7 +1100,7 @@
         "goalsDiff": -12,
         "group": "Brazil Serie A 2025",
         "status": "same",
-        "description": "",
+        "description": "Rebaixamento",
         "all": {
           "played": 36,
           "win": 10,
@@ -1086,74 +1154,6 @@
           "over_0_5_ht_away": 8,
           "over_0_5_ft_away": 6,
           "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 17,
-        "team": {
-          "id": 610,
-          "name": "EC Vitória",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-ec-vitoria.png"
-        },
-        "points": 39,
-        "goalsDiff": -16,
-        "group": "Brazil Serie A 2025",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 35,
-          "win": 9,
-          "draw": 12,
-          "lose": 14,
-          "goals": {
-            "for": 32,
-            "against": 48
-          },
-          "form": "LWDDW",
-          "btts_matches": 16,
-          "avg_corners_per_game": 4.37,
-          "aproveitamento": 37.1,
-          "over_2_5_goals": 14,
-          "over_0_5_ht": 12,
-          "over_0_5_ft": 15,
-          "clean_sheets": 10
-        },
-        "home": {
-          "played": 17,
-          "win": 7,
-          "draw": 6,
-          "lose": 4,
-          "goals": {
-            "for": 18,
-            "against": 15
-          },
-          "form_home": "WWLWD",
-          "avg_corners_home_per_game": 5.18,
-          "aproveitamento_home": 52.9,
-          "btts_home_matches": 8,
-          "over_2_5_goals_home": 7,
-          "over_0_5_ht_home": 7,
-          "over_0_5_ft_home": 9,
-          "clean_sheets_home": 6
-        },
-        "away": {
-          "played": 18,
-          "win": 2,
-          "draw": 6,
-          "lose": 10,
-          "goals": {
-            "for": 14,
-            "against": 33
-          },
-          "form_visitor": "LWLDW",
-          "btts_away_matches": 8,
-          "avg_corners_away_per_game": 3.61,
-          "aproveitamento_away": 22.2,
-          "over_2_5_goals_away": 7,
-          "over_0_5_ht_away": 5,
-          "over_0_5_ft_away": 6,
-          "clean_sheets_away": 4
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1415,7 +1415,7 @@
         "jogador-posicao": "Defender",
         "jogador-gols": 13,
         "jogador-assists": 6,
-        "jogador-partidas": 33,
+        "jogador-partidas": 34,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-mirassol-futebol-clube.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-reinaldo-manoel-da-silva.png"
       },
@@ -1496,7 +1496,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 9,
         "jogador-assists": 0,
-        "jogador-partidas": 26,
+        "jogador-partidas": 27,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ec-vitoria.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-renato-kayzer-de-souza.png"
       },
