@@ -888,6 +888,74 @@
       {
         "rank": 14,
         "team": {
+          "id": 611,
+          "name": "Santos FC Sao Paulo",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-santos-fc-sao-paulo.png"
+        },
+        "points": 44,
+        "goalsDiff": -8,
+        "group": "Brazil Serie A 2025",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 37,
+          "win": 11,
+          "draw": 11,
+          "lose": 15,
+          "goals": {
+            "for": 42,
+            "against": 50
+          },
+          "form": "WDDWW",
+          "btts_matches": 18,
+          "avg_corners_per_game": 4.68,
+          "aproveitamento": 39.6,
+          "over_2_5_goals": 18,
+          "over_0_5_ht": 10,
+          "over_0_5_ft": 20,
+          "clean_sheets": 9
+        },
+        "home": {
+          "played": 18,
+          "win": 7,
+          "draw": 6,
+          "lose": 5,
+          "goals": {
+            "for": 21,
+            "against": 19
+          },
+          "form_home": "LDWDW",
+          "avg_corners_home_per_game": 5.89,
+          "aproveitamento_home": 50.0,
+          "btts_home_matches": 8,
+          "over_2_5_goals_home": 7,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 11,
+          "clean_sheets_home": 7
+        },
+        "away": {
+          "played": 19,
+          "win": 4,
+          "draw": 5,
+          "lose": 10,
+          "goals": {
+            "for": 21,
+            "against": 31
+          },
+          "form_visitor": "DLLDW",
+          "btts_away_matches": 10,
+          "avg_corners_away_per_game": 3.53,
+          "aproveitamento_away": 29.8,
+          "over_2_5_goals_away": 11,
+          "over_0_5_ht_away": 5,
+          "over_0_5_ft_away": 9,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 15,
+        "team": {
           "id": 642,
           "name": "Ceará SC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-ceara-sc.png"
@@ -954,7 +1022,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 15,
+        "rank": 16,
         "team": {
           "id": 2601,
           "name": "Fortaleza EC",
@@ -1022,7 +1090,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 16,
+        "rank": 17,
         "team": {
           "id": 610,
           "name": "EC Vitória",
@@ -1032,7 +1100,7 @@
         "goalsDiff": -18,
         "group": "Brazil Serie A 2025",
         "status": "same",
-        "description": "",
+        "description": "Rebaixamento",
         "all": {
           "played": 37,
           "win": 10,
@@ -1086,74 +1154,6 @@
           "over_0_5_ht_away": 5,
           "over_0_5_ft_away": 6,
           "clean_sheets_away": 4
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 17,
-        "team": {
-          "id": 611,
-          "name": "Santos FC Sao Paulo",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-santos-fc-sao-paulo.png"
-        },
-        "points": 41,
-        "goalsDiff": -11,
-        "group": "Brazil Serie A 2025",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 36,
-          "win": 10,
-          "draw": 11,
-          "lose": 15,
-          "goals": {
-            "for": 39,
-            "against": 50
-          },
-          "form": "LWDDW",
-          "btts_matches": 18,
-          "avg_corners_per_game": 4.72,
-          "aproveitamento": 38.0,
-          "over_2_5_goals": 17,
-          "over_0_5_ht": 10,
-          "over_0_5_ft": 19,
-          "clean_sheets": 8
-        },
-        "home": {
-          "played": 18,
-          "win": 7,
-          "draw": 6,
-          "lose": 5,
-          "goals": {
-            "for": 21,
-            "against": 19
-          },
-          "form_home": "LDWDW",
-          "avg_corners_home_per_game": 5.89,
-          "aproveitamento_home": 50.0,
-          "btts_home_matches": 8,
-          "over_2_5_goals_home": 7,
-          "over_0_5_ht_home": 5,
-          "over_0_5_ft_home": 11,
-          "clean_sheets_home": 7
-        },
-        "away": {
-          "played": 18,
-          "win": 3,
-          "draw": 5,
-          "lose": 10,
-          "goals": {
-            "for": 18,
-            "against": 31
-          },
-          "form_visitor": "LDLLD",
-          "btts_away_matches": 10,
-          "avg_corners_away_per_game": 3.56,
-          "aproveitamento_away": 25.9,
-          "over_2_5_goals_away": 10,
-          "over_0_5_ht_away": 5,
-          "over_0_5_ft_away": 8,
-          "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1233,42 +1233,42 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-ec-juventude.png"
         },
         "points": 34,
-        "goalsDiff": -31,
+        "goalsDiff": -34,
         "group": "Brazil Serie A 2025",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 36,
+          "played": 37,
           "win": 9,
           "draw": 7,
-          "lose": 20,
+          "lose": 21,
           "goals": {
             "for": 34,
-            "against": 65
+            "against": 68
           },
-          "form": "WWDLD",
+          "form": "WDLDL",
           "btts_matches": 16,
-          "avg_corners_per_game": 3.97,
-          "aproveitamento": 31.5,
-          "over_2_5_goals": 17,
+          "avg_corners_per_game": 4.0,
+          "aproveitamento": 30.6,
+          "over_2_5_goals": 18,
           "over_0_5_ht": 15,
           "over_0_5_ft": 14,
           "clean_sheets": 7
         },
         "home": {
-          "played": 18,
+          "played": 19,
           "win": 6,
           "draw": 5,
-          "lose": 7,
+          "lose": 8,
           "goals": {
             "for": 21,
-            "against": 23
+            "against": 26
           },
-          "form_home": "LWLDD",
-          "avg_corners_home_per_game": 4.33,
-          "aproveitamento_home": 42.6,
+          "form_home": "WLDDL",
+          "avg_corners_home_per_game": 4.37,
+          "aproveitamento_home": 40.4,
           "btts_home_matches": 9,
-          "over_2_5_goals_home": 6,
+          "over_2_5_goals_home": 7,
           "over_0_5_ht_home": 11,
           "over_0_5_ft_home": 7,
           "clean_sheets_home": 4
@@ -1496,7 +1496,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 9,
         "jogador-assists": 1,
-        "jogador-partidas": 32,
+        "jogador-partidas": 33,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-santos-fc-sao-paulo.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/argentina-alvaro-barreal.png"
       },
@@ -1523,7 +1523,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 8,
         "jogador-assists": 4,
-        "jogador-partidas": 32,
+        "jogador-partidas": 33,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ec-juventude.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-gabriel-pereira-taliari.png"
       },
@@ -1537,13 +1537,13 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-eduardo-colcenti-antunes.png"
       },
       {
-        "jogador-nome": "Bruno Henrique Pinto",
+        "jogador-nome": "Neymar da Silva Santos Junior",
         "jogador-posicao": "Forward",
         "jogador-gols": 8,
-        "jogador-assists": 0,
-        "jogador-partidas": 31,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-cr-flamengo.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-bruno-henrique-pinto.png"
+        "jogador-assists": 1,
+        "jogador-partidas": 19,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-santos-fc-sao-paulo.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-neymar.png"
       }
     ]
   }
