@@ -76,46 +76,46 @@
           "name": "Rasen Ballsport Leipzig",
           "logo": "https://cdn.footystats.org/img/teams/germany-rasen-ballsport-leipzig.png"
         },
-        "points": 26,
-        "goalsDiff": 9,
+        "points": 29,
+        "goalsDiff": 15,
         "group": "Germany Bundesliga 2025",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 12,
-          "win": 8,
+          "played": 13,
+          "win": 9,
           "draw": 2,
           "lose": 2,
           "goals": {
-            "for": 22,
+            "for": 28,
             "against": 13
           },
-          "form": "WWLWD",
+          "form": "WLWDW",
           "btts_matches": 5,
-          "avg_corners_per_game": 6.33,
-          "aproveitamento": 72.2,
-          "over_2_5_goals": 6,
-          "over_0_5_ht": 8,
-          "over_0_5_ft": 5,
-          "clean_sheets": 6
+          "avg_corners_per_game": 6.15,
+          "aproveitamento": 74.4,
+          "over_2_5_goals": 7,
+          "over_0_5_ht": 9,
+          "over_0_5_ft": 6,
+          "clean_sheets": 7
         },
         "home": {
-          "played": 5,
-          "win": 5,
+          "played": 6,
+          "win": 6,
           "draw": 0,
           "lose": 0,
           "goals": {
-            "for": 12,
+            "for": 18,
             "against": 3
           },
           "form_home": "WWWWW",
-          "avg_corners_home_per_game": 6.8,
+          "avg_corners_home_per_game": 6.33,
           "aproveitamento_home": 100.0,
           "btts_home_matches": 3,
-          "over_2_5_goals_home": 3,
-          "over_0_5_ht_home": 3,
-          "over_0_5_ft_home": 4,
-          "clean_sheets_home": 2
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 5,
+          "clean_sheets_home": 3
         },
         "away": {
           "played": 7,
@@ -417,24 +417,24 @@
           "logo": "https://cdn.footystats.org/img/teams/germany-eintracht-frankfurt.png"
         },
         "points": 21,
-        "goalsDiff": 5,
+        "goalsDiff": -1,
         "group": "Germany Bundesliga 2025",
         "status": "same",
         "description": "",
         "all": {
-          "played": 12,
+          "played": 13,
           "win": 6,
           "draw": 3,
-          "lose": 3,
+          "lose": 4,
           "goals": {
             "for": 28,
-            "against": 23
+            "against": 29
           },
-          "form": "WDWWD",
+          "form": "DWWDL",
           "btts_matches": 9,
-          "avg_corners_per_game": 5.5,
-          "aproveitamento": 58.3,
-          "over_2_5_goals": 8,
+          "avg_corners_per_game": 5.08,
+          "aproveitamento": 53.8,
+          "over_2_5_goals": 9,
           "over_0_5_ht": 7,
           "over_0_5_ft": 10,
           "clean_sheets": 2
@@ -458,19 +458,19 @@
           "clean_sheets_home": 2
         },
         "away": {
-          "played": 6,
+          "played": 7,
           "win": 3,
           "draw": 2,
-          "lose": 1,
+          "lose": 2,
           "goals": {
             "for": 17,
-            "against": 14
+            "against": 20
           },
-          "form_visitor": "LWDDW",
+          "form_visitor": "WDDWL",
           "btts_away_matches": 6,
-          "avg_corners_away_per_game": 5.17,
-          "aproveitamento_away": 61.1,
-          "over_2_5_goals_away": 5,
+          "avg_corners_away_per_game": 4.43,
+          "aproveitamento_away": 52.4,
+          "over_2_5_goals_away": 6,
           "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 5,
           "clean_sheets_away": 0
@@ -1284,6 +1284,24 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/france-michael-olise.png"
       },
       {
+        "jogador-nome": "Christoph Baumgartner",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 6,
+        "jogador-assists": 6,
+        "jogador-partidas": 13,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-rasen-ballsport-leipzig.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/austria-christoph-baumgartner.png"
+      },
+      {
+        "jogador-nome": "Yan Diomande",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 6,
+        "jogador-assists": 3,
+        "jogador-partidas": 13,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-rasen-ballsport-leipzig.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-yan-diomande.png"
+      },
+      {
         "jogador-nome": "Said El Mala",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 6,
@@ -1291,15 +1309,6 @@
         "jogador-partidas": 13,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-1-fc-koln.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-said-el-mala.png"
-      },
-      {
-        "jogador-nome": "Christoph Baumgartner",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 5,
-        "jogador-assists": 4,
-        "jogador-partidas": 12,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-rasen-ballsport-leipzig.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/austria-christoph-baumgartner.png"
       },
       {
         "jogador-nome": "Can Yılmaz Uzun",
@@ -1399,15 +1408,6 @@
         "jogador-partidas": 12,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-bayer-04-leverkusen.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/netherlands-ernest-poku.png"
-      },
-      {
-        "jogador-nome": "Vincenzo Grifo",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 4,
-        "jogador-assists": 1,
-        "jogador-partidas": 13,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-sc-freiburg.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/italy-vincenzo-grifo.png"
       }
     ]
   }
