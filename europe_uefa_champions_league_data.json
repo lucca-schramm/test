@@ -1110,31 +1110,31 @@
             "for": 8,
             "against": 2
           },
-          "form": "WWWWL",
-          "btts_matches": 4,
-          "avg_corners_per_game": 4.6,
+          "form": "WWWLW",
+          "btts_matches": 5,
+          "avg_corners_per_game": 4.5,
           "aproveitamento": 100.0,
-          "over_2_5_goals": 5,
+          "over_2_5_goals": 6,
           "over_0_5_ht": 5,
-          "over_0_5_ft": 3,
+          "over_0_5_ft": 4,
           "clean_sheets": 1
         },
         "home": {
-          "played": 2,
-          "win": 2,
+          "played": 3,
+          "win": 3,
           "draw": 0,
           "lose": 0,
           "goals": {
-            "for": 7,
-            "against": 1
+            "for": 10,
+            "against": 2
           },
-          "form_home": "WW",
-          "avg_corners_home_per_game": 7.5,
+          "form_home": "WWW",
+          "avg_corners_home_per_game": 6.33,
           "aproveitamento_home": 100.0,
-          "btts_home_matches": 1,
-          "over_2_5_goals_home": 2,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 3,
           "over_0_5_ht_home": 2,
-          "over_0_5_ft_home": 2,
+          "over_0_5_ft_home": 3,
           "clean_sheets_home": 1
         },
         "away": {
@@ -2538,13 +2538,13 @@
             "for": 5,
             "against": 3
           },
-          "form": "WLWDW",
-          "btts_matches": 4,
-          "avg_corners_per_game": 3.2,
+          "form": "LWDWL",
+          "btts_matches": 5,
+          "avg_corners_per_game": 3.17,
           "aproveitamento": 50.0,
-          "over_2_5_goals": 4,
+          "over_2_5_goals": 5,
           "over_0_5_ht": 3,
-          "over_0_5_ft": 4,
+          "over_0_5_ft": 5,
           "clean_sheets": 1
         },
         "home": {
@@ -2566,21 +2566,21 @@
           "clean_sheets_home": 1
         },
         "away": {
-          "played": 2,
+          "played": 3,
           "win": 0,
           "draw": 1,
-          "lose": 1,
+          "lose": 2,
           "goals": {
-            "for": 2,
-            "against": 3
+            "for": 3,
+            "against": 6
           },
-          "form_visitor": "LD",
-          "btts_away_matches": 2,
-          "avg_corners_away_per_game": 1.0,
-          "aproveitamento_away": 16.7,
-          "over_2_5_goals_away": 1,
+          "form_visitor": "LDL",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 1.67,
+          "aproveitamento_away": 11.1,
+          "over_2_5_goals_away": 2,
           "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 1,
+          "over_0_5_ft_away": 2,
           "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -5631,7 +5631,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 5,
         "jogador-assists": 0,
-        "jogador-partidas": 5,
+        "jogador-partidas": 6,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-fc-bayern-munchen.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/england-harry-kane.png"
       },
