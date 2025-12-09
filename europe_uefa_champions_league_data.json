@@ -430,9 +430,9 @@
             "for": 8,
             "against": 13
           },
-          "form": "LLDLL",
+          "form": "LDLLL",
           "btts_matches": 4,
-          "avg_corners_per_game": 4.69,
+          "avg_corners_per_game": 4.43,
           "aproveitamento": 40.0,
           "over_2_5_goals": 5,
           "over_0_5_ht": 2,
@@ -440,17 +440,17 @@
           "clean_sheets": 6
         },
         "home": {
-          "played": 6,
+          "played": 7,
           "win": 3,
           "draw": 2,
-          "lose": 1,
+          "lose": 2,
           "goals": {
             "for": 6,
-            "against": 5
+            "against": 6
           },
-          "form_home": "WWDLD",
-          "avg_corners_home_per_game": 6.17,
-          "aproveitamento_home": 61.1,
+          "form_home": "WDLDL",
+          "avg_corners_home_per_game": 5.43,
+          "aproveitamento_home": 52.4,
           "btts_home_matches": 0,
           "over_2_5_goals_home": 2,
           "over_0_5_ht_home": 2,
@@ -4578,14 +4578,14 @@
             "for": 0,
             "against": 2
           },
-          "form": "DLLDL",
+          "form": "LLDLW",
           "btts_matches": 3,
-          "avg_corners_per_game": 4.4,
+          "avg_corners_per_game": 5.0,
           "aproveitamento": 16.7,
           "over_2_5_goals": 2,
           "over_0_5_ht": 2,
-          "over_0_5_ft": 2,
-          "clean_sheets": 1
+          "over_0_5_ft": 3,
+          "clean_sheets": 2
         },
         "home": {
           "played": 3,
@@ -4606,22 +4606,22 @@
           "clean_sheets_home": 1
         },
         "away": {
-          "played": 2,
-          "win": 0,
+          "played": 3,
+          "win": 1,
           "draw": 0,
           "lose": 2,
           "goals": {
-            "for": 1,
+            "for": 2,
             "against": 8
           },
-          "form_visitor": "LL",
+          "form_visitor": "LLW",
           "btts_away_matches": 1,
-          "avg_corners_away_per_game": 3.5,
-          "aproveitamento_away": 0.0,
+          "avg_corners_away_per_game": 5.0,
+          "aproveitamento_away": 33.3,
           "over_2_5_goals_away": 1,
           "over_0_5_ht_away": 0,
-          "over_0_5_ft_away": 1,
-          "clean_sheets_away": 0
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
