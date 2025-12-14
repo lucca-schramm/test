@@ -144,26 +144,26 @@
           "name": "BVB 09 Borussia Dortmund",
           "logo": "https://cdn.footystats.org/img/teams/germany-bvb-09-borussia-dortmund.png"
         },
-        "points": 28,
+        "points": 29,
         "goalsDiff": 12,
         "group": "Germany Bundesliga 2025",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 13,
+          "played": 14,
           "win": 8,
-          "draw": 4,
+          "draw": 5,
           "lose": 1,
           "goals": {
-            "for": 23,
-            "against": 11
+            "for": 24,
+            "against": 12
           },
-          "form": "WDDWW",
-          "btts_matches": 6,
-          "avg_corners_per_game": 5.54,
-          "aproveitamento": 71.8,
+          "form": "DDWWD",
+          "btts_matches": 7,
+          "avg_corners_per_game": 5.14,
+          "aproveitamento": 69.0,
           "over_2_5_goals": 5,
-          "over_0_5_ht": 10,
+          "over_0_5_ht": 11,
           "over_0_5_ft": 8,
           "clean_sheets": 7
         },
@@ -186,20 +186,20 @@
           "clean_sheets_home": 4
         },
         "away": {
-          "played": 7,
+          "played": 8,
           "win": 4,
-          "draw": 2,
+          "draw": 3,
           "lose": 1,
           "goals": {
-            "for": 12,
-            "against": 7
+            "for": 13,
+            "against": 8
           },
-          "form_visitor": "WLWDW",
-          "btts_away_matches": 4,
-          "avg_corners_away_per_game": 3.71,
-          "aproveitamento_away": 66.7,
+          "form_visitor": "LWDWD",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 3.25,
+          "aproveitamento_away": 62.5,
           "over_2_5_goals_away": 3,
-          "over_0_5_ht_away": 5,
+          "over_0_5_ht_away": 6,
           "over_0_5_ft_away": 4,
           "clean_sheets_away": 3
         },
@@ -548,6 +548,74 @@
       {
         "rank": 9,
         "team": {
+          "id": 42,
+          "name": "SC Freiburg",
+          "logo": "https://cdn.footystats.org/img/teams/germany-sc-freiburg.png"
+        },
+        "points": 17,
+        "goalsDiff": -2,
+        "group": "Germany Bundesliga 2025",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 14,
+          "win": 4,
+          "draw": 5,
+          "lose": 5,
+          "goals": {
+            "for": 21,
+            "against": 23
+          },
+          "form": "WLWLD",
+          "btts_matches": 9,
+          "avg_corners_per_game": 4.79,
+          "aproveitamento": 40.5,
+          "over_2_5_goals": 9,
+          "over_0_5_ht": 7,
+          "over_0_5_ft": 8,
+          "clean_sheets": 4
+        },
+        "home": {
+          "played": 7,
+          "win": 3,
+          "draw": 3,
+          "lose": 1,
+          "goals": {
+            "for": 14,
+            "against": 9
+          },
+          "form_home": "DDWWD",
+          "avg_corners_home_per_game": 6.0,
+          "aproveitamento_home": 57.1,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 6,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 7,
+          "win": 1,
+          "draw": 2,
+          "lose": 4,
+          "goals": {
+            "for": 7,
+            "against": 14
+          },
+          "form_visitor": "DLDLL",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 3.57,
+          "aproveitamento_away": 23.8,
+          "over_2_5_goals_away": 4,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 10,
+        "team": {
           "id": 41,
           "name": "1. FC Köln",
           "logo": "https://cdn.footystats.org/img/teams/germany-1-fc-koln.png"
@@ -610,74 +678,6 @@
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 4,
           "clean_sheets_away": 2
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 10,
-        "team": {
-          "id": 42,
-          "name": "SC Freiburg",
-          "logo": "https://cdn.footystats.org/img/teams/germany-sc-freiburg.png"
-        },
-        "points": 16,
-        "goalsDiff": -2,
-        "group": "Germany Bundesliga 2025",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 13,
-          "win": 4,
-          "draw": 4,
-          "lose": 5,
-          "goals": {
-            "for": 20,
-            "against": 22
-          },
-          "form": "DWLWL",
-          "btts_matches": 8,
-          "avg_corners_per_game": 4.69,
-          "aproveitamento": 41.0,
-          "over_2_5_goals": 9,
-          "over_0_5_ht": 7,
-          "over_0_5_ft": 7,
-          "clean_sheets": 4
-        },
-        "home": {
-          "played": 6,
-          "win": 3,
-          "draw": 2,
-          "lose": 1,
-          "goals": {
-            "for": 13,
-            "against": 8
-          },
-          "form_home": "WDDWW",
-          "avg_corners_home_per_game": 6.0,
-          "aproveitamento_home": 61.1,
-          "btts_home_matches": 5,
-          "over_2_5_goals_home": 5,
-          "over_0_5_ht_home": 4,
-          "over_0_5_ft_home": 5,
-          "clean_sheets_home": 1
-        },
-        "away": {
-          "played": 7,
-          "win": 1,
-          "draw": 2,
-          "lose": 4,
-          "goals": {
-            "for": 7,
-            "against": 14
-          },
-          "form_visitor": "DLDLL",
-          "btts_away_matches": 3,
-          "avg_corners_away_per_game": 3.57,
-          "aproveitamento_away": 23.8,
-          "over_2_5_goals_away": 4,
-          "over_0_5_ht_away": 3,
-          "over_0_5_ft_away": 2,
-          "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1378,7 +1378,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 5,
         "jogador-assists": 1,
-        "jogador-partidas": 12,
+        "jogador-partidas": 13,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-bvb-09-borussia-dortmund.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/france-sehrou-guirassy.png"
       },
