@@ -344,6 +344,74 @@
       {
         "rank": 6,
         "team": {
+          "id": 51,
+          "name": "VfB Stuttgart 1893",
+          "logo": "https://cdn.footystats.org/img/teams/germany-vfb-stuttgart-1893.png"
+        },
+        "points": 25,
+        "goalsDiff": 3,
+        "group": "Germany Bundesliga 2025",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 14,
+          "win": 8,
+          "draw": 1,
+          "lose": 5,
+          "goals": {
+            "for": 25,
+            "against": 22
+          },
+          "form": "WDLLW",
+          "btts_matches": 8,
+          "avg_corners_per_game": 5.79,
+          "aproveitamento": 59.5,
+          "over_2_5_goals": 11,
+          "over_0_5_ht": 7,
+          "over_0_5_ft": 12,
+          "clean_sheets": 5
+        },
+        "home": {
+          "played": 6,
+          "win": 5,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 9,
+            "against": 8
+          },
+          "form_home": "WWWWL",
+          "avg_corners_home_per_game": 4.83,
+          "aproveitamento_home": 83.3,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 5,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 8,
+          "win": 3,
+          "draw": 1,
+          "lose": 4,
+          "goals": {
+            "for": 16,
+            "against": 14
+          },
+          "form_visitor": "WLDLW",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 6.5,
+          "aproveitamento_away": 41.7,
+          "over_2_5_goals_away": 8,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 7,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 7,
+        "team": {
           "id": 44,
           "name": "Eintracht Frankfurt",
           "logo": "https://cdn.footystats.org/img/teams/germany-eintracht-frankfurt.png"
@@ -352,7 +420,7 @@
         "goalsDiff": 0,
         "group": "Germany Bundesliga 2025",
         "status": "same",
-        "description": "Copa Sul-Americana",
+        "description": "",
         "all": {
           "played": 14,
           "win": 7,
@@ -406,74 +474,6 @@
           "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 5,
           "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 7,
-        "team": {
-          "id": 51,
-          "name": "VfB Stuttgart 1893",
-          "logo": "https://cdn.footystats.org/img/teams/germany-vfb-stuttgart-1893.png"
-        },
-        "points": 22,
-        "goalsDiff": -1,
-        "group": "Germany Bundesliga 2025",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 13,
-          "win": 7,
-          "draw": 1,
-          "lose": 5,
-          "goals": {
-            "for": 21,
-            "against": 22
-          },
-          "form": "LWDLL",
-          "btts_matches": 8,
-          "avg_corners_per_game": 5.54,
-          "aproveitamento": 56.4,
-          "over_2_5_goals": 10,
-          "over_0_5_ht": 6,
-          "over_0_5_ft": 11,
-          "clean_sheets": 4
-        },
-        "home": {
-          "played": 6,
-          "win": 5,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 9,
-            "against": 8
-          },
-          "form_home": "WWWWL",
-          "avg_corners_home_per_game": 4.83,
-          "aproveitamento_home": 83.3,
-          "btts_home_matches": 2,
-          "over_2_5_goals_home": 3,
-          "over_0_5_ht_home": 3,
-          "over_0_5_ft_home": 5,
-          "clean_sheets_home": 3
-        },
-        "away": {
-          "played": 7,
-          "win": 2,
-          "draw": 1,
-          "lose": 4,
-          "goals": {
-            "for": 12,
-            "against": 14
-          },
-          "form_visitor": "WWLDL",
-          "btts_away_matches": 6,
-          "avg_corners_away_per_game": 6.14,
-          "aproveitamento_away": 33.3,
-          "over_2_5_goals_away": 7,
-          "over_0_5_ht_away": 3,
-          "over_0_5_ft_away": 6,
-          "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -757,42 +757,42 @@
           "logo": "https://cdn.footystats.org/img/teams/germany-sv-werder-bremen.png"
         },
         "points": 16,
-        "goalsDiff": -6,
+        "goalsDiff": -10,
         "group": "Germany Bundesliga 2025",
         "status": "same",
         "description": "",
         "all": {
-          "played": 13,
+          "played": 14,
           "win": 4,
           "draw": 4,
-          "lose": 5,
+          "lose": 6,
           "goals": {
             "for": 18,
-            "against": 24
+            "against": 28
           },
-          "form": "DWLDL",
+          "form": "WLDLL",
           "btts_matches": 7,
-          "avg_corners_per_game": 4.15,
-          "aproveitamento": 41.0,
-          "over_2_5_goals": 8,
+          "avg_corners_per_game": 3.86,
+          "aproveitamento": 38.1,
+          "over_2_5_goals": 9,
           "over_0_5_ht": 5,
           "over_0_5_ft": 8,
           "clean_sheets": 3
         },
         "home": {
-          "played": 6,
+          "played": 7,
           "win": 3,
           "draw": 2,
-          "lose": 1,
+          "lose": 2,
           "goals": {
             "for": 8,
-            "against": 8
+            "against": 12
           },
-          "form_home": "LWWWD",
-          "avg_corners_home_per_game": 5.17,
-          "aproveitamento_home": 61.1,
+          "form_home": "WWWDL",
+          "avg_corners_home_per_game": 4.43,
+          "aproveitamento_home": 52.4,
           "btts_home_matches": 3,
-          "over_2_5_goals_home": 3,
+          "over_2_5_goals_home": 4,
           "over_0_5_ht_home": 3,
           "over_0_5_ft_home": 3,
           "clean_sheets_home": 2
@@ -1248,6 +1248,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/germany-jonathan-burkardt.png"
       },
       {
+        "jogador-nome": "Deniz Undav",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 8,
+        "jogador-assists": 0,
+        "jogador-partidas": 9,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-vfb-stuttgart-1893.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/germany-deniz-undav.png"
+      },
+      {
         "jogador-nome": "Luis Fernando Díaz Marulanda",
         "jogador-posicao": "Forward",
         "jogador-gols": 7,
@@ -1264,15 +1273,6 @@
         "jogador-partidas": 13,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-borussia-vfl-monchengladbach.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/switzerland-haris-tabakovic.png"
-      },
-      {
-        "jogador-nome": "Deniz Undav",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 7,
-        "jogador-assists": 0,
-        "jogador-partidas": 8,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-vfb-stuttgart-1893.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/germany-deniz-undav.png"
       },
       {
         "jogador-nome": "Michael Akpovie Olise",
@@ -1387,7 +1387,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 5,
         "jogador-assists": 1,
-        "jogador-partidas": 11,
+        "jogador-partidas": 12,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-sv-werder-bremen.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/denmark-jens-stage.png"
       },
