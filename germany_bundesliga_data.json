@@ -140,9 +140,9 @@
       {
         "rank": 3,
         "team": {
-          "id": 46,
-          "name": "Rasen Ballsport Leipzig",
-          "logo": "https://cdn.footystats.org/img/teams/germany-rasen-ballsport-leipzig.png"
+          "id": 40,
+          "name": "Bayer 04 Leverkusen",
+          "logo": "https://cdn.footystats.org/img/teams/germany-bayer-04-leverkusen.png"
         },
         "points": 29,
         "goalsDiff": 13,
@@ -150,38 +150,106 @@
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 14,
+          "played": 15,
           "win": 9,
           "draw": 2,
-          "lose": 3,
+          "lose": 4,
           "goals": {
-            "for": 29,
-            "against": 16
+            "for": 33,
+            "against": 20
           },
-          "form": "LWDWL",
-          "btts_matches": 6,
-          "avg_corners_per_game": 6.14,
-          "aproveitamento": 69.0,
-          "over_2_5_goals": 8,
-          "over_0_5_ht": 9,
+          "form": "WLLWW",
+          "btts_matches": 9,
+          "avg_corners_per_game": 5.27,
+          "aproveitamento": 64.4,
+          "over_2_5_goals": 10,
+          "over_0_5_ht": 10,
+          "over_0_5_ft": 11,
+          "clean_sheets": 4
+        },
+        "home": {
+          "played": 8,
+          "win": 5,
+          "draw": 1,
+          "lose": 2,
+          "goals": {
+            "for": 18,
+            "against": 6
+          },
+          "form_home": "WWWLW",
+          "avg_corners_home_per_game": 6.0,
+          "aproveitamento_home": 66.7,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 7,
+          "clean_sheets_home": 4
+        },
+        "away": {
+          "played": 7,
+          "win": 4,
+          "draw": 1,
+          "lose": 2,
+          "goals": {
+            "for": 15,
+            "against": 14
+          },
+          "form_visitor": "WLWLW",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 4.43,
+          "aproveitamento_away": 61.9,
+          "over_2_5_goals_away": 6,
+          "over_0_5_ht_away": 5,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 4,
+        "team": {
+          "id": 46,
+          "name": "Rasen Ballsport Leipzig",
+          "logo": "https://cdn.footystats.org/img/teams/germany-rasen-ballsport-leipzig.png"
+        },
+        "points": 29,
+        "goalsDiff": 11,
+        "group": "Germany Bundesliga 2025",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 15,
+          "win": 9,
+          "draw": 2,
+          "lose": 4,
+          "goals": {
+            "for": 30,
+            "against": 19
+          },
+          "form": "WDWLL",
+          "btts_matches": 7,
+          "avg_corners_per_game": 5.87,
+          "aproveitamento": 64.4,
+          "over_2_5_goals": 9,
+          "over_0_5_ht": 10,
           "over_0_5_ft": 7,
           "clean_sheets": 7
         },
         "home": {
-          "played": 6,
+          "played": 7,
           "win": 6,
           "draw": 0,
-          "lose": 0,
+          "lose": 1,
           "goals": {
-            "for": 18,
-            "against": 3
+            "for": 19,
+            "against": 6
           },
-          "form_home": "WWWWW",
-          "avg_corners_home_per_game": 6.33,
-          "aproveitamento_home": 100.0,
-          "btts_home_matches": 3,
-          "over_2_5_goals_home": 4,
-          "over_0_5_ht_home": 4,
+          "form_home": "WWWWL",
+          "avg_corners_home_per_game": 5.71,
+          "aproveitamento_home": 85.7,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 5,
           "over_0_5_ft_home": 5,
           "clean_sheets_home": 3
         },
@@ -206,7 +274,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "team": {
           "id": 49,
           "name": "TSG 1899 Hoffenheim",
@@ -216,7 +284,7 @@
         "goalsDiff": 9,
         "group": "Germany Bundesliga 2025",
         "status": "same",
-        "description": "Copa Libertadores",
+        "description": "Copa Sul-Americana",
         "all": {
           "played": 15,
           "win": 8,
@@ -270,74 +338,6 @@
           "over_0_5_ht_away": 5,
           "over_0_5_ft_away": 4,
           "clean_sheets_away": 2
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 5,
-        "team": {
-          "id": 40,
-          "name": "Bayer 04 Leverkusen",
-          "logo": "https://cdn.footystats.org/img/teams/germany-bayer-04-leverkusen.png"
-        },
-        "points": 26,
-        "goalsDiff": 11,
-        "group": "Germany Bundesliga 2025",
-        "status": "same",
-        "description": "Copa Sul-Americana",
-        "all": {
-          "played": 14,
-          "win": 8,
-          "draw": 2,
-          "lose": 4,
-          "goals": {
-            "for": 30,
-            "against": 19
-          },
-          "form": "WWLLW",
-          "btts_matches": 8,
-          "avg_corners_per_game": 5.07,
-          "aproveitamento": 61.9,
-          "over_2_5_goals": 9,
-          "over_0_5_ht": 9,
-          "over_0_5_ft": 10,
-          "clean_sheets": 4
-        },
-        "home": {
-          "played": 8,
-          "win": 5,
-          "draw": 1,
-          "lose": 2,
-          "goals": {
-            "for": 18,
-            "against": 6
-          },
-          "form_home": "WWWLW",
-          "avg_corners_home_per_game": 6.0,
-          "aproveitamento_home": 66.7,
-          "btts_home_matches": 4,
-          "over_2_5_goals_home": 4,
-          "over_0_5_ht_home": 5,
-          "over_0_5_ft_home": 7,
-          "clean_sheets_home": 4
-        },
-        "away": {
-          "played": 6,
-          "win": 3,
-          "draw": 1,
-          "lose": 2,
-          "goals": {
-            "for": 12,
-            "against": 13
-          },
-          "form_visitor": "WWLWL",
-          "btts_away_matches": 4,
-          "avg_corners_away_per_game": 3.83,
-          "aproveitamento_away": 55.6,
-          "over_2_5_goals_away": 5,
-          "over_0_5_ht_away": 4,
-          "over_0_5_ft_away": 3,
-          "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1287,8 +1287,8 @@
         "jogador-nome": "Christoph Baumgartner",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 6,
-        "jogador-assists": 6,
-        "jogador-partidas": 14,
+        "jogador-assists": 7,
+        "jogador-partidas": 15,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-rasen-ballsport-leipzig.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/austria-christoph-baumgartner.png"
       },
@@ -1311,6 +1311,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/-said-el-mala.png"
       },
       {
+        "jogador-nome": "Patrik Schick",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 6,
+        "jogador-assists": 2,
+        "jogador-partidas": 12,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-bayer-04-leverkusen.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/czech-republic-patrik-schick.png"
+      },
+      {
         "jogador-nome": "Fisnik Asllani",
         "jogador-posicao": "Forward",
         "jogador-gols": 6,
@@ -1327,15 +1336,6 @@
         "jogador-partidas": 11,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-eintracht-frankfurt.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-can-yılmaz-uzun.png"
-      },
-      {
-        "jogador-nome": "Patrik Schick",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 5,
-        "jogador-assists": 2,
-        "jogador-partidas": 11,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-bayer-04-leverkusen.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/czech-republic-patrik-schick.png"
       },
       {
         "jogador-nome": "Mohamed El Amine Amoura",
