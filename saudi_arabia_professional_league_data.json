@@ -8,46 +8,46 @@
           "name": "Al Nassr FC",
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-nassr-fc.png"
         },
-        "points": 27,
-        "goalsDiff": 25,
+        "points": 30,
+        "goalsDiff": 28,
         "group": "Saudi Arabia Professional League 2025",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 9,
-          "win": 9,
+          "played": 10,
+          "win": 10,
           "draw": 0,
           "lose": 0,
           "goals": {
-            "for": 30,
+            "for": 33,
             "against": 5
           },
           "form": "WWWWW",
           "btts_matches": 5,
-          "avg_corners_per_game": 7.89,
+          "avg_corners_per_game": 7.9,
           "aproveitamento": 100.0,
-          "over_2_5_goals": 6,
-          "over_0_5_ht": 7,
-          "over_0_5_ft": 8,
-          "clean_sheets": 4
+          "over_2_5_goals": 7,
+          "over_0_5_ht": 8,
+          "over_0_5_ft": 9,
+          "clean_sheets": 5
         },
         "home": {
-          "played": 5,
-          "win": 5,
+          "played": 6,
+          "win": 6,
           "draw": 0,
           "lose": 0,
           "goals": {
-            "for": 18,
+            "for": 21,
             "against": 4
           },
           "form_home": "WWWWW",
-          "avg_corners_home_per_game": 9.4,
+          "avg_corners_home_per_game": 9.17,
           "aproveitamento_home": 100.0,
           "btts_home_matches": 4,
-          "over_2_5_goals_home": 4,
-          "over_0_5_ht_home": 4,
-          "over_0_5_ft_home": 5,
-          "clean_sheets_home": 1
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 6,
+          "clean_sheets_home": 2
         },
         "away": {
           "played": 4,
@@ -1097,24 +1097,24 @@
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-akhdoud.png"
         },
         "points": 5,
-        "goalsDiff": -9,
+        "goalsDiff": -12,
         "group": "Saudi Arabia Professional League 2025",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 9,
+          "played": 10,
           "win": 1,
           "draw": 2,
-          "lose": 6,
+          "lose": 7,
           "goals": {
             "for": 9,
-            "against": 18
+            "against": 21
           },
-          "form": "LDWLD",
+          "form": "DWLDL",
           "btts_matches": 6,
-          "avg_corners_per_game": 4.33,
-          "aproveitamento": 18.5,
-          "over_2_5_goals": 5,
+          "avg_corners_per_game": 4.4,
+          "aproveitamento": 16.7,
+          "over_2_5_goals": 6,
           "over_0_5_ht": 6,
           "over_0_5_ft": 3,
           "clean_sheets": 1
@@ -1138,19 +1138,19 @@
           "clean_sheets_home": 0
         },
         "away": {
-          "played": 4,
+          "played": 5,
           "win": 0,
           "draw": 1,
-          "lose": 3,
+          "lose": 4,
           "goals": {
             "for": 1,
-            "against": 6
+            "against": 9
           },
-          "form_visitor": "LLDL",
+          "form_visitor": "LLDLL",
           "btts_away_matches": 1,
-          "avg_corners_away_per_game": 3.0,
-          "aproveitamento_away": 8.3,
-          "over_2_5_goals_away": 1,
+          "avg_corners_away_per_game": 3.4,
+          "aproveitamento_away": 6.7,
+          "over_2_5_goals_away": 2,
           "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 0,
           "clean_sheets_away": 1
@@ -1232,11 +1232,20 @@
       {
         "jogador-nome": "João Félix Sequeira",
         "jogador-posicao": "Forward",
-        "jogador-gols": 11,
+        "jogador-gols": 12,
         "jogador-assists": 2,
-        "jogador-partidas": 9,
+        "jogador-partidas": 10,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-nassr-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/portugal-joao-felix.png"
+      },
+      {
+        "jogador-nome": "Cristiano Ronaldo dos Santos Aveiro",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 12,
+        "jogador-assists": 1,
+        "jogador-partidas": 10,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-nassr-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/portugal-cristiano-ronaldo.png"
       },
       {
         "jogador-nome": "Joshua Christian Kojo King",
@@ -1246,15 +1255,6 @@
         "jogador-partidas": 9,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-khaleej-saihat.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/norway-joshua-king.png"
-      },
-      {
-        "jogador-nome": "Cristiano Ronaldo dos Santos Aveiro",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 10,
-        "jogador-assists": 1,
-        "jogador-partidas": 9,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-nassr-fc.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/portugal-cristiano-ronaldo.png"
       },
       {
         "jogador-nome": "Roger Beyker Martínez Tobinson",
