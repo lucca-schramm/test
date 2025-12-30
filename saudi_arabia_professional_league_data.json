@@ -212,46 +212,46 @@
           "name": "Al Ahli SC Jeddah",
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-ahli-sc-jeddah.png"
         },
-        "points": 19,
-        "goalsDiff": 5,
+        "points": 22,
+        "goalsDiff": 7,
         "group": "Saudi Arabia Professional League 2025",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 10,
-          "win": 5,
+          "played": 11,
+          "win": 6,
           "draw": 4,
           "lose": 1,
           "goals": {
-            "for": 13,
+            "for": 15,
             "against": 8
           },
-          "form": "WDWWL",
+          "form": "DWWLW",
           "btts_matches": 5,
-          "avg_corners_per_game": 5.8,
-          "aproveitamento": 63.3,
+          "avg_corners_per_game": 5.64,
+          "aproveitamento": 66.7,
           "over_2_5_goals": 3,
-          "over_0_5_ht": 5,
-          "over_0_5_ft": 5,
-          "clean_sheets": 5
+          "over_0_5_ht": 6,
+          "over_0_5_ft": 6,
+          "clean_sheets": 6
         },
         "home": {
-          "played": 5,
-          "win": 2,
+          "played": 6,
+          "win": 3,
           "draw": 3,
           "lose": 0,
           "goals": {
-            "for": 8,
+            "for": 10,
             "against": 6
           },
-          "form_home": "WDDDW",
-          "avg_corners_home_per_game": 5.8,
-          "aproveitamento_home": 60.0,
+          "form_home": "DDDWW",
+          "avg_corners_home_per_game": 5.5,
+          "aproveitamento_home": 66.7,
           "btts_home_matches": 4,
           "over_2_5_goals_home": 2,
-          "over_0_5_ht_home": 3,
-          "over_0_5_ft_home": 3,
-          "clean_sheets_home": 1
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 2
         },
         "away": {
           "played": 5,
@@ -689,23 +689,23 @@
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-feiha.png"
         },
         "points": 12,
-        "goalsDiff": -2,
+        "goalsDiff": -4,
         "group": "Saudi Arabia Professional League 2025",
         "status": "same",
         "description": "",
         "all": {
-          "played": 10,
+          "played": 11,
           "win": 3,
           "draw": 3,
-          "lose": 4,
+          "lose": 5,
           "goals": {
             "for": 11,
-            "against": 13
+            "against": 15
           },
-          "form": "LLWLD",
+          "form": "LWLDL",
           "btts_matches": 6,
-          "avg_corners_per_game": 5.7,
-          "aproveitamento": 40.0,
+          "avg_corners_per_game": 5.45,
+          "aproveitamento": 36.4,
           "over_2_5_goals": 6,
           "over_0_5_ht": 3,
           "over_0_5_ft": 4,
@@ -730,18 +730,18 @@
           "clean_sheets_home": 3
         },
         "away": {
-          "played": 5,
+          "played": 6,
           "win": 2,
           "draw": 0,
-          "lose": 3,
+          "lose": 4,
           "goals": {
             "for": 7,
-            "against": 10
+            "against": 12
           },
-          "form_visitor": "WLWLL",
+          "form_visitor": "LWLLL",
           "btts_away_matches": 4,
-          "avg_corners_away_per_game": 6.2,
-          "aproveitamento_away": 40.0,
+          "avg_corners_away_per_game": 5.67,
+          "aproveitamento_away": 33.3,
           "over_2_5_goals_away": 5,
           "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 2,
@@ -1302,6 +1302,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/colombia-julian-andres-quinones-quinones.png"
       },
       {
+        "jogador-nome": "Ivan Toney",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 6,
+        "jogador-assists": 0,
+        "jogador-partidas": 10,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-ahli-sc-jeddah.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/england-ivan-toney.png"
+      },
+      {
         "jogador-nome": "Valentín Vada",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 5,
@@ -1345,15 +1354,6 @@
         "jogador-partidas": 11,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-fateh-sc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/argentina-matias-ezequiel-vargas-martin.png"
-      },
-      {
-        "jogador-nome": "Ivan Toney",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 5,
-        "jogador-assists": 0,
-        "jogador-partidas": 9,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-ahli-sc-jeddah.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/england-ivan-toney.png"
       },
       {
         "jogador-nome": "Konstantinos Fortounis",
