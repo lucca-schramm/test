@@ -9,25 +9,25 @@
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-nassr-fc.png"
         },
         "points": 31,
-        "goalsDiff": 28,
+        "goalsDiff": 27,
         "group": "Saudi Arabia Professional League 2025",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 11,
+          "played": 12,
           "win": 10,
           "draw": 1,
-          "lose": 0,
+          "lose": 1,
           "goals": {
-            "for": 35,
-            "against": 7
+            "for": 37,
+            "against": 10
           },
-          "form": "WWWWD",
-          "btts_matches": 6,
-          "avg_corners_per_game": 8.64,
-          "aproveitamento": 93.9,
-          "over_2_5_goals": 8,
-          "over_0_5_ht": 8,
+          "form": "WWWDL",
+          "btts_matches": 7,
+          "avg_corners_per_game": 8.25,
+          "aproveitamento": 86.1,
+          "over_2_5_goals": 9,
+          "over_0_5_ht": 9,
           "over_0_5_ft": 10,
           "clean_sheets": 5
         },
@@ -50,20 +50,20 @@
           "clean_sheets_home": 2
         },
         "away": {
-          "played": 5,
+          "played": 6,
           "win": 4,
           "draw": 1,
-          "lose": 0,
+          "lose": 1,
           "goals": {
-            "for": 14,
-            "against": 3
+            "for": 16,
+            "against": 6
           },
-          "form_visitor": "WWWWD",
-          "btts_away_matches": 2,
-          "avg_corners_away_per_game": 8.0,
-          "aproveitamento_away": 86.7,
-          "over_2_5_goals_away": 3,
-          "over_0_5_ht_away": 3,
+          "form_visitor": "WWWDL",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 7.33,
+          "aproveitamento_away": 72.2,
+          "over_2_5_goals_away": 4,
+          "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 4,
           "clean_sheets_away": 3
         },
@@ -212,45 +212,45 @@
           "name": "Al Ahli SC Jeddah",
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-ahli-sc-jeddah.png"
         },
-        "points": 22,
-        "goalsDiff": 7,
+        "points": 25,
+        "goalsDiff": 8,
         "group": "Saudi Arabia Professional League 2025",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 11,
-          "win": 6,
+          "played": 12,
+          "win": 7,
           "draw": 4,
           "lose": 1,
           "goals": {
-            "for": 15,
-            "against": 8
+            "for": 18,
+            "against": 10
           },
-          "form": "DWWLW",
-          "btts_matches": 5,
-          "avg_corners_per_game": 5.64,
-          "aproveitamento": 66.7,
-          "over_2_5_goals": 3,
-          "over_0_5_ht": 6,
-          "over_0_5_ft": 6,
+          "form": "WWLWW",
+          "btts_matches": 6,
+          "avg_corners_per_game": 5.42,
+          "aproveitamento": 69.4,
+          "over_2_5_goals": 4,
+          "over_0_5_ht": 7,
+          "over_0_5_ft": 7,
           "clean_sheets": 6
         },
         "home": {
-          "played": 6,
-          "win": 3,
+          "played": 7,
+          "win": 4,
           "draw": 3,
           "lose": 0,
           "goals": {
-            "for": 10,
-            "against": 6
+            "for": 13,
+            "against": 8
           },
-          "form_home": "DDDWW",
-          "avg_corners_home_per_game": 5.5,
-          "aproveitamento_home": 66.7,
-          "btts_home_matches": 4,
-          "over_2_5_goals_home": 2,
-          "over_0_5_ht_home": 4,
-          "over_0_5_ft_home": 4,
+          "form_home": "DDWWW",
+          "avg_corners_home_per_game": 5.14,
+          "aproveitamento_home": 71.4,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 5,
           "clean_sheets_home": 2
         },
         "away": {
@@ -1234,7 +1234,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 13,
         "jogador-assists": 3,
-        "jogador-partidas": 11,
+        "jogador-partidas": 12,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-nassr-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/portugal-joao-felix.png"
       },
@@ -1243,7 +1243,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 13,
         "jogador-assists": 1,
-        "jogador-partidas": 11,
+        "jogador-partidas": 12,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-nassr-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/portugal-cristiano-ronaldo.png"
       },
@@ -1264,6 +1264,15 @@
         "jogador-partidas": 12,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-ittifaq-fc-dammam.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/netherlands-georginio-wijnaldum.png"
+      },
+      {
+        "jogador-nome": "Ivan Toney",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 8,
+        "jogador-assists": 1,
+        "jogador-partidas": 11,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-ahli-sc-jeddah.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/england-ivan-toney.png"
       },
       {
         "jogador-nome": "Roger Beyker Martínez Tobinson",
@@ -1327,15 +1336,6 @@
         "jogador-partidas": 11,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-riyadh-sc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/senegal-mamadou-sylla-diallo.png"
-      },
-      {
-        "jogador-nome": "Ivan Toney",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 6,
-        "jogador-assists": 0,
-        "jogador-partidas": 10,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-ahli-sc-jeddah.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/england-ivan-toney.png"
       },
       {
         "jogador-nome": "Steven Bergwijn",
