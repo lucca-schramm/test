@@ -552,27 +552,27 @@
           "name": "Al Khaleej Saihat",
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-khaleej-saihat.png"
         },
-        "points": 14,
+        "points": 15,
         "goalsDiff": 5,
         "group": "Saudi Arabia Professional League 2025",
         "status": "same",
         "description": "",
         "all": {
-          "played": 11,
+          "played": 12,
           "win": 4,
-          "draw": 2,
+          "draw": 3,
           "lose": 5,
           "goals": {
-            "for": 24,
-            "against": 19
+            "for": 26,
+            "against": 21
           },
-          "form": "DWLLL",
-          "btts_matches": 8,
-          "avg_corners_per_game": 4.09,
-          "aproveitamento": 42.4,
-          "over_2_5_goals": 8,
+          "form": "WLLLD",
+          "btts_matches": 9,
+          "avg_corners_per_game": 4.17,
+          "aproveitamento": 41.7,
+          "over_2_5_goals": 9,
           "over_0_5_ht": 6,
-          "over_0_5_ft": 8,
+          "over_0_5_ft": 9,
           "clean_sheets": 1
         },
         "home": {
@@ -594,21 +594,21 @@
           "clean_sheets_home": 1
         },
         "away": {
-          "played": 6,
+          "played": 7,
           "win": 2,
-          "draw": 1,
+          "draw": 2,
           "lose": 3,
           "goals": {
-            "for": 13,
-            "against": 12
+            "for": 15,
+            "against": 14
           },
-          "form_visitor": "LDWLL",
-          "btts_away_matches": 6,
-          "avg_corners_away_per_game": 4.0,
-          "aproveitamento_away": 38.9,
-          "over_2_5_goals_away": 5,
+          "form_visitor": "DWLLD",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 4.14,
+          "aproveitamento_away": 38.1,
+          "over_2_5_goals_away": 6,
           "over_0_5_ht_away": 3,
-          "over_0_5_ft_away": 5,
+          "over_0_5_ft_away": 6,
           "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1164,45 +1164,45 @@
           "name": "Al Najma Club Saudi Arabia",
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-najma-club-saudi-arabia.png"
         },
-        "points": 1,
+        "points": 2,
         "goalsDiff": -15,
         "group": "Saudi Arabia Professional League 2025",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 11,
+          "played": 12,
           "win": 0,
-          "draw": 1,
+          "draw": 2,
           "lose": 10,
           "goals": {
-            "for": 8,
-            "against": 23
+            "for": 10,
+            "against": 25
           },
-          "form": "LLDLL",
-          "btts_matches": 7,
-          "avg_corners_per_game": 3.27,
-          "aproveitamento": 3.0,
-          "over_2_5_goals": 7,
+          "form": "LDLLD",
+          "btts_matches": 8,
+          "avg_corners_per_game": 3.42,
+          "aproveitamento": 5.6,
+          "over_2_5_goals": 8,
           "over_0_5_ht": 2,
-          "over_0_5_ft": 6,
+          "over_0_5_ft": 7,
           "clean_sheets": 1
         },
         "home": {
-          "played": 4,
+          "played": 5,
           "win": 0,
-          "draw": 0,
+          "draw": 1,
           "lose": 4,
           "goals": {
-            "for": 3,
-            "against": 8
+            "for": 5,
+            "against": 10
           },
-          "form_home": "LLLL",
-          "avg_corners_home_per_game": 2.75,
-          "aproveitamento_home": 0.0,
-          "btts_home_matches": 2,
-          "over_2_5_goals_home": 2,
+          "form_home": "LLLLD",
+          "avg_corners_home_per_game": 3.2,
+          "aproveitamento_home": 6.7,
+          "btts_home_matches": 3,
+          "over_2_5_goals_home": 3,
           "over_0_5_ht_home": 1,
-          "over_0_5_ft_home": 2,
+          "over_0_5_ft_home": 3,
           "clean_sheets_home": 0
         },
         "away": {
@@ -1250,9 +1250,9 @@
       {
         "jogador-nome": "Joshua Christian Kojo King",
         "jogador-posicao": "Forward",
-        "jogador-gols": 10,
+        "jogador-gols": 11,
         "jogador-assists": 1,
-        "jogador-partidas": 10,
+        "jogador-partidas": 11,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-khaleej-saihat.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/norway-joshua-king.png"
       },
@@ -1356,6 +1356,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/belgium-yannick-carrasco.png"
       },
       {
+        "jogador-nome": "Giorgos Masouras",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 5,
+        "jogador-assists": 1,
+        "jogador-partidas": 12,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-khaleej-saihat.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/greece-giorgos-masouras.png"
+      },
+      {
         "jogador-nome": "Theo Bernard François Hernández",
         "jogador-posicao": "Defender",
         "jogador-gols": 5,
@@ -1387,7 +1396,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 4,
         "jogador-assists": 10,
-        "jogador-partidas": 11,
+        "jogador-partidas": 12,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-khaleej-saihat.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/greece-konstantinos-fortounis.png"
       },
@@ -1399,15 +1408,6 @@
         "jogador-partidas": 10,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-hilal-fc-riyadh.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-malcom.png"
-      },
-      {
-        "jogador-nome": "Khalid Essa AL Ghannam",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 4,
-        "jogador-assists": 3,
-        "jogador-partidas": 10,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-ittifaq-fc-dammam.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/saudi-arabia-khalid-essa-al-ghannam.png"
       }
     ]
   }
