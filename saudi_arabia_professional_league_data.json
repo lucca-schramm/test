@@ -8,46 +8,46 @@
           "name": "Al Hilal FC Riyadh",
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-hilal-fc-riyadh.png"
         },
-        "points": 32,
-        "goalsDiff": 20,
+        "points": 35,
+        "goalsDiff": 23,
         "group": "Saudi Arabia Professional League 2025",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 12,
-          "win": 10,
+          "played": 13,
+          "win": 11,
           "draw": 2,
           "lose": 0,
           "goals": {
-            "for": 32,
+            "for": 35,
             "against": 12
           },
           "form": "WWWWW",
           "btts_matches": 7,
           "avg_corners_per_game": 7.0,
-          "aproveitamento": 88.9,
-          "over_2_5_goals": 8,
-          "over_0_5_ht": 11,
-          "over_0_5_ft": 9,
-          "clean_sheets": 5
+          "aproveitamento": 89.7,
+          "over_2_5_goals": 9,
+          "over_0_5_ht": 12,
+          "over_0_5_ft": 10,
+          "clean_sheets": 6
         },
         "home": {
-          "played": 6,
-          "win": 5,
+          "played": 7,
+          "win": 6,
           "draw": 1,
           "lose": 0,
           "goals": {
-            "for": 13,
+            "for": 16,
             "against": 6
           },
-          "form_home": "DWWWW",
-          "avg_corners_home_per_game": 6.33,
-          "aproveitamento_home": 88.9,
+          "form_home": "WWWWW",
+          "avg_corners_home_per_game": 6.43,
+          "aproveitamento_home": 90.5,
           "btts_home_matches": 4,
-          "over_2_5_goals_home": 4,
-          "over_0_5_ht_home": 5,
-          "over_0_5_ft_home": 4,
-          "clean_sheets_home": 2
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 6,
+          "over_0_5_ft_home": 5,
+          "clean_sheets_home": 3
         },
         "away": {
           "played": 6,
@@ -689,24 +689,24 @@
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-hazm.png"
         },
         "points": 13,
-        "goalsDiff": -6,
+        "goalsDiff": -9,
         "group": "Saudi Arabia Professional League 2025",
         "status": "same",
         "description": "",
         "all": {
-          "played": 12,
+          "played": 13,
           "win": 3,
           "draw": 4,
-          "lose": 5,
+          "lose": 6,
           "goals": {
             "for": 11,
-            "against": 17
+            "against": 20
           },
-          "form": "LWDWL",
+          "form": "WDWLL",
           "btts_matches": 7,
-          "avg_corners_per_game": 3.33,
-          "aproveitamento": 36.1,
-          "over_2_5_goals": 6,
+          "avg_corners_per_game": 3.23,
+          "aproveitamento": 33.3,
+          "over_2_5_goals": 7,
           "over_0_5_ht": 4,
           "over_0_5_ft": 4,
           "clean_sheets": 2
@@ -730,19 +730,19 @@
           "clean_sheets_home": 1
         },
         "away": {
-          "played": 7,
+          "played": 8,
           "win": 3,
           "draw": 3,
-          "lose": 1,
+          "lose": 2,
           "goals": {
             "for": 9,
-            "against": 7
+            "against": 10
           },
-          "form_visitor": "WDWDW",
+          "form_visitor": "DWDWL",
           "btts_away_matches": 5,
-          "avg_corners_away_per_game": 3.86,
-          "aproveitamento_away": 57.1,
-          "over_2_5_goals_away": 4,
+          "avg_corners_away_per_game": 3.62,
+          "aproveitamento_away": 50.0,
+          "over_2_5_goals_away": 5,
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 3,
           "clean_sheets_away": 1
@@ -1315,9 +1315,18 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 7,
         "jogador-assists": 0,
-        "jogador-partidas": 9,
+        "jogador-partidas": 10,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-hilal-fc-riyadh.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-marcos-leonardo-santos-almeida.png"
+      },
+      {
+        "jogador-nome": "Darwin Gabriel Núñez Ribeiro",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 6,
+        "jogador-assists": 3,
+        "jogador-partidas": 10,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-hilal-fc-riyadh.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/uruguay-darwin-nunez.png"
       },
       {
         "jogador-nome": "Valentín Vada",
@@ -1329,6 +1338,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/argentina-valentin-vada.png"
       },
       {
+        "jogador-nome": "Rúben Diogo da Silva Neves",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 6,
+        "jogador-assists": 1,
+        "jogador-partidas": 12,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-hilal-fc-riyadh.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/portugal-ruben-neves.png"
+      },
+      {
         "jogador-nome": "Mamadou Sylla Diallo",
         "jogador-posicao": "Forward",
         "jogador-gols": 6,
@@ -1336,15 +1354,6 @@
         "jogador-partidas": 12,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-riyadh-sc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/senegal-mamadou-sylla-diallo.png"
-      },
-      {
-        "jogador-nome": "Darwin Gabriel Núñez Ribeiro",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 5,
-        "jogador-assists": 3,
-        "jogador-partidas": 9,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-hilal-fc-riyadh.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/uruguay-darwin-nunez.png"
       },
       {
         "jogador-nome": "Alexandre Lacazette",
@@ -1390,15 +1399,6 @@
         "jogador-partidas": 11,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-hilal-fc-riyadh.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/france-theo-hernandez.png"
-      },
-      {
-        "jogador-nome": "Rúben Diogo da Silva Neves",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 5,
-        "jogador-assists": 0,
-        "jogador-partidas": 11,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-hilal-fc-riyadh.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/portugal-ruben-neves.png"
       },
       {
         "jogador-nome": "Matías Ezequiel Vargas Martin",
