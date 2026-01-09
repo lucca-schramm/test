@@ -144,46 +144,46 @@
           "name": "Al Taawon FC",
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-taawon-fc.png"
         },
-        "points": 28,
-        "goalsDiff": 13,
+        "points": 31,
+        "goalsDiff": 15,
         "group": "Saudi Arabia Professional League 2025",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 12,
-          "win": 9,
+          "played": 13,
+          "win": 10,
           "draw": 1,
           "lose": 2,
           "goals": {
-            "for": 27,
+            "for": 29,
             "against": 14
           },
-          "form": "WDWWL",
+          "form": "DWWLW",
           "btts_matches": 6,
-          "avg_corners_per_game": 3.5,
-          "aproveitamento": 77.8,
+          "avg_corners_per_game": 3.77,
+          "aproveitamento": 79.5,
           "over_2_5_goals": 6,
-          "over_0_5_ht": 6,
+          "over_0_5_ht": 7,
           "over_0_5_ft": 9,
-          "clean_sheets": 4
+          "clean_sheets": 5
         },
         "home": {
-          "played": 6,
-          "win": 4,
+          "played": 7,
+          "win": 5,
           "draw": 1,
           "lose": 1,
           "goals": {
-            "for": 14,
+            "for": 16,
             "against": 8
           },
-          "form_home": "WWWDW",
-          "avg_corners_home_per_game": 5.17,
-          "aproveitamento_home": 72.2,
+          "form_home": "WWDWW",
+          "avg_corners_home_per_game": 5.43,
+          "aproveitamento_home": 76.2,
           "btts_home_matches": 3,
           "over_2_5_goals_home": 3,
-          "over_0_5_ht_home": 2,
+          "over_0_5_ht_home": 3,
           "over_0_5_ft_home": 5,
-          "clean_sheets_home": 2
+          "clean_sheets_home": 3
         },
         "away": {
           "played": 6,
@@ -1029,23 +1029,23 @@
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-shabab-fc-riyadh.png"
         },
         "points": 8,
-        "goalsDiff": -9,
+        "goalsDiff": -11,
         "group": "Saudi Arabia Professional League 2025",
         "status": "same",
         "description": "",
         "all": {
-          "played": 12,
+          "played": 13,
           "win": 1,
           "draw": 5,
-          "lose": 6,
+          "lose": 7,
           "goals": {
             "for": 9,
-            "against": 18
+            "against": 20
           },
-          "form": "DDLLL",
+          "form": "DLLLL",
           "btts_matches": 7,
-          "avg_corners_per_game": 5.08,
-          "aproveitamento": 22.2,
+          "avg_corners_per_game": 4.92,
+          "aproveitamento": 20.5,
           "over_2_5_goals": 3,
           "over_0_5_ht": 3,
           "over_0_5_ft": 5,
@@ -1070,18 +1070,18 @@
           "clean_sheets_home": 1
         },
         "away": {
-          "played": 6,
+          "played": 7,
           "win": 0,
           "draw": 3,
-          "lose": 3,
+          "lose": 4,
           "goals": {
             "for": 2,
-            "against": 7
+            "against": 9
           },
-          "form_visitor": "DLDLL",
+          "form_visitor": "LDLLL",
           "btts_away_matches": 2,
-          "avg_corners_away_per_game": 4.33,
-          "aproveitamento_away": 16.7,
+          "avg_corners_away_per_game": 4.14,
+          "aproveitamento_away": 14.3,
           "over_2_5_goals_away": 0,
           "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 1,
@@ -1275,6 +1275,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/colombia-julian-andres-quinones-quinones.png"
       },
       {
+        "jogador-nome": "Roger Beyker Martínez Tobinson",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 8,
+        "jogador-assists": 2,
+        "jogador-partidas": 13,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-taawon-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/colombia-roger-beyker-martinez-tobinson.png"
+      },
+      {
         "jogador-nome": "Ivan Toney",
         "jogador-posicao": "Forward",
         "jogador-gols": 8,
@@ -1291,15 +1300,6 @@
         "jogador-partidas": 13,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-quadisiya-al-khubar.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/argentina-mateo-retegui.png"
-      },
-      {
-        "jogador-nome": "Roger Beyker Martínez Tobinson",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 7,
-        "jogador-assists": 2,
-        "jogador-partidas": 12,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-taawon-fc.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/colombia-roger-beyker-martinez-tobinson.png"
       },
       {
         "jogador-nome": "Ramiro Enrique Paz",
@@ -1396,7 +1396,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 5,
         "jogador-assists": 1,
-        "jogador-partidas": 10,
+        "jogador-partidas": 11,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-shabab-fc-riyadh.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/belgium-yannick-carrasco.png"
       },
