@@ -485,40 +485,40 @@
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-neom-sc.png"
         },
         "points": 20,
-        "goalsDiff": -1,
+        "goalsDiff": -2,
         "group": "Saudi Arabia Professional League 2025",
         "status": "same",
         "description": "",
         "all": {
-          "played": 12,
+          "played": 13,
           "win": 6,
           "draw": 2,
-          "lose": 4,
+          "lose": 5,
           "goals": {
             "for": 18,
-            "against": 19
+            "against": 20
           },
-          "form": "LDWLW",
+          "form": "DWLWL",
           "btts_matches": 10,
-          "avg_corners_per_game": 4.0,
-          "aproveitamento": 55.6,
+          "avg_corners_per_game": 4.46,
+          "aproveitamento": 51.3,
           "over_2_5_goals": 8,
           "over_0_5_ht": 6,
           "over_0_5_ft": 8,
           "clean_sheets": 1
         },
         "home": {
-          "played": 6,
+          "played": 7,
           "win": 2,
           "draw": 1,
-          "lose": 3,
+          "lose": 4,
           "goals": {
             "for": 7,
-            "against": 11
+            "against": 12
           },
-          "form_home": "LDLWL",
-          "avg_corners_home_per_game": 4.67,
-          "aproveitamento_home": 38.9,
+          "form_home": "DLWLL",
+          "avg_corners_home_per_game": 5.43,
+          "aproveitamento_home": 33.3,
           "btts_home_matches": 5,
           "over_2_5_goals_home": 4,
           "over_0_5_ht_home": 3,
@@ -620,28 +620,28 @@
           "name": "Al Fateh SC",
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-fateh-sc.png"
         },
-        "points": 14,
-        "goalsDiff": -7,
+        "points": 17,
+        "goalsDiff": -6,
         "group": "Saudi Arabia Professional League 2025",
         "status": "same",
         "description": "",
         "all": {
-          "played": 12,
-          "win": 4,
+          "played": 13,
+          "win": 5,
           "draw": 2,
           "lose": 6,
           "goals": {
-            "for": 15,
+            "for": 16,
             "against": 22
           },
-          "form": "LLWWW",
+          "form": "LWWWW",
           "btts_matches": 8,
-          "avg_corners_per_game": 4.92,
-          "aproveitamento": 38.9,
+          "avg_corners_per_game": 4.77,
+          "aproveitamento": 43.6,
           "over_2_5_goals": 7,
-          "over_0_5_ht": 7,
+          "over_0_5_ht": 8,
           "over_0_5_ft": 7,
-          "clean_sheets": 3
+          "clean_sheets": 4
         },
         "home": {
           "played": 6,
@@ -662,22 +662,22 @@
           "clean_sheets_home": 1
         },
         "away": {
-          "played": 6,
-          "win": 1,
+          "played": 7,
+          "win": 2,
           "draw": 2,
           "lose": 3,
           "goals": {
-            "for": 6,
+            "for": 7,
             "against": 12
           },
-          "form_visitor": "DLDLW",
+          "form_visitor": "LDLWW",
           "btts_away_matches": 4,
-          "avg_corners_away_per_game": 4.5,
-          "aproveitamento_away": 27.8,
+          "avg_corners_away_per_game": 4.29,
+          "aproveitamento_away": 38.1,
           "over_2_5_goals_away": 3,
-          "over_0_5_ht_away": 3,
+          "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 3,
-          "clean_sheets_away": 2
+          "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1387,7 +1387,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 5,
         "jogador-assists": 3,
-        "jogador-partidas": 12,
+        "jogador-partidas": 13,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-neom-sc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/france-alexandre-lacazette.png"
       },
