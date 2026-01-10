@@ -140,74 +140,6 @@
       {
         "rank": 3,
         "team": {
-          "id": 40,
-          "name": "Bayer 04 Leverkusen",
-          "logo": "https://cdn.footystats.org/img/teams/germany-bayer-04-leverkusen.png"
-        },
-        "points": 29,
-        "goalsDiff": 13,
-        "group": "Germany Bundesliga 2025",
-        "status": "same",
-        "description": "Copa Libertadores",
-        "all": {
-          "played": 15,
-          "win": 9,
-          "draw": 2,
-          "lose": 4,
-          "goals": {
-            "for": 33,
-            "against": 20
-          },
-          "form": "WLLWW",
-          "btts_matches": 9,
-          "avg_corners_per_game": 5.27,
-          "aproveitamento": 64.4,
-          "over_2_5_goals": 10,
-          "over_0_5_ht": 10,
-          "over_0_5_ft": 11,
-          "clean_sheets": 4
-        },
-        "home": {
-          "played": 8,
-          "win": 5,
-          "draw": 1,
-          "lose": 2,
-          "goals": {
-            "for": 18,
-            "against": 6
-          },
-          "form_home": "WWWLW",
-          "avg_corners_home_per_game": 6.0,
-          "aproveitamento_home": 66.7,
-          "btts_home_matches": 4,
-          "over_2_5_goals_home": 4,
-          "over_0_5_ht_home": 5,
-          "over_0_5_ft_home": 7,
-          "clean_sheets_home": 4
-        },
-        "away": {
-          "played": 7,
-          "win": 4,
-          "draw": 1,
-          "lose": 2,
-          "goals": {
-            "for": 15,
-            "against": 14
-          },
-          "form_visitor": "WLWLW",
-          "btts_away_matches": 5,
-          "avg_corners_away_per_game": 4.43,
-          "aproveitamento_away": 61.9,
-          "over_2_5_goals_away": 6,
-          "over_0_5_ht_away": 5,
-          "over_0_5_ft_away": 4,
-          "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 4,
-        "team": {
           "id": 46,
           "name": "Rasen Ballsport Leipzig",
           "logo": "https://cdn.footystats.org/img/teams/germany-rasen-ballsport-leipzig.png"
@@ -274,7 +206,143 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
+        "rank": 4,
+        "team": {
+          "id": 40,
+          "name": "Bayer 04 Leverkusen",
+          "logo": "https://cdn.footystats.org/img/teams/germany-bayer-04-leverkusen.png"
+        },
+        "points": 29,
+        "goalsDiff": 10,
+        "group": "Germany Bundesliga 2025",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 16,
+          "win": 9,
+          "draw": 2,
+          "lose": 5,
+          "goals": {
+            "for": 34,
+            "against": 24
+          },
+          "form": "LLWWL",
+          "btts_matches": 10,
+          "avg_corners_per_game": 5.25,
+          "aproveitamento": 60.4,
+          "over_2_5_goals": 11,
+          "over_0_5_ht": 10,
+          "over_0_5_ft": 12,
+          "clean_sheets": 4
+        },
+        "home": {
+          "played": 9,
+          "win": 5,
+          "draw": 1,
+          "lose": 3,
+          "goals": {
+            "for": 19,
+            "against": 10
+          },
+          "form_home": "WWLWL",
+          "avg_corners_home_per_game": 5.89,
+          "aproveitamento_home": 59.3,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 8,
+          "clean_sheets_home": 4
+        },
+        "away": {
+          "played": 7,
+          "win": 4,
+          "draw": 1,
+          "lose": 2,
+          "goals": {
+            "for": 15,
+            "against": 14
+          },
+          "form_visitor": "WLWLW",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 4.43,
+          "aproveitamento_away": 61.9,
+          "over_2_5_goals_away": 6,
+          "over_0_5_ht_away": 5,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
         "rank": 5,
+        "team": {
+          "id": 51,
+          "name": "VfB Stuttgart 1893",
+          "logo": "https://cdn.footystats.org/img/teams/germany-vfb-stuttgart-1893.png"
+        },
+        "points": 29,
+        "goalsDiff": 6,
+        "group": "Germany Bundesliga 2025",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 16,
+          "win": 9,
+          "draw": 2,
+          "lose": 5,
+          "goals": {
+            "for": 29,
+            "against": 23
+          },
+          "form": "LLWDW",
+          "btts_matches": 9,
+          "avg_corners_per_game": 5.5,
+          "aproveitamento": 60.4,
+          "over_2_5_goals": 12,
+          "over_0_5_ht": 8,
+          "over_0_5_ft": 12,
+          "clean_sheets": 6
+        },
+        "home": {
+          "played": 7,
+          "win": 5,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 9,
+            "against": 8
+          },
+          "form_home": "WWWLD",
+          "avg_corners_home_per_game": 4.71,
+          "aproveitamento_home": 76.2,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 5,
+          "clean_sheets_home": 4
+        },
+        "away": {
+          "played": 9,
+          "win": 4,
+          "draw": 1,
+          "lose": 4,
+          "goals": {
+            "for": 20,
+            "against": 15
+          },
+          "form_visitor": "LDLWW",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 6.11,
+          "aproveitamento_away": 48.1,
+          "over_2_5_goals_away": 9,
+          "over_0_5_ht_away": 5,
+          "over_0_5_ft_away": 7,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 6,
         "team": {
           "id": 49,
           "name": "TSG 1899 Hoffenheim",
@@ -337,74 +405,6 @@
           "over_2_5_goals_away": 4,
           "over_0_5_ht_away": 5,
           "over_0_5_ft_away": 4,
-          "clean_sheets_away": 2
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 6,
-        "team": {
-          "id": 51,
-          "name": "VfB Stuttgart 1893",
-          "logo": "https://cdn.footystats.org/img/teams/germany-vfb-stuttgart-1893.png"
-        },
-        "points": 26,
-        "goalsDiff": 3,
-        "group": "Germany Bundesliga 2025",
-        "status": "same",
-        "description": "Copa Sul-Americana",
-        "all": {
-          "played": 15,
-          "win": 8,
-          "draw": 2,
-          "lose": 5,
-          "goals": {
-            "for": 25,
-            "against": 22
-          },
-          "form": "DLLWD",
-          "btts_matches": 8,
-          "avg_corners_per_game": 5.67,
-          "aproveitamento": 57.8,
-          "over_2_5_goals": 11,
-          "over_0_5_ht": 7,
-          "over_0_5_ft": 12,
-          "clean_sheets": 6
-        },
-        "home": {
-          "played": 7,
-          "win": 5,
-          "draw": 1,
-          "lose": 1,
-          "goals": {
-            "for": 9,
-            "against": 8
-          },
-          "form_home": "WWWLD",
-          "avg_corners_home_per_game": 4.71,
-          "aproveitamento_home": 76.2,
-          "btts_home_matches": 2,
-          "over_2_5_goals_home": 3,
-          "over_0_5_ht_home": 3,
-          "over_0_5_ft_home": 5,
-          "clean_sheets_home": 4
-        },
-        "away": {
-          "played": 8,
-          "win": 3,
-          "draw": 1,
-          "lose": 4,
-          "goals": {
-            "for": 16,
-            "against": 14
-          },
-          "form_visitor": "WLDLW",
-          "btts_away_matches": 6,
-          "avg_corners_away_per_game": 6.5,
-          "aproveitamento_away": 41.7,
-          "over_2_5_goals_away": 8,
-          "over_0_5_ht_away": 4,
-          "over_0_5_ft_away": 7,
           "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1239,6 +1239,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/england-harry-kane.png"
       },
       {
+        "jogador-nome": "Deniz Undav",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 9,
+        "jogador-assists": 2,
+        "jogador-partidas": 11,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-vfb-stuttgart-1893.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/germany-deniz-undav.png"
+      },
+      {
         "jogador-nome": "Luis Fernando Díaz Marulanda",
         "jogador-posicao": "Forward",
         "jogador-gols": 8,
@@ -1255,15 +1264,6 @@
         "jogador-partidas": 10,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-eintracht-frankfurt.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/germany-jonathan-burkardt.png"
-      },
-      {
-        "jogador-nome": "Deniz Undav",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 8,
-        "jogador-assists": 0,
-        "jogador-partidas": 10,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-vfb-stuttgart-1893.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/germany-deniz-undav.png"
       },
       {
         "jogador-nome": "Michael Akpovie Olise",
@@ -1338,6 +1338,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/kosovo-fisnik-asllani.png"
       },
       {
+        "jogador-nome": "Alejandro Grimaldo García",
+        "jogador-posicao": "Defender",
+        "jogador-gols": 5,
+        "jogador-assists": 4,
+        "jogador-partidas": 12,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-bayer-04-leverkusen.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/spain-alex-grimaldo.png"
+      },
+      {
         "jogador-nome": "Grischa Prömel",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 5,
@@ -1399,15 +1408,6 @@
         "jogador-partidas": 15,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-bvb-09-borussia-dortmund.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/france-sehrou-guirassy.png"
-      },
-      {
-        "jogador-nome": "Jens Stage",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 5,
-        "jogador-assists": 1,
-        "jogador-partidas": 13,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-sv-werder-bremen.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/denmark-jens-stage.png"
       }
     ]
   }
