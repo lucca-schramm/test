@@ -8,45 +8,45 @@
           "name": "FC Bayern München",
           "logo": "https://cdn.footystats.org/img/teams/germany-fc-bayern-munchen.png"
         },
-        "points": 41,
-        "goalsDiff": 44,
+        "points": 44,
+        "goalsDiff": 51,
         "group": "Germany Bundesliga 2025",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 15,
-          "win": 13,
+          "played": 16,
+          "win": 14,
           "draw": 2,
           "lose": 0,
           "goals": {
-            "for": 55,
-            "against": 11
+            "for": 63,
+            "against": 12
           },
-          "form": "WWWDW",
-          "btts_matches": 7,
-          "avg_corners_per_game": 5.8,
-          "aproveitamento": 91.1,
-          "over_2_5_goals": 15,
-          "over_0_5_ht": 14,
-          "over_0_5_ft": 14,
+          "form": "WWDWW",
+          "btts_matches": 8,
+          "avg_corners_per_game": 5.81,
+          "aproveitamento": 91.7,
+          "over_2_5_goals": 16,
+          "over_0_5_ht": 15,
+          "over_0_5_ft": 15,
           "clean_sheets": 8
         },
         "home": {
-          "played": 8,
-          "win": 7,
+          "played": 9,
+          "win": 8,
           "draw": 1,
           "lose": 0,
           "goals": {
-            "for": 31,
-            "against": 6
+            "for": 39,
+            "against": 7
           },
-          "form_home": "WWWWD",
-          "avg_corners_home_per_game": 6.38,
-          "aproveitamento_home": 91.7,
-          "btts_home_matches": 4,
-          "over_2_5_goals_home": 8,
-          "over_0_5_ht_home": 8,
-          "over_0_5_ft_home": 7,
+          "form_home": "WWWDW",
+          "avg_corners_home_per_game": 6.33,
+          "aproveitamento_home": 92.6,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 9,
+          "over_0_5_ht_home": 9,
+          "over_0_5_ft_home": 8,
           "clean_sheets_home": 4
         },
         "away": {
@@ -893,25 +893,25 @@
           "logo": "https://cdn.footystats.org/img/teams/germany-vfl-wolfsburg.png"
         },
         "points": 15,
-        "goalsDiff": -5,
+        "goalsDiff": -12,
         "group": "Germany Bundesliga 2025",
         "status": "same",
         "description": "",
         "all": {
-          "played": 15,
+          "played": 16,
           "win": 4,
           "draw": 3,
-          "lose": 8,
+          "lose": 9,
           "goals": {
-            "for": 23,
-            "against": 28
+            "for": 24,
+            "against": 36
           },
-          "form": "LDWWL",
-          "btts_matches": 11,
-          "avg_corners_per_game": 3.53,
-          "aproveitamento": 33.3,
-          "over_2_5_goals": 10,
-          "over_0_5_ht": 9,
+          "form": "DWWLL",
+          "btts_matches": 12,
+          "avg_corners_per_game": 3.44,
+          "aproveitamento": 31.2,
+          "over_2_5_goals": 11,
+          "over_0_5_ht": 10,
           "over_0_5_ft": 8,
           "clean_sheets": 1
         },
@@ -934,20 +934,20 @@
           "clean_sheets_home": 0
         },
         "away": {
-          "played": 7,
+          "played": 8,
           "win": 3,
           "draw": 1,
-          "lose": 3,
+          "lose": 4,
           "goals": {
-            "for": 10,
-            "against": 9
+            "for": 11,
+            "against": 17
           },
-          "form_visitor": "LWLDW",
-          "btts_away_matches": 5,
-          "avg_corners_away_per_game": 3.0,
-          "aproveitamento_away": 47.6,
-          "over_2_5_goals_away": 4,
-          "over_0_5_ht_away": 4,
+          "form_visitor": "WLDWL",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 2.88,
+          "aproveitamento_away": 41.7,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 5,
           "over_0_5_ft_away": 3,
           "clean_sheets_away": 1
         },
@@ -1232,11 +1232,29 @@
       {
         "jogador-nome": "Harry Edward Kane",
         "jogador-posicao": "Forward",
-        "jogador-gols": 18,
-        "jogador-assists": 3,
-        "jogador-partidas": 15,
+        "jogador-gols": 19,
+        "jogador-assists": 4,
+        "jogador-partidas": 16,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-fc-bayern-munchen.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/england-harry-kane.png"
+      },
+      {
+        "jogador-nome": "Michael Akpovie Olise",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 9,
+        "jogador-assists": 9,
+        "jogador-partidas": 16,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-fc-bayern-munchen.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/france-michael-olise.png"
+      },
+      {
+        "jogador-nome": "Luis Fernando Díaz Marulanda",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 9,
+        "jogador-assists": 8,
+        "jogador-partidas": 15,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-fc-bayern-munchen.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/colombia-luis-diaz.png"
       },
       {
         "jogador-nome": "Haris Tabaković",
@@ -1257,15 +1275,6 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/germany-deniz-undav.png"
       },
       {
-        "jogador-nome": "Luis Fernando Díaz Marulanda",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 8,
-        "jogador-assists": 6,
-        "jogador-partidas": 14,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-fc-bayern-munchen.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/colombia-luis-diaz.png"
-      },
-      {
         "jogador-nome": "Jonathan Burkardt",
         "jogador-posicao": "Forward",
         "jogador-gols": 8,
@@ -1273,15 +1282,6 @@
         "jogador-partidas": 10,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-eintracht-frankfurt.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/germany-jonathan-burkardt.png"
-      },
-      {
-        "jogador-nome": "Michael Akpovie Olise",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 7,
-        "jogador-assists": 8,
-        "jogador-partidas": 15,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-fc-bayern-munchen.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/france-michael-olise.png"
       },
       {
         "jogador-nome": "Said El Mala",
