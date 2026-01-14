@@ -145,25 +145,25 @@
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-taawon-fc.png"
         },
         "points": 31,
-        "goalsDiff": 15,
+        "goalsDiff": 14,
         "group": "Saudi Arabia Professional League 2025",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 13,
+          "played": 14,
           "win": 10,
           "draw": 1,
-          "lose": 2,
+          "lose": 3,
           "goals": {
-            "for": 29,
-            "against": 14
+            "for": 30,
+            "against": 16
           },
-          "form": "DWWLW",
-          "btts_matches": 6,
-          "avg_corners_per_game": 3.77,
-          "aproveitamento": 79.5,
-          "over_2_5_goals": 6,
-          "over_0_5_ht": 7,
+          "form": "WWLWL",
+          "btts_matches": 7,
+          "avg_corners_per_game": 3.57,
+          "aproveitamento": 73.8,
+          "over_2_5_goals": 7,
+          "over_0_5_ht": 8,
           "over_0_5_ft": 9,
           "clean_sheets": 5
         },
@@ -186,20 +186,20 @@
           "clean_sheets_home": 3
         },
         "away": {
-          "played": 6,
+          "played": 7,
           "win": 5,
           "draw": 0,
-          "lose": 1,
+          "lose": 2,
           "goals": {
-            "for": 13,
-            "against": 6
+            "for": 14,
+            "against": 8
           },
-          "form_visitor": "WWWWL",
-          "btts_away_matches": 3,
-          "avg_corners_away_per_game": 1.83,
-          "aproveitamento_away": 83.3,
-          "over_2_5_goals_away": 3,
-          "over_0_5_ht_away": 4,
+          "form_visitor": "WWWLL",
+          "btts_away_matches": 4,
+          "avg_corners_away_per_game": 1.71,
+          "aproveitamento_away": 71.4,
+          "over_2_5_goals_away": 4,
+          "over_0_5_ht_away": 5,
           "over_0_5_ft_away": 4,
           "clean_sheets_away": 2
         },
@@ -207,6 +207,74 @@
       },
       {
         "rank": 4,
+        "team": {
+          "id": 5062,
+          "name": "Al Ahli SC Jeddah",
+          "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-ahli-sc-jeddah.png"
+        },
+        "points": 31,
+        "goalsDiff": 10,
+        "group": "Saudi Arabia Professional League 2025",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 14,
+          "win": 9,
+          "draw": 4,
+          "lose": 1,
+          "goals": {
+            "for": 21,
+            "against": 11
+          },
+          "form": "LWWWW",
+          "btts_matches": 7,
+          "avg_corners_per_game": 5.57,
+          "aproveitamento": 73.8,
+          "over_2_5_goals": 5,
+          "over_0_5_ht": 7,
+          "over_0_5_ft": 9,
+          "clean_sheets": 7
+        },
+        "home": {
+          "played": 8,
+          "win": 5,
+          "draw": 3,
+          "lose": 0,
+          "goals": {
+            "for": 15,
+            "against": 9
+          },
+          "form_home": "DWWWW",
+          "avg_corners_home_per_game": 5.38,
+          "aproveitamento_home": 75.0,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 6,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 6,
+          "win": 4,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 6,
+            "against": 2
+          },
+          "form_visitor": "WWWLW",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 5.83,
+          "aproveitamento_away": 72.2,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 5
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 5,
         "team": {
           "id": 5068,
           "name": "Al Quadisiya Al Khubar",
@@ -216,7 +284,7 @@
         "goalsDiff": 18,
         "group": "Saudi Arabia Professional League 2025",
         "status": "same",
-        "description": "Copa Libertadores",
+        "description": "Copa Sul-Americana",
         "all": {
           "played": 14,
           "win": 9,
@@ -270,74 +338,6 @@
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 5,
           "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 5,
-        "team": {
-          "id": 5062,
-          "name": "Al Ahli SC Jeddah",
-          "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-ahli-sc-jeddah.png"
-        },
-        "points": 28,
-        "goalsDiff": 9,
-        "group": "Saudi Arabia Professional League 2025",
-        "status": "same",
-        "description": "Copa Sul-Americana",
-        "all": {
-          "played": 13,
-          "win": 8,
-          "draw": 4,
-          "lose": 1,
-          "goals": {
-            "for": 19,
-            "against": 10
-          },
-          "form": "WLWWW",
-          "btts_matches": 6,
-          "avg_corners_per_game": 5.46,
-          "aproveitamento": 71.8,
-          "over_2_5_goals": 4,
-          "over_0_5_ht": 7,
-          "over_0_5_ft": 8,
-          "clean_sheets": 7
-        },
-        "home": {
-          "played": 7,
-          "win": 4,
-          "draw": 3,
-          "lose": 0,
-          "goals": {
-            "for": 13,
-            "against": 8
-          },
-          "form_home": "DDWWW",
-          "avg_corners_home_per_game": 5.14,
-          "aproveitamento_home": 71.4,
-          "btts_home_matches": 5,
-          "over_2_5_goals_home": 3,
-          "over_0_5_ht_home": 5,
-          "over_0_5_ft_home": 5,
-          "clean_sheets_home": 2
-        },
-        "away": {
-          "played": 6,
-          "win": 4,
-          "draw": 1,
-          "lose": 1,
-          "goals": {
-            "for": 6,
-            "against": 2
-          },
-          "form_visitor": "WWWLW",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 5.83,
-          "aproveitamento_away": 72.2,
-          "over_2_5_goals_away": 1,
-          "over_0_5_ht_away": 2,
-          "over_0_5_ft_away": 3,
-          "clean_sheets_away": 5
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1266,6 +1266,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/norway-joshua-king.png"
       },
       {
+        "jogador-nome": "Ivan Toney",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 10,
+        "jogador-assists": 2,
+        "jogador-partidas": 13,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-ahli-sc-jeddah.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/england-ivan-toney.png"
+      },
+      {
         "jogador-nome": "Georginio Wijnaldum",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 9,
@@ -1275,13 +1284,13 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/netherlands-georginio-wijnaldum.png"
       },
       {
-        "jogador-nome": "Ivan Toney",
+        "jogador-nome": "Roger Beyker Martínez Tobinson",
         "jogador-posicao": "Forward",
         "jogador-gols": 9,
-        "jogador-assists": 1,
-        "jogador-partidas": 12,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-ahli-sc-jeddah.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/england-ivan-toney.png"
+        "jogador-assists": 2,
+        "jogador-partidas": 14,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-taawon-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/colombia-roger-beyker-martinez-tobinson.png"
       },
       {
         "jogador-nome": "Mateo Retegui",
@@ -1291,15 +1300,6 @@
         "jogador-partidas": 14,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-quadisiya-al-khubar.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/argentina-mateo-retegui.png"
-      },
-      {
-        "jogador-nome": "Roger Beyker Martínez Tobinson",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 8,
-        "jogador-assists": 2,
-        "jogador-partidas": 13,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-taawon-fc.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/colombia-roger-beyker-martinez-tobinson.png"
       },
       {
         "jogador-nome": "Yannick Ferreira Carrasco",
