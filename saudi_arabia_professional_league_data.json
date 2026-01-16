@@ -349,40 +349,40 @@
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-ittihad-fc-jeddah.png"
         },
         "points": 27,
-        "goalsDiff": 11,
+        "goalsDiff": 10,
         "group": "Saudi Arabia Professional League 2025",
         "status": "same",
         "description": "Copa Sul-Americana",
         "all": {
-          "played": 14,
+          "played": 15,
           "win": 8,
           "draw": 3,
-          "lose": 3,
+          "lose": 4,
           "goals": {
             "for": 28,
-            "against": 17
+            "against": 18
           },
-          "form": "WWWWD",
+          "form": "WWWDL",
           "btts_matches": 7,
-          "avg_corners_per_game": 7.0,
-          "aproveitamento": 64.3,
+          "avg_corners_per_game": 7.2,
+          "aproveitamento": 60.0,
           "over_2_5_goals": 6,
           "over_0_5_ht": 7,
           "over_0_5_ft": 9,
           "clean_sheets": 4
         },
         "home": {
-          "played": 7,
+          "played": 8,
           "win": 4,
           "draw": 0,
-          "lose": 3,
+          "lose": 4,
           "goals": {
             "for": 9,
-            "against": 8
+            "against": 9
           },
-          "form_home": "LLWWW",
-          "avg_corners_home_per_game": 6.29,
-          "aproveitamento_home": 57.1,
+          "form_home": "LWWWL",
+          "avg_corners_home_per_game": 6.75,
+          "aproveitamento_home": 50.0,
           "btts_home_matches": 2,
           "over_2_5_goals_home": 2,
           "over_0_5_ht_home": 3,
@@ -411,6 +411,74 @@
       },
       {
         "rank": 7,
+        "team": {
+          "id": 5065,
+          "name": "Al Ittifaq FC Dammam",
+          "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-ittifaq-fc-dammam.png"
+        },
+        "points": 25,
+        "goalsDiff": 0,
+        "group": "Saudi Arabia Professional League 2025",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 15,
+          "win": 7,
+          "draw": 4,
+          "lose": 4,
+          "goals": {
+            "for": 25,
+            "against": 25
+          },
+          "form": "DWWLW",
+          "btts_matches": 10,
+          "avg_corners_per_game": 3.93,
+          "aproveitamento": 55.6,
+          "over_2_5_goals": 10,
+          "over_0_5_ht": 7,
+          "over_0_5_ft": 12,
+          "clean_sheets": 4
+        },
+        "home": {
+          "played": 8,
+          "win": 3,
+          "draw": 3,
+          "lose": 2,
+          "goals": {
+            "for": 12,
+            "against": 14
+          },
+          "form_home": "DWDWL",
+          "avg_corners_home_per_game": 3.38,
+          "aproveitamento_home": 50.0,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 5,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 7,
+          "win": 4,
+          "draw": 1,
+          "lose": 2,
+          "goals": {
+            "for": 13,
+            "against": 11
+          },
+          "form_visitor": "LDWWW",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 4.57,
+          "aproveitamento_away": 61.9,
+          "over_2_5_goals_away": 4,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 7,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 8,
         "team": {
           "id": 5077,
           "name": "Al Khaleej Saihat",
@@ -474,74 +542,6 @@
           "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 7,
           "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 8,
-        "team": {
-          "id": 5065,
-          "name": "Al Ittifaq FC Dammam",
-          "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-ittifaq-fc-dammam.png"
-        },
-        "points": 22,
-        "goalsDiff": -1,
-        "group": "Saudi Arabia Professional League 2025",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 14,
-          "win": 6,
-          "draw": 4,
-          "lose": 4,
-          "goals": {
-            "for": 24,
-            "against": 25
-          },
-          "form": "WDWWL",
-          "btts_matches": 10,
-          "avg_corners_per_game": 4.14,
-          "aproveitamento": 52.4,
-          "over_2_5_goals": 10,
-          "over_0_5_ht": 7,
-          "over_0_5_ft": 11,
-          "clean_sheets": 3
-        },
-        "home": {
-          "played": 8,
-          "win": 3,
-          "draw": 3,
-          "lose": 2,
-          "goals": {
-            "for": 12,
-            "against": 14
-          },
-          "form_home": "DWDWL",
-          "avg_corners_home_per_game": 3.38,
-          "aproveitamento_home": 50.0,
-          "btts_home_matches": 5,
-          "over_2_5_goals_home": 6,
-          "over_0_5_ht_home": 5,
-          "over_0_5_ft_home": 5,
-          "clean_sheets_home": 2
-        },
-        "away": {
-          "played": 6,
-          "win": 3,
-          "draw": 1,
-          "lose": 2,
-          "goals": {
-            "for": 12,
-            "against": 11
-          },
-          "form_visitor": "WLDWW",
-          "btts_away_matches": 5,
-          "avg_corners_away_per_game": 5.17,
-          "aproveitamento_away": 55.6,
-          "over_2_5_goals_away": 4,
-          "over_0_5_ht_away": 2,
-          "over_0_5_ft_away": 6,
-          "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1360,7 +1360,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 7,
         "jogador-assists": 0,
-        "jogador-partidas": 11,
+        "jogador-partidas": 12,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-ittihad-fc-jeddah.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/france-karim-benzema.png"
       },
@@ -1401,13 +1401,13 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/france-alexandre-lacazette.png"
       },
       {
-        "jogador-nome": "Steven Bergwijn",
+        "jogador-nome": "Khalid Essa AL Ghannam",
         "jogador-posicao": "Forward",
         "jogador-gols": 5,
-        "jogador-assists": 2,
-        "jogador-partidas": 11,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-ittihad-fc-jeddah.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/netherlands-steven-bergwijn.png"
+        "jogador-assists": 3,
+        "jogador-partidas": 14,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-ittifaq-fc-dammam.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/saudi-arabia-khalid-essa-al-ghannam.png"
       }
     ]
   }
