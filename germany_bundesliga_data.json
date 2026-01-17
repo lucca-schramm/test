@@ -8,27 +8,27 @@
           "name": "FC Bayern München",
           "logo": "https://cdn.footystats.org/img/teams/germany-fc-bayern-munchen.png"
         },
-        "points": 47,
-        "goalsDiff": 53,
+        "points": 50,
+        "goalsDiff": 57,
         "group": "Germany Bundesliga 2025",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 17,
-          "win": 15,
+          "played": 18,
+          "win": 16,
           "draw": 2,
           "lose": 0,
           "goals": {
-            "for": 66,
-            "against": 13
+            "for": 71,
+            "against": 14
           },
-          "form": "WDWWW",
-          "btts_matches": 9,
-          "avg_corners_per_game": 5.82,
-          "aproveitamento": 92.2,
-          "over_2_5_goals": 17,
+          "form": "DWWWW",
+          "btts_matches": 10,
+          "avg_corners_per_game": 6.0,
+          "aproveitamento": 92.6,
+          "over_2_5_goals": 18,
           "over_0_5_ht": 16,
-          "over_0_5_ft": 16,
+          "over_0_5_ft": 17,
           "clean_sheets": 8
         },
         "home": {
@@ -50,21 +50,21 @@
           "clean_sheets_home": 4
         },
         "away": {
-          "played": 8,
-          "win": 7,
+          "played": 9,
+          "win": 8,
           "draw": 1,
           "lose": 0,
           "goals": {
-            "for": 27,
-            "against": 6
+            "for": 32,
+            "against": 7
           },
-          "form_visitor": "WDWWW",
-          "btts_away_matches": 4,
-          "avg_corners_away_per_game": 5.25,
-          "aproveitamento_away": 91.7,
-          "over_2_5_goals_away": 8,
+          "form_visitor": "DWWWW",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 5.67,
+          "aproveitamento_away": 92.6,
+          "over_2_5_goals_away": 9,
           "over_0_5_ht_away": 7,
-          "over_0_5_ft_away": 8,
+          "over_0_5_ft_away": 9,
           "clean_sheets_away": 4
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -213,43 +213,43 @@
           "logo": "https://cdn.footystats.org/img/teams/germany-rasen-ballsport-leipzig.png"
         },
         "points": 32,
-        "goalsDiff": 13,
+        "goalsDiff": 9,
         "group": "Germany Bundesliga 2025",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 16,
+          "played": 17,
           "win": 10,
           "draw": 2,
-          "lose": 4,
+          "lose": 5,
           "goals": {
-            "for": 32,
-            "against": 19
+            "for": 33,
+            "against": 24
           },
-          "form": "DWLLW",
-          "btts_matches": 7,
-          "avg_corners_per_game": 5.94,
-          "aproveitamento": 66.7,
-          "over_2_5_goals": 9,
-          "over_0_5_ht": 10,
+          "form": "WLLWL",
+          "btts_matches": 8,
+          "avg_corners_per_game": 5.88,
+          "aproveitamento": 62.7,
+          "over_2_5_goals": 10,
+          "over_0_5_ht": 11,
           "over_0_5_ft": 8,
           "clean_sheets": 8
         },
         "home": {
-          "played": 8,
+          "played": 9,
           "win": 7,
           "draw": 0,
-          "lose": 1,
+          "lose": 2,
           "goals": {
-            "for": 21,
-            "against": 6
+            "for": 22,
+            "against": 11
           },
-          "form_home": "WWWLW",
-          "avg_corners_home_per_game": 5.88,
-          "aproveitamento_home": 87.5,
-          "btts_home_matches": 4,
-          "over_2_5_goals_home": 5,
-          "over_0_5_ht_home": 5,
+          "form_home": "WWLWL",
+          "avg_corners_home_per_game": 5.78,
+          "aproveitamento_home": 77.8,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 6,
           "over_0_5_ft_home": 6,
           "clean_sheets_home": 4
         },
@@ -1232,11 +1232,20 @@
       {
         "jogador-nome": "Harry Edward Kane",
         "jogador-posicao": "Forward",
-        "jogador-gols": 20,
+        "jogador-gols": 21,
         "jogador-assists": 4,
-        "jogador-partidas": 17,
+        "jogador-partidas": 18,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-fc-bayern-munchen.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/england-harry-kane.png"
+      },
+      {
+        "jogador-nome": "Michael Akpovie Olise",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 10,
+        "jogador-assists": 13,
+        "jogador-partidas": 18,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-fc-bayern-munchen.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/france-michael-olise.png"
       },
       {
         "jogador-nome": "Deniz Undav",
@@ -1248,20 +1257,11 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/germany-deniz-undav.png"
       },
       {
-        "jogador-nome": "Michael Akpovie Olise",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 9,
-        "jogador-assists": 10,
-        "jogador-partidas": 17,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-fc-bayern-munchen.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/france-michael-olise.png"
-      },
-      {
         "jogador-nome": "Luis Fernando Díaz Marulanda",
         "jogador-posicao": "Forward",
         "jogador-gols": 9,
         "jogador-assists": 9,
-        "jogador-partidas": 16,
+        "jogador-partidas": 17,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-fc-bayern-munchen.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/colombia-luis-diaz.png"
       },
@@ -1297,9 +1297,27 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 6,
         "jogador-assists": 7,
-        "jogador-partidas": 16,
+        "jogador-partidas": 17,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-rasen-ballsport-leipzig.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/austria-christoph-baumgartner.png"
+      },
+      {
+        "jogador-nome": "Serge Gnabry",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 6,
+        "jogador-assists": 5,
+        "jogador-partidas": 14,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-fc-bayern-munchen.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/germany-serge-gnabry.png"
+      },
+      {
+        "jogador-nome": "Rômulo José Cardoso da Cruz",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 6,
+        "jogador-assists": 4,
+        "jogador-partidas": 13,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-rasen-ballsport-leipzig.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-romulo.png"
       },
       {
         "jogador-nome": "Fisnik Asllani",
@@ -1324,7 +1342,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 6,
         "jogador-assists": 3,
-        "jogador-partidas": 15,
+        "jogador-partidas": 16,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-rasen-ballsport-leipzig.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-yan-diomande.png"
       },
@@ -1390,24 +1408,6 @@
         "jogador-partidas": 15,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-sv-werder-bremen.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/denmark-jens-stage.png"
-      },
-      {
-        "jogador-nome": "Serge Gnabry",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 5,
-        "jogador-assists": 5,
-        "jogador-partidas": 13,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-fc-bayern-munchen.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/germany-serge-gnabry.png"
-      },
-      {
-        "jogador-nome": "Rômulo José Cardoso da Cruz",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 5,
-        "jogador-assists": 4,
-        "jogador-partidas": 12,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-rasen-ballsport-leipzig.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-romulo.png"
       }
     ]
   }
