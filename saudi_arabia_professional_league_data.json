@@ -8,27 +8,27 @@
           "name": "Al Hilal FC Riyadh",
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-hilal-fc-riyadh.png"
         },
-        "points": 38,
-        "goalsDiff": 25,
+        "points": 41,
+        "goalsDiff": 26,
         "group": "Saudi Arabia Professional League 2025",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 14,
-          "win": 12,
+          "played": 15,
+          "win": 13,
           "draw": 2,
           "lose": 0,
           "goals": {
-            "for": 38,
-            "against": 13
+            "for": 40,
+            "against": 14
           },
           "form": "WWWWW",
-          "btts_matches": 8,
-          "avg_corners_per_game": 6.86,
-          "aproveitamento": 90.5,
-          "over_2_5_goals": 10,
+          "btts_matches": 9,
+          "avg_corners_per_game": 6.87,
+          "aproveitamento": 91.1,
+          "over_2_5_goals": 11,
           "over_0_5_ht": 12,
-          "over_0_5_ft": 11,
+          "over_0_5_ft": 12,
           "clean_sheets": 6
         },
         "home": {
@@ -50,21 +50,21 @@
           "clean_sheets_home": 3
         },
         "away": {
-          "played": 6,
-          "win": 5,
+          "played": 7,
+          "win": 6,
           "draw": 1,
           "lose": 0,
           "goals": {
-            "for": 19,
-            "against": 6
+            "for": 21,
+            "against": 7
           },
           "form_visitor": "WWWWW",
-          "btts_away_matches": 3,
-          "avg_corners_away_per_game": 7.67,
-          "aproveitamento_away": 88.9,
-          "over_2_5_goals_away": 4,
+          "btts_away_matches": 4,
+          "avg_corners_away_per_game": 7.57,
+          "aproveitamento_away": 90.5,
+          "over_2_5_goals_away": 5,
           "over_0_5_ht_away": 6,
-          "over_0_5_ft_away": 5,
+          "over_0_5_ft_away": 6,
           "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -621,43 +621,43 @@
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-neom-sc.png"
         },
         "points": 20,
-        "goalsDiff": -3,
+        "goalsDiff": -4,
         "group": "Saudi Arabia Professional League 2025",
         "status": "same",
         "description": "",
         "all": {
-          "played": 14,
+          "played": 15,
           "win": 6,
           "draw": 2,
-          "lose": 6,
+          "lose": 7,
           "goals": {
-            "for": 20,
-            "against": 23
+            "for": 21,
+            "against": 25
           },
-          "form": "WLWLL",
-          "btts_matches": 11,
-          "avg_corners_per_game": 4.43,
-          "aproveitamento": 47.6,
-          "over_2_5_goals": 9,
-          "over_0_5_ht": 7,
+          "form": "LWLLL",
+          "btts_matches": 12,
+          "avg_corners_per_game": 4.47,
+          "aproveitamento": 44.4,
+          "over_2_5_goals": 10,
+          "over_0_5_ht": 8,
           "over_0_5_ft": 9,
           "clean_sheets": 1
         },
         "home": {
-          "played": 7,
+          "played": 8,
           "win": 2,
           "draw": 1,
-          "lose": 4,
+          "lose": 5,
           "goals": {
-            "for": 7,
-            "against": 12
+            "for": 8,
+            "against": 14
           },
-          "form_home": "DLWLL",
-          "avg_corners_home_per_game": 5.43,
-          "aproveitamento_home": 33.3,
-          "btts_home_matches": 5,
-          "over_2_5_goals_home": 4,
-          "over_0_5_ht_home": 3,
+          "form_home": "LWLLL",
+          "avg_corners_home_per_game": 5.38,
+          "aproveitamento_home": 29.2,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 4,
           "over_0_5_ft_home": 3,
           "clean_sheets_home": 1
         },
@@ -1302,6 +1302,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/colombia-roger-beyker-martinez-tobinson.png"
       },
       {
+        "jogador-nome": "Rúben Diogo da Silva Neves",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 8,
+        "jogador-assists": 3,
+        "jogador-partidas": 14,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-hilal-fc-riyadh.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/portugal-ruben-neves.png"
+      },
+      {
         "jogador-nome": "Giorgos Masouras",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 8,
@@ -1329,15 +1338,6 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/belgium-yannick-carrasco.png"
       },
       {
-        "jogador-nome": "Rúben Diogo da Silva Neves",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 7,
-        "jogador-assists": 2,
-        "jogador-partidas": 13,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-hilal-fc-riyadh.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/portugal-ruben-neves.png"
-      },
-      {
         "jogador-nome": "Ramiro Enrique Paz",
         "jogador-posicao": "Forward",
         "jogador-gols": 7,
@@ -1351,7 +1351,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 7,
         "jogador-assists": 0,
-        "jogador-partidas": 11,
+        "jogador-partidas": 12,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-hilal-fc-riyadh.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-marcos-leonardo-santos-almeida.png"
       },
@@ -1369,7 +1369,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 6,
         "jogador-assists": 3,
-        "jogador-partidas": 11,
+        "jogador-partidas": 12,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-hilal-fc-riyadh.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/uruguay-darwin-nunez.png"
       },
@@ -1396,7 +1396,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 5,
         "jogador-assists": 4,
-        "jogador-partidas": 14,
+        "jogador-partidas": 15,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-neom-sc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/france-alexandre-lacazette.png"
       },
