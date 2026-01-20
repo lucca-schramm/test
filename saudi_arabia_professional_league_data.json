@@ -892,46 +892,46 @@
           "name": "Al Shabab FC Riyadh",
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-shabab-fc-riyadh.png"
         },
-        "points": 11,
+        "points": 12,
         "goalsDiff": -11,
         "group": "Saudi Arabia Professional League 2025",
         "status": "same",
         "description": "",
         "all": {
-          "played": 15,
+          "played": 16,
           "win": 2,
-          "draw": 5,
+          "draw": 6,
           "lose": 8,
           "goals": {
             "for": 14,
             "against": 25
           },
-          "form": "LLLWL",
+          "form": "LLWLD",
           "btts_matches": 9,
-          "avg_corners_per_game": 4.73,
-          "aproveitamento": 24.4,
+          "avg_corners_per_game": 5.0,
+          "aproveitamento": 25.0,
           "over_2_5_goals": 5,
           "over_0_5_ht": 5,
           "over_0_5_ft": 7,
-          "clean_sheets": 2
+          "clean_sheets": 3
         },
         "home": {
-          "played": 7,
+          "played": 8,
           "win": 2,
-          "draw": 2,
+          "draw": 3,
           "lose": 3,
           "goals": {
             "for": 10,
             "against": 13
           },
-          "form_home": "LDDLW",
-          "avg_corners_home_per_game": 5.29,
-          "aproveitamento_home": 38.1,
+          "form_home": "DDLWD",
+          "avg_corners_home_per_game": 5.75,
+          "aproveitamento_home": 37.5,
           "btts_home_matches": 6,
           "over_2_5_goals_home": 4,
           "over_0_5_ht_home": 3,
           "over_0_5_ft_home": 5,
-          "clean_sheets_home": 1
+          "clean_sheets_home": 2
         },
         "away": {
           "played": 8,
@@ -1164,28 +1164,28 @@
           "name": "Al Najma Club Saudi Arabia",
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-najma-club-saudi-arabia.png"
         },
-        "points": 3,
+        "points": 4,
         "goalsDiff": -17,
         "group": "Saudi Arabia Professional League 2025",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 15,
+          "played": 16,
           "win": 0,
-          "draw": 3,
+          "draw": 4,
           "lose": 12,
           "goals": {
             "for": 16,
             "against": 33
           },
-          "form": "LDLLD",
+          "form": "DLLDD",
           "btts_matches": 11,
-          "avg_corners_per_game": 3.67,
-          "aproveitamento": 6.7,
+          "avg_corners_per_game": 3.75,
+          "aproveitamento": 8.3,
           "over_2_5_goals": 10,
           "over_0_5_ht": 3,
           "over_0_5_ft": 9,
-          "clean_sheets": 1
+          "clean_sheets": 2
         },
         "home": {
           "played": 7,
@@ -1206,22 +1206,22 @@
           "clean_sheets_home": 0
         },
         "away": {
-          "played": 8,
+          "played": 9,
           "win": 0,
-          "draw": 1,
+          "draw": 2,
           "lose": 7,
           "goals": {
             "for": 7,
             "against": 18
           },
-          "form_visitor": "LDLLL",
+          "form_visitor": "DLLLD",
           "btts_away_matches": 6,
-          "avg_corners_away_per_game": 3.5,
-          "aproveitamento_away": 4.2,
+          "avg_corners_away_per_game": 3.67,
+          "aproveitamento_away": 7.4,
           "over_2_5_goals_away": 6,
           "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 4,
-          "clean_sheets_away": 1
+          "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
       }
@@ -1333,7 +1333,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 7,
         "jogador-assists": 3,
-        "jogador-partidas": 13,
+        "jogador-partidas": 14,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-shabab-fc-riyadh.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/belgium-yannick-carrasco.png"
       },
