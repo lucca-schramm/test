@@ -8,27 +8,27 @@
           "name": "FC Bayern München",
           "logo": "https://cdn.footystats.org/img/teams/germany-fc-bayern-munchen.png"
         },
-        "points": 50,
+        "points": 51,
         "goalsDiff": 56,
         "group": "Germany Bundesliga 2025",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 19,
+          "played": 20,
           "win": 16,
-          "draw": 2,
+          "draw": 3,
           "lose": 1,
           "goals": {
-            "for": 72,
-            "against": 16
+            "for": 74,
+            "against": 18
           },
-          "form": "WWWWL",
-          "btts_matches": 11,
-          "avg_corners_per_game": 6.16,
-          "aproveitamento": 87.7,
-          "over_2_5_goals": 19,
-          "over_0_5_ht": 17,
-          "over_0_5_ft": 17,
+          "form": "WWWLD",
+          "btts_matches": 12,
+          "avg_corners_per_game": 6.3,
+          "aproveitamento": 85.0,
+          "over_2_5_goals": 20,
+          "over_0_5_ht": 18,
+          "over_0_5_ft": 18,
           "clean_sheets": 8
         },
         "home": {
@@ -50,21 +50,21 @@
           "clean_sheets_home": 4
         },
         "away": {
-          "played": 9,
+          "played": 10,
           "win": 8,
-          "draw": 1,
+          "draw": 2,
           "lose": 0,
           "goals": {
-            "for": 32,
-            "against": 7
+            "for": 34,
+            "against": 9
           },
-          "form_visitor": "DWWWW",
-          "btts_away_matches": 5,
-          "avg_corners_away_per_game": 5.67,
-          "aproveitamento_away": 92.6,
-          "over_2_5_goals_away": 9,
-          "over_0_5_ht_away": 7,
-          "over_0_5_ft_away": 9,
+          "form_visitor": "WWWWD",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 6.0,
+          "aproveitamento_away": 86.7,
+          "over_2_5_goals_away": 10,
+          "over_0_5_ht_away": 8,
+          "over_0_5_ft_away": 10,
           "clean_sheets_away": 4
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -888,6 +888,74 @@
       {
         "rank": 14,
         "team": {
+          "id": 36,
+          "name": "Hamburger SV",
+          "logo": "https://cdn.footystats.org/img/teams/germany-hamburger-sv.png"
+        },
+        "points": 19,
+        "goalsDiff": -10,
+        "group": "Germany Bundesliga 2025",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 19,
+          "win": 4,
+          "draw": 7,
+          "lose": 8,
+          "goals": {
+            "for": 19,
+            "against": 29
+          },
+          "form": "DLDDD",
+          "btts_matches": 10,
+          "avg_corners_per_game": 3.63,
+          "aproveitamento": 33.3,
+          "over_2_5_goals": 10,
+          "over_0_5_ht": 5,
+          "over_0_5_ft": 10,
+          "clean_sheets": 5
+        },
+        "home": {
+          "played": 10,
+          "win": 4,
+          "draw": 4,
+          "lose": 2,
+          "goals": {
+            "for": 15,
+            "against": 11
+          },
+          "form_home": "WWDDD",
+          "avg_corners_home_per_game": 3.6,
+          "aproveitamento_home": 53.3,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 6,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 9,
+          "win": 0,
+          "draw": 3,
+          "lose": 6,
+          "goals": {
+            "for": 4,
+            "against": 18
+          },
+          "form_visitor": "LLLLD",
+          "btts_away_matches": 4,
+          "avg_corners_away_per_game": 3.67,
+          "aproveitamento_away": 11.1,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 15,
+        "team": {
           "id": 37,
           "name": "SV Werder Bremen",
           "logo": "https://cdn.footystats.org/img/teams/germany-sv-werder-bremen.png"
@@ -954,7 +1022,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 15,
+        "rank": 16,
         "team": {
           "id": 34,
           "name": "1. FSV Mainz 05",
@@ -1018,74 +1086,6 @@
           "over_0_5_ht_away": 6,
           "over_0_5_ft_away": 5,
           "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 16,
-        "team": {
-          "id": 36,
-          "name": "Hamburger SV",
-          "logo": "https://cdn.footystats.org/img/teams/germany-hamburger-sv.png"
-        },
-        "points": 18,
-        "goalsDiff": -10,
-        "group": "Germany Bundesliga 2025",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 18,
-          "win": 4,
-          "draw": 6,
-          "lose": 8,
-          "goals": {
-            "for": 17,
-            "against": 27
-          },
-          "form": "LDLDD",
-          "btts_matches": 9,
-          "avg_corners_per_game": 3.67,
-          "aproveitamento": 33.3,
-          "over_2_5_goals": 9,
-          "over_0_5_ht": 4,
-          "over_0_5_ft": 9,
-          "clean_sheets": 5
-        },
-        "home": {
-          "played": 9,
-          "win": 4,
-          "draw": 3,
-          "lose": 2,
-          "goals": {
-            "for": 13,
-            "against": 9
-          },
-          "form_home": "DWWDD",
-          "avg_corners_home_per_game": 3.67,
-          "aproveitamento_home": 55.6,
-          "btts_home_matches": 5,
-          "over_2_5_goals_home": 4,
-          "over_0_5_ht_home": 4,
-          "over_0_5_ft_home": 5,
-          "clean_sheets_home": 2
-        },
-        "away": {
-          "played": 9,
-          "win": 0,
-          "draw": 3,
-          "lose": 6,
-          "goals": {
-            "for": 4,
-            "against": 18
-          },
-          "form_visitor": "LLLLD",
-          "btts_away_matches": 4,
-          "avg_corners_away_per_game": 3.67,
-          "aproveitamento_away": 11.1,
-          "over_2_5_goals_away": 5,
-          "over_0_5_ht_away": 0,
-          "over_0_5_ft_away": 4,
-          "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1232,9 +1232,9 @@
       {
         "jogador-nome": "Harry Edward Kane",
         "jogador-posicao": "Forward",
-        "jogador-gols": 21,
+        "jogador-gols": 22,
         "jogador-assists": 4,
-        "jogador-partidas": 19,
+        "jogador-partidas": 20,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-fc-bayern-munchen.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/england-harry-kane.png"
       },
@@ -1251,10 +1251,19 @@
         "jogador-nome": "Michael Akpovie Olise",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 10,
-        "jogador-assists": 14,
-        "jogador-partidas": 19,
+        "jogador-assists": 15,
+        "jogador-partidas": 20,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-fc-bayern-munchen.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/france-michael-olise.png"
+      },
+      {
+        "jogador-nome": "Luis Fernando Díaz Marulanda",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 10,
+        "jogador-assists": 9,
+        "jogador-partidas": 19,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-fc-bayern-munchen.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/colombia-luis-diaz.png"
       },
       {
         "jogador-nome": "Haris Tabaković",
@@ -1264,15 +1273,6 @@
         "jogador-partidas": 19,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-borussia-vfl-monchengladbach.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/switzerland-haris-tabakovic.png"
-      },
-      {
-        "jogador-nome": "Luis Fernando Díaz Marulanda",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 9,
-        "jogador-assists": 9,
-        "jogador-partidas": 18,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-fc-bayern-munchen.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/colombia-luis-diaz.png"
       },
       {
         "jogador-nome": "Andrej Kramarić",
@@ -1342,7 +1342,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 6,
         "jogador-assists": 5,
-        "jogador-partidas": 14,
+        "jogador-partidas": 15,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-fc-bayern-munchen.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/germany-serge-gnabry.png"
       },
