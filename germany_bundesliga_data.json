@@ -72,6 +72,74 @@
       {
         "rank": 2,
         "team": {
+          "id": 33,
+          "name": "BVB 09 Borussia Dortmund",
+          "logo": "https://cdn.footystats.org/img/teams/germany-bvb-09-borussia-dortmund.png"
+        },
+        "points": 45,
+        "goalsDiff": 22,
+        "group": "Germany Bundesliga 2025",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 20,
+          "win": 13,
+          "draw": 6,
+          "lose": 1,
+          "goals": {
+            "for": 41,
+            "against": 19
+          },
+          "form": "DWWWW",
+          "btts_matches": 10,
+          "avg_corners_per_game": 5.25,
+          "aproveitamento": 75.0,
+          "over_2_5_goals": 10,
+          "over_0_5_ht": 17,
+          "over_0_5_ft": 14,
+          "clean_sheets": 10
+        },
+        "home": {
+          "played": 10,
+          "win": 8,
+          "draw": 2,
+          "lose": 0,
+          "goals": {
+            "for": 22,
+            "against": 8
+          },
+          "form_home": "WWWWW",
+          "avg_corners_home_per_game": 7.2,
+          "aproveitamento_home": 86.7,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 9,
+          "over_0_5_ft_home": 8,
+          "clean_sheets_home": 6
+        },
+        "away": {
+          "played": 10,
+          "win": 5,
+          "draw": 4,
+          "lose": 1,
+          "goals": {
+            "for": 19,
+            "against": 11
+          },
+          "form_visitor": "DWDDW",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 3.3,
+          "aproveitamento_away": 63.3,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 8,
+          "over_0_5_ft_away": 6,
+          "clean_sheets_away": 4
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 3,
+        "team": {
           "id": 49,
           "name": "TSG 1899 Hoffenheim",
           "logo": "https://cdn.footystats.org/img/teams/germany-tsg-1899-hoffenheim.png"
@@ -134,74 +202,6 @@
           "over_0_5_ht_away": 6,
           "over_0_5_ft_away": 6,
           "clean_sheets_away": 3
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 3,
-        "team": {
-          "id": 33,
-          "name": "BVB 09 Borussia Dortmund",
-          "logo": "https://cdn.footystats.org/img/teams/germany-bvb-09-borussia-dortmund.png"
-        },
-        "points": 42,
-        "goalsDiff": 21,
-        "group": "Germany Bundesliga 2025",
-        "status": "same",
-        "description": "Copa Libertadores",
-        "all": {
-          "played": 19,
-          "win": 12,
-          "draw": 6,
-          "lose": 1,
-          "goals": {
-            "for": 38,
-            "against": 17
-          },
-          "form": "WDWWW",
-          "btts_matches": 9,
-          "avg_corners_per_game": 4.89,
-          "aproveitamento": 73.7,
-          "over_2_5_goals": 9,
-          "over_0_5_ht": 16,
-          "over_0_5_ft": 13,
-          "clean_sheets": 10
-        },
-        "home": {
-          "played": 9,
-          "win": 7,
-          "draw": 2,
-          "lose": 0,
-          "goals": {
-            "for": 19,
-            "against": 6
-          },
-          "form_home": "DWWWW",
-          "avg_corners_home_per_game": 6.67,
-          "aproveitamento_home": 85.2,
-          "btts_home_matches": 3,
-          "over_2_5_goals_home": 4,
-          "over_0_5_ht_home": 8,
-          "over_0_5_ft_home": 7,
-          "clean_sheets_home": 6
-        },
-        "away": {
-          "played": 10,
-          "win": 5,
-          "draw": 4,
-          "lose": 1,
-          "goals": {
-            "for": 19,
-            "against": 11
-          },
-          "form_visitor": "DWDDW",
-          "btts_away_matches": 6,
-          "avg_corners_away_per_game": 3.3,
-          "aproveitamento_away": 63.3,
-          "over_2_5_goals_away": 5,
-          "over_0_5_ht_away": 8,
-          "over_0_5_ft_away": 6,
-          "clean_sheets_away": 4
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1165,26 +1165,26 @@
           "logo": "https://cdn.footystats.org/img/teams/germany-1-fc-heidenheim-1846.png"
         },
         "points": 13,
-        "goalsDiff": -25,
+        "goalsDiff": -26,
         "group": "Germany Bundesliga 2025",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 19,
+          "played": 20,
           "win": 3,
           "draw": 4,
-          "lose": 12,
+          "lose": 13,
           "goals": {
-            "for": 17,
-            "against": 42
+            "for": 19,
+            "against": 45
           },
-          "form": "LDLDL",
-          "btts_matches": 12,
-          "avg_corners_per_game": 4.74,
-          "aproveitamento": 22.8,
-          "over_2_5_goals": 14,
-          "over_0_5_ht": 4,
-          "over_0_5_ft": 8,
+          "form": "DLDLL",
+          "btts_matches": 13,
+          "avg_corners_per_game": 4.65,
+          "aproveitamento": 21.7,
+          "over_2_5_goals": 15,
+          "over_0_5_ht": 5,
+          "over_0_5_ft": 9,
           "clean_sheets": 0
         },
         "home": {
@@ -1206,21 +1206,21 @@
           "clean_sheets_home": 0
         },
         "away": {
-          "played": 9,
+          "played": 10,
           "win": 1,
           "draw": 1,
-          "lose": 7,
+          "lose": 8,
           "goals": {
-            "for": 7,
-            "against": 20
+            "for": 9,
+            "against": 23
           },
-          "form_visitor": "LWLLD",
-          "btts_away_matches": 6,
-          "avg_corners_away_per_game": 5.0,
-          "aproveitamento_away": 14.8,
-          "over_2_5_goals_away": 6,
-          "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 5,
+          "form_visitor": "WLLDL",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 4.8,
+          "aproveitamento_away": 13.3,
+          "over_2_5_goals_away": 7,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 6,
           "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1282,6 +1282,15 @@
         "jogador-partidas": 20,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-tsg-1899-hoffenheim.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/croatia-andrej-kramaric.png"
+      },
+      {
+        "jogador-nome": "Sehrou Guirassy",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 8,
+        "jogador-assists": 1,
+        "jogador-partidas": 19,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-bvb-09-borussia-dortmund.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/france-sehrou-guirassy.png"
       },
       {
         "jogador-nome": "Jonathan Burkardt",
@@ -1374,6 +1383,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/kosovo-fisnik-asllani.png"
       },
       {
+        "jogador-nome": "Maximilian Beier",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 6,
+        "jogador-assists": 3,
+        "jogador-partidas": 18,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-bvb-09-borussia-dortmund.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/germany-maximilian-beier.png"
+      },
+      {
         "jogador-nome": "Grischa Prömel",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 6,
@@ -1390,24 +1408,6 @@
         "jogador-partidas": 18,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-tsg-1899-hoffenheim.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/germany-tim-lemperle.png"
-      },
-      {
-        "jogador-nome": "Patrik Schick",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 6,
-        "jogador-assists": 2,
-        "jogador-partidas": 15,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-bayer-04-leverkusen.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/czech-republic-patrik-schick.png"
-      },
-      {
-        "jogador-nome": "Maximilian Beier",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 6,
-        "jogador-assists": 2,
-        "jogador-partidas": 17,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-bvb-09-borussia-dortmund.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/germany-maximilian-beier.png"
       }
     ]
   }
