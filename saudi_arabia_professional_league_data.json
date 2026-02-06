@@ -480,6 +480,74 @@
       {
         "rank": 8,
         "team": {
+          "id": 5097,
+          "name": "Neom SC",
+          "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-neom-sc.png"
+        },
+        "points": 28,
+        "goalsDiff": -3,
+        "group": "Saudi Arabia Professional League 2025",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 20,
+          "win": 8,
+          "draw": 4,
+          "lose": 8,
+          "goals": {
+            "for": 26,
+            "against": 29
+          },
+          "form": "DLWDW",
+          "btts_matches": 13,
+          "avg_corners_per_game": 4.5,
+          "aproveitamento": 46.7,
+          "over_2_5_goals": 12,
+          "over_0_5_ht": 9,
+          "over_0_5_ft": 12,
+          "clean_sheets": 4
+        },
+        "home": {
+          "played": 11,
+          "win": 4,
+          "draw": 1,
+          "lose": 6,
+          "goals": {
+            "for": 12,
+            "against": 17
+          },
+          "form_home": "LLLWW",
+          "avg_corners_home_per_game": 5.0,
+          "aproveitamento_home": 39.4,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 7,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 5,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 9,
+          "win": 4,
+          "draw": 3,
+          "lose": 2,
+          "goals": {
+            "for": 14,
+            "against": 12
+          },
+          "form_visitor": "DWLDD",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 3.89,
+          "aproveitamento_away": 55.6,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 7,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 9,
+        "team": {
           "id": 5077,
           "name": "Al Khaleej Saihat",
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-khaleej-saihat.png"
@@ -542,74 +610,6 @@
           "over_0_5_ht_away": 5,
           "over_0_5_ft_away": 8,
           "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 9,
-        "team": {
-          "id": 5097,
-          "name": "Neom SC",
-          "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-neom-sc.png"
-        },
-        "points": 25,
-        "goalsDiff": -4,
-        "group": "Saudi Arabia Professional League 2025",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 19,
-          "win": 7,
-          "draw": 4,
-          "lose": 8,
-          "goals": {
-            "for": 25,
-            "against": 29
-          },
-          "form": "LDLWD",
-          "btts_matches": 13,
-          "avg_corners_per_game": 4.58,
-          "aproveitamento": 43.9,
-          "over_2_5_goals": 12,
-          "over_0_5_ht": 9,
-          "over_0_5_ft": 11,
-          "clean_sheets": 3
-        },
-        "home": {
-          "played": 10,
-          "win": 3,
-          "draw": 1,
-          "lose": 6,
-          "goals": {
-            "for": 11,
-            "against": 17
-          },
-          "form_home": "LLLLW",
-          "avg_corners_home_per_game": 5.2,
-          "aproveitamento_home": 33.3,
-          "btts_home_matches": 6,
-          "over_2_5_goals_home": 7,
-          "over_0_5_ht_home": 5,
-          "over_0_5_ft_home": 4,
-          "clean_sheets_home": 2
-        },
-        "away": {
-          "played": 9,
-          "win": 4,
-          "draw": 3,
-          "lose": 2,
-          "goals": {
-            "for": 14,
-            "against": 12
-          },
-          "form_visitor": "DWLDD",
-          "btts_away_matches": 7,
-          "avg_corners_away_per_game": 3.89,
-          "aproveitamento_away": 55.6,
-          "over_2_5_goals_away": 5,
-          "over_0_5_ht_away": 4,
-          "over_0_5_ft_away": 7,
-          "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -961,23 +961,23 @@
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-riyadh-sc.png"
         },
         "points": 12,
-        "goalsDiff": -21,
+        "goalsDiff": -22,
         "group": "Saudi Arabia Professional League 2025",
         "status": "same",
         "description": "",
         "all": {
-          "played": 19,
+          "played": 20,
           "win": 2,
           "draw": 6,
-          "lose": 11,
+          "lose": 12,
           "goals": {
             "for": 18,
-            "against": 39
+            "against": 40
           },
-          "form": "LDDDL",
+          "form": "DDDLL",
           "btts_matches": 14,
-          "avg_corners_per_game": 5.42,
-          "aproveitamento": 21.1,
+          "avg_corners_per_game": 5.25,
+          "aproveitamento": 20.0,
           "over_2_5_goals": 10,
           "over_0_5_ht": 7,
           "over_0_5_ft": 10,
@@ -1002,18 +1002,18 @@
           "clean_sheets_home": 1
         },
         "away": {
-          "played": 9,
+          "played": 10,
           "win": 0,
           "draw": 3,
-          "lose": 6,
+          "lose": 7,
           "goals": {
             "for": 8,
-            "against": 24
+            "against": 25
           },
-          "form_visitor": "LLLDD",
+          "form_visitor": "LLDDL",
           "btts_away_matches": 7,
-          "avg_corners_away_per_game": 4.89,
-          "aproveitamento_away": 11.1,
+          "avg_corners_away_per_game": 4.6,
+          "aproveitamento_away": 10.0,
           "over_2_5_goals_away": 6,
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 5,
@@ -1347,6 +1347,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-marcos-leonardo-santos-almeida.png"
       },
       {
+        "jogador-nome": "Alexandre Lacazette",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 8,
+        "jogador-assists": 4,
+        "jogador-partidas": 20,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-neom-sc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/france-alexandre-lacazette.png"
+      },
+      {
         "jogador-nome": "Konstantinos Fortounis",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 7,
@@ -1363,15 +1372,6 @@
         "jogador-partidas": 15,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-shabab-fc-riyadh.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/belgium-yannick-carrasco.png"
-      },
-      {
-        "jogador-nome": "Alexandre Lacazette",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 7,
-        "jogador-assists": 4,
-        "jogador-partidas": 19,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-neom-sc.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/france-alexandre-lacazette.png"
       },
       {
         "jogador-nome": "Khalid Essa AL Ghannam",
