@@ -212,44 +212,44 @@
           "name": "Al Quadisiya Al Khubar",
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-quadisiya-al-khubar.png"
         },
-        "points": 43,
+        "points": 44,
         "goalsDiff": 26,
         "group": "Saudi Arabia Professional League 2025",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 19,
+          "played": 20,
           "win": 13,
-          "draw": 4,
+          "draw": 5,
           "lose": 2,
           "goals": {
-            "for": 44,
-            "against": 18
+            "for": 45,
+            "against": 19
           },
-          "form": "WWWDW",
-          "btts_matches": 12,
-          "avg_corners_per_game": 6.68,
-          "aproveitamento": 75.4,
+          "form": "WWDWD",
+          "btts_matches": 13,
+          "avg_corners_per_game": 6.95,
+          "aproveitamento": 73.3,
           "over_2_5_goals": 14,
-          "over_0_5_ht": 12,
+          "over_0_5_ht": 13,
           "over_0_5_ft": 14,
           "clean_sheets": 6
         },
         "home": {
-          "played": 9,
+          "played": 10,
           "win": 6,
-          "draw": 3,
+          "draw": 4,
           "lose": 0,
           "goals": {
-            "for": 23,
-            "against": 6
+            "for": 24,
+            "against": 7
           },
-          "form_home": "DWWWD",
-          "avg_corners_home_per_game": 8.44,
-          "aproveitamento_home": 77.8,
-          "btts_home_matches": 5,
+          "form_home": "WWWDD",
+          "avg_corners_home_per_game": 8.8,
+          "aproveitamento_home": 73.3,
+          "btts_home_matches": 6,
           "over_2_5_goals_home": 7,
-          "over_0_5_ht_home": 7,
+          "over_0_5_ht_home": 8,
           "over_0_5_ft_home": 7,
           "clean_sheets_home": 4
         },
@@ -620,26 +620,26 @@
           "name": "Al Fateh SC",
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-fateh-sc.png"
         },
-        "points": 23,
+        "points": 24,
         "goalsDiff": -9,
         "group": "Saudi Arabia Professional League 2025",
         "status": "same",
         "description": "",
         "all": {
-          "played": 19,
+          "played": 20,
           "win": 6,
-          "draw": 5,
+          "draw": 6,
           "lose": 8,
           "goals": {
-            "for": 25,
-            "against": 34
+            "for": 26,
+            "against": 35
           },
-          "form": "DLLDD",
-          "btts_matches": 13,
-          "avg_corners_per_game": 5.63,
-          "aproveitamento": 40.4,
+          "form": "LLDDD",
+          "btts_matches": 14,
+          "avg_corners_per_game": 5.4,
+          "aproveitamento": 40.0,
           "over_2_5_goals": 10,
-          "over_0_5_ht": 11,
+          "over_0_5_ht": 12,
           "over_0_5_ft": 11,
           "clean_sheets": 4
         },
@@ -662,20 +662,20 @@
           "clean_sheets_home": 1
         },
         "away": {
-          "played": 9,
+          "played": 10,
           "win": 2,
-          "draw": 3,
+          "draw": 4,
           "lose": 4,
           "goals": {
-            "for": 8,
-            "against": 15
+            "for": 9,
+            "against": 16
           },
-          "form_visitor": "LWWDL",
-          "btts_away_matches": 5,
-          "avg_corners_away_per_game": 5.22,
+          "form_visitor": "WWDLD",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 4.8,
           "aproveitamento_away": 33.3,
           "over_2_5_goals_away": 3,
-          "over_0_5_ht_away": 5,
+          "over_0_5_ht_away": 6,
           "over_0_5_ft_away": 3,
           "clean_sheets_away": 3
         },
@@ -1241,9 +1241,9 @@
       {
         "jogador-nome": "Julián Andrés Quiñones Quiñones",
         "jogador-posicao": "Forward",
-        "jogador-gols": 17,
+        "jogador-gols": 18,
         "jogador-assists": 2,
-        "jogador-partidas": 16,
+        "jogador-partidas": 17,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-quadisiya-al-khubar.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/colombia-julian-andres-quinones-quinones.png"
       },
@@ -1392,6 +1392,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/zambia-junior-fashion-sakala.png"
       },
       {
+        "jogador-nome": "Matías Ezequiel Vargas Martin",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 7,
+        "jogador-assists": 1,
+        "jogador-partidas": 19,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-fateh-sc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/argentina-matias-ezequiel-vargas-martin.png"
+      },
+      {
         "jogador-nome": "Salem Mohammed Al Dawsari",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 6,
@@ -1399,15 +1408,6 @@
         "jogador-partidas": 14,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-hilal-fc-riyadh.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/saudi-arabia-salem-mohammed-al-dawsari.png"
-      },
-      {
-        "jogador-nome": "Darwin Gabriel Núñez Ribeiro",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 6,
-        "jogador-assists": 4,
-        "jogador-partidas": 16,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-hilal-fc-riyadh.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/uruguay-darwin-nunez.png"
       }
     ]
   }
