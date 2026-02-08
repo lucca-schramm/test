@@ -1,6 +1,5583 @@
 {
   "standings": {
-    "europe_uefa_champions_league": []
+    "europe_uefa_champions_league": [
+      {
+        "rank": 1,
+        "team": {
+          "id": 75,
+          "name": "Qarabağ Ağdam FK",
+          "logo": "https://cdn.footystats.org/img/teams/azerbaijan-qarabag-agdam-fk.png"
+        },
+        "points": 25,
+        "goalsDiff": 2,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 14,
+          "win": 8,
+          "draw": 1,
+          "lose": 5,
+          "goals": {
+            "for": 28,
+            "against": 26
+          },
+          "form": "DLLWL",
+          "btts_matches": 8,
+          "avg_corners_per_game": 4.0,
+          "aproveitamento": 59.5,
+          "over_2_5_goals": 10,
+          "over_0_5_ht": 11,
+          "over_0_5_ft": 7,
+          "clean_sheets": 4
+        },
+        "home": {
+          "played": 7,
+          "win": 4,
+          "draw": 1,
+          "lose": 2,
+          "goals": {
+            "for": 17,
+            "against": 12
+          },
+          "form_home": "LWDLW",
+          "avg_corners_home_per_game": 4.29,
+          "aproveitamento_home": 61.9,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 7,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 7,
+          "win": 4,
+          "draw": 0,
+          "lose": 3,
+          "goals": {
+            "for": 11,
+            "against": 14
+          },
+          "form_visitor": "WWLLL",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 3.71,
+          "aproveitamento_away": 57.1,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 2,
+        "team": {
+          "id": 59,
+          "name": "Arsenal FC",
+          "logo": "https://cdn.footystats.org/img/teams/england-arsenal-fc.png"
+        },
+        "points": 24,
+        "goalsDiff": 19,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 8,
+          "win": 8,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 23,
+            "against": 4
+          },
+          "form": "WWWWW",
+          "btts_matches": 3,
+          "avg_corners_per_game": 5.5,
+          "aproveitamento": 100.0,
+          "over_2_5_goals": 6,
+          "over_0_5_ht": 6,
+          "over_0_5_ft": 7,
+          "clean_sheets": 5
+        },
+        "home": {
+          "played": 4,
+          "win": 4,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 12,
+            "against": 3
+          },
+          "form_home": "WWWW",
+          "avg_corners_home_per_game": 5.75,
+          "aproveitamento_home": 100.0,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 4,
+          "win": 4,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 11,
+            "against": 1
+          },
+          "form_visitor": "WWWW",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 5.25,
+          "aproveitamento_away": 100.0,
+          "over_2_5_goals_away": 3,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 3,
+        "team": {
+          "id": 3743,
+          "name": "Paphos FC",
+          "logo": "https://cdn.footystats.org/img/teams/cyprus-paphos-fc.png"
+        },
+        "points": 23,
+        "goalsDiff": 2,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 14,
+          "win": 6,
+          "draw": 5,
+          "lose": 3,
+          "goals": {
+            "for": 16,
+            "against": 14
+          },
+          "form": "WDLLW",
+          "btts_matches": 6,
+          "avg_corners_per_game": 4.07,
+          "aproveitamento": 54.8,
+          "over_2_5_goals": 4,
+          "over_0_5_ht": 6,
+          "over_0_5_ft": 8,
+          "clean_sheets": 6
+        },
+        "home": {
+          "played": 7,
+          "win": 3,
+          "draw": 3,
+          "lose": 1,
+          "goals": {
+            "for": 12,
+            "against": 10
+          },
+          "form_home": "DLWDW",
+          "avg_corners_home_per_game": 4.57,
+          "aproveitamento_home": 57.1,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 6,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 7,
+          "win": 3,
+          "draw": 2,
+          "lose": 2,
+          "goals": {
+            "for": 4,
+            "against": 4
+          },
+          "form_visitor": "WDDLL",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 3.57,
+          "aproveitamento_away": 52.4,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 4
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 4,
+        "team": {
+          "id": 95,
+          "name": "Club Brugge KV",
+          "logo": "https://cdn.footystats.org/img/teams/belgium-club-brugge-kv.png"
+        },
+        "points": 22,
+        "goalsDiff": 8,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 12,
+          "win": 7,
+          "draw": 1,
+          "lose": 4,
+          "goals": {
+            "for": 28,
+            "against": 20
+          },
+          "form": "DLLWW",
+          "btts_matches": 6,
+          "avg_corners_per_game": 4.33,
+          "aproveitamento": 61.1,
+          "over_2_5_goals": 11,
+          "over_0_5_ht": 7,
+          "over_0_5_ft": 7,
+          "clean_sheets": 3
+        },
+        "home": {
+          "played": 6,
+          "win": 4,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 19,
+            "against": 9
+          },
+          "form_home": "WWDLW",
+          "avg_corners_home_per_game": 4.5,
+          "aproveitamento_home": 72.2,
+          "btts_home_matches": 3,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 5,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 6,
+          "win": 3,
+          "draw": 0,
+          "lose": 3,
+          "goals": {
+            "for": 9,
+            "against": 11
+          },
+          "form_visitor": "WLLLW",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 4.17,
+          "aproveitamento_away": 50.0,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 5,
+        "team": {
+          "id": 55,
+          "name": "FC København",
+          "logo": "https://cdn.footystats.org/img/teams/denmark-fc-kobenhavn.png"
+        },
+        "points": 22,
+        "goalsDiff": 1,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 14,
+          "win": 6,
+          "draw": 4,
+          "lose": 4,
+          "goals": {
+            "for": 23,
+            "against": 22
+          },
+          "form": "LWWDL",
+          "btts_matches": 7,
+          "avg_corners_per_game": 4.14,
+          "aproveitamento": 52.4,
+          "over_2_5_goals": 7,
+          "over_0_5_ht": 8,
+          "over_0_5_ft": 8,
+          "clean_sheets": 5
+        },
+        "home": {
+          "played": 7,
+          "win": 4,
+          "draw": 2,
+          "lose": 1,
+          "goals": {
+            "for": 17,
+            "against": 9
+          },
+          "form_home": "WDLWD",
+          "avg_corners_home_per_game": 3.57,
+          "aproveitamento_home": 66.7,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 7,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 7,
+          "win": 2,
+          "draw": 2,
+          "lose": 3,
+          "goals": {
+            "for": 6,
+            "against": 13
+          },
+          "form_visitor": "DLLWL",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 4.71,
+          "aproveitamento_away": 38.1,
+          "over_2_5_goals_away": 3,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 6,
+        "team": {
+          "id": 38,
+          "name": "FC Bayern München",
+          "logo": "https://cdn.footystats.org/img/teams/germany-fc-bayern-munchen.png"
+        },
+        "points": 21,
+        "goalsDiff": 14,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 8,
+          "win": 7,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 22,
+            "against": 8
+          },
+          "form": "WLWWW",
+          "btts_matches": 6,
+          "avg_corners_per_game": 4.62,
+          "aproveitamento": 87.5,
+          "over_2_5_goals": 7,
+          "over_0_5_ht": 5,
+          "over_0_5_ft": 6,
+          "clean_sheets": 2
+        },
+        "home": {
+          "played": 4,
+          "win": 4,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 12,
+            "against": 2
+          },
+          "form_home": "WWWW",
+          "avg_corners_home_per_game": 5.75,
+          "aproveitamento_home": 100.0,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 4,
+          "win": 3,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 10,
+            "against": 6
+          },
+          "form_visitor": "WWLW",
+          "btts_away_matches": 4,
+          "avg_corners_away_per_game": 3.5,
+          "aproveitamento_away": 75.0,
+          "over_2_5_goals_away": 4,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 7,
+        "team": {
+          "id": 78,
+          "name": "SL Benfica",
+          "logo": "https://cdn.footystats.org/img/teams/portugal-sl-benfica.png"
+        },
+        "points": 19,
+        "goalsDiff": 3,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 12,
+          "win": 6,
+          "draw": 1,
+          "lose": 5,
+          "goals": {
+            "for": 15,
+            "against": 12
+          },
+          "form": "LWWLW",
+          "btts_matches": 2,
+          "avg_corners_per_game": 5.42,
+          "aproveitamento": 52.8,
+          "over_2_5_goals": 3,
+          "over_0_5_ht": 6,
+          "over_0_5_ft": 4,
+          "clean_sheets": 6
+        },
+        "home": {
+          "played": 6,
+          "win": 4,
+          "draw": 0,
+          "lose": 2,
+          "goals": {
+            "for": 11,
+            "against": 6
+          },
+          "form_home": "WLLWW",
+          "avg_corners_home_per_game": 5.33,
+          "aproveitamento_home": 66.7,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 2,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 6,
+          "win": 2,
+          "draw": 1,
+          "lose": 3,
+          "goals": {
+            "for": 4,
+            "against": 6
+          },
+          "form_visitor": "DLLWL",
+          "btts_away_matches": 0,
+          "avg_corners_away_per_game": 5.5,
+          "aproveitamento_away": 38.9,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 8,
+        "team": {
+          "id": 151,
+          "name": "Liverpool FC",
+          "logo": "https://cdn.footystats.org/img/teams/england-liverpool-fc.png"
+        },
+        "points": 18,
+        "goalsDiff": 12,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 8,
+          "win": 6,
+          "draw": 0,
+          "lose": 2,
+          "goals": {
+            "for": 20,
+            "against": 8
+          },
+          "form": "WLWWW",
+          "btts_matches": 3,
+          "avg_corners_per_game": 7.5,
+          "aproveitamento": 75.0,
+          "over_2_5_goals": 5,
+          "over_0_5_ht": 5,
+          "over_0_5_ft": 6,
+          "clean_sheets": 4
+        },
+        "home": {
+          "played": 4,
+          "win": 3,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 11,
+            "against": 6
+          },
+          "form_home": "WWLW",
+          "avg_corners_home_per_game": 9.0,
+          "aproveitamento_home": 75.0,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 4,
+          "win": 3,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 9,
+            "against": 2
+          },
+          "form_visitor": "LWWW",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 6.0,
+          "aproveitamento_away": 75.0,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 9,
+        "team": {
+          "id": 92,
+          "name": "Tottenham Hotspur FC",
+          "logo": "https://cdn.footystats.org/img/teams/england-tottenham-hotspur-fc.png"
+        },
+        "points": 17,
+        "goalsDiff": 10,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 8,
+          "win": 5,
+          "draw": 2,
+          "lose": 1,
+          "goals": {
+            "for": 17,
+            "against": 7
+          },
+          "form": "WLWWW",
+          "btts_matches": 2,
+          "avg_corners_per_game": 4.62,
+          "aproveitamento": 70.8,
+          "over_2_5_goals": 4,
+          "over_0_5_ht": 5,
+          "over_0_5_ft": 5,
+          "clean_sheets": 6
+        },
+        "home": {
+          "played": 4,
+          "win": 4,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 10,
+            "against": 0
+          },
+          "form_home": "WWWW",
+          "avg_corners_home_per_game": 4.5,
+          "aproveitamento_home": 100.0,
+          "btts_home_matches": 0,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 2,
+          "clean_sheets_home": 4
+        },
+        "away": {
+          "played": 4,
+          "win": 1,
+          "draw": 2,
+          "lose": 1,
+          "goals": {
+            "for": 7,
+            "against": 7
+          },
+          "form_visitor": "DDLW",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 4.75,
+          "aproveitamento_away": 41.7,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 10,
+        "team": {
+          "id": 83,
+          "name": "FC Barcelona",
+          "logo": "https://cdn.footystats.org/img/teams/spain-fc-barcelona.png"
+        },
+        "points": 16,
+        "goalsDiff": 8,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 8,
+          "win": 5,
+          "draw": 1,
+          "lose": 2,
+          "goals": {
+            "for": 22,
+            "against": 14
+          },
+          "form": "DLWWW",
+          "btts_matches": 7,
+          "avg_corners_per_game": 4.62,
+          "aproveitamento": 66.7,
+          "over_2_5_goals": 8,
+          "over_0_5_ht": 4,
+          "over_0_5_ft": 6,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 4,
+          "win": 3,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 13,
+            "against": 5
+          },
+          "form_home": "LWWW",
+          "avg_corners_home_per_game": 6.5,
+          "aproveitamento_home": 75.0,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 4,
+          "win": 2,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 9,
+            "against": 9
+          },
+          "form_visitor": "WDLW",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 2.75,
+          "aproveitamento_away": 58.3,
+          "over_2_5_goals_away": 4,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 11,
+        "team": {
+          "id": 152,
+          "name": "Chelsea FC",
+          "logo": "https://cdn.footystats.org/img/teams/england-chelsea-fc.png"
+        },
+        "points": 16,
+        "goalsDiff": 7,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 8,
+          "win": 5,
+          "draw": 1,
+          "lose": 2,
+          "goals": {
+            "for": 17,
+            "against": 10
+          },
+          "form": "DWLWW",
+          "btts_matches": 5,
+          "avg_corners_per_game": 6.12,
+          "aproveitamento": 66.7,
+          "over_2_5_goals": 6,
+          "over_0_5_ht": 7,
+          "over_0_5_ft": 5,
+          "clean_sheets": 3
+        },
+        "home": {
+          "played": 4,
+          "win": 4,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 10,
+            "against": 1
+          },
+          "form_home": "WWWW",
+          "avg_corners_home_per_game": 8.25,
+          "aproveitamento_home": 100.0,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 4,
+          "win": 1,
+          "draw": 1,
+          "lose": 2,
+          "goals": {
+            "for": 7,
+            "against": 9
+          },
+          "form_visitor": "LDLW",
+          "btts_away_matches": 4,
+          "avg_corners_away_per_game": 4.0,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 4,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 12,
+        "team": {
+          "id": 114,
+          "name": "Sporting Clube de Portugal",
+          "logo": "https://cdn.footystats.org/img/teams/portugal-sporting-clube-de-portugal.png"
+        },
+        "points": 16,
+        "goalsDiff": 6,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 8,
+          "win": 5,
+          "draw": 1,
+          "lose": 2,
+          "goals": {
+            "for": 17,
+            "against": 11
+          },
+          "form": "DWLWW",
+          "btts_matches": 7,
+          "avg_corners_per_game": 3.5,
+          "aproveitamento": 66.7,
+          "over_2_5_goals": 7,
+          "over_0_5_ht": 4,
+          "over_0_5_ft": 7,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 4,
+          "win": 4,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 11,
+            "against": 3
+          },
+          "form_home": "WWWW",
+          "avg_corners_home_per_game": 4.0,
+          "aproveitamento_home": 100.0,
+          "btts_home_matches": 3,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 4,
+          "win": 1,
+          "draw": 1,
+          "lose": 2,
+          "goals": {
+            "for": 6,
+            "against": 8
+          },
+          "form_visitor": "LDLW",
+          "btts_away_matches": 4,
+          "avg_corners_away_per_game": 3.0,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 3,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 13,
+        "team": {
+          "id": 93,
+          "name": "Manchester City FC",
+          "logo": "https://cdn.footystats.org/img/teams/england-manchester-city-fc.png"
+        },
+        "points": 16,
+        "goalsDiff": 6,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 8,
+          "win": 5,
+          "draw": 1,
+          "lose": 2,
+          "goals": {
+            "for": 15,
+            "against": 9
+          },
+          "form": "WLWLW",
+          "btts_matches": 4,
+          "avg_corners_per_game": 5.5,
+          "aproveitamento": 66.7,
+          "over_2_5_goals": 4,
+          "over_0_5_ht": 5,
+          "over_0_5_ft": 3,
+          "clean_sheets": 3
+        },
+        "home": {
+          "played": 4,
+          "win": 3,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 8,
+            "against": 3
+          },
+          "form_home": "WWLW",
+          "avg_corners_home_per_game": 6.5,
+          "aproveitamento_home": 75.0,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 2,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 4,
+          "win": 2,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 7,
+            "against": 6
+          },
+          "form_visitor": "DWWL",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 4.5,
+          "aproveitamento_away": 58.3,
+          "over_2_5_goals_away": 3,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 14,
+        "team": {
+          "id": 84,
+          "name": "Real Madrid CF",
+          "logo": "https://cdn.footystats.org/img/teams/spain-real-madrid-cf.png"
+        },
+        "points": 15,
+        "goalsDiff": 9,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 8,
+          "win": 5,
+          "draw": 0,
+          "lose": 3,
+          "goals": {
+            "for": 21,
+            "against": 12
+          },
+          "form": "LWLWL",
+          "btts_matches": 5,
+          "avg_corners_per_game": 6.62,
+          "aproveitamento": 62.5,
+          "over_2_5_goals": 6,
+          "over_0_5_ht": 6,
+          "over_0_5_ft": 6,
+          "clean_sheets": 2
+        },
+        "home": {
+          "played": 4,
+          "win": 3,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 10,
+            "against": 4
+          },
+          "form_home": "WWLW",
+          "avg_corners_home_per_game": 8.75,
+          "aproveitamento_home": 75.0,
+          "btts_home_matches": 3,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 4,
+          "win": 2,
+          "draw": 0,
+          "lose": 2,
+          "goals": {
+            "for": 11,
+            "against": 8
+          },
+          "form_visitor": "WLWL",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 4.5,
+          "aproveitamento_away": 50.0,
+          "over_2_5_goals_away": 3,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 15,
+        "team": {
+          "id": 470,
+          "name": "FC Internazionale Milano",
+          "logo": "https://cdn.footystats.org/img/teams/italy-fc-internazionale-milano.png"
+        },
+        "points": 15,
+        "goalsDiff": 8,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 8,
+          "win": 5,
+          "draw": 0,
+          "lose": 3,
+          "goals": {
+            "for": 15,
+            "against": 7
+          },
+          "form": "WLLLW",
+          "btts_matches": 3,
+          "avg_corners_per_game": 5.25,
+          "aproveitamento": 62.5,
+          "over_2_5_goals": 5,
+          "over_0_5_ht": 5,
+          "over_0_5_ft": 6,
+          "clean_sheets": 4
+        },
+        "home": {
+          "played": 4,
+          "win": 2,
+          "draw": 0,
+          "lose": 2,
+          "goals": {
+            "for": 6,
+            "against": 5
+          },
+          "form_home": "WWLL",
+          "avg_corners_home_per_game": 6.0,
+          "aproveitamento_home": 50.0,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 2,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 4,
+          "win": 3,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 9,
+            "against": 2
+          },
+          "form_visitor": "WWLW",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 4.5,
+          "aproveitamento_away": 75.0,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 16,
+        "team": {
+          "id": 68,
+          "name": "Paris Saint-Germain FC",
+          "logo": "https://cdn.footystats.org/img/teams/france-paris-saint-germain-fc.png"
+        },
+        "points": 14,
+        "goalsDiff": 10,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 8,
+          "win": 4,
+          "draw": 2,
+          "lose": 2,
+          "goals": {
+            "for": 21,
+            "against": 11
+          },
+          "form": "LWDLD",
+          "btts_matches": 6,
+          "avg_corners_per_game": 6.75,
+          "aproveitamento": 58.3,
+          "over_2_5_goals": 6,
+          "over_0_5_ht": 5,
+          "over_0_5_ft": 6,
+          "clean_sheets": 2
+        },
+        "home": {
+          "played": 4,
+          "win": 2,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 11,
+            "against": 6
+          },
+          "form_home": "WLWD",
+          "avg_corners_home_per_game": 6.25,
+          "aproveitamento_home": 58.3,
+          "btts_home_matches": 3,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 4,
+          "win": 2,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 10,
+            "against": 5
+          },
+          "form_visitor": "WWDL",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 7.25,
+          "aproveitamento_away": 58.3,
+          "over_2_5_goals_away": 3,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 17,
+        "team": {
+          "id": 157,
+          "name": "Newcastle United FC",
+          "logo": "https://cdn.footystats.org/img/teams/england-newcastle-united-fc.png"
+        },
+        "points": 14,
+        "goalsDiff": 10,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 8,
+          "win": 4,
+          "draw": 2,
+          "lose": 2,
+          "goals": {
+            "for": 17,
+            "against": 7
+          },
+          "form": "WLDWD",
+          "btts_matches": 4,
+          "avg_corners_per_game": 5.0,
+          "aproveitamento": 58.3,
+          "over_2_5_goals": 6,
+          "over_0_5_ht": 6,
+          "over_0_5_ft": 6,
+          "clean_sheets": 4
+        },
+        "home": {
+          "played": 4,
+          "win": 3,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 9,
+            "against": 2
+          },
+          "form_home": "LWWW",
+          "avg_corners_home_per_game": 5.75,
+          "aproveitamento_home": 75.0,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 4,
+          "win": 1,
+          "draw": 2,
+          "lose": 1,
+          "goals": {
+            "for": 8,
+            "against": 5
+          },
+          "form_visitor": "WLDD",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 4.25,
+          "aproveitamento_away": 41.7,
+          "over_2_5_goals_away": 3,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 18,
+        "team": {
+          "id": 119,
+          "name": "Ferencvárosi TC",
+          "logo": "https://cdn.footystats.org/img/teams/hungary-ferencvarosi-tc.png"
+        },
+        "points": 13,
+        "goalsDiff": 4,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 6,
+          "win": 4,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 13,
+            "against": 9
+          },
+          "form": "WDWLW",
+          "btts_matches": 4,
+          "avg_corners_per_game": 4.67,
+          "aproveitamento": 72.2,
+          "over_2_5_goals": 5,
+          "over_0_5_ht": 5,
+          "over_0_5_ft": 4,
+          "clean_sheets": 2
+        },
+        "home": {
+          "played": 3,
+          "win": 2,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 8,
+            "against": 6
+          },
+          "form_home": "WWL",
+          "avg_corners_home_per_game": 4.0,
+          "aproveitamento_home": 66.7,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 2,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 3,
+          "win": 2,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 5,
+            "against": 3
+          },
+          "form_visitor": "WDW",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 5.33,
+          "aproveitamento_away": 77.8,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 19,
+        "team": {
+          "id": 656,
+          "name": "Malmö FF",
+          "logo": "https://cdn.footystats.org/img/teams/sweden-malmo-ff.png"
+        },
+        "points": 13,
+        "goalsDiff": 3,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 6,
+          "win": 4,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 11,
+            "against": 8
+          },
+          "form": "WWWDL",
+          "btts_matches": 3,
+          "avg_corners_per_game": 4.0,
+          "aproveitamento": 72.2,
+          "over_2_5_goals": 4,
+          "over_0_5_ht": 3,
+          "over_0_5_ft": 3,
+          "clean_sheets": 2
+        },
+        "home": {
+          "played": 3,
+          "win": 2,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 4,
+            "against": 1
+          },
+          "form_home": "WWD",
+          "avg_corners_home_per_game": 4.67,
+          "aproveitamento_home": 77.8,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 3,
+          "win": 2,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 7,
+            "against": 7
+          },
+          "form_visitor": "WWL",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 3.33,
+          "aproveitamento_away": 66.7,
+          "over_2_5_goals_away": 3,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 20,
+        "team": {
+          "id": 117,
+          "name": "Club Atlético de Madrid",
+          "logo": "https://cdn.footystats.org/img/teams/spain-club-atletico-de-madrid.png"
+        },
+        "points": 13,
+        "goalsDiff": 2,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 8,
+          "win": 4,
+          "draw": 1,
+          "lose": 3,
+          "goals": {
+            "for": 17,
+            "against": 15
+          },
+          "form": "WWWDL",
+          "btts_matches": 7,
+          "avg_corners_per_game": 6.88,
+          "aproveitamento": 54.2,
+          "over_2_5_goals": 7,
+          "over_0_5_ht": 7,
+          "over_0_5_ft": 5,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 4,
+          "win": 3,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 11,
+            "against": 5
+          },
+          "form_home": "WWWL",
+          "avg_corners_home_per_game": 8.25,
+          "aproveitamento_home": 75.0,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 4,
+          "win": 1,
+          "draw": 1,
+          "lose": 2,
+          "goals": {
+            "for": 6,
+            "against": 10
+          },
+          "form_visitor": "LLWD",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 5.5,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 3,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 21,
+        "team": {
+          "id": 464,
+          "name": "Atalanta Bergamasca Calcio",
+          "logo": "https://cdn.footystats.org/img/teams/italy-atalanta-bergamasca-calcio.png"
+        },
+        "points": 13,
+        "goalsDiff": 0,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 8,
+          "win": 4,
+          "draw": 1,
+          "lose": 3,
+          "goals": {
+            "for": 10,
+            "against": 10
+          },
+          "form": "WWWLL",
+          "btts_matches": 3,
+          "avg_corners_per_game": 4.5,
+          "aproveitamento": 54.2,
+          "over_2_5_goals": 5,
+          "over_0_5_ht": 1,
+          "over_0_5_ft": 5,
+          "clean_sheets": 3
+        },
+        "home": {
+          "played": 4,
+          "win": 2,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 6,
+            "against": 5
+          },
+          "form_home": "WDWL",
+          "avg_corners_home_per_game": 5.0,
+          "aproveitamento_home": 58.3,
+          "btts_home_matches": 3,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 4,
+          "win": 2,
+          "draw": 0,
+          "lose": 2,
+          "goals": {
+            "for": 4,
+            "against": 5
+          },
+          "form_visitor": "LWWL",
+          "btts_away_matches": 0,
+          "avg_corners_away_per_game": 4.0,
+          "aproveitamento_away": 50.0,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 22,
+        "team": {
+          "id": 90,
+          "name": "Juventus FC",
+          "logo": "https://cdn.footystats.org/img/teams/italy-juventus-fc.png"
+        },
+        "points": 13,
+        "goalsDiff": 4,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 8,
+          "win": 3,
+          "draw": 4,
+          "lose": 1,
+          "goals": {
+            "for": 14,
+            "against": 10
+          },
+          "form": "DWWWD",
+          "btts_matches": 4,
+          "avg_corners_per_game": 5.62,
+          "aproveitamento": 54.2,
+          "over_2_5_goals": 3,
+          "over_0_5_ht": 1,
+          "over_0_5_ft": 5,
+          "clean_sheets": 3
+        },
+        "home": {
+          "played": 4,
+          "win": 2,
+          "draw": 2,
+          "lose": 0,
+          "goals": {
+            "for": 9,
+            "against": 5
+          },
+          "form_home": "DDWW",
+          "avg_corners_home_per_game": 6.75,
+          "aproveitamento_home": 66.7,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 4,
+          "win": 1,
+          "draw": 2,
+          "lose": 1,
+          "goals": {
+            "for": 5,
+            "against": 5
+          },
+          "form_visitor": "DLWD",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 4.5,
+          "aproveitamento_away": 41.7,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 23,
+        "team": {
+          "id": 5408,
+          "name": "FK Kairat Almaty",
+          "logo": "https://cdn.footystats.org/img/teams/kazakhstan-fk-kairat-almaty.png"
+        },
+        "points": 13,
+        "goalsDiff": -12,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 16,
+          "win": 3,
+          "draw": 4,
+          "lose": 9,
+          "goals": {
+            "for": 14,
+            "against": 26
+          },
+          "form": "LLLLL",
+          "btts_matches": 6,
+          "avg_corners_per_game": 3.94,
+          "aproveitamento": 27.1,
+          "over_2_5_goals": 7,
+          "over_0_5_ht": 3,
+          "over_0_5_ft": 7,
+          "clean_sheets": 6
+        },
+        "home": {
+          "played": 8,
+          "win": 3,
+          "draw": 2,
+          "lose": 3,
+          "goals": {
+            "for": 7,
+            "against": 10
+          },
+          "form_home": "DLDLL",
+          "avg_corners_home_per_game": 4.88,
+          "aproveitamento_home": 45.8,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 2,
+          "clean_sheets_home": 5
+        },
+        "away": {
+          "played": 8,
+          "win": 0,
+          "draw": 2,
+          "lose": 6,
+          "goals": {
+            "for": 7,
+            "against": 16
+          },
+          "form_visitor": "DLLLL",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 3.0,
+          "aproveitamento_away": 8.3,
+          "over_2_5_goals_away": 4,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 5,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 24,
+        "team": {
+          "id": 332,
+          "name": "FK Bodo - Glimt",
+          "logo": "https://cdn.footystats.org/img/teams/norway-fk-bodo-glimt.png"
+        },
+        "points": 12,
+        "goalsDiff": 3,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 10,
+          "win": 3,
+          "draw": 3,
+          "lose": 4,
+          "goals": {
+            "for": 20,
+            "against": 17
+          },
+          "form": "LLDWW",
+          "btts_matches": 8,
+          "avg_corners_per_game": 4.2,
+          "aproveitamento": 40.0,
+          "over_2_5_goals": 9,
+          "over_0_5_ht": 6,
+          "over_0_5_ft": 8,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 5,
+          "win": 2,
+          "draw": 1,
+          "lose": 2,
+          "goals": {
+            "for": 12,
+            "against": 7
+          },
+          "form_home": "WDLLW",
+          "avg_corners_home_per_game": 4.2,
+          "aproveitamento_home": 46.7,
+          "btts_home_matches": 3,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 5,
+          "win": 1,
+          "draw": 2,
+          "lose": 2,
+          "goals": {
+            "for": 8,
+            "against": 10
+          },
+          "form_visitor": "LDLDW",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 4.2,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 25,
+        "team": {
+          "id": 40,
+          "name": "Bayer 04 Leverkusen",
+          "logo": "https://cdn.footystats.org/img/teams/germany-bayer-04-leverkusen.png"
+        },
+        "points": 12,
+        "goalsDiff": -1,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 8,
+          "win": 3,
+          "draw": 3,
+          "lose": 2,
+          "goals": {
+            "for": 13,
+            "against": 14
+          },
+          "form": "WWDLW",
+          "btts_matches": 4,
+          "avg_corners_per_game": 4.88,
+          "aproveitamento": 50.0,
+          "over_2_5_goals": 4,
+          "over_0_5_ht": 4,
+          "over_0_5_ft": 7,
+          "clean_sheets": 3
+        },
+        "home": {
+          "played": 4,
+          "win": 1,
+          "draw": 2,
+          "lose": 1,
+          "goals": {
+            "for": 8,
+            "against": 10
+          },
+          "form_home": "DLDW",
+          "avg_corners_home_per_game": 5.75,
+          "aproveitamento_home": 41.7,
+          "btts_home_matches": 3,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 4,
+          "win": 2,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 5,
+            "against": 4
+          },
+          "form_visitor": "DWWL",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 4.0,
+          "aproveitamento_away": 58.3,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 26,
+        "team": {
+          "id": 70,
+          "name": "Red Star Belgrade",
+          "logo": "https://cdn.footystats.org/img/teams/serbia-red-star-belgrade.png"
+        },
+        "points": 11,
+        "goalsDiff": 6,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 6,
+          "win": 3,
+          "draw": 2,
+          "lose": 1,
+          "goals": {
+            "for": 12,
+            "against": 6
+          },
+          "form": "WWDLD",
+          "btts_matches": 5,
+          "avg_corners_per_game": 6.67,
+          "aproveitamento": 61.1,
+          "over_2_5_goals": 3,
+          "over_0_5_ht": 4,
+          "over_0_5_ft": 4,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 3,
+          "win": 1,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 7,
+            "against": 4
+          },
+          "form_home": "WDL",
+          "avg_corners_home_per_game": 8.67,
+          "aproveitamento_home": 44.4,
+          "btts_home_matches": 3,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 2,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 3,
+          "win": 2,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 5,
+            "against": 2
+          },
+          "form_visitor": "WWD",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 4.67,
+          "aproveitamento_away": 77.8,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 27,
+        "team": {
+          "id": 33,
+          "name": "BVB 09 Borussia Dortmund",
+          "logo": "https://cdn.footystats.org/img/teams/germany-bvb-09-borussia-dortmund.png"
+        },
+        "points": 11,
+        "goalsDiff": 2,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 8,
+          "win": 3,
+          "draw": 2,
+          "lose": 3,
+          "goals": {
+            "for": 19,
+            "against": 17
+          },
+          "form": "LWDLL",
+          "btts_matches": 5,
+          "avg_corners_per_game": 4.62,
+          "aproveitamento": 45.8,
+          "over_2_5_goals": 6,
+          "over_0_5_ht": 4,
+          "over_0_5_ft": 6,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 4,
+          "win": 2,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 10,
+            "against": 5
+          },
+          "form_home": "WWDL",
+          "avg_corners_home_per_game": 5.5,
+          "aproveitamento_home": 58.3,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 4,
+          "win": 1,
+          "draw": 1,
+          "lose": 2,
+          "goals": {
+            "for": 9,
+            "against": 12
+          },
+          "form_visitor": "DWLL",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 3.75,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 3,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 28,
+        "team": {
+          "id": 116,
+          "name": "Olympiakos CFP",
+          "logo": "https://cdn.footystats.org/img/teams/greece-olympiakos-cfp.png"
+        },
+        "points": 11,
+        "goalsDiff": -4,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 8,
+          "win": 3,
+          "draw": 2,
+          "lose": 3,
+          "goals": {
+            "for": 10,
+            "against": 14
+          },
+          "form": "DLWWW",
+          "btts_matches": 4,
+          "avg_corners_per_game": 4.5,
+          "aproveitamento": 45.8,
+          "over_2_5_goals": 3,
+          "over_0_5_ht": 3,
+          "over_0_5_ft": 4,
+          "clean_sheets": 3
+        },
+        "home": {
+          "played": 4,
+          "win": 1,
+          "draw": 2,
+          "lose": 1,
+          "goals": {
+            "for": 6,
+            "against": 5
+          },
+          "form_home": "DDLW",
+          "avg_corners_home_per_game": 4.25,
+          "aproveitamento_home": 41.7,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 4,
+          "win": 2,
+          "draw": 0,
+          "lose": 2,
+          "goals": {
+            "for": 4,
+            "against": 9
+          },
+          "form_visitor": "LLWW",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 4.75,
+          "aproveitamento_away": 50.0,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 29,
+        "team": {
+          "id": 187,
+          "name": "Galatasaray",
+          "logo": "https://cdn.footystats.org/img/teams/turkey-galatasaray.png"
+        },
+        "points": 10,
+        "goalsDiff": -2,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 8,
+          "win": 3,
+          "draw": 1,
+          "lose": 4,
+          "goals": {
+            "for": 9,
+            "against": 11
+          },
+          "form": "WLLDL",
+          "btts_matches": 3,
+          "avg_corners_per_game": 3.75,
+          "aproveitamento": 41.7,
+          "over_2_5_goals": 3,
+          "over_0_5_ht": 4,
+          "over_0_5_ft": 2,
+          "clean_sheets": 2
+        },
+        "home": {
+          "played": 4,
+          "win": 2,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 5,
+            "against": 3
+          },
+          "form_home": "WWLD",
+          "avg_corners_home_per_game": 4.5,
+          "aproveitamento_home": 58.3,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 4,
+          "win": 1,
+          "draw": 0,
+          "lose": 3,
+          "goals": {
+            "for": 4,
+            "against": 8
+          },
+          "form_visitor": "LWLL",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 3.0,
+          "aproveitamento_away": 25.0,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 30,
+        "team": {
+          "id": 5411,
+          "name": "KF Shkendija",
+          "logo": "https://cdn.footystats.org/img/teams/fyr-macedonia-kf-shkendija.png"
+        },
+        "points": 10,
+        "goalsDiff": -2,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 6,
+          "win": 3,
+          "draw": 1,
+          "lose": 2,
+          "goals": {
+            "for": 6,
+            "against": 8
+          },
+          "form": "WWWLL",
+          "btts_matches": 3,
+          "avg_corners_per_game": 3.5,
+          "aproveitamento": 55.6,
+          "over_2_5_goals": 3,
+          "over_0_5_ht": 3,
+          "over_0_5_ft": 3,
+          "clean_sheets": 2
+        },
+        "home": {
+          "played": 3,
+          "win": 2,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 3,
+            "against": 2
+          },
+          "form_home": "WWL",
+          "avg_corners_home_per_game": 5.0,
+          "aproveitamento_home": 66.7,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 2,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 3,
+          "win": 1,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 3,
+            "against": 6
+          },
+          "form_visitor": "DWL",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 2.0,
+          "aproveitamento_away": 44.4,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 31,
+        "team": {
+          "id": 56,
+          "name": "AS Monaco FC",
+          "logo": "https://cdn.footystats.org/img/teams/monaco-as-monaco-fc.png"
+        },
+        "points": 10,
+        "goalsDiff": -6,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 8,
+          "win": 2,
+          "draw": 4,
+          "lose": 2,
+          "goals": {
+            "for": 8,
+            "against": 14
+          },
+          "form": "WDWLD",
+          "btts_matches": 4,
+          "avg_corners_per_game": 5.38,
+          "aproveitamento": 41.7,
+          "over_2_5_goals": 4,
+          "over_0_5_ht": 3,
+          "over_0_5_ft": 4,
+          "clean_sheets": 4
+        },
+        "home": {
+          "played": 4,
+          "win": 1,
+          "draw": 3,
+          "lose": 0,
+          "goals": {
+            "for": 3,
+            "against": 2
+          },
+          "form_home": "DDWD",
+          "avg_corners_home_per_game": 6.25,
+          "aproveitamento_home": 50.0,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 2,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 4,
+          "win": 1,
+          "draw": 1,
+          "lose": 2,
+          "goals": {
+            "for": 5,
+            "against": 12
+          },
+          "form_visitor": "LWDL",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 4.5,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 3,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 32,
+        "team": {
+          "id": 443,
+          "name": "Olympique de Marseille",
+          "logo": "https://cdn.footystats.org/img/teams/france-olympique-de-marseille.png"
+        },
+        "points": 9,
+        "goalsDiff": -3,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 8,
+          "win": 3,
+          "draw": 0,
+          "lose": 5,
+          "goals": {
+            "for": 11,
+            "against": 14
+          },
+          "form": "LWWLL",
+          "btts_matches": 4,
+          "avg_corners_per_game": 5.25,
+          "aproveitamento": 37.5,
+          "over_2_5_goals": 7,
+          "over_0_5_ht": 4,
+          "over_0_5_ft": 3,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 4,
+          "win": 2,
+          "draw": 0,
+          "lose": 2,
+          "goals": {
+            "for": 6,
+            "against": 5
+          },
+          "form_home": "WLWL",
+          "avg_corners_home_per_game": 6.0,
+          "aproveitamento_home": 50.0,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 2,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 4,
+          "win": 1,
+          "draw": 0,
+          "lose": 3,
+          "goals": {
+            "for": 5,
+            "against": 9
+          },
+          "form_visitor": "LLWL",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 4.5,
+          "aproveitamento_away": 25.0,
+          "over_2_5_goals_away": 4,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 33,
+        "team": {
+          "id": 2572,
+          "name": "Royal Union Saint-Gilloise",
+          "logo": "https://cdn.footystats.org/img/teams/belgium-royal-union-saint-gilloise.png"
+        },
+        "points": 9,
+        "goalsDiff": -9,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 8,
+          "win": 3,
+          "draw": 0,
+          "lose": 5,
+          "goals": {
+            "for": 8,
+            "against": 17
+          },
+          "form": "LWLLW",
+          "btts_matches": 3,
+          "avg_corners_per_game": 3.25,
+          "aproveitamento": 37.5,
+          "over_2_5_goals": 5,
+          "over_0_5_ht": 2,
+          "over_0_5_ft": 5,
+          "clean_sheets": 2
+        },
+        "home": {
+          "played": 4,
+          "win": 1,
+          "draw": 0,
+          "lose": 3,
+          "goals": {
+            "for": 3,
+            "against": 11
+          },
+          "form_home": "LLLW",
+          "avg_corners_home_per_game": 3.0,
+          "aproveitamento_home": 25.0,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 2,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 4,
+          "win": 2,
+          "draw": 0,
+          "lose": 2,
+          "goals": {
+            "for": 5,
+            "against": 6
+          },
+          "form_visitor": "WLWL",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 3.5,
+          "aproveitamento_away": 50.0,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 34,
+        "team": {
+          "id": 111,
+          "name": "PFC Ludogorets 1945 Razgrad",
+          "logo": "https://cdn.footystats.org/img/teams/bulgaria-pfc-ludogorets-1945-razgrad.png"
+        },
+        "points": 9,
+        "goalsDiff": 0,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 6,
+          "win": 2,
+          "draw": 3,
+          "lose": 1,
+          "goals": {
+            "for": 6,
+            "against": 6
+          },
+          "form": "DDWDL",
+          "btts_matches": 2,
+          "avg_corners_per_game": 5.0,
+          "aproveitamento": 50.0,
+          "over_2_5_goals": 3,
+          "over_0_5_ht": 2,
+          "over_0_5_ft": 3,
+          "clean_sheets": 3
+        },
+        "home": {
+          "played": 3,
+          "win": 2,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 4,
+            "against": 1
+          },
+          "form_home": "WWD",
+          "avg_corners_home_per_game": 6.67,
+          "aproveitamento_home": 77.8,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 2,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 3,
+          "win": 0,
+          "draw": 2,
+          "lose": 1,
+          "goals": {
+            "for": 2,
+            "against": 5
+          },
+          "form_visitor": "DDL",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 3.33,
+          "aproveitamento_away": 22.2,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 35,
+        "team": {
+          "id": 121,
+          "name": "PSV Eindhoven",
+          "logo": "https://cdn.footystats.org/img/teams/netherlands-psv-eindhoven.png"
+        },
+        "points": 8,
+        "goalsDiff": 0,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 8,
+          "win": 2,
+          "draw": 2,
+          "lose": 4,
+          "goals": {
+            "for": 16,
+            "against": 16
+          },
+          "form": "DWLLL",
+          "btts_matches": 7,
+          "avg_corners_per_game": 5.0,
+          "aproveitamento": 33.3,
+          "over_2_5_goals": 6,
+          "over_0_5_ht": 3,
+          "over_0_5_ft": 7,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 4,
+          "win": 1,
+          "draw": 0,
+          "lose": 3,
+          "goals": {
+            "for": 10,
+            "against": 10
+          },
+          "form_home": "LWLL",
+          "avg_corners_home_per_game": 6.25,
+          "aproveitamento_home": 25.0,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 4,
+          "win": 1,
+          "draw": 2,
+          "lose": 1,
+          "goals": {
+            "for": 6,
+            "against": 6
+          },
+          "form_visitor": "DDWL",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 3.75,
+          "aproveitamento_away": 41.7,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 36,
+        "team": {
+          "id": 285,
+          "name": "Athletic Club Bilbao",
+          "logo": "https://cdn.footystats.org/img/teams/spain-athletic-club-bilbao.png"
+        },
+        "points": 8,
+        "goalsDiff": -5,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 8,
+          "win": 2,
+          "draw": 2,
+          "lose": 4,
+          "goals": {
+            "for": 9,
+            "against": 14
+          },
+          "form": "LDDWL",
+          "btts_matches": 4,
+          "avg_corners_per_game": 4.0,
+          "aproveitamento": 33.3,
+          "over_2_5_goals": 4,
+          "over_0_5_ht": 2,
+          "over_0_5_ft": 3,
+          "clean_sheets": 2
+        },
+        "home": {
+          "played": 4,
+          "win": 1,
+          "draw": 1,
+          "lose": 2,
+          "goals": {
+            "for": 5,
+            "against": 6
+          },
+          "form_home": "LWDL",
+          "avg_corners_home_per_game": 5.0,
+          "aproveitamento_home": 33.3,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 4,
+          "win": 1,
+          "draw": 1,
+          "lose": 2,
+          "goals": {
+            "for": 4,
+            "against": 8
+          },
+          "form_visitor": "LLDW",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 3.0,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 37,
+        "team": {
+          "id": 74,
+          "name": "SSC Napoli",
+          "logo": "https://cdn.footystats.org/img/teams/italy-ssc-napoli.png"
+        },
+        "points": 8,
+        "goalsDiff": -6,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 8,
+          "win": 2,
+          "draw": 2,
+          "lose": 4,
+          "goals": {
+            "for": 9,
+            "against": 15
+          },
+          "form": "DWLDL",
+          "btts_matches": 4,
+          "avg_corners_per_game": 6.12,
+          "aproveitamento": 33.3,
+          "over_2_5_goals": 3,
+          "over_0_5_ht": 4,
+          "over_0_5_ft": 3,
+          "clean_sheets": 2
+        },
+        "home": {
+          "played": 4,
+          "win": 2,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 6,
+            "against": 4
+          },
+          "form_home": "WDWL",
+          "avg_corners_home_per_game": 5.5,
+          "aproveitamento_home": 58.3,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 2,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 4,
+          "win": 0,
+          "draw": 1,
+          "lose": 3,
+          "goals": {
+            "for": 3,
+            "against": 11
+          },
+          "form_visitor": "LLLD",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 6.75,
+          "aproveitamento_away": 8.3,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 38,
+        "team": {
+          "id": 961,
+          "name": "KKS Lech Poznań",
+          "logo": "https://cdn.footystats.org/img/teams/poland-kks-lech-poznan.png"
+        },
+        "points": 7,
+        "goalsDiff": 5,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 4,
+          "win": 2,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 10,
+            "against": 5
+          },
+          "form": "WWLD",
+          "btts_matches": 3,
+          "avg_corners_per_game": 6.5,
+          "aproveitamento": 58.3,
+          "over_2_5_goals": 2,
+          "over_0_5_ht": 3,
+          "over_0_5_ft": 2,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 2,
+          "win": 1,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 8,
+            "against": 4
+          },
+          "form_home": "WL",
+          "avg_corners_home_per_game": 7.5,
+          "aproveitamento_home": 50.0,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 2,
+          "win": 1,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 2,
+            "against": 1
+          },
+          "form_visitor": "WD",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 5.5,
+          "aproveitamento_away": 66.7,
+          "over_2_5_goals_away": 0,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 39,
+        "team": {
+          "id": 982,
+          "name": "ŠK Slovan Bratislava",
+          "logo": "https://cdn.footystats.org/img/teams/slovakia-sk-slovan-bratislava.png"
+        },
+        "points": 7,
+        "goalsDiff": 4,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 4,
+          "win": 2,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 7,
+            "against": 3
+          },
+          "form": "WDLW",
+          "btts_matches": 1,
+          "avg_corners_per_game": 3.5,
+          "aproveitamento": 58.3,
+          "over_2_5_goals": 2,
+          "over_0_5_ht": 2,
+          "over_0_5_ft": 2,
+          "clean_sheets": 2
+        },
+        "home": {
+          "played": 2,
+          "win": 2,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 5,
+            "against": 0
+          },
+          "form_home": "WW",
+          "avg_corners_home_per_game": 4.0,
+          "aproveitamento_home": 100.0,
+          "btts_home_matches": 0,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 2,
+          "win": 0,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 2,
+            "against": 3
+          },
+          "form_visitor": "DL",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 3.0,
+          "aproveitamento_away": 16.7,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 40,
+        "team": {
+          "id": 411,
+          "name": "Kuopion Palloseura",
+          "logo": "https://cdn.footystats.org/img/teams/finland-kuopion-palloseura.png"
+        },
+        "points": 7,
+        "goalsDiff": 0,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 4,
+          "win": 2,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 3,
+            "against": 3
+          },
+          "form": "WDWL",
+          "btts_matches": 0,
+          "avg_corners_per_game": 5.5,
+          "aproveitamento": 58.3,
+          "over_2_5_goals": 1,
+          "over_0_5_ht": 0,
+          "over_0_5_ft": 2,
+          "clean_sheets": 3
+        },
+        "home": {
+          "played": 2,
+          "win": 2,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 3,
+            "against": 0
+          },
+          "form_home": "WW",
+          "avg_corners_home_per_game": 8.0,
+          "aproveitamento_home": 100.0,
+          "btts_home_matches": 0,
+          "over_2_5_goals_home": 0,
+          "over_0_5_ht_home": 0,
+          "over_0_5_ft_home": 2,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 2,
+          "win": 0,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 0,
+            "against": 3
+          },
+          "form_visitor": "DL",
+          "btts_away_matches": 0,
+          "avg_corners_away_per_game": 3.0,
+          "aproveitamento_away": 16.7,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 41,
+        "team": {
+          "id": 91,
+          "name": "HŠK Zrinjski Mostar",
+          "logo": "https://cdn.footystats.org/img/teams/bosnia-and-herzegovina-hsk-zrinjski-mostar.png"
+        },
+        "points": 7,
+        "goalsDiff": -1,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 4,
+          "win": 2,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 6,
+            "against": 7
+          },
+          "form": "WWLD",
+          "btts_matches": 2,
+          "avg_corners_per_game": 6.0,
+          "aproveitamento": 58.3,
+          "over_2_5_goals": 3,
+          "over_0_5_ht": 2,
+          "over_0_5_ft": 3,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 2,
+          "win": 1,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 4,
+            "against": 3
+          },
+          "form_home": "WD",
+          "avg_corners_home_per_game": 8.0,
+          "aproveitamento_home": 66.7,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 2,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 2,
+          "win": 1,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 2,
+            "against": 4
+          },
+          "form_visitor": "WL",
+          "btts_away_matches": 0,
+          "avg_corners_away_per_game": 4.0,
+          "aproveitamento_away": 50.0,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 42,
+        "team": {
+          "id": 24,
+          "name": "Rangers FC",
+          "logo": "https://cdn.footystats.org/img/teams/scotland-rangers-fc.png"
+        },
+        "points": 7,
+        "goalsDiff": -4,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 6,
+          "win": 2,
+          "draw": 1,
+          "lose": 3,
+          "goals": {
+            "for": 8,
+            "against": 12
+          },
+          "form": "DWLLL",
+          "btts_matches": 3,
+          "avg_corners_per_game": 3.83,
+          "aproveitamento": 38.9,
+          "over_2_5_goals": 4,
+          "over_0_5_ht": 1,
+          "over_0_5_ft": 5,
+          "clean_sheets": 2
+        },
+        "home": {
+          "played": 3,
+          "win": 2,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 6,
+            "against": 3
+          },
+          "form_home": "WWL",
+          "avg_corners_home_per_game": 4.67,
+          "aproveitamento_home": 66.7,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 3,
+          "win": 0,
+          "draw": 1,
+          "lose": 2,
+          "goals": {
+            "for": 2,
+            "against": 9
+          },
+          "form_visitor": "DLL",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 3.0,
+          "aproveitamento_away": 11.1,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 43,
+        "team": {
+          "id": 123,
+          "name": "FC Dynamo Kyiv",
+          "logo": "https://cdn.footystats.org/img/teams/ukraine-fc-dynamo-kyiv.png"
+        },
+        "points": 6,
+        "goalsDiff": 3,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 4,
+          "win": 2,
+          "draw": 0,
+          "lose": 2,
+          "goals": {
+            "for": 6,
+            "against": 3
+          },
+          "form": "WWLL",
+          "btts_matches": 0,
+          "avg_corners_per_game": 4.75,
+          "aproveitamento": 50.0,
+          "over_2_5_goals": 2,
+          "over_0_5_ht": 2,
+          "over_0_5_ft": 2,
+          "clean_sheets": 2
+        },
+        "home": {
+          "played": 2,
+          "win": 1,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 3,
+            "against": 1
+          },
+          "form_home": "WL",
+          "avg_corners_home_per_game": 6.0,
+          "aproveitamento_home": 50.0,
+          "btts_home_matches": 0,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 2,
+          "win": 1,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 3,
+            "against": 2
+          },
+          "form_visitor": "WL",
+          "btts_away_matches": 0,
+          "avg_corners_away_per_game": 3.5,
+          "aproveitamento_away": 50.0,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 44,
+        "team": {
+          "id": 77,
+          "name": "FC Viktoria Plzeň",
+          "logo": "https://cdn.footystats.org/img/teams/czech-republic-fc-viktoria-plzen.png"
+        },
+        "points": 6,
+        "goalsDiff": -1,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 4,
+          "win": 2,
+          "draw": 0,
+          "lose": 2,
+          "goals": {
+            "for": 5,
+            "against": 6
+          },
+          "form": "LWLW",
+          "btts_matches": 2,
+          "avg_corners_per_game": 6.0,
+          "aproveitamento": 50.0,
+          "over_2_5_goals": 3,
+          "over_0_5_ht": 2,
+          "over_0_5_ft": 2,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 2,
+          "win": 1,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 2,
+            "against": 2
+          },
+          "form_home": "LW",
+          "avg_corners_home_per_game": 7.5,
+          "aproveitamento_home": 50.0,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 2,
+          "win": 1,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 3,
+            "against": 4
+          },
+          "form_visitor": "WL",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 4.5,
+          "aproveitamento_away": 50.0,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 45,
+        "team": {
+          "id": 6994,
+          "name": "KF Drita",
+          "logo": "https://cdn.footystats.org/img/teams/kosovo-kf-drita.png"
+        },
+        "points": 6,
+        "goalsDiff": -1,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 4,
+          "win": 2,
+          "draw": 0,
+          "lose": 2,
+          "goals": {
+            "for": 4,
+            "against": 5
+          },
+          "form": "WWLL",
+          "btts_matches": 1,
+          "avg_corners_per_game": 4.25,
+          "aproveitamento": 50.0,
+          "over_2_5_goals": 1,
+          "over_0_5_ht": 1,
+          "over_0_5_ft": 2,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 2,
+          "win": 1,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 1,
+            "against": 1
+          },
+          "form_home": "WL",
+          "avg_corners_home_per_game": 4.5,
+          "aproveitamento_home": 50.0,
+          "btts_home_matches": 0,
+          "over_2_5_goals_home": 0,
+          "over_0_5_ht_home": 0,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 2,
+          "win": 1,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 3,
+            "against": 4
+          },
+          "form_visitor": "WL",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 4.0,
+          "aproveitamento_away": 50.0,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 46,
+        "team": {
+          "id": 1090,
+          "name": "FK Rīgas Futbola skola",
+          "logo": "https://cdn.footystats.org/img/teams/latvia-fk-rigas-futbola-skola.png"
+        },
+        "points": 6,
+        "goalsDiff": -2,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 4,
+          "win": 2,
+          "draw": 0,
+          "lose": 2,
+          "goals": {
+            "for": 3,
+            "against": 5
+          },
+          "form": "WWLL",
+          "btts_matches": 1,
+          "avg_corners_per_game": 4.5,
+          "aproveitamento": 50.0,
+          "over_2_5_goals": 1,
+          "over_0_5_ht": 1,
+          "over_0_5_ft": 2,
+          "clean_sheets": 2
+        },
+        "home": {
+          "played": 2,
+          "win": 1,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 2,
+            "against": 4
+          },
+          "form_home": "WL",
+          "avg_corners_home_per_game": 4.0,
+          "aproveitamento_home": 50.0,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 2,
+          "win": 1,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 1,
+            "against": 1
+          },
+          "form_visitor": "WL",
+          "btts_away_matches": 0,
+          "avg_corners_away_per_game": 5.0,
+          "aproveitamento_away": 50.0,
+          "over_2_5_goals_away": 0,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 47,
+        "team": {
+          "id": 103,
+          "name": "Lincoln Red Imps FC",
+          "logo": "https://cdn.footystats.org/img/teams/gibraltar-lincoln-red-imps-fc.png"
+        },
+        "points": 6,
+        "goalsDiff": -3,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 4,
+          "win": 2,
+          "draw": 0,
+          "lose": 2,
+          "goals": {
+            "for": 5,
+            "against": 8
+          },
+          "form": "WWLL",
+          "btts_matches": 2,
+          "avg_corners_per_game": 4.0,
+          "aproveitamento": 50.0,
+          "over_2_5_goals": 2,
+          "over_0_5_ht": 1,
+          "over_0_5_ft": 2,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 2,
+          "win": 1,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 1,
+            "against": 1
+          },
+          "form_home": "WL",
+          "avg_corners_home_per_game": 3.5,
+          "aproveitamento_home": 50.0,
+          "btts_home_matches": 0,
+          "over_2_5_goals_home": 0,
+          "over_0_5_ht_home": 0,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 2,
+          "win": 1,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 4,
+            "against": 7
+          },
+          "form_visitor": "WL",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 4.5,
+          "aproveitamento_away": 50.0,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 48,
+        "team": {
+          "id": 120,
+          "name": "AFC Ajax",
+          "logo": "https://cdn.footystats.org/img/teams/netherlands-afc-ajax.png"
+        },
+        "points": 6,
+        "goalsDiff": -13,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 8,
+          "win": 2,
+          "draw": 0,
+          "lose": 6,
+          "goals": {
+            "for": 8,
+            "against": 21
+          },
+          "form": "LLWWL",
+          "btts_matches": 4,
+          "avg_corners_per_game": 4.88,
+          "aproveitamento": 25.0,
+          "over_2_5_goals": 6,
+          "over_0_5_ht": 2,
+          "over_0_5_ft": 3,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 4,
+          "win": 0,
+          "draw": 0,
+          "lose": 4,
+          "goals": {
+            "for": 1,
+            "against": 9
+          },
+          "form_home": "LLLL",
+          "avg_corners_home_per_game": 5.25,
+          "aproveitamento_home": 0.0,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 0,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 4,
+          "win": 2,
+          "draw": 0,
+          "lose": 2,
+          "goals": {
+            "for": 7,
+            "against": 12
+          },
+          "form_visitor": "LLWW",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 4.5,
+          "aproveitamento_away": 50.0,
+          "over_2_5_goals_away": 4,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 49,
+        "team": {
+          "id": 100,
+          "name": "FC Salzburg",
+          "logo": "https://cdn.footystats.org/img/teams/austria-fc-salzburg.png"
+        },
+        "points": 4,
+        "goalsDiff": 1,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 4,
+          "win": 1,
+          "draw": 1,
+          "lose": 2,
+          "goals": {
+            "for": 7,
+            "against": 6
+          },
+          "form": "WDLL",
+          "btts_matches": 3,
+          "avg_corners_per_game": 4.5,
+          "aproveitamento": 33.3,
+          "over_2_5_goals": 2,
+          "over_0_5_ht": 2,
+          "over_0_5_ft": 1,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 2,
+          "win": 0,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 1,
+            "against": 2
+          },
+          "form_home": "DL",
+          "avg_corners_home_per_game": 4.0,
+          "aproveitamento_home": 16.7,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 0,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 0,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 2,
+          "win": 1,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 6,
+            "against": 4
+          },
+          "form_visitor": "WL",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 5.0,
+          "aproveitamento_away": 50.0,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 50,
+        "team": {
+          "id": 105,
+          "name": "Fenerbahçe",
+          "logo": "https://cdn.footystats.org/img/teams/turkey-fenerbahce.png"
+        },
+        "points": 4,
+        "goalsDiff": 1,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 4,
+          "win": 1,
+          "draw": 1,
+          "lose": 2,
+          "goals": {
+            "for": 6,
+            "against": 5
+          },
+          "form": "LWDL",
+          "btts_matches": 2,
+          "avg_corners_per_game": 3.75,
+          "aproveitamento": 33.3,
+          "over_2_5_goals": 2,
+          "over_0_5_ht": 1,
+          "over_0_5_ft": 2,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 2,
+          "win": 1,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 5,
+            "against": 2
+          },
+          "form_home": "WD",
+          "avg_corners_home_per_game": 4.5,
+          "aproveitamento_home": 66.7,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 2,
+          "win": 0,
+          "draw": 0,
+          "lose": 2,
+          "goals": {
+            "for": 1,
+            "against": 3
+          },
+          "form_visitor": "LL",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 3.0,
+          "aproveitamento_away": 0.0,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 51,
+        "team": {
+          "id": 1360,
+          "name": "FC Artsakh",
+          "logo": "https://cdn.footystats.org/img/teams/armenia-fc-artsakh.png"
+        },
+        "points": 4,
+        "goalsDiff": -1,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 4,
+          "win": 1,
+          "draw": 1,
+          "lose": 2,
+          "goals": {
+            "for": 7,
+            "against": 8
+          },
+          "form": "WDLL",
+          "btts_matches": 3,
+          "avg_corners_per_game": 3.0,
+          "aproveitamento": 33.3,
+          "over_2_5_goals": 3,
+          "over_0_5_ht": 3,
+          "over_0_5_ft": 2,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 2,
+          "win": 1,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 2,
+            "against": 2
+          },
+          "form_home": "WL",
+          "avg_corners_home_per_game": 1.5,
+          "aproveitamento_home": 50.0,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 2,
+          "win": 0,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 5,
+            "against": 6
+          },
+          "form_visitor": "DL",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 4.5,
+          "aproveitamento_away": 16.7,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 52,
+        "team": {
+          "id": 2061,
+          "name": "Shelbourne FC",
+          "logo": "https://cdn.footystats.org/img/teams/republic-of-ireland-shelbourne-fc.png"
+        },
+        "points": 4,
+        "goalsDiff": -3,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 4,
+          "win": 1,
+          "draw": 1,
+          "lose": 2,
+          "goals": {
+            "for": 2,
+            "against": 5
+          },
+          "form": "WDLL",
+          "btts_matches": 1,
+          "avg_corners_per_game": 5.0,
+          "aproveitamento": 33.3,
+          "over_2_5_goals": 1,
+          "over_0_5_ht": 1,
+          "over_0_5_ft": 1,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 2,
+          "win": 1,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 1,
+            "against": 3
+          },
+          "form_home": "WL",
+          "avg_corners_home_per_game": 6.5,
+          "aproveitamento_home": 50.0,
+          "btts_home_matches": 0,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 0,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 2,
+          "win": 0,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 1,
+            "against": 2
+          },
+          "form_visitor": "DL",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 3.5,
+          "aproveitamento_away": 16.7,
+          "over_2_5_goals_away": 0,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 53,
+        "team": {
+          "id": 44,
+          "name": "Eintracht Frankfurt",
+          "logo": "https://cdn.footystats.org/img/teams/germany-eintracht-frankfurt.png"
+        },
+        "points": 4,
+        "goalsDiff": -11,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 8,
+          "win": 1,
+          "draw": 1,
+          "lose": 6,
+          "goals": {
+            "for": 10,
+            "against": 21
+          },
+          "form": "DLLLL",
+          "btts_matches": 5,
+          "avg_corners_per_game": 2.12,
+          "aproveitamento": 16.7,
+          "over_2_5_goals": 6,
+          "over_0_5_ht": 4,
+          "over_0_5_ft": 3,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 4,
+          "win": 1,
+          "draw": 0,
+          "lose": 3,
+          "goals": {
+            "for": 6,
+            "against": 11
+          },
+          "form_home": "WLLL",
+          "avg_corners_home_per_game": 2.75,
+          "aproveitamento_home": 25.0,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 4,
+          "win": 0,
+          "draw": 1,
+          "lose": 3,
+          "goals": {
+            "for": 4,
+            "against": 10
+          },
+          "form_visitor": "LDLL",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 1.5,
+          "aproveitamento_away": 8.3,
+          "over_2_5_goals_away": 3,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 54,
+        "team": {
+          "id": 85,
+          "name": "VMFD Žalgiris Vilnius",
+          "logo": "https://cdn.footystats.org/img/teams/lithuania-vmfd-zalgiris-vilnius.png"
+        },
+        "points": 3,
+        "goalsDiff": 0,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 2,
+          "win": 1,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 2,
+            "against": 2
+          },
+          "form": "WL",
+          "btts_matches": 0,
+          "avg_corners_per_game": 3.5,
+          "aproveitamento": 50.0,
+          "over_2_5_goals": 0,
+          "over_0_5_ht": 0,
+          "over_0_5_ft": 1,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 1,
+          "win": 1,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 2,
+            "against": 0
+          },
+          "form_home": "W",
+          "avg_corners_home_per_game": 4.0,
+          "aproveitamento_home": 100.0,
+          "btts_home_matches": 0,
+          "over_2_5_goals_home": 0,
+          "over_0_5_ht_home": 0,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 0,
+            "against": 2
+          },
+          "form_visitor": "L",
+          "btts_away_matches": 0,
+          "avg_corners_away_per_game": 3.0,
+          "aproveitamento_away": 0.0,
+          "over_2_5_goals_away": 0,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 55,
+        "team": {
+          "id": 97,
+          "name": "SC Fotbal Club FCSB SA",
+          "logo": "https://cdn.footystats.org/img/teams/romania-sc-fotbal-club-fcsb-sa.png"
+        },
+        "points": 3,
+        "goalsDiff": -1,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 4,
+          "win": 1,
+          "draw": 0,
+          "lose": 3,
+          "goals": {
+            "for": 5,
+            "against": 6
+          },
+          "form": "WLLL",
+          "btts_matches": 3,
+          "avg_corners_per_game": 5.5,
+          "aproveitamento": 25.0,
+          "over_2_5_goals": 3,
+          "over_0_5_ht": 2,
+          "over_0_5_ft": 2,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 2,
+          "win": 1,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 4,
+            "against": 3
+          },
+          "form_home": "WL",
+          "avg_corners_home_per_game": 7.5,
+          "aproveitamento_home": 50.0,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 2,
+          "win": 0,
+          "draw": 0,
+          "lose": 2,
+          "goals": {
+            "for": 1,
+            "against": 3
+          },
+          "form_visitor": "LL",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 3.5,
+          "aproveitamento_away": 0.0,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 56,
+        "team": {
+          "id": 3289,
+          "name": "Inter Club d'Escaldes",
+          "logo": "https://cdn.footystats.org/img/teams/andorra-inter-club-descaldes.png"
+        },
+        "points": 3,
+        "goalsDiff": -1,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 2,
+          "win": 1,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 3,
+            "against": 4
+          },
+          "form": "LW",
+          "btts_matches": 2,
+          "avg_corners_per_game": 4.5,
+          "aproveitamento": 50.0,
+          "over_2_5_goals": 2,
+          "over_0_5_ht": 0,
+          "over_0_5_ft": 2,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 1,
+          "win": 1,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 2,
+            "against": 1
+          },
+          "form_home": "W",
+          "avg_corners_home_per_game": 3.0,
+          "aproveitamento_home": 100.0,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 0,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 1,
+            "against": 3
+          },
+          "form_visitor": "L",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 6.0,
+          "aproveitamento_away": 0.0,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 57,
+        "team": {
+          "id": 898,
+          "name": "Servette FC",
+          "logo": "https://cdn.footystats.org/img/teams/switzerland-servette-fc.png"
+        },
+        "points": 3,
+        "goalsDiff": -1,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 2,
+          "win": 1,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 2,
+            "against": 3
+          },
+          "form": "WL",
+          "btts_matches": 1,
+          "avg_corners_per_game": 5.5,
+          "aproveitamento": 50.0,
+          "over_2_5_goals": 1,
+          "over_0_5_ht": 2,
+          "over_0_5_ft": 0,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 1,
+            "against": 3
+          },
+          "form_home": "L",
+          "avg_corners_home_per_game": 8.0,
+          "aproveitamento_home": 0.0,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 0,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 1,
+          "win": 1,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 1,
+            "against": 0
+          },
+          "form_visitor": "W",
+          "btts_away_matches": 0,
+          "avg_corners_away_per_game": 3.0,
+          "aproveitamento_away": 100.0,
+          "over_2_5_goals_away": 0,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 58,
+        "team": {
+          "id": 367,
+          "name": "Feyenoord Rotterdam",
+          "logo": "https://cdn.footystats.org/img/teams/netherlands-feyenoord-rotterdam.png"
+        },
+        "points": 3,
+        "goalsDiff": -2,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 2,
+          "win": 1,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 4,
+            "against": 6
+          },
+          "form": "WL",
+          "btts_matches": 2,
+          "avg_corners_per_game": 5.0,
+          "aproveitamento": 50.0,
+          "over_2_5_goals": 2,
+          "over_0_5_ht": 2,
+          "over_0_5_ft": 2,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 1,
+          "win": 1,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 2,
+            "against": 1
+          },
+          "form_home": "W",
+          "avg_corners_home_per_game": 3.0,
+          "aproveitamento_home": 100.0,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 2,
+            "against": 5
+          },
+          "form_visitor": "L",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 7.0,
+          "aproveitamento_away": 0.0,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 59,
+        "team": {
+          "id": 3803,
+          "name": "Breidablik UBK",
+          "logo": "https://cdn.footystats.org/img/teams/iceland-breidablik-ubk.png"
+        },
+        "points": 3,
+        "goalsDiff": -3,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 4,
+          "win": 1,
+          "draw": 0,
+          "lose": 3,
+          "goals": {
+            "for": 6,
+            "against": 9
+          },
+          "form": "LWLL",
+          "btts_matches": 1,
+          "avg_corners_per_game": 4.0,
+          "aproveitamento": 25.0,
+          "over_2_5_goals": 2,
+          "over_0_5_ht": 2,
+          "over_0_5_ft": 1,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 2,
+          "win": 1,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 5,
+            "against": 1
+          },
+          "form_home": "WL",
+          "avg_corners_home_per_game": 4.5,
+          "aproveitamento_home": 50.0,
+          "btts_home_matches": 0,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 2,
+          "win": 0,
+          "draw": 0,
+          "lose": 2,
+          "goals": {
+            "for": 1,
+            "against": 8
+          },
+          "form_visitor": "LL",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 3.5,
+          "aproveitamento_away": 0.0,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 60,
+        "team": {
+          "id": 582,
+          "name": "SK Sturm Graz",
+          "logo": "https://cdn.footystats.org/img/teams/austria-sk-sturm-graz.png"
+        },
+        "points": 3,
+        "goalsDiff": -4,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 2,
+          "win": 1,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 2,
+            "against": 6
+          },
+          "form": "LW",
+          "btts_matches": 1,
+          "avg_corners_per_game": 2.0,
+          "aproveitamento": 50.0,
+          "over_2_5_goals": 2,
+          "over_0_5_ht": 1,
+          "over_0_5_ft": 1,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 1,
+          "win": 1,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 2,
+            "against": 1
+          },
+          "form_home": "W",
+          "avg_corners_home_per_game": 3.0,
+          "aproveitamento_home": 100.0,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 0,
+            "against": 5
+          },
+          "form_visitor": "L",
+          "btts_away_matches": 0,
+          "avg_corners_away_per_game": 1.0,
+          "aproveitamento_away": 0.0,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 61,
+        "team": {
+          "id": 1789,
+          "name": "KS Egnatia Rrogozhinë",
+          "logo": "https://cdn.footystats.org/img/teams/albania-ks-egnatia-rrogozhine.png"
+        },
+        "points": 3,
+        "goalsDiff": -4,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 2,
+          "win": 1,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 1,
+            "against": 5
+          },
+          "form": "WL",
+          "btts_matches": 0,
+          "avg_corners_per_game": 5.0,
+          "aproveitamento": 50.0,
+          "over_2_5_goals": 1,
+          "over_0_5_ht": 0,
+          "over_0_5_ft": 1,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 1,
+          "win": 1,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 1,
+            "against": 0
+          },
+          "form_home": "W",
+          "avg_corners_home_per_game": 5.0,
+          "aproveitamento_home": 100.0,
+          "btts_home_matches": 0,
+          "over_2_5_goals_home": 0,
+          "over_0_5_ht_home": 0,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 0,
+            "against": 5
+          },
+          "form_visitor": "L",
+          "btts_away_matches": 0,
+          "avg_corners_away_per_game": 5.0,
+          "aproveitamento_away": 0.0,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 62,
+        "team": {
+          "id": 2484,
+          "name": "Hamrun Spartans FC",
+          "logo": "https://cdn.footystats.org/img/teams/malta-hamrun-spartans-fc.png"
+        },
+        "points": 3,
+        "goalsDiff": -6,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 4,
+          "win": 1,
+          "draw": 0,
+          "lose": 3,
+          "goals": {
+            "for": 2,
+            "against": 8
+          },
+          "form": "LWLL",
+          "btts_matches": 0,
+          "avg_corners_per_game": 6.75,
+          "aproveitamento": 25.0,
+          "over_2_5_goals": 2,
+          "over_0_5_ht": 1,
+          "over_0_5_ft": 0,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 2,
+          "win": 1,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 2,
+            "against": 3
+          },
+          "form_home": "WL",
+          "avg_corners_home_per_game": 7.5,
+          "aproveitamento_home": 50.0,
+          "btts_home_matches": 0,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 0,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 2,
+          "win": 0,
+          "draw": 0,
+          "lose": 2,
+          "goals": {
+            "for": 0,
+            "against": 5
+          },
+          "form_visitor": "LL",
+          "btts_away_matches": 0,
+          "avg_corners_away_per_game": 6.0,
+          "aproveitamento_away": 0.0,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 63,
+        "team": {
+          "id": 1213,
+          "name": "SK Slavia Praha",
+          "logo": "https://cdn.footystats.org/img/teams/czech-republic-sk-slavia-praha.png"
+        },
+        "points": 3,
+        "goalsDiff": -14,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 8,
+          "win": 0,
+          "draw": 3,
+          "lose": 5,
+          "goals": {
+            "for": 5,
+            "against": 19
+          },
+          "form": "LDLLL",
+          "btts_matches": 3,
+          "avg_corners_per_game": 3.38,
+          "aproveitamento": 12.5,
+          "over_2_5_goals": 6,
+          "over_0_5_ht": 3,
+          "over_0_5_ft": 1,
+          "clean_sheets": 2
+        },
+        "home": {
+          "played": 4,
+          "win": 0,
+          "draw": 2,
+          "lose": 2,
+          "goals": {
+            "for": 4,
+            "against": 9
+          },
+          "form_home": "DLDL",
+          "avg_corners_home_per_game": 4.75,
+          "aproveitamento_home": 16.7,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 4,
+          "win": 0,
+          "draw": 1,
+          "lose": 3,
+          "goals": {
+            "for": 1,
+            "against": 10
+          },
+          "form_visitor": "LDLL",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 2.0,
+          "aproveitamento_away": 8.3,
+          "over_2_5_goals_away": 3,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 64,
+        "team": {
+          "id": 23,
+          "name": "Celtic FC",
+          "logo": "https://cdn.footystats.org/img/teams/scotland-celtic-fc.png"
+        },
+        "points": 2,
+        "goalsDiff": 0,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 2,
+          "win": 0,
+          "draw": 2,
+          "lose": 0,
+          "goals": {
+            "for": 0,
+            "against": 0
+          },
+          "form": "DD",
+          "btts_matches": 0,
+          "avg_corners_per_game": 11.0,
+          "aproveitamento": 33.3,
+          "over_2_5_goals": 0,
+          "over_0_5_ht": 0,
+          "over_0_5_ft": 0,
+          "clean_sheets": 2
+        },
+        "home": {
+          "played": 1,
+          "win": 0,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 0,
+            "against": 0
+          },
+          "form_home": "D",
+          "avg_corners_home_per_game": 15.0,
+          "aproveitamento_home": 33.3,
+          "btts_home_matches": 0,
+          "over_2_5_goals_home": 0,
+          "over_0_5_ht_home": 0,
+          "over_0_5_ft_home": 0,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 1,
+          "win": 0,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 0,
+            "against": 0
+          },
+          "form_visitor": "D",
+          "btts_away_matches": 0,
+          "avg_corners_away_per_game": 7.0,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 0,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 65,
+        "team": {
+          "id": 825,
+          "name": "FC Dinamo Minsk",
+          "logo": "https://cdn.footystats.org/img/teams/belarus-fc-dinamo-minsk.png"
+        },
+        "points": 1,
+        "goalsDiff": -1,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 2,
+          "win": 0,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 2,
+            "against": 3
+          },
+          "form": "LD",
+          "btts_matches": 1,
+          "avg_corners_per_game": 1.0,
+          "aproveitamento": 16.7,
+          "over_2_5_goals": 1,
+          "over_0_5_ht": 0,
+          "over_0_5_ft": 1,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 1,
+          "win": 0,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 2,
+            "against": 2
+          },
+          "form_home": "D",
+          "avg_corners_home_per_game": 1.0,
+          "aproveitamento_home": 33.3,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 0,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 0,
+            "against": 1
+          },
+          "form_visitor": "L",
+          "btts_away_matches": 0,
+          "avg_corners_away_per_game": 1.0,
+          "aproveitamento_away": 0.0,
+          "over_2_5_goals_away": 0,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 66,
+        "team": {
+          "id": 1214,
+          "name": "FK Budućnost Podgorica",
+          "logo": "https://cdn.footystats.org/img/teams/montenegro-fk-buducnost-podgorica.png"
+        },
+        "points": 1,
+        "goalsDiff": -1,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 2,
+          "win": 0,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 2,
+            "against": 3
+          },
+          "form": "LD",
+          "btts_matches": 1,
+          "avg_corners_per_game": 1.5,
+          "aproveitamento": 16.7,
+          "over_2_5_goals": 1,
+          "over_0_5_ht": 0,
+          "over_0_5_ft": 1,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 1,
+          "win": 0,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 2,
+            "against": 2
+          },
+          "form_home": "D",
+          "avg_corners_home_per_game": 2.0,
+          "aproveitamento_home": 33.3,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 0,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 0,
+            "against": 1
+          },
+          "form_visitor": "L",
+          "btts_away_matches": 0,
+          "avg_corners_away_per_game": 1.0,
+          "aproveitamento_away": 0.0,
+          "over_2_5_goals_away": 0,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 67,
+        "team": {
+          "id": 69,
+          "name": "The New Saints FC",
+          "logo": "https://cdn.footystats.org/img/teams/wales-the-new-saints-fc.png"
+        },
+        "points": 1,
+        "goalsDiff": -1,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 2,
+          "win": 0,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 1,
+            "against": 2
+          },
+          "form": "DL",
+          "btts_matches": 1,
+          "avg_corners_per_game": 2.5,
+          "aproveitamento": 16.7,
+          "over_2_5_goals": 1,
+          "over_0_5_ht": 1,
+          "over_0_5_ft": 0,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 1,
+          "win": 0,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 0,
+            "against": 0
+          },
+          "form_home": "D",
+          "avg_corners_home_per_game": 4.0,
+          "aproveitamento_home": 33.3,
+          "btts_home_matches": 0,
+          "over_2_5_goals_home": 0,
+          "over_0_5_ht_home": 0,
+          "over_0_5_ft_home": 0,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 1,
+            "against": 2
+          },
+          "form_visitor": "L",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 1.0,
+          "aproveitamento_away": 0.0,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 68,
+        "team": {
+          "id": 1208,
+          "name": "Linfield FC",
+          "logo": "https://cdn.footystats.org/img/teams/northern-ireland-linfield-fc.png"
+        },
+        "points": 1,
+        "goalsDiff": -1,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 2,
+          "win": 0,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 1,
+            "against": 2
+          },
+          "form": "LD",
+          "btts_matches": 1,
+          "avg_corners_per_game": 1.5,
+          "aproveitamento": 16.7,
+          "over_2_5_goals": 0,
+          "over_0_5_ht": 1,
+          "over_0_5_ft": 0,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 1,
+          "win": 0,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 1,
+            "against": 1
+          },
+          "form_home": "D",
+          "avg_corners_home_per_game": 1.0,
+          "aproveitamento_home": 33.3,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 0,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 0,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 0,
+            "against": 1
+          },
+          "form_visitor": "L",
+          "btts_away_matches": 0,
+          "avg_corners_away_per_game": 2.0,
+          "aproveitamento_away": 0.0,
+          "over_2_5_goals_away": 0,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 69,
+        "team": {
+          "id": 956,
+          "name": "Maccabi Tel Aviv FC",
+          "logo": "https://cdn.footystats.org/img/teams/israel-maccabi-tel-aviv-fc.png"
+        },
+        "points": 1,
+        "goalsDiff": -1,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 2,
+          "win": 0,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 1,
+            "against": 2
+          },
+          "form": "DL",
+          "btts_matches": 1,
+          "avg_corners_per_game": 5.5,
+          "aproveitamento": 16.7,
+          "over_2_5_goals": 0,
+          "over_0_5_ht": 0,
+          "over_0_5_ft": 1,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 0,
+            "against": 1
+          },
+          "form_home": "L",
+          "avg_corners_home_per_game": 5.0,
+          "aproveitamento_home": 0.0,
+          "btts_home_matches": 0,
+          "over_2_5_goals_home": 0,
+          "over_0_5_ht_home": 0,
+          "over_0_5_ft_home": 0,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 1,
+          "win": 0,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 1,
+            "against": 1
+          },
+          "form_visitor": "D",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 6.0,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 0,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 70,
+        "team": {
+          "id": 964,
+          "name": "FC Milsami Orhei",
+          "logo": "https://cdn.footystats.org/img/teams/moldova-fc-milsami-orhei.png"
+        },
+        "points": 1,
+        "goalsDiff": -1,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 2,
+          "win": 0,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 0,
+            "against": 1
+          },
+          "form": "LD",
+          "btts_matches": 0,
+          "avg_corners_per_game": 3.5,
+          "aproveitamento": 16.7,
+          "over_2_5_goals": 0,
+          "over_0_5_ht": 0,
+          "over_0_5_ft": 0,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 1,
+          "win": 0,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 0,
+            "against": 0
+          },
+          "form_home": "D",
+          "avg_corners_home_per_game": 4.0,
+          "aproveitamento_home": 33.3,
+          "btts_home_matches": 0,
+          "over_2_5_goals_home": 0,
+          "over_0_5_ht_home": 0,
+          "over_0_5_ft_home": 0,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 0,
+            "against": 1
+          },
+          "form_visitor": "L",
+          "btts_away_matches": 0,
+          "avg_corners_away_per_game": 3.0,
+          "aproveitamento_away": 0.0,
+          "over_2_5_goals_away": 0,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 71,
+        "team": {
+          "id": 115,
+          "name": "NK Olimpija Ljubljana",
+          "logo": "https://cdn.footystats.org/img/teams/slovenia-nk-olimpija-ljubljana.png"
+        },
+        "points": 1,
+        "goalsDiff": -2,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 2,
+          "win": 0,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 1,
+            "against": 3
+          },
+          "form": "DL",
+          "btts_matches": 1,
+          "avg_corners_per_game": 4.5,
+          "aproveitamento": 16.7,
+          "over_2_5_goals": 0,
+          "over_0_5_ht": 0,
+          "over_0_5_ft": 1,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 1,
+          "win": 0,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 1,
+            "against": 1
+          },
+          "form_home": "D",
+          "avg_corners_home_per_game": 5.0,
+          "aproveitamento_home": 33.3,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 0,
+          "over_0_5_ht_home": 0,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 0,
+            "against": 2
+          },
+          "form_visitor": "L",
+          "btts_away_matches": 0,
+          "avg_corners_away_per_game": 4.0,
+          "aproveitamento_away": 0.0,
+          "over_2_5_goals_away": 0,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 72,
+        "team": {
+          "id": 960,
+          "name": "Panathinaikos FC",
+          "logo": "https://cdn.footystats.org/img/teams/greece-panathinaikos-fc.png"
+        },
+        "points": 1,
+        "goalsDiff": -2,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 2,
+          "win": 0,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 1,
+            "against": 3
+          },
+          "form": "LD",
+          "btts_matches": 1,
+          "avg_corners_per_game": 7.5,
+          "aproveitamento": 16.7,
+          "over_2_5_goals": 0,
+          "over_0_5_ht": 0,
+          "over_0_5_ft": 1,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 1,
+          "win": 0,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 1,
+            "against": 1
+          },
+          "form_home": "D",
+          "avg_corners_home_per_game": 9.0,
+          "aproveitamento_home": 33.3,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 0,
+          "over_0_5_ht_home": 0,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 0,
+            "against": 2
+          },
+          "form_visitor": "L",
+          "btts_away_matches": 0,
+          "avg_corners_away_per_game": 6.0,
+          "aproveitamento_away": 0.0,
+          "over_2_5_goals_away": 0,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 73,
+        "team": {
+          "id": 79,
+          "name": "FC Basel 1893",
+          "logo": "https://cdn.footystats.org/img/teams/switzerland-fc-basel-1893.png"
+        },
+        "points": 1,
+        "goalsDiff": -2,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 2,
+          "win": 0,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 1,
+            "against": 3
+          },
+          "form": "DL",
+          "btts_matches": 1,
+          "avg_corners_per_game": 4.0,
+          "aproveitamento": 16.7,
+          "over_2_5_goals": 0,
+          "over_0_5_ht": 1,
+          "over_0_5_ft": 0,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 1,
+          "win": 0,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 1,
+            "against": 1
+          },
+          "form_home": "D",
+          "avg_corners_home_per_game": 2.0,
+          "aproveitamento_home": 33.3,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 0,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 0,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 0,
+            "against": 2
+          },
+          "form_visitor": "L",
+          "btts_away_matches": 0,
+          "avg_corners_away_per_game": 6.0,
+          "aproveitamento_away": 0.0,
+          "over_2_5_goals_away": 0,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 74,
+        "team": {
+          "id": 1215,
+          "name": "HNK Rijeka",
+          "logo": "https://cdn.footystats.org/img/teams/croatia-hnk-rijeka.png"
+        },
+        "points": 1,
+        "goalsDiff": -2,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 2,
+          "win": 0,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 1,
+            "against": 3
+          },
+          "form": "DL",
+          "btts_matches": 1,
+          "avg_corners_per_game": 4.0,
+          "aproveitamento": 16.7,
+          "over_2_5_goals": 1,
+          "over_0_5_ht": 0,
+          "over_0_5_ft": 1,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 1,
+          "win": 0,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 0,
+            "against": 0
+          },
+          "form_home": "D",
+          "avg_corners_home_per_game": 3.0,
+          "aproveitamento_home": 33.3,
+          "btts_home_matches": 0,
+          "over_2_5_goals_home": 0,
+          "over_0_5_ht_home": 0,
+          "over_0_5_ft_home": 0,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 1,
+            "against": 3
+          },
+          "form_visitor": "L",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 5.0,
+          "aproveitamento_away": 0.0,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 75,
+        "team": {
+          "id": 336,
+          "name": "SK Brann",
+          "logo": "https://cdn.footystats.org/img/teams/norway-sk-brann.png"
+        },
+        "points": 1,
+        "goalsDiff": -3,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 2,
+          "win": 0,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 2,
+            "against": 5
+          },
+          "form": "LD",
+          "btts_matches": 2,
+          "avg_corners_per_game": 1.5,
+          "aproveitamento": 16.7,
+          "over_2_5_goals": 1,
+          "over_0_5_ht": 2,
+          "over_0_5_ft": 0,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 1,
+            "against": 4
+          },
+          "form_home": "L",
+          "avg_corners_home_per_game": 1.0,
+          "aproveitamento_home": 0.0,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 0,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 1,
+          "win": 0,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 1,
+            "against": 1
+          },
+          "form_visitor": "D",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 2.0,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 0,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 76,
+        "team": {
+          "id": 76,
+          "name": "Villarreal CF",
+          "logo": "https://cdn.footystats.org/img/teams/spain-villarreal-cf.png"
+        },
+        "points": 1,
+        "goalsDiff": -13,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 8,
+          "win": 0,
+          "draw": 1,
+          "lose": 7,
+          "goals": {
+            "for": 5,
+            "against": 18
+          },
+          "form": "LLLLL",
+          "btts_matches": 3,
+          "avg_corners_per_game": 3.38,
+          "aproveitamento": 4.2,
+          "over_2_5_goals": 5,
+          "over_0_5_ht": 1,
+          "over_0_5_ft": 3,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 4,
+          "win": 0,
+          "draw": 1,
+          "lose": 3,
+          "goals": {
+            "for": 5,
+            "against": 9
+          },
+          "form_home": "DLLL",
+          "avg_corners_home_per_game": 4.5,
+          "aproveitamento_home": 8.3,
+          "btts_home_matches": 3,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 4,
+          "win": 0,
+          "draw": 0,
+          "lose": 4,
+          "goals": {
+            "for": 0,
+            "against": 9
+          },
+          "form_visitor": "LLLL",
+          "btts_away_matches": 0,
+          "avg_corners_away_per_game": 2.25,
+          "aproveitamento_away": 0.0,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 77,
+        "team": {
+          "id": 3956,
+          "name": "FC Differdange 03",
+          "logo": "https://cdn.footystats.org/img/teams/luxembourg-fc-differdange-03.png"
+        },
+        "points": 0,
+        "goalsDiff": -2,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 2,
+          "win": 0,
+          "draw": 0,
+          "lose": 2,
+          "goals": {
+            "for": 2,
+            "against": 4
+          },
+          "form": "LL",
+          "btts_matches": 1,
+          "avg_corners_per_game": 6.0,
+          "aproveitamento": 0.0,
+          "over_2_5_goals": 1,
+          "over_0_5_ht": 1,
+          "over_0_5_ft": 1,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 2,
+            "against": 3
+          },
+          "form_home": "L",
+          "avg_corners_home_per_game": 9.0,
+          "aproveitamento_home": 0.0,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 0,
+            "against": 1
+          },
+          "form_visitor": "L",
+          "btts_away_matches": 0,
+          "avg_corners_away_per_game": 3.0,
+          "aproveitamento_away": 0.0,
+          "over_2_5_goals_away": 0,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 78,
+        "team": {
+          "id": 1211,
+          "name": "Víkingur Gøta",
+          "logo": "https://cdn.footystats.org/img/teams/faroe-islands-vikingur-gota.png"
+        },
+        "points": 0,
+        "goalsDiff": -2,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 2,
+          "win": 0,
+          "draw": 0,
+          "lose": 2,
+          "goals": {
+            "for": 2,
+            "against": 4
+          },
+          "form": "LL",
+          "btts_matches": 1,
+          "avg_corners_per_game": 7.0,
+          "aproveitamento": 0.0,
+          "over_2_5_goals": 1,
+          "over_0_5_ht": 1,
+          "over_0_5_ft": 0,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 2,
+            "against": 3
+          },
+          "form_home": "L",
+          "avg_corners_home_per_game": 7.0,
+          "aproveitamento_home": 0.0,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 0,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 0,
+            "against": 1
+          },
+          "form_visitor": "L",
+          "btts_away_matches": 0,
+          "avg_corners_away_per_game": 7.0,
+          "aproveitamento_away": 0.0,
+          "over_2_5_goals_away": 0,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 79,
+        "team": {
+          "id": 965,
+          "name": "Tallinna FC Levadia",
+          "logo": "https://cdn.footystats.org/img/teams/estonia-tallinna-fc-levadia.png"
+        },
+        "points": 0,
+        "goalsDiff": -2,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 2,
+          "win": 0,
+          "draw": 0,
+          "lose": 2,
+          "goals": {
+            "for": 0,
+            "against": 2
+          },
+          "form": "LL",
+          "btts_matches": 0,
+          "avg_corners_per_game": 2.0,
+          "aproveitamento": 0.0,
+          "over_2_5_goals": 0,
+          "over_0_5_ht": 0,
+          "over_0_5_ft": 0,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 0,
+            "against": 1
+          },
+          "form_home": "L",
+          "avg_corners_home_per_game": 1.0,
+          "aproveitamento_home": 0.0,
+          "btts_home_matches": 0,
+          "over_2_5_goals_home": 0,
+          "over_0_5_ht_home": 0,
+          "over_0_5_ft_home": 0,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 0,
+            "against": 1
+          },
+          "form_visitor": "L",
+          "btts_away_matches": 0,
+          "avg_corners_away_per_game": 3.0,
+          "aproveitamento_away": 0.0,
+          "over_2_5_goals_away": 0,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 80,
+        "team": {
+          "id": 673942,
+          "name": "SS Virtus",
+          "logo": "https://cdn.footystats.org/img/teams/san-marino-ss-virtus.png"
+        },
+        "points": 0,
+        "goalsDiff": -3,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 2,
+          "win": 0,
+          "draw": 0,
+          "lose": 2,
+          "goals": {
+            "for": 1,
+            "against": 4
+          },
+          "form": "LL",
+          "btts_matches": 1,
+          "avg_corners_per_game": 1.5,
+          "aproveitamento": 0.0,
+          "over_2_5_goals": 1,
+          "over_0_5_ht": 0,
+          "over_0_5_ft": 1,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 0,
+            "against": 2
+          },
+          "form_home": "L",
+          "avg_corners_home_per_game": 1.0,
+          "aproveitamento_home": 0.0,
+          "btts_home_matches": 0,
+          "over_2_5_goals_home": 0,
+          "over_0_5_ht_home": 0,
+          "over_0_5_ft_home": 0,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 1,
+            "against": 2
+          },
+          "form_visitor": "L",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 2.0,
+          "aproveitamento_away": 0.0,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 81,
+        "team": {
+          "id": 6498,
+          "name": "FC Saburtalo Tbilisi",
+          "logo": "https://cdn.footystats.org/img/teams/georgia-fc-saburtalo-tbilisi.png"
+        },
+        "points": 0,
+        "goalsDiff": -4,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 2,
+          "win": 0,
+          "draw": 0,
+          "lose": 2,
+          "goals": {
+            "for": 2,
+            "against": 6
+          },
+          "form": "LL",
+          "btts_matches": 2,
+          "avg_corners_per_game": 2.5,
+          "aproveitamento": 0.0,
+          "over_2_5_goals": 2,
+          "over_0_5_ht": 0,
+          "over_0_5_ft": 2,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 1,
+            "against": 3
+          },
+          "form_home": "L",
+          "avg_corners_home_per_game": 5.0,
+          "aproveitamento_home": 0.0,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 0,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 1,
+            "against": 3
+          },
+          "form_visitor": "L",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 0,
+          "aproveitamento_away": 0.0,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 82,
+        "team": {
+          "id": 445,
+          "name": "OGC Nice Côte d'Azur",
+          "logo": "https://cdn.footystats.org/img/teams/france-ogc-nice-cote-dazur.png"
+        },
+        "points": 0,
+        "goalsDiff": -4,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 2,
+          "win": 0,
+          "draw": 0,
+          "lose": 2,
+          "goals": {
+            "for": 0,
+            "against": 4
+          },
+          "form": "LL",
+          "btts_matches": 0,
+          "avg_corners_per_game": 5.0,
+          "aproveitamento": 0.0,
+          "over_2_5_goals": 0,
+          "over_0_5_ht": 0,
+          "over_0_5_ft": 0,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 0,
+            "against": 2
+          },
+          "form_home": "L",
+          "avg_corners_home_per_game": 4.0,
+          "aproveitamento_home": 0.0,
+          "btts_home_matches": 0,
+          "over_2_5_goals_home": 0,
+          "over_0_5_ht_home": 0,
+          "over_0_5_ft_home": 0,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 0,
+            "against": 2
+          },
+          "form_visitor": "L",
+          "btts_away_matches": 0,
+          "avg_corners_away_per_game": 6.0,
+          "aproveitamento_away": 0.0,
+          "over_2_5_goals_away": 0,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      }
+    ]
   },
   "artilharia": {
     "europe_uefa_champions_league": [
