@@ -140,6 +140,74 @@
       {
         "rank": 3,
         "team": {
+          "id": 2721,
+          "name": "Mirassol Futebol Clube",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-mirassol-futebol-clube.png"
+        },
+        "points": 5,
+        "goalsDiff": 1,
+        "group": "Brazil Serie A 2026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 3,
+          "win": 1,
+          "draw": 2,
+          "lose": 0,
+          "goals": {
+            "for": 6,
+            "against": 5
+          },
+          "form": "WDD",
+          "btts_matches": 3,
+          "avg_corners_per_game": 6.0,
+          "aproveitamento": 55.6,
+          "over_2_5_goals": 3,
+          "over_0_5_ht": 2,
+          "over_0_5_ft": 3,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 2,
+          "win": 1,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 4,
+            "against": 3
+          },
+          "form_home": "WD",
+          "avg_corners_home_per_game": 7.0,
+          "aproveitamento_home": 66.7,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 2,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 1,
+          "win": 0,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 2,
+            "against": 2
+          },
+          "form_visitor": "D",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 4.0,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 4,
+        "team": {
           "id": 619,
           "name": "SE Palmeiras",
           "logo": "https://cdn.footystats.org/img/teams/brazil-se-palmeiras.png"
@@ -200,74 +268,6 @@
           "aproveitamento_away": 33.3,
           "over_2_5_goals_away": 1,
           "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 1,
-          "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 4,
-        "team": {
-          "id": 2721,
-          "name": "Mirassol Futebol Clube",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-mirassol-futebol-clube.png"
-        },
-        "points": 4,
-        "goalsDiff": 1,
-        "group": "Brazil Serie A 2026",
-        "status": "same",
-        "description": "Copa Libertadores",
-        "all": {
-          "played": 2,
-          "win": 1,
-          "draw": 1,
-          "lose": 0,
-          "goals": {
-            "for": 4,
-            "against": 3
-          },
-          "form": "WD",
-          "btts_matches": 2,
-          "avg_corners_per_game": 4.5,
-          "aproveitamento": 66.7,
-          "over_2_5_goals": 2,
-          "over_0_5_ht": 1,
-          "over_0_5_ft": 2,
-          "clean_sheets": 0
-        },
-        "home": {
-          "played": 1,
-          "win": 1,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 2,
-            "against": 1
-          },
-          "form_home": "W",
-          "avg_corners_home_per_game": 5.0,
-          "aproveitamento_home": 100.0,
-          "btts_home_matches": 1,
-          "over_2_5_goals_home": 1,
-          "over_0_5_ht_home": 1,
-          "over_0_5_ft_home": 1,
-          "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 1,
-          "win": 0,
-          "draw": 1,
-          "lose": 0,
-          "goals": {
-            "for": 2,
-            "against": 2
-          },
-          "form_visitor": "D",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 4.0,
-          "aproveitamento_away": 33.3,
-          "over_2_5_goals_away": 1,
-          "over_0_5_ht_away": 0,
           "over_0_5_ft_away": 1,
           "clean_sheets_away": 0
         },
@@ -1228,6 +1228,74 @@
       {
         "rank": 19,
         "team": {
+          "id": 613,
+          "name": "Cruzeiro EC",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-cruzeiro-ec.png"
+        },
+        "points": 1,
+        "goalsDiff": -5,
+        "group": "Brazil Serie A 2026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 3,
+          "win": 0,
+          "draw": 1,
+          "lose": 2,
+          "goals": {
+            "for": 3,
+            "against": 8
+          },
+          "form": "LLD",
+          "btts_matches": 2,
+          "avg_corners_per_game": 6.33,
+          "aproveitamento": 11.1,
+          "over_2_5_goals": 3,
+          "over_0_5_ht": 2,
+          "over_0_5_ft": 1,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 1,
+            "against": 2
+          },
+          "form_home": "L",
+          "avg_corners_home_per_game": 12.0,
+          "aproveitamento_home": 0.0,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 0,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 2,
+          "win": 0,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 2,
+            "against": 6
+          },
+          "form_visitor": "LD",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 3.5,
+          "aproveitamento_away": 16.7,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 20,
+        "team": {
           "id": 624,
           "name": "SC Corinthians Paulista",
           "logo": "https://cdn.footystats.org/img/teams/brazil-sc-corinthians-paulista.png"
@@ -1287,74 +1355,6 @@
           "avg_corners_away_per_game": 0,
           "aproveitamento_away": 0,
           "over_2_5_goals_away": 0,
-          "over_0_5_ht_away": 0,
-          "over_0_5_ft_away": 0,
-          "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 20,
-        "team": {
-          "id": 613,
-          "name": "Cruzeiro EC",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-cruzeiro-ec.png"
-        },
-        "points": 0,
-        "goalsDiff": -5,
-        "group": "Brazil Serie A 2026",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 2,
-          "win": 0,
-          "draw": 0,
-          "lose": 2,
-          "goals": {
-            "for": 1,
-            "against": 6
-          },
-          "form": "LL",
-          "btts_matches": 1,
-          "avg_corners_per_game": 9.5,
-          "aproveitamento": 0.0,
-          "over_2_5_goals": 2,
-          "over_0_5_ht": 1,
-          "over_0_5_ft": 0,
-          "clean_sheets": 0
-        },
-        "home": {
-          "played": 1,
-          "win": 0,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 1,
-            "against": 2
-          },
-          "form_home": "L",
-          "avg_corners_home_per_game": 12.0,
-          "aproveitamento_home": 0.0,
-          "btts_home_matches": 1,
-          "over_2_5_goals_home": 1,
-          "over_0_5_ht_home": 1,
-          "over_0_5_ft_home": 0,
-          "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 1,
-          "win": 0,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 0,
-            "against": 4
-          },
-          "form_visitor": "L",
-          "btts_away_matches": 0,
-          "avg_corners_away_per_game": 7.0,
-          "aproveitamento_away": 0.0,
-          "over_2_5_goals_away": 1,
           "over_0_5_ht_away": 0,
           "over_0_5_ft_away": 0,
           "clean_sheets_away": 0
@@ -1501,6 +1501,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-willian-jose.png"
       },
       {
+        "jogador-nome": "Wanderson Maciel Sousa Campos",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 1,
+        "jogador-assists": 0,
+        "jogador-partidas": 3,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-cruzeiro-ec.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-wanderson.png"
+      },
+      {
         "jogador-nome": "Vitor Hugo Roque Ferreira",
         "jogador-posicao": "Forward",
         "jogador-gols": 1,
@@ -1535,15 +1544,6 @@
         "jogador-partidas": 2,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ec-vitoria.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-renato-kayzer-de-souza.png"
-      },
-      {
-        "jogador-nome": "Ramón Sosa Acosta",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 1,
-        "jogador-assists": 0,
-        "jogador-partidas": 2,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-se-palmeiras.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/paraguay-ramon-sosa-acosta.png"
       }
     ]
   }
