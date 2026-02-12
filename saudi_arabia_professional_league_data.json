@@ -281,25 +281,25 @@
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-taawon-fc.png"
         },
         "points": 39,
-        "goalsDiff": 15,
+        "goalsDiff": 14,
         "group": "Saudi Arabia Professional League 20252026",
         "status": "same",
         "description": "Copa Sul-Americana",
         "all": {
-          "played": 20,
+          "played": 21,
           "win": 12,
           "draw": 3,
-          "lose": 5,
+          "lose": 6,
           "goals": {
-            "for": 37,
-            "against": 22
+            "for": 38,
+            "against": 24
           },
-          "form": "DLWLD",
-          "btts_matches": 10,
-          "avg_corners_per_game": 4.05,
-          "aproveitamento": 65.0,
-          "over_2_5_goals": 9,
-          "over_0_5_ht": 10,
+          "form": "LWLDL",
+          "btts_matches": 11,
+          "avg_corners_per_game": 4.0,
+          "aproveitamento": 61.9,
+          "over_2_5_goals": 10,
+          "over_0_5_ht": 11,
           "over_0_5_ft": 13,
           "clean_sheets": 6
         },
@@ -322,20 +322,20 @@
           "clean_sheets_home": 4
         },
         "away": {
-          "played": 10,
+          "played": 11,
           "win": 6,
           "draw": 0,
-          "lose": 4,
+          "lose": 5,
           "goals": {
-            "for": 17,
-            "against": 11
+            "for": 18,
+            "against": 13
           },
-          "form_visitor": "LLWLL",
-          "btts_away_matches": 5,
-          "avg_corners_away_per_game": 1.9,
-          "aproveitamento_away": 60.0,
-          "over_2_5_goals_away": 5,
-          "over_0_5_ht_away": 6,
+          "form_visitor": "LWLLL",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 2.0,
+          "aproveitamento_away": 54.5,
+          "over_2_5_goals_away": 6,
+          "over_0_5_ht_away": 7,
           "over_0_5_ft_away": 5,
           "clean_sheets_away": 2
         },
@@ -956,6 +956,74 @@
       {
         "rank": 15,
         "team": {
+          "id": 5083,
+          "name": "Dhamk Club",
+          "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-dhamk-club.png"
+        },
+        "points": 15,
+        "goalsDiff": -20,
+        "group": "Saudi Arabia Professional League 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 21,
+          "win": 2,
+          "draw": 9,
+          "lose": 10,
+          "goals": {
+            "for": 16,
+            "against": 36
+          },
+          "form": "LLDLW",
+          "btts_matches": 14,
+          "avg_corners_per_game": 4.0,
+          "aproveitamento": 23.8,
+          "over_2_5_goals": 9,
+          "over_0_5_ht": 9,
+          "over_0_5_ft": 7,
+          "clean_sheets": 3
+        },
+        "home": {
+          "played": 10,
+          "win": 1,
+          "draw": 5,
+          "lose": 4,
+          "goals": {
+            "for": 8,
+            "against": 13
+          },
+          "form_home": "LDLDW",
+          "avg_corners_home_per_game": 4.6,
+          "aproveitamento_home": 26.7,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 5,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 11,
+          "win": 1,
+          "draw": 4,
+          "lose": 6,
+          "goals": {
+            "for": 8,
+            "against": 23
+          },
+          "form_visitor": "LDLLL",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 3.45,
+          "aproveitamento_away": 21.2,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 6,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 16,
+        "team": {
           "id": 5088,
           "name": "Al Riyadh SC",
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-riyadh-sc.png"
@@ -1018,74 +1086,6 @@
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 5,
           "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 16,
-        "team": {
-          "id": 5083,
-          "name": "Dhamk Club",
-          "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-dhamk-club.png"
-        },
-        "points": 12,
-        "goalsDiff": -21,
-        "group": "Saudi Arabia Professional League 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 20,
-          "win": 1,
-          "draw": 9,
-          "lose": 10,
-          "goals": {
-            "for": 14,
-            "against": 35
-          },
-          "form": "LLLDL",
-          "btts_matches": 13,
-          "avg_corners_per_game": 4.0,
-          "aproveitamento": 20.0,
-          "over_2_5_goals": 8,
-          "over_0_5_ht": 8,
-          "over_0_5_ft": 6,
-          "clean_sheets": 3
-        },
-        "home": {
-          "played": 9,
-          "win": 0,
-          "draw": 5,
-          "lose": 4,
-          "goals": {
-            "for": 6,
-            "against": 12
-          },
-          "form_home": "DLDLD",
-          "avg_corners_home_per_game": 4.67,
-          "aproveitamento_home": 18.5,
-          "btts_home_matches": 6,
-          "over_2_5_goals_home": 3,
-          "over_0_5_ht_home": 2,
-          "over_0_5_ft_home": 4,
-          "clean_sheets_home": 2
-        },
-        "away": {
-          "played": 11,
-          "win": 1,
-          "draw": 4,
-          "lose": 6,
-          "goals": {
-            "for": 8,
-            "against": 23
-          },
-          "form_visitor": "LDLLL",
-          "btts_away_matches": 7,
-          "avg_corners_away_per_game": 3.45,
-          "aproveitamento_away": 21.2,
-          "over_2_5_goals_away": 5,
-          "over_0_5_ht_away": 6,
-          "over_0_5_ft_away": 2,
-          "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1261,7 +1261,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 15,
         "jogador-assists": 2,
-        "jogador-partidas": 19,
+        "jogador-partidas": 20,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-taawon-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/colombia-roger-beyker-martinez-tobinson.png"
       },
