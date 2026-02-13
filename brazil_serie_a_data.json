@@ -72,6 +72,74 @@
       {
         "rank": 2,
         "team": {
+          "id": 617,
+          "name": "Fluminense FC",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-fluminense-fc.png"
+        },
+        "points": 7,
+        "goalsDiff": 2,
+        "group": "Brazil Serie A 2026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 3,
+          "win": 2,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 4,
+            "against": 2
+          },
+          "form": "WDW",
+          "btts_matches": 2,
+          "avg_corners_per_game": 3.67,
+          "aproveitamento": 77.8,
+          "over_2_5_goals": 1,
+          "over_0_5_ht": 1,
+          "over_0_5_ft": 2,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 2,
+          "win": 2,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 3,
+            "against": 1
+          },
+          "form_home": "WW",
+          "avg_corners_home_per_game": 3.5,
+          "aproveitamento_home": 100.0,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 0,
+          "over_0_5_ft_home": 2,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 1,
+          "win": 0,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 1,
+            "against": 1
+          },
+          "form_visitor": "D",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 4.0,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 0,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 3,
+        "team": {
           "id": 626,
           "name": "EC Bahia",
           "logo": "https://cdn.footystats.org/img/teams/brazil-ec-bahia.png"
@@ -138,7 +206,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "team": {
           "id": 622,
           "name": "CA Paranaense",
@@ -206,7 +274,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "team": {
           "id": 635,
           "name": "Clube Atlético Bragantino",
@@ -216,7 +284,7 @@
         "goalsDiff": 2,
         "group": "Brazil Serie A 2026",
         "status": "same",
-        "description": "Copa Libertadores",
+        "description": "Copa Sul-Americana",
         "all": {
           "played": 2,
           "win": 2,
@@ -274,7 +342,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "team": {
           "id": 623,
           "name": "Chapecoense AF",
@@ -342,7 +410,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "team": {
           "id": 2721,
           "name": "Mirassol Futebol Clube",
@@ -352,7 +420,7 @@
         "goalsDiff": 1,
         "group": "Brazil Serie A 2026",
         "status": "same",
-        "description": "Copa Sul-Americana",
+        "description": "",
         "all": {
           "played": 3,
           "win": 1,
@@ -410,7 +478,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "team": {
           "id": 619,
           "name": "SE Palmeiras",
@@ -473,74 +541,6 @@
           "over_2_5_goals_away": 1,
           "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 1,
-          "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 8,
-        "team": {
-          "id": 617,
-          "name": "Fluminense FC",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-fluminense-fc.png"
-        },
-        "points": 4,
-        "goalsDiff": 1,
-        "group": "Brazil Serie A 2026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 2,
-          "win": 1,
-          "draw": 1,
-          "lose": 0,
-          "goals": {
-            "for": 3,
-            "against": 2
-          },
-          "form": "WD",
-          "btts_matches": 2,
-          "avg_corners_per_game": 3.5,
-          "aproveitamento": 66.7,
-          "over_2_5_goals": 1,
-          "over_0_5_ht": 1,
-          "over_0_5_ft": 1,
-          "clean_sheets": 0
-        },
-        "home": {
-          "played": 1,
-          "win": 1,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 2,
-            "against": 1
-          },
-          "form_home": "W",
-          "avg_corners_home_per_game": 3.0,
-          "aproveitamento_home": 100.0,
-          "btts_home_matches": 1,
-          "over_2_5_goals_home": 1,
-          "over_0_5_ht_home": 0,
-          "over_0_5_ft_home": 1,
-          "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 1,
-          "win": 0,
-          "draw": 1,
-          "lose": 0,
-          "goals": {
-            "for": 1,
-            "against": 1
-          },
-          "form_visitor": "D",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 4.0,
-          "aproveitamento_away": 33.3,
-          "over_2_5_goals_away": 0,
-          "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 0,
           "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -689,23 +689,23 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-botafogo-fr.png"
         },
         "points": 3,
-        "goalsDiff": 2,
+        "goalsDiff": 1,
         "group": "Brazil Serie A 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 2,
+          "played": 3,
           "win": 1,
           "draw": 0,
-          "lose": 1,
+          "lose": 2,
           "goals": {
             "for": 7,
-            "against": 5
+            "against": 6
           },
-          "form": "WL",
+          "form": "WLL",
           "btts_matches": 1,
-          "avg_corners_per_game": 2.5,
-          "aproveitamento": 50.0,
+          "avg_corners_per_game": 1.67,
+          "aproveitamento": 33.3,
           "over_2_5_goals": 2,
           "over_0_5_ht": 1,
           "over_0_5_ft": 2,
@@ -730,17 +730,17 @@
           "clean_sheets_home": 1
         },
         "away": {
-          "played": 1,
+          "played": 2,
           "win": 0,
           "draw": 0,
-          "lose": 1,
+          "lose": 2,
           "goals": {
             "for": 3,
-            "against": 5
+            "against": 6
           },
-          "form_visitor": "L",
+          "form_visitor": "LL",
           "btts_away_matches": 1,
-          "avg_corners_away_per_game": 2.0,
+          "avg_corners_away_per_game": 1.0,
           "aproveitamento_away": 0.0,
           "over_2_5_goals_away": 1,
           "over_0_5_ht_away": 1,
@@ -1370,7 +1370,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 4,
         "jogador-assists": 0,
-        "jogador-partidas": 2,
+        "jogador-partidas": 3,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-botafogo-fr.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-danilo-oliveira.png"
       },
@@ -1418,6 +1418,15 @@
         "jogador-partidas": 3,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-clube-do-remo.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-alef-mangueira-severino-pereira.png"
+      },
+      {
+        "jogador-nome": "Luciano Federico Acosta",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 2,
+        "jogador-assists": 0,
+        "jogador-partidas": 3,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-fluminense-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/argentina-luciano-acosta.png"
       },
       {
         "jogador-nome": "Jonathan Calleri",
@@ -1532,18 +1541,9 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 1,
         "jogador-assists": 1,
-        "jogador-partidas": 2,
+        "jogador-partidas": 3,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-botafogo-fr.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-arthur-cabral.png"
-      },
-      {
-        "jogador-nome": "Álvaro Barreal",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 1,
-        "jogador-assists": 0,
-        "jogador-partidas": 3,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-santos-fc-sao-paulo.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/argentina-alvaro-barreal.png"
       }
     ]
   }
