@@ -72,6 +72,74 @@
       {
         "rank": 2,
         "team": {
+          "id": 5062,
+          "name": "Al Ahli SC Jeddah",
+          "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-ahli-sc-jeddah.png"
+        },
+        "points": 50,
+        "goalsDiff": 26,
+        "group": "Saudi Arabia Professional League 20252026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 21,
+          "win": 15,
+          "draw": 5,
+          "lose": 1,
+          "goals": {
+            "for": 40,
+            "against": 14
+          },
+          "form": "WWDWW",
+          "btts_matches": 9,
+          "avg_corners_per_game": 6.19,
+          "aproveitamento": 79.4,
+          "over_2_5_goals": 9,
+          "over_0_5_ht": 9,
+          "over_0_5_ft": 15,
+          "clean_sheets": 12
+        },
+        "home": {
+          "played": 11,
+          "win": 8,
+          "draw": 3,
+          "lose": 0,
+          "goals": {
+            "for": 25,
+            "against": 10
+          },
+          "form_home": "WWWWW",
+          "avg_corners_home_per_game": 6.55,
+          "aproveitamento_home": 81.8,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 6,
+          "over_0_5_ft_home": 9,
+          "clean_sheets_home": 4
+        },
+        "away": {
+          "played": 10,
+          "win": 7,
+          "draw": 2,
+          "lose": 1,
+          "goals": {
+            "for": 15,
+            "against": 4
+          },
+          "form_visitor": "WWWDW",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 5.8,
+          "aproveitamento_away": 76.7,
+          "over_2_5_goals_away": 3,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 6,
+          "clean_sheets_away": 8
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 3,
+        "team": {
           "id": 5069,
           "name": "Al Nassr FC",
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-nassr-fc.png"
@@ -138,7 +206,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "team": {
           "id": 5068,
           "name": "Al Quadisiya Al Khubar",
@@ -202,74 +270,6 @@
           "over_0_5_ht_away": 5,
           "over_0_5_ft_away": 7,
           "clean_sheets_away": 2
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 4,
-        "team": {
-          "id": 5062,
-          "name": "Al Ahli SC Jeddah",
-          "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-ahli-sc-jeddah.png"
-        },
-        "points": 47,
-        "goalsDiff": 23,
-        "group": "Saudi Arabia Professional League 20252026",
-        "status": "same",
-        "description": "Copa Libertadores",
-        "all": {
-          "played": 20,
-          "win": 14,
-          "draw": 5,
-          "lose": 1,
-          "goals": {
-            "for": 35,
-            "against": 12
-          },
-          "form": "WWWDW",
-          "btts_matches": 8,
-          "avg_corners_per_game": 6.25,
-          "aproveitamento": 78.3,
-          "over_2_5_goals": 8,
-          "over_0_5_ht": 8,
-          "over_0_5_ft": 14,
-          "clean_sheets": 12
-        },
-        "home": {
-          "played": 11,
-          "win": 8,
-          "draw": 3,
-          "lose": 0,
-          "goals": {
-            "for": 25,
-            "against": 10
-          },
-          "form_home": "WWWWW",
-          "avg_corners_home_per_game": 6.55,
-          "aproveitamento_home": 81.8,
-          "btts_home_matches": 7,
-          "over_2_5_goals_home": 6,
-          "over_0_5_ht_home": 6,
-          "over_0_5_ft_home": 9,
-          "clean_sheets_home": 4
-        },
-        "away": {
-          "played": 9,
-          "win": 6,
-          "draw": 2,
-          "lose": 1,
-          "goals": {
-            "for": 10,
-            "against": 2
-          },
-          "form_visitor": "LWWWD",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 5.89,
-          "aproveitamento_away": 74.1,
-          "over_2_5_goals_away": 2,
-          "over_0_5_ht_away": 2,
-          "over_0_5_ft_away": 5,
-          "clean_sheets_away": 8
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -893,43 +893,43 @@
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-shabab-fc-riyadh.png"
         },
         "points": 19,
-        "goalsDiff": -7,
+        "goalsDiff": -10,
         "group": "Saudi Arabia Professional League 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 20,
+          "played": 21,
           "win": 4,
           "draw": 7,
-          "lose": 9,
+          "lose": 10,
           "goals": {
-            "for": 19,
-            "against": 26
+            "for": 21,
+            "against": 31
           },
-          "form": "DDWWL",
-          "btts_matches": 9,
-          "avg_corners_per_game": 5.15,
-          "aproveitamento": 31.7,
-          "over_2_5_goals": 6,
-          "over_0_5_ht": 6,
+          "form": "DWWLL",
+          "btts_matches": 10,
+          "avg_corners_per_game": 5.1,
+          "aproveitamento": 30.2,
+          "over_2_5_goals": 7,
+          "over_0_5_ht": 7,
           "over_0_5_ft": 8,
           "clean_sheets": 6
         },
         "home": {
-          "played": 9,
+          "played": 10,
           "win": 3,
           "draw": 3,
-          "lose": 3,
+          "lose": 4,
           "goals": {
-            "for": 11,
-            "against": 13
+            "for": 13,
+            "against": 18
           },
-          "form_home": "DLWDW",
-          "avg_corners_home_per_game": 6.44,
-          "aproveitamento_home": 44.4,
-          "btts_home_matches": 6,
-          "over_2_5_goals_home": 4,
-          "over_0_5_ht_home": 4,
+          "form_home": "LWDWL",
+          "avg_corners_home_per_game": 6.2,
+          "aproveitamento_home": 40.0,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 5,
           "over_0_5_ft_home": 5,
           "clean_sheets_home": 3
         },
@@ -1232,9 +1232,9 @@
       {
         "jogador-nome": "Ivan Toney",
         "jogador-posicao": "Forward",
-        "jogador-gols": 19,
-        "jogador-assists": 4,
-        "jogador-partidas": 19,
+        "jogador-gols": 20,
+        "jogador-assists": 5,
+        "jogador-partidas": 20,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-ahli-sc-jeddah.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/england-ivan-toney.png"
       },
@@ -1338,6 +1338,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/portugal-ruben-neves.png"
       },
       {
+        "jogador-nome": "Yannick Ferreira Carrasco",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 9,
+        "jogador-assists": 4,
+        "jogador-partidas": 17,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-shabab-fc-riyadh.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/belgium-yannick-carrasco.png"
+      },
+      {
         "jogador-nome": "Marcos Leonardo Santos Almeida",
         "jogador-posicao": "Forward",
         "jogador-gols": 9,
@@ -1363,15 +1372,6 @@
         "jogador-partidas": 17,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-khaleej-saihat.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/greece-konstantinos-fortounis.png"
-      },
-      {
-        "jogador-nome": "Yannick Ferreira Carrasco",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 7,
-        "jogador-assists": 4,
-        "jogador-partidas": 16,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-shabab-fc-riyadh.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/belgium-yannick-carrasco.png"
       },
       {
         "jogador-nome": "Khalid Essa AL Ghannam",
