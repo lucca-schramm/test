@@ -1,0 +1,870 @@
+{
+  "standings": {
+    "latvia_virsliga": [
+      {
+        "rank": 1,
+        "team": {
+          "id": 1089,
+          "name": "Riga FC",
+          "logo": "https://cdn.footystats.org/img/teams/latvia-riga-fc.png"
+        },
+        "points": 88,
+        "goalsDiff": 59,
+        "group": "Latvia Virsliga 2025",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 36,
+          "win": 27,
+          "draw": 7,
+          "lose": 2,
+          "goals": {
+            "for": 85,
+            "against": 26
+          },
+          "form": "WWDDL",
+          "btts_matches": 16,
+          "avg_corners_per_game": 7.08,
+          "aproveitamento": 81.5,
+          "over_2_5_goals": 19,
+          "over_0_5_ht": 20,
+          "over_0_5_ft": 29,
+          "clean_sheets": 20
+        },
+        "home": {
+          "played": 18,
+          "win": 12,
+          "draw": 4,
+          "lose": 2,
+          "goals": {
+            "for": 42,
+            "against": 13
+          },
+          "form_home": "WWWDL",
+          "avg_corners_home_per_game": 8.06,
+          "aproveitamento_home": 74.1,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 10,
+          "over_0_5_ht_home": 8,
+          "over_0_5_ft_home": 17,
+          "clean_sheets_home": 11
+        },
+        "away": {
+          "played": 18,
+          "win": 15,
+          "draw": 3,
+          "lose": 0,
+          "goals": {
+            "for": 43,
+            "against": 13
+          },
+          "form_visitor": "WDWWD",
+          "btts_away_matches": 9,
+          "avg_corners_away_per_game": 6.11,
+          "aproveitamento_away": 88.9,
+          "over_2_5_goals_away": 9,
+          "over_0_5_ht_away": 12,
+          "over_0_5_ft_away": 12,
+          "clean_sheets_away": 9
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 2,
+        "team": {
+          "id": 1090,
+          "name": "FK Rīgas Futbola skola",
+          "logo": "https://cdn.footystats.org/img/teams/latvia-fk-rigas-futbola-skola.png"
+        },
+        "points": 87,
+        "goalsDiff": 61,
+        "group": "Latvia Virsliga 2025",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 36,
+          "win": 28,
+          "draw": 3,
+          "lose": 5,
+          "goals": {
+            "for": 100,
+            "against": 39
+          },
+          "form": "WWWWW",
+          "btts_matches": 23,
+          "avg_corners_per_game": 6.33,
+          "aproveitamento": 80.6,
+          "over_2_5_goals": 26,
+          "over_0_5_ht": 25,
+          "over_0_5_ft": 28,
+          "clean_sheets": 11
+        },
+        "home": {
+          "played": 18,
+          "win": 15,
+          "draw": 1,
+          "lose": 2,
+          "goals": {
+            "for": 52,
+            "against": 14
+          },
+          "form_home": "LWDWW",
+          "avg_corners_home_per_game": 7.28,
+          "aproveitamento_home": 85.2,
+          "btts_home_matches": 9,
+          "over_2_5_goals_home": 11,
+          "over_0_5_ht_home": 12,
+          "over_0_5_ft_home": 14,
+          "clean_sheets_home": 8
+        },
+        "away": {
+          "played": 18,
+          "win": 13,
+          "draw": 2,
+          "lose": 3,
+          "goals": {
+            "for": 48,
+            "against": 25
+          },
+          "form_visitor": "WDWWW",
+          "btts_away_matches": 14,
+          "avg_corners_away_per_game": 5.39,
+          "aproveitamento_away": 75.9,
+          "over_2_5_goals_away": 15,
+          "over_0_5_ht_away": 13,
+          "over_0_5_ft_away": 14,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 3,
+        "team": {
+          "id": 63,
+          "name": "FK Liepāja",
+          "logo": "https://cdn.footystats.org/img/teams/latvia-fk-liepaja.png"
+        },
+        "points": 61,
+        "goalsDiff": 4,
+        "group": "Latvia Virsliga 2025",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 36,
+          "win": 18,
+          "draw": 7,
+          "lose": 11,
+          "goals": {
+            "for": 59,
+            "against": 55
+          },
+          "form": "LWDWL",
+          "btts_matches": 21,
+          "avg_corners_per_game": 5.69,
+          "aproveitamento": 56.5,
+          "over_2_5_goals": 25,
+          "over_0_5_ht": 19,
+          "over_0_5_ft": 20,
+          "clean_sheets": 9
+        },
+        "home": {
+          "played": 18,
+          "win": 9,
+          "draw": 6,
+          "lose": 3,
+          "goals": {
+            "for": 33,
+            "against": 22
+          },
+          "form_home": "WLWDD",
+          "avg_corners_home_per_game": 6.06,
+          "aproveitamento_home": 61.1,
+          "btts_home_matches": 10,
+          "over_2_5_goals_home": 11,
+          "over_0_5_ht_home": 11,
+          "over_0_5_ft_home": 10,
+          "clean_sheets_home": 7
+        },
+        "away": {
+          "played": 18,
+          "win": 9,
+          "draw": 1,
+          "lose": 8,
+          "goals": {
+            "for": 26,
+            "against": 33
+          },
+          "form_visitor": "WLWWL",
+          "btts_away_matches": 11,
+          "avg_corners_away_per_game": 5.33,
+          "aproveitamento_away": 51.9,
+          "over_2_5_goals_away": 14,
+          "over_0_5_ht_away": 8,
+          "over_0_5_ft_away": 10,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 4,
+        "team": {
+          "id": 1091,
+          "name": "Bērnu futbola centrs Daugavpils",
+          "logo": "https://cdn.footystats.org/img/teams/latvia-bernu-futbola-centrs-daugavpils.png"
+        },
+        "points": 48,
+        "goalsDiff": -10,
+        "group": "Latvia Virsliga 2025",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 36,
+          "win": 13,
+          "draw": 9,
+          "lose": 14,
+          "goals": {
+            "for": 52,
+            "against": 62
+          },
+          "form": "WDDLL",
+          "btts_matches": 25,
+          "avg_corners_per_game": 3.83,
+          "aproveitamento": 44.4,
+          "over_2_5_goals": 21,
+          "over_0_5_ht": 19,
+          "over_0_5_ft": 21,
+          "clean_sheets": 8
+        },
+        "home": {
+          "played": 18,
+          "win": 10,
+          "draw": 2,
+          "lose": 6,
+          "goals": {
+            "for": 32,
+            "against": 27
+          },
+          "form_home": "WLWDL",
+          "avg_corners_home_per_game": 4.06,
+          "aproveitamento_home": 59.3,
+          "btts_home_matches": 11,
+          "over_2_5_goals_home": 11,
+          "over_0_5_ht_home": 13,
+          "over_0_5_ft_home": 11,
+          "clean_sheets_home": 5
+        },
+        "away": {
+          "played": 18,
+          "win": 3,
+          "draw": 7,
+          "lose": 8,
+          "goals": {
+            "for": 20,
+            "against": 35
+          },
+          "form_visitor": "LWLDL",
+          "btts_away_matches": 14,
+          "avg_corners_away_per_game": 3.61,
+          "aproveitamento_away": 29.6,
+          "over_2_5_goals_away": 10,
+          "over_0_5_ht_away": 6,
+          "over_0_5_ft_away": 10,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 5,
+        "team": {
+          "id": 7058,
+          "name": "FK Auda Riga",
+          "logo": "https://cdn.footystats.org/img/teams/latvia-fk-auda-riga.png"
+        },
+        "points": 45,
+        "goalsDiff": -5,
+        "group": "Latvia Virsliga 2025",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 36,
+          "win": 13,
+          "draw": 6,
+          "lose": 17,
+          "goals": {
+            "for": 44,
+            "against": 49
+          },
+          "form": "LLLLD",
+          "btts_matches": 17,
+          "avg_corners_per_game": 6.14,
+          "aproveitamento": 41.7,
+          "over_2_5_goals": 16,
+          "over_0_5_ht": 16,
+          "over_0_5_ft": 20,
+          "clean_sheets": 10
+        },
+        "home": {
+          "played": 18,
+          "win": 9,
+          "draw": 1,
+          "lose": 8,
+          "goals": {
+            "for": 26,
+            "against": 20
+          },
+          "form_home": "WLWLL",
+          "avg_corners_home_per_game": 6.89,
+          "aproveitamento_home": 51.9,
+          "btts_home_matches": 8,
+          "over_2_5_goals_home": 8,
+          "over_0_5_ht_home": 9,
+          "over_0_5_ft_home": 13,
+          "clean_sheets_home": 7
+        },
+        "away": {
+          "played": 18,
+          "win": 4,
+          "draw": 5,
+          "lose": 9,
+          "goals": {
+            "for": 18,
+            "against": 29
+          },
+          "form_visitor": "LDLLD",
+          "btts_away_matches": 9,
+          "avg_corners_away_per_game": 5.39,
+          "aproveitamento_away": 31.5,
+          "over_2_5_goals_away": 8,
+          "over_0_5_ht_away": 7,
+          "over_0_5_ft_away": 7,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 6,
+        "team": {
+          "id": 722608,
+          "name": "FS Jelgava",
+          "logo": "https://cdn.footystats.org/img/teams/latvia-fs-jelgava.png"
+        },
+        "points": 38,
+        "goalsDiff": -7,
+        "group": "Latvia Virsliga 2025",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 36,
+          "win": 8,
+          "draw": 14,
+          "lose": 14,
+          "goals": {
+            "for": 39,
+            "against": 46
+          },
+          "form": "DDDDD",
+          "btts_matches": 20,
+          "avg_corners_per_game": 5.06,
+          "aproveitamento": 35.2,
+          "over_2_5_goals": 14,
+          "over_0_5_ht": 13,
+          "over_0_5_ft": 16,
+          "clean_sheets": 5
+        },
+        "home": {
+          "played": 18,
+          "win": 7,
+          "draw": 6,
+          "lose": 5,
+          "goals": {
+            "for": 25,
+            "against": 20
+          },
+          "form_home": "DLDDD",
+          "avg_corners_home_per_game": 5.0,
+          "aproveitamento_home": 50.0,
+          "btts_home_matches": 12,
+          "over_2_5_goals_home": 9,
+          "over_0_5_ht_home": 8,
+          "over_0_5_ft_home": 11,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 18,
+          "win": 1,
+          "draw": 8,
+          "lose": 9,
+          "goals": {
+            "for": 14,
+            "against": 26
+          },
+          "form_visitor": "LWDDD",
+          "btts_away_matches": 8,
+          "avg_corners_away_per_game": 5.11,
+          "aproveitamento_away": 20.4,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 5,
+          "over_0_5_ft_away": 5,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 7,
+        "team": {
+          "id": 7051,
+          "name": "FK Tukums 2000",
+          "logo": "https://cdn.footystats.org/img/teams/latvia-fk-tukums-2000.png"
+        },
+        "points": 36,
+        "goalsDiff": -24,
+        "group": "Latvia Virsliga 2025",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 36,
+          "win": 9,
+          "draw": 9,
+          "lose": 18,
+          "goals": {
+            "for": 39,
+            "against": 63
+          },
+          "form": "LLDWD",
+          "btts_matches": 18,
+          "avg_corners_per_game": 3.67,
+          "aproveitamento": 33.3,
+          "over_2_5_goals": 18,
+          "over_0_5_ht": 17,
+          "over_0_5_ft": 10,
+          "clean_sheets": 8
+        },
+        "home": {
+          "played": 18,
+          "win": 6,
+          "draw": 5,
+          "lose": 7,
+          "goals": {
+            "for": 25,
+            "against": 31
+          },
+          "form_home": "LWWLD",
+          "avg_corners_home_per_game": 3.44,
+          "aproveitamento_home": 42.6,
+          "btts_home_matches": 11,
+          "over_2_5_goals_home": 10,
+          "over_0_5_ht_home": 8,
+          "over_0_5_ft_home": 9,
+          "clean_sheets_home": 4
+        },
+        "away": {
+          "played": 18,
+          "win": 3,
+          "draw": 4,
+          "lose": 11,
+          "goals": {
+            "for": 14,
+            "against": 32
+          },
+          "form_visitor": "DLLDW",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 3.89,
+          "aproveitamento_away": 24.1,
+          "over_2_5_goals_away": 8,
+          "over_0_5_ht_away": 9,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 4
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 8,
+        "team": {
+          "id": 7050,
+          "name": "Grobinas Sporta Centrs",
+          "logo": "https://cdn.footystats.org/img/teams/latvia-grobinas-sporta-centrs.png"
+        },
+        "points": 32,
+        "goalsDiff": -31,
+        "group": "Latvia Virsliga 2025",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 36,
+          "win": 8,
+          "draw": 8,
+          "lose": 20,
+          "goals": {
+            "for": 33,
+            "against": 64
+          },
+          "form": "WDLDD",
+          "btts_matches": 16,
+          "avg_corners_per_game": 4.58,
+          "aproveitamento": 29.6,
+          "over_2_5_goals": 14,
+          "over_0_5_ht": 13,
+          "over_0_5_ft": 13,
+          "clean_sheets": 8
+        },
+        "home": {
+          "played": 18,
+          "win": 6,
+          "draw": 5,
+          "lose": 7,
+          "goals": {
+            "for": 23,
+            "against": 26
+          },
+          "form_home": "LWDDD",
+          "avg_corners_home_per_game": 4.61,
+          "aproveitamento_home": 42.6,
+          "btts_home_matches": 10,
+          "over_2_5_goals_home": 7,
+          "over_0_5_ht_home": 7,
+          "over_0_5_ft_home": 10,
+          "clean_sheets_home": 5
+        },
+        "away": {
+          "played": 18,
+          "win": 2,
+          "draw": 3,
+          "lose": 13,
+          "goals": {
+            "for": 10,
+            "against": 38
+          },
+          "form_visitor": "LLLWL",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 4.56,
+          "aproveitamento_away": 16.7,
+          "over_2_5_goals_away": 7,
+          "over_0_5_ht_away": 6,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 9,
+        "team": {
+          "id": 7048,
+          "name": "SK Super Nova",
+          "logo": "https://cdn.footystats.org/img/teams/latvia-sk-super-nova.png"
+        },
+        "points": 32,
+        "goalsDiff": -12,
+        "group": "Latvia Virsliga 2025",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 36,
+          "win": 6,
+          "draw": 14,
+          "lose": 16,
+          "goals": {
+            "for": 44,
+            "against": 56
+          },
+          "form": "DDDLW",
+          "btts_matches": 23,
+          "avg_corners_per_game": 4.03,
+          "aproveitamento": 29.6,
+          "over_2_5_goals": 18,
+          "over_0_5_ht": 13,
+          "over_0_5_ft": 22,
+          "clean_sheets": 8
+        },
+        "home": {
+          "played": 18,
+          "win": 4,
+          "draw": 8,
+          "lose": 6,
+          "goals": {
+            "for": 24,
+            "against": 27
+          },
+          "form_home": "DLDLW",
+          "avg_corners_home_per_game": 4.0,
+          "aproveitamento_home": 37.0,
+          "btts_home_matches": 12,
+          "over_2_5_goals_home": 8,
+          "over_0_5_ht_home": 8,
+          "over_0_5_ft_home": 11,
+          "clean_sheets_home": 5
+        },
+        "away": {
+          "played": 18,
+          "win": 2,
+          "draw": 6,
+          "lose": 10,
+          "goals": {
+            "for": 20,
+            "against": 29
+          },
+          "form_visitor": "LLLDD",
+          "btts_away_matches": 11,
+          "avg_corners_away_per_game": 4.06,
+          "aproveitamento_away": 22.2,
+          "over_2_5_goals_away": 10,
+          "over_0_5_ht_away": 5,
+          "over_0_5_ft_away": 11,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 10,
+        "team": {
+          "id": 1088,
+          "name": "FS METTA Latvijas Universitate",
+          "logo": "https://cdn.footystats.org/img/teams/latvia-fs-metta-latvijas-universitate.png"
+        },
+        "points": 31,
+        "goalsDiff": -35,
+        "group": "Latvia Virsliga 2025",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 36,
+          "win": 8,
+          "draw": 7,
+          "lose": 21,
+          "goals": {
+            "for": 39,
+            "against": 74
+          },
+          "form": "LLWDW",
+          "btts_matches": 19,
+          "avg_corners_per_game": 3.53,
+          "aproveitamento": 28.7,
+          "over_2_5_goals": 21,
+          "over_0_5_ht": 12,
+          "over_0_5_ft": 19,
+          "clean_sheets": 4
+        },
+        "home": {
+          "played": 18,
+          "win": 5,
+          "draw": 4,
+          "lose": 9,
+          "goals": {
+            "for": 20,
+            "against": 32
+          },
+          "form_home": "WLLWW",
+          "avg_corners_home_per_game": 3.89,
+          "aproveitamento_home": 35.2,
+          "btts_home_matches": 9,
+          "over_2_5_goals_home": 11,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 10,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 18,
+          "win": 3,
+          "draw": 3,
+          "lose": 12,
+          "goals": {
+            "for": 19,
+            "against": 42
+          },
+          "form_visitor": "WLLLD",
+          "btts_away_matches": 10,
+          "avg_corners_away_per_game": 3.17,
+          "aproveitamento_away": 22.2,
+          "over_2_5_goals_away": 10,
+          "over_0_5_ht_away": 7,
+          "over_0_5_ft_away": 9,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      }
+    ]
+  },
+  "artilharia": {
+    "latvia_virsliga": [
+      {
+        "jogador-nome": "Darko Lemajić",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 28,
+        "jogador-assists": 5,
+        "jogador-partidas": 26,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/latvia-fk-rigas-futbola-skola.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/serbia-darko-lemajic.png"
+      },
+      {
+        "jogador-nome": "Jānis Ikaunieks",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 19,
+        "jogador-assists": 11,
+        "jogador-partidas": 27,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/latvia-fk-rigas-futbola-skola.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/latvia-janis-ikaunieks.png"
+      },
+      {
+        "jogador-nome": "Djibril Gueye",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 18,
+        "jogador-assists": 2,
+        "jogador-partidas": 32,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/latvia-fk-liepaja.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/senegal-djibril-gueye.png"
+      },
+      {
+        "jogador-nome": "Ingars Pūlis",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 17,
+        "jogador-assists": 2,
+        "jogador-partidas": 30,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/latvia-fk-tukums-2000.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/latvia-ingars-pulis.png"
+      },
+      {
+        "jogador-nome": "Marko Regža",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 16,
+        "jogador-assists": 4,
+        "jogador-partidas": 26,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/latvia-riga-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/latvia-marko-regza.png"
+      },
+      {
+        "jogador-nome": "Reginaldo Ramires de Oliveira Albertino",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 12,
+        "jogador-assists": 2,
+        "jogador-partidas": 26,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/latvia-riga-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-reginaldo-ramires-de-oliveira-albertino.png"
+      },
+      {
+        "jogador-nome": "Kemelho Nguena",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 9,
+        "jogador-assists": 5,
+        "jogador-partidas": 28,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/latvia-fk-auda-riga.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/france-kemelho-nguena.png"
+      },
+      {
+        "jogador-nome": "Kingsley Udukwu Emenike",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 9,
+        "jogador-assists": 0,
+        "jogador-partidas": 27,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/latvia-fs-jelgava.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-kingsley-udukwu-emenike.png"
+      },
+      {
+        "jogador-nome": "Stefan Panić",
+        "jogador-posicao": "Defender",
+        "jogador-gols": 8,
+        "jogador-assists": 3,
+        "jogador-partidas": 29,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/latvia-fk-rigas-futbola-skola.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/serbia-stefan-panic.png"
+      },
+      {
+        "jogador-nome": "Mor Talla Gaye",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 8,
+        "jogador-assists": 3,
+        "jogador-partidas": 26,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/latvia-fk-rigas-futbola-skola.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-mor-talla-gaye.png"
+      },
+      {
+        "jogador-nome": "Bruno Melnis",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 8,
+        "jogador-assists": 2,
+        "jogador-partidas": 29,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/latvia-fk-liepaja.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/latvia-bruno-melnis.png"
+      },
+      {
+        "jogador-nome": "Anthony Daniel Contreras Enríquez",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 8,
+        "jogador-assists": 2,
+        "jogador-partidas": 30,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/latvia-riga-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/costa-rica-anthony-contreas.png"
+      },
+      {
+        "jogador-nome": "Barthélémy Diedhiou",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 7,
+        "jogador-assists": 4,
+        "jogador-partidas": 21,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/latvia-bernu-futbola-centrs-daugavpils.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-barthélémy-diedhiou.png"
+      },
+      {
+        "jogador-nome": "Markuss Ivulāns",
+        "jogador-posicao": "Defender",
+        "jogador-gols": 6,
+        "jogador-assists": 3,
+        "jogador-partidas": 26,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/latvia-fs-metta-latvijas-universitate.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/latvia-markuss-ivulans.png"
+      },
+      {
+        "jogador-nome": "Brian Peña Perez-Vico",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 6,
+        "jogador-assists": 3,
+        "jogador-partidas": 27,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/latvia-riga-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/spain-brian-pena-perez-vico.png"
+      },
+      {
+        "jogador-nome": "Boubou Diallo",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 6,
+        "jogador-assists": 2,
+        "jogador-partidas": 12,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/latvia-bernu-futbola-centrs-daugavpils.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-boubou-diallo.png"
+      },
+      {
+        "jogador-nome": "Kristofers Rēķis",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 6,
+        "jogador-assists": 1,
+        "jogador-partidas": 30,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/latvia-fs-metta-latvijas-universitate.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/latvia-kristofers-reķis.png"
+      },
+      {
+        "jogador-nome": "Emīls Evelons",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 6,
+        "jogador-assists": 0,
+        "jogador-partidas": 33,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/latvia-fs-metta-latvijas-universitate.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-emīls-evelons.png"
+      },
+      {
+        "jogador-nome": "Niks Dusalijevs",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 5,
+        "jogador-assists": 10,
+        "jogador-partidas": 32,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/latvia-fk-tukums-2000.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/latvia-niks-dusalijevs.png"
+      },
+      {
+        "jogador-nome": "Ryuga Nakamura",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 5,
+        "jogador-assists": 4,
+        "jogador-partidas": 30,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/latvia-sk-super-nova.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-ryuga-nakamura.png"
+      }
+    ]
+  }
+}
