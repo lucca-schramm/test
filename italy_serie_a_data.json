@@ -344,6 +344,74 @@
       {
         "rank": 6,
         "team": {
+          "id": 464,
+          "name": "Atalanta Bergamasca Calcio",
+          "logo": "https://cdn.footystats.org/img/teams/italy-atalanta-bergamasca-calcio.png"
+        },
+        "points": 42,
+        "goalsDiff": 13,
+        "group": "Italy Serie A 20252026",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 25,
+          "win": 11,
+          "draw": 9,
+          "lose": 5,
+          "goals": {
+            "for": 34,
+            "against": 21
+          },
+          "form": "DWDWW",
+          "btts_matches": 12,
+          "avg_corners_per_game": 5.64,
+          "aproveitamento": 56.0,
+          "over_2_5_goals": 8,
+          "over_0_5_ht": 13,
+          "over_0_5_ft": 14,
+          "clean_sheets": 10
+        },
+        "home": {
+          "played": 13,
+          "win": 7,
+          "draw": 4,
+          "lose": 2,
+          "goals": {
+            "for": 20,
+            "against": 10
+          },
+          "form_home": "LWWWW",
+          "avg_corners_home_per_game": 6.92,
+          "aproveitamento_home": 64.1,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 9,
+          "over_0_5_ft_home": 6,
+          "clean_sheets_home": 5
+        },
+        "away": {
+          "played": 12,
+          "win": 4,
+          "draw": 5,
+          "lose": 3,
+          "goals": {
+            "for": 14,
+            "against": 11
+          },
+          "form_visitor": "WWDDW",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 4.25,
+          "aproveitamento_away": 47.2,
+          "over_2_5_goals_away": 3,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 8,
+          "clean_sheets_away": 5
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 7,
+        "team": {
           "id": 518,
           "name": "Calcio Como",
           "logo": "https://cdn.footystats.org/img/teams/italy-calcio-como.png"
@@ -352,7 +420,7 @@
         "goalsDiff": 20,
         "group": "Italy Serie A 20252026",
         "status": "same",
-        "description": "Copa Sul-Americana",
+        "description": "",
         "all": {
           "played": 24,
           "win": 11,
@@ -410,74 +478,6 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 7,
-        "team": {
-          "id": 464,
-          "name": "Atalanta Bergamasca Calcio",
-          "logo": "https://cdn.footystats.org/img/teams/italy-atalanta-bergamasca-calcio.png"
-        },
-        "points": 39,
-        "goalsDiff": 11,
-        "group": "Italy Serie A 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 24,
-          "win": 10,
-          "draw": 9,
-          "lose": 5,
-          "goals": {
-            "for": 32,
-            "against": 21
-          },
-          "form": "WDWDW",
-          "btts_matches": 12,
-          "avg_corners_per_game": 5.71,
-          "aproveitamento": 54.2,
-          "over_2_5_goals": 8,
-          "over_0_5_ht": 12,
-          "over_0_5_ft": 13,
-          "clean_sheets": 9
-        },
-        "home": {
-          "played": 13,
-          "win": 7,
-          "draw": 4,
-          "lose": 2,
-          "goals": {
-            "for": 20,
-            "against": 10
-          },
-          "form_home": "LWWWW",
-          "avg_corners_home_per_game": 6.92,
-          "aproveitamento_home": 64.1,
-          "btts_home_matches": 6,
-          "over_2_5_goals_home": 5,
-          "over_0_5_ht_home": 9,
-          "over_0_5_ft_home": 6,
-          "clean_sheets_home": 5
-        },
-        "away": {
-          "played": 11,
-          "win": 3,
-          "draw": 5,
-          "lose": 3,
-          "goals": {
-            "for": 12,
-            "against": 11
-          },
-          "form_visitor": "LWWDD",
-          "btts_away_matches": 6,
-          "avg_corners_away_per_game": 4.27,
-          "aproveitamento_away": 42.4,
-          "over_2_5_goals_away": 3,
-          "over_0_5_ht_away": 3,
-          "over_0_5_ft_away": 7,
-          "clean_sheets_away": 4
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
         "rank": 8,
         "team": {
           "id": 463,
@@ -485,40 +485,40 @@
           "logo": "https://cdn.footystats.org/img/teams/italy-ss-lazio.png"
         },
         "points": 33,
-        "goalsDiff": 3,
+        "goalsDiff": 1,
         "group": "Italy Serie A 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 24,
+          "played": 25,
           "win": 8,
           "draw": 9,
-          "lose": 7,
+          "lose": 8,
           "goals": {
             "for": 26,
-            "against": 23
+            "against": 25
           },
-          "form": "WLDWD",
+          "form": "LDWDL",
           "btts_matches": 6,
-          "avg_corners_per_game": 3.58,
-          "aproveitamento": 45.8,
+          "avg_corners_per_game": 3.64,
+          "aproveitamento": 44.0,
           "over_2_5_goals": 7,
           "over_0_5_ht": 7,
           "over_0_5_ft": 11,
           "clean_sheets": 11
         },
         "home": {
-          "played": 12,
+          "played": 13,
           "win": 5,
           "draw": 4,
-          "lose": 3,
+          "lose": 4,
           "goals": {
             "for": 18,
-            "against": 14
+            "against": 16
           },
-          "form_home": "DLDLW",
+          "form_home": "LDLWL",
           "avg_corners_home_per_game": 4.92,
-          "aproveitamento_home": 52.8,
+          "aproveitamento_home": 48.7,
           "btts_home_matches": 4,
           "over_2_5_goals_home": 5,
           "over_0_5_ht_home": 5,
@@ -1424,7 +1424,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 7,
         "jogador-assists": 4,
-        "jogador-partidas": 20,
+        "jogador-partidas": 21,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/italy-atalanta-bergamasca-calcio.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/montenegro-nikola-krstovic.png"
       },
