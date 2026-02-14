@@ -1,0 +1,870 @@
+{
+  "standings": {
+    "slovenia_prvaliga": [
+      {
+        "rank": 1,
+        "team": {
+          "id": 1970,
+          "name": "NK Celje",
+          "logo": "https://cdn.footystats.org/img/teams/slovenia-nk-celje.png"
+        },
+        "points": 47,
+        "goalsDiff": 32,
+        "group": "Slovenia PrvaLiga 20252026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 21,
+          "win": 14,
+          "draw": 5,
+          "lose": 2,
+          "goals": {
+            "for": 53,
+            "against": 21
+          },
+          "form": "DWDWL",
+          "btts_matches": 12,
+          "avg_corners_per_game": 6.14,
+          "aproveitamento": 74.6,
+          "over_2_5_goals": 16,
+          "over_0_5_ht": 13,
+          "over_0_5_ft": 17,
+          "clean_sheets": 9
+        },
+        "home": {
+          "played": 10,
+          "win": 7,
+          "draw": 3,
+          "lose": 0,
+          "goals": {
+            "for": 22,
+            "against": 5
+          },
+          "form_home": "WDDWW",
+          "avg_corners_home_per_game": 7.0,
+          "aproveitamento_home": 80.0,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 8,
+          "over_0_5_ft_home": 7,
+          "clean_sheets_home": 5
+        },
+        "away": {
+          "played": 11,
+          "win": 7,
+          "draw": 2,
+          "lose": 2,
+          "goals": {
+            "for": 31,
+            "against": 16
+          },
+          "form_visitor": "WLWDL",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 5.36,
+          "aproveitamento_away": 69.7,
+          "over_2_5_goals_away": 10,
+          "over_0_5_ht_away": 5,
+          "over_0_5_ft_away": 10,
+          "clean_sheets_away": 4
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 2,
+        "team": {
+          "id": 1976,
+          "name": "FC Koper",
+          "logo": "https://cdn.footystats.org/img/teams/slovenia-fc-koper.png"
+        },
+        "points": 37,
+        "goalsDiff": 11,
+        "group": "Slovenia PrvaLiga 20252026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 21,
+          "win": 11,
+          "draw": 4,
+          "lose": 6,
+          "goals": {
+            "for": 41,
+            "against": 30
+          },
+          "form": "DWWWL",
+          "btts_matches": 16,
+          "avg_corners_per_game": 5.0,
+          "aproveitamento": 58.7,
+          "over_2_5_goals": 14,
+          "over_0_5_ht": 12,
+          "over_0_5_ft": 17,
+          "clean_sheets": 3
+        },
+        "home": {
+          "played": 11,
+          "win": 9,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 26,
+            "against": 12
+          },
+          "form_home": "WWWWW",
+          "avg_corners_home_per_game": 4.27,
+          "aproveitamento_home": 84.8,
+          "btts_home_matches": 8,
+          "over_2_5_goals_home": 8,
+          "over_0_5_ht_home": 7,
+          "over_0_5_ft_home": 10,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 10,
+          "win": 2,
+          "draw": 3,
+          "lose": 5,
+          "goals": {
+            "for": 15,
+            "against": 18
+          },
+          "form_visitor": "LDLDL",
+          "btts_away_matches": 8,
+          "avg_corners_away_per_game": 5.8,
+          "aproveitamento_away": 30.0,
+          "over_2_5_goals_away": 6,
+          "over_0_5_ht_away": 5,
+          "over_0_5_ft_away": 7,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 3,
+        "team": {
+          "id": 969,
+          "name": "NK Maribor",
+          "logo": "https://cdn.footystats.org/img/teams/slovenia-nk-maribor.png"
+        },
+        "points": 35,
+        "goalsDiff": 13,
+        "group": "Slovenia PrvaLiga 20252026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 20,
+          "win": 10,
+          "draw": 5,
+          "lose": 5,
+          "goals": {
+            "for": 39,
+            "against": 26
+          },
+          "form": "DWLDW",
+          "btts_matches": 11,
+          "avg_corners_per_game": 5.1,
+          "aproveitamento": 58.3,
+          "over_2_5_goals": 12,
+          "over_0_5_ht": 16,
+          "over_0_5_ft": 11,
+          "clean_sheets": 6
+        },
+        "home": {
+          "played": 11,
+          "win": 5,
+          "draw": 4,
+          "lose": 2,
+          "goals": {
+            "for": 27,
+            "against": 15
+          },
+          "form_home": "WDLDW",
+          "avg_corners_home_per_game": 5.09,
+          "aproveitamento_home": 57.6,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 8,
+          "over_0_5_ht_home": 10,
+          "over_0_5_ft_home": 7,
+          "clean_sheets_home": 4
+        },
+        "away": {
+          "played": 9,
+          "win": 5,
+          "draw": 1,
+          "lose": 3,
+          "goals": {
+            "for": 12,
+            "against": 11
+          },
+          "form_visitor": "LLWDW",
+          "btts_away_matches": 4,
+          "avg_corners_away_per_game": 5.11,
+          "aproveitamento_away": 59.3,
+          "over_2_5_goals_away": 4,
+          "over_0_5_ht_away": 6,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 4,
+        "team": {
+          "id": 115,
+          "name": "NK Olimpija Ljubljana",
+          "logo": "https://cdn.footystats.org/img/teams/slovenia-nk-olimpija-ljubljana.png"
+        },
+        "points": 34,
+        "goalsDiff": 4,
+        "group": "Slovenia PrvaLiga 20252026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 21,
+          "win": 10,
+          "draw": 4,
+          "lose": 7,
+          "goals": {
+            "for": 29,
+            "against": 25
+          },
+          "form": "WLWWW",
+          "btts_matches": 12,
+          "avg_corners_per_game": 3.81,
+          "aproveitamento": 54.0,
+          "over_2_5_goals": 11,
+          "over_0_5_ht": 14,
+          "over_0_5_ft": 7,
+          "clean_sheets": 7
+        },
+        "home": {
+          "played": 11,
+          "win": 6,
+          "draw": 1,
+          "lose": 4,
+          "goals": {
+            "for": 14,
+            "against": 15
+          },
+          "form_home": "LWWWW",
+          "avg_corners_home_per_game": 3.64,
+          "aproveitamento_home": 57.6,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 9,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 4
+        },
+        "away": {
+          "played": 10,
+          "win": 4,
+          "draw": 3,
+          "lose": 3,
+          "goals": {
+            "for": 15,
+            "against": 10
+          },
+          "form_visitor": "DLDLW",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 4.0,
+          "aproveitamento_away": 50.0,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 5,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 5,
+        "team": {
+          "id": 1992,
+          "name": "AŠK Bravo Publikum",
+          "logo": "https://cdn.footystats.org/img/teams/slovenia-ask-bravo-publikum.png"
+        },
+        "points": 28,
+        "goalsDiff": -1,
+        "group": "Slovenia PrvaLiga 20252026",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 21,
+          "win": 8,
+          "draw": 4,
+          "lose": 9,
+          "goals": {
+            "for": 38,
+            "against": 39
+          },
+          "form": "LWLLL",
+          "btts_matches": 13,
+          "avg_corners_per_game": 4.95,
+          "aproveitamento": 44.4,
+          "over_2_5_goals": 15,
+          "over_0_5_ht": 11,
+          "over_0_5_ft": 13,
+          "clean_sheets": 4
+        },
+        "home": {
+          "played": 10,
+          "win": 4,
+          "draw": 1,
+          "lose": 5,
+          "goals": {
+            "for": 15,
+            "against": 20
+          },
+          "form_home": "WLLWL",
+          "avg_corners_home_per_game": 4.7,
+          "aproveitamento_home": 43.3,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 7,
+          "over_0_5_ht_home": 7,
+          "over_0_5_ft_home": 5,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 11,
+          "win": 4,
+          "draw": 3,
+          "lose": 4,
+          "goals": {
+            "for": 23,
+            "against": 19
+          },
+          "form_visitor": "WDLLL",
+          "btts_away_matches": 8,
+          "avg_corners_away_per_game": 5.18,
+          "aproveitamento_away": 45.5,
+          "over_2_5_goals_away": 8,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 8,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 6,
+        "team": {
+          "id": 1971,
+          "name": "NK Aluminij",
+          "logo": "https://cdn.footystats.org/img/teams/slovenia-nk-aluminij.png"
+        },
+        "points": 28,
+        "goalsDiff": -4,
+        "group": "Slovenia PrvaLiga 20252026",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 21,
+          "win": 8,
+          "draw": 4,
+          "lose": 9,
+          "goals": {
+            "for": 32,
+            "against": 36
+          },
+          "form": "DWLLW",
+          "btts_matches": 16,
+          "avg_corners_per_game": 4.24,
+          "aproveitamento": 44.4,
+          "over_2_5_goals": 16,
+          "over_0_5_ht": 11,
+          "over_0_5_ft": 13,
+          "clean_sheets": 4
+        },
+        "home": {
+          "played": 10,
+          "win": 3,
+          "draw": 2,
+          "lose": 5,
+          "goals": {
+            "for": 14,
+            "against": 18
+          },
+          "form_home": "DLWDL",
+          "avg_corners_home_per_game": 4.8,
+          "aproveitamento_home": 36.7,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 8,
+          "over_0_5_ht_home": 7,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 11,
+          "win": 5,
+          "draw": 2,
+          "lose": 4,
+          "goals": {
+            "for": 18,
+            "against": 18
+          },
+          "form_visitor": "LLWLW",
+          "btts_away_matches": 9,
+          "avg_corners_away_per_game": 3.73,
+          "aproveitamento_away": 51.5,
+          "over_2_5_goals_away": 8,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 9,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 7,
+        "team": {
+          "id": 1975,
+          "name": "NK Radomlje",
+          "logo": "https://cdn.footystats.org/img/teams/slovenia-nk-radomlje.png"
+        },
+        "points": 28,
+        "goalsDiff": -6,
+        "group": "Slovenia PrvaLiga 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 20,
+          "win": 8,
+          "draw": 4,
+          "lose": 8,
+          "goals": {
+            "for": 29,
+            "against": 35
+          },
+          "form": "WLWWL",
+          "btts_matches": 14,
+          "avg_corners_per_game": 4.25,
+          "aproveitamento": 46.7,
+          "over_2_5_goals": 14,
+          "over_0_5_ht": 8,
+          "over_0_5_ft": 12,
+          "clean_sheets": 3
+        },
+        "home": {
+          "played": 10,
+          "win": 5,
+          "draw": 2,
+          "lose": 3,
+          "goals": {
+            "for": 16,
+            "against": 18
+          },
+          "form_home": "LDDWW",
+          "avg_corners_home_per_game": 4.9,
+          "aproveitamento_home": 56.7,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 7,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 7,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 10,
+          "win": 3,
+          "draw": 2,
+          "lose": 5,
+          "goals": {
+            "for": 13,
+            "against": 17
+          },
+          "form_visitor": "DWWLL",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 3.6,
+          "aproveitamento_away": 36.7,
+          "over_2_5_goals_away": 7,
+          "over_0_5_ht_away": 5,
+          "over_0_5_ft_away": 5,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 8,
+        "team": {
+          "id": 16056,
+          "name": "NK Primorje Ajdovščina",
+          "logo": "https://cdn.footystats.org/img/teams/slovenia-nk-primorje-ajdovscina.png"
+        },
+        "points": 18,
+        "goalsDiff": -17,
+        "group": "Slovenia PrvaLiga 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 20,
+          "win": 5,
+          "draw": 3,
+          "lose": 12,
+          "goals": {
+            "for": 23,
+            "against": 40
+          },
+          "form": "WDLLW",
+          "btts_matches": 12,
+          "avg_corners_per_game": 3.95,
+          "aproveitamento": 30.0,
+          "over_2_5_goals": 13,
+          "over_0_5_ht": 7,
+          "over_0_5_ft": 10,
+          "clean_sheets": 2
+        },
+        "home": {
+          "played": 10,
+          "win": 5,
+          "draw": 1,
+          "lose": 4,
+          "goals": {
+            "for": 18,
+            "against": 17
+          },
+          "form_home": "LWLWW",
+          "avg_corners_home_per_game": 4.1,
+          "aproveitamento_home": 53.3,
+          "btts_home_matches": 8,
+          "over_2_5_goals_home": 7,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 7,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 10,
+          "win": 0,
+          "draw": 2,
+          "lose": 8,
+          "goals": {
+            "for": 5,
+            "against": 23
+          },
+          "form_visitor": "LLDLL",
+          "btts_away_matches": 4,
+          "avg_corners_away_per_game": 3.8,
+          "aproveitamento_away": 6.7,
+          "over_2_5_goals_away": 6,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 9,
+        "team": {
+          "id": 1991,
+          "name": "NŠ Mura",
+          "logo": "https://cdn.footystats.org/img/teams/slovenia-ns-mura.png"
+        },
+        "points": 18,
+        "goalsDiff": -11,
+        "group": "Slovenia PrvaLiga 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 21,
+          "win": 4,
+          "draw": 6,
+          "lose": 11,
+          "goals": {
+            "for": 21,
+            "against": 32
+          },
+          "form": "LLLWL",
+          "btts_matches": 9,
+          "avg_corners_per_game": 5.76,
+          "aproveitamento": 28.6,
+          "over_2_5_goals": 10,
+          "over_0_5_ht": 7,
+          "over_0_5_ft": 9,
+          "clean_sheets": 3
+        },
+        "home": {
+          "played": 10,
+          "win": 3,
+          "draw": 4,
+          "lose": 3,
+          "goals": {
+            "for": 12,
+            "against": 13
+          },
+          "form_home": "DWWLL",
+          "avg_corners_home_per_game": 5.9,
+          "aproveitamento_home": 43.3,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 11,
+          "win": 1,
+          "draw": 2,
+          "lose": 8,
+          "goals": {
+            "for": 9,
+            "against": 19
+          },
+          "form_visitor": "DLLLW",
+          "btts_away_matches": 4,
+          "avg_corners_away_per_game": 5.64,
+          "aproveitamento_away": 15.2,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 5,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 10,
+        "team": {
+          "id": 1972,
+          "name": "NK Domžale",
+          "logo": "https://cdn.footystats.org/img/teams/slovenia-nk-domzale.png"
+        },
+        "points": 12,
+        "goalsDiff": -21,
+        "group": "Slovenia PrvaLiga 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 18,
+          "win": 3,
+          "draw": 3,
+          "lose": 12,
+          "goals": {
+            "for": 17,
+            "against": 38
+          },
+          "form": "DLLWL",
+          "btts_matches": 11,
+          "avg_corners_per_game": 4.06,
+          "aproveitamento": 22.2,
+          "over_2_5_goals": 11,
+          "over_0_5_ht": 8,
+          "over_0_5_ft": 7,
+          "clean_sheets": 2
+        },
+        "home": {
+          "played": 9,
+          "win": 2,
+          "draw": 2,
+          "lose": 5,
+          "goals": {
+            "for": 9,
+            "against": 16
+          },
+          "form_home": "WDDLW",
+          "avg_corners_home_per_game": 5.11,
+          "aproveitamento_home": 29.6,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 9,
+          "win": 1,
+          "draw": 1,
+          "lose": 7,
+          "goals": {
+            "for": 8,
+            "against": 22
+          },
+          "form_visitor": "DLWLL",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 3.0,
+          "aproveitamento_away": 14.8,
+          "over_2_5_goals_away": 7,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      }
+    ]
+  },
+  "artilharia": {
+    "slovenia_prvaliga": [
+      {
+        "jogador-nome": "Benjamin Tetteh",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 11,
+        "jogador-assists": 3,
+        "jogador-partidas": 16,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/slovenia-nk-maribor.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/ghana-benjamin-tetteh.png"
+      },
+      {
+        "jogador-nome": "Franko Kovačević",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 11,
+        "jogador-assists": 1,
+        "jogador-partidas": 14,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/slovenia-nk-celje.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/croatia-franko-kovacevic.png"
+      },
+      {
+        "jogador-nome": "Emir Saitoski",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 9,
+        "jogador-assists": 0,
+        "jogador-partidas": 20,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/slovenia-nk-aluminij.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/fyr-macedonia-emir-saitoski.png"
+      },
+      {
+        "jogador-nome": "Jogador_678773",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 8,
+        "jogador-assists": 5,
+        "jogador-partidas": 20,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/slovenia-ask-bravo-publikum.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-jogador_678773.png"
+      },
+      {
+        "jogador-nome": "Dario Vizinger",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 8,
+        "jogador-assists": 4,
+        "jogador-partidas": 20,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/slovenia-ns-mura.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/croatia-dario-vizinger.png"
+      },
+      {
+        "jogador-nome": "Nino Kukovec",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 7,
+        "jogador-assists": 2,
+        "jogador-partidas": 16,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/slovenia-nk-radomlje.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/slovenia-nino-kukovec.png"
+      },
+      {
+        "jogador-nome": "Behar Feta",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 7,
+        "jogador-assists": 2,
+        "jogador-partidas": 20,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/slovenia-nk-aluminij.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-behar-feta.png"
+      },
+      {
+        "jogador-nome": "Roger Andretty Murillo Soto",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 7,
+        "jogador-assists": 1,
+        "jogador-partidas": 19,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/slovenia-nk-primorje-ajdovscina.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/colombia-roger-andretty-murillo-soto.png"
+      },
+      {
+        "jogador-nome": "Ivan Durdov",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 7,
+        "jogador-assists": 0,
+        "jogador-partidas": 15,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/slovenia-nk-olimpija-ljubljana.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/croatia-ivan-durdov.png"
+      },
+      {
+        "jogador-nome": "Nikita Iosifov",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 6,
+        "jogador-assists": 5,
+        "jogador-partidas": 20,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/slovenia-nk-celje.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/russia-nikita-iosifov.png"
+      },
+      {
+        "jogador-nome": "Martin Pečar",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 6,
+        "jogador-assists": 5,
+        "jogador-partidas": 21,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/slovenia-ask-bravo-publikum.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/slovenia-martin-pecar.png"
+      },
+      {
+        "jogador-nome": "Haris Vučkič",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 6,
+        "jogador-assists": 0,
+        "jogador-partidas": 14,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/slovenia-nk-domzale.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/slovenia-haris-vuckic.png"
+      },
+      {
+        "jogador-nome": "Danijel Šturm",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 5,
+        "jogador-assists": 5,
+        "jogador-partidas": 18,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/slovenia-nk-celje.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/slovenia-danijel-sturm.png"
+      },
+      {
+        "jogador-nome": "Leo Rimac",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 5,
+        "jogador-assists": 2,
+        "jogador-partidas": 18,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/slovenia-fc-koper.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-leo-rimac.png"
+      },
+      {
+        "jogador-nome": "Nikola Jojić",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 5,
+        "jogador-assists": 1,
+        "jogador-partidas": 18,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/slovenia-nk-radomlje.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-nikola-jojić.png"
+      },
+      {
+        "jogador-nome": "Matej Poplatnik",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 5,
+        "jogador-assists": 0,
+        "jogador-partidas": 17,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/slovenia-ask-bravo-publikum.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/slovenia-matej-poplatnik.png"
+      },
+      {
+        "jogador-nome": "Matej Malenšek",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 5,
+        "jogador-assists": 0,
+        "jogador-partidas": 6,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/slovenia-nk-radomlje.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/slovenia-matej-malensek.png"
+      },
+      {
+        "jogador-nome": "Jaša Martinčič",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 5,
+        "jogador-assists": 0,
+        "jogador-partidas": 17,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/slovenia-nk-radomlje.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/slovenia-jasa-martincic.png"
+      },
+      {
+        "jogador-nome": "Hillel El Arbi Soudani",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 5,
+        "jogador-assists": 0,
+        "jogador-partidas": 17,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/slovenia-nk-maribor.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/algeria-hillel-el-arbi-soudani.png"
+      },
+      {
+        "jogador-nome": "Deni Jurić",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 5,
+        "jogador-assists": 0,
+        "jogador-partidas": 5,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/slovenia-fc-koper.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/australia-deni-juric.png"
+      }
+    ]
+  }
+}
