@@ -208,6 +208,74 @@
       {
         "rank": 4,
         "team": {
+          "id": 1318927,
+          "name": "Al-Karma SC",
+          "logo": "https://cdn.footystats.org/img/teams/iraq-al-karma-sc.png"
+        },
+        "points": 35,
+        "goalsDiff": 13,
+        "group": "Iraq Iraqi Premier League 20252026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 18,
+          "win": 10,
+          "draw": 5,
+          "lose": 3,
+          "goals": {
+            "for": 23,
+            "against": 10
+          },
+          "form": "WWDDD",
+          "btts_matches": 7,
+          "avg_corners_per_game": 4.67,
+          "aproveitamento": 64.8,
+          "over_2_5_goals": 5,
+          "over_0_5_ht": 8,
+          "over_0_5_ft": 8,
+          "clean_sheets": 9
+        },
+        "home": {
+          "played": 10,
+          "win": 6,
+          "draw": 4,
+          "lose": 0,
+          "goals": {
+            "for": 15,
+            "against": 4
+          },
+          "form_home": "WWWDD",
+          "avg_corners_home_per_game": 5.3,
+          "aproveitamento_home": 73.3,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 5,
+          "clean_sheets_home": 6
+        },
+        "away": {
+          "played": 8,
+          "win": 4,
+          "draw": 1,
+          "lose": 3,
+          "goals": {
+            "for": 8,
+            "against": 6
+          },
+          "form_visitor": "WLWWD",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 3.88,
+          "aproveitamento_away": 54.2,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 5,
+        "team": {
           "id": 666874,
           "name": "Erbil SC",
           "logo": "https://cdn.footystats.org/img/teams/iraq-erbil-sc.png"
@@ -216,7 +284,7 @@
         "goalsDiff": 9,
         "group": "Iraq Iraqi Premier League 20252026",
         "status": "same",
-        "description": "Copa Libertadores",
+        "description": "Copa Sul-Americana",
         "all": {
           "played": 18,
           "win": 10,
@@ -269,74 +337,6 @@
           "over_2_5_goals_away": 1,
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 5,
-          "clean_sheets_away": 3
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 5,
-        "team": {
-          "id": 1318927,
-          "name": "Al-Karma SC",
-          "logo": "https://cdn.footystats.org/img/teams/iraq-al-karma-sc.png"
-        },
-        "points": 34,
-        "goalsDiff": 13,
-        "group": "Iraq Iraqi Premier League 20252026",
-        "status": "same",
-        "description": "Copa Sul-Americana",
-        "all": {
-          "played": 17,
-          "win": 10,
-          "draw": 4,
-          "lose": 3,
-          "goals": {
-            "for": 22,
-            "against": 9
-          },
-          "form": "WWWDD",
-          "btts_matches": 6,
-          "avg_corners_per_game": 4.88,
-          "aproveitamento": 66.7,
-          "over_2_5_goals": 5,
-          "over_0_5_ht": 8,
-          "over_0_5_ft": 7,
-          "clean_sheets": 9
-        },
-        "home": {
-          "played": 10,
-          "win": 6,
-          "draw": 4,
-          "lose": 0,
-          "goals": {
-            "for": 15,
-            "against": 4
-          },
-          "form_home": "WWWDD",
-          "avg_corners_home_per_game": 5.3,
-          "aproveitamento_home": 73.3,
-          "btts_home_matches": 4,
-          "over_2_5_goals_home": 3,
-          "over_0_5_ht_home": 5,
-          "over_0_5_ft_home": 5,
-          "clean_sheets_home": 6
-        },
-        "away": {
-          "played": 7,
-          "win": 4,
-          "draw": 0,
-          "lose": 3,
-          "goals": {
-            "for": 7,
-            "against": 5
-          },
-          "form_visitor": "LWLWW",
-          "btts_away_matches": 2,
-          "avg_corners_away_per_game": 4.29,
-          "aproveitamento_away": 57.1,
-          "over_2_5_goals_away": 2,
-          "over_0_5_ht_away": 3,
-          "over_0_5_ft_away": 2,
           "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -688,45 +688,45 @@
           "name": "Diyala SC",
           "logo": "https://cdn.footystats.org/img/teams/iraq-diyala-sc.png"
         },
-        "points": 24,
+        "points": 25,
         "goalsDiff": 3,
         "group": "Iraq Iraqi Premier League 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 17,
+          "played": 18,
           "win": 6,
-          "draw": 6,
+          "draw": 7,
           "lose": 5,
           "goals": {
-            "for": 21,
-            "against": 18
+            "for": 22,
+            "against": 19
           },
-          "form": "LDDLW",
-          "btts_matches": 12,
-          "avg_corners_per_game": 2.94,
-          "aproveitamento": 47.1,
+          "form": "DDLWD",
+          "btts_matches": 13,
+          "avg_corners_per_game": 2.78,
+          "aproveitamento": 46.3,
           "over_2_5_goals": 8,
           "over_0_5_ht": 8,
-          "over_0_5_ft": 9,
+          "over_0_5_ft": 10,
           "clean_sheets": 3
         },
         "home": {
-          "played": 7,
+          "played": 8,
           "win": 3,
-          "draw": 3,
+          "draw": 4,
           "lose": 1,
           "goals": {
-            "for": 9,
-            "against": 5
+            "for": 10,
+            "against": 6
           },
-          "form_home": "DWDDW",
-          "avg_corners_home_per_game": 2.86,
-          "aproveitamento_home": 57.1,
-          "btts_home_matches": 4,
+          "form_home": "WDDWD",
+          "avg_corners_home_per_game": 2.5,
+          "aproveitamento_home": 54.2,
+          "btts_home_matches": 5,
           "over_2_5_goals_home": 2,
           "over_0_5_ht_home": 3,
-          "over_0_5_ft_home": 4,
+          "over_0_5_ft_home": 5,
           "clean_sheets_home": 2
         },
         "away": {
@@ -1092,6 +1092,74 @@
       {
         "rank": 17,
         "team": {
+          "id": 666885,
+          "name": "Al Kahrabaa Club",
+          "logo": "https://cdn.footystats.org/img/teams/iraq-al-kahrabaa-club.png"
+        },
+        "points": 15,
+        "goalsDiff": -13,
+        "group": "Iraq Iraqi Premier League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 18,
+          "win": 4,
+          "draw": 3,
+          "lose": 11,
+          "goals": {
+            "for": 14,
+            "against": 27
+          },
+          "form": "LLWDW",
+          "btts_matches": 7,
+          "avg_corners_per_game": 2.83,
+          "aproveitamento": 27.8,
+          "over_2_5_goals": 7,
+          "over_0_5_ht": 4,
+          "over_0_5_ft": 6,
+          "clean_sheets": 3
+        },
+        "home": {
+          "played": 9,
+          "win": 1,
+          "draw": 2,
+          "lose": 6,
+          "goals": {
+            "for": 4,
+            "against": 11
+          },
+          "form_home": "LLLLD",
+          "avg_corners_home_per_game": 3.0,
+          "aproveitamento_home": 18.5,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 9,
+          "win": 3,
+          "draw": 1,
+          "lose": 5,
+          "goals": {
+            "for": 10,
+            "against": 16
+          },
+          "form_visitor": "WLLWW",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 2.67,
+          "aproveitamento_away": 37.0,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 5,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 18,
+        "team": {
           "id": 666877,
           "name": "Naft Maysan",
           "logo": "https://cdn.footystats.org/img/teams/iraq-naft-maysan.png"
@@ -1158,33 +1226,33 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 18,
+        "rank": 19,
         "team": {
-          "id": 666885,
-          "name": "Al Kahrabaa Club",
-          "logo": "https://cdn.footystats.org/img/teams/iraq-al-kahrabaa-club.png"
+          "id": 666876,
+          "name": "Al Najaf",
+          "logo": "https://cdn.footystats.org/img/teams/iraq-al-najaf.png"
         },
-        "points": 12,
-        "goalsDiff": -14,
+        "points": 8,
+        "goalsDiff": -20,
         "group": "Iraq Iraqi Premier League 20252026",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 17,
-          "win": 3,
-          "draw": 3,
-          "lose": 11,
+          "played": 18,
+          "win": 2,
+          "draw": 2,
+          "lose": 14,
           "goals": {
-            "for": 12,
-            "against": 26
+            "for": 13,
+            "against": 33
           },
-          "form": "LLLWD",
-          "btts_matches": 6,
+          "form": "LLLDL",
+          "btts_matches": 8,
           "avg_corners_per_game": 3.06,
-          "aproveitamento": 23.5,
-          "over_2_5_goals": 6,
+          "aproveitamento": 14.8,
+          "over_2_5_goals": 8,
           "over_0_5_ht": 4,
-          "over_0_5_ft": 5,
+          "over_0_5_ft": 6,
           "clean_sheets": 3
         },
         "home": {
@@ -1193,83 +1261,15 @@
           "draw": 2,
           "lose": 6,
           "goals": {
-            "for": 4,
-            "against": 11
-          },
-          "form_home": "LLLLD",
-          "avg_corners_home_per_game": 3.0,
-          "aproveitamento_home": 18.5,
-          "btts_home_matches": 2,
-          "over_2_5_goals_home": 2,
-          "over_0_5_ht_home": 2,
-          "over_0_5_ft_home": 1,
-          "clean_sheets_home": 2
-        },
-        "away": {
-          "played": 8,
-          "win": 2,
-          "draw": 1,
-          "lose": 5,
-          "goals": {
-            "for": 8,
+            "for": 6,
             "against": 15
           },
-          "form_visitor": "DWLLW",
-          "btts_away_matches": 4,
-          "avg_corners_away_per_game": 3.12,
-          "aproveitamento_away": 29.2,
-          "over_2_5_goals_away": 4,
-          "over_0_5_ht_away": 2,
-          "over_0_5_ft_away": 4,
-          "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 19,
-        "team": {
-          "id": 666876,
-          "name": "Al Najaf",
-          "logo": "https://cdn.footystats.org/img/teams/iraq-al-najaf.png"
-        },
-        "points": 8,
-        "goalsDiff": -19,
-        "group": "Iraq Iraqi Premier League 20252026",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 17,
-          "win": 2,
-          "draw": 2,
-          "lose": 13,
-          "goals": {
-            "for": 12,
-            "against": 31
-          },
-          "form": "LLLLD",
-          "btts_matches": 7,
-          "avg_corners_per_game": 3.29,
-          "aproveitamento": 15.7,
-          "over_2_5_goals": 7,
-          "over_0_5_ht": 3,
-          "over_0_5_ft": 6,
-          "clean_sheets": 3
-        },
-        "home": {
-          "played": 8,
-          "win": 1,
-          "draw": 2,
-          "lose": 5,
-          "goals": {
-            "for": 5,
-            "against": 13
-          },
-          "form_home": "DLLLD",
-          "avg_corners_home_per_game": 3.62,
-          "aproveitamento_home": 20.8,
-          "btts_home_matches": 3,
-          "over_2_5_goals_home": 3,
-          "over_0_5_ht_home": 2,
+          "form_home": "LLLDL",
+          "avg_corners_home_per_game": 3.11,
+          "aproveitamento_home": 18.5,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 3,
           "over_0_5_ft_home": 2,
           "clean_sheets_home": 2
         },
@@ -1368,9 +1368,9 @@
       {
         "jogador-nome": "Jogador_42458",
         "jogador-posicao": "Midfielder",
-        "jogador-gols": 1039,
+        "jogador-gols": 1085,
         "jogador-assists": 0,
-        "jogador-partidas": 1393,
+        "jogador-partidas": 1409,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/iraq-amanat-baghdad-sc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-jogador_42458.png"
       },
@@ -1537,13 +1537,13 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/iraq-amjad-attwan-kadhim.png"
       },
       {
-        "jogador-nome": "Waleed Kareem",
-        "jogador-posicao": "Defender",
+        "jogador-nome": "Ahmad Hasan",
+        "jogador-posicao": "Forward",
         "jogador-gols": 4,
-        "jogador-assists": 1,
-        "jogador-partidas": 12,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/iraq-al-qasim-sc.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/iraq-waleed-kareem.png"
+        "jogador-assists": 3,
+        "jogador-partidas": 13,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/iraq-al-karma-sc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-ahmad-hasan.png"
       }
     ]
   }
