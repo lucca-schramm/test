@@ -72,6 +72,74 @@
       {
         "rank": 2,
         "team": {
+          "id": 6326,
+          "name": "SV 07 Elversberg",
+          "logo": "https://cdn.footystats.org/img/teams/germany-sv-07-elversberg.png"
+        },
+        "points": 41,
+        "goalsDiff": 15,
+        "group": "Germany 2. Bundesliga 20252026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 22,
+          "win": 12,
+          "draw": 5,
+          "lose": 5,
+          "goals": {
+            "for": 39,
+            "against": 24
+          },
+          "form": "LDWLW",
+          "btts_matches": 11,
+          "avg_corners_per_game": 6.18,
+          "aproveitamento": 62.1,
+          "over_2_5_goals": 12,
+          "over_0_5_ht": 12,
+          "over_0_5_ft": 16,
+          "clean_sheets": 7
+        },
+        "home": {
+          "played": 10,
+          "win": 5,
+          "draw": 4,
+          "lose": 1,
+          "goals": {
+            "for": 16,
+            "against": 9
+          },
+          "form_home": "DDWDL",
+          "avg_corners_home_per_game": 6.3,
+          "aproveitamento_home": 63.3,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 8,
+          "clean_sheets_home": 5
+        },
+        "away": {
+          "played": 12,
+          "win": 7,
+          "draw": 1,
+          "lose": 4,
+          "goals": {
+            "for": 23,
+            "against": 15
+          },
+          "form_visitor": "WDLWW",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 6.08,
+          "aproveitamento_away": 61.1,
+          "over_2_5_goals_away": 7,
+          "over_0_5_ht_away": 8,
+          "over_0_5_ft_away": 8,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 3,
+        "team": {
           "id": 52,
           "name": "Hannoverscher Sportverein 1896",
           "logo": "https://cdn.footystats.org/img/teams/germany-hannoverscher-sportverein-1896.png"
@@ -138,7 +206,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "team": {
           "id": 35,
           "name": "FC Schalke 04",
@@ -206,7 +274,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "team": {
           "id": 53,
           "name": "SC Paderborn 07",
@@ -216,7 +284,7 @@
         "goalsDiff": 9,
         "group": "Germany 2. Bundesliga 20252026",
         "status": "same",
-        "description": "Copa Libertadores",
+        "description": "Copa Sul-Americana",
         "all": {
           "played": 21,
           "win": 12,
@@ -270,74 +338,6 @@
           "over_0_5_ht_away": 7,
           "over_0_5_ft_away": 4,
           "clean_sheets_away": 4
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 5,
-        "team": {
-          "id": 6326,
-          "name": "SV 07 Elversberg",
-          "logo": "https://cdn.footystats.org/img/teams/germany-sv-07-elversberg.png"
-        },
-        "points": 38,
-        "goalsDiff": 14,
-        "group": "Germany 2. Bundesliga 20252026",
-        "status": "same",
-        "description": "Copa Sul-Americana",
-        "all": {
-          "played": 21,
-          "win": 11,
-          "draw": 5,
-          "lose": 5,
-          "goals": {
-            "for": 37,
-            "against": 23
-          },
-          "form": "DLDWL",
-          "btts_matches": 10,
-          "avg_corners_per_game": 6.19,
-          "aproveitamento": 60.3,
-          "over_2_5_goals": 11,
-          "over_0_5_ht": 12,
-          "over_0_5_ft": 15,
-          "clean_sheets": 7
-        },
-        "home": {
-          "played": 10,
-          "win": 5,
-          "draw": 4,
-          "lose": 1,
-          "goals": {
-            "for": 16,
-            "against": 9
-          },
-          "form_home": "DDWDL",
-          "avg_corners_home_per_game": 6.3,
-          "aproveitamento_home": 63.3,
-          "btts_home_matches": 4,
-          "over_2_5_goals_home": 5,
-          "over_0_5_ht_home": 4,
-          "over_0_5_ft_home": 8,
-          "clean_sheets_home": 5
-        },
-        "away": {
-          "played": 11,
-          "win": 6,
-          "draw": 1,
-          "lose": 4,
-          "goals": {
-            "for": 21,
-            "against": 14
-          },
-          "form_visitor": "WWDLW",
-          "btts_away_matches": 6,
-          "avg_corners_away_per_game": 6.09,
-          "aproveitamento_away": 57.6,
-          "over_2_5_goals_away": 6,
-          "over_0_5_ht_away": 8,
-          "over_0_5_ft_away": 7,
-          "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1097,43 +1097,43 @@
           "logo": "https://cdn.footystats.org/img/teams/germany-sg-dynamo-dresden.png"
         },
         "points": 21,
-        "goalsDiff": -7,
+        "goalsDiff": -8,
         "group": "Germany 2. Bundesliga 20252026",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 21,
+          "played": 22,
           "win": 5,
           "draw": 6,
-          "lose": 10,
+          "lose": 11,
           "goals": {
-            "for": 31,
-            "against": 38
+            "for": 32,
+            "against": 40
           },
-          "form": "LWWDD",
-          "btts_matches": 17,
-          "avg_corners_per_game": 5.19,
-          "aproveitamento": 33.3,
-          "over_2_5_goals": 16,
-          "over_0_5_ht": 15,
+          "form": "WWDDL",
+          "btts_matches": 18,
+          "avg_corners_per_game": 5.18,
+          "aproveitamento": 31.8,
+          "over_2_5_goals": 17,
+          "over_0_5_ht": 16,
           "over_0_5_ft": 9,
           "clean_sheets": 1
         },
         "home": {
-          "played": 10,
+          "played": 11,
           "win": 2,
           "draw": 3,
-          "lose": 5,
+          "lose": 6,
           "goals": {
-            "for": 15,
-            "against": 17
+            "for": 16,
+            "against": 19
           },
-          "form_home": "LWLWD",
-          "avg_corners_home_per_game": 5.1,
-          "aproveitamento_home": 30.0,
-          "btts_home_matches": 8,
-          "over_2_5_goals_home": 7,
-          "over_0_5_ht_home": 8,
+          "form_home": "WLWDL",
+          "avg_corners_home_per_game": 5.09,
+          "aproveitamento_home": 27.3,
+          "btts_home_matches": 9,
+          "over_2_5_goals_home": 8,
+          "over_0_5_ht_home": 9,
           "over_0_5_ft_home": 4,
           "clean_sheets_home": 1
         },
@@ -1405,7 +1405,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 6,
         "jogador-assists": 2,
-        "jogador-partidas": 18,
+        "jogador-partidas": 19,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-sg-dynamo-dresden.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/germany-christoph-daferner.png"
       }
