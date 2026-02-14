@@ -1024,45 +1024,113 @@
       {
         "rank": 16,
         "team": {
+          "id": 385,
+          "name": "NAC Breda",
+          "logo": "https://cdn.footystats.org/img/teams/netherlands-nac-breda.png"
+        },
+        "points": 19,
+        "goalsDiff": -12,
+        "group": "Netherlands Eredivisie 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 23,
+          "win": 4,
+          "draw": 7,
+          "lose": 12,
+          "goals": {
+            "for": 24,
+            "against": 36
+          },
+          "form": "LDDLW",
+          "btts_matches": 12,
+          "avg_corners_per_game": 5.26,
+          "aproveitamento": 27.5,
+          "over_2_5_goals": 12,
+          "over_0_5_ht": 8,
+          "over_0_5_ft": 9,
+          "clean_sheets": 3
+        },
+        "home": {
+          "played": 12,
+          "win": 3,
+          "draw": 3,
+          "lose": 6,
+          "goals": {
+            "for": 14,
+            "against": 18
+          },
+          "form_home": "DLLDL",
+          "avg_corners_home_per_game": 5.33,
+          "aproveitamento_home": 33.3,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 6,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 11,
+          "win": 1,
+          "draw": 4,
+          "lose": 6,
+          "goals": {
+            "for": 10,
+            "against": 18
+          },
+          "form_visitor": "LLDDW",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 5.18,
+          "aproveitamento_away": 21.2,
+          "over_2_5_goals_away": 6,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 17,
+        "team": {
           "id": 370,
           "name": "Heracles Almelo",
           "logo": "https://cdn.footystats.org/img/teams/netherlands-heracles-almelo.png"
         },
         "points": 17,
-        "goalsDiff": -26,
+        "goalsDiff": -27,
         "group": "Netherlands Eredivisie 20252026",
         "status": "same",
-        "description": "",
+        "description": "Rebaixamento",
         "all": {
-          "played": 22,
+          "played": 23,
           "win": 5,
           "draw": 2,
-          "lose": 15,
+          "lose": 16,
           "goals": {
             "for": 31,
-            "against": 57
+            "against": 58
           },
-          "form": "LLLWL",
+          "form": "LLWLL",
           "btts_matches": 13,
-          "avg_corners_per_game": 4.36,
-          "aproveitamento": 25.8,
+          "avg_corners_per_game": 4.35,
+          "aproveitamento": 24.6,
           "over_2_5_goals": 17,
           "over_0_5_ht": 11,
           "over_0_5_ft": 8,
           "clean_sheets": 1
         },
         "home": {
-          "played": 10,
+          "played": 11,
           "win": 4,
           "draw": 1,
-          "lose": 5,
+          "lose": 6,
           "goals": {
             "for": 20,
-            "against": 24
+            "against": 25
           },
-          "form_home": "WDLLW",
-          "avg_corners_home_per_game": 4.4,
-          "aproveitamento_home": 43.3,
+          "form_home": "DLLWL",
+          "avg_corners_home_per_game": 4.36,
+          "aproveitamento_home": 39.4,
           "btts_home_matches": 6,
           "over_2_5_goals_home": 8,
           "over_0_5_ht_home": 6,
@@ -1090,7 +1158,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 17,
+        "rank": 18,
         "team": {
           "id": 389,
           "name": "SC Telstar",
@@ -1154,74 +1222,6 @@
           "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 7,
           "clean_sheets_away": 3
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 18,
-        "team": {
-          "id": 385,
-          "name": "NAC Breda",
-          "logo": "https://cdn.footystats.org/img/teams/netherlands-nac-breda.png"
-        },
-        "points": 16,
-        "goalsDiff": -13,
-        "group": "Netherlands Eredivisie 20252026",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 22,
-          "win": 3,
-          "draw": 7,
-          "lose": 12,
-          "goals": {
-            "for": 23,
-            "against": 36
-          },
-          "form": "DLDDL",
-          "btts_matches": 12,
-          "avg_corners_per_game": 5.36,
-          "aproveitamento": 24.2,
-          "over_2_5_goals": 12,
-          "over_0_5_ht": 8,
-          "over_0_5_ft": 8,
-          "clean_sheets": 2
-        },
-        "home": {
-          "played": 12,
-          "win": 3,
-          "draw": 3,
-          "lose": 6,
-          "goals": {
-            "for": 14,
-            "against": 18
-          },
-          "form_home": "DLLDL",
-          "avg_corners_home_per_game": 5.33,
-          "aproveitamento_home": 33.3,
-          "btts_home_matches": 7,
-          "over_2_5_goals_home": 6,
-          "over_0_5_ht_home": 4,
-          "over_0_5_ft_home": 6,
-          "clean_sheets_home": 1
-        },
-        "away": {
-          "played": 10,
-          "win": 0,
-          "draw": 4,
-          "lose": 6,
-          "goals": {
-            "for": 9,
-            "against": 18
-          },
-          "form_visitor": "LLLDD",
-          "btts_away_matches": 5,
-          "avg_corners_away_per_game": 5.4,
-          "aproveitamento_away": 13.3,
-          "over_2_5_goals_away": 6,
-          "over_0_5_ht_away": 4,
-          "over_0_5_ft_away": 2,
-          "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
       }
