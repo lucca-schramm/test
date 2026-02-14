@@ -145,26 +145,26 @@
           "logo": "https://cdn.footystats.org/img/teams/croatia-nk-varazdin.png"
         },
         "points": 32,
-        "goalsDiff": 1,
+        "goalsDiff": -1,
         "group": "Croatia Prva HNL 20252026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 21,
+          "played": 22,
           "win": 9,
           "draw": 5,
-          "lose": 7,
+          "lose": 8,
           "goals": {
-            "for": 28,
-            "against": 27
+            "for": 29,
+            "against": 30
           },
-          "form": "LLWWW",
-          "btts_matches": 13,
-          "avg_corners_per_game": 4.19,
-          "aproveitamento": 50.8,
-          "over_2_5_goals": 11,
+          "form": "LWWWL",
+          "btts_matches": 14,
+          "avg_corners_per_game": 4.14,
+          "aproveitamento": 48.5,
+          "over_2_5_goals": 12,
           "over_0_5_ht": 12,
-          "over_0_5_ft": 8,
+          "over_0_5_ft": 9,
           "clean_sheets": 5
         },
         "home": {
@@ -186,27 +186,95 @@
           "clean_sheets_home": 3
         },
         "away": {
-          "played": 11,
+          "played": 12,
           "win": 4,
           "draw": 2,
-          "lose": 5,
+          "lose": 6,
           "goals": {
-            "for": 12,
-            "against": 14
+            "for": 13,
+            "against": 17
           },
-          "form_visitor": "LDLWW",
-          "btts_away_matches": 6,
-          "avg_corners_away_per_game": 4.09,
-          "aproveitamento_away": 42.4,
-          "over_2_5_goals_away": 5,
+          "form_visitor": "DLWWL",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 4.0,
+          "aproveitamento_away": 38.9,
+          "over_2_5_goals_away": 6,
           "over_0_5_ht_away": 6,
-          "over_0_5_ft_away": 4,
+          "over_0_5_ft_away": 5,
           "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
         "rank": 4,
+        "team": {
+          "id": 1215,
+          "name": "HNK Rijeka",
+          "logo": "https://cdn.footystats.org/img/teams/croatia-hnk-rijeka.png"
+        },
+        "points": 32,
+        "goalsDiff": 10,
+        "group": "Croatia Prva HNL 20252026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 22,
+          "win": 8,
+          "draw": 8,
+          "lose": 6,
+          "goals": {
+            "for": 34,
+            "against": 24
+          },
+          "form": "WDLDW",
+          "btts_matches": 13,
+          "avg_corners_per_game": 6.36,
+          "aproveitamento": 48.5,
+          "over_2_5_goals": 11,
+          "over_0_5_ht": 12,
+          "over_0_5_ft": 11,
+          "clean_sheets": 6
+        },
+        "home": {
+          "played": 12,
+          "win": 6,
+          "draw": 4,
+          "lose": 2,
+          "goals": {
+            "for": 22,
+            "against": 11
+          },
+          "form_home": "WWDDW",
+          "avg_corners_home_per_game": 6.5,
+          "aproveitamento_home": 61.1,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 6,
+          "over_0_5_ft_home": 7,
+          "clean_sheets_home": 5
+        },
+        "away": {
+          "played": 10,
+          "win": 2,
+          "draw": 4,
+          "lose": 4,
+          "goals": {
+            "for": 12,
+            "against": 13
+          },
+          "form_visitor": "LLDWL",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 6.2,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 6,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 5,
         "team": {
           "id": 1857,
           "name": "NK Istra 1961",
@@ -216,7 +284,7 @@
         "goalsDiff": -3,
         "group": "Croatia Prva HNL 20252026",
         "status": "same",
-        "description": "Copa Libertadores",
+        "description": "Copa Sul-Americana",
         "all": {
           "played": 22,
           "win": 8,
@@ -274,7 +342,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "team": {
           "id": 1861,
           "name": "NK Slaven Belupo Koprivnica",
@@ -337,74 +405,6 @@
           "over_2_5_goals_away": 6,
           "over_0_5_ht_away": 5,
           "over_0_5_ft_away": 5,
-          "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 6,
-        "team": {
-          "id": 1215,
-          "name": "HNK Rijeka",
-          "logo": "https://cdn.footystats.org/img/teams/croatia-hnk-rijeka.png"
-        },
-        "points": 29,
-        "goalsDiff": 8,
-        "group": "Croatia Prva HNL 20252026",
-        "status": "same",
-        "description": "Copa Sul-Americana",
-        "all": {
-          "played": 21,
-          "win": 7,
-          "draw": 8,
-          "lose": 6,
-          "goals": {
-            "for": 31,
-            "against": 23
-          },
-          "form": "WWDLD",
-          "btts_matches": 12,
-          "avg_corners_per_game": 6.19,
-          "aproveitamento": 46.0,
-          "over_2_5_goals": 10,
-          "over_0_5_ht": 11,
-          "over_0_5_ft": 10,
-          "clean_sheets": 6
-        },
-        "home": {
-          "played": 11,
-          "win": 5,
-          "draw": 4,
-          "lose": 2,
-          "goals": {
-            "for": 19,
-            "against": 10
-          },
-          "form_home": "WWWDD",
-          "avg_corners_home_per_game": 6.18,
-          "aproveitamento_home": 57.6,
-          "btts_home_matches": 5,
-          "over_2_5_goals_home": 5,
-          "over_0_5_ht_home": 5,
-          "over_0_5_ft_home": 6,
-          "clean_sheets_home": 5
-        },
-        "away": {
-          "played": 10,
-          "win": 2,
-          "draw": 4,
-          "lose": 4,
-          "goals": {
-            "for": 12,
-            "against": 13
-          },
-          "form_visitor": "LLDWL",
-          "btts_away_matches": 7,
-          "avg_corners_away_per_game": 6.2,
-          "aproveitamento_away": 33.3,
-          "over_2_5_goals_away": 5,
-          "over_0_5_ht_away": 6,
-          "over_0_5_ft_away": 4,
           "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -717,7 +717,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 8,
         "jogador-assists": 4,
-        "jogador-partidas": 20,
+        "jogador-partidas": 21,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/croatia-nk-varazdin.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/croatia-ivan-mamut.png"
       },
@@ -725,8 +725,8 @@
         "jogador-nome": "Toni Fruk",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 8,
-        "jogador-assists": 2,
-        "jogador-partidas": 20,
+        "jogador-assists": 3,
+        "jogador-partidas": 21,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/croatia-hnk-rijeka.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/croatia-toni-fruk.png"
       },
@@ -852,7 +852,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 5,
         "jogador-assists": 0,
-        "jogador-partidas": 15,
+        "jogador-partidas": 16,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/croatia-nk-varazdin.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-luka-mamić.png"
       },
