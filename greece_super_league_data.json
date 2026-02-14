@@ -548,6 +548,74 @@
       {
         "rank": 9,
         "team": {
+          "id": 1103,
+          "name": "Panaitolikos GFS Agrinio",
+          "logo": "https://cdn.footystats.org/img/teams/greece-panaitolikos-gfs-agrinio.png"
+        },
+        "points": 21,
+        "goalsDiff": -12,
+        "group": "Greece Super League 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 21,
+          "win": 6,
+          "draw": 3,
+          "lose": 12,
+          "goals": {
+            "for": 22,
+            "against": 34
+          },
+          "form": "LLLWW",
+          "btts_matches": 8,
+          "avg_corners_per_game": 3.38,
+          "aproveitamento": 33.3,
+          "over_2_5_goals": 10,
+          "over_0_5_ht": 7,
+          "over_0_5_ft": 7,
+          "clean_sheets": 4
+        },
+        "home": {
+          "played": 11,
+          "win": 3,
+          "draw": 0,
+          "lose": 8,
+          "goals": {
+            "for": 13,
+            "against": 22
+          },
+          "form_home": "LLLLW",
+          "avg_corners_home_per_game": 3.73,
+          "aproveitamento_home": 27.3,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 8,
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 10,
+          "win": 3,
+          "draw": 3,
+          "lose": 4,
+          "goals": {
+            "for": 9,
+            "against": 12
+          },
+          "form_visitor": "DWLLW",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 3.0,
+          "aproveitamento_away": 40.0,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 10,
+        "team": {
           "id": 1109,
           "name": "PAE APS Atromitos Athens",
           "logo": "https://cdn.footystats.org/img/teams/greece-pae-aps-atromitos-athens.png"
@@ -614,7 +682,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "team": {
           "id": 5168,
           "name": "Kifisias FC",
@@ -682,7 +750,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 11,
+        "rank": 12,
         "team": {
           "id": 1106,
           "name": "AE Larissa",
@@ -750,74 +818,6 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 12,
-        "team": {
-          "id": 1103,
-          "name": "Panaitolikos GFS Agrinio",
-          "logo": "https://cdn.footystats.org/img/teams/greece-panaitolikos-gfs-agrinio.png"
-        },
-        "points": 18,
-        "goalsDiff": -14,
-        "group": "Greece Super League 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 20,
-          "win": 5,
-          "draw": 3,
-          "lose": 12,
-          "goals": {
-            "for": 19,
-            "against": 33
-          },
-          "form": "LLLLW",
-          "btts_matches": 7,
-          "avg_corners_per_game": 3.25,
-          "aproveitamento": 30.0,
-          "over_2_5_goals": 9,
-          "over_0_5_ht": 6,
-          "over_0_5_ft": 6,
-          "clean_sheets": 4
-        },
-        "home": {
-          "played": 10,
-          "win": 2,
-          "draw": 0,
-          "lose": 8,
-          "goals": {
-            "for": 10,
-            "against": 21
-          },
-          "form_home": "LLLLL",
-          "avg_corners_home_per_game": 3.5,
-          "aproveitamento_home": 20.0,
-          "btts_home_matches": 4,
-          "over_2_5_goals_home": 7,
-          "over_0_5_ht_home": 3,
-          "over_0_5_ft_home": 3,
-          "clean_sheets_home": 1
-        },
-        "away": {
-          "played": 10,
-          "win": 3,
-          "draw": 3,
-          "lose": 4,
-          "goals": {
-            "for": 9,
-            "against": 12
-          },
-          "form_visitor": "DWLLW",
-          "btts_away_matches": 3,
-          "avg_corners_away_per_game": 3.0,
-          "aproveitamento_away": 40.0,
-          "over_2_5_goals_away": 2,
-          "over_0_5_ht_away": 3,
-          "over_0_5_ft_away": 3,
-          "clean_sheets_away": 3
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
         "rank": 13,
         "team": {
           "id": 1107,
@@ -825,25 +825,25 @@
           "logo": "https://cdn.footystats.org/img/teams/greece-asteras-tripolis-fc.png"
         },
         "points": 16,
-        "goalsDiff": -12,
+        "goalsDiff": -14,
         "group": "Greece Super League 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 20,
+          "played": 21,
           "win": 3,
           "draw": 7,
-          "lose": 10,
+          "lose": 11,
           "goals": {
-            "for": 18,
-            "against": 30
+            "for": 19,
+            "against": 33
           },
-          "form": "LLLLW",
-          "btts_matches": 8,
-          "avg_corners_per_game": 4.9,
-          "aproveitamento": 26.7,
-          "over_2_5_goals": 9,
-          "over_0_5_ht": 6,
+          "form": "LLLWL",
+          "btts_matches": 9,
+          "avg_corners_per_game": 4.76,
+          "aproveitamento": 25.4,
+          "over_2_5_goals": 10,
+          "over_0_5_ht": 7,
           "over_0_5_ft": 7,
           "clean_sheets": 5
         },
@@ -866,20 +866,20 @@
           "clean_sheets_home": 2
         },
         "away": {
-          "played": 10,
+          "played": 11,
           "win": 1,
           "draw": 2,
-          "lose": 7,
+          "lose": 8,
           "goals": {
-            "for": 4,
-            "against": 16
+            "for": 5,
+            "against": 19
           },
-          "form_visitor": "DWDLL",
-          "btts_away_matches": 3,
-          "avg_corners_away_per_game": 4.4,
-          "aproveitamento_away": 16.7,
-          "over_2_5_goals_away": 4,
-          "over_0_5_ht_away": 1,
+          "form_visitor": "WDLLL",
+          "btts_away_matches": 4,
+          "avg_corners_away_per_game": 4.18,
+          "aproveitamento_away": 15.2,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 3,
           "clean_sheets_away": 3
         },
@@ -1039,6 +1039,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/italy-eddie-salcedo.png"
       },
       {
+        "jogador-nome": "Julián Bartolo",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 6,
+        "jogador-assists": 0,
+        "jogador-partidas": 20,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/greece-asteras-tripolis-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/argentina-julian-bartolo.png"
+      },
+      {
         "jogador-nome": "Ioannis Konstantelias",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 6,
@@ -1100,15 +1109,6 @@
         "jogador-partidas": 16,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/greece-panathinaikos-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/poland-karol-swiderski.png"
-      },
-      {
-        "jogador-nome": "Julián Bartolo",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 5,
-        "jogador-assists": 0,
-        "jogador-partidas": 19,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/greece-asteras-tripolis-fc.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/argentina-julian-bartolo.png"
       },
       {
         "jogador-nome": "Ioannis Kosti",
