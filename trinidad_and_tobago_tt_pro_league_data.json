@@ -1,0 +1,825 @@
+{
+  "standings": {
+    "trinidad_and_tobago_tt_pro_league": [
+      {
+        "rank": 1,
+        "team": {
+          "id": 677314,
+          "name": "Defence Force FC",
+          "logo": "https://cdn.footystats.org/img/teams/trinidad-and-tobago-defence-force-fc.png"
+        },
+        "points": 36,
+        "goalsDiff": 27,
+        "group": "Trinidad and Tobago TT Pro League 20252026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 15,
+          "win": 11,
+          "draw": 3,
+          "lose": 1,
+          "goals": {
+            "for": 40,
+            "against": 13
+          },
+          "form": "WWDWW",
+          "btts_matches": 9,
+          "avg_corners_per_game": 3.8,
+          "aproveitamento": 80.0,
+          "over_2_5_goals": 11,
+          "over_0_5_ht": 7,
+          "over_0_5_ft": 12,
+          "clean_sheets": 6
+        },
+        "home": {
+          "played": 7,
+          "win": 4,
+          "draw": 3,
+          "lose": 0,
+          "goals": {
+            "for": 12,
+            "against": 5
+          },
+          "form_home": "WWWDW",
+          "avg_corners_home_per_game": 3.29,
+          "aproveitamento_home": 71.4,
+          "btts_home_matches": 3,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 4
+        },
+        "away": {
+          "played": 8,
+          "win": 7,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 28,
+            "against": 8
+          },
+          "form_visitor": "WWWWW",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 4.25,
+          "aproveitamento_away": 87.5,
+          "over_2_5_goals_away": 7,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 8,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 2,
+        "team": {
+          "id": 677312,
+          "name": "Club Sando FC San Fernando",
+          "logo": "https://cdn.footystats.org/img/teams/trinidad-and-tobago-club-sando-fc-san-fernando.png"
+        },
+        "points": 33,
+        "goalsDiff": 26,
+        "group": "Trinidad and Tobago TT Pro League 20252026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 14,
+          "win": 11,
+          "draw": 0,
+          "lose": 3,
+          "goals": {
+            "for": 35,
+            "against": 9
+          },
+          "form": "WWWWW",
+          "btts_matches": 4,
+          "avg_corners_per_game": 1.57,
+          "aproveitamento": 78.6,
+          "over_2_5_goals": 8,
+          "over_0_5_ht": 6,
+          "over_0_5_ft": 10,
+          "clean_sheets": 9
+        },
+        "home": {
+          "played": 7,
+          "win": 4,
+          "draw": 0,
+          "lose": 3,
+          "goals": {
+            "for": 16,
+            "against": 7
+          },
+          "form_home": "LWLWW",
+          "avg_corners_home_per_game": 2.0,
+          "aproveitamento_home": 57.1,
+          "btts_home_matches": 3,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 7,
+          "win": 7,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 19,
+            "against": 2
+          },
+          "form_visitor": "WWWWW",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 1.14,
+          "aproveitamento_away": 100.0,
+          "over_2_5_goals_away": 4,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 6,
+          "clean_sheets_away": 6
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 3,
+        "team": {
+          "id": 677317,
+          "name": "Police FC Trinidad and Tobago",
+          "logo": "https://cdn.footystats.org/img/teams/trinidad-and-tobago-police-fc-trinidad-and-tobago.png"
+        },
+        "points": 30,
+        "goalsDiff": 16,
+        "group": "Trinidad and Tobago TT Pro League 20252026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 15,
+          "win": 9,
+          "draw": 3,
+          "lose": 3,
+          "goals": {
+            "for": 31,
+            "against": 15
+          },
+          "form": "WDDLW",
+          "btts_matches": 7,
+          "avg_corners_per_game": 1.13,
+          "aproveitamento": 66.7,
+          "over_2_5_goals": 9,
+          "over_0_5_ht": 4,
+          "over_0_5_ft": 11,
+          "clean_sheets": 5
+        },
+        "home": {
+          "played": 9,
+          "win": 6,
+          "draw": 1,
+          "lose": 2,
+          "goals": {
+            "for": 17,
+            "against": 8
+          },
+          "form_home": "WWLDW",
+          "avg_corners_home_per_game": 2.0,
+          "aproveitamento_home": 70.4,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 7,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 6,
+          "win": 3,
+          "draw": 2,
+          "lose": 1,
+          "goals": {
+            "for": 14,
+            "against": 7
+          },
+          "form_visitor": "DWWDL",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": -0.17,
+          "aproveitamento_away": 61.1,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 4,
+        "team": {
+          "id": 959920,
+          "name": "Prison Service FC",
+          "logo": "https://cdn.footystats.org/img/teams/trinidad-and-tobago-prison-service-fc.png"
+        },
+        "points": 29,
+        "goalsDiff": 7,
+        "group": "Trinidad and Tobago TT Pro League 20252026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 15,
+          "win": 9,
+          "draw": 2,
+          "lose": 4,
+          "goals": {
+            "for": 23,
+            "against": 16
+          },
+          "form": "WWDLL",
+          "btts_matches": 7,
+          "avg_corners_per_game": 1.4,
+          "aproveitamento": 64.4,
+          "over_2_5_goals": 8,
+          "over_0_5_ht": 2,
+          "over_0_5_ft": 12,
+          "clean_sheets": 5
+        },
+        "home": {
+          "played": 7,
+          "win": 4,
+          "draw": 1,
+          "lose": 2,
+          "goals": {
+            "for": 14,
+            "against": 12
+          },
+          "form_home": "WLWWL",
+          "avg_corners_home_per_game": 1.57,
+          "aproveitamento_home": 61.9,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 7,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 6,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 8,
+          "win": 5,
+          "draw": 1,
+          "lose": 2,
+          "goals": {
+            "for": 9,
+            "against": 4
+          },
+          "form_visitor": "WLWDL",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 1.25,
+          "aproveitamento_away": 66.7,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 6,
+          "clean_sheets_away": 5
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 5,
+        "team": {
+          "id": 1607109,
+          "name": "AC Port Of Spain",
+          "logo": "https://cdn.footystats.org/img/teams/trinidad-and-tobago-ac-port-of-spain.png"
+        },
+        "points": 25,
+        "goalsDiff": 8,
+        "group": "Trinidad and Tobago TT Pro League 20252026",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 15,
+          "win": 7,
+          "draw": 4,
+          "lose": 4,
+          "goals": {
+            "for": 27,
+            "against": 19
+          },
+          "form": "DWWWL",
+          "btts_matches": 9,
+          "avg_corners_per_game": 3.07,
+          "aproveitamento": 55.6,
+          "over_2_5_goals": 9,
+          "over_0_5_ht": 7,
+          "over_0_5_ft": 11,
+          "clean_sheets": 4
+        },
+        "home": {
+          "played": 7,
+          "win": 3,
+          "draw": 2,
+          "lose": 2,
+          "goals": {
+            "for": 14,
+            "against": 11
+          },
+          "form_home": "DWDWL",
+          "avg_corners_home_per_game": 3.0,
+          "aproveitamento_home": 52.4,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 6,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 8,
+          "win": 4,
+          "draw": 2,
+          "lose": 2,
+          "goals": {
+            "for": 13,
+            "against": 8
+          },
+          "form_visitor": "LWDWW",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 3.12,
+          "aproveitamento_away": 58.3,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 5,
+          "over_0_5_ft_away": 5,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 6,
+        "team": {
+          "id": 677310,
+          "name": "Central FC",
+          "logo": "https://cdn.footystats.org/img/teams/trinidad-and-tobago-central-fc.png"
+        },
+        "points": 24,
+        "goalsDiff": -2,
+        "group": "Trinidad and Tobago TT Pro League 20252026",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 15,
+          "win": 7,
+          "draw": 3,
+          "lose": 5,
+          "goals": {
+            "for": 26,
+            "against": 28
+          },
+          "form": "LLDWW",
+          "btts_matches": 12,
+          "avg_corners_per_game": 4.0,
+          "aproveitamento": 53.3,
+          "over_2_5_goals": 11,
+          "over_0_5_ht": 9,
+          "over_0_5_ft": 11,
+          "clean_sheets": 2
+        },
+        "home": {
+          "played": 7,
+          "win": 4,
+          "draw": 1,
+          "lose": 2,
+          "goals": {
+            "for": 13,
+            "against": 11
+          },
+          "form_home": "WLDLW",
+          "avg_corners_home_per_game": 2.71,
+          "aproveitamento_home": 61.9,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 6,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 8,
+          "win": 3,
+          "draw": 2,
+          "lose": 3,
+          "goals": {
+            "for": 13,
+            "against": 17
+          },
+          "form_visitor": "DWLDW",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 5.12,
+          "aproveitamento_away": 45.8,
+          "over_2_5_goals_away": 6,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 5,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 7,
+        "team": {
+          "id": 677313,
+          "name": "San Juan Jabloteh FC",
+          "logo": "https://cdn.footystats.org/img/teams/trinidad-and-tobago-san-juan-jabloteh-fc.png"
+        },
+        "points": 18,
+        "goalsDiff": -7,
+        "group": "Trinidad and Tobago TT Pro League 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 15,
+          "win": 5,
+          "draw": 3,
+          "lose": 7,
+          "goals": {
+            "for": 25,
+            "against": 32
+          },
+          "form": "LLWLW",
+          "btts_matches": 12,
+          "avg_corners_per_game": 1.6,
+          "aproveitamento": 40.0,
+          "over_2_5_goals": 13,
+          "over_0_5_ht": 5,
+          "over_0_5_ft": 10,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 6,
+          "win": 1,
+          "draw": 0,
+          "lose": 5,
+          "goals": {
+            "for": 6,
+            "against": 17
+          },
+          "form_home": "LLLLW",
+          "avg_corners_home_per_game": 0.83,
+          "aproveitamento_home": 16.7,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 9,
+          "win": 4,
+          "draw": 3,
+          "lose": 2,
+          "goals": {
+            "for": 19,
+            "against": 15
+          },
+          "form_visitor": "WWLWL",
+          "btts_away_matches": 8,
+          "avg_corners_away_per_game": 2.11,
+          "aproveitamento_away": 55.6,
+          "over_2_5_goals_away": 7,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 7,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 8,
+        "team": {
+          "id": 1059934,
+          "name": "Tobago FC Phoenix 1976",
+          "logo": "https://cdn.footystats.org/img/teams/trinidad-and-tobago-tobago-fc-phoenix-1976.png"
+        },
+        "points": 15,
+        "goalsDiff": -13,
+        "group": "Trinidad and Tobago TT Pro League 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 14,
+          "win": 5,
+          "draw": 0,
+          "lose": 9,
+          "goals": {
+            "for": 21,
+            "against": 34
+          },
+          "form": "LWWWL",
+          "btts_matches": 8,
+          "avg_corners_per_game": 0.79,
+          "aproveitamento": 35.7,
+          "over_2_5_goals": 10,
+          "over_0_5_ht": 5,
+          "over_0_5_ft": 9,
+          "clean_sheets": 3
+        },
+        "home": {
+          "played": 6,
+          "win": 2,
+          "draw": 0,
+          "lose": 4,
+          "goals": {
+            "for": 10,
+            "against": 17
+          },
+          "form_home": "LLWWL",
+          "avg_corners_home_per_game": 0.83,
+          "aproveitamento_home": 33.3,
+          "btts_home_matches": 3,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 8,
+          "win": 3,
+          "draw": 0,
+          "lose": 5,
+          "goals": {
+            "for": 11,
+            "against": 17
+          },
+          "form_visitor": "LLWLW",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 0.75,
+          "aproveitamento_away": 37.5,
+          "over_2_5_goals_away": 6,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 5,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 9,
+        "team": {
+          "id": 677316,
+          "name": "Cunupia FC",
+          "logo": "https://cdn.footystats.org/img/teams/trinidad-and-tobago-cunupia-fc.png"
+        },
+        "points": 13,
+        "goalsDiff": -6,
+        "group": "Trinidad and Tobago TT Pro League 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 15,
+          "win": 4,
+          "draw": 1,
+          "lose": 10,
+          "goals": {
+            "for": 27,
+            "against": 33
+          },
+          "form": "LLLLW",
+          "btts_matches": 11,
+          "avg_corners_per_game": 1.07,
+          "aproveitamento": 28.9,
+          "over_2_5_goals": 12,
+          "over_0_5_ht": 2,
+          "over_0_5_ft": 11,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 6,
+          "win": 1,
+          "draw": 0,
+          "lose": 5,
+          "goals": {
+            "for": 8,
+            "against": 13
+          },
+          "form_home": "LLWLL",
+          "avg_corners_home_per_game": 1.17,
+          "aproveitamento_home": 16.7,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 9,
+          "win": 3,
+          "draw": 1,
+          "lose": 5,
+          "goals": {
+            "for": 19,
+            "against": 20
+          },
+          "form_visitor": "WWLLW",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 1.0,
+          "aproveitamento_away": 37.0,
+          "over_2_5_goals_away": 8,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 7,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 10,
+        "team": {
+          "id": 677308,
+          "name": "Morvant Caledonia United FC",
+          "logo": "https://cdn.footystats.org/img/teams/trinidad-and-tobago-morvant-caledonia-united-fc.png"
+        },
+        "points": 10,
+        "goalsDiff": -11,
+        "group": "Trinidad and Tobago TT Pro League 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 14,
+          "win": 3,
+          "draw": 1,
+          "lose": 10,
+          "goals": {
+            "for": 20,
+            "against": 31
+          },
+          "form": "WLLLL",
+          "btts_matches": 7,
+          "avg_corners_per_game": 3.71,
+          "aproveitamento": 23.8,
+          "over_2_5_goals": 10,
+          "over_0_5_ht": 3,
+          "over_0_5_ft": 8,
+          "clean_sheets": 2
+        },
+        "home": {
+          "played": 8,
+          "win": 3,
+          "draw": 1,
+          "lose": 4,
+          "goals": {
+            "for": 15,
+            "against": 14
+          },
+          "form_home": "WLLWL",
+          "avg_corners_home_per_game": 2.62,
+          "aproveitamento_home": 41.7,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 6,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 6,
+          "win": 0,
+          "draw": 0,
+          "lose": 6,
+          "goals": {
+            "for": 5,
+            "against": 17
+          },
+          "form_visitor": "LLLLL",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 5.17,
+          "aproveitamento_away": 0.0,
+          "over_2_5_goals_away": 4,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 11,
+        "team": {
+          "id": 678991,
+          "name": "Point Fortin FC",
+          "logo": "https://cdn.footystats.org/img/teams/trinidad-and-tobago-point-fortin-fc.png"
+        },
+        "points": 10,
+        "goalsDiff": -18,
+        "group": "Trinidad and Tobago TT Pro League 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 15,
+          "win": 3,
+          "draw": 1,
+          "lose": 11,
+          "goals": {
+            "for": 12,
+            "against": 30
+          },
+          "form": "LLLWL",
+          "btts_matches": 8,
+          "avg_corners_per_game": 2.07,
+          "aproveitamento": 22.2,
+          "over_2_5_goals": 10,
+          "over_0_5_ht": 3,
+          "over_0_5_ft": 7,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 8,
+          "win": 2,
+          "draw": 1,
+          "lose": 5,
+          "goals": {
+            "for": 7,
+            "against": 13
+          },
+          "form_home": "WLLLL",
+          "avg_corners_home_per_game": 2.5,
+          "aproveitamento_home": 29.2,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 7,
+          "win": 1,
+          "draw": 0,
+          "lose": 6,
+          "goals": {
+            "for": 5,
+            "against": 17
+          },
+          "form_visitor": "LLLLW",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 1.57,
+          "aproveitamento_away": 14.3,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 12,
+        "team": {
+          "id": 1659998,
+          "name": "La Horquetta Rangers",
+          "logo": "https://cdn.footystats.org/img/teams/trinidad-and-tobago-la-horquetta-rangers.png"
+        },
+        "points": 9,
+        "goalsDiff": -27,
+        "group": "Trinidad and Tobago TT Pro League 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 14,
+          "win": 2,
+          "draw": 3,
+          "lose": 9,
+          "goals": {
+            "for": 12,
+            "against": 39
+          },
+          "form": "WDLLL",
+          "btts_matches": 8,
+          "avg_corners_per_game": 1.29,
+          "aproveitamento": 21.4,
+          "over_2_5_goals": 11,
+          "over_0_5_ht": 2,
+          "over_0_5_ft": 7,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 10,
+          "win": 2,
+          "draw": 2,
+          "lose": 6,
+          "goals": {
+            "for": 9,
+            "against": 30
+          },
+          "form_home": "LLWDL",
+          "avg_corners_home_per_game": 0.3,
+          "aproveitamento_home": 26.7,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 8,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 5,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 4,
+          "win": 0,
+          "draw": 1,
+          "lose": 3,
+          "goals": {
+            "for": 3,
+            "against": 9
+          },
+          "form_visitor": "LDLL",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 3.75,
+          "aproveitamento_away": 8.3,
+          "over_2_5_goals_away": 3,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      }
+    ]
+  },
+  "artilharia": {
+    "trinidad_and_tobago_tt_pro_league": []
+  }
+}
