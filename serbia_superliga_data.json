@@ -4,6 +4,74 @@
       {
         "rank": 1,
         "team": {
+          "id": 70,
+          "name": "Red Star Belgrade",
+          "logo": "https://cdn.footystats.org/img/teams/serbia-red-star-belgrade.png"
+        },
+        "points": 54,
+        "goalsDiff": 50,
+        "group": "Serbia SuperLiga 20252026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 23,
+          "win": 17,
+          "draw": 3,
+          "lose": 3,
+          "goals": {
+            "for": 69,
+            "against": 19
+          },
+          "form": "DWWWW",
+          "btts_matches": 12,
+          "avg_corners_per_game": 8.09,
+          "aproveitamento": 78.3,
+          "over_2_5_goals": 17,
+          "over_0_5_ht": 17,
+          "over_0_5_ft": 17,
+          "clean_sheets": 9
+        },
+        "home": {
+          "played": 11,
+          "win": 9,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 40,
+            "against": 6
+          },
+          "form_home": "DWLWW",
+          "avg_corners_home_per_game": 7.55,
+          "aproveitamento_home": 84.8,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 8,
+          "over_0_5_ht_home": 8,
+          "over_0_5_ft_home": 9,
+          "clean_sheets_home": 5
+        },
+        "away": {
+          "played": 12,
+          "win": 8,
+          "draw": 2,
+          "lose": 2,
+          "goals": {
+            "for": 29,
+            "against": 13
+          },
+          "form_visitor": "LWDWW",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 8.58,
+          "aproveitamento_away": 72.2,
+          "over_2_5_goals_away": 9,
+          "over_0_5_ht_away": 9,
+          "over_0_5_ft_away": 8,
+          "clean_sheets_away": 4
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 2,
+        "team": {
           "id": 957,
           "name": "FK Partizan Beograd",
           "logo": "https://cdn.footystats.org/img/teams/serbia-fk-partizan-beograd.png"
@@ -70,101 +138,33 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 2,
-        "team": {
-          "id": 70,
-          "name": "Red Star Belgrade",
-          "logo": "https://cdn.footystats.org/img/teams/serbia-red-star-belgrade.png"
-        },
-        "points": 51,
-        "goalsDiff": 47,
-        "group": "Serbia SuperLiga 20252026",
-        "status": "same",
-        "description": "Copa Libertadores",
-        "all": {
-          "played": 22,
-          "win": 16,
-          "draw": 3,
-          "lose": 3,
-          "goals": {
-            "for": 66,
-            "against": 19
-          },
-          "form": "LDWWW",
-          "btts_matches": 12,
-          "avg_corners_per_game": 8.09,
-          "aproveitamento": 77.3,
-          "over_2_5_goals": 16,
-          "over_0_5_ht": 16,
-          "over_0_5_ft": 16,
-          "clean_sheets": 8
-        },
-        "home": {
-          "played": 11,
-          "win": 9,
-          "draw": 1,
-          "lose": 1,
-          "goals": {
-            "for": 40,
-            "against": 6
-          },
-          "form_home": "DWLWW",
-          "avg_corners_home_per_game": 7.55,
-          "aproveitamento_home": 84.8,
-          "btts_home_matches": 5,
-          "over_2_5_goals_home": 8,
-          "over_0_5_ht_home": 8,
-          "over_0_5_ft_home": 9,
-          "clean_sheets_home": 5
-        },
-        "away": {
-          "played": 11,
-          "win": 7,
-          "draw": 2,
-          "lose": 2,
-          "goals": {
-            "for": 26,
-            "against": 13
-          },
-          "form_visitor": "WLWDW",
-          "btts_away_matches": 7,
-          "avg_corners_away_per_game": 8.64,
-          "aproveitamento_away": 69.7,
-          "over_2_5_goals_away": 8,
-          "over_0_5_ht_away": 8,
-          "over_0_5_ft_away": 7,
-          "clean_sheets_away": 3
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
         "rank": 3,
         "team": {
           "id": 1933,
           "name": "FK Vojvodina Novi Sad",
           "logo": "https://cdn.footystats.org/img/teams/serbia-fk-vojvodina-novi-sad.png"
         },
-        "points": 46,
-        "goalsDiff": 22,
+        "points": 49,
+        "goalsDiff": 23,
         "group": "Serbia SuperLiga 20252026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 22,
-          "win": 14,
+          "played": 23,
+          "win": 15,
           "draw": 4,
           "lose": 4,
           "goals": {
-            "for": 41,
-            "against": 19
+            "for": 44,
+            "against": 21
           },
-          "form": "WDWWW",
-          "btts_matches": 11,
-          "avg_corners_per_game": 5.82,
-          "aproveitamento": 69.7,
-          "over_2_5_goals": 11,
+          "form": "DWWWW",
+          "btts_matches": 12,
+          "avg_corners_per_game": 5.61,
+          "aproveitamento": 71.0,
+          "over_2_5_goals": 12,
           "over_0_5_ht": 8,
-          "over_0_5_ft": 16,
+          "over_0_5_ft": 17,
           "clean_sheets": 9
         },
         "home": {
@@ -186,21 +186,21 @@
           "clean_sheets_home": 5
         },
         "away": {
-          "played": 11,
-          "win": 7,
+          "played": 12,
+          "win": 8,
           "draw": 1,
           "lose": 3,
           "goals": {
-            "for": 16,
-            "against": 9
+            "for": 19,
+            "against": 11
           },
-          "form_visitor": "WLWWW",
-          "btts_away_matches": 5,
-          "avg_corners_away_per_game": 5.09,
-          "aproveitamento_away": 66.7,
-          "over_2_5_goals_away": 5,
+          "form_visitor": "LWWWW",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 4.75,
+          "aproveitamento_away": 69.4,
+          "over_2_5_goals_away": 6,
           "over_0_5_ht_away": 4,
-          "over_0_5_ft_away": 7,
+          "over_0_5_ft_away": 8,
           "clean_sheets_away": 4
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -213,42 +213,42 @@
           "logo": "https://cdn.footystats.org/img/teams/serbia-fk-zeleznicar-pancevo.png"
         },
         "points": 37,
-        "goalsDiff": 6,
+        "goalsDiff": 3,
         "group": "Serbia SuperLiga 20252026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 22,
+          "played": 23,
           "win": 11,
           "draw": 4,
-          "lose": 7,
+          "lose": 8,
           "goals": {
             "for": 29,
-            "against": 23
+            "against": 26
           },
-          "form": "LWLWW",
+          "form": "WLWWL",
           "btts_matches": 10,
-          "avg_corners_per_game": 4.68,
-          "aproveitamento": 56.1,
-          "over_2_5_goals": 9,
+          "avg_corners_per_game": 4.83,
+          "aproveitamento": 53.6,
+          "over_2_5_goals": 10,
           "over_0_5_ht": 10,
           "over_0_5_ft": 12,
           "clean_sheets": 9
         },
         "home": {
-          "played": 11,
+          "played": 12,
           "win": 7,
           "draw": 2,
-          "lose": 2,
+          "lose": 3,
           "goals": {
             "for": 12,
-            "against": 5
+            "against": 8
           },
-          "form_home": "WWWWW",
-          "avg_corners_home_per_game": 5.09,
-          "aproveitamento_home": 69.7,
+          "form_home": "WWWWL",
+          "avg_corners_home_per_game": 5.33,
+          "aproveitamento_home": 63.9,
           "btts_home_matches": 2,
-          "over_2_5_goals_home": 2,
+          "over_2_5_goals_home": 3,
           "over_0_5_ht_home": 6,
           "over_0_5_ft_home": 4,
           "clean_sheets_home": 8
@@ -344,74 +344,6 @@
       {
         "rank": 6,
         "team": {
-          "id": 1937,
-          "name": "FK Čukarički Stankom",
-          "logo": "https://cdn.footystats.org/img/teams/serbia-fk-cukaricki-stankom.png"
-        },
-        "points": 30,
-        "goalsDiff": -2,
-        "group": "Serbia SuperLiga 20252026",
-        "status": "same",
-        "description": "Copa Sul-Americana",
-        "all": {
-          "played": 22,
-          "win": 8,
-          "draw": 6,
-          "lose": 8,
-          "goals": {
-            "for": 32,
-            "against": 34
-          },
-          "form": "DLWLL",
-          "btts_matches": 17,
-          "avg_corners_per_game": 4.59,
-          "aproveitamento": 45.5,
-          "over_2_5_goals": 12,
-          "over_0_5_ht": 14,
-          "over_0_5_ft": 10,
-          "clean_sheets": 2
-        },
-        "home": {
-          "played": 11,
-          "win": 5,
-          "draw": 4,
-          "lose": 2,
-          "goals": {
-            "for": 18,
-            "against": 14
-          },
-          "form_home": "DWDDL",
-          "avg_corners_home_per_game": 4.09,
-          "aproveitamento_home": 57.6,
-          "btts_home_matches": 9,
-          "over_2_5_goals_home": 5,
-          "over_0_5_ht_home": 9,
-          "over_0_5_ft_home": 5,
-          "clean_sheets_home": 2
-        },
-        "away": {
-          "played": 11,
-          "win": 3,
-          "draw": 2,
-          "lose": 6,
-          "goals": {
-            "for": 14,
-            "against": 20
-          },
-          "form_visitor": "LWLWL",
-          "btts_away_matches": 8,
-          "avg_corners_away_per_game": 5.09,
-          "aproveitamento_away": 33.3,
-          "over_2_5_goals_away": 7,
-          "over_0_5_ht_away": 5,
-          "over_0_5_ft_away": 5,
-          "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 7,
-        "team": {
           "id": 1942,
           "name": "FK Radnički 1923 Kragujevac",
           "logo": "https://cdn.footystats.org/img/teams/serbia-fk-radnicki-1923-kragujevac.png"
@@ -420,7 +352,7 @@
         "goalsDiff": -2,
         "group": "Serbia SuperLiga 20252026",
         "status": "same",
-        "description": "",
+        "description": "Copa Sul-Americana",
         "all": {
           "played": 22,
           "win": 8,
@@ -474,6 +406,74 @@
           "over_0_5_ht_away": 7,
           "over_0_5_ft_away": 2,
           "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 7,
+        "team": {
+          "id": 1937,
+          "name": "FK Čukarički Stankom",
+          "logo": "https://cdn.footystats.org/img/teams/serbia-fk-cukaricki-stankom.png"
+        },
+        "points": 30,
+        "goalsDiff": -3,
+        "group": "Serbia SuperLiga 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 23,
+          "win": 8,
+          "draw": 6,
+          "lose": 9,
+          "goals": {
+            "for": 34,
+            "against": 37
+          },
+          "form": "LWLLL",
+          "btts_matches": 18,
+          "avg_corners_per_game": 4.57,
+          "aproveitamento": 43.5,
+          "over_2_5_goals": 13,
+          "over_0_5_ht": 14,
+          "over_0_5_ft": 11,
+          "clean_sheets": 2
+        },
+        "home": {
+          "played": 12,
+          "win": 5,
+          "draw": 4,
+          "lose": 3,
+          "goals": {
+            "for": 20,
+            "against": 17
+          },
+          "form_home": "WDDLL",
+          "avg_corners_home_per_game": 4.08,
+          "aproveitamento_home": 52.8,
+          "btts_home_matches": 10,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 9,
+          "over_0_5_ft_home": 6,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 11,
+          "win": 3,
+          "draw": 2,
+          "lose": 6,
+          "goals": {
+            "for": 14,
+            "against": 20
+          },
+          "form_visitor": "LWLWL",
+          "btts_away_matches": 8,
+          "avg_corners_away_per_game": 5.09,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 7,
+          "over_0_5_ht_away": 5,
+          "over_0_5_ft_away": 5,
+          "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1098,7 +1098,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 16,
         "jogador-assists": 2,
-        "jogador-partidas": 18,
+        "jogador-partidas": 19,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/serbia-red-star-belgrade.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/serbia-aleksandar-katai.png"
       },
@@ -1125,7 +1125,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 11,
         "jogador-assists": 3,
-        "jogador-partidas": 22,
+        "jogador-partidas": 23,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/serbia-fk-cukaricki-stankom.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/serbia-slobodan-tedic.png"
       },
@@ -1133,8 +1133,8 @@
         "jogador-nome": "Jogador_750291",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 11,
-        "jogador-assists": 1,
-        "jogador-partidas": 19,
+        "jogador-assists": 2,
+        "jogador-partidas": 20,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/serbia-ofk-beograd.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-jogador_750291.png"
       },
@@ -1148,11 +1148,20 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/-andrej-kostić.png"
       },
       {
+        "jogador-nome": "Vasilije Kostov",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 8,
+        "jogador-assists": 6,
+        "jogador-partidas": 22,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/serbia-red-star-belgrade.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-vasilije-kostov.png"
+      },
+      {
         "jogador-nome": "Douglas Owusu",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 8,
         "jogador-assists": 1,
-        "jogador-partidas": 22,
+        "jogador-partidas": 23,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/serbia-fk-radnik-surdulica.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-douglas-owusu.png"
       },
@@ -1202,13 +1211,13 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/serbia-andrija-majdevac.png"
       },
       {
-        "jogador-nome": "Vasilije Kostov",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 6,
-        "jogador-assists": 6,
-        "jogador-partidas": 21,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/serbia-red-star-belgrade.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/-vasilije-kostov.png"
+        "jogador-nome": "Milutin Vidosavljević",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 7,
+        "jogador-assists": 0,
+        "jogador-partidas": 20,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/serbia-fk-radnicki-1923-kragujevac.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/serbia-milutin-vidosavljevic.png"
       },
       {
         "jogador-nome": "Bruno Duarte da Silva",
@@ -1238,20 +1247,11 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/serbia-radivoj-bosic.png"
       },
       {
-        "jogador-nome": "Milutin Vidosavljević",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 6,
-        "jogador-assists": 0,
-        "jogador-partidas": 19,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/serbia-fk-radnicki-1923-kragujevac.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/serbia-milutin-vidosavljevic.png"
-      },
-      {
         "jogador-nome": "Lazar Ranđelović",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 5,
-        "jogador-assists": 8,
-        "jogador-partidas": 18,
+        "jogador-assists": 9,
+        "jogador-partidas": 19,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/serbia-fk-vojvodina-novi-sad.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/serbia-lazar-randelovic.png"
       },
