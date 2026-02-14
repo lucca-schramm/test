@@ -484,28 +484,28 @@
           "name": "Birkirkara FC",
           "logo": "https://cdn.footystats.org/img/teams/malta-birkirkara-fc.png"
         },
-        "points": 25,
+        "points": 26,
         "goalsDiff": -1,
         "group": "Malta Maltese Premier League 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 21,
+          "played": 22,
           "win": 7,
-          "draw": 4,
+          "draw": 5,
           "lose": 10,
           "goals": {
             "for": 24,
             "against": 25
           },
-          "form": "WLLWW",
+          "form": "LLWWD",
           "btts_matches": 5,
-          "avg_corners_per_game": 3.1,
-          "aproveitamento": 39.7,
+          "avg_corners_per_game": 3.32,
+          "aproveitamento": 39.4,
           "over_2_5_goals": 8,
           "over_0_5_ht": 10,
           "over_0_5_ft": 7,
-          "clean_sheets": 10
+          "clean_sheets": 11
         },
         "home": {
           "played": 8,
@@ -526,22 +526,22 @@
           "clean_sheets_home": 6
         },
         "away": {
-          "played": 13,
+          "played": 14,
           "win": 2,
-          "draw": 3,
+          "draw": 4,
           "lose": 8,
           "goals": {
             "for": 12,
             "against": 22
           },
-          "form_visitor": "LLLLL",
+          "form_visitor": "LLLLD",
           "btts_away_matches": 5,
-          "avg_corners_away_per_game": 2.85,
-          "aproveitamento_away": 23.1,
+          "avg_corners_away_per_game": 3.21,
+          "aproveitamento_away": 23.8,
           "over_2_5_goals_away": 6,
           "over_0_5_ht_away": 7,
           "over_0_5_ft_away": 3,
-          "clean_sheets_away": 4
+          "clean_sheets_away": 5
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -616,6 +616,74 @@
       {
         "rank": 10,
         "team": {
+          "id": 2485,
+          "name": "Mosta FC",
+          "logo": "https://cdn.footystats.org/img/teams/malta-mosta-fc.png"
+        },
+        "points": 17,
+        "goalsDiff": -19,
+        "group": "Malta Maltese Premier League 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 22,
+          "win": 4,
+          "draw": 5,
+          "lose": 13,
+          "goals": {
+            "for": 21,
+            "against": 40
+          },
+          "form": "LLLLD",
+          "btts_matches": 9,
+          "avg_corners_per_game": 4.0,
+          "aproveitamento": 25.8,
+          "over_2_5_goals": 10,
+          "over_0_5_ht": 7,
+          "over_0_5_ft": 9,
+          "clean_sheets": 5
+        },
+        "home": {
+          "played": 11,
+          "win": 1,
+          "draw": 5,
+          "lose": 5,
+          "goals": {
+            "for": 14,
+            "against": 20
+          },
+          "form_home": "LDLLD",
+          "avg_corners_home_per_game": 4.0,
+          "aproveitamento_home": 24.2,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 6,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 11,
+          "win": 3,
+          "draw": 0,
+          "lose": 8,
+          "goals": {
+            "for": 7,
+            "against": 20
+          },
+          "form_visitor": "LWLLL",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 4.0,
+          "aproveitamento_away": 27.3,
+          "over_2_5_goals_away": 4,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 11,
+        "team": {
           "id": 2508,
           "name": "Zabbar Saint Patrick FC",
           "logo": "https://cdn.footystats.org/img/teams/malta-zabbar-saint-patrick-fc.png"
@@ -677,74 +745,6 @@
           "over_2_5_goals_away": 4,
           "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 5,
-          "clean_sheets_away": 3
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 11,
-        "team": {
-          "id": 2485,
-          "name": "Mosta FC",
-          "logo": "https://cdn.footystats.org/img/teams/malta-mosta-fc.png"
-        },
-        "points": 16,
-        "goalsDiff": -19,
-        "group": "Malta Maltese Premier League 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 21,
-          "win": 4,
-          "draw": 4,
-          "lose": 13,
-          "goals": {
-            "for": 21,
-            "against": 40
-          },
-          "form": "LLLLL",
-          "btts_matches": 9,
-          "avg_corners_per_game": 4.14,
-          "aproveitamento": 25.4,
-          "over_2_5_goals": 10,
-          "over_0_5_ht": 7,
-          "over_0_5_ft": 9,
-          "clean_sheets": 4
-        },
-        "home": {
-          "played": 10,
-          "win": 1,
-          "draw": 4,
-          "lose": 5,
-          "goals": {
-            "for": 14,
-            "against": 20
-          },
-          "form_home": "DLDLL",
-          "avg_corners_home_per_game": 4.3,
-          "aproveitamento_home": 23.3,
-          "btts_home_matches": 6,
-          "over_2_5_goals_home": 6,
-          "over_0_5_ht_home": 4,
-          "over_0_5_ft_home": 6,
-          "clean_sheets_home": 1
-        },
-        "away": {
-          "played": 11,
-          "win": 3,
-          "draw": 0,
-          "lose": 8,
-          "goals": {
-            "for": 7,
-            "against": 20
-          },
-          "form_visitor": "LWLLL",
-          "btts_away_matches": 3,
-          "avg_corners_away_per_game": 4.0,
-          "aproveitamento_away": 27.3,
-          "over_2_5_goals_away": 4,
-          "over_0_5_ht_away": 3,
-          "over_0_5_ft_away": 3,
           "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -826,7 +826,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 170,
         "jogador-assists": 0,
-        "jogador-partidas": 238,
+        "jogador-partidas": 239,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/malta-valletta-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-jogador_42458.png"
       },
@@ -862,7 +862,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 8,
         "jogador-assists": 0,
-        "jogador-partidas": 18,
+        "jogador-partidas": 19,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/malta-mosta-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-prince-emmanuel-chibuzor.png"
       },
@@ -916,7 +916,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 5,
         "jogador-assists": 0,
-        "jogador-partidas": 19,
+        "jogador-partidas": 20,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/malta-birkirkara-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/jamaica-kemar-reid.png"
       },
