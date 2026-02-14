@@ -208,6 +208,74 @@
       {
         "rank": 4,
         "team": {
+          "id": 525,
+          "name": "KAA Gent",
+          "logo": "https://cdn.footystats.org/img/teams/belgium-kaa-gent.png"
+        },
+        "points": 36,
+        "goalsDiff": 4,
+        "group": "Belgium Pro League 20252026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 25,
+          "win": 10,
+          "draw": 6,
+          "lose": 9,
+          "goals": {
+            "for": 41,
+            "against": 37
+          },
+          "form": "WWDLW",
+          "btts_matches": 16,
+          "avg_corners_per_game": 4.84,
+          "aproveitamento": 48.0,
+          "over_2_5_goals": 15,
+          "over_0_5_ht": 11,
+          "over_0_5_ft": 18,
+          "clean_sheets": 6
+        },
+        "home": {
+          "played": 12,
+          "win": 6,
+          "draw": 2,
+          "lose": 4,
+          "goals": {
+            "for": 22,
+            "against": 15
+          },
+          "form_home": "LLWWL",
+          "avg_corners_home_per_game": 5.08,
+          "aproveitamento_home": 55.6,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 7,
+          "over_0_5_ht_home": 6,
+          "over_0_5_ft_home": 9,
+          "clean_sheets_home": 4
+        },
+        "away": {
+          "played": 13,
+          "win": 4,
+          "draw": 4,
+          "lose": 5,
+          "goals": {
+            "for": 19,
+            "against": 22
+          },
+          "form_visitor": "DLWDW",
+          "btts_away_matches": 9,
+          "avg_corners_away_per_game": 4.62,
+          "aproveitamento_away": 41.0,
+          "over_2_5_goals_away": 8,
+          "over_0_5_ht_away": 5,
+          "over_0_5_ft_away": 9,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 5,
+        "team": {
           "id": 61,
           "name": "RSC Anderlecht",
           "logo": "https://cdn.footystats.org/img/teams/belgium-rsc-anderlecht.png"
@@ -216,7 +284,7 @@
         "goalsDiff": 0,
         "group": "Belgium Pro League 20252026",
         "status": "same",
-        "description": "Copa Libertadores",
+        "description": "Copa Sul-Americana",
         "all": {
           "played": 24,
           "win": 10,
@@ -274,7 +342,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "team": {
           "id": 537,
           "name": "YR KV Mechelen",
@@ -342,7 +410,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "team": {
           "id": 533,
           "name": "KRC Genk",
@@ -352,7 +420,7 @@
         "goalsDiff": -1,
         "group": "Belgium Pro League 20252026",
         "status": "same",
-        "description": "Copa Sul-Americana",
+        "description": "",
         "all": {
           "played": 25,
           "win": 9,
@@ -410,74 +478,6 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 7,
-        "team": {
-          "id": 525,
-          "name": "KAA Gent",
-          "logo": "https://cdn.footystats.org/img/teams/belgium-kaa-gent.png"
-        },
-        "points": 33,
-        "goalsDiff": 3,
-        "group": "Belgium Pro League 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 24,
-          "win": 9,
-          "draw": 6,
-          "lose": 9,
-          "goals": {
-            "for": 38,
-            "against": 35
-          },
-          "form": "WWWDL",
-          "btts_matches": 15,
-          "avg_corners_per_game": 4.88,
-          "aproveitamento": 45.8,
-          "over_2_5_goals": 14,
-          "over_0_5_ht": 10,
-          "over_0_5_ft": 17,
-          "clean_sheets": 6
-        },
-        "home": {
-          "played": 12,
-          "win": 6,
-          "draw": 2,
-          "lose": 4,
-          "goals": {
-            "for": 22,
-            "against": 15
-          },
-          "form_home": "LLWWL",
-          "avg_corners_home_per_game": 5.08,
-          "aproveitamento_home": 55.6,
-          "btts_home_matches": 7,
-          "over_2_5_goals_home": 7,
-          "over_0_5_ht_home": 6,
-          "over_0_5_ft_home": 9,
-          "clean_sheets_home": 4
-        },
-        "away": {
-          "played": 12,
-          "win": 3,
-          "draw": 4,
-          "lose": 5,
-          "goals": {
-            "for": 16,
-            "against": 20
-          },
-          "form_visitor": "DDLWD",
-          "btts_away_matches": 8,
-          "avg_corners_away_per_game": 4.67,
-          "aproveitamento_away": 36.1,
-          "over_2_5_goals_away": 7,
-          "over_0_5_ht_away": 4,
-          "over_0_5_ft_away": 8,
-          "clean_sheets_away": 2
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
         "rank": 8,
         "team": {
           "id": 529,
@@ -485,44 +485,44 @@
           "logo": "https://cdn.footystats.org/img/teams/belgium-sporting-du-pays-de-charleroi.png"
         },
         "points": 33,
-        "goalsDiff": 2,
+        "goalsDiff": 1,
         "group": "Belgium Pro League 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 24,
+          "played": 25,
           "win": 9,
           "draw": 6,
-          "lose": 9,
+          "lose": 10,
           "goals": {
-            "for": 32,
-            "against": 30
+            "for": 34,
+            "against": 33
           },
-          "form": "WWWWL",
-          "btts_matches": 13,
-          "avg_corners_per_game": 4.96,
-          "aproveitamento": 45.8,
-          "over_2_5_goals": 10,
+          "form": "WWWLL",
+          "btts_matches": 14,
+          "avg_corners_per_game": 5.24,
+          "aproveitamento": 44.0,
+          "over_2_5_goals": 11,
           "over_0_5_ht": 15,
-          "over_0_5_ft": 10,
+          "over_0_5_ft": 11,
           "clean_sheets": 7
         },
         "home": {
-          "played": 12,
+          "played": 13,
           "win": 4,
           "draw": 5,
-          "lose": 3,
+          "lose": 4,
           "goals": {
-            "for": 17,
-            "against": 14
+            "for": 19,
+            "against": 17
           },
-          "form_home": "DDDWL",
-          "avg_corners_home_per_game": 5.33,
-          "aproveitamento_home": 47.2,
-          "btts_home_matches": 7,
-          "over_2_5_goals_home": 4,
+          "form_home": "DDWLL",
+          "avg_corners_home_per_game": 5.85,
+          "aproveitamento_home": 43.6,
+          "btts_home_matches": 8,
+          "over_2_5_goals_home": 5,
           "over_0_5_ht_home": 8,
-          "over_0_5_ft_home": 6,
+          "over_0_5_ft_home": 7,
           "clean_sheets_home": 4
         },
         "away": {
@@ -1121,6 +1121,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/france-wilfried-kanga.png"
       },
       {
+        "jogador-nome": "Parfait Guiagon",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 8,
+        "jogador-assists": 4,
+        "jogador-partidas": 22,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/belgium-sporting-du-pays-de-charleroi.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/ivory-coast-parfait-guiagon.png"
+      },
+      {
         "jogador-nome": "Bruny Nsimba",
         "jogador-posicao": "Forward",
         "jogador-gols": 8,
@@ -1128,15 +1137,6 @@
         "jogador-partidas": 24,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/belgium-fc-verbroedering-dender-eendracht-hekelgem.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/belgium-bruny-nsimba.png"
-      },
-      {
-        "jogador-nome": "Parfait Guiagon",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 8,
-        "jogador-assists": 3,
-        "jogador-partidas": 21,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/belgium-sporting-du-pays-de-charleroi.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/ivory-coast-parfait-guiagon.png"
       },
       {
         "jogador-nome": "Jeppe Erenbjerg",
@@ -1251,7 +1251,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 6,
         "jogador-assists": 2,
-        "jogador-partidas": 24,
+        "jogador-partidas": 25,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/belgium-fc-verbroedering-dender-eendracht-hekelgem.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/france-aurelien-scheidler.png"
       },
