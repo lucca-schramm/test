@@ -76,46 +76,46 @@
           "name": "FC Sankt Gallen 1879",
           "logo": "https://cdn.footystats.org/img/teams/switzerland-fc-sankt-gallen-1879.png"
         },
-        "points": 42,
+        "points": 43,
         "goalsDiff": 15,
         "group": "Switzerland Super League 20252026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 23,
+          "played": 24,
           "win": 13,
-          "draw": 3,
+          "draw": 4,
           "lose": 7,
           "goals": {
             "for": 45,
             "against": 30
           },
-          "form": "WLDDW",
+          "form": "LDDWD",
           "btts_matches": 16,
-          "avg_corners_per_game": 4.65,
-          "aproveitamento": 60.9,
+          "avg_corners_per_game": 4.67,
+          "aproveitamento": 59.7,
           "over_2_5_goals": 17,
           "over_0_5_ht": 16,
           "over_0_5_ft": 13,
-          "clean_sheets": 6
+          "clean_sheets": 7
         },
         "home": {
-          "played": 12,
+          "played": 13,
           "win": 7,
-          "draw": 0,
+          "draw": 1,
           "lose": 5,
           "goals": {
             "for": 24,
             "against": 16
           },
-          "form_home": "WLWLW",
+          "form_home": "LWLWD",
           "avg_corners_home_per_game": 5.08,
-          "aproveitamento_home": 58.3,
+          "aproveitamento_home": 56.4,
           "btts_home_matches": 7,
           "over_2_5_goals_home": 9,
           "over_0_5_ht_home": 8,
           "over_0_5_ft_home": 5,
-          "clean_sheets_home": 4
+          "clean_sheets_home": 5
         },
         "away": {
           "played": 11,
@@ -412,6 +412,74 @@
       {
         "rank": 7,
         "team": {
+          "id": 890,
+          "name": "FC Luzern",
+          "logo": "https://cdn.footystats.org/img/teams/switzerland-fc-luzern.png"
+        },
+        "points": 30,
+        "goalsDiff": 1,
+        "group": "Switzerland Super League 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 25,
+          "win": 7,
+          "draw": 9,
+          "lose": 9,
+          "goals": {
+            "for": 48,
+            "against": 47
+          },
+          "form": "DDDWW",
+          "btts_matches": 19,
+          "avg_corners_per_game": 5.28,
+          "aproveitamento": 40.0,
+          "over_2_5_goals": 19,
+          "over_0_5_ht": 14,
+          "over_0_5_ft": 16,
+          "clean_sheets": 4
+        },
+        "home": {
+          "played": 12,
+          "win": 2,
+          "draw": 5,
+          "lose": 5,
+          "goals": {
+            "for": 26,
+            "against": 27
+          },
+          "form_home": "LLLDW",
+          "avg_corners_home_per_game": 6.25,
+          "aproveitamento_home": 30.6,
+          "btts_home_matches": 11,
+          "over_2_5_goals_home": 11,
+          "over_0_5_ht_home": 7,
+          "over_0_5_ft_home": 9,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 13,
+          "win": 5,
+          "draw": 4,
+          "lose": 4,
+          "goals": {
+            "for": 22,
+            "against": 20
+          },
+          "form_visitor": "LWDDW",
+          "btts_away_matches": 8,
+          "avg_corners_away_per_game": 4.38,
+          "aproveitamento_away": 48.7,
+          "over_2_5_goals_away": 8,
+          "over_0_5_ht_away": 7,
+          "over_0_5_ft_away": 7,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 8,
+        "team": {
           "id": 895,
           "name": "FC Lausanne Sport",
           "logo": "https://cdn.footystats.org/img/teams/switzerland-fc-lausanne-sport.png"
@@ -478,51 +546,51 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "team": {
           "id": 896,
           "name": "FC Zürich",
           "logo": "https://cdn.footystats.org/img/teams/switzerland-fc-zurich.png"
         },
         "points": 28,
-        "goalsDiff": -9,
+        "goalsDiff": -12,
         "group": "Switzerland Super League 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 24,
+          "played": 25,
           "win": 8,
           "draw": 4,
-          "lose": 12,
+          "lose": 13,
           "goals": {
-            "for": 36,
-            "against": 45
+            "for": 37,
+            "against": 49
           },
-          "form": "DLLLW",
-          "btts_matches": 16,
-          "avg_corners_per_game": 5.17,
-          "aproveitamento": 38.9,
-          "over_2_5_goals": 18,
+          "form": "LLLWL",
+          "btts_matches": 17,
+          "avg_corners_per_game": 5.16,
+          "aproveitamento": 37.3,
+          "over_2_5_goals": 19,
           "over_0_5_ht": 13,
-          "over_0_5_ft": 10,
+          "over_0_5_ft": 11,
           "clean_sheets": 2
         },
         "home": {
-          "played": 12,
+          "played": 13,
           "win": 5,
           "draw": 1,
-          "lose": 6,
+          "lose": 7,
           "goals": {
-            "for": 22,
-            "against": 23
+            "for": 23,
+            "against": 27
           },
-          "form_home": "WDLLW",
+          "form_home": "DLLWL",
           "avg_corners_home_per_game": 5.0,
-          "aproveitamento_home": 44.4,
-          "btts_home_matches": 8,
-          "over_2_5_goals_home": 10,
+          "aproveitamento_home": 41.0,
+          "btts_home_matches": 9,
+          "over_2_5_goals_home": 11,
           "over_0_5_ht_home": 7,
-          "over_0_5_ft_home": 6,
+          "over_0_5_ft_home": 7,
           "clean_sheets_home": 2
         },
         "away": {
@@ -542,74 +610,6 @@
           "over_0_5_ht_away": 6,
           "over_0_5_ft_away": 4,
           "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 9,
-        "team": {
-          "id": 890,
-          "name": "FC Luzern",
-          "logo": "https://cdn.footystats.org/img/teams/switzerland-fc-luzern.png"
-        },
-        "points": 27,
-        "goalsDiff": -2,
-        "group": "Switzerland Super League 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 24,
-          "win": 6,
-          "draw": 9,
-          "lose": 9,
-          "goals": {
-            "for": 44,
-            "against": 46
-          },
-          "form": "LDDDW",
-          "btts_matches": 18,
-          "avg_corners_per_game": 5.25,
-          "aproveitamento": 37.5,
-          "over_2_5_goals": 18,
-          "over_0_5_ht": 13,
-          "over_0_5_ft": 15,
-          "clean_sheets": 4
-        },
-        "home": {
-          "played": 12,
-          "win": 2,
-          "draw": 5,
-          "lose": 5,
-          "goals": {
-            "for": 26,
-            "against": 27
-          },
-          "form_home": "LLLDW",
-          "avg_corners_home_per_game": 6.25,
-          "aproveitamento_home": 30.6,
-          "btts_home_matches": 11,
-          "over_2_5_goals_home": 11,
-          "over_0_5_ht_home": 7,
-          "over_0_5_ft_home": 9,
-          "clean_sheets_home": 1
-        },
-        "away": {
-          "played": 12,
-          "win": 4,
-          "draw": 4,
-          "lose": 4,
-          "goals": {
-            "for": 18,
-            "against": 19
-          },
-          "form_visitor": "LLWDD",
-          "btts_away_matches": 7,
-          "avg_corners_away_per_game": 4.25,
-          "aproveitamento_away": 44.4,
-          "over_2_5_goals_away": 7,
-          "over_0_5_ht_away": 6,
-          "over_0_5_ft_away": 6,
-          "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -688,28 +688,28 @@
           "name": "Grasshopper Club Zürich",
           "logo": "https://cdn.footystats.org/img/teams/switzerland-grasshopper-club-zurich.png"
         },
-        "points": 20,
+        "points": 21,
         "goalsDiff": -12,
         "group": "Switzerland Super League 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 24,
+          "played": 25,
           "win": 4,
-          "draw": 8,
+          "draw": 9,
           "lose": 12,
           "goals": {
             "for": 33,
             "against": 45
           },
-          "form": "LDDDL",
+          "form": "DDDLD",
           "btts_matches": 16,
-          "avg_corners_per_game": 4.46,
-          "aproveitamento": 27.8,
+          "avg_corners_per_game": 4.36,
+          "aproveitamento": 28.0,
           "over_2_5_goals": 13,
           "over_0_5_ht": 10,
           "over_0_5_ft": 14,
-          "clean_sheets": 2
+          "clean_sheets": 3
         },
         "home": {
           "played": 12,
@@ -730,22 +730,22 @@
           "clean_sheets_home": 1
         },
         "away": {
-          "played": 12,
+          "played": 13,
           "win": 2,
-          "draw": 3,
+          "draw": 4,
           "lose": 7,
           "goals": {
             "for": 15,
             "against": 26
           },
-          "form_visitor": "LLWDL",
+          "form_visitor": "LWDLD",
           "btts_away_matches": 7,
-          "avg_corners_away_per_game": 4.17,
-          "aproveitamento_away": 25.0,
+          "avg_corners_away_per_game": 4.0,
+          "aproveitamento_away": 25.6,
           "over_2_5_goals_away": 6,
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 7,
-          "clean_sheets_away": 1
+          "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -862,7 +862,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 10,
         "jogador-assists": 3,
-        "jogador-partidas": 23,
+        "jogador-partidas": 24,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/switzerland-fc-sankt-gallen-1879.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-alessandro-vogt.png"
       },
@@ -871,7 +871,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 10,
         "jogador-assists": 2,
-        "jogador-partidas": 18,
+        "jogador-partidas": 19,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/switzerland-fc-zurich.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-philippe-paulin-keny.png"
       },
@@ -883,6 +883,15 @@
         "jogador-partidas": 24,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/switzerland-fc-lugano.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/germany-kevin-behrens.png"
+      },
+      {
+        "jogador-nome": "Matteo Di Giusto",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 9,
+        "jogador-assists": 10,
+        "jogador-partidas": 25,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/switzerland-fc-luzern.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/switzerland-matteo-di-giusto.png"
       },
       {
         "jogador-nome": "Christopher Ibayi",
@@ -898,18 +907,9 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 9,
         "jogador-assists": 3,
-        "jogador-partidas": 22,
+        "jogador-partidas": 23,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/switzerland-fc-sankt-gallen-1879.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/germany-carlo-boukhalfa.png"
-      },
-      {
-        "jogador-nome": "Matteo Di Giusto",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 8,
-        "jogador-assists": 9,
-        "jogador-partidas": 24,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/switzerland-fc-luzern.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/switzerland-matteo-di-giusto.png"
       },
       {
         "jogador-nome": "Rilind Nivokazi",
@@ -952,7 +952,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 8,
         "jogador-assists": 0,
-        "jogador-partidas": 23,
+        "jogador-partidas": 24,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/switzerland-fc-sankt-gallen-1879.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/senegal-aliou-badara-balde.png"
       },
@@ -961,7 +961,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 7,
         "jogador-assists": 5,
-        "jogador-partidas": 21,
+        "jogador-partidas": 22,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/switzerland-grasshopper-club-zurich.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-jonathan-asp-jensen.png"
       },
@@ -970,7 +970,7 @@
         "jogador-posicao": "Goalkeeper",
         "jogador-gols": 7,
         "jogador-assists": 3,
-        "jogador-partidas": 20,
+        "jogador-partidas": 21,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/switzerland-grasshopper-club-zurich.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-luke-plange.png"
       },
