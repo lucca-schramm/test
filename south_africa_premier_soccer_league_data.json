@@ -8,46 +8,46 @@
           "name": "Orlando Pirates FC",
           "logo": "https://cdn.footystats.org/img/teams/south-africa-orlando-pirates-fc.png"
         },
-        "points": 35,
-        "goalsDiff": 17,
+        "points": 38,
+        "goalsDiff": 20,
         "group": "South Africa Premier Soccer League 20252026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 15,
-          "win": 11,
+          "played": 16,
+          "win": 12,
           "draw": 2,
           "lose": 2,
           "goals": {
-            "for": 22,
+            "for": 25,
             "against": 5
           },
-          "form": "WWDWW",
+          "form": "WDWWW",
           "btts_matches": 3,
           "avg_corners_per_game": 5.0,
-          "aproveitamento": 77.8,
-          "over_2_5_goals": 3,
-          "over_0_5_ht": 10,
-          "over_0_5_ft": 8,
-          "clean_sheets": 11
+          "aproveitamento": 79.2,
+          "over_2_5_goals": 4,
+          "over_0_5_ht": 11,
+          "over_0_5_ft": 9,
+          "clean_sheets": 12
         },
         "home": {
-          "played": 7,
-          "win": 6,
+          "played": 8,
+          "win": 7,
           "draw": 0,
           "lose": 1,
           "goals": {
-            "for": 9,
+            "for": 12,
             "against": 1
           },
           "form_home": "WWWWW",
-          "avg_corners_home_per_game": 5.43,
-          "aproveitamento_home": 85.7,
+          "avg_corners_home_per_game": 5.38,
+          "aproveitamento_home": 87.5,
           "btts_home_matches": 0,
-          "over_2_5_goals_home": 0,
-          "over_0_5_ht_home": 4,
-          "over_0_5_ft_home": 3,
-          "clean_sheets_home": 6
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 7
         },
         "away": {
           "played": 8,
@@ -820,74 +820,6 @@
       {
         "rank": 13,
         "team": {
-          "id": 676883,
-          "name": "Marumo Gallants FC",
-          "logo": "https://cdn.footystats.org/img/teams/south-africa-marumo-gallants-fc.png"
-        },
-        "points": 15,
-        "goalsDiff": -9,
-        "group": "South Africa Premier Soccer League 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 17,
-          "win": 3,
-          "draw": 6,
-          "lose": 8,
-          "goals": {
-            "for": 12,
-            "against": 21
-          },
-          "form": "DDLLL",
-          "btts_matches": 9,
-          "avg_corners_per_game": 4.29,
-          "aproveitamento": 29.4,
-          "over_2_5_goals": 4,
-          "over_0_5_ht": 4,
-          "over_0_5_ft": 7,
-          "clean_sheets": 0
-        },
-        "home": {
-          "played": 8,
-          "win": 2,
-          "draw": 4,
-          "lose": 2,
-          "goals": {
-            "for": 8,
-            "against": 8
-          },
-          "form_home": "WDDLL",
-          "avg_corners_home_per_game": 4.62,
-          "aproveitamento_home": 41.7,
-          "btts_home_matches": 6,
-          "over_2_5_goals_home": 2,
-          "over_0_5_ht_home": 3,
-          "over_0_5_ft_home": 4,
-          "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 9,
-          "win": 1,
-          "draw": 2,
-          "lose": 6,
-          "goals": {
-            "for": 4,
-            "against": 13
-          },
-          "form_visitor": "DLLLL",
-          "btts_away_matches": 3,
-          "avg_corners_away_per_game": 4.0,
-          "aproveitamento_away": 18.5,
-          "over_2_5_goals_away": 2,
-          "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 3,
-          "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 14,
-        "team": {
           "id": 1266,
           "name": "Chippa United FC",
           "logo": "https://cdn.footystats.org/img/teams/south-africa-chippa-united-fc.png"
@@ -950,6 +882,74 @@
           "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 3,
           "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 14,
+        "team": {
+          "id": 676883,
+          "name": "Marumo Gallants FC",
+          "logo": "https://cdn.footystats.org/img/teams/south-africa-marumo-gallants-fc.png"
+        },
+        "points": 15,
+        "goalsDiff": -12,
+        "group": "South Africa Premier Soccer League 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 18,
+          "win": 3,
+          "draw": 6,
+          "lose": 9,
+          "goals": {
+            "for": 12,
+            "against": 24
+          },
+          "form": "DLLLL",
+          "btts_matches": 9,
+          "avg_corners_per_game": 4.11,
+          "aproveitamento": 27.8,
+          "over_2_5_goals": 5,
+          "over_0_5_ht": 4,
+          "over_0_5_ft": 7,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 8,
+          "win": 2,
+          "draw": 4,
+          "lose": 2,
+          "goals": {
+            "for": 8,
+            "against": 8
+          },
+          "form_home": "WDDLL",
+          "avg_corners_home_per_game": 4.62,
+          "aproveitamento_home": 41.7,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 10,
+          "win": 1,
+          "draw": 2,
+          "lose": 7,
+          "goals": {
+            "for": 4,
+            "against": 16
+          },
+          "form_visitor": "LLLLL",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 3.7,
+          "aproveitamento_away": 16.7,
+          "over_2_5_goals_away": 3,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1202,6 +1202,24 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/-siviwe-magidigidi.png"
       },
       {
+        "jogador-nome": "Patrick Maswanganyi",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 4,
+        "jogador-assists": 1,
+        "jogador-partidas": 12,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/south-africa-orlando-pirates-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-patrick-maswanganyi.png"
+      },
+      {
+        "jogador-nome": "Jogador_816348",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 4,
+        "jogador-assists": 1,
+        "jogador-partidas": 10,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/south-africa-orlando-pirates-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-jogador_816348.png"
+      },
+      {
         "jogador-nome": "Hellings Frank Mhango",
         "jogador-posicao": "Forward",
         "jogador-gols": 4,
@@ -1220,11 +1238,20 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/portugal-flavio-antonio-silva.png"
       },
       {
+        "jogador-nome": "Relebohile Ratomo",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 3,
+        "jogador-assists": 4,
+        "jogador-partidas": 12,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/south-africa-orlando-pirates-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-relebohile-ratomo.png"
+      },
+      {
         "jogador-nome": "Evidence Makgopa",
         "jogador-posicao": "Forward",
         "jogador-gols": 3,
         "jogador-assists": 3,
-        "jogador-partidas": 13,
+        "jogador-partidas": 14,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/south-africa-orlando-pirates-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-evidence-makgopa.png"
       },
@@ -1245,33 +1272,6 @@
         "jogador-partidas": 10,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/south-africa-orbit-college-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/south-africa-mbulelo-wagaba.png"
-      },
-      {
-        "jogador-nome": "Jogador_816592",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 3,
-        "jogador-assists": 2,
-        "jogador-partidas": 15,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/south-africa-kaizer-chiefs-fc.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/-jogador_816592.png"
-      },
-      {
-        "jogador-nome": "Athini Maqokola",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 3,
-        "jogador-assists": 2,
-        "jogador-partidas": 12,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/south-africa-amazulu-fc.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/-athini-maqokola.png"
-      },
-      {
-        "jogador-nome": "Samkelo Maseko",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 3,
-        "jogador-assists": 1,
-        "jogador-partidas": 17,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/south-africa-durban-city-fc.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/-samkelo-maseko.png"
       }
     ]
   }
