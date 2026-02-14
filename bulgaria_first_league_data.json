@@ -417,25 +417,25 @@
           "logo": "https://cdn.footystats.org/img/teams/bulgaria-pfc-slavia-sofia.png"
         },
         "points": 28,
-        "goalsDiff": 0,
+        "goalsDiff": -1,
         "group": "Bulgaria First League 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 20,
+          "played": 21,
           "win": 7,
           "draw": 7,
-          "lose": 6,
+          "lose": 7,
           "goals": {
-            "for": 23,
-            "against": 23
+            "for": 24,
+            "against": 25
           },
-          "form": "WWWDL",
-          "btts_matches": 10,
-          "avg_corners_per_game": 5.5,
-          "aproveitamento": 46.7,
-          "over_2_5_goals": 8,
-          "over_0_5_ht": 8,
+          "form": "WWDLL",
+          "btts_matches": 11,
+          "avg_corners_per_game": 5.67,
+          "aproveitamento": 44.4,
+          "over_2_5_goals": 9,
+          "over_0_5_ht": 9,
           "over_0_5_ft": 9,
           "clean_sheets": 7
         },
@@ -458,20 +458,20 @@
           "clean_sheets_home": 5
         },
         "away": {
-          "played": 9,
+          "played": 10,
           "win": 2,
           "draw": 3,
-          "lose": 4,
+          "lose": 5,
           "goals": {
-            "for": 8,
-            "against": 12
+            "for": 9,
+            "against": 14
           },
-          "form_visitor": "DDWWD",
-          "btts_away_matches": 6,
-          "avg_corners_away_per_game": 5.78,
-          "aproveitamento_away": 33.3,
-          "over_2_5_goals_away": 3,
-          "over_0_5_ht_away": 3,
+          "form_visitor": "DWWDL",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 6.1,
+          "aproveitamento_away": 30.0,
+          "over_2_5_goals_away": 4,
+          "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 5,
           "clean_sheets_away": 2
         },
@@ -479,6 +479,74 @@
       },
       {
         "rank": 8,
+        "team": {
+          "id": 9985,
+          "name": "FK Arda Kardzhali",
+          "logo": "https://cdn.footystats.org/img/teams/bulgaria-fk-arda-kardzhali.png"
+        },
+        "points": 27,
+        "goalsDiff": 0,
+        "group": "Bulgaria First League 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 21,
+          "win": 7,
+          "draw": 6,
+          "lose": 8,
+          "goals": {
+            "for": 23,
+            "against": 23
+          },
+          "form": "DDWLW",
+          "btts_matches": 6,
+          "avg_corners_per_game": 4.71,
+          "aproveitamento": 42.9,
+          "over_2_5_goals": 8,
+          "over_0_5_ht": 10,
+          "over_0_5_ft": 6,
+          "clean_sheets": 8
+        },
+        "home": {
+          "played": 11,
+          "win": 3,
+          "draw": 4,
+          "lose": 4,
+          "goals": {
+            "for": 9,
+            "against": 11
+          },
+          "form_home": "LLWDW",
+          "avg_corners_home_per_game": 5.82,
+          "aproveitamento_home": 39.4,
+          "btts_home_matches": 3,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 4
+        },
+        "away": {
+          "played": 10,
+          "win": 4,
+          "draw": 2,
+          "lose": 4,
+          "goals": {
+            "for": 14,
+            "against": 12
+          },
+          "form_visitor": "DWDWL",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 3.5,
+          "aproveitamento_away": 46.7,
+          "over_2_5_goals_away": 4,
+          "over_0_5_ht_away": 6,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 4
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 9,
         "team": {
           "id": 3629,
           "name": "FC Lokomotiv Sofia 1929",
@@ -546,7 +614,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "team": {
           "id": 3627,
           "name": "POFK Botev Vratsa",
@@ -609,74 +677,6 @@
           "over_2_5_goals_away": 3,
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 4,
-          "clean_sheets_away": 4
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 10,
-        "team": {
-          "id": 9985,
-          "name": "FK Arda Kardzhali",
-          "logo": "https://cdn.footystats.org/img/teams/bulgaria-fk-arda-kardzhali.png"
-        },
-        "points": 24,
-        "goalsDiff": -1,
-        "group": "Bulgaria First League 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 20,
-          "win": 6,
-          "draw": 6,
-          "lose": 8,
-          "goals": {
-            "for": 21,
-            "against": 22
-          },
-          "form": "WDDWL",
-          "btts_matches": 5,
-          "avg_corners_per_game": 4.55,
-          "aproveitamento": 40.0,
-          "over_2_5_goals": 7,
-          "over_0_5_ht": 9,
-          "over_0_5_ft": 5,
-          "clean_sheets": 8
-        },
-        "home": {
-          "played": 10,
-          "win": 2,
-          "draw": 4,
-          "lose": 4,
-          "goals": {
-            "for": 7,
-            "against": 10
-          },
-          "form_home": "LLLWD",
-          "avg_corners_home_per_game": 5.6,
-          "aproveitamento_home": 33.3,
-          "btts_home_matches": 2,
-          "over_2_5_goals_home": 3,
-          "over_0_5_ht_home": 3,
-          "over_0_5_ft_home": 2,
-          "clean_sheets_home": 4
-        },
-        "away": {
-          "played": 10,
-          "win": 4,
-          "draw": 2,
-          "lose": 4,
-          "goals": {
-            "for": 14,
-            "against": 12
-          },
-          "form_visitor": "DWDWL",
-          "btts_away_matches": 3,
-          "avg_corners_away_per_game": 3.5,
-          "aproveitamento_away": 46.7,
-          "over_2_5_goals_away": 4,
-          "over_0_5_ht_away": 6,
-          "over_0_5_ft_away": 3,
           "clean_sheets_away": 4
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1247,6 +1247,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/bulgaria-martin-detelinov-petkov.png"
       },
       {
+        "jogador-nome": "Birsent Karagaren",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 5,
+        "jogador-assists": 1,
+        "jogador-partidas": 21,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/bulgaria-fk-arda-kardzhali.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/bulgaria-birsent-karagaren.png"
+      },
+      {
         "jogador-nome": "Nikolay Svetoslavov Zlatev",
         "jogador-posicao": "Forward",
         "jogador-gols": 5,
@@ -1263,15 +1272,6 @@
         "jogador-partidas": 18,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/bulgaria-pfc-lokomotiv-plovdiv.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-juan-esteban-perea-sanchez.png"
-      },
-      {
-        "jogador-nome": "Fhilip Chinemerem Ejike",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 5,
-        "jogador-assists": 0,
-        "jogador-partidas": 17,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/bulgaria-pfc-montana.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/-fhilip-chinemerem-ejike.png"
       }
     ]
   }
