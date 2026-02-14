@@ -684,6 +684,74 @@
       {
         "rank": 11,
         "team": {
+          "id": 11096,
+          "name": "Van Büyükşehir Belediyesi Spor Kulübü",
+          "logo": "https://cdn.footystats.org/img/teams/turkey-van-buyuksehir-belediyesi-spor-kulubu.png"
+        },
+        "points": 35,
+        "goalsDiff": 9,
+        "group": "Turkey 1. Lig 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 25,
+          "win": 9,
+          "draw": 8,
+          "lose": 8,
+          "goals": {
+            "for": 36,
+            "against": 27
+          },
+          "form": "DWLWD",
+          "btts_matches": 12,
+          "avg_corners_per_game": 3.92,
+          "aproveitamento": 46.7,
+          "over_2_5_goals": 12,
+          "over_0_5_ht": 10,
+          "over_0_5_ft": 14,
+          "clean_sheets": 8
+        },
+        "home": {
+          "played": 13,
+          "win": 6,
+          "draw": 3,
+          "lose": 4,
+          "goals": {
+            "for": 20,
+            "against": 10
+          },
+          "form_home": "LWLWW",
+          "avg_corners_home_per_game": 5.15,
+          "aproveitamento_home": 53.8,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 8,
+          "clean_sheets_home": 5
+        },
+        "away": {
+          "played": 12,
+          "win": 3,
+          "draw": 5,
+          "lose": 4,
+          "goals": {
+            "for": 16,
+            "against": 17
+          },
+          "form_visitor": "LWDLD",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 2.58,
+          "aproveitamento_away": 38.9,
+          "over_2_5_goals_away": 6,
+          "over_0_5_ht_away": 5,
+          "over_0_5_ft_away": 6,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 12,
+        "team": {
           "id": 1040,
           "name": "İstanbulspor AŞ",
           "logo": "https://cdn.footystats.org/img/teams/turkey-istanbulspor-as.png"
@@ -746,74 +814,6 @@
           "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 5,
           "clean_sheets_away": 4
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 12,
-        "team": {
-          "id": 11096,
-          "name": "Van Büyükşehir Belediyesi Spor Kulübü",
-          "logo": "https://cdn.footystats.org/img/teams/turkey-van-buyuksehir-belediyesi-spor-kulubu.png"
-        },
-        "points": 34,
-        "goalsDiff": 9,
-        "group": "Turkey 1. Lig 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 24,
-          "win": 9,
-          "draw": 7,
-          "lose": 8,
-          "goals": {
-            "for": 33,
-            "against": 24
-          },
-          "form": "LDWLW",
-          "btts_matches": 11,
-          "avg_corners_per_game": 3.92,
-          "aproveitamento": 47.2,
-          "over_2_5_goals": 11,
-          "over_0_5_ht": 9,
-          "over_0_5_ft": 13,
-          "clean_sheets": 8
-        },
-        "home": {
-          "played": 13,
-          "win": 6,
-          "draw": 3,
-          "lose": 4,
-          "goals": {
-            "for": 20,
-            "against": 10
-          },
-          "form_home": "LWLWW",
-          "avg_corners_home_per_game": 5.15,
-          "aproveitamento_home": 53.8,
-          "btts_home_matches": 5,
-          "over_2_5_goals_home": 6,
-          "over_0_5_ht_home": 5,
-          "over_0_5_ft_home": 8,
-          "clean_sheets_home": 5
-        },
-        "away": {
-          "played": 11,
-          "win": 3,
-          "draw": 4,
-          "lose": 4,
-          "goals": {
-            "for": 13,
-            "against": 14
-          },
-          "form_visitor": "LLWDL",
-          "btts_away_matches": 6,
-          "avg_corners_away_per_game": 2.45,
-          "aproveitamento_away": 39.4,
-          "over_2_5_goals_away": 5,
-          "over_0_5_ht_away": 4,
-          "over_0_5_ft_away": 5,
-          "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1096,44 +1096,44 @@
           "name": "Sivasspor",
           "logo": "https://cdn.footystats.org/img/teams/turkey-sivasspor.png"
         },
-        "points": 28,
+        "points": 29,
         "goalsDiff": 0,
         "group": "Turkey 1. Lig 20252026",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 24,
+          "played": 25,
           "win": 6,
-          "draw": 10,
+          "draw": 11,
           "lose": 8,
           "goals": {
-            "for": 24,
-            "against": 24
+            "for": 27,
+            "against": 27
           },
-          "form": "LWDDL",
-          "btts_matches": 11,
-          "avg_corners_per_game": 3.88,
-          "aproveitamento": 38.9,
-          "over_2_5_goals": 7,
-          "over_0_5_ht": 8,
+          "form": "WDDLD",
+          "btts_matches": 12,
+          "avg_corners_per_game": 3.96,
+          "aproveitamento": 38.7,
+          "over_2_5_goals": 8,
+          "over_0_5_ht": 9,
           "over_0_5_ft": 10,
           "clean_sheets": 9
         },
         "home": {
-          "played": 12,
+          "played": 13,
           "win": 5,
-          "draw": 6,
+          "draw": 7,
           "lose": 1,
           "goals": {
-            "for": 16,
-            "against": 8
+            "for": 19,
+            "against": 11
           },
-          "form_home": "DWLDD",
-          "avg_corners_home_per_game": 4.83,
-          "aproveitamento_home": 58.3,
-          "btts_home_matches": 5,
-          "over_2_5_goals_home": 2,
-          "over_0_5_ht_home": 5,
+          "form_home": "WLDDD",
+          "avg_corners_home_per_game": 4.92,
+          "aproveitamento_home": 56.4,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 6,
           "over_0_5_ft_home": 6,
           "clean_sheets_home": 6
         },
@@ -1441,8 +1441,8 @@
         "jogador-nome": "Iván Cédric Bikoue Embolo",
         "jogador-posicao": "Forward",
         "jogador-gols": 11,
-        "jogador-assists": 3,
-        "jogador-partidas": 22,
+        "jogador-assists": 5,
+        "jogador-partidas": 23,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/turkey-van-buyuksehir-belediyesi-spor-kulubu.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/spain-ivan-cedric.png"
       },
