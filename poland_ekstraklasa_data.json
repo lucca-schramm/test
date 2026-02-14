@@ -8,28 +8,28 @@
           "name": "SSA Jagiellonia Białystok",
           "logo": "https://cdn.footystats.org/img/teams/poland-ssa-jagiellonia-bialystok.png"
         },
-        "points": 35,
+        "points": 36,
         "goalsDiff": 13,
         "group": "Poland Ekstraklasa 20252026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 19,
+          "played": 20,
           "win": 10,
-          "draw": 5,
+          "draw": 6,
           "lose": 4,
           "goals": {
             "for": 36,
             "against": 23
           },
-          "form": "DLDWW",
+          "form": "LDWWD",
           "btts_matches": 13,
-          "avg_corners_per_game": 5.0,
-          "aproveitamento": 61.4,
+          "avg_corners_per_game": 5.05,
+          "aproveitamento": 60.0,
           "over_2_5_goals": 13,
           "over_0_5_ht": 13,
           "over_0_5_ft": 12,
-          "clean_sheets": 5
+          "clean_sheets": 6
         },
         "home": {
           "played": 8,
@@ -50,22 +50,22 @@
           "clean_sheets_home": 2
         },
         "away": {
-          "played": 11,
+          "played": 12,
           "win": 4,
-          "draw": 5,
+          "draw": 6,
           "lose": 2,
           "goals": {
             "for": 14,
             "against": 11
           },
-          "form_visitor": "WDLDW",
+          "form_visitor": "DLDWD",
           "btts_away_matches": 8,
-          "avg_corners_away_per_game": 5.0,
-          "aproveitamento_away": 51.5,
+          "avg_corners_away_per_game": 5.08,
+          "aproveitamento_away": 50.0,
           "over_2_5_goals_away": 6,
           "over_0_5_ht_away": 7,
           "over_0_5_ft_away": 6,
-          "clean_sheets_away": 3
+          "clean_sheets_away": 4
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -208,6 +208,74 @@
       {
         "rank": 4,
         "team": {
+          "id": 1223,
+          "name": "MKS Cracovia Kraków",
+          "logo": "https://cdn.footystats.org/img/teams/poland-mks-cracovia-krakow.png"
+        },
+        "points": 32,
+        "goalsDiff": 5,
+        "group": "Poland Ekstraklasa 20252026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 21,
+          "win": 8,
+          "draw": 8,
+          "lose": 5,
+          "goals": {
+            "for": 27,
+            "against": 22
+          },
+          "form": "DDWDD",
+          "btts_matches": 10,
+          "avg_corners_per_game": 4.14,
+          "aproveitamento": 50.8,
+          "over_2_5_goals": 10,
+          "over_0_5_ht": 9,
+          "over_0_5_ft": 14,
+          "clean_sheets": 10
+        },
+        "home": {
+          "played": 10,
+          "win": 4,
+          "draw": 5,
+          "lose": 1,
+          "goals": {
+            "for": 13,
+            "against": 8
+          },
+          "form_home": "WDLDD",
+          "avg_corners_home_per_game": 4.7,
+          "aproveitamento_home": 56.7,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 8,
+          "clean_sheets_home": 5
+        },
+        "away": {
+          "played": 11,
+          "win": 4,
+          "draw": 3,
+          "lose": 4,
+          "goals": {
+            "for": 14,
+            "against": 14
+          },
+          "form_visitor": "LWDWD",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 3.64,
+          "aproveitamento_away": 45.5,
+          "over_2_5_goals_away": 6,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 6,
+          "clean_sheets_away": 5
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 5,
+        "team": {
           "id": 1149,
           "name": "Zagłębie Lubin",
           "logo": "https://cdn.footystats.org/img/teams/poland-zaglebie-lubin.png"
@@ -216,7 +284,7 @@
         "goalsDiff": 6,
         "group": "Poland Ekstraklasa 20252026",
         "status": "same",
-        "description": "Copa Libertadores",
+        "description": "Copa Sul-Americana",
         "all": {
           "played": 20,
           "win": 8,
@@ -270,74 +338,6 @@
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 6,
           "clean_sheets_away": 2
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 5,
-        "team": {
-          "id": 1223,
-          "name": "MKS Cracovia Kraków",
-          "logo": "https://cdn.footystats.org/img/teams/poland-mks-cracovia-krakow.png"
-        },
-        "points": 31,
-        "goalsDiff": 5,
-        "group": "Poland Ekstraklasa 20252026",
-        "status": "same",
-        "description": "Copa Sul-Americana",
-        "all": {
-          "played": 20,
-          "win": 8,
-          "draw": 7,
-          "lose": 5,
-          "goals": {
-            "for": 27,
-            "against": 22
-          },
-          "form": "WDDWD",
-          "btts_matches": 10,
-          "avg_corners_per_game": 4.15,
-          "aproveitamento": 51.7,
-          "over_2_5_goals": 10,
-          "over_0_5_ht": 9,
-          "over_0_5_ft": 14,
-          "clean_sheets": 9
-        },
-        "home": {
-          "played": 9,
-          "win": 4,
-          "draw": 4,
-          "lose": 1,
-          "goals": {
-            "for": 13,
-            "against": 8
-          },
-          "form_home": "DWDLD",
-          "avg_corners_home_per_game": 4.78,
-          "aproveitamento_home": 59.3,
-          "btts_home_matches": 5,
-          "over_2_5_goals_home": 4,
-          "over_0_5_ht_home": 5,
-          "over_0_5_ft_home": 8,
-          "clean_sheets_home": 4
-        },
-        "away": {
-          "played": 11,
-          "win": 4,
-          "draw": 3,
-          "lose": 4,
-          "goals": {
-            "for": 14,
-            "against": 14
-          },
-          "form_visitor": "LWDWD",
-          "btts_away_matches": 5,
-          "avg_corners_away_per_game": 3.64,
-          "aproveitamento_away": 45.5,
-          "over_2_5_goals_away": 6,
-          "over_0_5_ht_away": 4,
-          "over_0_5_ft_away": 6,
-          "clean_sheets_away": 5
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1288,7 +1288,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 9,
         "jogador-assists": 2,
-        "jogador-partidas": 18,
+        "jogador-partidas": 19,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/poland-ssa-jagiellonia-bialystok.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/angola-afimico-pululu.png"
       },
