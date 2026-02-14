@@ -76,46 +76,46 @@
           "name": "KV Kortrijk",
           "logo": "https://cdn.footystats.org/img/teams/belgium-kv-kortrijk.png"
         },
-        "points": 48,
-        "goalsDiff": 18,
+        "points": 51,
+        "goalsDiff": 19,
         "group": "Belgium First Division B 20252026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 23,
-          "win": 15,
+          "played": 24,
+          "win": 16,
           "draw": 3,
           "lose": 5,
           "goals": {
-            "for": 42,
+            "for": 43,
             "against": 24
           },
-          "form": "LWLWL",
+          "form": "WLWLW",
           "btts_matches": 12,
-          "avg_corners_per_game": 6.52,
-          "aproveitamento": 69.6,
+          "avg_corners_per_game": 6.42,
+          "aproveitamento": 70.8,
           "over_2_5_goals": 11,
           "over_0_5_ht": 15,
-          "over_0_5_ft": 14,
-          "clean_sheets": 7
+          "over_0_5_ft": 15,
+          "clean_sheets": 8
         },
         "home": {
-          "played": 11,
-          "win": 9,
+          "played": 12,
+          "win": 10,
           "draw": 1,
           "lose": 1,
           "goals": {
-            "for": 25,
+            "for": 26,
             "against": 11
           },
           "form_home": "WWWWW",
-          "avg_corners_home_per_game": 6.55,
-          "aproveitamento_home": 84.8,
+          "avg_corners_home_per_game": 6.33,
+          "aproveitamento_home": 86.1,
           "btts_home_matches": 6,
           "over_2_5_goals_home": 5,
           "over_0_5_ht_home": 8,
-          "over_0_5_ft_home": 9,
-          "clean_sheets_home": 5
+          "over_0_5_ft_home": 10,
+          "clean_sheets_home": 6
         },
         "away": {
           "played": 12,
@@ -145,23 +145,23 @@
           "logo": "https://cdn.footystats.org/img/teams/belgium-kfco-beerschot-wilrijk.png"
         },
         "points": 44,
-        "goalsDiff": 11,
+        "goalsDiff": 10,
         "group": "Belgium First Division B 20252026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 23,
+          "played": 24,
           "win": 13,
           "draw": 5,
-          "lose": 5,
+          "lose": 6,
           "goals": {
             "for": 34,
-            "against": 23
+            "against": 24
           },
-          "form": "WDDWW",
+          "form": "DDWWL",
           "btts_matches": 14,
-          "avg_corners_per_game": 6.04,
-          "aproveitamento": 63.8,
+          "avg_corners_per_game": 6.0,
+          "aproveitamento": 61.1,
           "over_2_5_goals": 12,
           "over_0_5_ht": 8,
           "over_0_5_ft": 18,
@@ -186,18 +186,18 @@
           "clean_sheets_home": 4
         },
         "away": {
-          "played": 11,
+          "played": 12,
           "win": 7,
           "draw": 2,
-          "lose": 2,
+          "lose": 3,
           "goals": {
             "for": 17,
-            "against": 12
+            "against": 13
           },
-          "form_visitor": "WLLDW",
+          "form_visitor": "LLDWL",
           "btts_away_matches": 7,
-          "avg_corners_away_per_game": 6.0,
-          "aproveitamento_away": 69.7,
+          "avg_corners_away_per_game": 5.92,
+          "aproveitamento_away": 63.9,
           "over_2_5_goals_away": 6,
           "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 9,
@@ -349,23 +349,23 @@
           "logo": "https://cdn.footystats.org/img/teams/belgium-rfc-de-liege.png"
         },
         "points": 40,
-        "goalsDiff": 9,
+        "goalsDiff": 7,
         "group": "Belgium First Division B 20252026",
         "status": "same",
         "description": "Copa Sul-Americana",
         "all": {
-          "played": 23,
+          "played": 24,
           "win": 12,
           "draw": 4,
-          "lose": 7,
+          "lose": 8,
           "goals": {
             "for": 33,
-            "against": 24
+            "against": 26
           },
-          "form": "WDWDW",
+          "form": "DWDWL",
           "btts_matches": 8,
-          "avg_corners_per_game": 4.87,
-          "aproveitamento": 58.0,
+          "avg_corners_per_game": 4.96,
+          "aproveitamento": 55.6,
           "over_2_5_goals": 9,
           "over_0_5_ht": 14,
           "over_0_5_ft": 7,
@@ -390,18 +390,18 @@
           "clean_sheets_home": 4
         },
         "away": {
-          "played": 11,
+          "played": 12,
           "win": 5,
           "draw": 3,
-          "lose": 3,
+          "lose": 4,
           "goals": {
             "for": 12,
-            "against": 11
+            "against": 13
           },
-          "form_visitor": "LLWDD",
+          "form_visitor": "LWDDL",
           "btts_away_matches": 3,
-          "avg_corners_away_per_game": 4.45,
-          "aproveitamento_away": 54.5,
+          "avg_corners_away_per_game": 4.67,
+          "aproveitamento_away": 50.0,
           "over_2_5_goals_away": 4,
           "over_0_5_ht_away": 7,
           "over_0_5_ft_away": 1,
@@ -480,6 +480,74 @@
       {
         "rank": 8,
         "team": {
+          "id": 687576,
+          "name": "KSC Lokeren-Temse",
+          "logo": "https://cdn.footystats.org/img/teams/belgium-ksc-lokeren-temse.png"
+        },
+        "points": 33,
+        "goalsDiff": 1,
+        "group": "Belgium First Division B 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 24,
+          "win": 8,
+          "draw": 9,
+          "lose": 7,
+          "goals": {
+            "for": 33,
+            "against": 32
+          },
+          "form": "DDLDW",
+          "btts_matches": 17,
+          "avg_corners_per_game": 6.67,
+          "aproveitamento": 45.8,
+          "over_2_5_goals": 12,
+          "over_0_5_ht": 10,
+          "over_0_5_ft": 15,
+          "clean_sheets": 4
+        },
+        "home": {
+          "played": 11,
+          "win": 2,
+          "draw": 7,
+          "lose": 2,
+          "goals": {
+            "for": 16,
+            "against": 16
+          },
+          "form_home": "DDDDD",
+          "avg_corners_home_per_game": 6.09,
+          "aproveitamento_home": 39.4,
+          "btts_home_matches": 8,
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 8,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 13,
+          "win": 6,
+          "draw": 2,
+          "lose": 5,
+          "goals": {
+            "for": 17,
+            "against": 16
+          },
+          "form_visitor": "WWDLW",
+          "btts_away_matches": 9,
+          "avg_corners_away_per_game": 7.15,
+          "aproveitamento_away": 51.3,
+          "over_2_5_goals_away": 7,
+          "over_0_5_ht_away": 6,
+          "over_0_5_ft_away": 7,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 9,
+        "team": {
           "id": 782857,
           "name": "KAA Gent B",
           "logo": "https://cdn.footystats.org/img/teams/belgium-kaa-gent-b.png"
@@ -546,74 +614,6 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 9,
-        "team": {
-          "id": 687576,
-          "name": "KSC Lokeren-Temse",
-          "logo": "https://cdn.footystats.org/img/teams/belgium-ksc-lokeren-temse.png"
-        },
-        "points": 30,
-        "goalsDiff": 0,
-        "group": "Belgium First Division B 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 23,
-          "win": 7,
-          "draw": 9,
-          "lose": 7,
-          "goals": {
-            "for": 31,
-            "against": 31
-          },
-          "form": "WDDLD",
-          "btts_matches": 16,
-          "avg_corners_per_game": 6.83,
-          "aproveitamento": 43.5,
-          "over_2_5_goals": 11,
-          "over_0_5_ht": 9,
-          "over_0_5_ft": 15,
-          "clean_sheets": 4
-        },
-        "home": {
-          "played": 11,
-          "win": 2,
-          "draw": 7,
-          "lose": 2,
-          "goals": {
-            "for": 16,
-            "against": 16
-          },
-          "form_home": "DDDDD",
-          "avg_corners_home_per_game": 6.09,
-          "aproveitamento_home": 39.4,
-          "btts_home_matches": 8,
-          "over_2_5_goals_home": 5,
-          "over_0_5_ht_home": 4,
-          "over_0_5_ft_home": 8,
-          "clean_sheets_home": 2
-        },
-        "away": {
-          "played": 12,
-          "win": 5,
-          "draw": 2,
-          "lose": 5,
-          "goals": {
-            "for": 15,
-            "against": 15
-          },
-          "form_visitor": "WWWDL",
-          "btts_away_matches": 8,
-          "avg_corners_away_per_game": 7.5,
-          "aproveitamento_away": 47.2,
-          "over_2_5_goals_away": 6,
-          "over_0_5_ht_away": 5,
-          "over_0_5_ft_away": 7,
-          "clean_sheets_away": 2
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
         "rank": 10,
         "team": {
           "id": 669393,
@@ -621,43 +621,43 @@
           "logo": "https://cdn.footystats.org/img/teams/belgium-racing-white-daring-molenbeek-47.png"
         },
         "points": 27,
-        "goalsDiff": -2,
+        "goalsDiff": -3,
         "group": "Belgium First Division B 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 23,
+          "played": 24,
           "win": 7,
           "draw": 6,
-          "lose": 10,
+          "lose": 11,
           "goals": {
-            "for": 36,
-            "against": 38
+            "for": 37,
+            "against": 40
           },
-          "form": "LLWWD",
-          "btts_matches": 12,
-          "avg_corners_per_game": 3.35,
-          "aproveitamento": 39.1,
-          "over_2_5_goals": 13,
-          "over_0_5_ht": 13,
+          "form": "LWWDL",
+          "btts_matches": 13,
+          "avg_corners_per_game": 3.42,
+          "aproveitamento": 37.5,
+          "over_2_5_goals": 14,
+          "over_0_5_ht": 14,
           "over_0_5_ft": 12,
           "clean_sheets": 6
         },
         "home": {
-          "played": 12,
+          "played": 13,
           "win": 3,
           "draw": 3,
-          "lose": 6,
+          "lose": 7,
           "goals": {
-            "for": 20,
-            "against": 23
+            "for": 21,
+            "against": 25
           },
-          "form_home": "LDLLW",
-          "avg_corners_home_per_game": 3.58,
-          "aproveitamento_home": 33.3,
-          "btts_home_matches": 7,
-          "over_2_5_goals_home": 8,
-          "over_0_5_ht_home": 8,
+          "form_home": "DLLWL",
+          "avg_corners_home_per_game": 3.69,
+          "aproveitamento_home": 30.8,
+          "btts_home_matches": 8,
+          "over_2_5_goals_home": 9,
+          "over_0_5_ht_home": 9,
           "over_0_5_ft_home": 6,
           "clean_sheets_home": 2
         },
@@ -820,6 +820,74 @@
       {
         "rank": 13,
         "team": {
+          "id": 747277,
+          "name": "Jong KRC Genk",
+          "logo": "https://cdn.footystats.org/img/teams/belgium-jong-krc-genk.png"
+        },
+        "points": 23,
+        "goalsDiff": -15,
+        "group": "Belgium First Division B 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 23,
+          "win": 6,
+          "draw": 5,
+          "lose": 12,
+          "goals": {
+            "for": 30,
+            "against": 45
+          },
+          "form": "LLWDW",
+          "btts_matches": 14,
+          "avg_corners_per_game": 3.83,
+          "aproveitamento": 33.3,
+          "over_2_5_goals": 14,
+          "over_0_5_ht": 11,
+          "over_0_5_ft": 10,
+          "clean_sheets": 4
+        },
+        "home": {
+          "played": 12,
+          "win": 4,
+          "draw": 1,
+          "lose": 7,
+          "goals": {
+            "for": 16,
+            "against": 22
+          },
+          "form_home": "LLLWW",
+          "avg_corners_home_per_game": 3.67,
+          "aproveitamento_home": 36.1,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 6,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 11,
+          "win": 2,
+          "draw": 4,
+          "lose": 5,
+          "goals": {
+            "for": 14,
+            "against": 23
+          },
+          "form_visitor": "DLDLD",
+          "btts_away_matches": 8,
+          "avg_corners_away_per_game": 4.0,
+          "aproveitamento_away": 30.3,
+          "over_2_5_goals_away": 8,
+          "over_0_5_ht_away": 5,
+          "over_0_5_ft_away": 6,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 14,
+        "team": {
           "id": 747276,
           "name": "RSC Anderlecht Futures",
           "logo": "https://cdn.footystats.org/img/teams/belgium-rsc-anderlecht-futures.png"
@@ -882,74 +950,6 @@
           "over_0_5_ht_away": 5,
           "over_0_5_ft_away": 7,
           "clean_sheets_away": 3
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 14,
-        "team": {
-          "id": 747277,
-          "name": "Jong KRC Genk",
-          "logo": "https://cdn.footystats.org/img/teams/belgium-jong-krc-genk.png"
-        },
-        "points": 20,
-        "goalsDiff": -17,
-        "group": "Belgium First Division B 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 22,
-          "win": 5,
-          "draw": 5,
-          "lose": 12,
-          "goals": {
-            "for": 28,
-            "against": 45
-          },
-          "form": "LLLWD",
-          "btts_matches": 14,
-          "avg_corners_per_game": 3.82,
-          "aproveitamento": 30.3,
-          "over_2_5_goals": 14,
-          "over_0_5_ht": 10,
-          "over_0_5_ft": 10,
-          "clean_sheets": 3
-        },
-        "home": {
-          "played": 11,
-          "win": 3,
-          "draw": 1,
-          "lose": 7,
-          "goals": {
-            "for": 14,
-            "against": 22
-          },
-          "form_home": "WLLLW",
-          "avg_corners_home_per_game": 3.64,
-          "aproveitamento_home": 30.3,
-          "btts_home_matches": 6,
-          "over_2_5_goals_home": 6,
-          "over_0_5_ht_home": 5,
-          "over_0_5_ft_home": 4,
-          "clean_sheets_home": 2
-        },
-        "away": {
-          "played": 11,
-          "win": 2,
-          "draw": 4,
-          "lose": 5,
-          "goals": {
-            "for": 14,
-            "against": 23
-          },
-          "form_visitor": "DLDLD",
-          "btts_away_matches": 8,
-          "avg_corners_away_per_game": 4.0,
-          "aproveitamento_away": 30.3,
-          "over_2_5_goals_away": 8,
-          "over_0_5_ht_away": 5,
-          "over_0_5_ft_away": 6,
-          "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1202,7 +1202,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 11,
         "jogador-assists": 9,
-        "jogador-partidas": 22,
+        "jogador-partidas": 23,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/belgium-kv-kortrijk.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/guadeloupe-thierry-ambrose.png"
       },
@@ -1211,7 +1211,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 10,
         "jogador-assists": 0,
-        "jogador-partidas": 23,
+        "jogador-partidas": 24,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/belgium-kv-kortrijk.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/belgium-jellert-van-landschoot.png"
       },
@@ -1229,7 +1229,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 9,
         "jogador-assists": 3,
-        "jogador-partidas": 17,
+        "jogador-partidas": 18,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/belgium-kfco-beerschot-wilrijk.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-arnold-vula.png"
       },
