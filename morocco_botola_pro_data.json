@@ -344,6 +344,74 @@
       {
         "rank": 6,
         "team": {
+          "id": 2538,
+          "name": "Difaâ Hassani d'El Jadida",
+          "logo": "https://cdn.footystats.org/img/teams/morocco-difaa-hassani-del-jadida.png"
+        },
+        "points": 16,
+        "goalsDiff": -3,
+        "group": "Morocco Botola Pro 20252026",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 11,
+          "win": 4,
+          "draw": 4,
+          "lose": 3,
+          "goals": {
+            "for": 8,
+            "against": 11
+          },
+          "form": "WWWDW",
+          "btts_matches": 3,
+          "avg_corners_per_game": 2.82,
+          "aproveitamento": 48.5,
+          "over_2_5_goals": 4,
+          "over_0_5_ht": 3,
+          "over_0_5_ft": 4,
+          "clean_sheets": 6
+        },
+        "home": {
+          "played": 7,
+          "win": 2,
+          "draw": 3,
+          "lose": 2,
+          "goals": {
+            "for": 4,
+            "against": 8
+          },
+          "form_home": "DLWDW",
+          "avg_corners_home_per_game": 2.71,
+          "aproveitamento_home": 42.9,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 2,
+          "clean_sheets_home": 4
+        },
+        "away": {
+          "played": 4,
+          "win": 2,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 4,
+            "against": 3
+          },
+          "form_visitor": "DLWW",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 3.0,
+          "aproveitamento_away": 58.3,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 7,
+        "team": {
           "id": 2555,
           "name": "Olympique Dcheïra",
           "logo": "https://cdn.footystats.org/img/teams/morocco-olympique-dcheira.png"
@@ -352,7 +420,7 @@
         "goalsDiff": -1,
         "group": "Morocco Botola Pro 20252026",
         "status": "same",
-        "description": "Copa Sul-Americana",
+        "description": "",
         "all": {
           "played": 11,
           "win": 4,
@@ -410,7 +478,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "team": {
           "id": 2531,
           "name": "Hassania Union Sport d'Agadir",
@@ -474,74 +542,6 @@
           "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 2,
           "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 8,
-        "team": {
-          "id": 2538,
-          "name": "Difaâ Hassani d'El Jadida",
-          "logo": "https://cdn.footystats.org/img/teams/morocco-difaa-hassani-del-jadida.png"
-        },
-        "points": 13,
-        "goalsDiff": -4,
-        "group": "Morocco Botola Pro 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 10,
-          "win": 3,
-          "draw": 4,
-          "lose": 3,
-          "goals": {
-            "for": 7,
-            "against": 11
-          },
-          "form": "LWWWD",
-          "btts_matches": 3,
-          "avg_corners_per_game": 2.8,
-          "aproveitamento": 43.3,
-          "over_2_5_goals": 4,
-          "over_0_5_ht": 3,
-          "over_0_5_ft": 3,
-          "clean_sheets": 5
-        },
-        "home": {
-          "played": 6,
-          "win": 1,
-          "draw": 3,
-          "lose": 2,
-          "goals": {
-            "for": 3,
-            "against": 8
-          },
-          "form_home": "LDLWD",
-          "avg_corners_home_per_game": 2.67,
-          "aproveitamento_home": 33.3,
-          "btts_home_matches": 1,
-          "over_2_5_goals_home": 2,
-          "over_0_5_ht_home": 2,
-          "over_0_5_ft_home": 1,
-          "clean_sheets_home": 3
-        },
-        "away": {
-          "played": 4,
-          "win": 2,
-          "draw": 1,
-          "lose": 1,
-          "goals": {
-            "for": 4,
-            "against": 3
-          },
-          "form_visitor": "DLWW",
-          "btts_away_matches": 2,
-          "avg_corners_away_per_game": 3.0,
-          "aproveitamento_away": 58.3,
-          "over_2_5_goals_away": 2,
-          "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 2,
-          "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -961,23 +961,23 @@
           "logo": "https://cdn.footystats.org/img/teams/morocco-uts-rabat.png"
         },
         "points": 7,
-        "goalsDiff": -7,
+        "goalsDiff": -8,
         "group": "Morocco Botola Pro 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 11,
+          "played": 12,
           "win": 0,
           "draw": 7,
-          "lose": 4,
+          "lose": 5,
           "goals": {
             "for": 9,
-            "against": 16
+            "against": 17
           },
-          "form": "LLDDL",
+          "form": "LDDLL",
           "btts_matches": 8,
-          "avg_corners_per_game": 2.55,
-          "aproveitamento": 21.2,
+          "avg_corners_per_game": 3.17,
+          "aproveitamento": 19.4,
           "over_2_5_goals": 3,
           "over_0_5_ht": 4,
           "over_0_5_ft": 5,
@@ -1002,18 +1002,18 @@
           "clean_sheets_home": 0
         },
         "away": {
-          "played": 5,
+          "played": 6,
           "win": 0,
           "draw": 3,
-          "lose": 2,
+          "lose": 3,
           "goals": {
             "for": 3,
-            "against": 7
+            "against": 8
           },
-          "form_visitor": "DDLLD",
+          "form_visitor": "DLLDL",
           "btts_away_matches": 3,
-          "avg_corners_away_per_game": 2.6,
-          "aproveitamento_away": 20.0,
+          "avg_corners_away_per_game": 3.83,
+          "aproveitamento_away": 16.7,
           "over_2_5_goals_away": 1,
           "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 2,
@@ -1098,7 +1098,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 156,
         "jogador-assists": 0,
-        "jogador-partidas": 193,
+        "jogador-partidas": 194,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/morocco-ittihad-riadhi-de-tanger.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-jogador_42458.png"
       },
