@@ -140,6 +140,74 @@
       {
         "rank": 3,
         "team": {
+          "id": 120,
+          "name": "AFC Ajax",
+          "logo": "https://cdn.footystats.org/img/teams/netherlands-afc-ajax.png"
+        },
+        "points": 42,
+        "goalsDiff": 16,
+        "group": "Netherlands Eredivisie 20252026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 23,
+          "win": 11,
+          "draw": 9,
+          "lose": 3,
+          "goals": {
+            "for": 46,
+            "against": 30
+          },
+          "form": "DWDDW",
+          "btts_matches": 17,
+          "avg_corners_per_game": 5.04,
+          "aproveitamento": 60.9,
+          "over_2_5_goals": 14,
+          "over_0_5_ht": 17,
+          "over_0_5_ft": 16,
+          "clean_sheets": 5
+        },
+        "home": {
+          "played": 12,
+          "win": 8,
+          "draw": 2,
+          "lose": 2,
+          "goals": {
+            "for": 23,
+            "against": 10
+          },
+          "form_home": "WWDWW",
+          "avg_corners_home_per_game": 5.58,
+          "aproveitamento_home": 72.2,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 10,
+          "over_0_5_ft_home": 8,
+          "clean_sheets_home": 5
+        },
+        "away": {
+          "played": 11,
+          "win": 3,
+          "draw": 7,
+          "lose": 1,
+          "goals": {
+            "for": 23,
+            "against": 20
+          },
+          "form_visitor": "WDWDD",
+          "btts_away_matches": 11,
+          "avg_corners_away_per_game": 4.45,
+          "aproveitamento_away": 48.5,
+          "over_2_5_goals_away": 9,
+          "over_0_5_ht_away": 7,
+          "over_0_5_ft_away": 8,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 4,
+        "team": {
           "id": 379,
           "name": "Nijmegen Eendracht Combinatie",
           "logo": "https://cdn.footystats.org/img/teams/netherlands-nijmegen-eendracht-combinatie.png"
@@ -201,74 +269,6 @@
           "over_2_5_goals_away": 9,
           "over_0_5_ht_away": 8,
           "over_0_5_ft_away": 9,
-          "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 4,
-        "team": {
-          "id": 120,
-          "name": "AFC Ajax",
-          "logo": "https://cdn.footystats.org/img/teams/netherlands-afc-ajax.png"
-        },
-        "points": 39,
-        "goalsDiff": 13,
-        "group": "Netherlands Eredivisie 20252026",
-        "status": "same",
-        "description": "Copa Libertadores",
-        "all": {
-          "played": 22,
-          "win": 10,
-          "draw": 9,
-          "lose": 3,
-          "goals": {
-            "for": 42,
-            "against": 29
-          },
-          "form": "WDWDD",
-          "btts_matches": 16,
-          "avg_corners_per_game": 5.09,
-          "aproveitamento": 59.1,
-          "over_2_5_goals": 13,
-          "over_0_5_ht": 16,
-          "over_0_5_ft": 15,
-          "clean_sheets": 5
-        },
-        "home": {
-          "played": 11,
-          "win": 7,
-          "draw": 2,
-          "lose": 2,
-          "goals": {
-            "for": 19,
-            "against": 9
-          },
-          "form_home": "LWWDW",
-          "avg_corners_home_per_game": 5.73,
-          "aproveitamento_home": 69.7,
-          "btts_home_matches": 5,
-          "over_2_5_goals_home": 4,
-          "over_0_5_ht_home": 9,
-          "over_0_5_ft_home": 7,
-          "clean_sheets_home": 5
-        },
-        "away": {
-          "played": 11,
-          "win": 3,
-          "draw": 7,
-          "lose": 1,
-          "goals": {
-            "for": 23,
-            "against": 20
-          },
-          "form_visitor": "WDWDD",
-          "btts_away_matches": 11,
-          "avg_corners_away_per_game": 4.45,
-          "aproveitamento_away": 48.5,
-          "over_2_5_goals_away": 9,
-          "over_0_5_ht_away": 7,
-          "over_0_5_ft_away": 8,
           "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -689,25 +689,25 @@
           "logo": "https://cdn.footystats.org/img/teams/netherlands-fortuna-sittard.png"
         },
         "points": 26,
-        "goalsDiff": -5,
+        "goalsDiff": -8,
         "group": "Netherlands Eredivisie 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 22,
+          "played": 23,
           "win": 7,
           "draw": 5,
-          "lose": 10,
+          "lose": 11,
           "goals": {
-            "for": 33,
-            "against": 38
+            "for": 34,
+            "against": 42
           },
-          "form": "DLWLD",
-          "btts_matches": 16,
-          "avg_corners_per_game": 4.55,
-          "aproveitamento": 39.4,
-          "over_2_5_goals": 14,
-          "over_0_5_ht": 13,
+          "form": "LWLDL",
+          "btts_matches": 17,
+          "avg_corners_per_game": 4.35,
+          "aproveitamento": 37.7,
+          "over_2_5_goals": 15,
+          "over_0_5_ht": 14,
           "over_0_5_ft": 12,
           "clean_sheets": 3
         },
@@ -730,20 +730,20 @@
           "clean_sheets_home": 3
         },
         "away": {
-          "played": 11,
+          "played": 12,
           "win": 2,
           "draw": 2,
-          "lose": 7,
+          "lose": 8,
           "goals": {
-            "for": 14,
-            "against": 21
+            "for": 15,
+            "against": 25
           },
-          "form_visitor": "DLDWL",
-          "btts_away_matches": 8,
-          "avg_corners_away_per_game": 3.91,
-          "aproveitamento_away": 24.2,
-          "over_2_5_goals_away": 7,
-          "over_0_5_ht_away": 4,
+          "form_visitor": "LDWLL",
+          "btts_away_matches": 9,
+          "avg_corners_away_per_game": 3.58,
+          "aproveitamento_away": 22.2,
+          "over_2_5_goals_away": 8,
+          "over_0_5_ht_away": 5,
           "over_0_5_ft_away": 6,
           "clean_sheets_away": 0
         },
@@ -1239,6 +1239,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/japan-ayase-ueda.png"
       },
       {
+        "jogador-nome": "Mika Marcel Godts",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 12,
+        "jogador-assists": 8,
+        "jogador-partidas": 21,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/netherlands-afc-ajax.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/belgium-mika-godts.png"
+      },
+      {
         "jogador-nome": "Guus Berend Til",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 12,
@@ -1264,15 +1273,6 @@
         "jogador-partidas": 19,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/netherlands-psv-eindhoven.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/morocco-ismael-saibari.png"
-      },
-      {
-        "jogador-nome": "Mika Marcel Godts",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 10,
-        "jogador-assists": 7,
-        "jogador-partidas": 20,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/netherlands-afc-ajax.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/belgium-mika-godts.png"
       },
       {
         "jogador-nome": "Koen Kostons",
@@ -1351,7 +1351,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 8,
         "jogador-assists": 0,
-        "jogador-partidas": 19,
+        "jogador-partidas": 20,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/netherlands-fortuna-sittard.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/netherlands-kaj-sierhuis.png"
       },
