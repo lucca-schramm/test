@@ -77,40 +77,40 @@
           "logo": "https://cdn.footystats.org/img/teams/bulgaria-fk-cska-1948-sofia.png"
         },
         "points": 40,
-        "goalsDiff": 12,
+        "goalsDiff": 10,
         "group": "Bulgaria First League 20252026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 20,
+          "played": 21,
           "win": 12,
           "draw": 4,
-          "lose": 4,
+          "lose": 5,
           "goals": {
             "for": 32,
-            "against": 20
+            "against": 22
           },
-          "form": "LWWDW",
+          "form": "WWDWL",
           "btts_matches": 11,
-          "avg_corners_per_game": 5.35,
-          "aproveitamento": 66.7,
+          "avg_corners_per_game": 5.1,
+          "aproveitamento": 63.5,
           "over_2_5_goals": 11,
           "over_0_5_ht": 12,
           "over_0_5_ft": 11,
           "clean_sheets": 7
         },
         "home": {
-          "played": 10,
+          "played": 11,
           "win": 7,
           "draw": 2,
-          "lose": 1,
+          "lose": 2,
           "goals": {
             "for": 20,
-            "against": 10
+            "against": 12
           },
-          "form_home": "DWLWD",
-          "avg_corners_home_per_game": 5.2,
-          "aproveitamento_home": 76.7,
+          "form_home": "WLWDL",
+          "avg_corners_home_per_game": 4.73,
+          "aproveitamento_home": 69.7,
           "btts_home_matches": 6,
           "over_2_5_goals_home": 6,
           "over_0_5_ht_home": 7,
@@ -212,28 +212,28 @@
           "name": "PFC CSKA Sofia",
           "logo": "https://cdn.footystats.org/img/teams/bulgaria-pfc-cska-sofia.png"
         },
-        "points": 34,
-        "goalsDiff": 13,
+        "points": 37,
+        "goalsDiff": 15,
         "group": "Bulgaria First League 20252026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 20,
-          "win": 9,
+          "played": 21,
+          "win": 10,
           "draw": 7,
           "lose": 4,
           "goals": {
-            "for": 30,
+            "for": 32,
             "against": 17
           },
-          "form": "WWWLW",
+          "form": "WWLWW",
           "btts_matches": 11,
-          "avg_corners_per_game": 6.35,
-          "aproveitamento": 56.7,
+          "avg_corners_per_game": 6.19,
+          "aproveitamento": 58.7,
           "over_2_5_goals": 8,
-          "over_0_5_ht": 11,
-          "over_0_5_ft": 10,
-          "clean_sheets": 5
+          "over_0_5_ht": 12,
+          "over_0_5_ft": 11,
+          "clean_sheets": 6
         },
         "home": {
           "played": 10,
@@ -254,22 +254,22 @@
           "clean_sheets_home": 2
         },
         "away": {
-          "played": 10,
-          "win": 3,
+          "played": 11,
+          "win": 4,
           "draw": 4,
           "lose": 3,
           "goals": {
-            "for": 11,
+            "for": 13,
             "against": 9
           },
-          "form_visitor": "DWWWL",
+          "form_visitor": "WWWLW",
           "btts_away_matches": 4,
-          "avg_corners_away_per_game": 5.7,
-          "aproveitamento_away": 43.3,
+          "avg_corners_away_per_game": 5.45,
+          "aproveitamento_away": 48.5,
           "over_2_5_goals_away": 2,
-          "over_0_5_ht_away": 5,
-          "over_0_5_ft_away": 4,
-          "clean_sheets_away": 3
+          "over_0_5_ht_away": 6,
+          "over_0_5_ft_away": 5,
+          "clean_sheets_away": 4
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1107,7 +1107,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 11,
         "jogador-assists": 2,
-        "jogador-partidas": 18,
+        "jogador-partidas": 19,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/bulgaria-fk-cska-1948-sofia.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/germany-mamadou-diallo.png"
       },
@@ -1116,7 +1116,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 10,
         "jogador-assists": 1,
-        "jogador-partidas": 19,
+        "jogador-partidas": 20,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/bulgaria-pfc-beroe-stara-zagora.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/argentina-santiago-leandro-godoy.png"
       },
@@ -1170,7 +1170,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 7,
         "jogador-assists": 2,
-        "jogador-partidas": 20,
+        "jogador-partidas": 21,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/bulgaria-pfc-cska-sofia.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/cyprus-ioannis-pittas.png"
       },
