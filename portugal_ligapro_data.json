@@ -276,6 +276,74 @@
       {
         "rank": 5,
         "team": {
+          "id": 166,
+          "name": "CD Feirense",
+          "logo": "https://cdn.footystats.org/img/teams/portugal-cd-feirense.png"
+        },
+        "points": 31,
+        "goalsDiff": 2,
+        "group": "Portugal LigaPro 20252026",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 22,
+          "win": 8,
+          "draw": 7,
+          "lose": 7,
+          "goals": {
+            "for": 28,
+            "against": 26
+          },
+          "form": "WWDLW",
+          "btts_matches": 12,
+          "avg_corners_per_game": 5.95,
+          "aproveitamento": 47.0,
+          "over_2_5_goals": 9,
+          "over_0_5_ht": 9,
+          "over_0_5_ft": 12,
+          "clean_sheets": 6
+        },
+        "home": {
+          "played": 11,
+          "win": 4,
+          "draw": 4,
+          "lose": 3,
+          "goals": {
+            "for": 13,
+            "against": 10
+          },
+          "form_home": "LDWDW",
+          "avg_corners_home_per_game": 6.18,
+          "aproveitamento_home": 48.5,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 7,
+          "clean_sheets_home": 4
+        },
+        "away": {
+          "played": 11,
+          "win": 4,
+          "draw": 3,
+          "lose": 4,
+          "goals": {
+            "for": 15,
+            "against": 16
+          },
+          "form_visitor": "DWWWL",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 5.73,
+          "aproveitamento_away": 45.5,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 6,
+          "over_0_5_ft_away": 5,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 6,
+        "team": {
           "id": 4894,
           "name": "FC Lusitania de Lourosa",
           "logo": "https://cdn.footystats.org/img/teams/portugal-fc-lusitania-de-lourosa.png"
@@ -342,7 +410,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "team": {
           "id": 1037,
           "name": "Porto II",
@@ -352,7 +420,7 @@
         "goalsDiff": -4,
         "group": "Portugal LigaPro 20252026",
         "status": "same",
-        "description": "Copa Sul-Americana",
+        "description": "",
         "all": {
           "played": 21,
           "win": 9,
@@ -410,7 +478,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "team": {
           "id": 4841,
           "name": "FC Vizela",
@@ -474,74 +542,6 @@
           "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 4,
           "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 8,
-        "team": {
-          "id": 166,
-          "name": "CD Feirense",
-          "logo": "https://cdn.footystats.org/img/teams/portugal-cd-feirense.png"
-        },
-        "points": 28,
-        "goalsDiff": 1,
-        "group": "Portugal LigaPro 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 21,
-          "win": 7,
-          "draw": 7,
-          "lose": 7,
-          "goals": {
-            "for": 27,
-            "against": 26
-          },
-          "form": "WWWDL",
-          "btts_matches": 12,
-          "avg_corners_per_game": 6.14,
-          "aproveitamento": 44.4,
-          "over_2_5_goals": 9,
-          "over_0_5_ht": 9,
-          "over_0_5_ft": 11,
-          "clean_sheets": 5
-        },
-        "home": {
-          "played": 10,
-          "win": 3,
-          "draw": 4,
-          "lose": 3,
-          "goals": {
-            "for": 12,
-            "against": 10
-          },
-          "form_home": "DLDWD",
-          "avg_corners_home_per_game": 6.6,
-          "aproveitamento_home": 43.3,
-          "btts_home_matches": 5,
-          "over_2_5_goals_home": 4,
-          "over_0_5_ht_home": 3,
-          "over_0_5_ft_home": 6,
-          "clean_sheets_home": 3
-        },
-        "away": {
-          "played": 11,
-          "win": 4,
-          "draw": 3,
-          "lose": 4,
-          "goals": {
-            "for": 15,
-            "against": 16
-          },
-          "form_visitor": "DWWWL",
-          "btts_away_matches": 7,
-          "avg_corners_away_per_game": 5.73,
-          "aproveitamento_away": 45.5,
-          "over_2_5_goals_away": 5,
-          "over_0_5_ht_away": 6,
-          "over_0_5_ft_away": 5,
-          "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -621,23 +621,23 @@
           "logo": "https://cdn.footystats.org/img/teams/portugal-gd-chaves.png"
         },
         "points": 27,
-        "goalsDiff": 3,
+        "goalsDiff": 2,
         "group": "Portugal LigaPro 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 21,
+          "played": 22,
           "win": 7,
           "draw": 6,
-          "lose": 8,
+          "lose": 9,
           "goals": {
             "for": 23,
-            "against": 20
+            "against": 21
           },
-          "form": "LLDLL",
+          "form": "LDLLL",
           "btts_matches": 8,
-          "avg_corners_per_game": 4.9,
-          "aproveitamento": 42.9,
+          "avg_corners_per_game": 4.82,
+          "aproveitamento": 40.9,
           "over_2_5_goals": 5,
           "over_0_5_ht": 11,
           "over_0_5_ft": 8,
@@ -662,18 +662,18 @@
           "clean_sheets_home": 3
         },
         "away": {
-          "played": 10,
+          "played": 11,
           "win": 5,
           "draw": 1,
-          "lose": 4,
+          "lose": 5,
           "goals": {
             "for": 13,
-            "against": 9
+            "against": 10
           },
-          "form_visitor": "WWWLL",
+          "form_visitor": "WWLLL",
           "btts_away_matches": 3,
-          "avg_corners_away_per_game": 4.5,
-          "aproveitamento_away": 53.3,
+          "avg_corners_away_per_game": 4.36,
+          "aproveitamento_away": 48.5,
           "over_2_5_goals_away": 3,
           "over_0_5_ht_away": 6,
           "over_0_5_ft_away": 4,
@@ -1270,7 +1270,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 8,
         "jogador-assists": 0,
-        "jogador-partidas": 20,
+        "jogador-partidas": 21,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/portugal-gd-chaves.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/portugal-roberto-porfirio-maximiano-rodrigo.png"
       },
