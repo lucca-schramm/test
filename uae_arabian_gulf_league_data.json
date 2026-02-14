@@ -76,45 +76,45 @@
           "name": "Al Ain SCC",
           "logo": "https://cdn.footystats.org/img/teams/uae-al-ain-scc.png"
         },
-        "points": 37,
+        "points": 38,
         "goalsDiff": 20,
         "group": "UAE Arabian Gulf League 20252026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 15,
+          "played": 16,
           "win": 11,
-          "draw": 4,
+          "draw": 5,
           "lose": 0,
           "goals": {
-            "for": 31,
-            "against": 11
+            "for": 32,
+            "against": 12
           },
-          "form": "WWDWW",
-          "btts_matches": 8,
-          "avg_corners_per_game": 5.53,
-          "aproveitamento": 82.2,
+          "form": "WDWWD",
+          "btts_matches": 9,
+          "avg_corners_per_game": 5.75,
+          "aproveitamento": 79.2,
           "over_2_5_goals": 9,
           "over_0_5_ht": 9,
-          "over_0_5_ft": 13,
+          "over_0_5_ft": 14,
           "clean_sheets": 7
         },
         "home": {
-          "played": 7,
+          "played": 8,
           "win": 5,
-          "draw": 2,
+          "draw": 3,
           "lose": 0,
           "goals": {
-            "for": 15,
-            "against": 4
+            "for": 16,
+            "against": 5
           },
-          "form_home": "WDWWD",
-          "avg_corners_home_per_game": 6.14,
-          "aproveitamento_home": 81.0,
-          "btts_home_matches": 3,
+          "form_home": "DWWDD",
+          "avg_corners_home_per_game": 6.5,
+          "aproveitamento_home": 75.0,
+          "btts_home_matches": 4,
           "over_2_5_goals_home": 4,
           "over_0_5_ht_home": 6,
-          "over_0_5_ft_home": 6,
+          "over_0_5_ft_home": 7,
           "clean_sheets_home": 4
         },
         "away": {
@@ -344,6 +344,74 @@
       {
         "rank": 6,
         "team": {
+          "id": 4402,
+          "name": "Al Nasr SC Dubai",
+          "logo": "https://cdn.footystats.org/img/teams/uae-al-nasr-sc-dubai.png"
+        },
+        "points": 21,
+        "goalsDiff": -1,
+        "group": "UAE Arabian Gulf League 20252026",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 16,
+          "win": 5,
+          "draw": 6,
+          "lose": 5,
+          "goals": {
+            "for": 19,
+            "against": 20
+          },
+          "form": "LDLDD",
+          "btts_matches": 9,
+          "avg_corners_per_game": 4.62,
+          "aproveitamento": 43.8,
+          "over_2_5_goals": 6,
+          "over_0_5_ht": 9,
+          "over_0_5_ft": 6,
+          "clean_sheets": 5
+        },
+        "home": {
+          "played": 8,
+          "win": 2,
+          "draw": 3,
+          "lose": 3,
+          "goals": {
+            "for": 9,
+            "against": 11
+          },
+          "form_home": "WDLLD",
+          "avg_corners_home_per_game": 4.88,
+          "aproveitamento_home": 37.5,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 2,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 8,
+          "win": 3,
+          "draw": 3,
+          "lose": 2,
+          "goals": {
+            "for": 10,
+            "against": 9
+          },
+          "form_visitor": "LWWDD",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 4.38,
+          "aproveitamento_away": 50.0,
+          "over_2_5_goals_away": 4,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 7,
+        "team": {
           "id": 4400,
           "name": "Ajman Club",
           "logo": "https://cdn.footystats.org/img/teams/uae-ajman-club.png"
@@ -352,7 +420,7 @@
         "goalsDiff": -4,
         "group": "UAE Arabian Gulf League 20252026",
         "status": "same",
-        "description": "Copa Sul-Americana",
+        "description": "",
         "all": {
           "played": 16,
           "win": 6,
@@ -402,74 +470,6 @@
           "btts_away_matches": 3,
           "avg_corners_away_per_game": 4.0,
           "aproveitamento_away": 54.2,
-          "over_2_5_goals_away": 4,
-          "over_0_5_ht_away": 3,
-          "over_0_5_ft_away": 4,
-          "clean_sheets_away": 3
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 7,
-        "team": {
-          "id": 4402,
-          "name": "Al Nasr SC Dubai",
-          "logo": "https://cdn.footystats.org/img/teams/uae-al-nasr-sc-dubai.png"
-        },
-        "points": 20,
-        "goalsDiff": -1,
-        "group": "UAE Arabian Gulf League 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 15,
-          "win": 5,
-          "draw": 5,
-          "lose": 5,
-          "goals": {
-            "for": 18,
-            "against": 19
-          },
-          "form": "WLDLD",
-          "btts_matches": 8,
-          "avg_corners_per_game": 4.47,
-          "aproveitamento": 44.4,
-          "over_2_5_goals": 6,
-          "over_0_5_ht": 8,
-          "over_0_5_ft": 6,
-          "clean_sheets": 5
-        },
-        "home": {
-          "played": 8,
-          "win": 2,
-          "draw": 3,
-          "lose": 3,
-          "goals": {
-            "for": 9,
-            "against": 11
-          },
-          "form_home": "WDLLD",
-          "avg_corners_home_per_game": 4.88,
-          "aproveitamento_home": 37.5,
-          "btts_home_matches": 4,
-          "over_2_5_goals_home": 2,
-          "over_0_5_ht_home": 5,
-          "over_0_5_ft_home": 2,
-          "clean_sheets_home": 2
-        },
-        "away": {
-          "played": 7,
-          "win": 3,
-          "draw": 2,
-          "lose": 2,
-          "goals": {
-            "for": 9,
-            "against": 8
-          },
-          "form_visitor": "LLWWD",
-          "btts_away_matches": 4,
-          "avg_corners_away_per_game": 4.0,
-          "aproveitamento_away": 52.4,
           "over_2_5_goals_away": 4,
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 4,
@@ -962,7 +962,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 16,
         "jogador-assists": 1,
-        "jogador-partidas": 15,
+        "jogador-partidas": 16,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/uae-al-ain-scc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/togo-fo-doh-kodjo-laba.png"
       },
@@ -1001,6 +1001,15 @@
         "jogador-partidas": 14,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/uae-dibba-al-fujairah.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/iraq-muhanad-ali.png"
+      },
+      {
+        "jogador-nome": "Matías Damián Palacios",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 5,
+        "jogador-assists": 4,
+        "jogador-partidas": 16,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/uae-al-ain-scc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-matías-damián-palacios.png"
       },
       {
         "jogador-nome": "Yuri Cesar Santos de Oliveira Silva",
@@ -1052,18 +1061,9 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 4,
         "jogador-assists": 8,
-        "jogador-partidas": 15,
+        "jogador-partidas": 16,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/uae-al-ain-scc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/argentina-alejandro-romero-gamarra.png"
-      },
-      {
-        "jogador-nome": "Matías Damián Palacios",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 4,
-        "jogador-assists": 4,
-        "jogador-partidas": 15,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/uae-al-ain-scc.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/-matías-damián-palacios.png"
       },
       {
         "jogador-nome": "Mohamed El Khaloui",
