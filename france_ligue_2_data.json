@@ -72,6 +72,74 @@
       {
         "rank": 2,
         "team": {
+          "id": 434,
+          "name": "AS Saint-Étienne",
+          "logo": "https://cdn.footystats.org/img/teams/france-as-saint-etienne.png"
+        },
+        "points": 40,
+        "goalsDiff": 11,
+        "group": "France Ligue 2 20252026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 23,
+          "win": 12,
+          "draw": 4,
+          "lose": 7,
+          "goals": {
+            "for": 39,
+            "against": 28
+          },
+          "form": "WLLWW",
+          "btts_matches": 11,
+          "avg_corners_per_game": 4.57,
+          "aproveitamento": 58.0,
+          "over_2_5_goals": 13,
+          "over_0_5_ht": 12,
+          "over_0_5_ft": 14,
+          "clean_sheets": 8
+        },
+        "home": {
+          "played": 11,
+          "win": 6,
+          "draw": 2,
+          "lose": 3,
+          "goals": {
+            "for": 24,
+            "against": 13
+          },
+          "form_home": "WDWLW",
+          "avg_corners_home_per_game": 4.36,
+          "aproveitamento_home": 60.6,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 7,
+          "over_0_5_ht_home": 8,
+          "over_0_5_ft_home": 9,
+          "clean_sheets_home": 4
+        },
+        "away": {
+          "played": 12,
+          "win": 6,
+          "draw": 2,
+          "lose": 4,
+          "goals": {
+            "for": 15,
+            "against": 15
+          },
+          "form_visitor": "WLDLW",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 4.75,
+          "aproveitamento_away": 55.6,
+          "over_2_5_goals_away": 6,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 5,
+          "clean_sheets_away": 4
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 3,
+        "team": {
           "id": 451,
           "name": "Stade de Reims",
           "logo": "https://cdn.footystats.org/img/teams/france-stade-de-reims.png"
@@ -138,7 +206,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "team": {
           "id": 3906,
           "name": "Le Mans FC",
@@ -202,74 +270,6 @@
           "over_0_5_ht_away": 8,
           "over_0_5_ft_away": 7,
           "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 4,
-        "team": {
-          "id": 434,
-          "name": "AS Saint-Étienne",
-          "logo": "https://cdn.footystats.org/img/teams/france-as-saint-etienne.png"
-        },
-        "points": 37,
-        "goalsDiff": 10,
-        "group": "France Ligue 2 20252026",
-        "status": "same",
-        "description": "Copa Libertadores",
-        "all": {
-          "played": 22,
-          "win": 11,
-          "draw": 4,
-          "lose": 7,
-          "goals": {
-            "for": 37,
-            "against": 27
-          },
-          "form": "DWLLW",
-          "btts_matches": 10,
-          "avg_corners_per_game": 4.64,
-          "aproveitamento": 56.1,
-          "over_2_5_goals": 12,
-          "over_0_5_ht": 11,
-          "over_0_5_ft": 14,
-          "clean_sheets": 8
-        },
-        "home": {
-          "played": 11,
-          "win": 6,
-          "draw": 2,
-          "lose": 3,
-          "goals": {
-            "for": 24,
-            "against": 13
-          },
-          "form_home": "WDWLW",
-          "avg_corners_home_per_game": 4.36,
-          "aproveitamento_home": 60.6,
-          "btts_home_matches": 6,
-          "over_2_5_goals_home": 7,
-          "over_0_5_ht_home": 8,
-          "over_0_5_ft_home": 9,
-          "clean_sheets_home": 4
-        },
-        "away": {
-          "played": 11,
-          "win": 5,
-          "draw": 2,
-          "lose": 4,
-          "goals": {
-            "for": 13,
-            "against": 14
-          },
-          "form_visitor": "LWLDL",
-          "btts_away_matches": 4,
-          "avg_corners_away_per_game": 4.91,
-          "aproveitamento_away": 51.5,
-          "over_2_5_goals_away": 5,
-          "over_0_5_ht_away": 3,
-          "over_0_5_ft_away": 5,
-          "clean_sheets_away": 4
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -621,44 +621,44 @@
           "logo": "https://cdn.footystats.org/img/teams/france-en-avant-guingamp.png"
         },
         "points": 33,
-        "goalsDiff": 0,
+        "goalsDiff": -1,
         "group": "France Ligue 2 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 22,
+          "played": 23,
           "win": 9,
           "draw": 6,
-          "lose": 7,
+          "lose": 8,
           "goals": {
-            "for": 33,
-            "against": 33
+            "for": 34,
+            "against": 35
           },
-          "form": "WWWLD",
-          "btts_matches": 11,
-          "avg_corners_per_game": 5.45,
-          "aproveitamento": 50.0,
-          "over_2_5_goals": 15,
+          "form": "WWLDL",
+          "btts_matches": 12,
+          "avg_corners_per_game": 5.48,
+          "aproveitamento": 47.8,
+          "over_2_5_goals": 16,
           "over_0_5_ht": 11,
-          "over_0_5_ft": 10,
+          "over_0_5_ft": 11,
           "clean_sheets": 7
         },
         "home": {
-          "played": 11,
+          "played": 12,
           "win": 5,
           "draw": 3,
-          "lose": 3,
+          "lose": 4,
           "goals": {
-            "for": 16,
-            "against": 16
+            "for": 17,
+            "against": 18
           },
-          "form_home": "WDLWW",
-          "avg_corners_home_per_game": 6.64,
-          "aproveitamento_home": 54.5,
-          "btts_home_matches": 4,
-          "over_2_5_goals_home": 7,
+          "form_home": "DLWWL",
+          "avg_corners_home_per_game": 6.58,
+          "aproveitamento_home": 50.0,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 8,
           "over_0_5_ht_home": 5,
-          "over_0_5_ft_home": 4,
+          "over_0_5_ft_home": 5,
           "clean_sheets_home": 4
         },
         "away": {
@@ -1234,7 +1234,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 11,
         "jogador-assists": 1,
-        "jogador-partidas": 22,
+        "jogador-partidas": 23,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/france-en-avant-guingamp.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/france-louis-mafouta.png"
       },
@@ -1246,6 +1246,15 @@
         "jogador-partidas": 19,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/france-us-du-littoral-de-dunkerque.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/france-thomas-robinet.png"
+      },
+      {
+        "jogador-nome": "Zuriko Davitashvili",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 10,
+        "jogador-assists": 1,
+        "jogador-partidas": 19,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/france-as-saint-etienne.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/georgia-zuriko-davitashvili.png"
       },
       {
         "jogador-nome": "Tawfik Bentayeb",
@@ -1291,15 +1300,6 @@
         "jogador-partidas": 18,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/france-stade-de-reims.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/japan-keito-nakamura.png"
-      },
-      {
-        "jogador-nome": "Zuriko Davitashvili",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 8,
-        "jogador-assists": 1,
-        "jogador-partidas": 18,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/france-as-saint-etienne.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/georgia-zuriko-davitashvili.png"
       },
       {
         "jogador-nome": "Ibrahima Baldé",
@@ -1395,8 +1395,8 @@
         "jogador-nome": "Irvin Cardona",
         "jogador-posicao": "Forward",
         "jogador-gols": 5,
-        "jogador-assists": 2,
-        "jogador-partidas": 21,
+        "jogador-assists": 3,
+        "jogador-partidas": 22,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/france-as-saint-etienne.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/france-irvin-cardona.png"
       },
