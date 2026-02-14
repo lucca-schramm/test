@@ -1,0 +1,870 @@
+{
+  "standings": {
+    "international_wc_qualification_south_america": [
+      {
+        "rank": 1,
+        "team": {
+          "id": 8630,
+          "name": "Brazil National Team",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-brazil-national-team.png"
+        },
+        "points": 41,
+        "goalsDiff": 30,
+        "group": "International WC Qualification South America 20162018",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 18,
+          "win": 12,
+          "draw": 5,
+          "lose": 1,
+          "goals": {
+            "for": 41,
+            "against": 11
+          },
+          "form": "WWDDW",
+          "btts_matches": 7,
+          "avg_corners_per_game": 5.94,
+          "aproveitamento": 75.9,
+          "over_2_5_goals": 11,
+          "over_0_5_ht": 10,
+          "over_0_5_ft": 14,
+          "clean_sheets": 10
+        },
+        "home": {
+          "played": 9,
+          "win": 8,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 26,
+            "against": 4
+          },
+          "form_home": "WWWWW",
+          "avg_corners_home_per_game": 7.0,
+          "aproveitamento_home": 92.6,
+          "btts_home_matches": 3,
+          "over_2_5_goals_home": 8,
+          "over_0_5_ht_home": 7,
+          "over_0_5_ft_home": 8,
+          "clean_sheets_home": 6
+        },
+        "away": {
+          "played": 9,
+          "win": 4,
+          "draw": 4,
+          "lose": 1,
+          "goals": {
+            "for": 15,
+            "against": 7
+          },
+          "form_visitor": "WWWDD",
+          "btts_away_matches": 4,
+          "avg_corners_away_per_game": 4.89,
+          "aproveitamento_away": 59.3,
+          "over_2_5_goals_away": 3,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 6,
+          "clean_sheets_away": 4
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 2,
+        "team": {
+          "id": 8627,
+          "name": "Uruguay National Team",
+          "logo": "https://cdn.footystats.org/img/teams/uruguay-uruguay-national-team.png"
+        },
+        "points": 31,
+        "goalsDiff": 12,
+        "group": "International WC Qualification South America 20162018",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 18,
+          "win": 9,
+          "draw": 4,
+          "lose": 5,
+          "goals": {
+            "for": 32,
+            "against": 20
+          },
+          "form": "LDWDW",
+          "btts_matches": 9,
+          "avg_corners_per_game": 4.17,
+          "aproveitamento": 57.4,
+          "over_2_5_goals": 13,
+          "over_0_5_ht": 12,
+          "over_0_5_ft": 11,
+          "clean_sheets": 8
+        },
+        "home": {
+          "played": 9,
+          "win": 7,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 21,
+            "against": 7
+          },
+          "form_home": "WWLDW",
+          "avg_corners_home_per_game": 4.56,
+          "aproveitamento_home": 81.5,
+          "btts_home_matches": 3,
+          "over_2_5_goals_home": 7,
+          "over_0_5_ht_home": 7,
+          "over_0_5_ft_home": 6,
+          "clean_sheets_home": 6
+        },
+        "away": {
+          "played": 9,
+          "win": 2,
+          "draw": 3,
+          "lose": 4,
+          "goals": {
+            "for": 11,
+            "against": 13
+          },
+          "form_visitor": "DLLWD",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 3.78,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 6,
+          "over_0_5_ht_away": 5,
+          "over_0_5_ft_away": 5,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 3,
+        "team": {
+          "id": 8625,
+          "name": "Argentina National Team",
+          "logo": "https://cdn.footystats.org/img/teams/argentina-argentina-national-team.png"
+        },
+        "points": 28,
+        "goalsDiff": 3,
+        "group": "International WC Qualification South America 20162018",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 18,
+          "win": 7,
+          "draw": 7,
+          "lose": 4,
+          "goals": {
+            "for": 19,
+            "against": 16
+          },
+          "form": "LDDDW",
+          "btts_matches": 6,
+          "avg_corners_per_game": 5.39,
+          "aproveitamento": 51.9,
+          "over_2_5_goals": 6,
+          "over_0_5_ht": 9,
+          "over_0_5_ft": 5,
+          "clean_sheets": 8
+        },
+        "home": {
+          "played": 9,
+          "win": 4,
+          "draw": 3,
+          "lose": 2,
+          "goals": {
+            "for": 9,
+            "against": 5
+          },
+          "form_home": "LWWDD",
+          "avg_corners_home_per_game": 5.56,
+          "aproveitamento_home": 55.6,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 2,
+          "clean_sheets_home": 5
+        },
+        "away": {
+          "played": 9,
+          "win": 3,
+          "draw": 4,
+          "lose": 2,
+          "goals": {
+            "for": 10,
+            "against": 11
+          },
+          "form_visitor": "DLLDW",
+          "btts_away_matches": 4,
+          "avg_corners_away_per_game": 5.22,
+          "aproveitamento_away": 48.1,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 4,
+        "team": {
+          "id": 8638,
+          "name": "Colombia National Team",
+          "logo": "https://cdn.footystats.org/img/teams/colombia-colombia-national-team.png"
+        },
+        "points": 27,
+        "goalsDiff": 2,
+        "group": "International WC Qualification South America 20162018",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 18,
+          "win": 7,
+          "draw": 6,
+          "lose": 5,
+          "goals": {
+            "for": 21,
+            "against": 19
+          },
+          "form": "WDDLD",
+          "btts_matches": 8,
+          "avg_corners_per_game": 4.28,
+          "aproveitamento": 50.0,
+          "over_2_5_goals": 7,
+          "over_0_5_ht": 7,
+          "over_0_5_ft": 11,
+          "clean_sheets": 7
+        },
+        "home": {
+          "played": 9,
+          "win": 4,
+          "draw": 3,
+          "lose": 2,
+          "goals": {
+            "for": 12,
+            "against": 7
+          },
+          "form_home": "DDWDL",
+          "avg_corners_home_per_game": 5.33,
+          "aproveitamento_home": 55.6,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 7,
+          "clean_sheets_home": 4
+        },
+        "away": {
+          "played": 9,
+          "win": 3,
+          "draw": 3,
+          "lose": 3,
+          "goals": {
+            "for": 9,
+            "against": 12
+          },
+          "form_visitor": "WLWDD",
+          "btts_away_matches": 4,
+          "avg_corners_away_per_game": 3.22,
+          "aproveitamento_away": 44.4,
+          "over_2_5_goals_away": 4,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 5,
+        "team": {
+          "id": 8637,
+          "name": "Chile National Team",
+          "logo": "https://cdn.footystats.org/img/teams/chile-chile-national-team.png"
+        },
+        "points": 26,
+        "goalsDiff": -1,
+        "group": "International WC Qualification South America 20162018",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 18,
+          "win": 8,
+          "draw": 2,
+          "lose": 8,
+          "goals": {
+            "for": 26,
+            "against": 27
+          },
+          "form": "WLLWL",
+          "btts_matches": 9,
+          "avg_corners_per_game": 4.72,
+          "aproveitamento": 48.1,
+          "over_2_5_goals": 13,
+          "over_0_5_ht": 9,
+          "over_0_5_ft": 7,
+          "clean_sheets": 3
+        },
+        "home": {
+          "played": 9,
+          "win": 6,
+          "draw": 1,
+          "lose": 2,
+          "goals": {
+            "for": 17,
+            "against": 10
+          },
+          "form_home": "WWWLW",
+          "avg_corners_home_per_game": 6.44,
+          "aproveitamento_home": 70.4,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 7,
+          "over_0_5_ht_home": 6,
+          "over_0_5_ft_home": 5,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 9,
+          "win": 2,
+          "draw": 1,
+          "lose": 6,
+          "goals": {
+            "for": 9,
+            "against": 17
+          },
+          "form_visitor": "LDLLL",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 3.0,
+          "aproveitamento_away": 25.9,
+          "over_2_5_goals_away": 6,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 6,
+        "team": {
+          "id": 8678,
+          "name": "Paraguay National Team",
+          "logo": "https://cdn.footystats.org/img/teams/paraguay-paraguay-national-team.png"
+        },
+        "points": 24,
+        "goalsDiff": -6,
+        "group": "International WC Qualification South America 20162018",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 18,
+          "win": 7,
+          "draw": 3,
+          "lose": 8,
+          "goals": {
+            "for": 19,
+            "against": 25
+          },
+          "form": "LWLWL",
+          "btts_matches": 8,
+          "avg_corners_per_game": 3.89,
+          "aproveitamento": 44.4,
+          "over_2_5_goals": 11,
+          "over_0_5_ht": 7,
+          "over_0_5_ft": 8,
+          "clean_sheets": 4
+        },
+        "home": {
+          "played": 9,
+          "win": 3,
+          "draw": 2,
+          "lose": 4,
+          "goals": {
+            "for": 10,
+            "against": 13
+          },
+          "form_home": "LLWLL",
+          "avg_corners_home_per_game": 5.78,
+          "aproveitamento_home": 40.7,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 9,
+          "win": 4,
+          "draw": 1,
+          "lose": 4,
+          "goals": {
+            "for": 9,
+            "against": 12
+          },
+          "form_visitor": "WLLWW",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 2.0,
+          "aproveitamento_away": 48.1,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 7,
+        "team": {
+          "id": 8673,
+          "name": "Peru National Team",
+          "logo": "https://cdn.footystats.org/img/teams/peru-peru-national-team.png"
+        },
+        "points": 23,
+        "goalsDiff": -4,
+        "group": "International WC Qualification South America 20162018",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 18,
+          "win": 6,
+          "draw": 5,
+          "lose": 7,
+          "goals": {
+            "for": 24,
+            "against": 28
+          },
+          "form": "WWWDD",
+          "btts_matches": 11,
+          "avg_corners_per_game": 4.39,
+          "aproveitamento": 42.6,
+          "over_2_5_goals": 11,
+          "over_0_5_ht": 4,
+          "over_0_5_ft": 11,
+          "clean_sheets": 2
+        },
+        "home": {
+          "played": 9,
+          "win": 4,
+          "draw": 3,
+          "lose": 2,
+          "goals": {
+            "for": 15,
+            "against": 14
+          },
+          "form_home": "DLWWD",
+          "avg_corners_home_per_game": 5.44,
+          "aproveitamento_home": 55.6,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 7,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 9,
+          "win": 2,
+          "draw": 2,
+          "lose": 5,
+          "goals": {
+            "for": 9,
+            "against": 14
+          },
+          "form_visitor": "LWDWD",
+          "btts_away_matches": 4,
+          "avg_corners_away_per_game": 3.33,
+          "aproveitamento_away": 29.6,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 8,
+        "team": {
+          "id": 8628,
+          "name": "Ecuador National Team",
+          "logo": "https://cdn.footystats.org/img/teams/ecuador-ecuador-national-team.png"
+        },
+        "points": 20,
+        "goalsDiff": -3,
+        "group": "International WC Qualification South America 20162018",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 18,
+          "win": 6,
+          "draw": 2,
+          "lose": 10,
+          "goals": {
+            "for": 26,
+            "against": 29
+          },
+          "form": "LLLLL",
+          "btts_matches": 11,
+          "avg_corners_per_game": 6.5,
+          "aproveitamento": 37.0,
+          "over_2_5_goals": 14,
+          "over_0_5_ht": 7,
+          "over_0_5_ft": 12,
+          "clean_sheets": 4
+        },
+        "home": {
+          "played": 9,
+          "win": 4,
+          "draw": 1,
+          "lose": 4,
+          "goals": {
+            "for": 14,
+            "against": 13
+          },
+          "form_home": "WWLLL",
+          "avg_corners_home_per_game": 8.89,
+          "aproveitamento_home": 48.1,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 7,
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 6,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 9,
+          "win": 2,
+          "draw": 1,
+          "lose": 6,
+          "goals": {
+            "for": 12,
+            "against": 16
+          },
+          "form_visitor": "DLLLL",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 4.11,
+          "aproveitamento_away": 25.9,
+          "over_2_5_goals_away": 7,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 6,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 9,
+        "team": {
+          "id": 8663,
+          "name": "Bolivia National Team",
+          "logo": "https://cdn.footystats.org/img/teams/bolivia-bolivia-national-team.png"
+        },
+        "points": 17,
+        "goalsDiff": -17,
+        "group": "International WC Qualification South America 20162018",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 18,
+          "win": 5,
+          "draw": 2,
+          "lose": 11,
+          "goals": {
+            "for": 18,
+            "against": 35
+          },
+          "form": "WLWDL",
+          "btts_matches": 6,
+          "avg_corners_per_game": 4.17,
+          "aproveitamento": 31.5,
+          "over_2_5_goals": 9,
+          "over_0_5_ht": 5,
+          "over_0_5_ft": 9,
+          "clean_sheets": 5
+        },
+        "home": {
+          "played": 9,
+          "win": 5,
+          "draw": 2,
+          "lose": 2,
+          "goals": {
+            "for": 14,
+            "against": 9
+          },
+          "form_home": "DWWWD",
+          "avg_corners_home_per_game": 6.44,
+          "aproveitamento_home": 63.0,
+          "btts_home_matches": 3,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 6,
+          "clean_sheets_home": 5
+        },
+        "away": {
+          "played": 9,
+          "win": 0,
+          "draw": 0,
+          "lose": 9,
+          "goals": {
+            "for": 4,
+            "against": 26
+          },
+          "form_visitor": "LLLLL",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 1.89,
+          "aproveitamento_away": 0.0,
+          "over_2_5_goals_away": 6,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 10,
+        "team": {
+          "id": 8731,
+          "name": "Venezuela National Team",
+          "logo": "https://cdn.footystats.org/img/teams/venezuela-venezuela-national-team.png"
+        },
+        "points": 12,
+        "goalsDiff": -16,
+        "group": "International WC Qualification South America 20162018",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 18,
+          "win": 2,
+          "draw": 6,
+          "lose": 10,
+          "goals": {
+            "for": 19,
+            "against": 35
+          },
+          "form": "LDDDW",
+          "btts_matches": 9,
+          "avg_corners_per_game": 4.28,
+          "aproveitamento": 22.2,
+          "over_2_5_goals": 11,
+          "over_0_5_ht": 6,
+          "over_0_5_ft": 9,
+          "clean_sheets": 4
+        },
+        "home": {
+          "played": 9,
+          "win": 1,
+          "draw": 4,
+          "lose": 4,
+          "goals": {
+            "for": 11,
+            "against": 14
+          },
+          "form_home": "LWDDD",
+          "avg_corners_home_per_game": 4.33,
+          "aproveitamento_home": 25.9,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 9,
+          "win": 1,
+          "draw": 2,
+          "lose": 6,
+          "goals": {
+            "for": 8,
+            "against": 21
+          },
+          "form_visitor": "LLLDW",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 4.22,
+          "aproveitamento_away": 18.5,
+          "over_2_5_goals_away": 6,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 6,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      }
+    ]
+  },
+  "artilharia": {
+    "international_wc_qualification_south_america": [
+      {
+        "jogador-nome": "Edinson Roberto Cavani Gómez",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 10,
+        "jogador-assists": 1,
+        "jogador-partidas": 15,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/uruguay-uruguay-national-team.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/uruguay-edinson-cavani.png"
+      },
+      {
+        "jogador-nome": "Gabriel Fernando de Jesus",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 7,
+        "jogador-assists": 4,
+        "jogador-partidas": 10,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-brazil-national-team.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-gabriel-jesus.png"
+      },
+      {
+        "jogador-nome": "Alexis Alejandro Sánchez Sánchez",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 7,
+        "jogador-assists": 4,
+        "jogador-partidas": 17,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/chile-chile-national-team.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/chile-alexis-sanchez.png"
+      },
+      {
+        "jogador-nome": "Lionel Andrés Messi Cuccittini",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 7,
+        "jogador-assists": 2,
+        "jogador-partidas": 10,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/argentina-argentina-national-team.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/argentina-lionel-messi.png"
+      },
+      {
+        "jogador-nome": "Felipe Salvador Caicedo Corozo",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 7,
+        "jogador-assists": 0,
+        "jogador-partidas": 13,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/ecuador-ecuador-national-team.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/ecuador-felipe-salvador-caicedo-corozo.png"
+      },
+      {
+        "jogador-nome": "Neymar da Silva Santos Junior",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 6,
+        "jogador-assists": 8,
+        "jogador-partidas": 14,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-brazil-national-team.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-neymar.png"
+      },
+      {
+        "jogador-nome": "James David Rodríguez Rubio",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 6,
+        "jogador-assists": 4,
+        "jogador-partidas": 13,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/colombia-colombia-national-team.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/colombia-james-rodriguez.png"
+      },
+      {
+        "jogador-nome": "José Paulo Bezzera Maciel Júnior",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 6,
+        "jogador-assists": 2,
+        "jogador-partidas": 11,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-brazil-national-team.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-paulinho.png"
+      },
+      {
+        "jogador-nome": "Arturo Erasmo Vidal Pardo",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 6,
+        "jogador-assists": 0,
+        "jogador-partidas": 15,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/chile-chile-national-team.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/chile-arturo-vidal.png"
+      },
+      {
+        "jogador-nome": "Luis Alberto Suárez Díaz",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 5,
+        "jogador-assists": 7,
+        "jogador-partidas": 13,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/uruguay-uruguay-national-team.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/uruguay-luis-suarez.png"
+      },
+      {
+        "jogador-nome": "José Paolo Guerrero González",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 5,
+        "jogador-assists": 2,
+        "jogador-partidas": 17,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/peru-peru-national-team.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/peru-jose-paolo-guerrero-gonzalez.png"
+      },
+      {
+        "jogador-nome": "Enner Remberto Valencia Lastra",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 5,
+        "jogador-assists": 2,
+        "jogador-partidas": 12,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/ecuador-ecuador-national-team.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/ecuador-enner-remberto-valencia-lastra.png"
+      },
+      {
+        "jogador-nome": "Édison Michael Flores Peralta",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 5,
+        "jogador-assists": 1,
+        "jogador-partidas": 12,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/peru-peru-national-team.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/peru-edison-michael-flores-peralta.png"
+      },
+      {
+        "jogador-nome": "Josef Alexander Martínez",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 5,
+        "jogador-assists": 0,
+        "jogador-partidas": 15,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/venezuela-venezuela-national-team.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/venezuela-josef-martinez.png"
+      },
+      {
+        "jogador-nome": "Eduardo Jesús Vargas Rojas",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 5,
+        "jogador-assists": 0,
+        "jogador-partidas": 16,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/chile-chile-national-team.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/chile-eduardo-jesus-vargas-rojas.png"
+      },
+      {
+        "jogador-nome": "Willian Borges da Silva",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 4,
+        "jogador-assists": 5,
+        "jogador-partidas": 17,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-brazil-national-team.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-willian.png"
+      },
+      {
+        "jogador-nome": "Rómulo Otero Vásquez",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 4,
+        "jogador-assists": 3,
+        "jogador-partidas": 11,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/venezuela-venezuela-national-team.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/venezuela-romulo-otero-vasquez.png"
+      },
+      {
+        "jogador-nome": "Christian Alberto Cueva Bravo",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 4,
+        "jogador-assists": 3,
+        "jogador-partidas": 16,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/peru-peru-national-team.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/peru-christian-alberto-cueva-bravo.png"
+      },
+      {
+        "jogador-nome": "Philippe Coutinho Correia",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 4,
+        "jogador-assists": 2,
+        "jogador-partidas": 13,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-brazil-national-team.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-philippe-coutinho.png"
+      },
+      {
+        "jogador-nome": "Juan Carlos Arce Justiniano",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 4,
+        "jogador-assists": 0,
+        "jogador-partidas": 14,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/bolivia-bolivia-national-team.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/bolivia-juan-carlos-arce-justiniano.png"
+      }
+    ]
+  }
+}
