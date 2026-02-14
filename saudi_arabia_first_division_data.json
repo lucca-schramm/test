@@ -349,44 +349,44 @@
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-bukayriyah-fc.png"
         },
         "points": 33,
-        "goalsDiff": -2,
+        "goalsDiff": -4,
         "group": "Saudi Arabia First Division 20252026",
         "status": "same",
         "description": "Copa Sul-Americana",
         "all": {
-          "played": 21,
+          "played": 22,
           "win": 10,
           "draw": 3,
-          "lose": 8,
+          "lose": 9,
           "goals": {
-            "for": 25,
-            "against": 27
+            "for": 26,
+            "against": 30
           },
-          "form": "LLLDL",
-          "btts_matches": 11,
-          "avg_corners_per_game": 3.38,
-          "aproveitamento": 52.4,
-          "over_2_5_goals": 12,
+          "form": "LLDLL",
+          "btts_matches": 12,
+          "avg_corners_per_game": 3.41,
+          "aproveitamento": 50.0,
+          "over_2_5_goals": 13,
           "over_0_5_ht": 11,
-          "over_0_5_ft": 9,
+          "over_0_5_ft": 10,
           "clean_sheets": 5
         },
         "home": {
-          "played": 10,
+          "played": 11,
           "win": 5,
           "draw": 0,
-          "lose": 5,
+          "lose": 6,
           "goals": {
-            "for": 12,
-            "against": 13
+            "for": 13,
+            "against": 16
           },
-          "form_home": "LWWLL",
-          "avg_corners_home_per_game": 4.1,
-          "aproveitamento_home": 50.0,
-          "btts_home_matches": 4,
-          "over_2_5_goals_home": 5,
+          "form_home": "WWLLL",
+          "avg_corners_home_per_game": 4.09,
+          "aproveitamento_home": 45.5,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 6,
           "over_0_5_ht_home": 4,
-          "over_0_5_ft_home": 5,
+          "over_0_5_ft_home": 6,
           "clean_sheets_home": 3
         },
         "away": {
@@ -548,6 +548,142 @@
       {
         "rank": 9,
         "team": {
+          "id": 5085,
+          "name": "Al Ta'ee Ha'il",
+          "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-taee-hail.png"
+        },
+        "points": 28,
+        "goalsDiff": 1,
+        "group": "Saudi Arabia First Division 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 22,
+          "win": 7,
+          "draw": 7,
+          "lose": 8,
+          "goals": {
+            "for": 33,
+            "against": 32
+          },
+          "form": "LLWDW",
+          "btts_matches": 14,
+          "avg_corners_per_game": 4.77,
+          "aproveitamento": 42.4,
+          "over_2_5_goals": 13,
+          "over_0_5_ht": 7,
+          "over_0_5_ft": 13,
+          "clean_sheets": 5
+        },
+        "home": {
+          "played": 11,
+          "win": 2,
+          "draw": 4,
+          "lose": 5,
+          "goals": {
+            "for": 15,
+            "against": 20
+          },
+          "form_home": "DWLDW",
+          "avg_corners_home_per_game": 4.91,
+          "aproveitamento_home": 30.3,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 7,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 5,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 11,
+          "win": 5,
+          "draw": 3,
+          "lose": 3,
+          "goals": {
+            "for": 18,
+            "against": 12
+          },
+          "form_visitor": "LDDLW",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 4.64,
+          "aproveitamento_away": 54.5,
+          "over_2_5_goals_away": 6,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 8,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 10,
+        "team": {
+          "id": 5115,
+          "name": "Al Zulfi SC",
+          "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-zulfi-sc.png"
+        },
+        "points": 28,
+        "goalsDiff": -2,
+        "group": "Saudi Arabia First Division 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 22,
+          "win": 7,
+          "draw": 7,
+          "lose": 8,
+          "goals": {
+            "for": 26,
+            "against": 28
+          },
+          "form": "DWWLW",
+          "btts_matches": 15,
+          "avg_corners_per_game": 4.23,
+          "aproveitamento": 42.4,
+          "over_2_5_goals": 10,
+          "over_0_5_ht": 10,
+          "over_0_5_ft": 11,
+          "clean_sheets": 4
+        },
+        "home": {
+          "played": 10,
+          "win": 3,
+          "draw": 3,
+          "lose": 4,
+          "goals": {
+            "for": 9,
+            "against": 10
+          },
+          "form_home": "LLDWW",
+          "avg_corners_home_per_game": 4.5,
+          "aproveitamento_home": 40.0,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 6,
+          "clean_sheets_home": 4
+        },
+        "away": {
+          "played": 12,
+          "win": 4,
+          "draw": 4,
+          "lose": 4,
+          "goals": {
+            "for": 17,
+            "against": 18
+          },
+          "form_visitor": "WDWLW",
+          "btts_away_matches": 10,
+          "avg_corners_away_per_game": 4.0,
+          "aproveitamento_away": 44.4,
+          "over_2_5_goals_away": 7,
+          "over_0_5_ht_away": 7,
+          "over_0_5_ft_away": 5,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 11,
+        "team": {
           "id": 5096,
           "name": "Jeddah Club",
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-jeddah-club.png"
@@ -614,7 +750,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 10,
+        "rank": 12,
         "team": {
           "id": 673756,
           "name": "Al Anwar Club",
@@ -678,142 +814,6 @@
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 4,
           "clean_sheets_away": 2
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 11,
-        "team": {
-          "id": 5085,
-          "name": "Al Ta'ee Ha'il",
-          "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-taee-hail.png"
-        },
-        "points": 25,
-        "goalsDiff": -2,
-        "group": "Saudi Arabia First Division 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 21,
-          "win": 6,
-          "draw": 7,
-          "lose": 8,
-          "goals": {
-            "for": 29,
-            "against": 31
-          },
-          "form": "DLLWD",
-          "btts_matches": 13,
-          "avg_corners_per_game": 4.52,
-          "aproveitamento": 39.7,
-          "over_2_5_goals": 12,
-          "over_0_5_ht": 7,
-          "over_0_5_ft": 12,
-          "clean_sheets": 5
-        },
-        "home": {
-          "played": 10,
-          "win": 1,
-          "draw": 4,
-          "lose": 5,
-          "goals": {
-            "for": 11,
-            "against": 19
-          },
-          "form_home": "LDWLD",
-          "avg_corners_home_per_game": 4.4,
-          "aproveitamento_home": 23.3,
-          "btts_home_matches": 6,
-          "over_2_5_goals_home": 6,
-          "over_0_5_ht_home": 3,
-          "over_0_5_ft_home": 4,
-          "clean_sheets_home": 2
-        },
-        "away": {
-          "played": 11,
-          "win": 5,
-          "draw": 3,
-          "lose": 3,
-          "goals": {
-            "for": 18,
-            "against": 12
-          },
-          "form_visitor": "LDDLW",
-          "btts_away_matches": 7,
-          "avg_corners_away_per_game": 4.64,
-          "aproveitamento_away": 54.5,
-          "over_2_5_goals_away": 6,
-          "over_0_5_ht_away": 4,
-          "over_0_5_ft_away": 8,
-          "clean_sheets_away": 3
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 12,
-        "team": {
-          "id": 5115,
-          "name": "Al Zulfi SC",
-          "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-zulfi-sc.png"
-        },
-        "points": 25,
-        "goalsDiff": -4,
-        "group": "Saudi Arabia First Division 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 21,
-          "win": 6,
-          "draw": 7,
-          "lose": 8,
-          "goals": {
-            "for": 23,
-            "against": 27
-          },
-          "form": "WDWWL",
-          "btts_matches": 14,
-          "avg_corners_per_game": 4.43,
-          "aproveitamento": 39.7,
-          "over_2_5_goals": 9,
-          "over_0_5_ht": 9,
-          "over_0_5_ft": 10,
-          "clean_sheets": 4
-        },
-        "home": {
-          "played": 10,
-          "win": 3,
-          "draw": 3,
-          "lose": 4,
-          "goals": {
-            "for": 9,
-            "against": 10
-          },
-          "form_home": "LLDWW",
-          "avg_corners_home_per_game": 4.5,
-          "aproveitamento_home": 40.0,
-          "btts_home_matches": 5,
-          "over_2_5_goals_home": 3,
-          "over_0_5_ht_home": 3,
-          "over_0_5_ft_home": 6,
-          "clean_sheets_home": 4
-        },
-        "away": {
-          "played": 11,
-          "win": 3,
-          "draw": 4,
-          "lose": 4,
-          "goals": {
-            "for": 14,
-            "against": 17
-          },
-          "form_visitor": "DWDWL",
-          "btts_away_matches": 9,
-          "avg_corners_away_per_game": 4.36,
-          "aproveitamento_away": 39.4,
-          "over_2_5_goals_away": 6,
-          "over_0_5_ht_away": 6,
-          "over_0_5_ft_away": 4,
-          "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1165,26 +1165,26 @@
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-jubail-club.png"
         },
         "points": 8,
-        "goalsDiff": -25,
+        "goalsDiff": -28,
         "group": "Saudi Arabia First Division 20252026",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 21,
+          "played": 22,
           "win": 1,
           "draw": 5,
-          "lose": 15,
+          "lose": 16,
           "goals": {
-            "for": 19,
-            "against": 44
+            "for": 20,
+            "against": 48
           },
-          "form": "DDLLL",
-          "btts_matches": 11,
-          "avg_corners_per_game": 3.29,
-          "aproveitamento": 12.7,
-          "over_2_5_goals": 12,
+          "form": "DLLLL",
+          "btts_matches": 12,
+          "avg_corners_per_game": 3.23,
+          "aproveitamento": 12.1,
+          "over_2_5_goals": 13,
           "over_0_5_ht": 7,
-          "over_0_5_ft": 8,
+          "over_0_5_ft": 9,
           "clean_sheets": 3
         },
         "home": {
@@ -1206,21 +1206,21 @@
           "clean_sheets_home": 3
         },
         "away": {
-          "played": 10,
+          "played": 11,
           "win": 0,
           "draw": 1,
-          "lose": 9,
+          "lose": 10,
           "goals": {
-            "for": 9,
-            "against": 24
+            "for": 10,
+            "against": 28
           },
-          "form_visitor": "LLDLL",
-          "btts_away_matches": 6,
-          "avg_corners_away_per_game": 2.7,
-          "aproveitamento_away": 3.3,
-          "over_2_5_goals_away": 6,
+          "form_visitor": "LDLLL",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 2.64,
+          "aproveitamento_away": 3.0,
+          "over_2_5_goals_away": 7,
           "over_0_5_ht_away": 2,
-          "over_0_5_ft_away": 5,
+          "over_0_5_ft_away": 6,
           "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1232,9 +1232,9 @@
       {
         "jogador-nome": "Jogador_42458",
         "jogador-posicao": "Midfielder",
-        "jogador-gols": 72,
+        "jogador-gols": 102,
         "jogador-assists": 0,
-        "jogador-partidas": 169,
+        "jogador-partidas": 172,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-batin-club.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-jogador_42458.png"
       },
@@ -1284,6 +1284,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/france-gaetan-laborde.png"
       },
       {
+        "jogador-nome": "Jonathan Alonso Moya Aguilar",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 13,
+        "jogador-assists": 1,
+        "jogador-partidas": 22,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-bukayriyah-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/costa-rica-jonathan-alonso-moya-aguilar.png"
+      },
+      {
         "jogador-nome": "Cheikh Touré",
         "jogador-posicao": "Forward",
         "jogador-gols": 12,
@@ -1291,15 +1300,6 @@
         "jogador-partidas": 21,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-jabalain.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/france-cheikh-toure.png"
-      },
-      {
-        "jogador-nome": "Jonathan Alonso Moya Aguilar",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 12,
-        "jogador-assists": 1,
-        "jogador-partidas": 21,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-bukayriyah-fc.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/costa-rica-jonathan-alonso-moya-aguilar.png"
       },
       {
         "jogador-nome": "Silva Henrique de Sousa Luvannor",
@@ -1333,7 +1333,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 10,
         "jogador-assists": 3,
-        "jogador-partidas": 18,
+        "jogador-partidas": 19,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-taee-hail.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/germany-torless-tim-knoll.png"
       },
