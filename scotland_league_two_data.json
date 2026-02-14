@@ -1,0 +1,870 @@
+{
+  "standings": {
+    "scotland_league_two": [
+      {
+        "rank": 1,
+        "team": {
+          "id": 10465,
+          "name": "Spartans FC",
+          "logo": "https://cdn.footystats.org/img/teams/scotland-spartans-fc.png"
+        },
+        "points": 41,
+        "goalsDiff": 13,
+        "group": "Scotland League Two 20252026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 22,
+          "win": 12,
+          "draw": 5,
+          "lose": 5,
+          "goals": {
+            "for": 39,
+            "against": 26
+          },
+          "form": "WWLWD",
+          "btts_matches": 14,
+          "avg_corners_per_game": 4.73,
+          "aproveitamento": 62.1,
+          "over_2_5_goals": 12,
+          "over_0_5_ht": 11,
+          "over_0_5_ft": 15,
+          "clean_sheets": 6
+        },
+        "home": {
+          "played": 10,
+          "win": 5,
+          "draw": 1,
+          "lose": 4,
+          "goals": {
+            "for": 10,
+            "against": 12
+          },
+          "form_home": "WDLWW",
+          "avg_corners_home_per_game": 4.5,
+          "aproveitamento_home": 53.3,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 6,
+          "clean_sheets_home": 4
+        },
+        "away": {
+          "played": 12,
+          "win": 7,
+          "draw": 4,
+          "lose": 1,
+          "goals": {
+            "for": 29,
+            "against": 14
+          },
+          "form_visitor": "DWLWD",
+          "btts_away_matches": 10,
+          "avg_corners_away_per_game": 4.92,
+          "aproveitamento_away": 69.4,
+          "over_2_5_goals_away": 8,
+          "over_0_5_ht_away": 8,
+          "over_0_5_ft_away": 9,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 2,
+        "team": {
+          "id": 10467,
+          "name": "East Kilbride FC",
+          "logo": "https://cdn.footystats.org/img/teams/scotland-east-kilbride-fc.png"
+        },
+        "points": 38,
+        "goalsDiff": 7,
+        "group": "Scotland League Two 20252026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 23,
+          "win": 11,
+          "draw": 5,
+          "lose": 7,
+          "goals": {
+            "for": 41,
+            "against": 34
+          },
+          "form": "WLLWW",
+          "btts_matches": 14,
+          "avg_corners_per_game": 6.74,
+          "aproveitamento": 55.1,
+          "over_2_5_goals": 15,
+          "over_0_5_ht": 17,
+          "over_0_5_ft": 8,
+          "clean_sheets": 6
+        },
+        "home": {
+          "played": 12,
+          "win": 5,
+          "draw": 3,
+          "lose": 4,
+          "goals": {
+            "for": 21,
+            "against": 19
+          },
+          "form_home": "LDLLW",
+          "avg_corners_home_per_game": 6.5,
+          "aproveitamento_home": 50.0,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 7,
+          "over_0_5_ht_home": 10,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 11,
+          "win": 6,
+          "draw": 2,
+          "lose": 3,
+          "goals": {
+            "for": 20,
+            "against": 15
+          },
+          "form_visitor": "WWLWW",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 7.0,
+          "aproveitamento_away": 60.6,
+          "over_2_5_goals_away": 8,
+          "over_0_5_ht_away": 7,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 3,
+        "team": {
+          "id": 1203,
+          "name": "Clyde FC",
+          "logo": "https://cdn.footystats.org/img/teams/scotland-clyde-fc.png"
+        },
+        "points": 33,
+        "goalsDiff": 12,
+        "group": "Scotland League Two 20252026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 22,
+          "win": 7,
+          "draw": 12,
+          "lose": 3,
+          "goals": {
+            "for": 34,
+            "against": 22
+          },
+          "form": "DDWDD",
+          "btts_matches": 16,
+          "avg_corners_per_game": 5.09,
+          "aproveitamento": 50.0,
+          "over_2_5_goals": 10,
+          "over_0_5_ht": 11,
+          "over_0_5_ft": 12,
+          "clean_sheets": 6
+        },
+        "home": {
+          "played": 12,
+          "win": 4,
+          "draw": 6,
+          "lose": 2,
+          "goals": {
+            "for": 14,
+            "against": 12
+          },
+          "form_home": "WLDWD",
+          "avg_corners_home_per_game": 5.42,
+          "aproveitamento_home": 50.0,
+          "btts_home_matches": 8,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 6,
+          "clean_sheets_home": 4
+        },
+        "away": {
+          "played": 10,
+          "win": 3,
+          "draw": 6,
+          "lose": 1,
+          "goals": {
+            "for": 20,
+            "against": 10
+          },
+          "form_visitor": "DDWDD",
+          "btts_away_matches": 8,
+          "avg_corners_away_per_game": 4.7,
+          "aproveitamento_away": 50.0,
+          "over_2_5_goals_away": 4,
+          "over_0_5_ht_away": 6,
+          "over_0_5_ft_away": 6,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 4,
+        "team": {
+          "id": 1162,
+          "name": "Stranraer FC",
+          "logo": "https://cdn.footystats.org/img/teams/scotland-stranraer-fc.png"
+        },
+        "points": 30,
+        "goalsDiff": 2,
+        "group": "Scotland League Two 20252026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 23,
+          "win": 7,
+          "draw": 9,
+          "lose": 7,
+          "goals": {
+            "for": 30,
+            "against": 28
+          },
+          "form": "DDWDD",
+          "btts_matches": 15,
+          "avg_corners_per_game": 5.09,
+          "aproveitamento": 43.5,
+          "over_2_5_goals": 11,
+          "over_0_5_ht": 11,
+          "over_0_5_ft": 11,
+          "clean_sheets": 4
+        },
+        "home": {
+          "played": 11,
+          "win": 2,
+          "draw": 5,
+          "lose": 4,
+          "goals": {
+            "for": 11,
+            "against": 15
+          },
+          "form_home": "LWDDD",
+          "avg_corners_home_per_game": 4.91,
+          "aproveitamento_home": 33.3,
+          "btts_home_matches": 8,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 5,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 12,
+          "win": 5,
+          "draw": 4,
+          "lose": 3,
+          "goals": {
+            "for": 19,
+            "against": 13
+          },
+          "form_visitor": "WDDWD",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 5.25,
+          "aproveitamento_away": 52.8,
+          "over_2_5_goals_away": 7,
+          "over_0_5_ht_away": 7,
+          "over_0_5_ft_away": 6,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 5,
+        "team": {
+          "id": 1199,
+          "name": "Edinburgh City FC",
+          "logo": "https://cdn.footystats.org/img/teams/scotland-edinburgh-city-fc.png"
+        },
+        "points": 29,
+        "goalsDiff": -8,
+        "group": "Scotland League Two 20252026",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 23,
+          "win": 7,
+          "draw": 8,
+          "lose": 8,
+          "goals": {
+            "for": 35,
+            "against": 43
+          },
+          "form": "DLDDL",
+          "btts_matches": 20,
+          "avg_corners_per_game": 4.39,
+          "aproveitamento": 42.0,
+          "over_2_5_goals": 15,
+          "over_0_5_ht": 14,
+          "over_0_5_ft": 12,
+          "clean_sheets": 2
+        },
+        "home": {
+          "played": 12,
+          "win": 1,
+          "draw": 4,
+          "lose": 7,
+          "goals": {
+            "for": 17,
+            "against": 31
+          },
+          "form_home": "LLLDL",
+          "avg_corners_home_per_game": 4.5,
+          "aproveitamento_home": 19.4,
+          "btts_home_matches": 11,
+          "over_2_5_goals_home": 10,
+          "over_0_5_ht_home": 7,
+          "over_0_5_ft_home": 6,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 11,
+          "win": 6,
+          "draw": 4,
+          "lose": 1,
+          "goals": {
+            "for": 18,
+            "against": 12
+          },
+          "form_visitor": "DDWDD",
+          "btts_away_matches": 9,
+          "avg_corners_away_per_game": 4.27,
+          "aproveitamento_away": 66.7,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 7,
+          "over_0_5_ft_away": 6,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 6,
+        "team": {
+          "id": 1167,
+          "name": "Forfar Athletic FC",
+          "logo": "https://cdn.footystats.org/img/teams/scotland-forfar-athletic-fc.png"
+        },
+        "points": 27,
+        "goalsDiff": -3,
+        "group": "Scotland League Two 20252026",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 23,
+          "win": 7,
+          "draw": 6,
+          "lose": 10,
+          "goals": {
+            "for": 33,
+            "against": 36
+          },
+          "form": "DDLLW",
+          "btts_matches": 13,
+          "avg_corners_per_game": 3.35,
+          "aproveitamento": 39.1,
+          "over_2_5_goals": 13,
+          "over_0_5_ht": 14,
+          "over_0_5_ft": 9,
+          "clean_sheets": 6
+        },
+        "home": {
+          "played": 12,
+          "win": 5,
+          "draw": 3,
+          "lose": 4,
+          "goals": {
+            "for": 19,
+            "against": 17
+          },
+          "form_home": "LWDLW",
+          "avg_corners_home_per_game": 3.5,
+          "aproveitamento_home": 50.0,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 8,
+          "over_0_5_ft_home": 5,
+          "clean_sheets_home": 4
+        },
+        "away": {
+          "played": 11,
+          "win": 2,
+          "draw": 3,
+          "lose": 6,
+          "goals": {
+            "for": 14,
+            "against": 19
+          },
+          "form_visitor": "WWLDL",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 3.18,
+          "aproveitamento_away": 27.3,
+          "over_2_5_goals_away": 7,
+          "over_0_5_ht_away": 6,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 7,
+        "team": {
+          "id": 1170,
+          "name": "Stirling Albion FC",
+          "logo": "https://cdn.footystats.org/img/teams/scotland-stirling-albion-fc.png"
+        },
+        "points": 27,
+        "goalsDiff": -7,
+        "group": "Scotland League Two 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 22,
+          "win": 7,
+          "draw": 6,
+          "lose": 9,
+          "goals": {
+            "for": 30,
+            "against": 37
+          },
+          "form": "WWLWD",
+          "btts_matches": 15,
+          "avg_corners_per_game": 5.5,
+          "aproveitamento": 40.9,
+          "over_2_5_goals": 13,
+          "over_0_5_ht": 9,
+          "over_0_5_ft": 15,
+          "clean_sheets": 3
+        },
+        "home": {
+          "played": 11,
+          "win": 1,
+          "draw": 5,
+          "lose": 5,
+          "goals": {
+            "for": 11,
+            "against": 19
+          },
+          "form_home": "LDDLD",
+          "avg_corners_home_per_game": 4.82,
+          "aproveitamento_home": 24.2,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 7,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 11,
+          "win": 6,
+          "draw": 1,
+          "lose": 4,
+          "goals": {
+            "for": 19,
+            "against": 18
+          },
+          "form_visitor": "LWWWW",
+          "btts_away_matches": 8,
+          "avg_corners_away_per_game": 6.18,
+          "aproveitamento_away": 57.6,
+          "over_2_5_goals_away": 8,
+          "over_0_5_ht_away": 6,
+          "over_0_5_ft_away": 8,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 8,
+        "team": {
+          "id": 1200,
+          "name": "Annan Athletic FC",
+          "logo": "https://cdn.footystats.org/img/teams/scotland-annan-athletic-fc.png"
+        },
+        "points": 27,
+        "goalsDiff": -4,
+        "group": "Scotland League Two 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 22,
+          "win": 6,
+          "draw": 9,
+          "lose": 7,
+          "goals": {
+            "for": 28,
+            "against": 32
+          },
+          "form": "DDDDW",
+          "btts_matches": 13,
+          "avg_corners_per_game": 5.36,
+          "aproveitamento": 40.9,
+          "over_2_5_goals": 10,
+          "over_0_5_ht": 7,
+          "over_0_5_ft": 10,
+          "clean_sheets": 4
+        },
+        "home": {
+          "played": 11,
+          "win": 4,
+          "draw": 5,
+          "lose": 2,
+          "goals": {
+            "for": 19,
+            "against": 20
+          },
+          "form_home": "DWDDW",
+          "avg_corners_home_per_game": 6.09,
+          "aproveitamento_home": 51.5,
+          "btts_home_matches": 9,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 6,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 11,
+          "win": 2,
+          "draw": 4,
+          "lose": 5,
+          "goals": {
+            "for": 9,
+            "against": 12
+          },
+          "form_visitor": "LLWDD",
+          "btts_away_matches": 4,
+          "avg_corners_away_per_game": 4.64,
+          "aproveitamento_away": 30.3,
+          "over_2_5_goals_away": 4,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 9,
+        "team": {
+          "id": 1153,
+          "name": "Dumbarton FC",
+          "logo": "https://cdn.footystats.org/img/teams/scotland-dumbarton-fc.png"
+        },
+        "points": 24,
+        "goalsDiff": -10,
+        "group": "Scotland League Two 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 23,
+          "win": 6,
+          "draw": 6,
+          "lose": 11,
+          "goals": {
+            "for": 32,
+            "against": 42
+          },
+          "form": "LDDLL",
+          "btts_matches": 18,
+          "avg_corners_per_game": 6.61,
+          "aproveitamento": 34.8,
+          "over_2_5_goals": 14,
+          "over_0_5_ht": 11,
+          "over_0_5_ft": 12,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 11,
+          "win": 3,
+          "draw": 3,
+          "lose": 5,
+          "goals": {
+            "for": 15,
+            "against": 18
+          },
+          "form_home": "LWLDD",
+          "avg_corners_home_per_game": 7.73,
+          "aproveitamento_home": 36.4,
+          "btts_home_matches": 10,
+          "over_2_5_goals_home": 8,
+          "over_0_5_ht_home": 6,
+          "over_0_5_ft_home": 6,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 12,
+          "win": 3,
+          "draw": 3,
+          "lose": 6,
+          "goals": {
+            "for": 17,
+            "against": 24
+          },
+          "form_visitor": "LDLLL",
+          "btts_away_matches": 8,
+          "avg_corners_away_per_game": 5.58,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 6,
+          "over_0_5_ht_away": 5,
+          "over_0_5_ft_away": 6,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 10,
+        "team": {
+          "id": 1204,
+          "name": "Elgin City FC",
+          "logo": "https://cdn.footystats.org/img/teams/scotland-elgin-city-fc.png"
+        },
+        "points": 23,
+        "goalsDiff": -2,
+        "group": "Scotland League Two 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 21,
+          "win": 5,
+          "draw": 8,
+          "lose": 8,
+          "goals": {
+            "for": 31,
+            "against": 33
+          },
+          "form": "LLDDD",
+          "btts_matches": 14,
+          "avg_corners_per_game": 5.86,
+          "aproveitamento": 36.5,
+          "over_2_5_goals": 11,
+          "over_0_5_ht": 7,
+          "over_0_5_ft": 16,
+          "clean_sheets": 4
+        },
+        "home": {
+          "played": 10,
+          "win": 4,
+          "draw": 2,
+          "lose": 4,
+          "goals": {
+            "for": 18,
+            "against": 15
+          },
+          "form_home": "WWDLD",
+          "avg_corners_home_per_game": 5.5,
+          "aproveitamento_home": 46.7,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 9,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 11,
+          "win": 1,
+          "draw": 6,
+          "lose": 4,
+          "goals": {
+            "for": 13,
+            "against": 18
+          },
+          "form_visitor": "DLLDD",
+          "btts_away_matches": 8,
+          "avg_corners_away_per_game": 6.18,
+          "aproveitamento_away": 27.3,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 7,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      }
+    ]
+  },
+  "artilharia": {
+    "scotland_league_two": [
+      {
+        "jogador-nome": "Mark Stowe",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 13,
+        "jogador-assists": 1,
+        "jogador-partidas": 22,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/scotland-spartans-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/scotland-mark-stowe.png"
+      },
+      {
+        "jogador-nome": "Leighton McIntosh",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 12,
+        "jogador-assists": 1,
+        "jogador-partidas": 23,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/scotland-dumbarton-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/scotland-leighton-mcintosh.png"
+      },
+      {
+        "jogador-nome": "Russell McLean",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 12,
+        "jogador-assists": 0,
+        "jogador-partidas": 20,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/scotland-stirling-albion-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/scotland-russell-mclean.png"
+      },
+      {
+        "jogador-nome": "John Robertson",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 11,
+        "jogador-assists": 4,
+        "jogador-partidas": 21,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/scotland-east-kilbride-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-john-robertson.png"
+      },
+      {
+        "jogador-nome": "Robert Mahon",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 9,
+        "jogador-assists": 5,
+        "jogador-partidas": 20,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/scotland-edinburgh-city-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/republic-of-ireland-robert-mahon.png"
+      },
+      {
+        "jogador-nome": "Martin Rennie",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 9,
+        "jogador-assists": 5,
+        "jogador-partidas": 22,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/scotland-forfar-athletic-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/scotland-martin-rennie.png"
+      },
+      {
+        "jogador-nome": "Innes Lawson",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 8,
+        "jogador-assists": 2,
+        "jogador-partidas": 21,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/scotland-edinburgh-city-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-innes-lawson.png"
+      },
+      {
+        "jogador-nome": "Deryn Lang",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 8,
+        "jogador-assists": 2,
+        "jogador-partidas": 18,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/scotland-stranraer-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-deryn-lang.png"
+      },
+      {
+        "jogador-nome": "Cameron Elliott",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 7,
+        "jogador-assists": 4,
+        "jogador-partidas": 21,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/scotland-east-kilbride-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/scotland-cameron-elliott.png"
+      },
+      {
+        "jogador-nome": "James Hilton",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 7,
+        "jogador-assists": 3,
+        "jogador-partidas": 21,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/scotland-clyde-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/scotland-james-hilton.png"
+      },
+      {
+        "jogador-nome": "Ryan Shanley",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 7,
+        "jogador-assists": 1,
+        "jogador-partidas": 17,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/scotland-stirling-albion-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/scotland-ryan-shanley.png"
+      },
+      {
+        "jogador-nome": "Marley Redfern",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 7,
+        "jogador-assists": 0,
+        "jogador-partidas": 19,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/scotland-clyde-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/scotland-marley-redfern.png"
+      },
+      {
+        "jogador-nome": "Mark Russell",
+        "jogador-posicao": "Defender",
+        "jogador-gols": 7,
+        "jogador-assists": 0,
+        "jogador-partidas": 19,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/scotland-stranraer-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/scotland-mark-russell.png"
+      },
+      {
+        "jogador-nome": "Mark McNulty",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 6,
+        "jogador-assists": 7,
+        "jogador-partidas": 17,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/scotland-spartans-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/scotland-mark-mcnulty.png"
+      },
+      {
+        "jogador-nome": "Cameron Russell",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 6,
+        "jogador-assists": 3,
+        "jogador-partidas": 14,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/scotland-spartans-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/scotland-cameron-russell.png"
+      },
+      {
+        "jogador-nome": "Aidan Smith",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 6,
+        "jogador-assists": 2,
+        "jogador-partidas": 22,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/scotland-annan-athletic-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/scotland-aidan-smith.png"
+      },
+      {
+        "jogador-nome": "Scott Shepherd",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 6,
+        "jogador-assists": 1,
+        "jogador-partidas": 22,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/scotland-forfar-athletic-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/scotland-scott-shepherd.png"
+      },
+      {
+        "jogador-nome": "Jack Maciver",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 5,
+        "jogador-assists": 4,
+        "jogador-partidas": 20,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/scotland-elgin-city-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-jack-maciver.png"
+      },
+      {
+        "jogador-nome": "Bradley Whyte",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 5,
+        "jogador-assists": 3,
+        "jogador-partidas": 22,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/scotland-spartans-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/scotland-bradley-whyte.png"
+      },
+      {
+        "jogador-nome": "Ryan Sargent",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 5,
+        "jogador-assists": 2,
+        "jogador-partidas": 21,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/scotland-elgin-city-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-ryan-sargent.png"
+      }
+    ]
+  }
+}
