@@ -208,6 +208,74 @@
       {
         "rank": 4,
         "team": {
+          "id": 10306,
+          "name": "FC Universitatea Cluj",
+          "logo": "https://cdn.footystats.org/img/teams/romania-fc-universitatea-cluj.png"
+        },
+        "points": 45,
+        "goalsDiff": 13,
+        "group": "Romania Liga I 20252026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 27,
+          "win": 13,
+          "draw": 6,
+          "lose": 8,
+          "goals": {
+            "for": 38,
+            "against": 25
+          },
+          "form": "WWWLW",
+          "btts_matches": 12,
+          "avg_corners_per_game": 5.0,
+          "aproveitamento": 55.6,
+          "over_2_5_goals": 11,
+          "over_0_5_ht": 13,
+          "over_0_5_ft": 12,
+          "clean_sheets": 10
+        },
+        "home": {
+          "played": 14,
+          "win": 6,
+          "draw": 5,
+          "lose": 3,
+          "goals": {
+            "for": 19,
+            "against": 12
+          },
+          "form_home": "WWWWW",
+          "avg_corners_home_per_game": 4.21,
+          "aproveitamento_home": 54.8,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 8,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 5
+        },
+        "away": {
+          "played": 13,
+          "win": 7,
+          "draw": 1,
+          "lose": 5,
+          "goals": {
+            "for": 19,
+            "against": 13
+          },
+          "form_visitor": "WWLWL",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 5.85,
+          "aproveitamento_away": 56.4,
+          "over_2_5_goals_away": 6,
+          "over_0_5_ht_away": 5,
+          "over_0_5_ft_away": 9,
+          "clean_sheets_away": 5
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 5,
+        "team": {
           "id": 6644,
           "name": "FC Argeș Pitești",
           "logo": "https://cdn.footystats.org/img/teams/romania-fc-arges-pitesti.png"
@@ -216,7 +284,7 @@
         "goalsDiff": 7,
         "group": "Romania Liga I 20252026",
         "status": "same",
-        "description": "Copa Libertadores",
+        "description": "Copa Sul-Americana",
         "all": {
           "played": 27,
           "win": 13,
@@ -270,74 +338,6 @@
           "over_0_5_ht_away": 5,
           "over_0_5_ft_away": 9,
           "clean_sheets_away": 7
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 5,
-        "team": {
-          "id": 10306,
-          "name": "FC Universitatea Cluj",
-          "logo": "https://cdn.footystats.org/img/teams/romania-fc-universitatea-cluj.png"
-        },
-        "points": 42,
-        "goalsDiff": 10,
-        "group": "Romania Liga I 20252026",
-        "status": "same",
-        "description": "Copa Sul-Americana",
-        "all": {
-          "played": 26,
-          "win": 12,
-          "draw": 6,
-          "lose": 8,
-          "goals": {
-            "for": 34,
-            "against": 24
-          },
-          "form": "LWWWL",
-          "btts_matches": 11,
-          "avg_corners_per_game": 5.19,
-          "aproveitamento": 53.8,
-          "over_2_5_goals": 10,
-          "over_0_5_ht": 12,
-          "over_0_5_ft": 12,
-          "clean_sheets": 10
-        },
-        "home": {
-          "played": 13,
-          "win": 5,
-          "draw": 5,
-          "lose": 3,
-          "goals": {
-            "for": 15,
-            "against": 11
-          },
-          "form_home": "DWWWW",
-          "avg_corners_home_per_game": 4.54,
-          "aproveitamento_home": 51.3,
-          "btts_home_matches": 5,
-          "over_2_5_goals_home": 4,
-          "over_0_5_ht_home": 7,
-          "over_0_5_ft_home": 3,
-          "clean_sheets_home": 5
-        },
-        "away": {
-          "played": 13,
-          "win": 7,
-          "draw": 1,
-          "lose": 5,
-          "goals": {
-            "for": 19,
-            "against": 13
-          },
-          "form_visitor": "WWLWL",
-          "btts_away_matches": 6,
-          "avg_corners_away_per_game": 5.85,
-          "aproveitamento_away": 56.4,
-          "over_2_5_goals_away": 6,
-          "over_0_5_ht_away": 5,
-          "over_0_5_ft_away": 9,
-          "clean_sheets_away": 5
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -825,26 +825,26 @@
           "logo": "https://cdn.footystats.org/img/teams/romania-afk-csikszereda-miercurea-ciuc.png"
         },
         "points": 25,
-        "goalsDiff": -27,
+        "goalsDiff": -30,
         "group": "Romania Liga I 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 26,
+          "played": 27,
           "win": 6,
           "draw": 7,
-          "lose": 13,
+          "lose": 14,
           "goals": {
-            "for": 25,
-            "against": 52
+            "for": 26,
+            "against": 56
           },
-          "form": "WLLWW",
-          "btts_matches": 14,
-          "avg_corners_per_game": 2.77,
-          "aproveitamento": 32.1,
-          "over_2_5_goals": 15,
+          "form": "LLWWL",
+          "btts_matches": 15,
+          "avg_corners_per_game": 2.74,
+          "aproveitamento": 30.9,
+          "over_2_5_goals": 16,
           "over_0_5_ht": 13,
-          "over_0_5_ft": 9,
+          "over_0_5_ft": 10,
           "clean_sheets": 5
         },
         "home": {
@@ -866,21 +866,21 @@
           "clean_sheets_home": 2
         },
         "away": {
-          "played": 13,
+          "played": 14,
           "win": 2,
           "draw": 1,
-          "lose": 10,
+          "lose": 11,
           "goals": {
-            "for": 8,
-            "against": 35
+            "for": 9,
+            "against": 39
           },
-          "form_visitor": "LLLLW",
-          "btts_away_matches": 5,
-          "avg_corners_away_per_game": 1.85,
-          "aproveitamento_away": 17.9,
-          "over_2_5_goals_away": 9,
+          "form_visitor": "LLLWL",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 1.86,
+          "aproveitamento_away": 16.7,
+          "over_2_5_goals_away": 10,
           "over_0_5_ht_away": 5,
-          "over_0_5_ft_away": 3,
+          "over_0_5_ft_away": 4,
           "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1112,6 +1112,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/romania-florin-lucian-tanase.png"
       },
       {
+        "jogador-nome": "Jovo Lukić",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 11,
+        "jogador-assists": 2,
+        "jogador-partidas": 22,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/romania-fc-universitatea-cluj.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/bosnia-and-herzegovina-jovo-lukic.png"
+      },
+      {
         "jogador-nome": "Andrei Cordea",
         "jogador-posicao": "Forward",
         "jogador-gols": 11,
@@ -1119,15 +1128,6 @@
         "jogador-partidas": 20,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/romania-scs-cfr-1907-cluj.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/romania-andrei-cordea.png"
-      },
-      {
-        "jogador-nome": "Jovo Lukić",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 11,
-        "jogador-assists": 1,
-        "jogador-partidas": 21,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/romania-fc-universitatea-cluj.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/bosnia-and-herzegovina-jovo-lukic.png"
       },
       {
         "jogador-nome": "Valentin Ionuţ Costache",
@@ -1211,6 +1211,24 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/portugal-paulo-rafael-pereira-araujo.png"
       },
       {
+        "jogador-nome": "Marton Eppel",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 7,
+        "jogador-assists": 0,
+        "jogador-partidas": 24,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/romania-afk-csikszereda-miercurea-ciuc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/hungary-marton-eppel.png"
+      },
+      {
+        "jogador-nome": "Dan Nicolae Nistor",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 6,
+        "jogador-assists": 5,
+        "jogador-partidas": 18,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/romania-fc-universitatea-cluj.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/romania-dan-nicolae-nistor.png"
+      },
+      {
         "jogador-nome": "Pedro Nuno Fernandes Ferreira",
         "jogador-posicao": "Forward",
         "jogador-gols": 6,
@@ -1254,24 +1272,6 @@
         "jogador-partidas": 20,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/romania-fc-dinamo-1948-bucuresti.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/france-mamoudou-karamoko.png"
-      },
-      {
-        "jogador-nome": "Ionuț Daniel Vînă",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 6,
-        "jogador-assists": 1,
-        "jogador-partidas": 26,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/romania-ssc-farul-constanta.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/romania-ionut-daniel-vina.png"
-      },
-      {
-        "jogador-nome": "Christ Nkama Afalna",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 6,
-        "jogador-assists": 1,
-        "jogador-partidas": 25,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/romania-fc-unirea-2004-slobozia.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/cameroon-christ-nkama-afalna.png"
       }
     ]
   }
