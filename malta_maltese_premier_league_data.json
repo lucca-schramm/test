@@ -276,6 +276,74 @@
       {
         "rank": 5,
         "team": {
+          "id": 2488,
+          "name": "Sliema Wanderers FC",
+          "logo": "https://cdn.footystats.org/img/teams/malta-sliema-wanderers-fc.png"
+        },
+        "points": 34,
+        "goalsDiff": 0,
+        "group": "Malta Maltese Premier League 20252026",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 22,
+          "win": 9,
+          "draw": 7,
+          "lose": 6,
+          "goals": {
+            "for": 26,
+            "against": 26
+          },
+          "form": "LLDWD",
+          "btts_matches": 12,
+          "avg_corners_per_game": 4.64,
+          "aproveitamento": 51.5,
+          "over_2_5_goals": 9,
+          "over_0_5_ht": 10,
+          "over_0_5_ft": 11,
+          "clean_sheets": 6
+        },
+        "home": {
+          "played": 12,
+          "win": 5,
+          "draw": 4,
+          "lose": 3,
+          "goals": {
+            "for": 13,
+            "against": 13
+          },
+          "form_home": "DWDWL",
+          "avg_corners_home_per_game": 5.0,
+          "aproveitamento_home": 52.8,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 6,
+          "over_0_5_ft_home": 5,
+          "clean_sheets_home": 5
+        },
+        "away": {
+          "played": 10,
+          "win": 4,
+          "draw": 3,
+          "lose": 3,
+          "goals": {
+            "for": 13,
+            "against": 13
+          },
+          "form_visitor": "LLDWD",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 4.2,
+          "aproveitamento_away": 50.0,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 6,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 6,
+        "team": {
           "id": 959,
           "name": "Paola Hibernians FC",
           "logo": "https://cdn.footystats.org/img/teams/malta-paola-hibernians-fc.png"
@@ -338,74 +406,6 @@
           "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 4,
           "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 6,
-        "team": {
-          "id": 2488,
-          "name": "Sliema Wanderers FC",
-          "logo": "https://cdn.footystats.org/img/teams/malta-sliema-wanderers-fc.png"
-        },
-        "points": 33,
-        "goalsDiff": 0,
-        "group": "Malta Maltese Premier League 20252026",
-        "status": "same",
-        "description": "Copa Sul-Americana",
-        "all": {
-          "played": 21,
-          "win": 9,
-          "draw": 6,
-          "lose": 6,
-          "goals": {
-            "for": 25,
-            "against": 25
-          },
-          "form": "WLLDW",
-          "btts_matches": 11,
-          "avg_corners_per_game": 4.81,
-          "aproveitamento": 52.4,
-          "over_2_5_goals": 9,
-          "over_0_5_ht": 10,
-          "over_0_5_ft": 10,
-          "clean_sheets": 6
-        },
-        "home": {
-          "played": 12,
-          "win": 5,
-          "draw": 4,
-          "lose": 3,
-          "goals": {
-            "for": 13,
-            "against": 13
-          },
-          "form_home": "DWDWL",
-          "avg_corners_home_per_game": 5.0,
-          "aproveitamento_home": 52.8,
-          "btts_home_matches": 5,
-          "over_2_5_goals_home": 4,
-          "over_0_5_ht_home": 6,
-          "over_0_5_ft_home": 5,
-          "clean_sheets_home": 5
-        },
-        "away": {
-          "played": 9,
-          "win": 4,
-          "draw": 2,
-          "lose": 3,
-          "goals": {
-            "for": 12,
-            "against": 12
-          },
-          "form_visitor": "LLLDW",
-          "btts_away_matches": 6,
-          "avg_corners_away_per_game": 4.56,
-          "aproveitamento_away": 51.9,
-          "over_2_5_goals_away": 5,
-          "over_0_5_ht_away": 4,
-          "over_0_5_ft_away": 5,
-          "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -552,45 +552,45 @@
           "name": "Naxxar Lions FC",
           "logo": "https://cdn.footystats.org/img/teams/malta-naxxar-lions-fc.png"
         },
-        "points": 21,
+        "points": 22,
         "goalsDiff": -9,
         "group": "Malta Maltese Premier League 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 21,
+          "played": 22,
           "win": 6,
-          "draw": 3,
+          "draw": 4,
           "lose": 12,
           "goals": {
-            "for": 28,
-            "against": 37
+            "for": 29,
+            "against": 38
           },
-          "form": "LWLWL",
-          "btts_matches": 12,
-          "avg_corners_per_game": 4.9,
+          "form": "WLWLD",
+          "btts_matches": 13,
+          "avg_corners_per_game": 4.73,
           "aproveitamento": 33.3,
           "over_2_5_goals": 13,
           "over_0_5_ht": 10,
-          "over_0_5_ft": 9,
+          "over_0_5_ft": 10,
           "clean_sheets": 3
         },
         "home": {
-          "played": 8,
+          "played": 9,
           "win": 3,
-          "draw": 1,
+          "draw": 2,
           "lose": 4,
           "goals": {
-            "for": 12,
-            "against": 10
+            "for": 13,
+            "against": 11
           },
-          "form_home": "LDWWW",
-          "avg_corners_home_per_game": 5.0,
-          "aproveitamento_home": 41.7,
-          "btts_home_matches": 4,
+          "form_home": "DWWWD",
+          "avg_corners_home_per_game": 4.56,
+          "aproveitamento_home": 40.7,
+          "btts_home_matches": 5,
           "over_2_5_goals_home": 4,
           "over_0_5_ht_home": 3,
-          "over_0_5_ft_home": 5,
+          "over_0_5_ft_home": 6,
           "clean_sheets_home": 2
         },
         "away": {
@@ -826,7 +826,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 170,
         "jogador-assists": 0,
-        "jogador-partidas": 239,
+        "jogador-partidas": 241,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/malta-valletta-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-jogador_42458.png"
       },
@@ -952,7 +952,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 4,
         "jogador-assists": 0,
-        "jogador-partidas": 21,
+        "jogador-partidas": 22,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/malta-sliema-wanderers-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/croatia-roko-prsa.png"
       },
@@ -988,7 +988,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 4,
         "jogador-assists": 0,
-        "jogador-partidas": 15,
+        "jogador-partidas": 16,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/malta-naxxar-lions-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-joão-vítor-moura-cardoso.png"
       },
