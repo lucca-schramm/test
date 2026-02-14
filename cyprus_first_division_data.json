@@ -280,27 +280,27 @@
           "name": "Aris FC Limassol",
           "logo": "https://cdn.footystats.org/img/teams/cyprus-aris-fc-limassol.png"
         },
-        "points": 37,
+        "points": 38,
         "goalsDiff": 19,
         "group": "Cyprus First Division 20252026",
         "status": "same",
         "description": "Copa Sul-Americana",
         "all": {
-          "played": 21,
+          "played": 22,
           "win": 11,
-          "draw": 4,
+          "draw": 5,
           "lose": 6,
           "goals": {
-            "for": 39,
-            "against": 20
+            "for": 40,
+            "against": 21
           },
-          "form": "WWLLL",
-          "btts_matches": 8,
-          "avg_corners_per_game": 5.81,
-          "aproveitamento": 58.7,
+          "form": "WLLLD",
+          "btts_matches": 9,
+          "avg_corners_per_game": 5.77,
+          "aproveitamento": 57.6,
           "over_2_5_goals": 12,
           "over_0_5_ht": 14,
-          "over_0_5_ft": 13,
+          "over_0_5_ft": 14,
           "clean_sheets": 11
         },
         "home": {
@@ -322,21 +322,21 @@
           "clean_sheets_home": 6
         },
         "away": {
-          "played": 10,
+          "played": 11,
           "win": 3,
-          "draw": 3,
+          "draw": 4,
           "lose": 4,
           "goals": {
-            "for": 11,
-            "against": 10
+            "for": 12,
+            "against": 11
           },
-          "form_visitor": "LWDWL",
-          "btts_away_matches": 4,
-          "avg_corners_away_per_game": 5.7,
-          "aproveitamento_away": 40.0,
+          "form_visitor": "WDWLD",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 5.64,
+          "aproveitamento_away": 39.4,
           "over_2_5_goals_away": 4,
           "over_0_5_ht_away": 6,
-          "over_0_5_ft_away": 4,
+          "over_0_5_ft_away": 5,
           "clean_sheets_away": 5
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -616,6 +616,74 @@
       {
         "rank": 10,
         "team": {
+          "id": 3758,
+          "name": "Akritas Chloraka",
+          "logo": "https://cdn.footystats.org/img/teams/cyprus-akritas-chloraka.png"
+        },
+        "points": 23,
+        "goalsDiff": -18,
+        "group": "Cyprus First Division 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 22,
+          "win": 6,
+          "draw": 5,
+          "lose": 11,
+          "goals": {
+            "for": 19,
+            "against": 37
+          },
+          "form": "LLWLD",
+          "btts_matches": 7,
+          "avg_corners_per_game": 2.86,
+          "aproveitamento": 34.8,
+          "over_2_5_goals": 10,
+          "over_0_5_ht": 9,
+          "over_0_5_ft": 7,
+          "clean_sheets": 6
+        },
+        "home": {
+          "played": 11,
+          "win": 3,
+          "draw": 3,
+          "lose": 5,
+          "goals": {
+            "for": 9,
+            "against": 17
+          },
+          "form_home": "WLLWD",
+          "avg_corners_home_per_game": 2.55,
+          "aproveitamento_home": 36.4,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 11,
+          "win": 3,
+          "draw": 2,
+          "lose": 6,
+          "goals": {
+            "for": 10,
+            "against": 20
+          },
+          "form_visitor": "LWLLL",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 3.18,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 7,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 4
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 11,
+        "team": {
           "id": 3760,
           "name": "Olympiakos Nicosia FC",
           "logo": "https://cdn.footystats.org/img/teams/cyprus-olympiakos-nicosia-fc.png"
@@ -676,74 +744,6 @@
           "aproveitamento_away": 36.4,
           "over_2_5_goals_away": 3,
           "over_0_5_ht_away": 3,
-          "over_0_5_ft_away": 4,
-          "clean_sheets_away": 4
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 11,
-        "team": {
-          "id": 3758,
-          "name": "Akritas Chloraka",
-          "logo": "https://cdn.footystats.org/img/teams/cyprus-akritas-chloraka.png"
-        },
-        "points": 22,
-        "goalsDiff": -18,
-        "group": "Cyprus First Division 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 21,
-          "win": 6,
-          "draw": 4,
-          "lose": 11,
-          "goals": {
-            "for": 18,
-            "against": 36
-          },
-          "form": "LLLWL",
-          "btts_matches": 6,
-          "avg_corners_per_game": 2.95,
-          "aproveitamento": 34.9,
-          "over_2_5_goals": 10,
-          "over_0_5_ht": 9,
-          "over_0_5_ft": 6,
-          "clean_sheets": 6
-        },
-        "home": {
-          "played": 10,
-          "win": 3,
-          "draw": 2,
-          "lose": 5,
-          "goals": {
-            "for": 8,
-            "against": 16
-          },
-          "form_home": "DWLLW",
-          "avg_corners_home_per_game": 2.7,
-          "aproveitamento_home": 36.7,
-          "btts_home_matches": 3,
-          "over_2_5_goals_home": 3,
-          "over_0_5_ht_home": 5,
-          "over_0_5_ft_home": 2,
-          "clean_sheets_home": 2
-        },
-        "away": {
-          "played": 11,
-          "win": 3,
-          "draw": 2,
-          "lose": 6,
-          "goals": {
-            "for": 10,
-            "against": 20
-          },
-          "form_visitor": "LWLLL",
-          "btts_away_matches": 3,
-          "avg_corners_away_per_game": 3.18,
-          "aproveitamento_away": 33.3,
-          "over_2_5_goals_away": 7,
-          "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 4,
           "clean_sheets_away": 4
         },
@@ -1043,7 +1043,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 6,
         "jogador-assists": 2,
-        "jogador-partidas": 19,
+        "jogador-partidas": 20,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/cyprus-aris-fc-limassol.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-jaden-sean-montnor.png"
       },
@@ -1106,7 +1106,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 5,
         "jogador-assists": 1,
-        "jogador-partidas": 21,
+        "jogador-partidas": 22,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/cyprus-aris-fc-limassol.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/cyprus-andronikos-kakoulis.png"
       },
