@@ -412,6 +412,74 @@
       {
         "rank": 7,
         "team": {
+          "id": 1265,
+          "name": "Polokwane City FC",
+          "logo": "https://cdn.footystats.org/img/teams/south-africa-polokwane-city-fc.png"
+        },
+        "points": 25,
+        "goalsDiff": 2,
+        "group": "South Africa Premier Soccer League 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 17,
+          "win": 6,
+          "draw": 7,
+          "lose": 4,
+          "goals": {
+            "for": 13,
+            "against": 11
+          },
+          "form": "DWLDD",
+          "btts_matches": 6,
+          "avg_corners_per_game": 5.12,
+          "aproveitamento": 49.0,
+          "over_2_5_goals": 4,
+          "over_0_5_ht": 7,
+          "over_0_5_ft": 3,
+          "clean_sheets": 7
+        },
+        "home": {
+          "played": 9,
+          "win": 3,
+          "draw": 6,
+          "lose": 0,
+          "goals": {
+            "for": 8,
+            "against": 5
+          },
+          "form_home": "WDDDD",
+          "avg_corners_home_per_game": 6.33,
+          "aproveitamento_home": 55.6,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 2,
+          "clean_sheets_home": 5
+        },
+        "away": {
+          "played": 8,
+          "win": 3,
+          "draw": 1,
+          "lose": 4,
+          "goals": {
+            "for": 5,
+            "against": 6
+          },
+          "form_visitor": "LLWWL",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 3.75,
+          "aproveitamento_away": 41.7,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 8,
+        "team": {
           "id": 676886,
           "name": "TS Galaxy FC",
           "logo": "https://cdn.footystats.org/img/teams/south-africa-ts-galaxy-fc.png"
@@ -474,74 +542,6 @@
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 4,
           "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 8,
-        "team": {
-          "id": 1265,
-          "name": "Polokwane City FC",
-          "logo": "https://cdn.footystats.org/img/teams/south-africa-polokwane-city-fc.png"
-        },
-        "points": 24,
-        "goalsDiff": 2,
-        "group": "South Africa Premier Soccer League 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 16,
-          "win": 6,
-          "draw": 6,
-          "lose": 4,
-          "goals": {
-            "for": 13,
-            "against": 11
-          },
-          "form": "WDWLD",
-          "btts_matches": 6,
-          "avg_corners_per_game": 4.94,
-          "aproveitamento": 50.0,
-          "over_2_5_goals": 4,
-          "over_0_5_ht": 7,
-          "over_0_5_ft": 3,
-          "clean_sheets": 6
-        },
-        "home": {
-          "played": 8,
-          "win": 3,
-          "draw": 5,
-          "lose": 0,
-          "goals": {
-            "for": 8,
-            "against": 5
-          },
-          "form_home": "WWDDD",
-          "avg_corners_home_per_game": 6.12,
-          "aproveitamento_home": 58.3,
-          "btts_home_matches": 4,
-          "over_2_5_goals_home": 3,
-          "over_0_5_ht_home": 4,
-          "over_0_5_ft_home": 2,
-          "clean_sheets_home": 4
-        },
-        "away": {
-          "played": 8,
-          "win": 3,
-          "draw": 1,
-          "lose": 4,
-          "goals": {
-            "for": 5,
-            "against": 6
-          },
-          "form_visitor": "LLWWL",
-          "btts_away_matches": 2,
-          "avg_corners_away_per_game": 3.75,
-          "aproveitamento_away": 41.7,
-          "over_2_5_goals_away": 1,
-          "over_0_5_ht_away": 3,
-          "over_0_5_ft_away": 1,
-          "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -688,28 +688,28 @@
           "name": "Siwelele",
           "logo": "https://cdn.footystats.org/img/teams/south-africa-siwelele.png"
         },
-        "points": 17,
+        "points": 18,
         "goalsDiff": -5,
         "group": "South Africa Premier Soccer League 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 16,
+          "played": 17,
           "win": 4,
-          "draw": 5,
+          "draw": 6,
           "lose": 7,
           "goals": {
             "for": 9,
             "against": 14
           },
-          "form": "WLDDD",
+          "form": "LDDDD",
           "btts_matches": 3,
-          "avg_corners_per_game": 4.5,
-          "aproveitamento": 35.4,
+          "avg_corners_per_game": 4.47,
+          "aproveitamento": 35.3,
           "over_2_5_goals": 1,
           "over_0_5_ht": 5,
           "over_0_5_ft": 3,
-          "clean_sheets": 6
+          "clean_sheets": 7
         },
         "home": {
           "played": 8,
@@ -730,22 +730,22 @@
           "clean_sheets_home": 4
         },
         "away": {
-          "played": 8,
+          "played": 9,
           "win": 1,
-          "draw": 2,
+          "draw": 3,
           "lose": 5,
           "goals": {
             "for": 3,
             "against": 10
           },
-          "form_visitor": "LDWLD",
+          "form_visitor": "DWLDD",
           "btts_away_matches": 1,
-          "avg_corners_away_per_game": 4.88,
-          "aproveitamento_away": 20.8,
+          "avg_corners_away_per_game": 4.78,
+          "aproveitamento_away": 22.2,
           "over_2_5_goals_away": 0,
           "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 1,
-          "clean_sheets_away": 2
+          "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
