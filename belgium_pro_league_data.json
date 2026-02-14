@@ -824,45 +824,45 @@
           "name": "Oud-Heverlee Leuven",
           "logo": "https://cdn.footystats.org/img/teams/belgium-oud-heverlee-leuven.png"
         },
-        "points": 25,
-        "goalsDiff": -9,
+        "points": 28,
+        "goalsDiff": -8,
         "group": "Belgium Pro League 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 24,
-          "win": 6,
+          "played": 25,
+          "win": 7,
           "draw": 7,
           "lose": 11,
           "goals": {
-            "for": 24,
-            "against": 33
+            "for": 27,
+            "against": 35
           },
-          "form": "DLDDW",
-          "btts_matches": 12,
-          "avg_corners_per_game": 4.46,
-          "aproveitamento": 34.7,
-          "over_2_5_goals": 11,
-          "over_0_5_ht": 8,
-          "over_0_5_ft": 12,
+          "form": "LDDWW",
+          "btts_matches": 13,
+          "avg_corners_per_game": 4.68,
+          "aproveitamento": 37.3,
+          "over_2_5_goals": 12,
+          "over_0_5_ht": 9,
+          "over_0_5_ft": 13,
           "clean_sheets": 6
         },
         "home": {
-          "played": 12,
-          "win": 2,
+          "played": 13,
+          "win": 3,
           "draw": 5,
           "lose": 5,
           "goals": {
-            "for": 14,
-            "against": 15
+            "for": 17,
+            "against": 17
           },
-          "form_home": "LDLDD",
-          "avg_corners_home_per_game": 4.58,
-          "aproveitamento_home": 30.6,
-          "btts_home_matches": 7,
-          "over_2_5_goals_home": 6,
-          "over_0_5_ht_home": 7,
-          "over_0_5_ft_home": 5,
+          "form_home": "DLDDW",
+          "avg_corners_home_per_game": 5.0,
+          "aproveitamento_home": 35.9,
+          "btts_home_matches": 8,
+          "over_2_5_goals_home": 7,
+          "over_0_5_ht_home": 8,
+          "over_0_5_ft_home": 6,
           "clean_sheets_home": 3
         },
         "away": {
@@ -1029,26 +1029,26 @@
           "logo": "https://cdn.footystats.org/img/teams/belgium-fc-verbroedering-dender-eendracht-hekelgem.png"
         },
         "points": 17,
-        "goalsDiff": -19,
+        "goalsDiff": -20,
         "group": "Belgium Pro League 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 24,
+          "played": 25,
           "win": 3,
           "draw": 8,
-          "lose": 13,
+          "lose": 14,
           "goals": {
-            "for": 18,
-            "against": 37
+            "for": 20,
+            "against": 40
           },
-          "form": "DWDLL",
-          "btts_matches": 13,
-          "avg_corners_per_game": 3.38,
-          "aproveitamento": 23.6,
-          "over_2_5_goals": 11,
-          "over_0_5_ht": 7,
-          "over_0_5_ft": 10,
+          "form": "WDLLL",
+          "btts_matches": 14,
+          "avg_corners_per_game": 3.52,
+          "aproveitamento": 22.7,
+          "over_2_5_goals": 12,
+          "over_0_5_ht": 8,
+          "over_0_5_ft": 11,
           "clean_sheets": 4
         },
         "home": {
@@ -1070,21 +1070,21 @@
           "clean_sheets_home": 3
         },
         "away": {
-          "played": 12,
+          "played": 13,
           "win": 2,
           "draw": 4,
-          "lose": 6,
+          "lose": 7,
           "goals": {
-            "for": 10,
-            "against": 18
+            "for": 12,
+            "against": 21
           },
-          "form_visitor": "WWDDL",
-          "btts_away_matches": 8,
-          "avg_corners_away_per_game": 3.33,
-          "aproveitamento_away": 27.8,
-          "over_2_5_goals_away": 6,
-          "over_0_5_ht_away": 3,
-          "over_0_5_ft_away": 6,
+          "form_visitor": "WDDLL",
+          "btts_away_matches": 9,
+          "avg_corners_away_per_game": 3.62,
+          "aproveitamento_away": 25.6,
+          "over_2_5_goals_away": 7,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 7,
           "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1119,6 +1119,15 @@
         "jogador-partidas": 20,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/belgium-kaa-gent.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/france-wilfried-kanga.png"
+      },
+      {
+        "jogador-nome": "Bruny Nsimba",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 8,
+        "jogador-assists": 4,
+        "jogador-partidas": 24,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/belgium-fc-verbroedering-dender-eendracht-hekelgem.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/belgium-bruny-nsimba.png"
       },
       {
         "jogador-nome": "Parfait Guiagon",
@@ -1164,15 +1173,6 @@
         "jogador-partidas": 18,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/belgium-royal-union-saint-gilloise.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/austria-raul-alexander-florucz.png"
-      },
-      {
-        "jogador-nome": "Bruny Nsimba",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 7,
-        "jogador-assists": 3,
-        "jogador-partidas": 23,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/belgium-fc-verbroedering-dender-eendracht-hekelgem.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/belgium-bruny-nsimba.png"
       },
       {
         "jogador-nome": "Romeo Vermant",
