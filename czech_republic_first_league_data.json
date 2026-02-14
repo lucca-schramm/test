@@ -140,6 +140,74 @@
       {
         "rank": 3,
         "team": {
+          "id": 77,
+          "name": "FC Viktoria Plzeň",
+          "logo": "https://cdn.footystats.org/img/teams/czech-republic-fc-viktoria-plzen.png"
+        },
+        "points": 41,
+        "goalsDiff": 14,
+        "group": "Czech Republic First League 20252026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 22,
+          "win": 12,
+          "draw": 5,
+          "lose": 5,
+          "goals": {
+            "for": 42,
+            "against": 28
+          },
+          "form": "LWWWW",
+          "btts_matches": 13,
+          "avg_corners_per_game": 5.45,
+          "aproveitamento": 62.1,
+          "over_2_5_goals": 12,
+          "over_0_5_ht": 16,
+          "over_0_5_ft": 13,
+          "clean_sheets": 6
+        },
+        "home": {
+          "played": 11,
+          "win": 6,
+          "draw": 3,
+          "lose": 2,
+          "goals": {
+            "for": 20,
+            "against": 14
+          },
+          "form_home": "WLWWW",
+          "avg_corners_home_per_game": 6.82,
+          "aproveitamento_home": 63.6,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 9,
+          "over_0_5_ft_home": 7,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 11,
+          "win": 6,
+          "draw": 2,
+          "lose": 3,
+          "goals": {
+            "for": 22,
+            "against": 14
+          },
+          "form_visitor": "WDLWW",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 4.09,
+          "aproveitamento_away": 60.6,
+          "over_2_5_goals_away": 7,
+          "over_0_5_ht_away": 7,
+          "over_0_5_ft_away": 6,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 4,
+        "team": {
           "id": 2430,
           "name": "FK Jablonec",
           "logo": "https://cdn.footystats.org/img/teams/czech-republic-fk-jablonec-.png"
@@ -202,74 +270,6 @@
           "over_0_5_ht_away": 6,
           "over_0_5_ft_away": 5,
           "clean_sheets_away": 5
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 4,
-        "team": {
-          "id": 77,
-          "name": "FC Viktoria Plzeň",
-          "logo": "https://cdn.footystats.org/img/teams/czech-republic-fc-viktoria-plzen.png"
-        },
-        "points": 38,
-        "goalsDiff": 13,
-        "group": "Czech Republic First League 20252026",
-        "status": "same",
-        "description": "Copa Libertadores",
-        "all": {
-          "played": 21,
-          "win": 11,
-          "draw": 5,
-          "lose": 5,
-          "goals": {
-            "for": 40,
-            "against": 27
-          },
-          "form": "WLWWW",
-          "btts_matches": 12,
-          "avg_corners_per_game": 5.48,
-          "aproveitamento": 60.3,
-          "over_2_5_goals": 11,
-          "over_0_5_ht": 15,
-          "over_0_5_ft": 13,
-          "clean_sheets": 6
-        },
-        "home": {
-          "played": 11,
-          "win": 6,
-          "draw": 3,
-          "lose": 2,
-          "goals": {
-            "for": 20,
-            "against": 14
-          },
-          "form_home": "WLWWW",
-          "avg_corners_home_per_game": 6.82,
-          "aproveitamento_home": 63.6,
-          "btts_home_matches": 7,
-          "over_2_5_goals_home": 5,
-          "over_0_5_ht_home": 9,
-          "over_0_5_ft_home": 7,
-          "clean_sheets_home": 3
-        },
-        "away": {
-          "played": 10,
-          "win": 5,
-          "draw": 2,
-          "lose": 3,
-          "goals": {
-            "for": 20,
-            "against": 13
-          },
-          "form_visitor": "WWDLW",
-          "btts_away_matches": 5,
-          "avg_corners_away_per_game": 4.0,
-          "aproveitamento_away": 56.7,
-          "over_2_5_goals_away": 6,
-          "over_0_5_ht_away": 6,
-          "over_0_5_ft_away": 6,
-          "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -485,43 +485,43 @@
           "logo": "https://cdn.footystats.org/img/teams/czech-republic-sk-sigma-olomouc.png"
         },
         "points": 30,
-        "goalsDiff": 0,
+        "goalsDiff": -1,
         "group": "Czech Republic First League 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 21,
+          "played": 22,
           "win": 8,
           "draw": 6,
-          "lose": 7,
+          "lose": 8,
           "goals": {
-            "for": 19,
-            "against": 19
+            "for": 20,
+            "against": 21
           },
-          "form": "LLLWL",
-          "btts_matches": 5,
-          "avg_corners_per_game": 4.86,
-          "aproveitamento": 47.6,
-          "over_2_5_goals": 5,
-          "over_0_5_ht": 6,
+          "form": "LLWLL",
+          "btts_matches": 6,
+          "avg_corners_per_game": 4.91,
+          "aproveitamento": 45.5,
+          "over_2_5_goals": 6,
+          "over_0_5_ht": 7,
           "over_0_5_ft": 7,
           "clean_sheets": 9
         },
         "home": {
-          "played": 10,
+          "played": 11,
           "win": 6,
           "draw": 3,
-          "lose": 1,
+          "lose": 2,
           "goals": {
-            "for": 9,
-            "against": 2
+            "for": 10,
+            "against": 4
           },
-          "form_home": "WDWLW",
-          "avg_corners_home_per_game": 5.7,
-          "aproveitamento_home": 70.0,
-          "btts_home_matches": 1,
-          "over_2_5_goals_home": 1,
-          "over_0_5_ht_home": 2,
+          "form_home": "DWLWL",
+          "avg_corners_home_per_game": 5.73,
+          "aproveitamento_home": 63.6,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 3,
           "over_0_5_ft_home": 4,
           "clean_sheets_home": 8
         },
@@ -1103,6 +1103,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/czech-republic-tomas-chory.png"
       },
       {
+        "jogador-nome": "Dávid Krčík",
+        "jogador-posicao": "Defender",
+        "jogador-gols": 9,
+        "jogador-assists": 2,
+        "jogador-partidas": 21,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/czech-republic-mfk-karvina.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/slovakia-david-krcik.png"
+      },
+      {
         "jogador-nome": "Daniel Vašulín",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 9,
@@ -1119,15 +1128,6 @@
         "jogador-partidas": 21,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/czech-republic-fc-hradec-kralove.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/czech-republic-vladimir-darida.png"
-      },
-      {
-        "jogador-nome": "Dávid Krčík",
-        "jogador-posicao": "Defender",
-        "jogador-gols": 8,
-        "jogador-assists": 2,
-        "jogador-partidas": 20,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/czech-republic-mfk-karvina.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/slovakia-david-krcik.png"
       },
       {
         "jogador-nome": "Abdallah Gning",
@@ -1233,7 +1233,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 6,
         "jogador-assists": 3,
-        "jogador-partidas": 15,
+        "jogador-partidas": 16,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/czech-republic-fc-viktoria-plzen.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/czech-republic-matej-vydra.png"
       },
@@ -1269,7 +1269,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 6,
         "jogador-assists": 0,
-        "jogador-partidas": 14,
+        "jogador-partidas": 15,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/czech-republic-fc-viktoria-plzen.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/czech-republic-denis-visinsky.png"
       }
