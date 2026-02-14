@@ -1,0 +1,870 @@
+{
+  "standings": {
+    "switzerland_challenge_league": [
+      {
+        "rank": 1,
+        "team": {
+          "id": 893,
+          "name": "FC Vaduz",
+          "logo": "https://cdn.footystats.org/img/teams/liechtenstein-fc-vaduz.png"
+        },
+        "points": 52,
+        "goalsDiff": 26,
+        "group": "Switzerland Challenge League 20252026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 22,
+          "win": 16,
+          "draw": 4,
+          "lose": 2,
+          "goals": {
+            "for": 51,
+            "against": 25
+          },
+          "form": "WWLDW",
+          "btts_matches": 13,
+          "avg_corners_per_game": 5.59,
+          "aproveitamento": 78.8,
+          "over_2_5_goals": 13,
+          "over_0_5_ht": 14,
+          "over_0_5_ft": 19,
+          "clean_sheets": 8
+        },
+        "home": {
+          "played": 11,
+          "win": 10,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 32,
+            "against": 13
+          },
+          "form_home": "WWWWD",
+          "avg_corners_home_per_game": 6.18,
+          "aproveitamento_home": 93.9,
+          "btts_home_matches": 8,
+          "over_2_5_goals_home": 10,
+          "over_0_5_ht_home": 10,
+          "over_0_5_ft_home": 10,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 11,
+          "win": 6,
+          "draw": 3,
+          "lose": 2,
+          "goals": {
+            "for": 19,
+            "against": 12
+          },
+          "form_visitor": "WWWLW",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 5.0,
+          "aproveitamento_away": 63.6,
+          "over_2_5_goals_away": 3,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 9,
+          "clean_sheets_away": 5
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 2,
+        "team": {
+          "id": 897,
+          "name": "FC Aarau",
+          "logo": "https://cdn.footystats.org/img/teams/switzerland-fc-aarau.png"
+        },
+        "points": 49,
+        "goalsDiff": 13,
+        "group": "Switzerland Challenge League 20252026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 22,
+          "win": 16,
+          "draw": 1,
+          "lose": 5,
+          "goals": {
+            "for": 42,
+            "against": 29
+          },
+          "form": "LWWDL",
+          "btts_matches": 14,
+          "avg_corners_per_game": 4.95,
+          "aproveitamento": 74.2,
+          "over_2_5_goals": 15,
+          "over_0_5_ht": 16,
+          "over_0_5_ft": 18,
+          "clean_sheets": 7
+        },
+        "home": {
+          "played": 11,
+          "win": 8,
+          "draw": 1,
+          "lose": 2,
+          "goals": {
+            "for": 17,
+            "against": 7
+          },
+          "form_home": "WLWWD",
+          "avg_corners_home_per_game": 5.64,
+          "aproveitamento_home": 75.8,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 7,
+          "over_0_5_ft_home": 8,
+          "clean_sheets_home": 6
+        },
+        "away": {
+          "played": 11,
+          "win": 8,
+          "draw": 0,
+          "lose": 3,
+          "goals": {
+            "for": 25,
+            "against": 22
+          },
+          "form_visitor": "WWLWL",
+          "btts_away_matches": 10,
+          "avg_corners_away_per_game": 4.27,
+          "aproveitamento_away": 72.7,
+          "over_2_5_goals_away": 10,
+          "over_0_5_ht_away": 9,
+          "over_0_5_ft_away": 10,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 3,
+        "team": {
+          "id": 1074,
+          "name": "Yverdon Sport FC",
+          "logo": "https://cdn.footystats.org/img/teams/switzerland-yverdon-sport-fc.png"
+        },
+        "points": 42,
+        "goalsDiff": 15,
+        "group": "Switzerland Challenge League 20252026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 22,
+          "win": 13,
+          "draw": 3,
+          "lose": 6,
+          "goals": {
+            "for": 43,
+            "against": 28
+          },
+          "form": "WWLWW",
+          "btts_matches": 13,
+          "avg_corners_per_game": 3.64,
+          "aproveitamento": 63.6,
+          "over_2_5_goals": 16,
+          "over_0_5_ht": 12,
+          "over_0_5_ft": 17,
+          "clean_sheets": 8
+        },
+        "home": {
+          "played": 11,
+          "win": 8,
+          "draw": 0,
+          "lose": 3,
+          "goals": {
+            "for": 22,
+            "against": 11
+          },
+          "form_home": "WLWLW",
+          "avg_corners_home_per_game": 4.0,
+          "aproveitamento_home": 72.7,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 9,
+          "clean_sheets_home": 6
+        },
+        "away": {
+          "played": 11,
+          "win": 5,
+          "draw": 3,
+          "lose": 3,
+          "goals": {
+            "for": 21,
+            "against": 17
+          },
+          "form_visitor": "DWLWW",
+          "btts_away_matches": 8,
+          "avg_corners_away_per_game": 3.27,
+          "aproveitamento_away": 54.5,
+          "over_2_5_goals_away": 10,
+          "over_0_5_ht_away": 7,
+          "over_0_5_ft_away": 8,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 4,
+        "team": {
+          "id": 1080,
+          "name": "FC Stade Lausanne-Ouchy",
+          "logo": "https://cdn.footystats.org/img/teams/switzerland-fc-stade-lausanne-ouchy.png"
+        },
+        "points": 35,
+        "goalsDiff": 10,
+        "group": "Switzerland Challenge League 20252026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 22,
+          "win": 10,
+          "draw": 5,
+          "lose": 7,
+          "goals": {
+            "for": 41,
+            "against": 31
+          },
+          "form": "WLWLW",
+          "btts_matches": 12,
+          "avg_corners_per_game": 5.55,
+          "aproveitamento": 53.0,
+          "over_2_5_goals": 15,
+          "over_0_5_ht": 14,
+          "over_0_5_ft": 12,
+          "clean_sheets": 6
+        },
+        "home": {
+          "played": 11,
+          "win": 5,
+          "draw": 4,
+          "lose": 2,
+          "goals": {
+            "for": 26,
+            "against": 15
+          },
+          "form_home": "LWWWW",
+          "avg_corners_home_per_game": 5.18,
+          "aproveitamento_home": 57.6,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 7,
+          "over_0_5_ht_home": 9,
+          "over_0_5_ft_home": 6,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 11,
+          "win": 5,
+          "draw": 1,
+          "lose": 5,
+          "goals": {
+            "for": 15,
+            "against": 16
+          },
+          "form_visitor": "LDWLL",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 5.91,
+          "aproveitamento_away": 48.5,
+          "over_2_5_goals_away": 8,
+          "over_0_5_ht_away": 5,
+          "over_0_5_ft_away": 6,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 5,
+        "team": {
+          "id": 900,
+          "name": "Neuchâtel Xamax FCS",
+          "logo": "https://cdn.footystats.org/img/teams/switzerland-neuchatel-xamax-fcs.png"
+        },
+        "points": 31,
+        "goalsDiff": 0,
+        "group": "Switzerland Challenge League 20252026",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 22,
+          "win": 9,
+          "draw": 4,
+          "lose": 9,
+          "goals": {
+            "for": 33,
+            "against": 33
+          },
+          "form": "DLLWW",
+          "btts_matches": 14,
+          "avg_corners_per_game": 4.14,
+          "aproveitamento": 47.0,
+          "over_2_5_goals": 14,
+          "over_0_5_ht": 10,
+          "over_0_5_ft": 12,
+          "clean_sheets": 3
+        },
+        "home": {
+          "played": 11,
+          "win": 5,
+          "draw": 3,
+          "lose": 3,
+          "goals": {
+            "for": 17,
+            "against": 13
+          },
+          "form_home": "DLWLW",
+          "avg_corners_home_per_game": 4.45,
+          "aproveitamento_home": 54.5,
+          "btts_home_matches": 8,
+          "over_2_5_goals_home": 7,
+          "over_0_5_ht_home": 6,
+          "over_0_5_ft_home": 6,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 11,
+          "win": 4,
+          "draw": 1,
+          "lose": 6,
+          "goals": {
+            "for": 16,
+            "against": 20
+          },
+          "form_visitor": "LLDLW",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 3.82,
+          "aproveitamento_away": 39.4,
+          "over_2_5_goals_away": 7,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 6,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 6,
+        "team": {
+          "id": 1049,
+          "name": "FC Rapperswil-Jona",
+          "logo": "https://cdn.footystats.org/img/teams/switzerland-fc-rapperswil-jona.png"
+        },
+        "points": 25,
+        "goalsDiff": -9,
+        "group": "Switzerland Challenge League 20252026",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 22,
+          "win": 8,
+          "draw": 1,
+          "lose": 13,
+          "goals": {
+            "for": 24,
+            "against": 33
+          },
+          "form": "LWLLW",
+          "btts_matches": 11,
+          "avg_corners_per_game": 4.0,
+          "aproveitamento": 37.9,
+          "over_2_5_goals": 12,
+          "over_0_5_ht": 12,
+          "over_0_5_ft": 9,
+          "clean_sheets": 6
+        },
+        "home": {
+          "played": 11,
+          "win": 4,
+          "draw": 0,
+          "lose": 7,
+          "goals": {
+            "for": 9,
+            "against": 20
+          },
+          "form_home": "LWLWL",
+          "avg_corners_home_per_game": 4.36,
+          "aproveitamento_home": 36.4,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 7,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 11,
+          "win": 4,
+          "draw": 1,
+          "lose": 6,
+          "goals": {
+            "for": 15,
+            "against": 13
+          },
+          "form_visitor": "WWLLW",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 3.64,
+          "aproveitamento_away": 39.4,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 7,
+          "over_0_5_ft_away": 5,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 7,
+        "team": {
+          "id": 899,
+          "name": "FC Wil 1900",
+          "logo": "https://cdn.footystats.org/img/teams/switzerland-fc-wil-1900.png"
+        },
+        "points": 21,
+        "goalsDiff": -16,
+        "group": "Switzerland Challenge League 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 22,
+          "win": 5,
+          "draw": 6,
+          "lose": 11,
+          "goals": {
+            "for": 19,
+            "against": 35
+          },
+          "form": "WLDDL",
+          "btts_matches": 11,
+          "avg_corners_per_game": 3.82,
+          "aproveitamento": 31.8,
+          "over_2_5_goals": 11,
+          "over_0_5_ht": 6,
+          "over_0_5_ft": 9,
+          "clean_sheets": 7
+        },
+        "home": {
+          "played": 11,
+          "win": 3,
+          "draw": 3,
+          "lose": 5,
+          "goals": {
+            "for": 8,
+            "against": 15
+          },
+          "form_home": "LDWDL",
+          "avg_corners_home_per_game": 4.36,
+          "aproveitamento_home": 36.4,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 5
+        },
+        "away": {
+          "played": 11,
+          "win": 2,
+          "draw": 3,
+          "lose": 6,
+          "goals": {
+            "for": 11,
+            "against": 20
+          },
+          "form_visitor": "WDWLD",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 3.27,
+          "aproveitamento_away": 27.3,
+          "over_2_5_goals_away": 7,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 5,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 8,
+        "team": {
+          "id": 1081,
+          "name": "FC Stade Nyonnais",
+          "logo": "https://cdn.footystats.org/img/teams/switzerland-fc-stade-nyonnais.png"
+        },
+        "points": 21,
+        "goalsDiff": -7,
+        "group": "Switzerland Challenge League 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 22,
+          "win": 4,
+          "draw": 9,
+          "lose": 9,
+          "goals": {
+            "for": 23,
+            "against": 30
+          },
+          "form": "DDDDL",
+          "btts_matches": 11,
+          "avg_corners_per_game": 2.91,
+          "aproveitamento": 31.8,
+          "over_2_5_goals": 8,
+          "over_0_5_ht": 8,
+          "over_0_5_ft": 9,
+          "clean_sheets": 4
+        },
+        "home": {
+          "played": 11,
+          "win": 3,
+          "draw": 5,
+          "lose": 3,
+          "goals": {
+            "for": 17,
+            "against": 16
+          },
+          "form_home": "DLDDD",
+          "avg_corners_home_per_game": 3.0,
+          "aproveitamento_home": 42.4,
+          "btts_home_matches": 8,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 7,
+          "over_0_5_ft_home": 5,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 11,
+          "win": 1,
+          "draw": 4,
+          "lose": 6,
+          "goals": {
+            "for": 6,
+            "against": 14
+          },
+          "form_visitor": "WLLDL",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 2.82,
+          "aproveitamento_away": 21.2,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 9,
+        "team": {
+          "id": 1143,
+          "name": "Étoile Carouge FC",
+          "logo": "https://cdn.footystats.org/img/teams/switzerland-etoile-carouge-fc.png"
+        },
+        "points": 18,
+        "goalsDiff": -12,
+        "group": "Switzerland Challenge League 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 22,
+          "win": 4,
+          "draw": 6,
+          "lose": 12,
+          "goals": {
+            "for": 22,
+            "against": 34
+          },
+          "form": "LDWDL",
+          "btts_matches": 12,
+          "avg_corners_per_game": 4.0,
+          "aproveitamento": 27.3,
+          "over_2_5_goals": 11,
+          "over_0_5_ht": 9,
+          "over_0_5_ft": 10,
+          "clean_sheets": 4
+        },
+        "home": {
+          "played": 11,
+          "win": 3,
+          "draw": 3,
+          "lose": 5,
+          "goals": {
+            "for": 11,
+            "against": 16
+          },
+          "form_home": "LDLWL",
+          "avg_corners_home_per_game": 4.64,
+          "aproveitamento_home": 36.4,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 5,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 11,
+          "win": 1,
+          "draw": 3,
+          "lose": 7,
+          "goals": {
+            "for": 11,
+            "against": 18
+          },
+          "form_visitor": "DLLDD",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 3.36,
+          "aproveitamento_away": 18.2,
+          "over_2_5_goals_away": 6,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 5,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 10,
+        "team": {
+          "id": 1146,
+          "name": "AC Bellinzona",
+          "logo": "https://cdn.footystats.org/img/teams/switzerland-ac-bellinzona.png"
+        },
+        "points": 14,
+        "goalsDiff": -20,
+        "group": "Switzerland Challenge League 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 22,
+          "win": 3,
+          "draw": 5,
+          "lose": 14,
+          "goals": {
+            "for": 19,
+            "against": 39
+          },
+          "form": "LLWDL",
+          "btts_matches": 7,
+          "avg_corners_per_game": 4.32,
+          "aproveitamento": 21.2,
+          "over_2_5_goals": 9,
+          "over_0_5_ht": 5,
+          "over_0_5_ft": 7,
+          "clean_sheets": 4
+        },
+        "home": {
+          "played": 11,
+          "win": 3,
+          "draw": 2,
+          "lose": 6,
+          "goals": {
+            "for": 14,
+            "against": 18
+          },
+          "form_home": "LWLWL",
+          "avg_corners_home_per_game": 3.82,
+          "aproveitamento_home": 33.3,
+          "btts_home_matches": 3,
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 11,
+          "win": 0,
+          "draw": 3,
+          "lose": 8,
+          "goals": {
+            "for": 5,
+            "against": 21
+          },
+          "form_visitor": "LLLLD",
+          "btts_away_matches": 4,
+          "avg_corners_away_per_game": 4.82,
+          "aproveitamento_away": 9.1,
+          "over_2_5_goals_away": 4,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      }
+    ]
+  },
+  "artilharia": {
+    "switzerland_challenge_league": [
+      {
+        "jogador-nome": "Jogador_42458",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 76,
+        "jogador-assists": 0,
+        "jogador-partidas": 127,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/switzerland-neuchatel-xamax-fcs.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-jogador_42458.png"
+      },
+      {
+        "jogador-nome": "Shkelqim Demhasaj",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 14,
+        "jogador-assists": 3,
+        "jogador-partidas": 18,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/switzerland-neuchatel-xamax-fcs.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/switzerland-shkelqim-demhasaj.png"
+      },
+      {
+        "jogador-nome": "Valon Fazliu",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 11,
+        "jogador-assists": 3,
+        "jogador-partidas": 21,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/switzerland-fc-aarau.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/switzerland-valon-fazliu.png"
+      },
+      {
+        "jogador-nome": "Elias Filet",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 10,
+        "jogador-assists": 4,
+        "jogador-partidas": 21,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/switzerland-fc-aarau.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-elias-filet.png"
+      },
+      {
+        "jogador-nome": "Antonio Marchesano",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 10,
+        "jogador-assists": 2,
+        "jogador-partidas": 21,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/switzerland-yverdon-sport-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/switzerland-antonio-marchesano.png"
+      },
+      {
+        "jogador-nome": "Warren Caddy",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 9,
+        "jogador-assists": 0,
+        "jogador-partidas": 16,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/switzerland-fc-stade-lausanne-ouchy.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/france-warren-caddy.png"
+      },
+      {
+        "jogador-nome": "Cleilton Monteiro da Costa",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 8,
+        "jogador-assists": 0,
+        "jogador-partidas": 14,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/switzerland-etoile-carouge-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-cleilton-monteiro-da-costa.png"
+      },
+      {
+        "jogador-nome": "Dominik Schwizer",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 7,
+        "jogador-assists": 5,
+        "jogador-partidas": 17,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/liechtenstein-fc-vaduz.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/switzerland-dominik-schwizer.png"
+      },
+      {
+        "jogador-nome": "Daniel Afriyie Barnieh",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 7,
+        "jogador-assists": 5,
+        "jogador-partidas": 21,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/switzerland-fc-aarau.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/ghana-daniel-afriyie-barnieh.png"
+      },
+      {
+        "jogador-nome": "Koro Issa Ahmed Kone",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 7,
+        "jogador-assists": 2,
+        "jogador-partidas": 16,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/switzerland-neuchatel-xamax-fcs.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/ivory-coast-koro-issa-ahmed-kone.png"
+      },
+      {
+        "jogador-nome": "Ronaldo Dantas Fernandes",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 6,
+        "jogador-assists": 5,
+        "jogador-partidas": 22,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/liechtenstein-fc-vaduz.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-ronaldo-dantas-fernandes.png"
+      },
+      {
+        "jogador-nome": "Stephan Vinicius Seiler",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 6,
+        "jogador-assists": 4,
+        "jogador-partidas": 22,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/liechtenstein-fc-vaduz.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/switzerland-stephan-seiler.png"
+      },
+      {
+        "jogador-nome": "Dejan Sorgić",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 6,
+        "jogador-assists": 0,
+        "jogador-partidas": 18,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/switzerland-yverdon-sport-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/serbia-dejan-sorgic.png"
+      },
+      {
+        "jogador-nome": "Armando Durim Sadiku",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 6,
+        "jogador-assists": 0,
+        "jogador-partidas": 19,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/switzerland-ac-bellinzona.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/albania-armando-sadiku.png"
+      },
+      {
+        "jogador-nome": "Filipe De Carvalho Ferreira",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 5,
+        "jogador-assists": 3,
+        "jogador-partidas": 20,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/switzerland-fc-rapperswil-jona.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/switzerland-filipe-de-carvalho-ferreira.png"
+      },
+      {
+        "jogador-nome": "Keasse Paul Henri Bah",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 5,
+        "jogador-assists": 2,
+        "jogador-partidas": 21,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/switzerland-fc-stade-lausanne-ouchy.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-keasse-paul-henri-bah.png"
+      },
+      {
+        "jogador-nome": "Chinwendu Johan Nkama",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 5,
+        "jogador-assists": 2,
+        "jogador-partidas": 20,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/switzerland-fc-stade-lausanne-ouchy.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/nigeria-chinwendu-johan-nkama.png"
+      },
+      {
+        "jogador-nome": "Marcel Michael Monsberger",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 5,
+        "jogador-assists": 0,
+        "jogador-partidas": 22,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/liechtenstein-fc-vaduz.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/austria-marcel-michael-monsberger.png"
+      },
+      {
+        "jogador-nome": "Elias Louan Pasche",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 4,
+        "jogador-assists": 6,
+        "jogador-partidas": 21,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/switzerland-yverdon-sport-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-elias-louan-pasche.png"
+      },
+      {
+        "jogador-nome": "Willy Vogt",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 4,
+        "jogador-assists": 5,
+        "jogador-partidas": 19,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/switzerland-ac-bellinzona.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-willy-vogt.png"
+      }
+    ]
+  }
+}
