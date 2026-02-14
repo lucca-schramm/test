@@ -208,30 +208,98 @@
       {
         "rank": 4,
         "team": {
+          "id": 183,
+          "name": "Gil Vicente FC",
+          "logo": "https://cdn.footystats.org/img/teams/portugal-gil-vicente-fc.png"
+        },
+        "points": 40,
+        "goalsDiff": 15,
+        "group": "Portugal Liga NOS 20252026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 22,
+          "win": 11,
+          "draw": 7,
+          "lose": 4,
+          "goals": {
+            "for": 33,
+            "against": 18
+          },
+          "form": "WLWWW",
+          "btts_matches": 9,
+          "avg_corners_per_game": 5.77,
+          "aproveitamento": 60.6,
+          "over_2_5_goals": 9,
+          "over_0_5_ht": 14,
+          "over_0_5_ft": 10,
+          "clean_sheets": 10
+        },
+        "home": {
+          "played": 11,
+          "win": 7,
+          "draw": 2,
+          "lose": 2,
+          "goals": {
+            "for": 19,
+            "against": 8
+          },
+          "form_home": "DDWWW",
+          "avg_corners_home_per_game": 5.55,
+          "aproveitamento_home": 69.7,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 6,
+          "over_0_5_ft_home": 7,
+          "clean_sheets_home": 5
+        },
+        "away": {
+          "played": 11,
+          "win": 4,
+          "draw": 5,
+          "lose": 2,
+          "goals": {
+            "for": 14,
+            "against": 10
+          },
+          "form_visitor": "DDDLW",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 6.0,
+          "aproveitamento_away": 51.5,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 8,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 5
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 5,
+        "team": {
           "id": 172,
           "name": "Sporting Braga",
           "logo": "https://cdn.footystats.org/img/teams/portugal-sporting-braga.png"
         },
         "points": 39,
-        "goalsDiff": 26,
+        "goalsDiff": 25,
         "group": "Portugal Liga NOS 20252026",
         "status": "same",
-        "description": "Copa Libertadores",
+        "description": "Copa Sul-Americana",
         "all": {
-          "played": 21,
+          "played": 22,
           "win": 11,
           "draw": 6,
-          "lose": 4,
+          "lose": 5,
           "goals": {
-            "for": 44,
-            "against": 18
+            "for": 45,
+            "against": 20
           },
-          "form": "DWWWW",
-          "btts_matches": 9,
-          "avg_corners_per_game": 5.67,
-          "aproveitamento": 61.9,
-          "over_2_5_goals": 14,
-          "over_0_5_ht": 15,
+          "form": "WWWWL",
+          "btts_matches": 10,
+          "avg_corners_per_game": 5.68,
+          "aproveitamento": 59.1,
+          "over_2_5_goals": 15,
+          "over_0_5_ht": 16,
           "over_0_5_ft": 14,
           "clean_sheets": 9
         },
@@ -254,90 +322,22 @@
           "clean_sheets_home": 5
         },
         "away": {
-          "played": 11,
+          "played": 12,
           "win": 5,
           "draw": 4,
-          "lose": 2,
+          "lose": 3,
           "goals": {
-            "for": 22,
-            "against": 11
+            "for": 23,
+            "against": 13
           },
-          "form_visitor": "WLDWW",
-          "btts_away_matches": 6,
-          "avg_corners_away_per_game": 5.55,
-          "aproveitamento_away": 57.6,
-          "over_2_5_goals_away": 7,
-          "over_0_5_ht_away": 7,
+          "form_visitor": "LDWWL",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 5.58,
+          "aproveitamento_away": 52.8,
+          "over_2_5_goals_away": 8,
+          "over_0_5_ht_away": 8,
           "over_0_5_ft_away": 8,
           "clean_sheets_away": 4
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 5,
-        "team": {
-          "id": 183,
-          "name": "Gil Vicente FC",
-          "logo": "https://cdn.footystats.org/img/teams/portugal-gil-vicente-fc.png"
-        },
-        "points": 37,
-        "goalsDiff": 14,
-        "group": "Portugal Liga NOS 20252026",
-        "status": "same",
-        "description": "Copa Sul-Americana",
-        "all": {
-          "played": 21,
-          "win": 10,
-          "draw": 7,
-          "lose": 4,
-          "goals": {
-            "for": 31,
-            "against": 17
-          },
-          "form": "DWLWW",
-          "btts_matches": 8,
-          "avg_corners_per_game": 5.81,
-          "aproveitamento": 58.7,
-          "over_2_5_goals": 8,
-          "over_0_5_ht": 14,
-          "over_0_5_ft": 9,
-          "clean_sheets": 10
-        },
-        "home": {
-          "played": 10,
-          "win": 6,
-          "draw": 2,
-          "lose": 2,
-          "goals": {
-            "for": 17,
-            "against": 7
-          },
-          "form_home": "LDDWW",
-          "avg_corners_home_per_game": 5.6,
-          "aproveitamento_home": 66.7,
-          "btts_home_matches": 3,
-          "over_2_5_goals_home": 3,
-          "over_0_5_ht_home": 6,
-          "over_0_5_ft_home": 6,
-          "clean_sheets_home": 5
-        },
-        "away": {
-          "played": 11,
-          "win": 4,
-          "draw": 5,
-          "lose": 2,
-          "goals": {
-            "for": 14,
-            "against": 10
-          },
-          "form_visitor": "DDDLW",
-          "btts_away_matches": 5,
-          "avg_corners_away_per_game": 6.0,
-          "aproveitamento_away": 51.5,
-          "over_2_5_goals_away": 5,
-          "over_0_5_ht_away": 8,
-          "over_0_5_ft_away": 3,
-          "clean_sheets_away": 5
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1275,6 +1275,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/venezuela-jesus-ramirez.png"
       },
       {
+        "jogador-nome": "Ricardo Jorge da Luz Horta",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 11,
+        "jogador-assists": 3,
+        "jogador-partidas": 19,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/portugal-sporting-braga.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/portugal-ricardo-horta.png"
+      },
+      {
         "jogador-nome": "Pedro António Pereira Gonçalves",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 10,
@@ -1293,15 +1302,6 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-clayton.png"
       },
       {
-        "jogador-nome": "Ricardo Jorge da Luz Horta",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 10,
-        "jogador-assists": 3,
-        "jogador-partidas": 18,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/portugal-sporting-braga.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/portugal-ricardo-horta.png"
-      },
-      {
         "jogador-nome": "Pablo Felipe Pereira de Jesus",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 10,
@@ -1315,7 +1315,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 9,
         "jogador-assists": 2,
-        "jogador-partidas": 19,
+        "jogador-partidas": 20,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/portugal-sporting-braga.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/uruguay-rodrigo-zalazar.png"
       },
@@ -1369,7 +1369,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 6,
         "jogador-assists": 3,
-        "jogador-partidas": 20,
+        "jogador-partidas": 21,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/portugal-sporting-braga.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/spain-pau-victor.png"
       },
@@ -1395,8 +1395,8 @@
         "jogador-nome": "Murilo de Souza Costa",
         "jogador-posicao": "Forward",
         "jogador-gols": 5,
-        "jogador-assists": 3,
-        "jogador-partidas": 19,
+        "jogador-assists": 4,
+        "jogador-partidas": 20,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/portugal-gil-vicente-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-murilo-de-souza.png"
       },
