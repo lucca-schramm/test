@@ -76,27 +76,27 @@
           "name": "Fenerbahçe",
           "logo": "https://cdn.footystats.org/img/teams/turkey-fenerbahce.png"
         },
-        "points": 49,
-        "goalsDiff": 30,
+        "points": 52,
+        "goalsDiff": 31,
         "group": "Turkey Süper Lig 20252026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 21,
-          "win": 14,
+          "played": 22,
+          "win": 15,
           "draw": 7,
           "lose": 0,
           "goals": {
-            "for": 48,
-            "against": 18
+            "for": 51,
+            "against": 20
           },
-          "form": "WWDWW",
-          "btts_matches": 13,
-          "avg_corners_per_game": 6.24,
-          "aproveitamento": 77.8,
-          "over_2_5_goals": 12,
-          "over_0_5_ht": 14,
-          "over_0_5_ft": 13,
+          "form": "WDWWW",
+          "btts_matches": 14,
+          "avg_corners_per_game": 6.27,
+          "aproveitamento": 78.8,
+          "over_2_5_goals": 13,
+          "over_0_5_ht": 15,
+          "over_0_5_ft": 14,
           "clean_sheets": 8
         },
         "home": {
@@ -118,21 +118,21 @@
           "clean_sheets_home": 3
         },
         "away": {
-          "played": 11,
-          "win": 7,
+          "played": 12,
+          "win": 8,
           "draw": 4,
           "lose": 0,
           "goals": {
-            "for": 25,
-            "against": 9
+            "for": 28,
+            "against": 11
           },
-          "form_visitor": "WDWWW",
-          "btts_away_matches": 6,
-          "avg_corners_away_per_game": 5.73,
-          "aproveitamento_away": 75.8,
-          "over_2_5_goals_away": 6,
-          "over_0_5_ht_away": 7,
-          "over_0_5_ft_away": 7,
+          "form_visitor": "DWWWW",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 5.83,
+          "aproveitamento_away": 77.8,
+          "over_2_5_goals_away": 7,
+          "over_0_5_ht_away": 8,
+          "over_0_5_ft_away": 8,
           "clean_sheets_away": 5
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -145,43 +145,43 @@
           "logo": "https://cdn.footystats.org/img/teams/turkey-trabzonspor.png"
         },
         "points": 45,
-        "goalsDiff": 18,
+        "goalsDiff": 17,
         "group": "Turkey Süper Lig 20252026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 21,
+          "played": 22,
           "win": 13,
           "draw": 6,
-          "lose": 2,
+          "lose": 3,
           "goals": {
-            "for": 41,
-            "against": 23
+            "for": 43,
+            "against": 26
           },
-          "form": "LWWDW",
-          "btts_matches": 13,
-          "avg_corners_per_game": 4.29,
-          "aproveitamento": 71.4,
-          "over_2_5_goals": 11,
-          "over_0_5_ht": 13,
+          "form": "WWDWL",
+          "btts_matches": 14,
+          "avg_corners_per_game": 4.41,
+          "aproveitamento": 68.2,
+          "over_2_5_goals": 12,
+          "over_0_5_ht": 14,
           "over_0_5_ft": 15,
           "clean_sheets": 7
         },
         "home": {
-          "played": 10,
+          "played": 11,
           "win": 6,
           "draw": 4,
-          "lose": 0,
+          "lose": 1,
           "goals": {
-            "for": 19,
-            "against": 8
+            "for": 21,
+            "against": 11
           },
-          "form_home": "WDWDW",
-          "avg_corners_home_per_game": 4.2,
-          "aproveitamento_home": 73.3,
-          "btts_home_matches": 6,
-          "over_2_5_goals_home": 4,
-          "over_0_5_ht_home": 7,
+          "form_home": "DWDWL",
+          "avg_corners_home_per_game": 4.45,
+          "aproveitamento_home": 66.7,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 8,
           "over_0_5_ft_home": 7,
           "clean_sheets_home": 4
         },
@@ -1230,6 +1230,15 @@
   "artilharia": {
     "turkey_süper_lig": [
       {
+        "jogador-nome": "Ebere Paul Onuachu",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 16,
+        "jogador-assists": 1,
+        "jogador-partidas": 19,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/turkey-trabzonspor.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/nigeria-paul-onuachu.png"
+      },
+      {
         "jogador-nome": "Eldor Azamat Shomurodov",
         "jogador-posicao": "Forward",
         "jogador-gols": 15,
@@ -1239,13 +1248,13 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/uzbekistan-eldor-shomurodov.png"
       },
       {
-        "jogador-nome": "Ebere Paul Onuachu",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 15,
-        "jogador-assists": 1,
-        "jogador-partidas": 18,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/turkey-trabzonspor.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/nigeria-paul-onuachu.png"
+        "jogador-nome": "Anderson Souza Conceição",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 13,
+        "jogador-assists": 3,
+        "jogador-partidas": 22,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/turkey-fenerbahce.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-anderson-souza-conceicao.png"
       },
       {
         "jogador-nome": "Mauro Emanuel Icardi Rivero",
@@ -1257,22 +1266,22 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/argentina-mauro-icardi.png"
       },
       {
-        "jogador-nome": "Anderson Souza Conceição",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 12,
-        "jogador-assists": 3,
-        "jogador-partidas": 21,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/turkey-fenerbahce.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-anderson-souza-conceicao.png"
-      },
-      {
         "jogador-nome": "Marco Asensio Willemsen",
         "jogador-posicao": "Forward",
-        "jogador-gols": 9,
-        "jogador-assists": 7,
-        "jogador-partidas": 17,
+        "jogador-gols": 10,
+        "jogador-assists": 8,
+        "jogador-partidas": 18,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/turkey-fenerbahce.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/spain-marco-asensio.png"
+      },
+      {
+        "jogador-nome": "Ernest Muçi",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 10,
+        "jogador-assists": 2,
+        "jogador-partidas": 19,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/turkey-besiktas.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/albania-ernest-muci.png"
       },
       {
         "jogador-nome": "Victor James Osimhen",
@@ -1282,15 +1291,6 @@
         "jogador-partidas": 16,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/turkey-galatasaray.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/nigeria-victor-osimhen.png"
-      },
-      {
-        "jogador-nome": "Ernest Muçi",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 9,
-        "jogador-assists": 2,
-        "jogador-partidas": 18,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/turkey-besiktas.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/albania-ernest-muci.png"
       },
       {
         "jogador-nome": "Mohamed Bayo",
@@ -1306,7 +1306,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 9,
         "jogador-assists": 0,
-        "jogador-partidas": 20,
+        "jogador-partidas": 21,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/turkey-trabzonspor.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-felipe-augusto.png"
       },
@@ -1315,7 +1315,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 8,
         "jogador-assists": 2,
-        "jogador-partidas": 21,
+        "jogador-partidas": 22,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/turkey-konyaspor.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/turkey-mehmet-umut-nayir.png"
       },
