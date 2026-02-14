@@ -344,6 +344,74 @@
       {
         "rank": 6,
         "team": {
+          "id": 378,
+          "name": "Alkmaar Zaanstreek",
+          "logo": "https://cdn.footystats.org/img/teams/netherlands-alkmaar-zaanstreek.png"
+        },
+        "points": 36,
+        "goalsDiff": 2,
+        "group": "Netherlands Eredivisie 20252026",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 23,
+          "win": 10,
+          "draw": 6,
+          "lose": 7,
+          "goals": {
+            "for": 39,
+            "against": 37
+          },
+          "form": "DWLDW",
+          "btts_matches": 17,
+          "avg_corners_per_game": 5.65,
+          "aproveitamento": 52.2,
+          "over_2_5_goals": 15,
+          "over_0_5_ht": 13,
+          "over_0_5_ft": 15,
+          "clean_sheets": 5
+        },
+        "home": {
+          "played": 11,
+          "win": 4,
+          "draw": 5,
+          "lose": 2,
+          "goals": {
+            "for": 22,
+            "against": 20
+          },
+          "form_home": "DWDLD",
+          "avg_corners_home_per_game": 5.82,
+          "aproveitamento_home": 51.5,
+          "btts_home_matches": 10,
+          "over_2_5_goals_home": 8,
+          "over_0_5_ht_home": 9,
+          "over_0_5_ft_home": 5,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 12,
+          "win": 6,
+          "draw": 1,
+          "lose": 5,
+          "goals": {
+            "for": 17,
+            "against": 17
+          },
+          "form_visitor": "LLLWW",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 5.5,
+          "aproveitamento_away": 52.8,
+          "over_2_5_goals_away": 7,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 10,
+          "clean_sheets_away": 4
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 7,
+        "team": {
           "id": 375,
           "name": "FC Twente",
           "logo": "https://cdn.footystats.org/img/teams/netherlands-fc-twente.png"
@@ -352,7 +420,7 @@
         "goalsDiff": 12,
         "group": "Netherlands Eredivisie 20252026",
         "status": "same",
-        "description": "Copa Sul-Americana",
+        "description": "",
         "all": {
           "played": 22,
           "win": 8,
@@ -406,74 +474,6 @@
           "over_0_5_ht_away": 6,
           "over_0_5_ft_away": 8,
           "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 7,
-        "team": {
-          "id": 378,
-          "name": "Alkmaar Zaanstreek",
-          "logo": "https://cdn.footystats.org/img/teams/netherlands-alkmaar-zaanstreek.png"
-        },
-        "points": 33,
-        "goalsDiff": 1,
-        "group": "Netherlands Eredivisie 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 22,
-          "win": 9,
-          "draw": 6,
-          "lose": 7,
-          "goals": {
-            "for": 37,
-            "against": 36
-          },
-          "form": "LDWLD",
-          "btts_matches": 16,
-          "avg_corners_per_game": 5.68,
-          "aproveitamento": 50.0,
-          "over_2_5_goals": 14,
-          "over_0_5_ht": 13,
-          "over_0_5_ft": 14,
-          "clean_sheets": 5
-        },
-        "home": {
-          "played": 11,
-          "win": 4,
-          "draw": 5,
-          "lose": 2,
-          "goals": {
-            "for": 22,
-            "against": 20
-          },
-          "form_home": "DWDLD",
-          "avg_corners_home_per_game": 5.82,
-          "aproveitamento_home": 51.5,
-          "btts_home_matches": 10,
-          "over_2_5_goals_home": 8,
-          "over_0_5_ht_home": 9,
-          "over_0_5_ft_home": 5,
-          "clean_sheets_home": 1
-        },
-        "away": {
-          "played": 11,
-          "win": 5,
-          "draw": 1,
-          "lose": 5,
-          "goals": {
-            "for": 15,
-            "against": 16
-          },
-          "form_visitor": "LLLLW",
-          "btts_away_matches": 6,
-          "avg_corners_away_per_game": 5.55,
-          "aproveitamento_away": 48.5,
-          "over_2_5_goals_away": 6,
-          "over_0_5_ht_away": 4,
-          "over_0_5_ft_away": 9,
-          "clean_sheets_away": 4
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -752,74 +752,6 @@
       {
         "rank": 12,
         "team": {
-          "id": 374,
-          "name": "SBV Excelsior",
-          "logo": "https://cdn.footystats.org/img/teams/netherlands-sbv-excelsior.png"
-        },
-        "points": 26,
-        "goalsDiff": -13,
-        "group": "Netherlands Eredivisie 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 22,
-          "win": 7,
-          "draw": 5,
-          "lose": 10,
-          "goals": {
-            "for": 24,
-            "against": 37
-          },
-          "form": "DDDDW",
-          "btts_matches": 13,
-          "avg_corners_per_game": 4.05,
-          "aproveitamento": 39.4,
-          "over_2_5_goals": 13,
-          "over_0_5_ht": 12,
-          "over_0_5_ft": 9,
-          "clean_sheets": 5
-        },
-        "home": {
-          "played": 11,
-          "win": 4,
-          "draw": 2,
-          "lose": 5,
-          "goals": {
-            "for": 12,
-            "against": 14
-          },
-          "form_home": "WLWDD",
-          "avg_corners_home_per_game": 3.82,
-          "aproveitamento_home": 42.4,
-          "btts_home_matches": 6,
-          "over_2_5_goals_home": 6,
-          "over_0_5_ht_home": 6,
-          "over_0_5_ft_home": 4,
-          "clean_sheets_home": 3
-        },
-        "away": {
-          "played": 11,
-          "win": 3,
-          "draw": 3,
-          "lose": 5,
-          "goals": {
-            "for": 12,
-            "against": 23
-          },
-          "form_visitor": "WLDDW",
-          "btts_away_matches": 7,
-          "avg_corners_away_per_game": 4.27,
-          "aproveitamento_away": 36.4,
-          "over_2_5_goals_away": 7,
-          "over_0_5_ht_away": 6,
-          "over_0_5_ft_away": 5,
-          "clean_sheets_away": 2
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 13,
-        "team": {
           "id": 380,
           "name": "PEC Zwolle",
           "logo": "https://cdn.footystats.org/img/teams/netherlands-pec-zwolle.png"
@@ -882,6 +814,74 @@
           "over_0_5_ht_away": 7,
           "over_0_5_ft_away": 9,
           "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 13,
+        "team": {
+          "id": 374,
+          "name": "SBV Excelsior",
+          "logo": "https://cdn.footystats.org/img/teams/netherlands-sbv-excelsior.png"
+        },
+        "points": 26,
+        "goalsDiff": -14,
+        "group": "Netherlands Eredivisie 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 23,
+          "win": 7,
+          "draw": 5,
+          "lose": 11,
+          "goals": {
+            "for": 25,
+            "against": 39
+          },
+          "form": "DDDWL",
+          "btts_matches": 14,
+          "avg_corners_per_game": 4.17,
+          "aproveitamento": 37.7,
+          "over_2_5_goals": 14,
+          "over_0_5_ht": 13,
+          "over_0_5_ft": 9,
+          "clean_sheets": 5
+        },
+        "home": {
+          "played": 12,
+          "win": 4,
+          "draw": 2,
+          "lose": 6,
+          "goals": {
+            "for": 13,
+            "against": 16
+          },
+          "form_home": "LWDDL",
+          "avg_corners_home_per_game": 4.08,
+          "aproveitamento_home": 38.9,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 7,
+          "over_0_5_ht_home": 7,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 11,
+          "win": 3,
+          "draw": 3,
+          "lose": 5,
+          "goals": {
+            "for": 12,
+            "against": 23
+          },
+          "form_visitor": "WLDDW",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 4.27,
+          "aproveitamento_away": 36.4,
+          "over_2_5_goals_away": 7,
+          "over_0_5_ht_away": 6,
+          "over_0_5_ft_away": 5,
+          "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1248,6 +1248,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/netherlands-guus-til.png"
       },
       {
+        "jogador-nome": "Troy Parrott",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 12,
+        "jogador-assists": 1,
+        "jogador-partidas": 18,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/netherlands-alkmaar-zaanstreek.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/republic-of-ireland-troy-parrott.png"
+      },
+      {
         "jogador-nome": "Ismael Saibari Ben El Basra",
         "jogador-posicao": "Forward",
         "jogador-gols": 11,
@@ -1255,15 +1264,6 @@
         "jogador-partidas": 19,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/netherlands-psv-eindhoven.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/morocco-ismael-saibari.png"
-      },
-      {
-        "jogador-nome": "Troy Parrott",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 11,
-        "jogador-assists": 1,
-        "jogador-partidas": 17,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/netherlands-alkmaar-zaanstreek.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/republic-of-ireland-troy-parrott.png"
       },
       {
         "jogador-nome": "Mika Marcel Godts",
@@ -1297,7 +1297,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 10,
         "jogador-assists": 1,
-        "jogador-partidas": 19,
+        "jogador-partidas": 20,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/netherlands-heracles-almelo.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/netherlands-jizz-hornkamp.png"
       },
