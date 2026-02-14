@@ -348,45 +348,45 @@
           "name": "BSC Young Boys",
           "logo": "https://cdn.footystats.org/img/teams/switzerland-bsc-young-boys.png"
         },
-        "points": 33,
-        "goalsDiff": -3,
+        "points": 36,
+        "goalsDiff": 2,
         "group": "Switzerland Super League 20252026",
         "status": "same",
         "description": "Copa Sul-Americana",
         "all": {
-          "played": 24,
-          "win": 9,
+          "played": 25,
+          "win": 10,
           "draw": 6,
           "lose": 9,
           "goals": {
-            "for": 45,
-            "against": 48
+            "for": 51,
+            "against": 49
           },
-          "form": "LLWDL",
-          "btts_matches": 16,
-          "avg_corners_per_game": 5.08,
-          "aproveitamento": 45.8,
-          "over_2_5_goals": 18,
-          "over_0_5_ht": 14,
-          "over_0_5_ft": 15,
+          "form": "LWDLW",
+          "btts_matches": 17,
+          "avg_corners_per_game": 5.2,
+          "aproveitamento": 48.0,
+          "over_2_5_goals": 19,
+          "over_0_5_ht": 15,
+          "over_0_5_ft": 16,
           "clean_sheets": 5
         },
         "home": {
-          "played": 11,
-          "win": 6,
+          "played": 12,
+          "win": 7,
           "draw": 2,
           "lose": 3,
           "goals": {
-            "for": 24,
-            "against": 15
+            "for": 30,
+            "against": 16
           },
-          "form_home": "WWLLW",
-          "avg_corners_home_per_game": 5.91,
-          "aproveitamento_home": 60.6,
-          "btts_home_matches": 6,
-          "over_2_5_goals_home": 8,
-          "over_0_5_ht_home": 7,
-          "over_0_5_ft_home": 8,
+          "form_home": "WLLWW",
+          "avg_corners_home_per_game": 6.08,
+          "aproveitamento_home": 63.9,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 9,
+          "over_0_5_ht_home": 8,
+          "over_0_5_ft_home": 9,
           "clean_sheets_home": 5
         },
         "away": {
@@ -757,26 +757,26 @@
           "logo": "https://cdn.footystats.org/img/teams/switzerland-fc-winterthur.png"
         },
         "points": 14,
-        "goalsDiff": -34,
+        "goalsDiff": -39,
         "group": "Switzerland Super League 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 23,
+          "played": 24,
           "win": 3,
           "draw": 5,
-          "lose": 15,
+          "lose": 16,
           "goals": {
-            "for": 27,
-            "against": 61
+            "for": 28,
+            "against": 67
           },
-          "form": "LLWDL",
-          "btts_matches": 15,
-          "avg_corners_per_game": 3.3,
-          "aproveitamento": 20.3,
-          "over_2_5_goals": 19,
+          "form": "LWDLL",
+          "btts_matches": 16,
+          "avg_corners_per_game": 3.25,
+          "aproveitamento": 19.4,
+          "over_2_5_goals": 20,
           "over_0_5_ht": 8,
-          "over_0_5_ft": 13,
+          "over_0_5_ft": 14,
           "clean_sheets": 0
         },
         "home": {
@@ -798,21 +798,21 @@
           "clean_sheets_home": 0
         },
         "away": {
-          "played": 12,
+          "played": 13,
           "win": 1,
           "draw": 2,
-          "lose": 9,
+          "lose": 10,
           "goals": {
-            "for": 10,
-            "against": 37
+            "for": 11,
+            "against": 43
           },
-          "form_visitor": "WDLLL",
-          "btts_away_matches": 5,
-          "avg_corners_away_per_game": 3.08,
-          "aproveitamento_away": 13.9,
-          "over_2_5_goals_away": 11,
+          "form_visitor": "DLLLL",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 3.0,
+          "aproveitamento_away": 12.8,
+          "over_2_5_goals_away": 12,
           "over_0_5_ht_away": 3,
-          "over_0_5_ft_away": 5,
+          "over_0_5_ft_away": 6,
           "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -824,18 +824,18 @@
       {
         "jogador-nome": "Christian Fassnacht",
         "jogador-posicao": "Forward",
-        "jogador-gols": 13,
+        "jogador-gols": 15,
         "jogador-assists": 6,
-        "jogador-partidas": 23,
+        "jogador-partidas": 24,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/switzerland-bsc-young-boys.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/switzerland-christian-fassnacht.png"
       },
       {
         "jogador-nome": "Chris Vianney Bedia",
         "jogador-posicao": "Forward",
-        "jogador-gols": 12,
-        "jogador-assists": 3,
-        "jogador-partidas": 23,
+        "jogador-gols": 13,
+        "jogador-assists": 4,
+        "jogador-partidas": 24,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/switzerland-bsc-young-boys.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/ivory-coast-chris-bedia.png"
       },
@@ -930,6 +930,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/france-florian-aye.png"
       },
       {
+        "jogador-nome": "Andrin Hunziker",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 8,
+        "jogador-assists": 2,
+        "jogador-partidas": 21,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/switzerland-fc-winterthur.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-andrin-hunziker.png"
+      },
+      {
         "jogador-nome": "Leonardo Bertone",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 8,
@@ -937,15 +946,6 @@
         "jogador-partidas": 22,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/switzerland-fc-thun.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/switzerland-leonardo-bertone.png"
-      },
-      {
-        "jogador-nome": "Andrin Hunziker",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 8,
-        "jogador-assists": 1,
-        "jogador-partidas": 20,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/switzerland-fc-winterthur.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/-andrin-hunziker.png"
       },
       {
         "jogador-nome": "Aliou Badara Balde",
