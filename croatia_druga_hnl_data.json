@@ -4,30 +4,98 @@
       {
         "rank": 1,
         "team": {
-          "id": 1858,
-          "name": "NK Rudeš",
-          "logo": "https://cdn.footystats.org/img/teams/croatia-nk-rudes.png"
+          "id": 1879,
+          "name": "NK Dugopolje",
+          "logo": "https://cdn.footystats.org/img/teams/croatia-nk-dugopolje.png"
         },
-        "points": 32,
+        "points": 33,
         "goalsDiff": 6,
         "group": "Croatia Druga HNL 20252026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 17,
+          "played": 18,
+          "win": 10,
+          "draw": 3,
+          "lose": 5,
+          "goals": {
+            "for": 21,
+            "against": 15
+          },
+          "form": "LWWWW",
+          "btts_matches": 7,
+          "avg_corners_per_game": 3.72,
+          "aproveitamento": 61.1,
+          "over_2_5_goals": 5,
+          "over_0_5_ht": 7,
+          "over_0_5_ft": 9,
+          "clean_sheets": 6
+        },
+        "home": {
+          "played": 9,
+          "win": 7,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 15,
+            "against": 8
+          },
+          "form_home": "WDWWW",
+          "avg_corners_home_per_game": 4.33,
+          "aproveitamento_home": 81.5,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 6,
+          "clean_sheets_home": 4
+        },
+        "away": {
+          "played": 9,
+          "win": 3,
+          "draw": 2,
+          "lose": 4,
+          "goals": {
+            "for": 6,
+            "against": 7
+          },
+          "form_visitor": "LDLWW",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 3.11,
+          "aproveitamento_away": 40.7,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 2,
+        "team": {
+          "id": 1858,
+          "name": "NK Rudeš",
+          "logo": "https://cdn.footystats.org/img/teams/croatia-nk-rudes.png"
+        },
+        "points": 32,
+        "goalsDiff": 4,
+        "group": "Croatia Druga HNL 20252026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 18,
           "win": 9,
           "draw": 5,
-          "lose": 3,
+          "lose": 4,
           "goals": {
-            "for": 22,
-            "against": 16
+            "for": 23,
+            "against": 19
           },
-          "form": "WDDLW",
-          "btts_matches": 7,
-          "avg_corners_per_game": 4.59,
-          "aproveitamento": 62.7,
-          "over_2_5_goals": 6,
-          "over_0_5_ht": 9,
+          "form": "DDLWL",
+          "btts_matches": 8,
+          "avg_corners_per_game": 4.94,
+          "aproveitamento": 59.3,
+          "over_2_5_goals": 7,
+          "over_0_5_ht": 10,
           "over_0_5_ft": 6,
           "clean_sheets": 9
         },
@@ -50,27 +118,27 @@
           "clean_sheets_home": 5
         },
         "away": {
-          "played": 8,
+          "played": 9,
           "win": 3,
           "draw": 3,
-          "lose": 2,
+          "lose": 3,
           "goals": {
-            "for": 9,
-            "against": 10
+            "for": 10,
+            "against": 13
           },
-          "form_visitor": "WWWDL",
-          "btts_away_matches": 4,
-          "avg_corners_away_per_game": 5.0,
-          "aproveitamento_away": 50.0,
-          "over_2_5_goals_away": 2,
-          "over_0_5_ht_away": 4,
+          "form_visitor": "WWDLL",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 5.67,
+          "aproveitamento_away": 44.4,
+          "over_2_5_goals_away": 3,
+          "over_0_5_ht_away": 5,
           "over_0_5_ft_away": 3,
           "clean_sheets_away": 4
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "team": {
           "id": 687925,
           "name": "NK Karlovac 1919",
@@ -134,74 +202,6 @@
           "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 5,
           "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 3,
-        "team": {
-          "id": 1879,
-          "name": "NK Dugopolje",
-          "logo": "https://cdn.footystats.org/img/teams/croatia-nk-dugopolje.png"
-        },
-        "points": 30,
-        "goalsDiff": 4,
-        "group": "Croatia Druga HNL 20252026",
-        "status": "same",
-        "description": "Copa Libertadores",
-        "all": {
-          "played": 17,
-          "win": 9,
-          "draw": 3,
-          "lose": 5,
-          "goals": {
-            "for": 18,
-            "against": 14
-          },
-          "form": "WLWWW",
-          "btts_matches": 6,
-          "avg_corners_per_game": 3.82,
-          "aproveitamento": 58.8,
-          "over_2_5_goals": 4,
-          "over_0_5_ht": 6,
-          "over_0_5_ft": 8,
-          "clean_sheets": 6
-        },
-        "home": {
-          "played": 8,
-          "win": 6,
-          "draw": 1,
-          "lose": 1,
-          "goals": {
-            "for": 12,
-            "against": 7
-          },
-          "form_home": "WWDWW",
-          "avg_corners_home_per_game": 4.62,
-          "aproveitamento_home": 79.2,
-          "btts_home_matches": 3,
-          "over_2_5_goals_home": 3,
-          "over_0_5_ht_home": 4,
-          "over_0_5_ft_home": 5,
-          "clean_sheets_home": 4
-        },
-        "away": {
-          "played": 9,
-          "win": 3,
-          "draw": 2,
-          "lose": 4,
-          "goals": {
-            "for": 6,
-            "against": 7
-          },
-          "form_visitor": "LDLWW",
-          "btts_away_matches": 3,
-          "avg_corners_away_per_game": 3.11,
-          "aproveitamento_away": 40.7,
-          "over_2_5_goals_away": 1,
-          "over_0_5_ht_away": 2,
-          "over_0_5_ft_away": 3,
-          "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -916,7 +916,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 4,
         "jogador-assists": 0,
-        "jogador-partidas": 17,
+        "jogador-partidas": 18,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/croatia-nk-rudes.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-duje-korač.png"
       },
@@ -966,6 +966,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/-leo-perić.png"
       },
       {
+        "jogador-nome": "Karlo Kamenar",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 3,
+        "jogador-assists": 0,
+        "jogador-partidas": 17,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/croatia-nk-rudes.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/croatia-karlo-kamenar.png"
+      },
+      {
         "jogador-nome": "Jogador_944490",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 3,
@@ -991,15 +1000,6 @@
         "jogador-partidas": 13,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/croatia-nk-sesvete.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-ivan-šaranić.png"
-      },
-      {
-        "jogador-nome": "Duje Ljubić",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 3,
-        "jogador-assists": 0,
-        "jogador-partidas": 9,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/croatia-nk-hrvace.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/-duje-ljubić.png"
       }
     ]
   }
