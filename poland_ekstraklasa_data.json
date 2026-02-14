@@ -145,40 +145,40 @@
           "logo": "https://cdn.footystats.org/img/teams/poland-wisla-plock-sa.png"
         },
         "points": 33,
-        "goalsDiff": 9,
+        "goalsDiff": 7,
         "group": "Poland Ekstraklasa 20252026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 20,
+          "played": 21,
           "win": 8,
           "draw": 9,
-          "lose": 3,
+          "lose": 4,
           "goals": {
             "for": 23,
-            "against": 14
+            "against": 16
           },
-          "form": "DDDWL",
+          "form": "DDWLL",
           "btts_matches": 11,
-          "avg_corners_per_game": 3.8,
-          "aproveitamento": 55.0,
+          "avg_corners_per_game": 3.86,
+          "aproveitamento": 52.4,
           "over_2_5_goals": 4,
           "over_0_5_ht": 11,
           "over_0_5_ft": 9,
           "clean_sheets": 6
         },
         "home": {
-          "played": 11,
+          "played": 12,
           "win": 7,
           "draw": 3,
-          "lose": 1,
+          "lose": 2,
           "goals": {
             "for": 15,
-            "against": 5
+            "against": 7
           },
-          "form_home": "WWDDW",
-          "avg_corners_home_per_game": 4.64,
-          "aproveitamento_home": 72.7,
+          "form_home": "WDDWL",
+          "avg_corners_home_per_game": 4.67,
+          "aproveitamento_home": 66.7,
           "btts_home_matches": 4,
           "over_2_5_goals_home": 3,
           "over_0_5_ht_home": 7,
@@ -888,6 +888,74 @@
       {
         "rank": 14,
         "team": {
+          "id": 1148,
+          "name": "RTS Widzew Łódź",
+          "logo": "https://cdn.footystats.org/img/teams/poland-rts-widzew-lodz.png"
+        },
+        "points": 23,
+        "goalsDiff": -3,
+        "group": "Poland Ekstraklasa 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 21,
+          "win": 7,
+          "draw": 2,
+          "lose": 12,
+          "goals": {
+            "for": 29,
+            "against": 32
+          },
+          "form": "WLLLW",
+          "btts_matches": 12,
+          "avg_corners_per_game": 4.29,
+          "aproveitamento": 36.5,
+          "over_2_5_goals": 12,
+          "over_0_5_ht": 12,
+          "over_0_5_ft": 13,
+          "clean_sheets": 5
+        },
+        "home": {
+          "played": 10,
+          "win": 4,
+          "draw": 2,
+          "lose": 4,
+          "goals": {
+            "for": 14,
+            "against": 13
+          },
+          "form_home": "LWDLL",
+          "avg_corners_home_per_game": 4.2,
+          "aproveitamento_home": 46.7,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 6,
+          "over_0_5_ft_home": 6,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 11,
+          "win": 3,
+          "draw": 0,
+          "lose": 8,
+          "goals": {
+            "for": 15,
+            "against": 19
+          },
+          "form_visitor": "LWLLW",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 4.36,
+          "aproveitamento_away": 27.3,
+          "over_2_5_goals_away": 7,
+          "over_0_5_ht_away": 6,
+          "over_0_5_ft_away": 7,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 15,
+        "team": {
           "id": 1225,
           "name": "MKS Pogoń Szczecin",
           "logo": "https://cdn.footystats.org/img/teams/poland-mks-pogon-szczecin.png"
@@ -954,7 +1022,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 15,
+        "rank": 16,
         "team": {
           "id": 795,
           "name": "Arka Gdynia 1929",
@@ -1022,7 +1090,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 16,
+        "rank": 17,
         "team": {
           "id": 112,
           "name": "KP Legia Warszawa",
@@ -1032,7 +1100,7 @@
         "goalsDiff": -3,
         "group": "Poland Ekstraklasa 20252026",
         "status": "same",
-        "description": "",
+        "description": "Rebaixamento",
         "all": {
           "played": 21,
           "win": 4,
@@ -1084,74 +1152,6 @@
           "aproveitamento_away": 24.2,
           "over_2_5_goals_away": 4,
           "over_0_5_ht_away": 4,
-          "over_0_5_ft_away": 6,
-          "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 17,
-        "team": {
-          "id": 1148,
-          "name": "RTS Widzew Łódź",
-          "logo": "https://cdn.footystats.org/img/teams/poland-rts-widzew-lodz.png"
-        },
-        "points": 20,
-        "goalsDiff": -5,
-        "group": "Poland Ekstraklasa 20252026",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 20,
-          "win": 6,
-          "draw": 2,
-          "lose": 12,
-          "goals": {
-            "for": 27,
-            "against": 32
-          },
-          "form": "LWLLL",
-          "btts_matches": 12,
-          "avg_corners_per_game": 4.4,
-          "aproveitamento": 33.3,
-          "over_2_5_goals": 12,
-          "over_0_5_ht": 11,
-          "over_0_5_ft": 12,
-          "clean_sheets": 4
-        },
-        "home": {
-          "played": 10,
-          "win": 4,
-          "draw": 2,
-          "lose": 4,
-          "goals": {
-            "for": 14,
-            "against": 13
-          },
-          "form_home": "LWDLL",
-          "avg_corners_home_per_game": 4.2,
-          "aproveitamento_home": 46.7,
-          "btts_home_matches": 6,
-          "over_2_5_goals_home": 5,
-          "over_0_5_ht_home": 6,
-          "over_0_5_ft_home": 6,
-          "clean_sheets_home": 3
-        },
-        "away": {
-          "played": 10,
-          "win": 2,
-          "draw": 0,
-          "lose": 8,
-          "goals": {
-            "for": 13,
-            "against": 19
-          },
-          "form_visitor": "LLWLL",
-          "btts_away_matches": 6,
-          "avg_corners_away_per_game": 4.6,
-          "aproveitamento_away": 20.0,
-          "over_2_5_goals_away": 7,
-          "over_0_5_ht_away": 5,
           "over_0_5_ft_away": 6,
           "clean_sheets_away": 1
         },
@@ -1259,9 +1259,9 @@
       {
         "jogador-nome": "Sebastian Bergier",
         "jogador-posicao": "Forward",
-        "jogador-gols": 10,
+        "jogador-gols": 11,
         "jogador-assists": 0,
-        "jogador-partidas": 17,
+        "jogador-partidas": 18,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/poland-rts-widzew-lodz.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/poland-sebastian-bergier.png"
       },
@@ -1306,7 +1306,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 8,
         "jogador-assists": 1,
-        "jogador-partidas": 18,
+        "jogador-partidas": 19,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/poland-wisla-plock-sa.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/poland-lukasz-sekulski.png"
       },
