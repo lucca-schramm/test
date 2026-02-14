@@ -8,28 +8,28 @@
           "name": "Venezia FC",
           "logo": "https://cdn.footystats.org/img/teams/italy-venezia-fc.png"
         },
-        "points": 50,
-        "goalsDiff": 24,
+        "points": 53,
+        "goalsDiff": 28,
         "group": "Italy Serie B 20252026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 24,
-          "win": 15,
+          "played": 25,
+          "win": 16,
           "draw": 5,
           "lose": 4,
           "goals": {
-            "for": 46,
+            "for": 50,
             "against": 22
           },
-          "form": "WWWWL",
+          "form": "WWWLW",
           "btts_matches": 14,
-          "avg_corners_per_game": 4.29,
-          "aproveitamento": 69.4,
-          "over_2_5_goals": 15,
-          "over_0_5_ht": 16,
-          "over_0_5_ft": 18,
-          "clean_sheets": 9
+          "avg_corners_per_game": 4.32,
+          "aproveitamento": 70.7,
+          "over_2_5_goals": 16,
+          "over_0_5_ht": 17,
+          "over_0_5_ft": 19,
+          "clean_sheets": 10
         },
         "home": {
           "played": 12,
@@ -50,22 +50,22 @@
           "clean_sheets_home": 6
         },
         "away": {
-          "played": 12,
-          "win": 5,
+          "played": 13,
+          "win": 6,
           "draw": 5,
           "lose": 2,
           "goals": {
-            "for": 21,
+            "for": 25,
             "against": 14
           },
-          "form_visitor": "DWWWW",
+          "form_visitor": "WWWWW",
           "btts_away_matches": 9,
           "avg_corners_away_per_game": 5.08,
-          "aproveitamento_away": 55.6,
-          "over_2_5_goals_away": 7,
-          "over_0_5_ht_away": 7,
-          "over_0_5_ft_away": 9,
-          "clean_sheets_away": 3
+          "aproveitamento_away": 59.0,
+          "over_2_5_goals_away": 8,
+          "over_0_5_ht_away": 8,
+          "over_0_5_ft_away": 10,
+          "clean_sheets_away": 4
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -485,42 +485,42 @@
           "logo": "https://cdn.footystats.org/img/teams/italy-ac-cesena.png"
         },
         "points": 37,
-        "goalsDiff": 2,
+        "goalsDiff": -2,
         "group": "Italy Serie B 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 24,
+          "played": 25,
           "win": 11,
           "draw": 4,
-          "lose": 9,
+          "lose": 10,
           "goals": {
             "for": 32,
-            "against": 30
+            "against": 34
           },
-          "form": "WLLWL",
+          "form": "LLWLL",
           "btts_matches": 16,
-          "avg_corners_per_game": 5.29,
-          "aproveitamento": 51.4,
-          "over_2_5_goals": 13,
+          "avg_corners_per_game": 5.28,
+          "aproveitamento": 49.3,
+          "over_2_5_goals": 14,
           "over_0_5_ht": 14,
           "over_0_5_ft": 13,
           "clean_sheets": 4
         },
         "home": {
-          "played": 11,
+          "played": 12,
           "win": 5,
           "draw": 3,
-          "lose": 3,
+          "lose": 4,
           "goals": {
             "for": 16,
-            "against": 11
+            "against": 15
           },
-          "form_home": "WDLLW",
-          "avg_corners_home_per_game": 6.55,
-          "aproveitamento_home": 54.5,
+          "form_home": "DLLWL",
+          "avg_corners_home_per_game": 6.42,
+          "aproveitamento_home": 50.0,
           "btts_home_matches": 7,
-          "over_2_5_goals_home": 5,
+          "over_2_5_goals_home": 6,
           "over_0_5_ht_home": 8,
           "over_0_5_ft_home": 6,
           "clean_sheets_home": 3
@@ -1375,6 +1375,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/finland-joel-pohjanpalo.png"
       },
       {
+        "jogador-nome": "Andrea Adorante",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 12,
+        "jogador-assists": 1,
+        "jogador-partidas": 23,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/italy-venezia-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/italy-andrea-adorante.png"
+      },
+      {
         "jogador-nome": "Tommaso Biasci",
         "jogador-posicao": "Forward",
         "jogador-gols": 11,
@@ -1382,15 +1391,6 @@
         "jogador-partidas": 22,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/italy-us-avellino.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/italy-tommaso-biasci.png"
-      },
-      {
-        "jogador-nome": "Andrea Adorante",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 11,
-        "jogador-assists": 1,
-        "jogador-partidas": 22,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/italy-venezia-fc.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/italy-andrea-adorante.png"
       },
       {
         "jogador-nome": "Ettore Gliozzi",
@@ -1423,8 +1423,8 @@
         "jogador-nome": "John Yeboah Zamora",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 8,
-        "jogador-assists": 6,
-        "jogador-partidas": 21,
+        "jogador-assists": 7,
+        "jogador-partidas": 22,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/italy-venezia-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/germany-john-yeboah-zamora.png"
       },
@@ -1510,6 +1510,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/argentina-nicolas-adrian-schiavi.png"
       },
       {
+        "jogador-nome": "Gianluca Cristiano Busio",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 6,
+        "jogador-assists": 1,
+        "jogador-partidas": 24,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/italy-venezia-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/usa-gianluca-busio.png"
+      },
+      {
         "jogador-nome": "Alphadjo Cisse",
         "jogador-posicao": "Forward",
         "jogador-gols": 6,
@@ -1535,15 +1544,6 @@
         "jogador-partidas": 23,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/italy-fc-bari-1908.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/italy-gabriele-moncini.png"
-      },
-      {
-        "jogador-nome": "Antonio Raimondo",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 6,
-        "jogador-assists": 0,
-        "jogador-partidas": 22,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/italy-frosinone-calcio.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/italy-antonio-raimondo.png"
       }
     ]
   }
