@@ -349,40 +349,40 @@
           "logo": "https://cdn.footystats.org/img/teams/israel-hapoel-petah-tikva-fc.png"
         },
         "points": 32,
-        "goalsDiff": 5,
+        "goalsDiff": 4,
         "group": "Israel Israeli Premier League 20252026",
         "status": "same",
         "description": "Copa Sul-Americana",
         "all": {
-          "played": 22,
+          "played": 23,
           "win": 8,
           "draw": 8,
-          "lose": 6,
+          "lose": 7,
           "goals": {
             "for": 39,
-            "against": 34
+            "against": 35
           },
-          "form": "WLLWW",
+          "form": "LLWWL",
           "btts_matches": 14,
-          "avg_corners_per_game": 5.73,
-          "aproveitamento": 48.5,
+          "avg_corners_per_game": 5.61,
+          "aproveitamento": 46.4,
           "over_2_5_goals": 14,
           "over_0_5_ht": 12,
           "over_0_5_ft": 12,
           "clean_sheets": 5
         },
         "home": {
-          "played": 11,
+          "played": 12,
           "win": 4,
           "draw": 4,
-          "lose": 3,
+          "lose": 4,
           "goals": {
             "for": 17,
-            "against": 15
+            "against": 16
           },
-          "form_home": "DWWLW",
-          "avg_corners_home_per_game": 5.82,
-          "aproveitamento_home": 48.5,
+          "form_home": "WWLWL",
+          "avg_corners_home_per_game": 5.58,
+          "aproveitamento_home": 44.4,
           "btts_home_matches": 6,
           "over_2_5_goals_home": 6,
           "over_0_5_ht_home": 4,
@@ -548,6 +548,74 @@
       {
         "rank": 9,
         "team": {
+          "id": 2393,
+          "name": "Hapoel Haifa FC",
+          "logo": "https://cdn.footystats.org/img/teams/israel-hapoel-haifa-fc.png"
+        },
+        "points": 23,
+        "goalsDiff": -10,
+        "group": "Israel Israeli Premier League 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 23,
+          "win": 6,
+          "draw": 5,
+          "lose": 12,
+          "goals": {
+            "for": 29,
+            "against": 39
+          },
+          "form": "LLDLW",
+          "btts_matches": 12,
+          "avg_corners_per_game": 4.26,
+          "aproveitamento": 33.3,
+          "over_2_5_goals": 11,
+          "over_0_5_ht": 10,
+          "over_0_5_ft": 10,
+          "clean_sheets": 5
+        },
+        "home": {
+          "played": 12,
+          "win": 2,
+          "draw": 4,
+          "lose": 6,
+          "goals": {
+            "for": 18,
+            "against": 23
+          },
+          "form_home": "WLDLL",
+          "avg_corners_home_per_game": 4.5,
+          "aproveitamento_home": 27.8,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 6,
+          "over_0_5_ft_home": 6,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 11,
+          "win": 4,
+          "draw": 1,
+          "lose": 6,
+          "goals": {
+            "for": 11,
+            "against": 16
+          },
+          "form_visitor": "WLLDW",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 4.0,
+          "aproveitamento_away": 39.4,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 10,
+        "team": {
           "id": 2392,
           "name": "FC Ashdod",
           "logo": "https://cdn.footystats.org/img/teams/israel-fc-ashdod.png"
@@ -614,7 +682,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "team": {
           "id": 2421,
           "name": "Ironi Tiberias",
@@ -682,7 +750,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 11,
+        "rank": 12,
         "team": {
           "id": 2394,
           "name": "Hapoel Ironi Kiryat Shmona FC",
@@ -746,74 +814,6 @@
           "over_0_5_ht_away": 6,
           "over_0_5_ft_away": 7,
           "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 12,
-        "team": {
-          "id": 2393,
-          "name": "Hapoel Haifa FC",
-          "logo": "https://cdn.footystats.org/img/teams/israel-hapoel-haifa-fc.png"
-        },
-        "points": 20,
-        "goalsDiff": -11,
-        "group": "Israel Israeli Premier League 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 22,
-          "win": 5,
-          "draw": 5,
-          "lose": 12,
-          "goals": {
-            "for": 28,
-            "against": 39
-          },
-          "form": "DLLDL",
-          "btts_matches": 12,
-          "avg_corners_per_game": 4.27,
-          "aproveitamento": 30.3,
-          "over_2_5_goals": 11,
-          "over_0_5_ht": 9,
-          "over_0_5_ft": 10,
-          "clean_sheets": 4
-        },
-        "home": {
-          "played": 12,
-          "win": 2,
-          "draw": 4,
-          "lose": 6,
-          "goals": {
-            "for": 18,
-            "against": 23
-          },
-          "form_home": "WLDLL",
-          "avg_corners_home_per_game": 4.5,
-          "aproveitamento_home": 27.8,
-          "btts_home_matches": 7,
-          "over_2_5_goals_home": 6,
-          "over_0_5_ht_home": 6,
-          "over_0_5_ft_home": 6,
-          "clean_sheets_home": 2
-        },
-        "away": {
-          "played": 10,
-          "win": 3,
-          "draw": 1,
-          "lose": 6,
-          "goals": {
-            "for": 10,
-            "against": 16
-          },
-          "form_visitor": "LWLLD",
-          "btts_away_matches": 5,
-          "avg_corners_away_per_game": 4.0,
-          "aproveitamento_away": 33.3,
-          "over_2_5_goals_away": 5,
-          "over_0_5_ht_away": 3,
-          "over_0_5_ft_away": 4,
-          "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1052,7 +1052,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 8,
         "jogador-assists": 1,
-        "jogador-partidas": 17,
+        "jogador-partidas": 18,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/israel-hapoel-petah-tikva-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/hungary-mark-koszta.png"
       },
@@ -1115,7 +1115,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 6,
         "jogador-assists": 2,
-        "jogador-partidas": 17,
+        "jogador-partidas": 18,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/israel-hapoel-petah-tikva-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-roee-david.png"
       },
