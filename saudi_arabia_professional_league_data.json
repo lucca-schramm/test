@@ -825,26 +825,26 @@
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-kholood-club.png"
         },
         "points": 19,
-        "goalsDiff": -9,
+        "goalsDiff": -10,
         "group": "Saudi Arabia Professional League 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 20,
+          "played": 21,
           "win": 6,
           "draw": 1,
-          "lose": 13,
+          "lose": 14,
           "goals": {
-            "for": 26,
-            "against": 35
+            "for": 27,
+            "against": 37
           },
-          "form": "WLLDW",
-          "btts_matches": 9,
-          "avg_corners_per_game": 4.0,
-          "aproveitamento": 31.7,
-          "over_2_5_goals": 13,
+          "form": "LLDWL",
+          "btts_matches": 10,
+          "avg_corners_per_game": 4.1,
+          "aproveitamento": 30.2,
+          "over_2_5_goals": 14,
           "over_0_5_ht": 9,
-          "over_0_5_ft": 7,
+          "over_0_5_ft": 8,
           "clean_sheets": 3
         },
         "home": {
@@ -866,21 +866,21 @@
           "clean_sheets_home": 1
         },
         "away": {
-          "played": 9,
+          "played": 10,
           "win": 3,
           "draw": 1,
-          "lose": 5,
+          "lose": 6,
           "goals": {
-            "for": 13,
-            "against": 13
+            "for": 14,
+            "against": 15
           },
-          "form_visitor": "LWLWD",
-          "btts_away_matches": 3,
-          "avg_corners_away_per_game": 3.89,
-          "aproveitamento_away": 37.0,
-          "over_2_5_goals_away": 5,
+          "form_visitor": "WLWDL",
+          "btts_away_matches": 4,
+          "avg_corners_away_per_game": 4.1,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 6,
           "over_0_5_ht_away": 3,
-          "over_0_5_ft_away": 3,
+          "over_0_5_ft_away": 4,
           "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1164,45 +1164,45 @@
           "name": "Al Najma Club Saudi Arabia",
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-najma-club-saudi-arabia.png"
         },
-        "points": 5,
-        "goalsDiff": -23,
+        "points": 8,
+        "goalsDiff": -22,
         "group": "Saudi Arabia Professional League 20252026",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 20,
-          "win": 0,
+          "played": 21,
+          "win": 1,
           "draw": 5,
           "lose": 15,
           "goals": {
-            "for": 18,
-            "against": 41
+            "for": 20,
+            "against": 42
           },
-          "form": "DLDLL",
-          "btts_matches": 13,
-          "avg_corners_per_game": 4.05,
-          "aproveitamento": 8.3,
-          "over_2_5_goals": 12,
-          "over_0_5_ht": 3,
-          "over_0_5_ft": 11,
+          "form": "LDLLW",
+          "btts_matches": 14,
+          "avg_corners_per_game": 4.0,
+          "aproveitamento": 12.7,
+          "over_2_5_goals": 13,
+          "over_0_5_ht": 4,
+          "over_0_5_ft": 12,
           "clean_sheets": 2
         },
         "home": {
-          "played": 9,
-          "win": 0,
+          "played": 10,
+          "win": 1,
           "draw": 3,
           "lose": 6,
           "goals": {
-            "for": 11,
-            "against": 19
+            "for": 13,
+            "against": 20
           },
-          "form_home": "DLDLD",
-          "avg_corners_home_per_game": 4.67,
-          "aproveitamento_home": 11.1,
-          "btts_home_matches": 7,
-          "over_2_5_goals_home": 5,
-          "over_0_5_ht_home": 1,
-          "over_0_5_ft_home": 7,
+          "form_home": "LDLDW",
+          "avg_corners_home_per_game": 4.5,
+          "aproveitamento_home": 20.0,
+          "btts_home_matches": 8,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 8,
           "clean_sheets_home": 0
         },
         "away": {
@@ -1311,6 +1311,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/france-karim-benzema.png"
       },
       {
+        "jogador-nome": "Ramiro Enrique Paz",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 11,
+        "jogador-assists": 0,
+        "jogador-partidas": 20,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-kholood-club.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/argentina-ramiro-enrique-paz.png"
+      },
+      {
         "jogador-nome": "Giorgos Masouras",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 10,
@@ -1318,15 +1327,6 @@
         "jogador-partidas": 21,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-khaleej-saihat.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/greece-giorgos-masouras.png"
-      },
-      {
-        "jogador-nome": "Ramiro Enrique Paz",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 10,
-        "jogador-assists": 0,
-        "jogador-partidas": 19,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-kholood-club.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/argentina-ramiro-enrique-paz.png"
       },
       {
         "jogador-nome": "Rúben Diogo da Silva Neves",
