@@ -416,28 +416,28 @@
           "name": "Maccabi Netanya FC",
           "logo": "https://cdn.footystats.org/img/teams/israel-maccabi-netanya-fc.png"
         },
-        "points": 28,
-        "goalsDiff": -9,
+        "points": 31,
+        "goalsDiff": -5,
         "group": "Israel Israeli Premier League 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 22,
-          "win": 8,
+          "played": 23,
+          "win": 9,
           "draw": 4,
           "lose": 10,
           "goals": {
-            "for": 36,
+            "for": 40,
             "against": 45
           },
-          "form": "DLWLD",
+          "form": "LWLDW",
           "btts_matches": 16,
-          "avg_corners_per_game": 5.05,
-          "aproveitamento": 42.4,
-          "over_2_5_goals": 15,
-          "over_0_5_ht": 9,
+          "avg_corners_per_game": 4.96,
+          "aproveitamento": 44.9,
+          "over_2_5_goals": 16,
+          "over_0_5_ht": 10,
           "over_0_5_ft": 12,
-          "clean_sheets": 1
+          "clean_sheets": 2
         },
         "home": {
           "played": 11,
@@ -458,22 +458,22 @@
           "clean_sheets_home": 1
         },
         "away": {
-          "played": 11,
-          "win": 4,
+          "played": 12,
+          "win": 5,
           "draw": 0,
           "lose": 7,
           "goals": {
-            "for": 15,
+            "for": 19,
             "against": 28
           },
-          "form_visitor": "WLLLL",
+          "form_visitor": "LLLLW",
           "btts_away_matches": 7,
-          "avg_corners_away_per_game": 4.18,
-          "aproveitamento_away": 36.4,
-          "over_2_5_goals_away": 9,
-          "over_0_5_ht_away": 3,
+          "avg_corners_away_per_game": 4.08,
+          "aproveitamento_away": 41.7,
+          "over_2_5_goals_away": 10,
+          "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 6,
-          "clean_sheets_away": 0
+          "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -893,42 +893,42 @@
           "logo": "https://cdn.footystats.org/img/teams/israel-maccabi-bnei-raina-fc.png"
         },
         "points": 11,
-        "goalsDiff": -35,
+        "goalsDiff": -39,
         "group": "Israel Israeli Premier League 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 22,
+          "played": 23,
           "win": 3,
           "draw": 2,
-          "lose": 17,
+          "lose": 18,
           "goals": {
             "for": 16,
-            "against": 51
+            "against": 55
           },
-          "form": "LDWLL",
+          "form": "DWLLL",
           "btts_matches": 11,
-          "avg_corners_per_game": 3.55,
-          "aproveitamento": 16.7,
-          "over_2_5_goals": 14,
+          "avg_corners_per_game": 3.57,
+          "aproveitamento": 15.9,
+          "over_2_5_goals": 15,
           "over_0_5_ht": 6,
           "over_0_5_ft": 9,
           "clean_sheets": 2
         },
         "home": {
-          "played": 11,
+          "played": 12,
           "win": 1,
           "draw": 2,
-          "lose": 8,
+          "lose": 9,
           "goals": {
             "for": 9,
-            "against": 26
+            "against": 30
           },
-          "form_home": "LLWDL",
-          "avg_corners_home_per_game": 3.82,
-          "aproveitamento_home": 15.2,
+          "form_home": "LWDLL",
+          "avg_corners_home_per_game": 3.83,
+          "aproveitamento_home": 13.9,
           "btts_home_matches": 6,
-          "over_2_5_goals_home": 7,
+          "over_2_5_goals_home": 8,
           "over_0_5_ht_home": 3,
           "over_0_5_ft_home": 5,
           "clean_sheets_home": 1
@@ -1057,6 +1057,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/serbia-igor-zlatanovic.png"
       },
       {
+        "jogador-nome": "Oz Bilu",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 8,
+        "jogador-assists": 2,
+        "jogador-partidas": 21,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/israel-maccabi-netanya-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/israel-oz-bilu.png"
+      },
+      {
         "jogador-nome": "Márk Koszta",
         "jogador-posicao": "Forward",
         "jogador-gols": 8,
@@ -1064,6 +1073,15 @@
         "jogador-partidas": 18,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/israel-hapoel-petah-tikva-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/hungary-mark-koszta.png"
+      },
+      {
+        "jogador-nome": "Matheus Alvarenga de Oliveira",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 7,
+        "jogador-assists": 5,
+        "jogador-partidas": 19,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/israel-maccabi-netanya-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-matheus-alvarenga-de-oliveira.png"
       },
       {
         "jogador-nome": "Eugene Ansah",
@@ -1075,15 +1093,6 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/ghana-eugene-ansah.png"
       },
       {
-        "jogador-nome": "Oz Bilu",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 7,
-        "jogador-assists": 2,
-        "jogador-partidas": 20,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/israel-maccabi-netanya-fc.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/israel-oz-bilu.png"
-      },
-      {
         "jogador-nome": "Adi Menachem Yona",
         "jogador-posicao": "Defender",
         "jogador-gols": 7,
@@ -1091,15 +1100,6 @@
         "jogador-partidas": 20,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/israel-beitar-jerusalem-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/israel-adi-menachem-yona.png"
-      },
-      {
-        "jogador-nome": "Matheus Alvarenga de Oliveira",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 6,
-        "jogador-assists": 5,
-        "jogador-partidas": 18,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/israel-maccabi-netanya-fc.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-matheus-alvarenga-de-oliveira.png"
       },
       {
         "jogador-nome": "Kings Kangwa",
