@@ -348,28 +348,28 @@
           "name": "Raith Rovers FC",
           "logo": "https://cdn.footystats.org/img/teams/scotland-raith-rovers-fc.png"
         },
-        "points": 28,
+        "points": 29,
         "goalsDiff": 2,
         "group": "Scotland Championship 20252026",
         "status": "same",
         "description": "Copa Sul-Americana",
         "all": {
-          "played": 24,
+          "played": 25,
           "win": 7,
-          "draw": 7,
+          "draw": 8,
           "lose": 10,
           "goals": {
             "for": 28,
             "against": 26
           },
-          "form": "LDLWL",
+          "form": "DLWLD",
           "btts_matches": 8,
-          "avg_corners_per_game": 5.79,
-          "aproveitamento": 38.9,
+          "avg_corners_per_game": 5.6,
+          "aproveitamento": 38.7,
           "over_2_5_goals": 9,
           "over_0_5_ht": 7,
           "over_0_5_ft": 10,
-          "clean_sheets": 11
+          "clean_sheets": 12
         },
         "home": {
           "played": 12,
@@ -390,22 +390,22 @@
           "clean_sheets_home": 4
         },
         "away": {
-          "played": 12,
+          "played": 13,
           "win": 2,
-          "draw": 5,
+          "draw": 6,
           "lose": 5,
           "goals": {
             "for": 6,
             "against": 11
           },
-          "form_visitor": "DDDDL",
+          "form_visitor": "DDDLD",
           "btts_away_matches": 3,
-          "avg_corners_away_per_game": 5.58,
-          "aproveitamento_away": 30.6,
+          "avg_corners_away_per_game": 5.23,
+          "aproveitamento_away": 30.8,
           "over_2_5_goals_away": 3,
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 2,
-          "clean_sheets_away": 7
+          "clean_sheets_away": 8
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -416,46 +416,46 @@
           "name": "Greenock Morton FC",
           "logo": "https://cdn.footystats.org/img/teams/scotland-greenock-morton-fc.png"
         },
-        "points": 26,
+        "points": 27,
         "goalsDiff": -6,
         "group": "Scotland Championship 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 23,
+          "played": 24,
           "win": 5,
-          "draw": 11,
+          "draw": 12,
           "lose": 7,
           "goals": {
             "for": 23,
             "against": 29
           },
-          "form": "LDLDW",
+          "form": "DLDWD",
           "btts_matches": 13,
-          "avg_corners_per_game": 4.48,
-          "aproveitamento": 37.7,
+          "avg_corners_per_game": 4.62,
+          "aproveitamento": 37.5,
           "over_2_5_goals": 8,
           "over_0_5_ht": 9,
           "over_0_5_ft": 11,
-          "clean_sheets": 5
+          "clean_sheets": 6
         },
         "home": {
-          "played": 11,
+          "played": 12,
           "win": 3,
-          "draw": 5,
+          "draw": 6,
           "lose": 3,
           "goals": {
             "for": 10,
             "against": 12
           },
-          "form_home": "WWLDW",
-          "avg_corners_home_per_game": 4.18,
-          "aproveitamento_home": 42.4,
+          "form_home": "WLDWD",
+          "avg_corners_home_per_game": 4.5,
+          "aproveitamento_home": 41.7,
           "btts_home_matches": 5,
           "over_2_5_goals_home": 3,
           "over_0_5_ht_home": 5,
           "over_0_5_ft_home": 5,
-          "clean_sheets_home": 3
+          "clean_sheets_home": 4
         },
         "away": {
           "played": 12,
@@ -479,6 +479,74 @@
       },
       {
         "rank": 8,
+        "team": {
+          "id": 1163,
+          "name": "Queen's Park FC",
+          "logo": "https://cdn.footystats.org/img/teams/scotland-queens-park-fc.png"
+        },
+        "points": 24,
+        "goalsDiff": -11,
+        "group": "Scotland Championship 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 23,
+          "win": 5,
+          "draw": 9,
+          "lose": 9,
+          "goals": {
+            "for": 24,
+            "against": 35
+          },
+          "form": "DLWLW",
+          "btts_matches": 14,
+          "avg_corners_per_game": 2.87,
+          "aproveitamento": 34.8,
+          "over_2_5_goals": 12,
+          "over_0_5_ht": 11,
+          "over_0_5_ft": 9,
+          "clean_sheets": 6
+        },
+        "home": {
+          "played": 11,
+          "win": 2,
+          "draw": 5,
+          "lose": 4,
+          "goals": {
+            "for": 9,
+            "against": 12
+          },
+          "form_home": "WDDWL",
+          "avg_corners_home_per_game": 3.09,
+          "aproveitamento_home": 33.3,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 12,
+          "win": 3,
+          "draw": 4,
+          "lose": 5,
+          "goals": {
+            "for": 15,
+            "against": 23
+          },
+          "form_visitor": "LLWLW",
+          "btts_away_matches": 8,
+          "avg_corners_away_per_game": 2.67,
+          "aproveitamento_away": 36.1,
+          "over_2_5_goals_away": 7,
+          "over_0_5_ht_away": 6,
+          "over_0_5_ft_away": 6,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 9,
         "team": {
           "id": 1161,
           "name": "Airdrieonians FC",
@@ -546,47 +614,47 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "team": {
           "id": 31,
           "name": "Ross County FC",
           "logo": "https://cdn.footystats.org/img/teams/scotland-ross-county-fc.png"
         },
         "points": 22,
-        "goalsDiff": -16,
+        "goalsDiff": -17,
         "group": "Scotland Championship 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 23,
+          "played": 24,
           "win": 5,
           "draw": 7,
-          "lose": 11,
+          "lose": 12,
           "goals": {
             "for": 22,
-            "against": 38
+            "against": 39
           },
-          "form": "DWWLW",
+          "form": "WWLWL",
           "btts_matches": 10,
-          "avg_corners_per_game": 4.96,
-          "aproveitamento": 31.9,
+          "avg_corners_per_game": 4.92,
+          "aproveitamento": 30.6,
           "over_2_5_goals": 11,
           "over_0_5_ht": 7,
           "over_0_5_ft": 11,
           "clean_sheets": 6
         },
         "home": {
-          "played": 12,
+          "played": 13,
           "win": 3,
           "draw": 2,
-          "lose": 7,
+          "lose": 8,
           "goals": {
             "for": 14,
-            "against": 20
+            "against": 21
           },
-          "form_home": "LLLDW",
-          "avg_corners_home_per_game": 5.75,
-          "aproveitamento_home": 30.6,
+          "form_home": "LLDWL",
+          "avg_corners_home_per_game": 5.62,
+          "aproveitamento_home": 28.2,
           "btts_home_matches": 6,
           "over_2_5_goals_home": 7,
           "over_0_5_ht_home": 4,
@@ -610,74 +678,6 @@
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 5,
           "clean_sheets_away": 3
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 10,
-        "team": {
-          "id": 1163,
-          "name": "Queen's Park FC",
-          "logo": "https://cdn.footystats.org/img/teams/scotland-queens-park-fc.png"
-        },
-        "points": 21,
-        "goalsDiff": -12,
-        "group": "Scotland Championship 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 22,
-          "win": 4,
-          "draw": 9,
-          "lose": 9,
-          "goals": {
-            "for": 23,
-            "against": 35
-          },
-          "form": "WDLWL",
-          "btts_matches": 14,
-          "avg_corners_per_game": 2.91,
-          "aproveitamento": 31.8,
-          "over_2_5_goals": 12,
-          "over_0_5_ht": 10,
-          "over_0_5_ft": 9,
-          "clean_sheets": 5
-        },
-        "home": {
-          "played": 11,
-          "win": 2,
-          "draw": 5,
-          "lose": 4,
-          "goals": {
-            "for": 9,
-            "against": 12
-          },
-          "form_home": "WDDWL",
-          "avg_corners_home_per_game": 3.09,
-          "aproveitamento_home": 33.3,
-          "btts_home_matches": 6,
-          "over_2_5_goals_home": 5,
-          "over_0_5_ht_home": 5,
-          "over_0_5_ft_home": 3,
-          "clean_sheets_home": 3
-        },
-        "away": {
-          "played": 11,
-          "win": 2,
-          "draw": 4,
-          "lose": 5,
-          "goals": {
-            "for": 14,
-            "against": 23
-          },
-          "form_visitor": "LLLWL",
-          "btts_away_matches": 8,
-          "avg_corners_away_per_game": 2.73,
-          "aproveitamento_away": 30.3,
-          "over_2_5_goals_away": 7,
-          "over_0_5_ht_away": 5,
-          "over_0_5_ft_away": 6,
-          "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
       }
@@ -735,7 +735,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 8,
         "jogador-assists": 3,
-        "jogador-partidas": 24,
+        "jogador-partidas": 25,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/scotland-raith-rovers-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/scotland-dylan-easton.png"
       },
@@ -789,7 +789,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 6,
         "jogador-assists": 1,
-        "jogador-partidas": 24,
+        "jogador-partidas": 25,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/scotland-raith-rovers-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/scotland-jack-hamilton.png"
       },
@@ -825,7 +825,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 5,
         "jogador-assists": 1,
-        "jogador-partidas": 17,
+        "jogador-partidas": 18,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/scotland-greenock-morton-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/scotland-eamonn-brophy.png"
       },
@@ -843,7 +843,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 4,
         "jogador-assists": 4,
-        "jogador-partidas": 22,
+        "jogador-partidas": 23,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/scotland-queens-park-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-sebastian-drozd.png"
       },
