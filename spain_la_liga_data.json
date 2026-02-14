@@ -348,45 +348,45 @@
           "name": "Reial Club Deportiu Espanyol",
           "logo": "https://cdn.footystats.org/img/teams/spain-reial-club-deportiu-espanyol.png"
         },
-        "points": 34,
+        "points": 35,
         "goalsDiff": -4,
         "group": "Spain La Liga 20252026",
         "status": "same",
         "description": "Copa Sul-Americana",
         "all": {
-          "played": 23,
+          "played": 24,
           "win": 10,
-          "draw": 4,
+          "draw": 5,
           "lose": 9,
           "goals": {
-            "for": 27,
-            "against": 31
+            "for": 29,
+            "against": 33
           },
-          "form": "DLLLL",
-          "btts_matches": 12,
-          "avg_corners_per_game": 4.57,
-          "aproveitamento": 49.3,
-          "over_2_5_goals": 11,
+          "form": "LLLLD",
+          "btts_matches": 13,
+          "avg_corners_per_game": 4.46,
+          "aproveitamento": 48.6,
+          "over_2_5_goals": 12,
           "over_0_5_ht": 6,
-          "over_0_5_ft": 14,
+          "over_0_5_ft": 15,
           "clean_sheets": 7
         },
         "home": {
-          "played": 12,
+          "played": 13,
           "win": 6,
-          "draw": 1,
+          "draw": 2,
           "lose": 5,
           "goals": {
-            "for": 14,
-            "against": 16
+            "for": 16,
+            "against": 18
           },
-          "form_home": "WWLLL",
-          "avg_corners_home_per_game": 4.67,
-          "aproveitamento_home": 52.8,
-          "btts_home_matches": 6,
-          "over_2_5_goals_home": 6,
+          "form_home": "WLLLD",
+          "avg_corners_home_per_game": 4.46,
+          "aproveitamento_home": 51.3,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 7,
           "over_0_5_ht_home": 4,
-          "over_0_5_ft_home": 6,
+          "over_0_5_ft_home": 7,
           "clean_sheets_home": 3
         },
         "away": {
@@ -416,27 +416,27 @@
           "name": "Real Club Celta de Vigo",
           "logo": "https://cdn.footystats.org/img/teams/spain-real-club-celta-de-vigo.png"
         },
-        "points": 33,
+        "points": 34,
         "goalsDiff": 5,
         "group": "Spain La Liga 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 23,
+          "played": 24,
           "win": 8,
-          "draw": 9,
+          "draw": 10,
           "lose": 6,
           "goals": {
-            "for": 30,
-            "against": 25
+            "for": 32,
+            "against": 27
           },
-          "form": "WWLDL",
-          "btts_matches": 14,
-          "avg_corners_per_game": 4.17,
-          "aproveitamento": 47.8,
-          "over_2_5_goals": 8,
-          "over_0_5_ht": 8,
-          "over_0_5_ft": 15,
+          "form": "WLDLD",
+          "btts_matches": 15,
+          "avg_corners_per_game": 4.08,
+          "aproveitamento": 47.2,
+          "over_2_5_goals": 9,
+          "over_0_5_ht": 9,
+          "over_0_5_ft": 16,
           "clean_sheets": 7
         },
         "home": {
@@ -458,21 +458,21 @@
           "clean_sheets_home": 2
         },
         "away": {
-          "played": 11,
+          "played": 12,
           "win": 5,
-          "draw": 4,
+          "draw": 5,
           "lose": 2,
           "goals": {
-            "for": 13,
-            "against": 10
+            "for": 15,
+            "against": 12
           },
-          "form_visitor": "WDWLD",
-          "btts_away_matches": 6,
-          "avg_corners_away_per_game": 3.45,
-          "aproveitamento_away": 57.6,
-          "over_2_5_goals_away": 4,
-          "over_0_5_ht_away": 4,
-          "over_0_5_ft_away": 7,
+          "form_visitor": "DWLDD",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 3.33,
+          "aproveitamento_away": 55.6,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 5,
+          "over_0_5_ft_away": 8,
           "clean_sheets_away": 5
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1411,6 +1411,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/spain-lamine-yamal.png"
       },
       {
+        "jogador-nome": "Borja Iglesias Quintás",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 10,
+        "jogador-assists": 2,
+        "jogador-partidas": 22,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/spain-real-club-celta-de-vigo.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/spain-borja-iglesias.png"
+      },
+      {
         "jogador-nome": "Robert Lewandowski",
         "jogador-posicao": "Forward",
         "jogador-gols": 10,
@@ -1436,15 +1445,6 @@
         "jogador-partidas": 20,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/spain-real-sociedad-de-futbol.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/spain-mikel-oyarzabal.png"
-      },
-      {
-        "jogador-nome": "Borja Iglesias Quintás",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 9,
-        "jogador-assists": 2,
-        "jogador-partidas": 21,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/spain-real-club-celta-de-vigo.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/spain-borja-iglesias.png"
       },
       {
         "jogador-nome": "Raphael Dias Belloli",
