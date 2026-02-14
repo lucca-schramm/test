@@ -281,40 +281,40 @@
           "logo": "https://cdn.footystats.org/img/teams/croatia-nk-dubrava-zagreb.png"
         },
         "points": 26,
-        "goalsDiff": 1,
+        "goalsDiff": 0,
         "group": "Croatia Druga HNL 20252026",
         "status": "same",
         "description": "Copa Sul-Americana",
         "all": {
-          "played": 17,
+          "played": 18,
           "win": 7,
           "draw": 5,
-          "lose": 5,
+          "lose": 6,
           "goals": {
             "for": 17,
-            "against": 16
+            "against": 17
           },
-          "form": "LWDWD",
+          "form": "WDWDL",
           "btts_matches": 6,
-          "avg_corners_per_game": 4.0,
-          "aproveitamento": 51.0,
+          "avg_corners_per_game": 4.11,
+          "aproveitamento": 48.1,
           "over_2_5_goals": 5,
           "over_0_5_ht": 6,
           "over_0_5_ft": 6,
           "clean_sheets": 7
         },
         "home": {
-          "played": 8,
+          "played": 9,
           "win": 5,
           "draw": 1,
-          "lose": 2,
+          "lose": 3,
           "goals": {
             "for": 12,
-            "against": 10
+            "against": 11
           },
-          "form_home": "WLDWW",
-          "avg_corners_home_per_game": 5.0,
-          "aproveitamento_home": 66.7,
+          "form_home": "LDWWL",
+          "avg_corners_home_per_game": 5.11,
+          "aproveitamento_home": 59.3,
           "btts_home_matches": 3,
           "over_2_5_goals_home": 3,
           "over_0_5_ht_home": 3,
@@ -344,6 +344,74 @@
       {
         "rank": 6,
         "team": {
+          "id": 1882,
+          "name": "NK Sesvete",
+          "logo": "https://cdn.footystats.org/img/teams/croatia-nk-sesvete.png"
+        },
+        "points": 26,
+        "goalsDiff": 3,
+        "group": "Croatia Druga HNL 20252026",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 17,
+          "win": 6,
+          "draw": 8,
+          "lose": 3,
+          "goals": {
+            "for": 14,
+            "against": 11
+          },
+          "form": "LDDWW",
+          "btts_matches": 6,
+          "avg_corners_per_game": 4.65,
+          "aproveitamento": 51.0,
+          "over_2_5_goals": 2,
+          "over_0_5_ht": 6,
+          "over_0_5_ft": 8,
+          "clean_sheets": 9
+        },
+        "home": {
+          "played": 8,
+          "win": 2,
+          "draw": 5,
+          "lose": 1,
+          "goals": {
+            "for": 6,
+            "against": 5
+          },
+          "form_home": "DLDDW",
+          "avg_corners_home_per_game": 4.62,
+          "aproveitamento_home": 45.8,
+          "btts_home_matches": 3,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 4
+        },
+        "away": {
+          "played": 9,
+          "win": 4,
+          "draw": 3,
+          "lose": 2,
+          "goals": {
+            "for": 8,
+            "against": 6
+          },
+          "form_visitor": "WWDLW",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 4.67,
+          "aproveitamento_away": 55.6,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 5
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 7,
+        "team": {
           "id": 10669,
           "name": "BSK Bijelo Brdo",
           "logo": "https://cdn.footystats.org/img/teams/croatia-bsk-bijelo-brdo.png"
@@ -352,7 +420,7 @@
         "goalsDiff": 3,
         "group": "Croatia Druga HNL 20252026",
         "status": "same",
-        "description": "Copa Sul-Americana",
+        "description": "",
         "all": {
           "played": 18,
           "win": 6,
@@ -406,74 +474,6 @@
           "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 3,
           "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 7,
-        "team": {
-          "id": 1882,
-          "name": "NK Sesvete",
-          "logo": "https://cdn.footystats.org/img/teams/croatia-nk-sesvete.png"
-        },
-        "points": 23,
-        "goalsDiff": 2,
-        "group": "Croatia Druga HNL 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 16,
-          "win": 5,
-          "draw": 8,
-          "lose": 3,
-          "goals": {
-            "for": 13,
-            "against": 11
-          },
-          "form": "LLDDW",
-          "btts_matches": 6,
-          "avg_corners_per_game": 4.38,
-          "aproveitamento": 47.9,
-          "over_2_5_goals": 2,
-          "over_0_5_ht": 6,
-          "over_0_5_ft": 7,
-          "clean_sheets": 8
-        },
-        "home": {
-          "played": 8,
-          "win": 2,
-          "draw": 5,
-          "lose": 1,
-          "goals": {
-            "for": 6,
-            "against": 5
-          },
-          "form_home": "DLDDW",
-          "avg_corners_home_per_game": 4.62,
-          "aproveitamento_home": 45.8,
-          "btts_home_matches": 3,
-          "over_2_5_goals_home": 1,
-          "over_0_5_ht_home": 2,
-          "over_0_5_ft_home": 4,
-          "clean_sheets_home": 4
-        },
-        "away": {
-          "played": 8,
-          "win": 3,
-          "draw": 3,
-          "lose": 2,
-          "goals": {
-            "for": 7,
-            "against": 6
-          },
-          "form_visitor": "DWWDL",
-          "btts_away_matches": 3,
-          "avg_corners_away_per_game": 4.12,
-          "aproveitamento_away": 50.0,
-          "over_2_5_goals_away": 1,
-          "over_0_5_ht_away": 4,
-          "over_0_5_ft_away": 3,
-          "clean_sheets_away": 4
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -553,40 +553,40 @@
           "logo": "https://cdn.footystats.org/img/teams/croatia-nk-jarun-zagreb.png"
         },
         "points": 19,
-        "goalsDiff": -3,
+        "goalsDiff": -4,
         "group": "Croatia Druga HNL 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 17,
+          "played": 18,
           "win": 4,
           "draw": 7,
-          "lose": 6,
+          "lose": 7,
           "goals": {
             "for": 18,
-            "against": 21
+            "against": 22
           },
-          "form": "LWDDD",
+          "form": "WDDDL",
           "btts_matches": 10,
-          "avg_corners_per_game": 4.18,
-          "aproveitamento": 37.3,
+          "avg_corners_per_game": 4.28,
+          "aproveitamento": 35.2,
           "over_2_5_goals": 6,
           "over_0_5_ht": 8,
           "over_0_5_ft": 7,
           "clean_sheets": 3
         },
         "home": {
-          "played": 8,
+          "played": 9,
           "win": 4,
           "draw": 4,
-          "lose": 0,
+          "lose": 1,
           "goals": {
             "for": 12,
-            "against": 6
+            "against": 7
           },
-          "form_home": "WDWWD",
-          "avg_corners_home_per_game": 4.38,
-          "aproveitamento_home": 66.7,
+          "form_home": "DWWDL",
+          "avg_corners_home_per_game": 4.56,
+          "aproveitamento_home": 59.3,
           "btts_home_matches": 5,
           "over_2_5_goals_home": 3,
           "over_0_5_ht_home": 5,
@@ -684,6 +684,74 @@
       {
         "rank": 11,
         "team": {
+          "id": 15303,
+          "name": "Opatija",
+          "logo": "https://cdn.footystats.org/img/teams/croatia-opatija.png"
+        },
+        "points": 17,
+        "goalsDiff": -13,
+        "group": "Croatia Druga HNL 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 18,
+          "win": 4,
+          "draw": 5,
+          "lose": 9,
+          "goals": {
+            "for": 11,
+            "against": 24
+          },
+          "form": "DLWDW",
+          "btts_matches": 7,
+          "avg_corners_per_game": 3.56,
+          "aproveitamento": 31.5,
+          "over_2_5_goals": 7,
+          "over_0_5_ht": 6,
+          "over_0_5_ft": 4,
+          "clean_sheets": 4
+        },
+        "home": {
+          "played": 9,
+          "win": 2,
+          "draw": 2,
+          "lose": 5,
+          "goals": {
+            "for": 7,
+            "against": 12
+          },
+          "form_home": "LWLLD",
+          "avg_corners_home_per_game": 3.56,
+          "aproveitamento_home": 29.6,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 2,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 9,
+          "win": 2,
+          "draw": 3,
+          "lose": 4,
+          "goals": {
+            "for": 4,
+            "against": 12
+          },
+          "form_visitor": "DLDWW",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 3.56,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 3,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 4
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 12,
+        "team": {
           "id": 671524,
           "name": "NK Croatia Zmijavci",
           "logo": "https://cdn.footystats.org/img/teams/croatia-nk-croatia-zmijavci.png"
@@ -748,74 +816,6 @@
           "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 12,
-        "team": {
-          "id": 15303,
-          "name": "Opatija",
-          "logo": "https://cdn.footystats.org/img/teams/croatia-opatija.png"
-        },
-        "points": 14,
-        "goalsDiff": -14,
-        "group": "Croatia Druga HNL 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 17,
-          "win": 3,
-          "draw": 5,
-          "lose": 9,
-          "goals": {
-            "for": 10,
-            "against": 24
-          },
-          "form": "LDLWD",
-          "btts_matches": 7,
-          "avg_corners_per_game": 3.47,
-          "aproveitamento": 27.5,
-          "over_2_5_goals": 7,
-          "over_0_5_ht": 6,
-          "over_0_5_ft": 3,
-          "clean_sheets": 3
-        },
-        "home": {
-          "played": 9,
-          "win": 2,
-          "draw": 2,
-          "lose": 5,
-          "goals": {
-            "for": 7,
-            "against": 12
-          },
-          "form_home": "LWLLD",
-          "avg_corners_home_per_game": 3.56,
-          "aproveitamento_home": 29.6,
-          "btts_home_matches": 5,
-          "over_2_5_goals_home": 4,
-          "over_0_5_ht_home": 4,
-          "over_0_5_ft_home": 2,
-          "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 8,
-          "win": 1,
-          "draw": 3,
-          "lose": 4,
-          "goals": {
-            "for": 3,
-            "against": 12
-          },
-          "form_visitor": "LDLDW",
-          "btts_away_matches": 2,
-          "avg_corners_away_per_game": 3.38,
-          "aproveitamento_away": 25.0,
-          "over_2_5_goals_away": 3,
-          "over_0_5_ht_away": 2,
-          "over_0_5_ft_away": 1,
-          "clean_sheets_away": 3
-        },
-        "update": "2025-09-23T00:00:00+00:00"
       }
     ]
   },
@@ -826,7 +826,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 153,
         "jogador-assists": 0,
-        "jogador-partidas": 151,
+        "jogador-partidas": 152,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/croatia-nk-karlovac-1919.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-jogador_42458.png"
       },
@@ -853,7 +853,7 @@
         "jogador-posicao": "Defender",
         "jogador-gols": 6,
         "jogador-assists": 0,
-        "jogador-partidas": 23,
+        "jogador-partidas": 24,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/croatia-nk-dubrava-zagreb.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-ivan-dominić.png"
       },
@@ -907,7 +907,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 4,
         "jogador-assists": 2,
-        "jogador-partidas": 16,
+        "jogador-partidas": 17,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/croatia-nk-dubrava-zagreb.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-ante-matić.png"
       },
@@ -979,7 +979,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 3,
         "jogador-assists": 0,
-        "jogador-partidas": 16,
+        "jogador-partidas": 17,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/croatia-nk-orijent-1919.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-jogador_944490.png"
       },
