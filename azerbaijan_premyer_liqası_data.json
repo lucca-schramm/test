@@ -140,6 +140,74 @@
       {
         "rank": 3,
         "team": {
+          "id": 910,
+          "name": "Zira IK",
+          "logo": "https://cdn.footystats.org/img/teams/azerbaijan-zira-ik.png"
+        },
+        "points": 35,
+        "goalsDiff": 8,
+        "group": "Azerbaijan Premyer Liqası 20252026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 20,
+          "win": 9,
+          "draw": 8,
+          "lose": 3,
+          "goals": {
+            "for": 28,
+            "against": 20
+          },
+          "form": "DDLWW",
+          "btts_matches": 11,
+          "avg_corners_per_game": 4.45,
+          "aproveitamento": 58.3,
+          "over_2_5_goals": 9,
+          "over_0_5_ht": 11,
+          "over_0_5_ft": 8,
+          "clean_sheets": 8
+        },
+        "home": {
+          "played": 11,
+          "win": 5,
+          "draw": 5,
+          "lose": 1,
+          "goals": {
+            "for": 15,
+            "against": 8
+          },
+          "form_home": "WDDLW",
+          "avg_corners_home_per_game": 4.64,
+          "aproveitamento_home": 60.6,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 7,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 6
+        },
+        "away": {
+          "played": 9,
+          "win": 4,
+          "draw": 3,
+          "lose": 2,
+          "goals": {
+            "for": 13,
+            "against": 12
+          },
+          "form_visitor": "WWLDW",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 4.22,
+          "aproveitamento_away": 55.6,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 4,
+        "team": {
           "id": 3043,
           "name": "Turan-T IK",
           "logo": "https://cdn.footystats.org/img/teams/azerbaijan-turan-t-ik.png"
@@ -202,74 +270,6 @@
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 5,
           "clean_sheets_away": 5
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 4,
-        "team": {
-          "id": 910,
-          "name": "Zira IK",
-          "logo": "https://cdn.footystats.org/img/teams/azerbaijan-zira-ik.png"
-        },
-        "points": 32,
-        "goalsDiff": 7,
-        "group": "Azerbaijan Premyer Liqası 20252026",
-        "status": "same",
-        "description": "Copa Libertadores",
-        "all": {
-          "played": 19,
-          "win": 8,
-          "draw": 8,
-          "lose": 3,
-          "goals": {
-            "for": 27,
-            "against": 20
-          },
-          "form": "LDDLW",
-          "btts_matches": 11,
-          "avg_corners_per_game": 4.37,
-          "aproveitamento": 56.1,
-          "over_2_5_goals": 9,
-          "over_0_5_ht": 10,
-          "over_0_5_ft": 8,
-          "clean_sheets": 7
-        },
-        "home": {
-          "played": 10,
-          "win": 4,
-          "draw": 5,
-          "lose": 1,
-          "goals": {
-            "for": 14,
-            "against": 8
-          },
-          "form_home": "DWDDL",
-          "avg_corners_home_per_game": 4.5,
-          "aproveitamento_home": 56.7,
-          "btts_home_matches": 5,
-          "over_2_5_goals_home": 4,
-          "over_0_5_ht_home": 6,
-          "over_0_5_ft_home": 4,
-          "clean_sheets_home": 5
-        },
-        "away": {
-          "played": 9,
-          "win": 4,
-          "draw": 3,
-          "lose": 2,
-          "goals": {
-            "for": 13,
-            "against": 12
-          },
-          "form_visitor": "WWLDW",
-          "btts_away_matches": 6,
-          "avg_corners_away_per_game": 4.22,
-          "aproveitamento_away": 55.6,
-          "over_2_5_goals_away": 5,
-          "over_0_5_ht_away": 4,
-          "over_0_5_ft_away": 4,
-          "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -757,23 +757,23 @@
           "logo": "https://cdn.footystats.org/img/teams/azerbaijan-karvan-fk.png"
         },
         "points": 6,
-        "goalsDiff": -28,
+        "goalsDiff": -29,
         "group": "Azerbaijan Premyer Liqası 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 19,
+          "played": 20,
           "win": 1,
           "draw": 3,
-          "lose": 15,
+          "lose": 16,
           "goals": {
             "for": 13,
-            "against": 41
+            "against": 42
           },
-          "form": "DLLLL",
+          "form": "LLLLL",
           "btts_matches": 10,
-          "avg_corners_per_game": 2.26,
-          "aproveitamento": 10.5,
+          "avg_corners_per_game": 2.25,
+          "aproveitamento": 10.0,
           "over_2_5_goals": 11,
           "over_0_5_ht": 7,
           "over_0_5_ft": 5,
@@ -798,18 +798,18 @@
           "clean_sheets_home": 0
         },
         "away": {
-          "played": 9,
+          "played": 10,
           "win": 1,
           "draw": 2,
-          "lose": 6,
+          "lose": 7,
           "goals": {
             "for": 7,
-            "against": 19
+            "against": 20
           },
-          "form_visitor": "LLDLL",
+          "form_visitor": "LDLLL",
           "btts_away_matches": 5,
-          "avg_corners_away_per_game": 1.56,
-          "aproveitamento_away": 18.5,
+          "avg_corners_away_per_game": 1.6,
+          "aproveitamento_away": 16.7,
           "over_2_5_goals_away": 5,
           "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 2,
@@ -939,6 +939,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/dominican-republic-ronaldo-vasquez-herasme.png"
       },
       {
+        "jogador-nome": "Davit Volkovi",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 5,
+        "jogador-assists": 0,
+        "jogador-partidas": 9,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/azerbaijan-zira-ik.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/georgia-davit-volkovi.png"
+      },
+      {
         "jogador-nome": "Charles Boli",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 5,
@@ -991,15 +1000,6 @@
         "jogador-partidas": 18,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/azerbaijan-fk-sumqayit.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/ukraine-rustam-akhmedzade.png"
-      },
-      {
-        "jogador-nome": "Issa Djibrilla",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 4,
-        "jogador-assists": 1,
-        "jogador-partidas": 10,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/azerbaijan-zira-ik.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/niger-issa-djibrilla.png"
       }
     ]
   }
