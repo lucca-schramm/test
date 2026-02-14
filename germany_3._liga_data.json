@@ -276,6 +276,74 @@
       {
         "rank": 5,
         "team": {
+          "id": 6298,
+          "name": "Rot-Weiss Essen",
+          "logo": "https://cdn.footystats.org/img/teams/germany-rot-weiss-essen.png"
+        },
+        "points": 43,
+        "goalsDiff": 10,
+        "group": "Germany 3. Liga 20252026",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 24,
+          "win": 11,
+          "draw": 10,
+          "lose": 3,
+          "goals": {
+            "for": 48,
+            "against": 38
+          },
+          "form": "DWDDW",
+          "btts_matches": 21,
+          "avg_corners_per_game": 5.25,
+          "aproveitamento": 59.7,
+          "over_2_5_goals": 15,
+          "over_0_5_ht": 13,
+          "over_0_5_ft": 18,
+          "clean_sheets": 3
+        },
+        "home": {
+          "played": 13,
+          "win": 7,
+          "draw": 4,
+          "lose": 2,
+          "goals": {
+            "for": 27,
+            "against": 17
+          },
+          "form_home": "DWWDW",
+          "avg_corners_home_per_game": 5.38,
+          "aproveitamento_home": 64.1,
+          "btts_home_matches": 11,
+          "over_2_5_goals_home": 8,
+          "over_0_5_ht_home": 9,
+          "over_0_5_ft_home": 9,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 11,
+          "win": 4,
+          "draw": 6,
+          "lose": 1,
+          "goals": {
+            "for": 21,
+            "against": 21
+          },
+          "form_visitor": "WWDDD",
+          "btts_away_matches": 10,
+          "avg_corners_away_per_game": 5.09,
+          "aproveitamento_away": 54.5,
+          "over_2_5_goals_away": 7,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 9,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 6,
+        "team": {
           "id": 557,
           "name": "SV Wehen Wiesbaden",
           "logo": "https://cdn.footystats.org/img/teams/germany-sv-wehen-wiesbaden.png"
@@ -342,7 +410,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "team": {
           "id": 567,
           "name": "FC Hansa Rostock",
@@ -352,7 +420,7 @@
         "goalsDiff": 14,
         "group": "Germany 3. Liga 20252026",
         "status": "same",
-        "description": "Copa Sul-Americana",
+        "description": "",
         "all": {
           "played": 24,
           "win": 10,
@@ -406,74 +474,6 @@
           "over_0_5_ht_away": 6,
           "over_0_5_ft_away": 8,
           "clean_sheets_away": 6
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 7,
-        "team": {
-          "id": 6298,
-          "name": "Rot-Weiss Essen",
-          "logo": "https://cdn.footystats.org/img/teams/germany-rot-weiss-essen.png"
-        },
-        "points": 40,
-        "goalsDiff": 9,
-        "group": "Germany 3. Liga 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 23,
-          "win": 10,
-          "draw": 10,
-          "lose": 3,
-          "goals": {
-            "for": 45,
-            "against": 36
-          },
-          "form": "WDWDD",
-          "btts_matches": 20,
-          "avg_corners_per_game": 5.3,
-          "aproveitamento": 58.0,
-          "over_2_5_goals": 14,
-          "over_0_5_ht": 12,
-          "over_0_5_ft": 17,
-          "clean_sheets": 3
-        },
-        "home": {
-          "played": 12,
-          "win": 6,
-          "draw": 4,
-          "lose": 2,
-          "goals": {
-            "for": 24,
-            "against": 15
-          },
-          "form_home": "LDWWD",
-          "avg_corners_home_per_game": 5.5,
-          "aproveitamento_home": 61.1,
-          "btts_home_matches": 10,
-          "over_2_5_goals_home": 7,
-          "over_0_5_ht_home": 8,
-          "over_0_5_ft_home": 8,
-          "clean_sheets_home": 2
-        },
-        "away": {
-          "played": 11,
-          "win": 4,
-          "draw": 6,
-          "lose": 1,
-          "goals": {
-            "for": 21,
-            "against": 21
-          },
-          "form_visitor": "WWDDD",
-          "btts_away_matches": 10,
-          "avg_corners_away_per_game": 5.09,
-          "aproveitamento_away": 54.5,
-          "over_2_5_goals_away": 7,
-          "over_0_5_ht_away": 4,
-          "over_0_5_ft_away": 9,
-          "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -893,26 +893,26 @@
           "logo": "https://cdn.footystats.org/img/teams/germany-ssv-jahn-2000-regensburg.png"
         },
         "points": 28,
-        "goalsDiff": -5,
+        "goalsDiff": -6,
         "group": "Germany 3. Liga 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 23,
+          "played": 24,
           "win": 8,
           "draw": 4,
-          "lose": 11,
+          "lose": 12,
           "goals": {
-            "for": 29,
-            "against": 34
+            "for": 31,
+            "against": 37
           },
-          "form": "DLLWD",
-          "btts_matches": 8,
-          "avg_corners_per_game": 5.09,
-          "aproveitamento": 40.6,
-          "over_2_5_goals": 12,
-          "over_0_5_ht": 8,
-          "over_0_5_ft": 12,
+          "form": "LLWDL",
+          "btts_matches": 9,
+          "avg_corners_per_game": 5.12,
+          "aproveitamento": 38.9,
+          "over_2_5_goals": 13,
+          "over_0_5_ht": 9,
+          "over_0_5_ft": 13,
           "clean_sheets": 7
         },
         "home": {
@@ -934,21 +934,21 @@
           "clean_sheets_home": 5
         },
         "away": {
-          "played": 12,
+          "played": 13,
           "win": 3,
           "draw": 2,
-          "lose": 7,
+          "lose": 8,
           "goals": {
-            "for": 12,
-            "against": 18
+            "for": 14,
+            "against": 21
           },
-          "form_visitor": "WLDLW",
-          "btts_away_matches": 5,
-          "avg_corners_away_per_game": 4.92,
-          "aproveitamento_away": 30.6,
-          "over_2_5_goals_away": 4,
-          "over_0_5_ht_away": 5,
-          "over_0_5_ft_away": 5,
+          "form_visitor": "LDLWL",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 5.0,
+          "aproveitamento_away": 28.2,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 6,
+          "over_0_5_ft_away": 6,
           "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1531,8 +1531,8 @@
         "jogador-nome": "Marek Janssen",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 8,
-        "jogador-assists": 1,
-        "jogador-partidas": 17,
+        "jogador-assists": 2,
+        "jogador-partidas": 18,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-rot-weiss-essen.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/germany-marek-janssen.png"
       },
