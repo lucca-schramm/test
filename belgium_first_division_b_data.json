@@ -276,6 +276,74 @@
       {
         "rank": 5,
         "team": {
+          "id": 2573,
+          "name": "Lommel United",
+          "logo": "https://cdn.footystats.org/img/teams/belgium-lommel-united.png"
+        },
+        "points": 42,
+        "goalsDiff": 12,
+        "group": "Belgium First Division B 20252026",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 24,
+          "win": 12,
+          "draw": 6,
+          "lose": 6,
+          "goals": {
+            "for": 46,
+            "against": 34
+          },
+          "form": "WLDLW",
+          "btts_matches": 14,
+          "avg_corners_per_game": 5.42,
+          "aproveitamento": 58.3,
+          "over_2_5_goals": 14,
+          "over_0_5_ht": 15,
+          "over_0_5_ft": 15,
+          "clean_sheets": 7
+        },
+        "home": {
+          "played": 11,
+          "win": 6,
+          "draw": 2,
+          "lose": 3,
+          "goals": {
+            "for": 22,
+            "against": 14
+          },
+          "form_home": "WWWDW",
+          "avg_corners_home_per_game": 5.73,
+          "aproveitamento_home": 60.6,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 7,
+          "over_0_5_ht_home": 7,
+          "over_0_5_ft_home": 6,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 13,
+          "win": 6,
+          "draw": 4,
+          "lose": 3,
+          "goals": {
+            "for": 24,
+            "against": 20
+          },
+          "form_visitor": "WWWLL",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 5.15,
+          "aproveitamento_away": 56.4,
+          "over_2_5_goals_away": 7,
+          "over_0_5_ht_away": 8,
+          "over_0_5_ft_away": 9,
+          "clean_sheets_away": 4
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 6,
+        "team": {
           "id": 14476,
           "name": "RFC de Liege",
           "logo": "https://cdn.footystats.org/img/teams/belgium-rfc-de-liege.png"
@@ -338,74 +406,6 @@
           "over_0_5_ht_away": 7,
           "over_0_5_ft_away": 1,
           "clean_sheets_away": 5
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 6,
-        "team": {
-          "id": 2573,
-          "name": "Lommel United",
-          "logo": "https://cdn.footystats.org/img/teams/belgium-lommel-united.png"
-        },
-        "points": 39,
-        "goalsDiff": 10,
-        "group": "Belgium First Division B 20252026",
-        "status": "same",
-        "description": "Copa Sul-Americana",
-        "all": {
-          "played": 23,
-          "win": 11,
-          "draw": 6,
-          "lose": 6,
-          "goals": {
-            "for": 44,
-            "against": 34
-          },
-          "form": "WWLDL",
-          "btts_matches": 14,
-          "avg_corners_per_game": 5.39,
-          "aproveitamento": 56.5,
-          "over_2_5_goals": 14,
-          "over_0_5_ht": 14,
-          "over_0_5_ft": 15,
-          "clean_sheets": 6
-        },
-        "home": {
-          "played": 10,
-          "win": 5,
-          "draw": 2,
-          "lose": 3,
-          "goals": {
-            "for": 20,
-            "against": 14
-          },
-          "form_home": "DWWWD",
-          "avg_corners_home_per_game": 5.7,
-          "aproveitamento_home": 56.7,
-          "btts_home_matches": 7,
-          "over_2_5_goals_home": 7,
-          "over_0_5_ht_home": 6,
-          "over_0_5_ft_home": 6,
-          "clean_sheets_home": 2
-        },
-        "away": {
-          "played": 13,
-          "win": 6,
-          "draw": 4,
-          "lose": 3,
-          "goals": {
-            "for": 24,
-            "against": 20
-          },
-          "form_visitor": "WWWLL",
-          "btts_away_matches": 7,
-          "avg_corners_away_per_game": 5.15,
-          "aproveitamento_away": 56.4,
-          "over_2_5_goals_away": 7,
-          "over_0_5_ht_away": 8,
-          "over_0_5_ft_away": 9,
-          "clean_sheets_away": 4
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -825,23 +825,23 @@
           "logo": "https://cdn.footystats.org/img/teams/belgium-rsc-anderlecht-futures.png"
         },
         "points": 21,
-        "goalsDiff": -7,
+        "goalsDiff": -9,
         "group": "Belgium First Division B 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 22,
+          "played": 23,
           "win": 4,
           "draw": 9,
-          "lose": 9,
+          "lose": 10,
           "goals": {
             "for": 29,
-            "against": 36
+            "against": 38
           },
-          "form": "LLDDW",
+          "form": "LDDWL",
           "btts_matches": 14,
-          "avg_corners_per_game": 4.45,
-          "aproveitamento": 31.8,
+          "avg_corners_per_game": 4.52,
+          "aproveitamento": 30.4,
           "over_2_5_goals": 13,
           "over_0_5_ht": 11,
           "over_0_5_ft": 12,
@@ -866,18 +866,18 @@
           "clean_sheets_home": 2
         },
         "away": {
-          "played": 11,
+          "played": 12,
           "win": 3,
           "draw": 3,
-          "lose": 5,
+          "lose": 6,
           "goals": {
             "for": 14,
-            "against": 17
+            "against": 19
           },
-          "form_visitor": "LLLLW",
+          "form_visitor": "LLLWL",
           "btts_away_matches": 6,
-          "avg_corners_away_per_game": 4.27,
-          "aproveitamento_away": 36.4,
+          "avg_corners_away_per_game": 4.42,
+          "aproveitamento_away": 33.3,
           "over_2_5_goals_away": 5,
           "over_0_5_ht_away": 5,
           "over_0_5_ft_away": 7,
@@ -1184,7 +1184,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 13,
         "jogador-assists": 6,
-        "jogador-partidas": 23,
+        "jogador-partidas": 24,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/belgium-lommel-united.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/netherlands-ralf-seuntjens.png"
       },
@@ -1234,6 +1234,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/-arnold-vula.png"
       },
       {
+        "jogador-nome": "Lucas schoofs",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 9,
+        "jogador-assists": 1,
+        "jogador-partidas": 24,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/belgium-lommel-united.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/belgium-lucas-schoofs.png"
+      },
+      {
         "jogador-nome": "Oumar Diouf",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 8,
@@ -1250,15 +1259,6 @@
         "jogador-partidas": 22,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/belgium-kas-eupen.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-isaac-nuhu.png"
-      },
-      {
-        "jogador-nome": "Lucas schoofs",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 8,
-        "jogador-assists": 1,
-        "jogador-partidas": 23,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/belgium-lommel-united.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/belgium-lucas-schoofs.png"
       },
       {
         "jogador-nome": "Gaetan Robail",
