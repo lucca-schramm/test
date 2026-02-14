@@ -72,6 +72,74 @@
       {
         "rank": 2,
         "team": {
+          "id": 1032,
+          "name": "Academico de Viseu FC",
+          "logo": "https://cdn.footystats.org/img/teams/portugal-academico-de-viseu-fc.png"
+        },
+        "points": 38,
+        "goalsDiff": 15,
+        "group": "Portugal LigaPro 20252026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 22,
+          "win": 11,
+          "draw": 5,
+          "lose": 6,
+          "goals": {
+            "for": 40,
+            "against": 25
+          },
+          "form": "WLWLW",
+          "btts_matches": 13,
+          "avg_corners_per_game": 5.27,
+          "aproveitamento": 57.6,
+          "over_2_5_goals": 14,
+          "over_0_5_ht": 12,
+          "over_0_5_ft": 16,
+          "clean_sheets": 9
+        },
+        "home": {
+          "played": 11,
+          "win": 8,
+          "draw": 1,
+          "lose": 2,
+          "goals": {
+            "for": 21,
+            "against": 8
+          },
+          "form_home": "WLWWW",
+          "avg_corners_home_per_game": 5.82,
+          "aproveitamento_home": 75.8,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 6,
+          "over_0_5_ft_home": 9,
+          "clean_sheets_home": 7
+        },
+        "away": {
+          "played": 11,
+          "win": 3,
+          "draw": 4,
+          "lose": 4,
+          "goals": {
+            "for": 19,
+            "against": 17
+          },
+          "form_visitor": "DDWLL",
+          "btts_away_matches": 9,
+          "avg_corners_away_per_game": 4.73,
+          "aproveitamento_away": 39.4,
+          "over_2_5_goals_away": 9,
+          "over_0_5_ht_away": 6,
+          "over_0_5_ft_away": 7,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 3,
+        "team": {
           "id": 1029,
           "name": "Sporting CP II",
           "logo": "https://cdn.footystats.org/img/teams/portugal-sporting-cp-ii.png"
@@ -134,74 +202,6 @@
           "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 5,
           "clean_sheets_away": 5
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 3,
-        "team": {
-          "id": 1032,
-          "name": "Academico de Viseu FC",
-          "logo": "https://cdn.footystats.org/img/teams/portugal-academico-de-viseu-fc.png"
-        },
-        "points": 35,
-        "goalsDiff": 12,
-        "group": "Portugal LigaPro 20252026",
-        "status": "same",
-        "description": "Copa Libertadores",
-        "all": {
-          "played": 21,
-          "win": 10,
-          "draw": 5,
-          "lose": 6,
-          "goals": {
-            "for": 36,
-            "against": 24
-          },
-          "form": "WWLWL",
-          "btts_matches": 12,
-          "avg_corners_per_game": 5.19,
-          "aproveitamento": 55.6,
-          "over_2_5_goals": 13,
-          "over_0_5_ht": 11,
-          "over_0_5_ft": 15,
-          "clean_sheets": 9
-        },
-        "home": {
-          "played": 10,
-          "win": 7,
-          "draw": 1,
-          "lose": 2,
-          "goals": {
-            "for": 17,
-            "against": 7
-          },
-          "form_home": "WWLWW",
-          "avg_corners_home_per_game": 5.7,
-          "aproveitamento_home": 73.3,
-          "btts_home_matches": 3,
-          "over_2_5_goals_home": 4,
-          "over_0_5_ht_home": 5,
-          "over_0_5_ft_home": 8,
-          "clean_sheets_home": 7
-        },
-        "away": {
-          "played": 11,
-          "win": 3,
-          "draw": 4,
-          "lose": 4,
-          "goals": {
-            "for": 19,
-            "against": 17
-          },
-          "form_visitor": "DDWLL",
-          "btts_away_matches": 9,
-          "avg_corners_away_per_game": 4.73,
-          "aproveitamento_away": 39.4,
-          "over_2_5_goals_away": 9,
-          "over_0_5_ht_away": 6,
-          "over_0_5_ft_away": 7,
-          "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -893,25 +893,25 @@
           "logo": "https://cdn.footystats.org/img/teams/portugal-ud-oliveirense.png"
         },
         "points": 25,
-        "goalsDiff": -2,
+        "goalsDiff": -5,
         "group": "Portugal LigaPro 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 21,
+          "played": 22,
           "win": 6,
           "draw": 7,
-          "lose": 8,
+          "lose": 9,
           "goals": {
-            "for": 23,
-            "against": 25
+            "for": 24,
+            "against": 29
           },
-          "form": "LDWLW",
-          "btts_matches": 8,
-          "avg_corners_per_game": 3.9,
-          "aproveitamento": 39.7,
-          "over_2_5_goals": 7,
-          "over_0_5_ht": 10,
+          "form": "DWLWL",
+          "btts_matches": 9,
+          "avg_corners_per_game": 3.91,
+          "aproveitamento": 37.9,
+          "over_2_5_goals": 8,
+          "over_0_5_ht": 11,
           "over_0_5_ft": 10,
           "clean_sheets": 8
         },
@@ -934,20 +934,20 @@
           "clean_sheets_home": 4
         },
         "away": {
-          "played": 10,
+          "played": 11,
           "win": 1,
           "draw": 4,
-          "lose": 5,
+          "lose": 6,
           "goals": {
-            "for": 4,
-            "against": 10
+            "for": 5,
+            "against": 14
           },
-          "form_visitor": "LWLDL",
-          "btts_away_matches": 2,
-          "avg_corners_away_per_game": 4.3,
-          "aproveitamento_away": 23.3,
-          "over_2_5_goals_away": 1,
-          "over_0_5_ht_away": 1,
+          "form_visitor": "WLDLL",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 4.27,
+          "aproveitamento_away": 21.2,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 3,
           "clean_sheets_away": 4
         },
@@ -1232,9 +1232,9 @@
       {
         "jogador-nome": "André Clovis Silva Filho",
         "jogador-posicao": "Forward",
-        "jogador-gols": 16,
+        "jogador-gols": 18,
         "jogador-assists": 2,
-        "jogador-partidas": 21,
+        "jogador-partidas": 22,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/portugal-academico-de-viseu-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-andre-clovis.png"
       },
@@ -1297,7 +1297,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 7,
         "jogador-assists": 2,
-        "jogador-partidas": 18,
+        "jogador-partidas": 19,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/portugal-academico-de-viseu-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-alvaro-zamora.png"
       },
@@ -1369,7 +1369,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 5,
         "jogador-assists": 3,
-        "jogador-partidas": 19,
+        "jogador-partidas": 20,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/portugal-academico-de-viseu-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-jogador_695117.png"
       },
