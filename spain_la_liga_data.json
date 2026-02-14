@@ -145,26 +145,26 @@
           "logo": "https://cdn.footystats.org/img/teams/spain-villarreal-cf.png"
         },
         "points": 45,
-        "goalsDiff": 19,
+        "goalsDiff": 18,
         "group": "Spain La Liga 20252026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 22,
+          "played": 23,
           "win": 14,
           "draw": 3,
-          "lose": 5,
+          "lose": 6,
           "goals": {
-            "for": 43,
-            "against": 24
+            "for": 44,
+            "against": 26
           },
-          "form": "WLLDW",
-          "btts_matches": 11,
-          "avg_corners_per_game": 4.14,
-          "aproveitamento": 68.2,
-          "over_2_5_goals": 12,
+          "form": "LLDWL",
+          "btts_matches": 12,
+          "avg_corners_per_game": 4.13,
+          "aproveitamento": 65.2,
+          "over_2_5_goals": 13,
           "over_0_5_ht": 13,
-          "over_0_5_ft": 17,
+          "over_0_5_ft": 18,
           "clean_sheets": 7
         },
         "home": {
@@ -186,21 +186,21 @@
           "clean_sheets_home": 5
         },
         "away": {
-          "played": 10,
+          "played": 11,
           "win": 5,
           "draw": 2,
-          "lose": 3,
+          "lose": 4,
           "goals": {
-            "for": 16,
-            "against": 14
+            "for": 17,
+            "against": 16
           },
-          "form_visitor": "WWWLD",
-          "btts_away_matches": 6,
-          "avg_corners_away_per_game": 2.7,
-          "aproveitamento_away": 56.7,
-          "over_2_5_goals_away": 5,
+          "form_visitor": "WWLDL",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 2.82,
+          "aproveitamento_away": 51.5,
+          "over_2_5_goals_away": 6,
           "over_0_5_ht_away": 6,
-          "over_0_5_ft_away": 8,
+          "over_0_5_ft_away": 9,
           "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -616,6 +616,74 @@
       {
         "rank": 10,
         "team": {
+          "id": 293,
+          "name": "Getafe Club de Fútbol",
+          "logo": "https://cdn.footystats.org/img/teams/spain-getafe-club-de-futbol.png"
+        },
+        "points": 29,
+        "goalsDiff": -8,
+        "group": "Spain La Liga 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 24,
+          "win": 8,
+          "draw": 5,
+          "lose": 11,
+          "goals": {
+            "for": 20,
+            "against": 28
+          },
+          "form": "LDDWW",
+          "btts_matches": 9,
+          "avg_corners_per_game": 4.62,
+          "aproveitamento": 40.3,
+          "over_2_5_goals": 8,
+          "over_0_5_ht": 4,
+          "over_0_5_ft": 12,
+          "clean_sheets": 6
+        },
+        "home": {
+          "played": 12,
+          "win": 4,
+          "draw": 3,
+          "lose": 5,
+          "goals": {
+            "for": 10,
+            "against": 10
+          },
+          "form_home": "LLLDW",
+          "avg_corners_home_per_game": 4.58,
+          "aproveitamento_home": 41.7,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 6,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 12,
+          "win": 4,
+          "draw": 2,
+          "lose": 6,
+          "goals": {
+            "for": 10,
+            "against": 18
+          },
+          "form_visitor": "LLDDW",
+          "btts_away_matches": 4,
+          "avg_corners_away_per_game": 4.67,
+          "aproveitamento_away": 38.9,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 6,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 11,
+        "team": {
           "id": 285,
           "name": "Athletic Club Bilbao",
           "logo": "https://cdn.footystats.org/img/teams/spain-athletic-club-bilbao.png"
@@ -678,74 +746,6 @@
           "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 3,
           "clean_sheets_away": 2
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 11,
-        "team": {
-          "id": 293,
-          "name": "Getafe Club de Fútbol",
-          "logo": "https://cdn.footystats.org/img/teams/spain-getafe-club-de-futbol.png"
-        },
-        "points": 26,
-        "goalsDiff": -9,
-        "group": "Spain La Liga 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 23,
-          "win": 7,
-          "draw": 5,
-          "lose": 11,
-          "goals": {
-            "for": 18,
-            "against": 27
-          },
-          "form": "LLDDW",
-          "btts_matches": 8,
-          "avg_corners_per_game": 4.7,
-          "aproveitamento": 37.7,
-          "over_2_5_goals": 7,
-          "over_0_5_ht": 3,
-          "over_0_5_ft": 11,
-          "clean_sheets": 6
-        },
-        "home": {
-          "played": 11,
-          "win": 3,
-          "draw": 3,
-          "lose": 5,
-          "goals": {
-            "for": 8,
-            "against": 9
-          },
-          "form_home": "WLLLD",
-          "avg_corners_home_per_game": 4.73,
-          "aproveitamento_home": 36.4,
-          "btts_home_matches": 4,
-          "over_2_5_goals_home": 2,
-          "over_0_5_ht_home": 1,
-          "over_0_5_ft_home": 5,
-          "clean_sheets_home": 3
-        },
-        "away": {
-          "played": 12,
-          "win": 4,
-          "draw": 2,
-          "lose": 6,
-          "goals": {
-            "for": 10,
-            "against": 18
-          },
-          "form_visitor": "LLDDW",
-          "btts_away_matches": 4,
-          "avg_corners_away_per_game": 4.67,
-          "aproveitamento_away": 38.9,
-          "over_2_5_goals_away": 5,
-          "over_0_5_ht_away": 2,
-          "over_0_5_ft_away": 6,
-          "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1465,6 +1465,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/colombia-cucho-hernandez.png"
       },
       {
+        "jogador-nome": "Georges Mikautadze",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 7,
+        "jogador-assists": 4,
+        "jogador-partidas": 18,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/spain-villarreal-cf.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/georgia-georges-mikautadze.png"
+      },
+      {
         "jogador-nome": "Julián Álvarez",
         "jogador-posicao": "Forward",
         "jogador-gols": 7,
@@ -1535,15 +1544,6 @@
         "jogador-partidas": 22,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/spain-real-madrid-cf.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-vinicius-junior.png"
-      },
-      {
-        "jogador-nome": "Pablo Fornals Malla",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 6,
-        "jogador-assists": 4,
-        "jogador-partidas": 23,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/spain-real-betis-balompie.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/spain-pablo-fornals.png"
       }
     ]
   }
