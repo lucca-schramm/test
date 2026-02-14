@@ -1,0 +1,938 @@
+{
+  "standings": {
+    "estonia_meistriliiga": [
+      {
+        "rank": 1,
+        "team": {
+          "id": 88,
+          "name": "Tallinna FC Flora",
+          "logo": "https://cdn.footystats.org/img/teams/estonia-tallinna-fc-flora.png"
+        },
+        "points": 82,
+        "goalsDiff": 53,
+        "group": "Estonia Meistriliiga 2025",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 36,
+          "win": 26,
+          "draw": 4,
+          "lose": 6,
+          "goals": {
+            "for": 84,
+            "against": 31
+          },
+          "form": "WWDWW",
+          "btts_matches": 21,
+          "avg_corners_per_game": 6.69,
+          "aproveitamento": 75.9,
+          "over_2_5_goals": 28,
+          "over_0_5_ht": 25,
+          "over_0_5_ft": 27,
+          "clean_sheets": 14
+        },
+        "home": {
+          "played": 18,
+          "win": 13,
+          "draw": 1,
+          "lose": 4,
+          "goals": {
+            "for": 45,
+            "against": 16
+          },
+          "form_home": "WLWWW",
+          "avg_corners_home_per_game": 6.39,
+          "aproveitamento_home": 74.1,
+          "btts_home_matches": 9,
+          "over_2_5_goals_home": 13,
+          "over_0_5_ht_home": 13,
+          "over_0_5_ft_home": 14,
+          "clean_sheets_home": 8
+        },
+        "away": {
+          "played": 18,
+          "win": 13,
+          "draw": 3,
+          "lose": 2,
+          "goals": {
+            "for": 39,
+            "against": 15
+          },
+          "form_visitor": "WLWDW",
+          "btts_away_matches": 12,
+          "avg_corners_away_per_game": 7.0,
+          "aproveitamento_away": 77.8,
+          "over_2_5_goals_away": 15,
+          "over_0_5_ht_away": 12,
+          "over_0_5_ft_away": 13,
+          "clean_sheets_away": 6
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 2,
+        "team": {
+          "id": 965,
+          "name": "Tallinna FC Levadia",
+          "logo": "https://cdn.footystats.org/img/teams/estonia-tallinna-fc-levadia.png"
+        },
+        "points": 79,
+        "goalsDiff": 53,
+        "group": "Estonia Meistriliiga 2025",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 36,
+          "win": 25,
+          "draw": 4,
+          "lose": 7,
+          "goals": {
+            "for": 89,
+            "against": 36
+          },
+          "form": "WLWWD",
+          "btts_matches": 21,
+          "avg_corners_per_game": 7.86,
+          "aproveitamento": 73.1,
+          "over_2_5_goals": 30,
+          "over_0_5_ht": 26,
+          "over_0_5_ft": 25,
+          "clean_sheets": 13
+        },
+        "home": {
+          "played": 18,
+          "win": 13,
+          "draw": 2,
+          "lose": 3,
+          "goals": {
+            "for": 43,
+            "against": 17
+          },
+          "form_home": "WLWWL",
+          "avg_corners_home_per_game": 8.28,
+          "aproveitamento_home": 75.9,
+          "btts_home_matches": 11,
+          "over_2_5_goals_home": 16,
+          "over_0_5_ht_home": 14,
+          "over_0_5_ft_home": 13,
+          "clean_sheets_home": 7
+        },
+        "away": {
+          "played": 18,
+          "win": 12,
+          "draw": 2,
+          "lose": 4,
+          "goals": {
+            "for": 46,
+            "against": 19
+          },
+          "form_visitor": "WWWWD",
+          "btts_away_matches": 10,
+          "avg_corners_away_per_game": 7.44,
+          "aproveitamento_away": 70.4,
+          "over_2_5_goals_away": 14,
+          "over_0_5_ht_away": 12,
+          "over_0_5_ft_away": 12,
+          "clean_sheets_away": 6
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 3,
+        "team": {
+          "id": 988,
+          "name": "Nõmme Kalju FC",
+          "logo": "https://cdn.footystats.org/img/teams/estonia-nomme-kalju-fc.png"
+        },
+        "points": 74,
+        "goalsDiff": 32,
+        "group": "Estonia Meistriliiga 2025",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 36,
+          "win": 23,
+          "draw": 5,
+          "lose": 8,
+          "goals": {
+            "for": 69,
+            "against": 37
+          },
+          "form": "WWWWD",
+          "btts_matches": 19,
+          "avg_corners_per_game": 6.67,
+          "aproveitamento": 68.5,
+          "over_2_5_goals": 21,
+          "over_0_5_ht": 17,
+          "over_0_5_ft": 24,
+          "clean_sheets": 14
+        },
+        "home": {
+          "played": 18,
+          "win": 12,
+          "draw": 2,
+          "lose": 4,
+          "goals": {
+            "for": 40,
+            "against": 17
+          },
+          "form_home": "WWWWD",
+          "avg_corners_home_per_game": 6.72,
+          "aproveitamento_home": 70.4,
+          "btts_home_matches": 10,
+          "over_2_5_goals_home": 11,
+          "over_0_5_ht_home": 8,
+          "over_0_5_ft_home": 14,
+          "clean_sheets_home": 7
+        },
+        "away": {
+          "played": 18,
+          "win": 11,
+          "draw": 3,
+          "lose": 4,
+          "goals": {
+            "for": 29,
+            "against": 20
+          },
+          "form_visitor": "DWWWW",
+          "btts_away_matches": 9,
+          "avg_corners_away_per_game": 6.61,
+          "aproveitamento_away": 66.7,
+          "over_2_5_goals_away": 10,
+          "over_0_5_ht_away": 9,
+          "over_0_5_ft_away": 10,
+          "clean_sheets_away": 7
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 4,
+        "team": {
+          "id": 1635,
+          "name": "Paide Linnameeskond",
+          "logo": "https://cdn.footystats.org/img/teams/estonia-paide-linnameeskond.png"
+        },
+        "points": 70,
+        "goalsDiff": 31,
+        "group": "Estonia Meistriliiga 2025",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 36,
+          "win": 21,
+          "draw": 7,
+          "lose": 8,
+          "goals": {
+            "for": 63,
+            "against": 32
+          },
+          "form": "WWDWD",
+          "btts_matches": 17,
+          "avg_corners_per_game": 7.42,
+          "aproveitamento": 64.8,
+          "over_2_5_goals": 19,
+          "over_0_5_ht": 21,
+          "over_0_5_ft": 20,
+          "clean_sheets": 12
+        },
+        "home": {
+          "played": 18,
+          "win": 11,
+          "draw": 5,
+          "lose": 2,
+          "goals": {
+            "for": 39,
+            "against": 14
+          },
+          "form_home": "WDWDW",
+          "avg_corners_home_per_game": 7.06,
+          "aproveitamento_home": 70.4,
+          "btts_home_matches": 8,
+          "over_2_5_goals_home": 10,
+          "over_0_5_ht_home": 13,
+          "over_0_5_ft_home": 11,
+          "clean_sheets_home": 8
+        },
+        "away": {
+          "played": 18,
+          "win": 10,
+          "draw": 2,
+          "lose": 6,
+          "goals": {
+            "for": 24,
+            "against": 18
+          },
+          "form_visitor": "LWDWD",
+          "btts_away_matches": 9,
+          "avg_corners_away_per_game": 7.78,
+          "aproveitamento_away": 59.3,
+          "over_2_5_goals_away": 9,
+          "over_0_5_ht_away": 8,
+          "over_0_5_ft_away": 9,
+          "clean_sheets_away": 4
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 5,
+        "team": {
+          "id": 1638,
+          "name": "JK Narva Trans",
+          "logo": "https://cdn.footystats.org/img/teams/estonia-jk-narva-trans.png"
+        },
+        "points": 51,
+        "goalsDiff": 1,
+        "group": "Estonia Meistriliiga 2025",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 36,
+          "win": 15,
+          "draw": 6,
+          "lose": 15,
+          "goals": {
+            "for": 53,
+            "against": 52
+          },
+          "form": "DLLLL",
+          "btts_matches": 19,
+          "avg_corners_per_game": 6.08,
+          "aproveitamento": 47.2,
+          "over_2_5_goals": 21,
+          "over_0_5_ht": 16,
+          "over_0_5_ft": 18,
+          "clean_sheets": 9
+        },
+        "home": {
+          "played": 18,
+          "win": 8,
+          "draw": 3,
+          "lose": 7,
+          "goals": {
+            "for": 30,
+            "against": 26
+          },
+          "form_home": "LDLDL",
+          "avg_corners_home_per_game": 6.28,
+          "aproveitamento_home": 50.0,
+          "btts_home_matches": 10,
+          "over_2_5_goals_home": 10,
+          "over_0_5_ht_home": 10,
+          "over_0_5_ft_home": 10,
+          "clean_sheets_home": 5
+        },
+        "away": {
+          "played": 18,
+          "win": 7,
+          "draw": 3,
+          "lose": 8,
+          "goals": {
+            "for": 23,
+            "against": 26
+          },
+          "form_visitor": "DWLLL",
+          "btts_away_matches": 9,
+          "avg_corners_away_per_game": 5.89,
+          "aproveitamento_away": 44.4,
+          "over_2_5_goals_away": 11,
+          "over_0_5_ht_away": 6,
+          "over_0_5_ft_away": 8,
+          "clean_sheets_away": 4
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 6,
+        "team": {
+          "id": 1640,
+          "name": "Pärnu JK Vaprus",
+          "logo": "https://cdn.footystats.org/img/teams/estonia-parnu-jk-vaprus.png"
+        },
+        "points": 49,
+        "goalsDiff": 3,
+        "group": "Estonia Meistriliiga 2025",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 36,
+          "win": 14,
+          "draw": 7,
+          "lose": 15,
+          "goals": {
+            "for": 54,
+            "against": 51
+          },
+          "form": "DLLLL",
+          "btts_matches": 19,
+          "avg_corners_per_game": 5.47,
+          "aproveitamento": 45.4,
+          "over_2_5_goals": 24,
+          "over_0_5_ht": 22,
+          "over_0_5_ft": 17,
+          "clean_sheets": 8
+        },
+        "home": {
+          "played": 18,
+          "win": 5,
+          "draw": 5,
+          "lose": 8,
+          "goals": {
+            "for": 25,
+            "against": 29
+          },
+          "form_home": "WWLLL",
+          "avg_corners_home_per_game": 6.17,
+          "aproveitamento_home": 37.0,
+          "btts_home_matches": 11,
+          "over_2_5_goals_home": 13,
+          "over_0_5_ht_home": 11,
+          "over_0_5_ft_home": 8,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 18,
+          "win": 9,
+          "draw": 2,
+          "lose": 7,
+          "goals": {
+            "for": 29,
+            "against": 22
+          },
+          "form_visitor": "WWLDL",
+          "btts_away_matches": 8,
+          "avg_corners_away_per_game": 4.78,
+          "aproveitamento_away": 53.7,
+          "over_2_5_goals_away": 11,
+          "over_0_5_ht_away": 11,
+          "over_0_5_ft_away": 9,
+          "clean_sheets_away": 5
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 7,
+        "team": {
+          "id": 683758,
+          "name": "Harju Jalgpallikool",
+          "logo": "https://cdn.footystats.org/img/teams/estonia-harju-jalgpallikool.png"
+        },
+        "points": 36,
+        "goalsDiff": -21,
+        "group": "Estonia Meistriliiga 2025",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 36,
+          "win": 10,
+          "draw": 6,
+          "lose": 20,
+          "goals": {
+            "for": 49,
+            "against": 70
+          },
+          "form": "LDWWD",
+          "btts_matches": 23,
+          "avg_corners_per_game": 3.39,
+          "aproveitamento": 33.3,
+          "over_2_5_goals": 28,
+          "over_0_5_ht": 16,
+          "over_0_5_ft": 19,
+          "clean_sheets": 3
+        },
+        "home": {
+          "played": 18,
+          "win": 6,
+          "draw": 3,
+          "lose": 9,
+          "goals": {
+            "for": 27,
+            "against": 28
+          },
+          "form_home": "LDWWD",
+          "avg_corners_home_per_game": 3.67,
+          "aproveitamento_home": 38.9,
+          "btts_home_matches": 11,
+          "over_2_5_goals_home": 13,
+          "over_0_5_ht_home": 9,
+          "over_0_5_ft_home": 9,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 18,
+          "win": 4,
+          "draw": 3,
+          "lose": 11,
+          "goals": {
+            "for": 22,
+            "against": 42
+          },
+          "form_visitor": "LWLLW",
+          "btts_away_matches": 12,
+          "avg_corners_away_per_game": 3.11,
+          "aproveitamento_away": 27.8,
+          "over_2_5_goals_away": 15,
+          "over_0_5_ht_away": 7,
+          "over_0_5_ft_away": 10,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 8,
+        "team": {
+          "id": 1645,
+          "name": "FC Kuressaare",
+          "logo": "https://cdn.footystats.org/img/teams/estonia-fc-kuressaare.png"
+        },
+        "points": 34,
+        "goalsDiff": -32,
+        "group": "Estonia Meistriliiga 2025",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 38,
+          "win": 10,
+          "draw": 4,
+          "lose": 24,
+          "goals": {
+            "for": 35,
+            "against": 67
+          },
+          "form": "LLLWW",
+          "btts_matches": 20,
+          "avg_corners_per_game": 4.42,
+          "aproveitamento": 29.8,
+          "over_2_5_goals": 20,
+          "over_0_5_ht": 15,
+          "over_0_5_ft": 15,
+          "clean_sheets": 8
+        },
+        "home": {
+          "played": 19,
+          "win": 6,
+          "draw": 2,
+          "lose": 11,
+          "goals": {
+            "for": 20,
+            "against": 29
+          },
+          "form_home": "DDLLW",
+          "avg_corners_home_per_game": 5.11,
+          "aproveitamento_home": 35.1,
+          "btts_home_matches": 11,
+          "over_2_5_goals_home": 11,
+          "over_0_5_ht_home": 7,
+          "over_0_5_ft_home": 9,
+          "clean_sheets_home": 4
+        },
+        "away": {
+          "played": 19,
+          "win": 4,
+          "draw": 2,
+          "lose": 13,
+          "goals": {
+            "for": 15,
+            "against": 38
+          },
+          "form_visitor": "WWLLW",
+          "btts_away_matches": 9,
+          "avg_corners_away_per_game": 3.74,
+          "aproveitamento_away": 24.6,
+          "over_2_5_goals_away": 9,
+          "over_0_5_ht_away": 8,
+          "over_0_5_ft_away": 6,
+          "clean_sheets_away": 4
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 9,
+        "team": {
+          "id": 1636,
+          "name": "JK Tammeka Tartu",
+          "logo": "https://cdn.footystats.org/img/teams/estonia-jk-tammeka-tartu.png"
+        },
+        "points": 30,
+        "goalsDiff": -36,
+        "group": "Estonia Meistriliiga 2025",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 36,
+          "win": 9,
+          "draw": 3,
+          "lose": 24,
+          "goals": {
+            "for": 47,
+            "against": 83
+          },
+          "form": "LDWLW",
+          "btts_matches": 21,
+          "avg_corners_per_game": 4.67,
+          "aproveitamento": 27.8,
+          "over_2_5_goals": 28,
+          "over_0_5_ht": 20,
+          "over_0_5_ft": 14,
+          "clean_sheets": 5
+        },
+        "home": {
+          "played": 18,
+          "win": 6,
+          "draw": 1,
+          "lose": 11,
+          "goals": {
+            "for": 27,
+            "against": 31
+          },
+          "form_home": "DLLWW",
+          "avg_corners_home_per_game": 4.89,
+          "aproveitamento_home": 35.2,
+          "btts_home_matches": 9,
+          "over_2_5_goals_home": 12,
+          "over_0_5_ht_home": 11,
+          "over_0_5_ft_home": 6,
+          "clean_sheets_home": 4
+        },
+        "away": {
+          "played": 18,
+          "win": 3,
+          "draw": 2,
+          "lose": 13,
+          "goals": {
+            "for": 20,
+            "against": 52
+          },
+          "form_visitor": "LLLDL",
+          "btts_away_matches": 12,
+          "avg_corners_away_per_game": 4.44,
+          "aproveitamento_away": 20.4,
+          "over_2_5_goals_away": 16,
+          "over_0_5_ht_away": 9,
+          "over_0_5_ft_away": 8,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 10,
+        "team": {
+          "id": 1644,
+          "name": "JK Tallinna Kalev",
+          "logo": "https://cdn.footystats.org/img/teams/estonia-jk-tallinna-kalev.png"
+        },
+        "points": 17,
+        "goalsDiff": -81,
+        "group": "Estonia Meistriliiga 2025",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 36,
+          "win": 5,
+          "draw": 2,
+          "lose": 29,
+          "goals": {
+            "for": 32,
+            "against": 113
+          },
+          "form": "LLLLW",
+          "btts_matches": 18,
+          "avg_corners_per_game": 4.25,
+          "aproveitamento": 15.7,
+          "over_2_5_goals": 27,
+          "over_0_5_ht": 11,
+          "over_0_5_ft": 14,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 18,
+          "win": 5,
+          "draw": 0,
+          "lose": 13,
+          "goals": {
+            "for": 19,
+            "against": 52
+          },
+          "form_home": "LLLLW",
+          "avg_corners_home_per_game": 4.78,
+          "aproveitamento_home": 27.8,
+          "btts_home_matches": 9,
+          "over_2_5_goals_home": 14,
+          "over_0_5_ht_home": 6,
+          "over_0_5_ft_home": 7,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 18,
+          "win": 0,
+          "draw": 2,
+          "lose": 16,
+          "goals": {
+            "for": 13,
+            "against": 61
+          },
+          "form_visitor": "LLLLL",
+          "btts_away_matches": 9,
+          "avg_corners_away_per_game": 3.72,
+          "aproveitamento_away": 3.7,
+          "over_2_5_goals_away": 13,
+          "over_0_5_ht_away": 5,
+          "over_0_5_ft_away": 7,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 11,
+        "team": {
+          "id": 1664,
+          "name": "Viimsi JK",
+          "logo": "https://cdn.footystats.org/img/teams/estonia-viimsi-jk.png"
+        },
+        "points": 0,
+        "goalsDiff": -3,
+        "group": "Estonia Meistriliiga 2025",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 2,
+          "win": 0,
+          "draw": 0,
+          "lose": 2,
+          "goals": {
+            "for": 0,
+            "against": 3
+          },
+          "form": "LL",
+          "btts_matches": 0,
+          "avg_corners_per_game": 13.0,
+          "aproveitamento": 0.0,
+          "over_2_5_goals": 0,
+          "over_0_5_ht": 0,
+          "over_0_5_ft": 0,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 0,
+            "against": 1
+          },
+          "form_home": "L",
+          "avg_corners_home_per_game": 16.0,
+          "aproveitamento_home": 0.0,
+          "btts_home_matches": 0,
+          "over_2_5_goals_home": 0,
+          "over_0_5_ht_home": 0,
+          "over_0_5_ft_home": 0,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 0,
+            "against": 2
+          },
+          "form_visitor": "L",
+          "btts_away_matches": 0,
+          "avg_corners_away_per_game": 10.0,
+          "aproveitamento_away": 0.0,
+          "over_2_5_goals_away": 0,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      }
+    ]
+  },
+  "artilharia": {
+    "estonia_meistriliiga": [
+      {
+        "jogador-nome": "Rauno Sappinen",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 15,
+        "jogador-assists": 6,
+        "jogador-partidas": 24,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/estonia-tallinna-fc-flora.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/estonia-rauno-sappinen.png"
+      },
+      {
+        "jogador-nome": "Marten-Chris Paalberg",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 15,
+        "jogador-assists": 3,
+        "jogador-partidas": 22,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/estonia-parnu-jk-vaprus.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-marten-chris-paalberg.png"
+      },
+      {
+        "jogador-nome": "Ernest Agyiri",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 8,
+        "jogador-assists": 9,
+        "jogador-partidas": 18,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/estonia-tallinna-fc-levadia.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/ghana-ernest-agyiri.png"
+      },
+      {
+        "jogador-nome": "Mattias Männilaan",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 8,
+        "jogador-assists": 3,
+        "jogador-partidas": 17,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/estonia-nomme-kalju-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/estonia-mattias-mannilaan.png"
+      },
+      {
+        "jogador-nome": "Josué Doke",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 8,
+        "jogador-assists": 3,
+        "jogador-partidas": 23,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/estonia-jk-narva-trans.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-josué-doke.png"
+      },
+      {
+        "jogador-nome": "Mihkel Ainsalu",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 8,
+        "jogador-assists": 2,
+        "jogador-partidas": 23,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/estonia-tallinna-fc-levadia.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/estonia-mihkel-ainsalu.png"
+      },
+      {
+        "jogador-nome": "Andero Kivi",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 8,
+        "jogador-assists": 2,
+        "jogador-partidas": 23,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/estonia-fc-kuressaare.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-andero-kivi.png"
+      },
+      {
+        "jogador-nome": "Taaniel Usta",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 8,
+        "jogador-assists": 1,
+        "jogador-partidas": 24,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/estonia-jk-tallinna-kalev.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/estonia-taaniel-usta.png"
+      },
+      {
+        "jogador-nome": "Rommi Siht",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 7,
+        "jogador-assists": 2,
+        "jogador-partidas": 24,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/estonia-nomme-kalju-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-rommi-siht.png"
+      },
+      {
+        "jogador-nome": "Kristjan Kriis",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 7,
+        "jogador-assists": 2,
+        "jogador-partidas": 15,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/estonia-harju-jalgpallikool.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-kristjan-kriis.png"
+      },
+      {
+        "jogador-nome": "Karel Eerme",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 7,
+        "jogador-assists": 2,
+        "jogador-partidas": 17,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/estonia-harju-jalgpallikool.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-karel-eerme.png"
+      },
+      {
+        "jogador-nome": "Henri Anier",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 7,
+        "jogador-assists": 2,
+        "jogador-partidas": 13,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/estonia-paide-linnameeskond.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/estonia-henri-anier.png"
+      },
+      {
+        "jogador-nome": "Ezekiel Olawale Abiola Tanimowo",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 7,
+        "jogador-assists": 1,
+        "jogador-partidas": 22,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/estonia-jk-tammeka-tartu.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-ezekiel-olawale-abiola-tanimowo.png"
+      },
+      {
+        "jogador-nome": "Ramol Sillamaa",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 7,
+        "jogador-assists": 0,
+        "jogador-partidas": 17,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/estonia-harju-jalgpallikool.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/estonia-ramol-sillamaa.png"
+      },
+      {
+        "jogador-nome": "Markus Poom",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 6,
+        "jogador-assists": 10,
+        "jogador-partidas": 18,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/estonia-tallinna-fc-flora.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/estonia-markus-poom.png"
+      },
+      {
+        "jogador-nome": "Mark Maksimkin",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 6,
+        "jogador-assists": 8,
+        "jogador-partidas": 24,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/estonia-jk-narva-trans.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-mark-maksimkin.png"
+      },
+      {
+        "jogador-nome": "Kristofer Piht",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 6,
+        "jogador-assists": 5,
+        "jogador-partidas": 24,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/estonia-harju-jalgpallikool.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/estonia-kristofer-piht.png"
+      },
+      {
+        "jogador-nome": "João Pedro de Moura Siembarski",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 6,
+        "jogador-assists": 5,
+        "jogador-partidas": 18,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/estonia-tallinna-fc-levadia.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-joao-pedro-de-moura-siembarski.png"
+      },
+      {
+        "jogador-nome": "Danil Kuraksin",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 6,
+        "jogador-assists": 5,
+        "jogador-partidas": 20,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/estonia-tallinna-fc-flora.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/estonia-danil-kuraksin.png"
+      },
+      {
+        "jogador-nome": "Wendell Gabriel Mendes Craveiro",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 6,
+        "jogador-assists": 4,
+        "jogador-partidas": 13,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/estonia-tallinna-fc-levadia.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-wendell-gabriel-mendes-craveiro.png"
+      }
+    ]
+  }
+}
