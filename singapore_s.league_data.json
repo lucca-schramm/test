@@ -76,44 +76,44 @@
           "name": "Tampines Rovers FC",
           "logo": "https://cdn.footystats.org/img/teams/singapore-tampines-rovers-fc.png"
         },
-        "points": 20,
-        "goalsDiff": 16,
+        "points": 23,
+        "goalsDiff": 17,
         "group": "Singapore S.League 2025",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 8,
-          "win": 6,
+          "played": 9,
+          "win": 7,
           "draw": 2,
           "lose": 0,
           "goals": {
-            "for": 23,
-            "against": 7
+            "for": 25,
+            "against": 8
           },
           "form": "WWWWW",
-          "btts_matches": 5,
-          "avg_corners_per_game": 5.5,
-          "aproveitamento": 83.3,
-          "over_2_5_goals": 7,
-          "over_0_5_ht": 6,
+          "btts_matches": 6,
+          "avg_corners_per_game": 5.11,
+          "aproveitamento": 85.2,
+          "over_2_5_goals": 8,
+          "over_0_5_ht": 7,
           "over_0_5_ft": 6,
           "clean_sheets": 3
         },
         "home": {
-          "played": 4,
-          "win": 2,
+          "played": 5,
+          "win": 3,
           "draw": 2,
           "lose": 0,
           "goals": {
-            "for": 12,
-            "against": 5
+            "for": 14,
+            "against": 6
           },
-          "form_home": "DDWW",
-          "avg_corners_home_per_game": 6.25,
-          "aproveitamento_home": 66.7,
-          "btts_home_matches": 3,
-          "over_2_5_goals_home": 3,
-          "over_0_5_ht_home": 3,
+          "form_home": "DDWWW",
+          "avg_corners_home_per_game": 5.4,
+          "aproveitamento_home": 73.3,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 4,
           "over_0_5_ft_home": 2,
           "clean_sheets_home": 1
         },
@@ -145,26 +145,26 @@
           "logo": "https://cdn.footystats.org/img/teams/singapore-albirex-niigata-fc-singapore.png"
         },
         "points": 19,
-        "goalsDiff": 11,
+        "goalsDiff": 10,
         "group": "Singapore S.League 2025",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 8,
+          "played": 9,
           "win": 6,
           "draw": 1,
-          "lose": 1,
+          "lose": 2,
           "goals": {
-            "for": 19,
-            "against": 8
+            "for": 20,
+            "against": 10
           },
-          "form": "LWWWW",
-          "btts_matches": 3,
-          "avg_corners_per_game": 4.75,
-          "aproveitamento": 79.2,
-          "over_2_5_goals": 6,
+          "form": "WWWWL",
+          "btts_matches": 4,
+          "avg_corners_per_game": 5.22,
+          "aproveitamento": 70.4,
+          "over_2_5_goals": 7,
           "over_0_5_ht": 6,
-          "over_0_5_ft": 5,
+          "over_0_5_ft": 6,
           "clean_sheets": 4
         },
         "home": {
@@ -186,21 +186,21 @@
           "clean_sheets_home": 1
         },
         "away": {
-          "played": 4,
+          "played": 5,
           "win": 3,
           "draw": 0,
-          "lose": 1,
+          "lose": 2,
           "goals": {
-            "for": 10,
-            "against": 3
+            "for": 11,
+            "against": 5
           },
-          "form_visitor": "WWLW",
-          "btts_away_matches": 0,
-          "avg_corners_away_per_game": 6.5,
-          "aproveitamento_away": 75.0,
-          "over_2_5_goals_away": 3,
+          "form_visitor": "WWLWL",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 7.0,
+          "aproveitamento_away": 60.0,
+          "over_2_5_goals_away": 4,
           "over_0_5_ht_away": 3,
-          "over_0_5_ft_away": 3,
+          "over_0_5_ft_away": 4,
           "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -559,6 +559,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/-jogador_42458.png"
       },
       {
+        "jogador-nome": "Hide Higashikawa",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 9,
+        "jogador-assists": 2,
+        "jogador-partidas": 9,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/singapore-tampines-rovers-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-hide-higashikawa.png"
+      },
+      {
         "jogador-nome": "Lennart Thy",
         "jogador-posicao": "Forward",
         "jogador-gols": 7,
@@ -568,13 +577,13 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/germany-lennart-thy.png"
       },
       {
-        "jogador-nome": "Hide Higashikawa",
+        "jogador-nome": "Shingo Nakano",
         "jogador-posicao": "Midfielder",
-        "jogador-gols": 7,
-        "jogador-assists": 2,
+        "jogador-gols": 6,
+        "jogador-assists": 0,
         "jogador-partidas": 8,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/singapore-tampines-rovers-fc.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/-hide-higashikawa.png"
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/singapore-albirex-niigata-fc-singapore.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-shingo-nakano.png"
       },
       {
         "jogador-nome": "Bart Ramselaar",
@@ -593,15 +602,6 @@
         "jogador-partidas": 6,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/singapore-tanjong-pagar-united-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-youssef-ezzejjari-lhasnaoui.png"
-      },
-      {
-        "jogador-nome": "Shingo Nakano",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 5,
-        "jogador-assists": 0,
-        "jogador-partidas": 7,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/singapore-albirex-niigata-fc-singapore.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/-shingo-nakano.png"
       },
       {
         "jogador-nome": "Maxime Lestienne",
@@ -644,7 +644,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 4,
         "jogador-assists": 0,
-        "jogador-partidas": 8,
+        "jogador-partidas": 9,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/singapore-tampines-rovers-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-glenn-kweh.png"
       },
@@ -662,7 +662,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 3,
         "jogador-assists": 6,
-        "jogador-partidas": 8,
+        "jogador-partidas": 9,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/singapore-tampines-rovers-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/japan-koya-kazama.png"
       },
@@ -698,7 +698,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 2,
         "jogador-assists": 5,
-        "jogador-partidas": 8,
+        "jogador-partidas": 9,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/singapore-tampines-rovers-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/singapore-nur-muhammad-shah-bin-shahiran.png"
       },
