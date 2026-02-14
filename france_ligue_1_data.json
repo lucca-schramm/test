@@ -212,45 +212,45 @@
           "name": "Olympique de Marseille",
           "logo": "https://cdn.footystats.org/img/teams/france-olympique-de-marseille.png"
         },
-        "points": 39,
+        "points": 40,
         "goalsDiff": 19,
         "group": "France Ligue 1 20252026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 21,
+          "played": 22,
           "win": 12,
-          "draw": 3,
+          "draw": 4,
           "lose": 6,
           "goals": {
-            "for": 46,
-            "against": 27
+            "for": 48,
+            "against": 29
           },
-          "form": "LWWDL",
-          "btts_matches": 10,
-          "avg_corners_per_game": 4.9,
-          "aproveitamento": 61.9,
-          "over_2_5_goals": 14,
-          "over_0_5_ht": 11,
-          "over_0_5_ft": 13,
+          "form": "WWDLD",
+          "btts_matches": 11,
+          "avg_corners_per_game": 4.91,
+          "aproveitamento": 60.6,
+          "over_2_5_goals": 15,
+          "over_0_5_ht": 12,
+          "over_0_5_ft": 14,
           "clean_sheets": 6
         },
         "home": {
-          "played": 10,
+          "played": 11,
           "win": 7,
-          "draw": 2,
+          "draw": 3,
           "lose": 1,
           "goals": {
-            "for": 27,
-            "against": 11
+            "for": 29,
+            "against": 13
           },
-          "form_home": "WDWLW",
-          "avg_corners_home_per_game": 4.9,
-          "aproveitamento_home": 76.7,
-          "btts_home_matches": 5,
-          "over_2_5_goals_home": 7,
-          "over_0_5_ht_home": 6,
-          "over_0_5_ft_home": 8,
+          "form_home": "DWLWD",
+          "avg_corners_home_per_game": 4.91,
+          "aproveitamento_home": 72.7,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 8,
+          "over_0_5_ht_home": 7,
+          "over_0_5_ft_home": 9,
           "clean_sheets_home": 4
         },
         "away": {
@@ -412,6 +412,74 @@
       {
         "rank": 7,
         "team": {
+          "id": 480,
+          "name": "RC Strasbourg Alsace",
+          "logo": "https://cdn.footystats.org/img/teams/france-rc-strasbourg-alsace.png"
+        },
+        "points": 31,
+        "goalsDiff": 7,
+        "group": "France Ligue 1 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 22,
+          "win": 9,
+          "draw": 4,
+          "lose": 9,
+          "goals": {
+            "for": 36,
+            "against": 29
+          },
+          "form": "WWLLD",
+          "btts_matches": 13,
+          "avg_corners_per_game": 3.86,
+          "aproveitamento": 47.0,
+          "over_2_5_goals": 14,
+          "over_0_5_ht": 11,
+          "over_0_5_ft": 13,
+          "clean_sheets": 7
+        },
+        "home": {
+          "played": 10,
+          "win": 6,
+          "draw": 1,
+          "lose": 3,
+          "goals": {
+            "for": 17,
+            "against": 7
+          },
+          "form_home": "WLDWL",
+          "avg_corners_home_per_game": 4.8,
+          "aproveitamento_home": 63.3,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 6,
+          "clean_sheets_home": 6
+        },
+        "away": {
+          "played": 12,
+          "win": 3,
+          "draw": 3,
+          "lose": 6,
+          "goals": {
+            "for": 19,
+            "against": 22
+          },
+          "form_visitor": "LDWLD",
+          "btts_away_matches": 9,
+          "avg_corners_away_per_game": 3.08,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 8,
+          "over_0_5_ht_away": 6,
+          "over_0_5_ft_away": 7,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 8,
+        "team": {
           "id": 56,
           "name": "AS Monaco FC",
           "logo": "https://cdn.footystats.org/img/teams/monaco-as-monaco-fc.png"
@@ -474,74 +542,6 @@
           "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 5,
           "clean_sheets_away": 2
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 8,
-        "team": {
-          "id": 480,
-          "name": "RC Strasbourg Alsace",
-          "logo": "https://cdn.footystats.org/img/teams/france-rc-strasbourg-alsace.png"
-        },
-        "points": 30,
-        "goalsDiff": 7,
-        "group": "France Ligue 1 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 21,
-          "win": 9,
-          "draw": 3,
-          "lose": 9,
-          "goals": {
-            "for": 34,
-            "against": 27
-          },
-          "form": "DWWLL",
-          "btts_matches": 12,
-          "avg_corners_per_game": 3.81,
-          "aproveitamento": 47.6,
-          "over_2_5_goals": 13,
-          "over_0_5_ht": 11,
-          "over_0_5_ft": 12,
-          "clean_sheets": 7
-        },
-        "home": {
-          "played": 10,
-          "win": 6,
-          "draw": 1,
-          "lose": 3,
-          "goals": {
-            "for": 17,
-            "against": 7
-          },
-          "form_home": "WLDWL",
-          "avg_corners_home_per_game": 4.8,
-          "aproveitamento_home": 63.3,
-          "btts_home_matches": 4,
-          "over_2_5_goals_home": 6,
-          "over_0_5_ht_home": 5,
-          "over_0_5_ft_home": 6,
-          "clean_sheets_home": 6
-        },
-        "away": {
-          "played": 11,
-          "win": 3,
-          "draw": 2,
-          "lose": 6,
-          "goals": {
-            "for": 17,
-            "against": 20
-          },
-          "form_visitor": "LLDWL",
-          "btts_away_matches": 8,
-          "avg_corners_away_per_game": 2.91,
-          "aproveitamento_away": 33.3,
-          "over_2_5_goals_away": 7,
-          "over_0_5_ht_away": 6,
-          "over_0_5_ft_away": 6,
-          "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1232,11 +1232,20 @@
       {
         "jogador-nome": "Mason Greenwood",
         "jogador-posicao": "Midfielder",
-        "jogador-gols": 13,
+        "jogador-gols": 14,
         "jogador-assists": 4,
-        "jogador-partidas": 20,
+        "jogador-partidas": 21,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/france-olympique-de-marseille.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/england-mason-greenwood.png"
+      },
+      {
+        "jogador-nome": "Joaquín Panichelli",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 12,
+        "jogador-assists": 1,
+        "jogador-partidas": 22,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/france-rc-strasbourg-alsace.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/argentina-joaquin-panichelli.png"
       },
       {
         "jogador-nome": "Esteban Lepaul",
@@ -1246,15 +1255,6 @@
         "jogador-partidas": 22,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/france-angers-sporting-club-de-louest.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/france-esteban-lepaul.png"
-      },
-      {
-        "jogador-nome": "Joaquín Panichelli",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 11,
-        "jogador-assists": 1,
-        "jogador-partidas": 21,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/france-rc-strasbourg-alsace.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/argentina-joaquin-panichelli.png"
       },
       {
         "jogador-nome": "Pavel Šulc",
@@ -1342,7 +1342,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 6,
         "jogador-assists": 5,
-        "jogador-partidas": 18,
+        "jogador-partidas": 19,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/france-olympique-de-marseille.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/gabon-pierre-emerick-aubameyang.png"
       },
@@ -1383,6 +1383,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/switzerland-breel-embolo.png"
       },
       {
+        "jogador-nome": "Martial Godo",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 6,
+        "jogador-assists": 1,
+        "jogador-partidas": 17,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/france-rc-strasbourg-alsace.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-martial-godo.png"
+      },
+      {
         "jogador-nome": "Pablo Pagis",
         "jogador-posicao": "Forward",
         "jogador-gols": 6,
@@ -1390,15 +1399,6 @@
         "jogador-partidas": 18,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/france-fc-lorient.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/france-pablo-pagis.png"
-      },
-      {
-        "jogador-nome": "Martial Godo",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 6,
-        "jogador-assists": 0,
-        "jogador-partidas": 16,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/france-rc-strasbourg-alsace.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/-martial-godo.png"
       },
       {
         "jogador-nome": "Florian Thauvin",
