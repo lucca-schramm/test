@@ -281,23 +281,23 @@
           "logo": "https://cdn.footystats.org/img/teams/england-huddersfield-town-fc.png"
         },
         "points": 49,
-        "goalsDiff": 11,
+        "goalsDiff": 10,
         "group": "England EFL League One 20252026",
         "status": "same",
         "description": "Copa Sul-Americana",
         "all": {
-          "played": 31,
+          "played": 32,
           "win": 14,
           "draw": 7,
-          "lose": 10,
+          "lose": 11,
           "goals": {
             "for": 53,
-            "against": 42
+            "against": 43
           },
-          "form": "LWWWD",
+          "form": "WWWDL",
           "btts_matches": 19,
-          "avg_corners_per_game": 6.35,
-          "aproveitamento": 52.7,
+          "avg_corners_per_game": 6.28,
+          "aproveitamento": 51.0,
           "over_2_5_goals": 19,
           "over_0_5_ht": 15,
           "over_0_5_ft": 18,
@@ -322,18 +322,18 @@
           "clean_sheets_home": 8
         },
         "away": {
-          "played": 15,
+          "played": 16,
           "win": 5,
           "draw": 2,
-          "lose": 8,
+          "lose": 9,
           "goals": {
             "for": 22,
-            "against": 27
+            "against": 28
           },
-          "form_visitor": "WDLLW",
+          "form_visitor": "DLLWL",
           "btts_away_matches": 11,
-          "avg_corners_away_per_game": 5.67,
-          "aproveitamento_away": 37.8,
+          "avg_corners_away_per_game": 5.56,
+          "aproveitamento_away": 35.4,
           "over_2_5_goals_away": 10,
           "over_0_5_ht_away": 7,
           "over_0_5_ft_away": 7,
@@ -412,6 +412,74 @@
       {
         "rank": 7,
         "team": {
+          "id": 219,
+          "name": "Reading FC",
+          "logo": "https://cdn.footystats.org/img/teams/england-reading-fc.png"
+        },
+        "points": 46,
+        "goalsDiff": 5,
+        "group": "England EFL League One 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 31,
+          "win": 12,
+          "draw": 10,
+          "lose": 9,
+          "goals": {
+            "for": 46,
+            "against": 41
+          },
+          "form": "DWLWW",
+          "btts_matches": 21,
+          "avg_corners_per_game": 4.03,
+          "aproveitamento": 49.5,
+          "over_2_5_goals": 15,
+          "over_0_5_ht": 15,
+          "over_0_5_ft": 22,
+          "clean_sheets": 7
+        },
+        "home": {
+          "played": 16,
+          "win": 8,
+          "draw": 5,
+          "lose": 3,
+          "goals": {
+            "for": 23,
+            "against": 18
+          },
+          "form_home": "WWDDW",
+          "avg_corners_home_per_game": 3.62,
+          "aproveitamento_home": 60.4,
+          "btts_home_matches": 10,
+          "over_2_5_goals_home": 7,
+          "over_0_5_ht_home": 7,
+          "over_0_5_ft_home": 13,
+          "clean_sheets_home": 5
+        },
+        "away": {
+          "played": 15,
+          "win": 4,
+          "draw": 5,
+          "lose": 6,
+          "goals": {
+            "for": 23,
+            "against": 23
+          },
+          "form_visitor": "DLWLW",
+          "btts_away_matches": 11,
+          "avg_corners_away_per_game": 4.47,
+          "aproveitamento_away": 37.8,
+          "over_2_5_goals_away": 8,
+          "over_0_5_ht_away": 8,
+          "over_0_5_ft_away": 9,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 8,
+        "team": {
           "id": 271,
           "name": "Luton Town FC",
           "logo": "https://cdn.footystats.org/img/teams/england-luton-town-fc.png"
@@ -478,7 +546,75 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 8,
+        "rank": 9,
+        "team": {
+          "id": 258,
+          "name": "Stevenage FC",
+          "logo": "https://cdn.footystats.org/img/teams/england-stevenage-fc.png"
+        },
+        "points": 45,
+        "goalsDiff": 2,
+        "group": "England EFL League One 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 30,
+          "win": 12,
+          "draw": 9,
+          "lose": 9,
+          "goals": {
+            "for": 32,
+            "against": 30
+          },
+          "form": "DWLLW",
+          "btts_matches": 14,
+          "avg_corners_per_game": 4.73,
+          "aproveitamento": 50.0,
+          "over_2_5_goals": 11,
+          "over_0_5_ht": 10,
+          "over_0_5_ft": 15,
+          "clean_sheets": 11
+        },
+        "home": {
+          "played": 14,
+          "win": 7,
+          "draw": 6,
+          "lose": 1,
+          "goals": {
+            "for": 15,
+            "against": 7
+          },
+          "form_home": "DDDWW",
+          "avg_corners_home_per_game": 4.5,
+          "aproveitamento_home": 64.3,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 8,
+          "clean_sheets_home": 8
+        },
+        "away": {
+          "played": 16,
+          "win": 5,
+          "draw": 3,
+          "lose": 8,
+          "goals": {
+            "for": 17,
+            "against": 23
+          },
+          "form_visitor": "LLLLL",
+          "btts_away_matches": 9,
+          "avg_corners_away_per_game": 4.94,
+          "aproveitamento_away": 37.5,
+          "over_2_5_goals_away": 9,
+          "over_0_5_ht_away": 6,
+          "over_0_5_ft_away": 7,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 10,
         "team": {
           "id": 250,
           "name": "Peterborough United FC",
@@ -546,33 +682,33 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 9,
+        "rank": 11,
         "team": {
           "id": 266,
           "name": "Wycombe Wanderers FC",
           "logo": "https://cdn.footystats.org/img/teams/england-wycombe-wanderers-fc.png"
         },
         "points": 43,
-        "goalsDiff": 9,
+        "goalsDiff": 8,
         "group": "England EFL League One 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 30,
+          "played": 31,
           "win": 11,
           "draw": 10,
-          "lose": 9,
+          "lose": 10,
           "goals": {
-            "for": 40,
-            "against": 31
+            "for": 42,
+            "against": 34
           },
-          "form": "WLWDW",
-          "btts_matches": 15,
-          "avg_corners_per_game": 5.03,
-          "aproveitamento": 47.8,
-          "over_2_5_goals": 13,
+          "form": "LWDWL",
+          "btts_matches": 16,
+          "avg_corners_per_game": 5.13,
+          "aproveitamento": 46.2,
+          "over_2_5_goals": 14,
           "over_0_5_ht": 15,
-          "over_0_5_ft": 17,
+          "over_0_5_ft": 18,
           "clean_sheets": 10
         },
         "home": {
@@ -594,158 +730,22 @@
           "clean_sheets_home": 6
         },
         "away": {
-          "played": 14,
+          "played": 15,
           "win": 2,
           "draw": 7,
-          "lose": 5,
-          "goals": {
-            "for": 10,
-            "against": 16
-          },
-          "form_visitor": "DLDWD",
-          "btts_away_matches": 8,
-          "avg_corners_away_per_game": 4.29,
-          "aproveitamento_away": 31.0,
-          "over_2_5_goals_away": 5,
-          "over_0_5_ht_away": 4,
-          "over_0_5_ft_away": 6,
-          "clean_sheets_away": 4
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 10,
-        "team": {
-          "id": 219,
-          "name": "Reading FC",
-          "logo": "https://cdn.footystats.org/img/teams/england-reading-fc.png"
-        },
-        "points": 43,
-        "goalsDiff": 4,
-        "group": "England EFL League One 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 30,
-          "win": 11,
-          "draw": 10,
-          "lose": 9,
-          "goals": {
-            "for": 43,
-            "against": 39
-          },
-          "form": "DDWLW",
-          "btts_matches": 20,
-          "avg_corners_per_game": 4.13,
-          "aproveitamento": 47.8,
-          "over_2_5_goals": 14,
-          "over_0_5_ht": 14,
-          "over_0_5_ft": 21,
-          "clean_sheets": 7
-        },
-        "home": {
-          "played": 15,
-          "win": 7,
-          "draw": 5,
-          "lose": 3,
-          "goals": {
-            "for": 20,
-            "against": 16
-          },
-          "form_home": "WWWDD",
-          "avg_corners_home_per_game": 3.8,
-          "aproveitamento_home": 57.8,
-          "btts_home_matches": 9,
-          "over_2_5_goals_home": 6,
-          "over_0_5_ht_home": 6,
-          "over_0_5_ft_home": 12,
-          "clean_sheets_home": 5
-        },
-        "away": {
-          "played": 15,
-          "win": 4,
-          "draw": 5,
           "lose": 6,
           "goals": {
-            "for": 23,
-            "against": 23
+            "for": 12,
+            "against": 19
           },
-          "form_visitor": "DLWLW",
-          "btts_away_matches": 11,
-          "avg_corners_away_per_game": 4.47,
-          "aproveitamento_away": 37.8,
-          "over_2_5_goals_away": 8,
-          "over_0_5_ht_away": 8,
-          "over_0_5_ft_away": 9,
-          "clean_sheets_away": 2
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 11,
-        "team": {
-          "id": 258,
-          "name": "Stevenage FC",
-          "logo": "https://cdn.footystats.org/img/teams/england-stevenage-fc.png"
-        },
-        "points": 42,
-        "goalsDiff": 1,
-        "group": "England EFL League One 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 29,
-          "win": 11,
-          "draw": 9,
-          "lose": 9,
-          "goals": {
-            "for": 31,
-            "against": 30
-          },
-          "form": "DDWLL",
-          "btts_matches": 14,
-          "avg_corners_per_game": 4.79,
-          "aproveitamento": 48.3,
-          "over_2_5_goals": 11,
-          "over_0_5_ht": 10,
-          "over_0_5_ft": 14,
-          "clean_sheets": 10
-        },
-        "home": {
-          "played": 13,
-          "win": 6,
-          "draw": 6,
-          "lose": 1,
-          "goals": {
-            "for": 14,
-            "against": 7
-          },
-          "form_home": "DDDDW",
-          "avg_corners_home_per_game": 4.62,
-          "aproveitamento_home": 61.5,
-          "btts_home_matches": 5,
-          "over_2_5_goals_home": 2,
-          "over_0_5_ht_home": 4,
-          "over_0_5_ft_home": 7,
-          "clean_sheets_home": 7
-        },
-        "away": {
-          "played": 16,
-          "win": 5,
-          "draw": 3,
-          "lose": 8,
-          "goals": {
-            "for": 17,
-            "against": 23
-          },
-          "form_visitor": "LLLLL",
+          "form_visitor": "LDWDL",
           "btts_away_matches": 9,
-          "avg_corners_away_per_game": 4.94,
-          "aproveitamento_away": 37.5,
-          "over_2_5_goals_away": 9,
-          "over_0_5_ht_away": 6,
+          "avg_corners_away_per_game": 4.53,
+          "aproveitamento_away": 28.9,
+          "over_2_5_goals_away": 6,
+          "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 7,
-          "clean_sheets_away": 3
+          "clean_sheets_away": 4
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1647,6 +1647,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/england-kyle-wootton.png"
       },
       {
+        "jogador-nome": "Jack Marriott",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 15,
+        "jogador-assists": 3,
+        "jogador-partidas": 21,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/england-reading-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/england-jack-marriott.png"
+      },
+      {
         "jogador-nome": "Dominic Ballard",
         "jogador-posicao": "Defender",
         "jogador-gols": 15,
@@ -1699,15 +1708,6 @@
         "jogador-partidas": 29,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/england-burton-albion-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/england-jake-beesley.png"
-      },
-      {
-        "jogador-nome": "Jack Marriott",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 12,
-        "jogador-assists": 3,
-        "jogador-partidas": 20,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/england-reading-fc.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/england-jack-marriott.png"
       },
       {
         "jogador-nome": "Owen John Edward Bailey",
@@ -1777,7 +1777,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 9,
         "jogador-assists": 2,
-        "jogador-partidas": 27,
+        "jogador-partidas": 28,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/england-stevenage-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/northern-ireland-jamie-reid.png"
       },
@@ -1785,8 +1785,8 @@
         "jogador-nome": "Lewis Wing",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 8,
-        "jogador-assists": 8,
-        "jogador-partidas": 30,
+        "jogador-assists": 9,
+        "jogador-partidas": 31,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/england-reading-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/england-lewis-wing.png"
       },
