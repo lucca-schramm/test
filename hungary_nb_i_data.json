@@ -9,25 +9,25 @@
           "logo": "https://cdn.footystats.org/img/teams/hungary-ferencvarosi-tc.png"
         },
         "points": 40,
-        "goalsDiff": 19,
+        "goalsDiff": 17,
         "group": "Hungary NB I 20252026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 21,
+          "played": 22,
           "win": 12,
           "draw": 4,
-          "lose": 5,
+          "lose": 6,
           "goals": {
-            "for": 40,
-            "against": 21
+            "for": 41,
+            "against": 24
           },
-          "form": "LWLWW",
-          "btts_matches": 12,
-          "avg_corners_per_game": 6.52,
-          "aproveitamento": 63.5,
-          "over_2_5_goals": 14,
-          "over_0_5_ht": 13,
+          "form": "WLWWL",
+          "btts_matches": 13,
+          "avg_corners_per_game": 6.5,
+          "aproveitamento": 60.6,
+          "over_2_5_goals": 15,
+          "over_0_5_ht": 14,
           "over_0_5_ft": 14,
           "clean_sheets": 8
         },
@@ -50,20 +50,20 @@
           "clean_sheets_home": 3
         },
         "away": {
-          "played": 10,
+          "played": 11,
           "win": 8,
           "draw": 2,
-          "lose": 0,
+          "lose": 1,
           "goals": {
-            "for": 19,
-            "against": 5
+            "for": 20,
+            "against": 8
           },
-          "form_visitor": "WWWWW",
-          "btts_away_matches": 5,
-          "avg_corners_away_per_game": 4.7,
-          "aproveitamento_away": 86.7,
-          "over_2_5_goals_away": 4,
-          "over_0_5_ht_away": 6,
+          "form_visitor": "WWWWL",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 4.82,
+          "aproveitamento_away": 78.8,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 7,
           "over_0_5_ft_away": 8,
           "clean_sheets_away": 5
         },
@@ -276,6 +276,74 @@
       {
         "rank": 5,
         "team": {
+          "id": 3785,
+          "name": "Zalaegerszegi TE",
+          "logo": "https://cdn.footystats.org/img/teams/hungary-zalaegerszegi-te.png"
+        },
+        "points": 33,
+        "goalsDiff": 6,
+        "group": "Hungary NB I 20252026",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 22,
+          "win": 9,
+          "draw": 6,
+          "lose": 7,
+          "goals": {
+            "for": 34,
+            "against": 28
+          },
+          "form": "DWLWW",
+          "btts_matches": 12,
+          "avg_corners_per_game": 3.86,
+          "aproveitamento": 50.0,
+          "over_2_5_goals": 11,
+          "over_0_5_ht": 7,
+          "over_0_5_ft": 16,
+          "clean_sheets": 7
+        },
+        "home": {
+          "played": 11,
+          "win": 4,
+          "draw": 3,
+          "lose": 4,
+          "goals": {
+            "for": 18,
+            "against": 14
+          },
+          "form_home": "WWDLW",
+          "avg_corners_home_per_game": 4.0,
+          "aproveitamento_home": 45.5,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 7,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 11,
+          "win": 5,
+          "draw": 3,
+          "lose": 3,
+          "goals": {
+            "for": 16,
+            "against": 14
+          },
+          "form_visitor": "WWDWW",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 3.73,
+          "aproveitamento_away": 54.5,
+          "over_2_5_goals_away": 6,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 9,
+          "clean_sheets_away": 4
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 6,
+        "team": {
           "id": 3773,
           "name": "Puskás Ferenc Akadémia FC",
           "logo": "https://cdn.footystats.org/img/teams/hungary-puskas-ferenc-akademia-fc.png"
@@ -342,7 +410,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "team": {
           "id": 3792,
           "name": "Kisvárda Master Good SE",
@@ -352,7 +420,7 @@
         "goalsDiff": -7,
         "group": "Hungary NB I 20252026",
         "status": "same",
-        "description": "Copa Sul-Americana",
+        "description": "",
         "all": {
           "played": 21,
           "win": 9,
@@ -406,74 +474,6 @@
           "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 4,
           "clean_sheets_away": 3
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 7,
-        "team": {
-          "id": 3785,
-          "name": "Zalaegerszegi TE",
-          "logo": "https://cdn.footystats.org/img/teams/hungary-zalaegerszegi-te.png"
-        },
-        "points": 30,
-        "goalsDiff": 4,
-        "group": "Hungary NB I 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 21,
-          "win": 8,
-          "draw": 6,
-          "lose": 7,
-          "goals": {
-            "for": 31,
-            "against": 27
-          },
-          "form": "DDWLW",
-          "btts_matches": 11,
-          "avg_corners_per_game": 3.95,
-          "aproveitamento": 47.6,
-          "over_2_5_goals": 10,
-          "over_0_5_ht": 7,
-          "over_0_5_ft": 15,
-          "clean_sheets": 7
-        },
-        "home": {
-          "played": 10,
-          "win": 3,
-          "draw": 3,
-          "lose": 4,
-          "goals": {
-            "for": 15,
-            "against": 13
-          },
-          "form_home": "LWWDL",
-          "avg_corners_home_per_game": 4.2,
-          "aproveitamento_home": 40.0,
-          "btts_home_matches": 5,
-          "over_2_5_goals_home": 4,
-          "over_0_5_ht_home": 4,
-          "over_0_5_ft_home": 6,
-          "clean_sheets_home": 3
-        },
-        "away": {
-          "played": 11,
-          "win": 5,
-          "draw": 3,
-          "lose": 3,
-          "goals": {
-            "for": 16,
-            "against": 14
-          },
-          "form_visitor": "WWDWW",
-          "btts_away_matches": 6,
-          "avg_corners_away_per_game": 3.73,
-          "aproveitamento_away": 54.5,
-          "over_2_5_goals_away": 6,
-          "over_0_5_ht_away": 3,
-          "over_0_5_ft_away": 9,
-          "clean_sheets_away": 4
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -862,7 +862,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 9,
         "jogador-assists": 3,
-        "jogador-partidas": 18,
+        "jogador-partidas": 19,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/hungary-ferencvarosi-tc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/hungary-gruber-zsombor.png"
       },
@@ -874,6 +874,15 @@
         "jogador-partidas": 21,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/hungary-mtk-budapest-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-ádin-molnár.png"
+      },
+      {
+        "jogador-nome": "Alen Martin Skribek",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 8,
+        "jogador-assists": 3,
+        "jogador-partidas": 18,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/hungary-zalaegerszegi-te.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/hungary-alen-martin-skribek.png"
       },
       {
         "jogador-nome": "Donát Bárány",
@@ -892,15 +901,6 @@
         "jogador-partidas": 20,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/hungary-diosgyori-vtk.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/netherlands-elton-acolatse.png"
-      },
-      {
-        "jogador-nome": "Alen Martin Skribek",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 7,
-        "jogador-assists": 3,
-        "jogador-partidas": 17,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/hungary-zalaegerszegi-te.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/hungary-alen-martin-skribek.png"
       },
       {
         "jogador-nome": "János Csaba Hahn",
