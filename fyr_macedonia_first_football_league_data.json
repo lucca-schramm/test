@@ -72,6 +72,74 @@
       {
         "rank": 2,
         "team": {
+          "id": 5411,
+          "name": "KF Shkendija",
+          "logo": "https://cdn.footystats.org/img/teams/fyr-macedonia-kf-shkendija.png"
+        },
+        "points": 42,
+        "goalsDiff": 22,
+        "group": "FYR Macedonia First Football League 20252026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 18,
+          "win": 13,
+          "draw": 3,
+          "lose": 2,
+          "goals": {
+            "for": 37,
+            "against": 15
+          },
+          "form": "LWWWW",
+          "btts_matches": 9,
+          "avg_corners_per_game": 6.33,
+          "aproveitamento": 77.8,
+          "over_2_5_goals": 9,
+          "over_0_5_ht": 9,
+          "over_0_5_ft": 12,
+          "clean_sheets": 7
+        },
+        "home": {
+          "played": 9,
+          "win": 7,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 20,
+            "against": 5
+          },
+          "form_home": "WLWWW",
+          "avg_corners_home_per_game": 6.67,
+          "aproveitamento_home": 81.5,
+          "btts_home_matches": 3,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 5,
+          "clean_sheets_home": 5
+        },
+        "away": {
+          "played": 9,
+          "win": 6,
+          "draw": 2,
+          "lose": 1,
+          "goals": {
+            "for": 17,
+            "against": 10
+          },
+          "form_visitor": "WWLWW",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 6.0,
+          "aproveitamento_away": 74.1,
+          "over_2_5_goals_away": 6,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 7,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 3,
+        "team": {
           "id": 6956,
           "name": "FC Struga Trim-Lum",
           "logo": "https://cdn.footystats.org/img/teams/fyr-macedonia-fc-struga-trim-lum.png"
@@ -134,74 +202,6 @@
           "over_0_5_ht_away": 7,
           "over_0_5_ft_away": 7,
           "clean_sheets_away": 3
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 3,
-        "team": {
-          "id": 5411,
-          "name": "KF Shkendija",
-          "logo": "https://cdn.footystats.org/img/teams/fyr-macedonia-kf-shkendija.png"
-        },
-        "points": 39,
-        "goalsDiff": 19,
-        "group": "FYR Macedonia First Football League 20252026",
-        "status": "same",
-        "description": "Copa Libertadores",
-        "all": {
-          "played": 17,
-          "win": 12,
-          "draw": 3,
-          "lose": 2,
-          "goals": {
-            "for": 33,
-            "against": 14
-          },
-          "form": "WLWWW",
-          "btts_matches": 8,
-          "avg_corners_per_game": 6.18,
-          "aproveitamento": 76.5,
-          "over_2_5_goals": 8,
-          "over_0_5_ht": 8,
-          "over_0_5_ft": 11,
-          "clean_sheets": 7
-        },
-        "home": {
-          "played": 9,
-          "win": 7,
-          "draw": 1,
-          "lose": 1,
-          "goals": {
-            "for": 20,
-            "against": 5
-          },
-          "form_home": "WLWWW",
-          "avg_corners_home_per_game": 6.67,
-          "aproveitamento_home": 81.5,
-          "btts_home_matches": 3,
-          "over_2_5_goals_home": 3,
-          "over_0_5_ht_home": 5,
-          "over_0_5_ft_home": 5,
-          "clean_sheets_home": 5
-        },
-        "away": {
-          "played": 8,
-          "win": 5,
-          "draw": 2,
-          "lose": 1,
-          "goals": {
-            "for": 13,
-            "against": 9
-          },
-          "form_visitor": "DWWLW",
-          "btts_away_matches": 5,
-          "avg_corners_away_per_game": 5.62,
-          "aproveitamento_away": 70.8,
-          "over_2_5_goals_away": 5,
-          "over_0_5_ht_away": 3,
-          "over_0_5_ft_away": 6,
-          "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -417,43 +417,43 @@
           "logo": "https://cdn.footystats.org/img/teams/fyr-macedonia-fk-tikves.png"
         },
         "points": 21,
-        "goalsDiff": 5,
+        "goalsDiff": 2,
         "group": "FYR Macedonia First Football League 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 17,
+          "played": 18,
           "win": 6,
           "draw": 3,
-          "lose": 8,
+          "lose": 9,
           "goals": {
-            "for": 24,
-            "against": 19
+            "for": 25,
+            "against": 23
           },
-          "form": "LWWLW",
-          "btts_matches": 5,
-          "avg_corners_per_game": 5.94,
-          "aproveitamento": 41.2,
-          "over_2_5_goals": 9,
-          "over_0_5_ht": 7,
+          "form": "WWLWL",
+          "btts_matches": 6,
+          "avg_corners_per_game": 5.72,
+          "aproveitamento": 38.9,
+          "over_2_5_goals": 10,
+          "over_0_5_ht": 8,
           "over_0_5_ft": 7,
           "clean_sheets": 8
         },
         "home": {
-          "played": 8,
+          "played": 9,
           "win": 3,
           "draw": 2,
-          "lose": 3,
+          "lose": 4,
           "goals": {
-            "for": 10,
-            "against": 8
+            "for": 11,
+            "against": 12
           },
-          "form_home": "WWLWL",
-          "avg_corners_home_per_game": 7.0,
-          "aproveitamento_home": 45.8,
-          "btts_home_matches": 3,
-          "over_2_5_goals_home": 4,
-          "over_0_5_ht_home": 4,
+          "form_home": "WLWLL",
+          "avg_corners_home_per_game": 6.44,
+          "aproveitamento_home": 40.7,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 5,
           "over_0_5_ft_home": 3,
           "clean_sheets_home": 4
         },
