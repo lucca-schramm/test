@@ -1,0 +1,938 @@
+{
+  "standings": {
+    "lithuania_a_lyga": [
+      {
+        "rank": 1,
+        "team": {
+          "id": 1231,
+          "name": "FK Kauno Žalgiris",
+          "logo": "https://cdn.footystats.org/img/teams/lithuania-fk-kauno-zalgiris.png"
+        },
+        "points": 75,
+        "goalsDiff": 41,
+        "group": "Lithuania A Lyga 2025",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 36,
+          "win": 22,
+          "draw": 9,
+          "lose": 5,
+          "goals": {
+            "for": 67,
+            "against": 26
+          },
+          "form": "WLLWD",
+          "btts_matches": 18,
+          "avg_corners_per_game": 5.75,
+          "aproveitamento": 69.4,
+          "over_2_5_goals": 21,
+          "over_0_5_ht": 20,
+          "over_0_5_ft": 23,
+          "clean_sheets": 15
+        },
+        "home": {
+          "played": 18,
+          "win": 12,
+          "draw": 3,
+          "lose": 3,
+          "goals": {
+            "for": 41,
+            "against": 14
+          },
+          "form_home": "DWLWD",
+          "avg_corners_home_per_game": 5.56,
+          "aproveitamento_home": 72.2,
+          "btts_home_matches": 10,
+          "over_2_5_goals_home": 14,
+          "over_0_5_ht_home": 12,
+          "over_0_5_ft_home": 13,
+          "clean_sheets_home": 7
+        },
+        "away": {
+          "played": 18,
+          "win": 10,
+          "draw": 6,
+          "lose": 2,
+          "goals": {
+            "for": 26,
+            "against": 12
+          },
+          "form_visitor": "LDDWL",
+          "btts_away_matches": 8,
+          "avg_corners_away_per_game": 5.94,
+          "aproveitamento_away": 66.7,
+          "over_2_5_goals_away": 7,
+          "over_0_5_ht_away": 8,
+          "over_0_5_ft_away": 10,
+          "clean_sheets_away": 8
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 2,
+        "team": {
+          "id": 1254,
+          "name": "FC Hegelmann Litauen Kaunas",
+          "logo": "https://cdn.footystats.org/img/teams/lithuania-fc-hegelmann-litauen-kaunas.png"
+        },
+        "points": 67,
+        "goalsDiff": 13,
+        "group": "Lithuania A Lyga 2025",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 36,
+          "win": 21,
+          "draw": 4,
+          "lose": 11,
+          "goals": {
+            "for": 56,
+            "against": 43
+          },
+          "form": "LWWLW",
+          "btts_matches": 17,
+          "avg_corners_per_game": 6.31,
+          "aproveitamento": 62.0,
+          "over_2_5_goals": 20,
+          "over_0_5_ht": 17,
+          "over_0_5_ft": 18,
+          "clean_sheets": 13
+        },
+        "home": {
+          "played": 18,
+          "win": 12,
+          "draw": 3,
+          "lose": 3,
+          "goals": {
+            "for": 34,
+            "against": 18
+          },
+          "form_home": "DDDWW",
+          "avg_corners_home_per_game": 6.5,
+          "aproveitamento_home": 72.2,
+          "btts_home_matches": 11,
+          "over_2_5_goals_home": 11,
+          "over_0_5_ht_home": 10,
+          "over_0_5_ft_home": 9,
+          "clean_sheets_home": 5
+        },
+        "away": {
+          "played": 18,
+          "win": 9,
+          "draw": 1,
+          "lose": 8,
+          "goals": {
+            "for": 22,
+            "against": 25
+          },
+          "form_visitor": "WWLWL",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 6.11,
+          "aproveitamento_away": 51.9,
+          "over_2_5_goals_away": 9,
+          "over_0_5_ht_away": 7,
+          "over_0_5_ft_away": 9,
+          "clean_sheets_away": 8
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 3,
+        "team": {
+          "id": 85,
+          "name": "VMFD Žalgiris Vilnius",
+          "logo": "https://cdn.footystats.org/img/teams/lithuania-vmfd-zalgiris-vilnius.png"
+        },
+        "points": 62,
+        "goalsDiff": 13,
+        "group": "Lithuania A Lyga 2025",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 36,
+          "win": 17,
+          "draw": 11,
+          "lose": 8,
+          "goals": {
+            "for": 54,
+            "against": 41
+          },
+          "form": "DWWWL",
+          "btts_matches": 21,
+          "avg_corners_per_game": 5.72,
+          "aproveitamento": 57.4,
+          "over_2_5_goals": 18,
+          "over_0_5_ht": 21,
+          "over_0_5_ft": 22,
+          "clean_sheets": 11
+        },
+        "home": {
+          "played": 18,
+          "win": 10,
+          "draw": 5,
+          "lose": 3,
+          "goals": {
+            "for": 25,
+            "against": 13
+          },
+          "form_home": "WDWWW",
+          "avg_corners_home_per_game": 6.17,
+          "aproveitamento_home": 64.8,
+          "btts_home_matches": 9,
+          "over_2_5_goals_home": 7,
+          "over_0_5_ht_home": 10,
+          "over_0_5_ft_home": 11,
+          "clean_sheets_home": 8
+        },
+        "away": {
+          "played": 18,
+          "win": 7,
+          "draw": 6,
+          "lose": 5,
+          "goals": {
+            "for": 29,
+            "against": 28
+          },
+          "form_visitor": "WWDWL",
+          "btts_away_matches": 12,
+          "avg_corners_away_per_game": 5.28,
+          "aproveitamento_away": 50.0,
+          "over_2_5_goals_away": 11,
+          "over_0_5_ht_away": 11,
+          "over_0_5_ft_away": 11,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 4,
+        "team": {
+          "id": 1230,
+          "name": "FK Sūduva Marijampolė",
+          "logo": "https://cdn.footystats.org/img/teams/lithuania-fk-suduva-marijampole.png"
+        },
+        "points": 59,
+        "goalsDiff": 12,
+        "group": "Lithuania A Lyga 2025",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 36,
+          "win": 15,
+          "draw": 14,
+          "lose": 7,
+          "goals": {
+            "for": 48,
+            "against": 36
+          },
+          "form": "DWWDL",
+          "btts_matches": 18,
+          "avg_corners_per_game": 5.14,
+          "aproveitamento": 54.6,
+          "over_2_5_goals": 17,
+          "over_0_5_ht": 14,
+          "over_0_5_ft": 19,
+          "clean_sheets": 15
+        },
+        "home": {
+          "played": 18,
+          "win": 9,
+          "draw": 7,
+          "lose": 2,
+          "goals": {
+            "for": 27,
+            "against": 16
+          },
+          "form_home": "DLWWD",
+          "avg_corners_home_per_game": 4.83,
+          "aproveitamento_home": 63.0,
+          "btts_home_matches": 10,
+          "over_2_5_goals_home": 9,
+          "over_0_5_ht_home": 7,
+          "over_0_5_ft_home": 11,
+          "clean_sheets_home": 8
+        },
+        "away": {
+          "played": 18,
+          "win": 6,
+          "draw": 7,
+          "lose": 5,
+          "goals": {
+            "for": 21,
+            "against": 20
+          },
+          "form_visitor": "WDDDL",
+          "btts_away_matches": 8,
+          "avg_corners_away_per_game": 5.44,
+          "aproveitamento_away": 46.3,
+          "over_2_5_goals_away": 8,
+          "over_0_5_ht_away": 7,
+          "over_0_5_ft_away": 8,
+          "clean_sheets_away": 7
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 5,
+        "team": {
+          "id": 666715,
+          "name": "FA Šiauliai",
+          "logo": "https://cdn.footystats.org/img/teams/lithuania-fa-siauliai.png"
+        },
+        "points": 52,
+        "goalsDiff": 6,
+        "group": "Lithuania A Lyga 2025",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 36,
+          "win": 14,
+          "draw": 10,
+          "lose": 12,
+          "goals": {
+            "for": 59,
+            "against": 53
+          },
+          "form": "LLLDD",
+          "btts_matches": 21,
+          "avg_corners_per_game": 4.69,
+          "aproveitamento": 48.1,
+          "over_2_5_goals": 25,
+          "over_0_5_ht": 21,
+          "over_0_5_ft": 24,
+          "clean_sheets": 7
+        },
+        "home": {
+          "played": 18,
+          "win": 7,
+          "draw": 7,
+          "lose": 4,
+          "goals": {
+            "for": 37,
+            "against": 29
+          },
+          "form_home": "LWDLD",
+          "avg_corners_home_per_game": 4.61,
+          "aproveitamento_home": 51.9,
+          "btts_home_matches": 13,
+          "over_2_5_goals_home": 16,
+          "over_0_5_ht_home": 13,
+          "over_0_5_ft_home": 14,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 18,
+          "win": 7,
+          "draw": 3,
+          "lose": 8,
+          "goals": {
+            "for": 22,
+            "against": 24
+          },
+          "form_visitor": "WWLLD",
+          "btts_away_matches": 8,
+          "avg_corners_away_per_game": 4.78,
+          "aproveitamento_away": 44.4,
+          "over_2_5_goals_away": 9,
+          "over_0_5_ht_away": 8,
+          "over_0_5_ft_away": 10,
+          "clean_sheets_away": 4
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 6,
+        "team": {
+          "id": 1246,
+          "name": "FK Panevėžys",
+          "logo": "https://cdn.footystats.org/img/teams/lithuania-fk-panevezys.png"
+        },
+        "points": 49,
+        "goalsDiff": 7,
+        "group": "Lithuania A Lyga 2025",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 36,
+          "win": 14,
+          "draw": 7,
+          "lose": 15,
+          "goals": {
+            "for": 56,
+            "against": 49
+          },
+          "form": "DLWLW",
+          "btts_matches": 21,
+          "avg_corners_per_game": 5.33,
+          "aproveitamento": 45.4,
+          "over_2_5_goals": 21,
+          "over_0_5_ht": 19,
+          "over_0_5_ft": 21,
+          "clean_sheets": 9
+        },
+        "home": {
+          "played": 18,
+          "win": 9,
+          "draw": 1,
+          "lose": 8,
+          "goals": {
+            "for": 25,
+            "against": 18
+          },
+          "form_home": "WLWLW",
+          "avg_corners_home_per_game": 5.17,
+          "aproveitamento_home": 51.9,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 7,
+          "over_0_5_ht_home": 7,
+          "over_0_5_ft_home": 10,
+          "clean_sheets_home": 7
+        },
+        "away": {
+          "played": 18,
+          "win": 5,
+          "draw": 6,
+          "lose": 7,
+          "goals": {
+            "for": 31,
+            "against": 31
+          },
+          "form_visitor": "DDDWL",
+          "btts_away_matches": 15,
+          "avg_corners_away_per_game": 5.5,
+          "aproveitamento_away": 38.9,
+          "over_2_5_goals_away": 14,
+          "over_0_5_ht_away": 12,
+          "over_0_5_ft_away": 11,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 7,
+        "team": {
+          "id": 1247,
+          "name": "FK Džiugas Telšiai",
+          "logo": "https://cdn.footystats.org/img/teams/lithuania-fk-dziugas-telsiai.png"
+        },
+        "points": 46,
+        "goalsDiff": -8,
+        "group": "Lithuania A Lyga 2025",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 36,
+          "win": 13,
+          "draw": 7,
+          "lose": 16,
+          "goals": {
+            "for": 37,
+            "against": 45
+          },
+          "form": "DLLWD",
+          "btts_matches": 16,
+          "avg_corners_per_game": 5.28,
+          "aproveitamento": 42.6,
+          "over_2_5_goals": 13,
+          "over_0_5_ht": 14,
+          "over_0_5_ft": 16,
+          "clean_sheets": 11
+        },
+        "home": {
+          "played": 18,
+          "win": 3,
+          "draw": 6,
+          "lose": 9,
+          "goals": {
+            "for": 16,
+            "against": 23
+          },
+          "form_home": "DLDLW",
+          "avg_corners_home_per_game": 6.17,
+          "aproveitamento_home": 27.8,
+          "btts_home_matches": 10,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 7,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 18,
+          "win": 10,
+          "draw": 1,
+          "lose": 7,
+          "goals": {
+            "for": 21,
+            "against": 22
+          },
+          "form_visitor": "WLWLD",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 4.39,
+          "aproveitamento_away": 57.4,
+          "over_2_5_goals_away": 7,
+          "over_0_5_ht_away": 9,
+          "over_0_5_ft_away": 9,
+          "clean_sheets_away": 8
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 8,
+        "team": {
+          "id": 1238,
+          "name": "FK Banga Gargždai",
+          "logo": "https://cdn.footystats.org/img/teams/lithuania-fk-banga-gargzdai.png"
+        },
+        "points": 42,
+        "goalsDiff": 2,
+        "group": "Lithuania A Lyga 2025",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 36,
+          "win": 11,
+          "draw": 9,
+          "lose": 16,
+          "goals": {
+            "for": 38,
+            "against": 36
+          },
+          "form": "DWDWD",
+          "btts_matches": 12,
+          "avg_corners_per_game": 5.28,
+          "aproveitamento": 38.9,
+          "over_2_5_goals": 12,
+          "over_0_5_ht": 14,
+          "over_0_5_ft": 13,
+          "clean_sheets": 12
+        },
+        "home": {
+          "played": 18,
+          "win": 6,
+          "draw": 3,
+          "lose": 9,
+          "goals": {
+            "for": 20,
+            "against": 18
+          },
+          "form_home": "LLLDW",
+          "avg_corners_home_per_game": 5.83,
+          "aproveitamento_home": 38.9,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 8,
+          "over_0_5_ft_home": 8,
+          "clean_sheets_home": 6
+        },
+        "away": {
+          "played": 18,
+          "win": 5,
+          "draw": 6,
+          "lose": 7,
+          "goals": {
+            "for": 18,
+            "against": 18
+          },
+          "form_visitor": "WDWDD",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 4.72,
+          "aproveitamento_away": 38.9,
+          "over_2_5_goals_away": 7,
+          "over_0_5_ht_away": 6,
+          "over_0_5_ft_away": 5,
+          "clean_sheets_away": 6
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 9,
+        "team": {
+          "id": 1232,
+          "name": "FK Trakai",
+          "logo": "https://cdn.footystats.org/img/teams/lithuania-fk-trakai.png"
+        },
+        "points": 30,
+        "goalsDiff": -36,
+        "group": "Lithuania A Lyga 2025",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 38,
+          "win": 7,
+          "draw": 9,
+          "lose": 22,
+          "goals": {
+            "for": 39,
+            "against": 75
+          },
+          "form": "DLDDW",
+          "btts_matches": 22,
+          "avg_corners_per_game": 4.61,
+          "aproveitamento": 26.3,
+          "over_2_5_goals": 22,
+          "over_0_5_ht": 9,
+          "over_0_5_ft": 21,
+          "clean_sheets": 7
+        },
+        "home": {
+          "played": 19,
+          "win": 5,
+          "draw": 4,
+          "lose": 10,
+          "goals": {
+            "for": 23,
+            "against": 35
+          },
+          "form_home": "LDWDW",
+          "avg_corners_home_per_game": 4.79,
+          "aproveitamento_home": 33.3,
+          "btts_home_matches": 10,
+          "over_2_5_goals_home": 10,
+          "over_0_5_ht_home": 6,
+          "over_0_5_ft_home": 10,
+          "clean_sheets_home": 4
+        },
+        "away": {
+          "played": 19,
+          "win": 2,
+          "draw": 5,
+          "lose": 12,
+          "goals": {
+            "for": 16,
+            "against": 40
+          },
+          "form_visitor": "LWLDD",
+          "btts_away_matches": 12,
+          "avg_corners_away_per_game": 4.42,
+          "aproveitamento_away": 19.3,
+          "over_2_5_goals_away": 12,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 11,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 10,
+        "team": {
+          "id": 1237,
+          "name": "Alytaus DFK Dainava",
+          "logo": "https://cdn.footystats.org/img/teams/lithuania-alytaus-dfk-dainava.png"
+        },
+        "points": 18,
+        "goalsDiff": -49,
+        "group": "Lithuania A Lyga 2025",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 36,
+          "win": 3,
+          "draw": 9,
+          "lose": 24,
+          "goals": {
+            "for": 27,
+            "against": 76
+          },
+          "form": "DLLLD",
+          "btts_matches": 19,
+          "avg_corners_per_game": 3.39,
+          "aproveitamento": 16.7,
+          "over_2_5_goals": 20,
+          "over_0_5_ht": 8,
+          "over_0_5_ft": 14,
+          "clean_sheets": 2
+        },
+        "home": {
+          "played": 18,
+          "win": 1,
+          "draw": 5,
+          "lose": 12,
+          "goals": {
+            "for": 12,
+            "against": 38
+          },
+          "form_home": "LLDLD",
+          "avg_corners_home_per_game": 3.28,
+          "aproveitamento_home": 14.8,
+          "btts_home_matches": 9,
+          "over_2_5_goals_home": 10,
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 6,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 18,
+          "win": 2,
+          "draw": 4,
+          "lose": 12,
+          "goals": {
+            "for": 15,
+            "against": 38
+          },
+          "form_visitor": "LDLLL",
+          "btts_away_matches": 10,
+          "avg_corners_away_per_game": 3.5,
+          "aproveitamento_away": 18.5,
+          "over_2_5_goals_away": 10,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 8,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 11,
+        "team": {
+          "id": 685209,
+          "name": "FC Neptūną Klaipėda",
+          "logo": "https://cdn.footystats.org/img/teams/lithuania-fc-neptuna-klaipeda.png"
+        },
+        "points": 1,
+        "goalsDiff": -1,
+        "group": "Lithuania A Lyga 2025",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 2,
+          "win": 0,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 1,
+            "against": 2
+          },
+          "form": "DL",
+          "btts_matches": 1,
+          "avg_corners_per_game": 2.5,
+          "aproveitamento": 16.7,
+          "over_2_5_goals": 1,
+          "over_0_5_ht": 1,
+          "over_0_5_ft": 0,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 1,
+          "win": 0,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 0,
+            "against": 0
+          },
+          "form_home": "D",
+          "avg_corners_home_per_game": 4.0,
+          "aproveitamento_home": 33.3,
+          "btts_home_matches": 0,
+          "over_2_5_goals_home": 0,
+          "over_0_5_ht_home": 0,
+          "over_0_5_ft_home": 0,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 1,
+            "against": 2
+          },
+          "form_visitor": "L",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 1.0,
+          "aproveitamento_away": 0.0,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      }
+    ]
+  },
+  "artilharia": {
+    "lithuania_a_lyga": [
+      {
+        "jogador-nome": "Eligijus Jankauskas",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 15,
+        "jogador-assists": 3,
+        "jogador-partidas": 21,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/lithuania-fa-siauliai.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/lithuania-eligijus-jankauskas.png"
+      },
+      {
+        "jogador-nome": "Liviu Ion Antal",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 13,
+        "jogador-assists": 4,
+        "jogador-partidas": 20,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/lithuania-vmfd-zalgiris-vilnius.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/romania-liviu-ion-antal.png"
+      },
+      {
+        "jogador-nome": "Milan Đokić",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 11,
+        "jogador-assists": 3,
+        "jogador-partidas": 25,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/lithuania-fa-siauliai.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/serbia-milan-dokic.png"
+      },
+      {
+        "jogador-nome": "Dejan Georgijević",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 11,
+        "jogador-assists": 2,
+        "jogador-partidas": 22,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/lithuania-fk-kauno-zalgiris.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/serbia-dejan-georgijevic.png"
+      },
+      {
+        "jogador-nome": "Njoya Abdel Kader",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 11,
+        "jogador-assists": 1,
+        "jogador-partidas": 23,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/lithuania-fc-hegelmann-litauen-kaunas.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-njoya-abdel-kader.png"
+      },
+      {
+        "jogador-nome": "Amine Benchaib",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 10,
+        "jogador-assists": 6,
+        "jogador-partidas": 22,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/lithuania-fk-kauno-zalgiris.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/morocco-amine-benchaib.png"
+      },
+      {
+        "jogador-nome": "Ariagner Steven Smith Medina",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 8,
+        "jogador-assists": 4,
+        "jogador-partidas": 22,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/lithuania-fk-panevezys.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/nicaragua-ariagner-steven-smith-medina.png"
+      },
+      {
+        "jogador-nome": "Oleksandr Kurtsev",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 8,
+        "jogador-assists": 3,
+        "jogador-partidas": 22,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/lithuania-fk-dziugas-telsiai.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/ukraine-oleksandr-kurtsev.png"
+      },
+      {
+        "jogador-nome": "Leonardo Ribeiro Da Cruz",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 7,
+        "jogador-assists": 8,
+        "jogador-partidas": 25,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/lithuania-fc-hegelmann-litauen-kaunas.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-leonardo-ribeiro-da-cruz.png"
+      },
+      {
+        "jogador-nome": "Lucas de Vega Lima",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 7,
+        "jogador-assists": 2,
+        "jogador-partidas": 24,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/lithuania-fk-panevezys.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-lucas-de-vega-lima.png"
+      },
+      {
+        "jogador-nome": "Ignas Venckus",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 7,
+        "jogador-assists": 1,
+        "jogador-partidas": 23,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/lithuania-fk-banga-gargzdai.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/lithuania-ignas-venckus.png"
+      },
+      {
+        "jogador-nome": "Nauris Petkevičius",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 6,
+        "jogador-assists": 6,
+        "jogador-partidas": 25,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/lithuania-fk-suduva-marijampole.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/lithuania-nauris-petkevicius.png"
+      },
+      {
+        "jogador-nome": "Fabien Ourega",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 6,
+        "jogador-assists": 4,
+        "jogador-partidas": 23,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/lithuania-fk-kauno-zalgiris.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/france-fabien-ourega.png"
+      },
+      {
+        "jogador-nome": "Sidy Mohamed Sanokho",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 6,
+        "jogador-assists": 1,
+        "jogador-partidas": 24,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/lithuania-fk-suduva-marijampole.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/france-sidy-mohamed-sanokho.png"
+      },
+      {
+        "jogador-nome": "Daniel Romanovskij",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 5,
+        "jogador-assists": 12,
+        "jogador-partidas": 24,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/lithuania-fa-siauliai.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/lithuania-daniel-romanovskij.png"
+      },
+      {
+        "jogador-nome": "Ernestas Veliulis",
+        "jogador-posicao": "Defender",
+        "jogador-gols": 5,
+        "jogador-assists": 7,
+        "jogador-partidas": 24,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/lithuania-fk-panevezys.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/lithuania-ernestas-veliulis.png"
+      },
+      {
+        "jogador-nome": "Temur Chogadze",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 5,
+        "jogador-assists": 4,
+        "jogador-partidas": 22,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/lithuania-fk-kauno-zalgiris.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/georgia-temur-chogadze.png"
+      },
+      {
+        "jogador-nome": "Sherwin Dandery Seedorf",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 5,
+        "jogador-assists": 3,
+        "jogador-partidas": 16,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/lithuania-fk-banga-gargzdai.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/netherlands-sherwin-dandery-seedorf.png"
+      },
+      {
+        "jogador-nome": "Meinardas Mikulenas",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 5,
+        "jogador-assists": 3,
+        "jogador-partidas": 26,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/lithuania-fk-trakai.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/lithuania-meinardas-mikulenas.png"
+      },
+      {
+        "jogador-nome": "Frankline Yusiniu Tangiri",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 5,
+        "jogador-assists": 3,
+        "jogador-partidas": 23,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/lithuania-fk-suduva-marijampole.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-frankline-yusiniu-tangiri.png"
+      }
+    ]
+  }
+}
