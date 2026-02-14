@@ -616,6 +616,74 @@
       {
         "rank": 10,
         "team": {
+          "id": 1935,
+          "name": "FK Radnički Niš",
+          "logo": "https://cdn.footystats.org/img/teams/serbia-fk-radnicki-nis.png"
+        },
+        "points": 26,
+        "goalsDiff": -2,
+        "group": "Serbia SuperLiga 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 23,
+          "win": 7,
+          "draw": 5,
+          "lose": 11,
+          "goals": {
+            "for": 28,
+            "against": 30
+          },
+          "form": "LWDWW",
+          "btts_matches": 12,
+          "avg_corners_per_game": 3.96,
+          "aproveitamento": 37.7,
+          "over_2_5_goals": 12,
+          "over_0_5_ht": 10,
+          "over_0_5_ft": 11,
+          "clean_sheets": 5
+        },
+        "home": {
+          "played": 11,
+          "win": 5,
+          "draw": 3,
+          "lose": 3,
+          "goals": {
+            "for": 19,
+            "against": 13
+          },
+          "form_home": "LDLWW",
+          "avg_corners_home_per_game": 4.27,
+          "aproveitamento_home": 54.5,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 7,
+          "over_0_5_ht_home": 7,
+          "over_0_5_ft_home": 7,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 12,
+          "win": 2,
+          "draw": 2,
+          "lose": 8,
+          "goals": {
+            "for": 9,
+            "against": 17
+          },
+          "form_visitor": "WLLDW",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 3.67,
+          "aproveitamento_away": 22.2,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 11,
+        "team": {
           "id": 673482,
           "name": "LFK Mladost Lučani",
           "logo": "https://cdn.footystats.org/img/teams/serbia-lfk-mladost-lucani.png"
@@ -682,7 +750,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 11,
+        "rank": 12,
         "team": {
           "id": 673397,
           "name": "FK IMT Novi Beograd",
@@ -750,7 +818,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "team": {
           "id": 1950,
           "name": "FK Bačka Topola",
@@ -818,7 +886,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "team": {
           "id": 1926,
           "name": "FK Javor Ivanjica",
@@ -882,74 +950,6 @@
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 3,
           "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 14,
-        "team": {
-          "id": 1935,
-          "name": "FK Radnički Niš",
-          "logo": "https://cdn.footystats.org/img/teams/serbia-fk-radnicki-nis.png"
-        },
-        "points": 23,
-        "goalsDiff": -4,
-        "group": "Serbia SuperLiga 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 22,
-          "win": 6,
-          "draw": 5,
-          "lose": 11,
-          "goals": {
-            "for": 24,
-            "against": 28
-          },
-          "form": "LLWDW",
-          "btts_matches": 11,
-          "avg_corners_per_game": 3.95,
-          "aproveitamento": 34.8,
-          "over_2_5_goals": 11,
-          "over_0_5_ht": 9,
-          "over_0_5_ft": 10,
-          "clean_sheets": 5
-        },
-        "home": {
-          "played": 11,
-          "win": 5,
-          "draw": 3,
-          "lose": 3,
-          "goals": {
-            "for": 19,
-            "against": 13
-          },
-          "form_home": "LDLWW",
-          "avg_corners_home_per_game": 4.27,
-          "aproveitamento_home": 54.5,
-          "btts_home_matches": 7,
-          "over_2_5_goals_home": 7,
-          "over_0_5_ht_home": 7,
-          "over_0_5_ft_home": 7,
-          "clean_sheets_home": 3
-        },
-        "away": {
-          "played": 11,
-          "win": 1,
-          "draw": 2,
-          "lose": 8,
-          "goals": {
-            "for": 5,
-            "against": 15
-          },
-          "form_visitor": "LWLLD",
-          "btts_away_matches": 4,
-          "avg_corners_away_per_game": 3.64,
-          "aproveitamento_away": 15.2,
-          "over_2_5_goals_away": 4,
-          "over_0_5_ht_away": 2,
-          "over_0_5_ft_away": 3,
-          "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1029,44 +1029,44 @@
           "logo": "https://cdn.footystats.org/img/teams/serbia-fk-napredak-krusevac.png"
         },
         "points": 12,
-        "goalsDiff": -26,
+        "goalsDiff": -28,
         "group": "Serbia SuperLiga 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 22,
+          "played": 23,
           "win": 2,
           "draw": 6,
-          "lose": 14,
+          "lose": 15,
           "goals": {
-            "for": 18,
-            "against": 44
+            "for": 20,
+            "against": 48
           },
-          "form": "WLLLL",
-          "btts_matches": 12,
-          "avg_corners_per_game": 3.91,
-          "aproveitamento": 18.2,
-          "over_2_5_goals": 13,
-          "over_0_5_ht": 5,
-          "over_0_5_ft": 10,
+          "form": "LLLLL",
+          "btts_matches": 13,
+          "avg_corners_per_game": 3.87,
+          "aproveitamento": 17.4,
+          "over_2_5_goals": 14,
+          "over_0_5_ht": 6,
+          "over_0_5_ft": 11,
           "clean_sheets": 3
         },
         "home": {
-          "played": 11,
+          "played": 12,
           "win": 2,
           "draw": 2,
-          "lose": 7,
+          "lose": 8,
           "goals": {
-            "for": 13,
-            "against": 26
+            "for": 15,
+            "against": 30
           },
-          "form_home": "LDWLL",
-          "avg_corners_home_per_game": 4.45,
-          "aproveitamento_home": 24.2,
-          "btts_home_matches": 8,
-          "over_2_5_goals_home": 8,
-          "over_0_5_ht_home": 5,
-          "over_0_5_ft_home": 6,
+          "form_home": "DWLLL",
+          "avg_corners_home_per_game": 4.33,
+          "aproveitamento_home": 22.2,
+          "btts_home_matches": 9,
+          "over_2_5_goals_home": 9,
+          "over_0_5_ht_home": 6,
+          "over_0_5_ft_home": 7,
           "clean_sheets_home": 0
         },
         "away": {
@@ -1193,6 +1193,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/serbia-vukasin-bogdanovic.png"
       },
       {
+        "jogador-nome": "Andrija Majdevac",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 7,
+        "jogador-assists": 2,
+        "jogador-partidas": 20,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/serbia-fk-napredak-krusevac.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/serbia-andrija-majdevac.png"
+      },
+      {
         "jogador-nome": "Vasilije Kostov",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 6,
@@ -1218,15 +1227,6 @@
         "jogador-partidas": 21,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/serbia-fk-spartak-subotica.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/serbia-stefan-tomovic.png"
-      },
-      {
-        "jogador-nome": "Andrija Majdevac",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 6,
-        "jogador-assists": 2,
-        "jogador-partidas": 19,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/serbia-fk-napredak-krusevac.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/serbia-andrija-majdevac.png"
       },
       {
         "jogador-nome": "Radivoj Bosić",
