@@ -689,25 +689,25 @@
           "logo": "https://cdn.footystats.org/img/teams/portugal-fc-arouca.png"
         },
         "points": 23,
-        "goalsDiff": -20,
+        "goalsDiff": -21,
         "group": "Portugal Liga NOS 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 21,
+          "played": 22,
           "win": 6,
           "draw": 5,
-          "lose": 10,
+          "lose": 11,
           "goals": {
-            "for": 26,
-            "against": 46
+            "for": 28,
+            "against": 49
           },
-          "form": "LWLWW",
-          "btts_matches": 11,
-          "avg_corners_per_game": 3.86,
-          "aproveitamento": 36.5,
-          "over_2_5_goals": 14,
-          "over_0_5_ht": 9,
+          "form": "WLWWL",
+          "btts_matches": 12,
+          "avg_corners_per_game": 3.82,
+          "aproveitamento": 34.8,
+          "over_2_5_goals": 15,
+          "over_0_5_ht": 10,
           "over_0_5_ft": 10,
           "clean_sheets": 4
         },
@@ -730,20 +730,20 @@
           "clean_sheets_home": 1
         },
         "away": {
-          "played": 10,
+          "played": 11,
           "win": 3,
           "draw": 2,
-          "lose": 5,
+          "lose": 6,
           "goals": {
-            "for": 12,
-            "against": 23
+            "for": 14,
+            "against": 26
           },
-          "form_visitor": "LDLWW",
-          "btts_away_matches": 5,
-          "avg_corners_away_per_game": 3.5,
-          "aproveitamento_away": 36.7,
-          "over_2_5_goals_away": 7,
-          "over_0_5_ht_away": 5,
+          "form_visitor": "DLWWL",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 3.45,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 8,
+          "over_0_5_ht_away": 6,
           "over_0_5_ft_away": 4,
           "clean_sheets_away": 3
         },
@@ -820,6 +820,74 @@
       {
         "rank": 13,
         "team": {
+          "id": 4810,
+          "name": "Casa Pia AC",
+          "logo": "https://cdn.footystats.org/img/teams/portugal-casa-pia-ac.png"
+        },
+        "points": 22,
+        "goalsDiff": -16,
+        "group": "Portugal Liga NOS 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 22,
+          "win": 5,
+          "draw": 7,
+          "lose": 10,
+          "goals": {
+            "for": 25,
+            "against": 41
+          },
+          "form": "LDWDW",
+          "btts_matches": 11,
+          "avg_corners_per_game": 3.55,
+          "aproveitamento": 33.3,
+          "over_2_5_goals": 12,
+          "over_0_5_ht": 8,
+          "over_0_5_ft": 9,
+          "clean_sheets": 4
+        },
+        "home": {
+          "played": 11,
+          "win": 2,
+          "draw": 5,
+          "lose": 4,
+          "goals": {
+            "for": 15,
+            "against": 21
+          },
+          "form_home": "DDDWW",
+          "avg_corners_home_per_game": 3.0,
+          "aproveitamento_home": 33.3,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 11,
+          "win": 3,
+          "draw": 2,
+          "lose": 6,
+          "goals": {
+            "for": 10,
+            "against": 20
+          },
+          "form_visitor": "LWLLD",
+          "btts_away_matches": 4,
+          "avg_corners_away_per_game": 4.09,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 7,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 5,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 14,
+        "team": {
           "id": 163,
           "name": "CD Nacional Funchal",
           "logo": "https://cdn.footystats.org/img/teams/portugal-cd-nacional-funchal.png"
@@ -886,7 +954,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 14,
+        "rank": 15,
         "team": {
           "id": 171,
           "name": "Rio Ave FC",
@@ -950,74 +1018,6 @@
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 6,
           "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 15,
-        "team": {
-          "id": 4810,
-          "name": "Casa Pia AC",
-          "logo": "https://cdn.footystats.org/img/teams/portugal-casa-pia-ac.png"
-        },
-        "points": 19,
-        "goalsDiff": -17,
-        "group": "Portugal Liga NOS 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 21,
-          "win": 4,
-          "draw": 7,
-          "lose": 10,
-          "goals": {
-            "for": 22,
-            "against": 39
-          },
-          "form": "LLDWD",
-          "btts_matches": 10,
-          "avg_corners_per_game": 3.62,
-          "aproveitamento": 30.2,
-          "over_2_5_goals": 11,
-          "over_0_5_ht": 7,
-          "over_0_5_ft": 9,
-          "clean_sheets": 4
-        },
-        "home": {
-          "played": 10,
-          "win": 1,
-          "draw": 5,
-          "lose": 4,
-          "goals": {
-            "for": 12,
-            "against": 19
-          },
-          "form_home": "LDDDW",
-          "avg_corners_home_per_game": 3.1,
-          "aproveitamento_home": 26.7,
-          "btts_home_matches": 6,
-          "over_2_5_goals_home": 4,
-          "over_0_5_ht_home": 4,
-          "over_0_5_ft_home": 4,
-          "clean_sheets_home": 1
-        },
-        "away": {
-          "played": 11,
-          "win": 3,
-          "draw": 2,
-          "lose": 6,
-          "goals": {
-            "for": 10,
-            "against": 20
-          },
-          "form_visitor": "LWLLD",
-          "btts_away_matches": 4,
-          "avg_corners_away_per_game": 4.09,
-          "aproveitamento_away": 33.3,
-          "over_2_5_goals_away": 7,
-          "over_0_5_ht_away": 3,
-          "over_0_5_ft_away": 5,
-          "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1342,7 +1342,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 7,
         "jogador-assists": 3,
-        "jogador-partidas": 21,
+        "jogador-partidas": 22,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/portugal-fc-arouca.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/uruguay-alfonso-trezza.png"
       },
@@ -1405,7 +1405,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 5,
         "jogador-assists": 2,
-        "jogador-partidas": 21,
+        "jogador-partidas": 22,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/portugal-fc-arouca.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/france-nais-djouahra.png"
       }
