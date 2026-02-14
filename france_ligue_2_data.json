@@ -76,28 +76,28 @@
           "name": "Stade de Reims",
           "logo": "https://cdn.footystats.org/img/teams/france-stade-de-reims.png"
         },
-        "points": 39,
+        "points": 40,
         "goalsDiff": 14,
         "group": "France Ligue 2 20252026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 22,
+          "played": 23,
           "win": 11,
-          "draw": 6,
+          "draw": 7,
           "lose": 5,
           "goals": {
             "for": 37,
             "against": 23
           },
-          "form": "WLWWD",
+          "form": "LWWDD",
           "btts_matches": 11,
-          "avg_corners_per_game": 5.14,
-          "aproveitamento": 59.1,
+          "avg_corners_per_game": 5.43,
+          "aproveitamento": 58.0,
           "over_2_5_goals": 11,
           "over_0_5_ht": 12,
           "over_0_5_ft": 15,
-          "clean_sheets": 10
+          "clean_sheets": 11
         },
         "home": {
           "played": 11,
@@ -118,22 +118,22 @@
           "clean_sheets_home": 7
         },
         "away": {
-          "played": 11,
+          "played": 12,
           "win": 4,
-          "draw": 4,
+          "draw": 5,
           "lose": 3,
           "goals": {
             "for": 19,
             "against": 15
           },
-          "form_visitor": "WWDLW",
+          "form_visitor": "WDLWD",
           "btts_away_matches": 7,
-          "avg_corners_away_per_game": 5.45,
-          "aproveitamento_away": 48.5,
+          "avg_corners_away_per_game": 6.0,
+          "aproveitamento_away": 47.2,
           "over_2_5_goals_away": 6,
           "over_0_5_ht_away": 5,
           "over_0_5_ft_away": 9,
-          "clean_sheets_away": 3
+          "clean_sheets_away": 4
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -145,26 +145,26 @@
           "logo": "https://cdn.footystats.org/img/teams/france-le-mans-fc.png"
         },
         "points": 39,
-        "goalsDiff": 8,
+        "goalsDiff": 6,
         "group": "France Ligue 2 20252026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 22,
+          "played": 23,
           "win": 10,
           "draw": 9,
-          "lose": 3,
+          "lose": 4,
           "goals": {
-            "for": 27,
-            "against": 19
+            "for": 29,
+            "against": 23
           },
-          "form": "DDWWD",
-          "btts_matches": 11,
-          "avg_corners_per_game": 5.5,
-          "aproveitamento": 59.1,
-          "over_2_5_goals": 7,
-          "over_0_5_ht": 9,
-          "over_0_5_ft": 13,
+          "form": "DWWDL",
+          "btts_matches": 12,
+          "avg_corners_per_game": 5.52,
+          "aproveitamento": 56.5,
+          "over_2_5_goals": 8,
+          "over_0_5_ht": 10,
+          "over_0_5_ft": 14,
           "clean_sheets": 9
         },
         "home": {
@@ -186,21 +186,21 @@
           "clean_sheets_home": 8
         },
         "away": {
-          "played": 10,
+          "played": 11,
           "win": 4,
           "draw": 5,
-          "lose": 1,
+          "lose": 2,
           "goals": {
-            "for": 17,
-            "against": 13
+            "for": 19,
+            "against": 17
           },
-          "form_visitor": "DWWDW",
-          "btts_away_matches": 8,
-          "avg_corners_away_per_game": 5.2,
-          "aproveitamento_away": 56.7,
-          "over_2_5_goals_away": 5,
-          "over_0_5_ht_away": 7,
-          "over_0_5_ft_away": 6,
+          "form_visitor": "WWDWL",
+          "btts_away_matches": 9,
+          "avg_corners_away_per_game": 5.27,
+          "aproveitamento_away": 51.5,
+          "over_2_5_goals_away": 6,
+          "over_0_5_ht_away": 8,
+          "over_0_5_ft_away": 7,
           "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -412,6 +412,74 @@
       {
         "rank": 7,
         "team": {
+          "id": 435,
+          "name": "Montpellier HSC",
+          "logo": "https://cdn.footystats.org/img/teams/france-montpellier-hsc.png"
+        },
+        "points": 34,
+        "goalsDiff": 4,
+        "group": "France Ligue 2 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 23,
+          "win": 10,
+          "draw": 4,
+          "lose": 9,
+          "goals": {
+            "for": 28,
+            "against": 24
+          },
+          "form": "LWWLW",
+          "btts_matches": 10,
+          "avg_corners_per_game": 5.43,
+          "aproveitamento": 49.3,
+          "over_2_5_goals": 6,
+          "over_0_5_ht": 8,
+          "over_0_5_ft": 12,
+          "clean_sheets": 6
+        },
+        "home": {
+          "played": 12,
+          "win": 6,
+          "draw": 2,
+          "lose": 4,
+          "goals": {
+            "for": 20,
+            "against": 15
+          },
+          "form_home": "WLLWW",
+          "avg_corners_home_per_game": 5.75,
+          "aproveitamento_home": 55.6,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 8,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 11,
+          "win": 4,
+          "draw": 2,
+          "lose": 5,
+          "goals": {
+            "for": 8,
+            "against": 9
+          },
+          "form_visitor": "LDLWL",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 5.09,
+          "aproveitamento_away": 42.4,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 8,
+        "team": {
           "id": 1402,
           "name": "Pau FC",
           "logo": "https://cdn.footystats.org/img/teams/france-pau-fc.png"
@@ -478,7 +546,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "team": {
           "id": 3897,
           "name": "FC Annecy",
@@ -546,7 +614,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "team": {
           "id": 436,
           "name": "En Avant Guingamp",
@@ -614,7 +682,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "team": {
           "id": 1399,
           "name": "Rodez Aveyron Football",
@@ -682,75 +750,75 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 11,
+        "rank": 12,
         "team": {
-          "id": 435,
-          "name": "Montpellier HSC",
-          "logo": "https://cdn.footystats.org/img/teams/france-montpellier-hsc.png"
+          "id": 1398,
+          "name": "Grenoble Foot 38",
+          "logo": "https://cdn.footystats.org/img/teams/france-grenoble-foot-38.png"
         },
-        "points": 31,
-        "goalsDiff": 2,
+        "points": 27,
+        "goalsDiff": -5,
         "group": "France Ligue 2 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 22,
-          "win": 9,
-          "draw": 4,
-          "lose": 9,
+          "played": 23,
+          "win": 6,
+          "draw": 9,
+          "lose": 8,
           "goals": {
             "for": 24,
-            "against": 22
+            "against": 29
           },
-          "form": "LLWWL",
-          "btts_matches": 9,
-          "avg_corners_per_game": 5.5,
-          "aproveitamento": 47.0,
-          "over_2_5_goals": 5,
+          "form": "LDWDD",
+          "btts_matches": 14,
+          "avg_corners_per_game": 4.0,
+          "aproveitamento": 39.1,
+          "over_2_5_goals": 10,
           "over_0_5_ht": 7,
-          "over_0_5_ft": 11,
-          "clean_sheets": 6
+          "over_0_5_ft": 12,
+          "clean_sheets": 5
         },
         "home": {
-          "played": 11,
-          "win": 5,
-          "draw": 2,
-          "lose": 4,
+          "played": 12,
+          "win": 4,
+          "draw": 6,
+          "lose": 2,
           "goals": {
-            "for": 16,
-            "against": 13
+            "for": 10,
+            "against": 11
           },
-          "form_home": "WWLLW",
-          "avg_corners_home_per_game": 5.91,
-          "aproveitamento_home": 51.5,
+          "form_home": "WDLWD",
+          "avg_corners_home_per_game": 4.83,
+          "aproveitamento_home": 50.0,
           "btts_home_matches": 6,
           "over_2_5_goals_home": 4,
-          "over_0_5_ht_home": 4,
-          "over_0_5_ft_home": 7,
-          "clean_sheets_home": 3
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 6,
+          "clean_sheets_home": 5
         },
         "away": {
           "played": 11,
-          "win": 4,
-          "draw": 2,
-          "lose": 5,
+          "win": 2,
+          "draw": 3,
+          "lose": 6,
           "goals": {
-            "for": 8,
-            "against": 9
+            "for": 14,
+            "against": 18
           },
-          "form_visitor": "LDLWL",
-          "btts_away_matches": 3,
-          "avg_corners_away_per_game": 5.09,
-          "aproveitamento_away": 42.4,
-          "over_2_5_goals_away": 1,
-          "over_0_5_ht_away": 3,
-          "over_0_5_ft_away": 4,
-          "clean_sheets_away": 3
+          "form_visitor": "WLLDD",
+          "btts_away_matches": 8,
+          "avg_corners_away_per_game": 3.09,
+          "aproveitamento_away": 27.3,
+          "over_2_5_goals_away": 6,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 6,
+          "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "team": {
           "id": 1392,
           "name": "US Boulogne-sur-Mer Côte d'Opale",
@@ -814,74 +882,6 @@
           "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 7,
           "clean_sheets_away": 2
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 13,
-        "team": {
-          "id": 1398,
-          "name": "Grenoble Foot 38",
-          "logo": "https://cdn.footystats.org/img/teams/france-grenoble-foot-38.png"
-        },
-        "points": 26,
-        "goalsDiff": -5,
-        "group": "France Ligue 2 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 22,
-          "win": 6,
-          "draw": 8,
-          "lose": 8,
-          "goals": {
-            "for": 24,
-            "against": 29
-          },
-          "form": "LLDWD",
-          "btts_matches": 14,
-          "avg_corners_per_game": 4.05,
-          "aproveitamento": 39.4,
-          "over_2_5_goals": 10,
-          "over_0_5_ht": 7,
-          "over_0_5_ft": 12,
-          "clean_sheets": 4
-        },
-        "home": {
-          "played": 11,
-          "win": 4,
-          "draw": 5,
-          "lose": 2,
-          "goals": {
-            "for": 10,
-            "against": 11
-          },
-          "form_home": "WWDLW",
-          "avg_corners_home_per_game": 5.0,
-          "aproveitamento_home": 51.5,
-          "btts_home_matches": 6,
-          "over_2_5_goals_home": 4,
-          "over_0_5_ht_home": 3,
-          "over_0_5_ft_home": 6,
-          "clean_sheets_home": 4
-        },
-        "away": {
-          "played": 11,
-          "win": 2,
-          "draw": 3,
-          "lose": 6,
-          "goals": {
-            "for": 14,
-            "against": 18
-          },
-          "form_visitor": "WLLDD",
-          "btts_away_matches": 8,
-          "avg_corners_away_per_game": 3.09,
-          "aproveitamento_away": 27.3,
-          "over_2_5_goals_away": 6,
-          "over_0_5_ht_away": 4,
-          "over_0_5_ft_away": 6,
-          "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1266,6 +1266,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/france-damien-durand.png"
       },
       {
+        "jogador-nome": "Alexandre Mendy",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 9,
+        "jogador-assists": 1,
+        "jogador-partidas": 23,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/france-montpellier-hsc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/france-alexandre-mendy.png"
+      },
+      {
         "jogador-nome": "Yirigue Foungognan Sekongo",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 8,
@@ -1279,7 +1288,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 8,
         "jogador-assists": 2,
-        "jogador-partidas": 17,
+        "jogador-partidas": 18,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/france-stade-de-reims.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/japan-keito-nakamura.png"
       },
@@ -1291,15 +1300,6 @@
         "jogador-partidas": 18,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/france-as-saint-etienne.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/georgia-zuriko-davitashvili.png"
-      },
-      {
-        "jogador-nome": "Alexandre Mendy",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 8,
-        "jogador-assists": 1,
-        "jogador-partidas": 22,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/france-montpellier-hsc.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/france-alexandre-mendy.png"
       },
       {
         "jogador-nome": "Ibrahima Baldé",
@@ -1360,16 +1360,25 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 7,
         "jogador-assists": 0,
-        "jogador-partidas": 22,
+        "jogador-partidas": 23,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/france-grenoble-foot-38.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-yadaly-diaby.png"
+      },
+      {
+        "jogador-nome": "Dame Guèye",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 6,
+        "jogador-assists": 3,
+        "jogador-partidas": 23,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/france-le-mans-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/senegal-dame-gueye.png"
       },
       {
         "jogador-nome": "Téji Savanier",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 5,
         "jogador-assists": 3,
-        "jogador-partidas": 19,
+        "jogador-partidas": 20,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/france-montpellier-hsc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/france-teji-savanier.png"
       },
@@ -1381,15 +1390,6 @@
         "jogador-partidas": 14,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/france-us-du-littoral-de-dunkerque.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-marco-rachid-essimi-ateba.png"
-      },
-      {
-        "jogador-nome": "Dame Guèye",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 5,
-        "jogador-assists": 3,
-        "jogador-partidas": 22,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/france-le-mans-fc.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/senegal-dame-gueye.png"
       },
       {
         "jogador-nome": "Irvin Cardona",
