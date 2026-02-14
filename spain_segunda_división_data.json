@@ -344,6 +344,74 @@
       {
         "rank": 6,
         "team": {
+          "id": 294,
+          "name": "Córdoba CF",
+          "logo": "https://cdn.footystats.org/img/teams/spain-cordoba-cf.png"
+        },
+        "points": 41,
+        "goalsDiff": 6,
+        "group": "Spain Segunda División 20252026",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 25,
+          "win": 11,
+          "draw": 8,
+          "lose": 6,
+          "goals": {
+            "for": 34,
+            "against": 28
+          },
+          "form": "WLWWW",
+          "btts_matches": 17,
+          "avg_corners_per_game": 5.24,
+          "aproveitamento": 54.7,
+          "over_2_5_goals": 14,
+          "over_0_5_ht": 12,
+          "over_0_5_ft": 15,
+          "clean_sheets": 7
+        },
+        "home": {
+          "played": 13,
+          "win": 6,
+          "draw": 3,
+          "lose": 4,
+          "goals": {
+            "for": 18,
+            "against": 15
+          },
+          "form_home": "DWLWW",
+          "avg_corners_home_per_game": 5.54,
+          "aproveitamento_home": 53.8,
+          "btts_home_matches": 8,
+          "over_2_5_goals_home": 7,
+          "over_0_5_ht_home": 6,
+          "over_0_5_ft_home": 8,
+          "clean_sheets_home": 4
+        },
+        "away": {
+          "played": 12,
+          "win": 5,
+          "draw": 5,
+          "lose": 2,
+          "goals": {
+            "for": 16,
+            "against": 13
+          },
+          "form_visitor": "DDWWW",
+          "btts_away_matches": 9,
+          "avg_corners_away_per_game": 4.92,
+          "aproveitamento_away": 55.6,
+          "over_2_5_goals_away": 7,
+          "over_0_5_ht_away": 6,
+          "over_0_5_ft_away": 7,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 7,
+        "team": {
           "id": 276,
           "name": "UD Las Palmas",
           "logo": "https://cdn.footystats.org/img/teams/spain-ud-las-palmas.png"
@@ -352,7 +420,7 @@
         "goalsDiff": 9,
         "group": "Spain Segunda División 20252026",
         "status": "same",
-        "description": "Copa Sul-Americana",
+        "description": "",
         "all": {
           "played": 25,
           "win": 10,
@@ -410,7 +478,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "team": {
           "id": 289,
           "name": "Real Sporting de Gijón",
@@ -478,7 +546,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "team": {
           "id": 4546,
           "name": "Burgos CF",
@@ -541,74 +609,6 @@
           "over_2_5_goals_away": 7,
           "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 6,
-          "clean_sheets_away": 3
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 9,
-        "team": {
-          "id": 294,
-          "name": "Córdoba CF",
-          "logo": "https://cdn.footystats.org/img/teams/spain-cordoba-cf.png"
-        },
-        "points": 38,
-        "goalsDiff": 5,
-        "group": "Spain Segunda División 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 24,
-          "win": 10,
-          "draw": 8,
-          "lose": 6,
-          "goals": {
-            "for": 32,
-            "against": 27
-          },
-          "form": "WWLWW",
-          "btts_matches": 16,
-          "avg_corners_per_game": 5.17,
-          "aproveitamento": 52.8,
-          "over_2_5_goals": 13,
-          "over_0_5_ht": 11,
-          "over_0_5_ft": 14,
-          "clean_sheets": 7
-        },
-        "home": {
-          "played": 12,
-          "win": 5,
-          "draw": 3,
-          "lose": 4,
-          "goals": {
-            "for": 16,
-            "against": 14
-          },
-          "form_home": "LDWLW",
-          "avg_corners_home_per_game": 5.42,
-          "aproveitamento_home": 50.0,
-          "btts_home_matches": 7,
-          "over_2_5_goals_home": 6,
-          "over_0_5_ht_home": 5,
-          "over_0_5_ft_home": 7,
-          "clean_sheets_home": 4
-        },
-        "away": {
-          "played": 12,
-          "win": 5,
-          "draw": 5,
-          "lose": 2,
-          "goals": {
-            "for": 16,
-            "against": 13
-          },
-          "form_visitor": "DDWWW",
-          "btts_away_matches": 9,
-          "avg_corners_away_per_game": 4.92,
-          "aproveitamento_away": 55.6,
-          "over_2_5_goals_away": 7,
-          "over_0_5_ht_away": 6,
-          "over_0_5_ft_away": 7,
           "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -825,26 +825,26 @@
           "logo": "https://cdn.footystats.org/img/teams/spain-cd-leganes.png"
         },
         "points": 32,
-        "goalsDiff": 2,
+        "goalsDiff": 1,
         "group": "Spain Segunda División 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 25,
+          "played": 26,
           "win": 8,
           "draw": 8,
-          "lose": 9,
+          "lose": 10,
           "goals": {
-            "for": 27,
-            "against": 25
+            "for": 28,
+            "against": 27
           },
-          "form": "WLWLW",
-          "btts_matches": 11,
-          "avg_corners_per_game": 4.56,
-          "aproveitamento": 42.7,
-          "over_2_5_goals": 10,
+          "form": "LWLWL",
+          "btts_matches": 12,
+          "avg_corners_per_game": 4.54,
+          "aproveitamento": 41.0,
+          "over_2_5_goals": 11,
           "over_0_5_ht": 11,
-          "over_0_5_ft": 11,
+          "over_0_5_ft": 12,
           "clean_sheets": 9
         },
         "home": {
@@ -866,21 +866,21 @@
           "clean_sheets_home": 5
         },
         "away": {
-          "played": 13,
+          "played": 14,
           "win": 4,
           "draw": 5,
-          "lose": 4,
+          "lose": 5,
           "goals": {
-            "for": 15,
-            "against": 14
+            "for": 16,
+            "against": 16
           },
-          "form_visitor": "LDWLL",
-          "btts_away_matches": 8,
-          "avg_corners_away_per_game": 3.92,
-          "aproveitamento_away": 43.6,
-          "over_2_5_goals_away": 6,
+          "form_visitor": "DWLLL",
+          "btts_away_matches": 9,
+          "avg_corners_away_per_game": 3.93,
+          "aproveitamento_away": 40.5,
+          "over_2_5_goals_away": 7,
           "over_0_5_ht_away": 5,
-          "over_0_5_ft_away": 8,
+          "over_0_5_ft_away": 9,
           "clean_sheets_away": 4
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1585,9 +1585,9 @@
       {
         "jogador-nome": "Adrián Fuentes González",
         "jogador-posicao": "Forward",
-        "jogador-gols": 9,
+        "jogador-gols": 10,
         "jogador-assists": 1,
-        "jogador-partidas": 23,
+        "jogador-partidas": 24,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/spain-cordoba-cf.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/spain-adrian-fuentes-gonzalez.png"
       },
