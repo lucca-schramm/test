@@ -276,6 +276,74 @@
       {
         "rank": 5,
         "team": {
+          "id": 6784,
+          "name": "Borussia Mönchengladbach II",
+          "logo": "https://cdn.footystats.org/img/teams/germany-borussia-monchengladbach-ii.png"
+        },
+        "points": 35,
+        "goalsDiff": 6,
+        "group": "Germany Regionalliga West 20252026",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 22,
+          "win": 10,
+          "draw": 5,
+          "lose": 7,
+          "goals": {
+            "for": 39,
+            "against": 33
+          },
+          "form": "WLLLW",
+          "btts_matches": 16,
+          "avg_corners_per_game": -1.0,
+          "aproveitamento": 53.0,
+          "over_2_5_goals": 15,
+          "over_0_5_ht": 14,
+          "over_0_5_ft": 12,
+          "clean_sheets": 4
+        },
+        "home": {
+          "played": 11,
+          "win": 3,
+          "draw": 4,
+          "lose": 4,
+          "goals": {
+            "for": 18,
+            "against": 23
+          },
+          "form_home": "WWLLL",
+          "avg_corners_home_per_game": -1.0,
+          "aproveitamento_home": 39.4,
+          "btts_home_matches": 9,
+          "over_2_5_goals_home": 7,
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 8,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 11,
+          "win": 7,
+          "draw": 1,
+          "lose": 3,
+          "goals": {
+            "for": 21,
+            "against": 10
+          },
+          "form_visitor": "WLWLW",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": -1.0,
+          "aproveitamento_away": 66.7,
+          "over_2_5_goals_away": 8,
+          "over_0_5_ht_away": 10,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 4
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 6,
+        "team": {
           "id": 575,
           "name": "BV Borussia 09 Dortmund II",
           "logo": "https://cdn.footystats.org/img/teams/germany-bv-borussia-09-dortmund-ii.png"
@@ -342,7 +410,75 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 6,
+        "rank": 7,
+        "team": {
+          "id": 6755,
+          "name": "1. FC Koln II",
+          "logo": "https://cdn.footystats.org/img/teams/germany-1-fc-koln-ii.png"
+        },
+        "points": 33,
+        "goalsDiff": -1,
+        "group": "Germany Regionalliga West 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 20,
+          "win": 10,
+          "draw": 3,
+          "lose": 7,
+          "goals": {
+            "for": 37,
+            "against": 38
+          },
+          "form": "LWWWD",
+          "btts_matches": 13,
+          "avg_corners_per_game": -1.0,
+          "aproveitamento": 55.0,
+          "over_2_5_goals": 15,
+          "over_0_5_ht": 9,
+          "over_0_5_ft": 13,
+          "clean_sheets": 4
+        },
+        "home": {
+          "played": 11,
+          "win": 6,
+          "draw": 2,
+          "lose": 3,
+          "goals": {
+            "for": 22,
+            "against": 17
+          },
+          "form_home": "WLWWD",
+          "avg_corners_home_per_game": -1.0,
+          "aproveitamento_home": 60.6,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 7,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 8,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 9,
+          "win": 4,
+          "draw": 1,
+          "lose": 4,
+          "goals": {
+            "for": 15,
+            "against": 21
+          },
+          "form_visitor": "WDLWW",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": -1.0,
+          "aproveitamento_away": 48.1,
+          "over_2_5_goals_away": 8,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 5,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 8,
         "team": {
           "id": 6330,
           "name": "Sportfreunde Siegen von 1899",
@@ -352,7 +488,7 @@
         "goalsDiff": 14,
         "group": "Germany Regionalliga West 20252026",
         "status": "same",
-        "description": "Copa Sul-Americana",
+        "description": "",
         "all": {
           "played": 19,
           "win": 8,
@@ -410,169 +546,33 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 7,
-        "team": {
-          "id": 6755,
-          "name": "1. FC Koln II",
-          "logo": "https://cdn.footystats.org/img/teams/germany-1-fc-koln-ii.png"
-        },
-        "points": 32,
-        "goalsDiff": -1,
-        "group": "Germany Regionalliga West 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 19,
-          "win": 10,
-          "draw": 2,
-          "lose": 7,
-          "goals": {
-            "for": 36,
-            "against": 37
-          },
-          "form": "WLWWW",
-          "btts_matches": 12,
-          "avg_corners_per_game": -1.0,
-          "aproveitamento": 56.1,
-          "over_2_5_goals": 15,
-          "over_0_5_ht": 8,
-          "over_0_5_ft": 13,
-          "clean_sheets": 4
-        },
-        "home": {
-          "played": 10,
-          "win": 6,
-          "draw": 1,
-          "lose": 3,
-          "goals": {
-            "for": 21,
-            "against": 16
-          },
-          "form_home": "LWLWW",
-          "avg_corners_home_per_game": -1.0,
-          "aproveitamento_home": 63.3,
-          "btts_home_matches": 6,
-          "over_2_5_goals_home": 7,
-          "over_0_5_ht_home": 4,
-          "over_0_5_ft_home": 8,
-          "clean_sheets_home": 3
-        },
-        "away": {
-          "played": 9,
-          "win": 4,
-          "draw": 1,
-          "lose": 4,
-          "goals": {
-            "for": 15,
-            "against": 21
-          },
-          "form_visitor": "WDLWW",
-          "btts_away_matches": 6,
-          "avg_corners_away_per_game": -1.0,
-          "aproveitamento_away": 48.1,
-          "over_2_5_goals_away": 8,
-          "over_0_5_ht_away": 4,
-          "over_0_5_ft_away": 5,
-          "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 8,
-        "team": {
-          "id": 6784,
-          "name": "Borussia Mönchengladbach II",
-          "logo": "https://cdn.footystats.org/img/teams/germany-borussia-monchengladbach-ii.png"
-        },
-        "points": 32,
-        "goalsDiff": 3,
-        "group": "Germany Regionalliga West 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 21,
-          "win": 9,
-          "draw": 5,
-          "lose": 7,
-          "goals": {
-            "for": 36,
-            "against": 33
-          },
-          "form": "LWLLL",
-          "btts_matches": 16,
-          "avg_corners_per_game": -1.0,
-          "aproveitamento": 50.8,
-          "over_2_5_goals": 14,
-          "over_0_5_ht": 13,
-          "over_0_5_ft": 11,
-          "clean_sheets": 3
-        },
-        "home": {
-          "played": 11,
-          "win": 3,
-          "draw": 4,
-          "lose": 4,
-          "goals": {
-            "for": 18,
-            "against": 23
-          },
-          "form_home": "WWLLL",
-          "avg_corners_home_per_game": -1.0,
-          "aproveitamento_home": 39.4,
-          "btts_home_matches": 9,
-          "over_2_5_goals_home": 7,
-          "over_0_5_ht_home": 4,
-          "over_0_5_ft_home": 8,
-          "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 10,
-          "win": 6,
-          "draw": 1,
-          "lose": 3,
-          "goals": {
-            "for": 18,
-            "against": 10
-          },
-          "form_visitor": "WWLWL",
-          "btts_away_matches": 7,
-          "avg_corners_away_per_game": -1.0,
-          "aproveitamento_away": 63.3,
-          "over_2_5_goals_away": 7,
-          "over_0_5_ht_away": 9,
-          "over_0_5_ft_away": 3,
-          "clean_sheets_away": 3
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
         "rank": 9,
         "team": {
           "id": 561,
           "name": "Sportfreunde Lotte",
           "logo": "https://cdn.footystats.org/img/teams/germany-sportfreunde-lotte.png"
         },
-        "points": 27,
+        "points": 28,
         "goalsDiff": -5,
         "group": "Germany Regionalliga West 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 19,
+          "played": 20,
           "win": 7,
-          "draw": 6,
+          "draw": 7,
           "lose": 6,
           "goals": {
-            "for": 27,
-            "against": 32
+            "for": 28,
+            "against": 33
           },
-          "form": "WWLWD",
-          "btts_matches": 13,
+          "form": "WLWDD",
+          "btts_matches": 14,
           "avg_corners_per_game": -1.0,
-          "aproveitamento": 47.4,
+          "aproveitamento": 46.7,
           "over_2_5_goals": 13,
           "over_0_5_ht": 8,
-          "over_0_5_ft": 14,
+          "over_0_5_ft": 15,
           "clean_sheets": 3
         },
         "home": {
@@ -594,21 +594,21 @@
           "clean_sheets_home": 1
         },
         "away": {
-          "played": 11,
+          "played": 12,
           "win": 5,
-          "draw": 3,
+          "draw": 4,
           "lose": 3,
           "goals": {
-            "for": 15,
-            "against": 18
+            "for": 16,
+            "against": 19
           },
-          "form_visitor": "DWLWD",
-          "btts_away_matches": 7,
+          "form_visitor": "WLWDD",
+          "btts_away_matches": 8,
           "avg_corners_away_per_game": -1.0,
-          "aproveitamento_away": 54.5,
+          "aproveitamento_away": 52.8,
           "over_2_5_goals_away": 8,
           "over_0_5_ht_away": 4,
-          "over_0_5_ft_away": 7,
+          "over_0_5_ft_away": 8,
           "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -893,42 +893,42 @@
           "logo": "https://cdn.footystats.org/img/teams/germany-sv-rodinghausen.png"
         },
         "points": 18,
-        "goalsDiff": -8,
+        "goalsDiff": -11,
         "group": "Germany Regionalliga West 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 19,
+          "played": 20,
           "win": 5,
           "draw": 3,
-          "lose": 11,
+          "lose": 12,
           "goals": {
             "for": 30,
-            "against": 38
+            "against": 41
           },
-          "form": "LWLDL",
+          "form": "WLDLL",
           "btts_matches": 11,
           "avg_corners_per_game": -1.0,
-          "aproveitamento": 31.6,
-          "over_2_5_goals": 13,
+          "aproveitamento": 30.0,
+          "over_2_5_goals": 14,
           "over_0_5_ht": 10,
           "over_0_5_ft": 9,
           "clean_sheets": 2
         },
         "home": {
-          "played": 10,
+          "played": 11,
           "win": 3,
           "draw": 1,
-          "lose": 6,
+          "lose": 7,
           "goals": {
             "for": 17,
-            "against": 22
+            "against": 25
           },
-          "form_home": "WLLWL",
+          "form_home": "LLWLL",
           "avg_corners_home_per_game": -1.0,
-          "aproveitamento_home": 33.3,
+          "aproveitamento_home": 30.3,
           "btts_home_matches": 7,
-          "over_2_5_goals_home": 8,
+          "over_2_5_goals_home": 9,
           "over_0_5_ht_home": 5,
           "over_0_5_ft_home": 5,
           "clean_sheets_home": 1
