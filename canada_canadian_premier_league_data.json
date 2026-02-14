@@ -1,0 +1,734 @@
+{
+  "standings": {
+    "canada_canadian_premier_league": [
+      {
+        "rank": 1,
+        "team": {
+          "id": 678807,
+          "name": "Atlético Ottawa",
+          "logo": "https://cdn.footystats.org/img/teams/canada-atletico-ottawa.png"
+        },
+        "points": 62,
+        "goalsDiff": 28,
+        "group": "Canada Canadian Premier League 2025",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 30,
+          "win": 17,
+          "draw": 11,
+          "lose": 2,
+          "goals": {
+            "for": 58,
+            "against": 30
+          },
+          "form": "DDWWW",
+          "btts_matches": 17,
+          "avg_corners_per_game": 4.03,
+          "aproveitamento": 68.9,
+          "over_2_5_goals": 17,
+          "over_0_5_ht": 15,
+          "over_0_5_ft": 23,
+          "clean_sheets": 11
+        },
+        "home": {
+          "played": 15,
+          "win": 9,
+          "draw": 6,
+          "lose": 0,
+          "goals": {
+            "for": 32,
+            "against": 13
+          },
+          "form_home": "WDWDW",
+          "avg_corners_home_per_game": 4.6,
+          "aproveitamento_home": 73.3,
+          "btts_home_matches": 9,
+          "over_2_5_goals_home": 9,
+          "over_0_5_ht_home": 7,
+          "over_0_5_ft_home": 12,
+          "clean_sheets_home": 6
+        },
+        "away": {
+          "played": 15,
+          "win": 8,
+          "draw": 5,
+          "lose": 2,
+          "goals": {
+            "for": 26,
+            "against": 17
+          },
+          "form_visitor": "LDDWW",
+          "btts_away_matches": 8,
+          "avg_corners_away_per_game": 3.47,
+          "aproveitamento_away": 64.4,
+          "over_2_5_goals_away": 8,
+          "over_0_5_ht_away": 8,
+          "over_0_5_ft_away": 11,
+          "clean_sheets_away": 5
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 2,
+        "team": {
+          "id": 666787,
+          "name": "Forge FC",
+          "logo": "https://cdn.footystats.org/img/teams/canada-forge-fc.png"
+        },
+        "points": 58,
+        "goalsDiff": 27,
+        "group": "Canada Canadian Premier League 2025",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 30,
+          "win": 16,
+          "draw": 10,
+          "lose": 4,
+          "goals": {
+            "for": 52,
+            "against": 25
+          },
+          "form": "DDWLL",
+          "btts_matches": 16,
+          "avg_corners_per_game": 4.53,
+          "aproveitamento": 64.4,
+          "over_2_5_goals": 14,
+          "over_0_5_ht": 20,
+          "over_0_5_ft": 20,
+          "clean_sheets": 13
+        },
+        "home": {
+          "played": 16,
+          "win": 9,
+          "draw": 5,
+          "lose": 2,
+          "goals": {
+            "for": 30,
+            "against": 12
+          },
+          "form_home": "WDWLL",
+          "avg_corners_home_per_game": 4.69,
+          "aproveitamento_home": 66.7,
+          "btts_home_matches": 8,
+          "over_2_5_goals_home": 8,
+          "over_0_5_ht_home": 11,
+          "over_0_5_ft_home": 12,
+          "clean_sheets_home": 7
+        },
+        "away": {
+          "played": 14,
+          "win": 7,
+          "draw": 5,
+          "lose": 2,
+          "goals": {
+            "for": 22,
+            "against": 13
+          },
+          "form_visitor": "WLLDD",
+          "btts_away_matches": 8,
+          "avg_corners_away_per_game": 4.36,
+          "aproveitamento_away": 61.9,
+          "over_2_5_goals_away": 6,
+          "over_0_5_ht_away": 9,
+          "over_0_5_ft_away": 8,
+          "clean_sheets_away": 6
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 3,
+        "team": {
+          "id": 666789,
+          "name": "Cavalry FC",
+          "logo": "https://cdn.footystats.org/img/teams/canada-cavalry-fc.png"
+        },
+        "points": 48,
+        "goalsDiff": 14,
+        "group": "Canada Canadian Premier League 2025",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 31,
+          "win": 13,
+          "draw": 9,
+          "lose": 9,
+          "goals": {
+            "for": 53,
+            "against": 39
+          },
+          "form": "DDWWL",
+          "btts_matches": 18,
+          "avg_corners_per_game": 5.06,
+          "aproveitamento": 51.6,
+          "over_2_5_goals": 19,
+          "over_0_5_ht": 16,
+          "over_0_5_ft": 19,
+          "clean_sheets": 8
+        },
+        "home": {
+          "played": 15,
+          "win": 9,
+          "draw": 3,
+          "lose": 3,
+          "goals": {
+            "for": 33,
+            "against": 16
+          },
+          "form_home": "WWWDW",
+          "avg_corners_home_per_game": 5.0,
+          "aproveitamento_home": 66.7,
+          "btts_home_matches": 8,
+          "over_2_5_goals_home": 9,
+          "over_0_5_ht_home": 10,
+          "over_0_5_ft_home": 10,
+          "clean_sheets_home": 5
+        },
+        "away": {
+          "played": 16,
+          "win": 4,
+          "draw": 6,
+          "lose": 6,
+          "goals": {
+            "for": 20,
+            "against": 23
+          },
+          "form_visitor": "LDDWL",
+          "btts_away_matches": 10,
+          "avg_corners_away_per_game": 5.12,
+          "aproveitamento_away": 37.5,
+          "over_2_5_goals_away": 10,
+          "over_0_5_ht_away": 6,
+          "over_0_5_ft_away": 9,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 4,
+        "team": {
+          "id": 666788,
+          "name": "HFX Wanderers FC",
+          "logo": "https://cdn.footystats.org/img/teams/canada-hfx-wanderers-fc.png"
+        },
+        "points": 40,
+        "goalsDiff": 7,
+        "group": "Canada Canadian Premier League 2025",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 29,
+          "win": 11,
+          "draw": 7,
+          "lose": 11,
+          "goals": {
+            "for": 43,
+            "against": 36
+          },
+          "form": "LDWLD",
+          "btts_matches": 15,
+          "avg_corners_per_game": 5.28,
+          "aproveitamento": 46.0,
+          "over_2_5_goals": 17,
+          "over_0_5_ht": 11,
+          "over_0_5_ft": 17,
+          "clean_sheets": 9
+        },
+        "home": {
+          "played": 15,
+          "win": 7,
+          "draw": 4,
+          "lose": 4,
+          "goals": {
+            "for": 26,
+            "against": 15
+          },
+          "form_home": "WWDLD",
+          "avg_corners_home_per_game": 5.47,
+          "aproveitamento_home": 55.6,
+          "btts_home_matches": 8,
+          "over_2_5_goals_home": 9,
+          "over_0_5_ht_home": 7,
+          "over_0_5_ft_home": 9,
+          "clean_sheets_home": 5
+        },
+        "away": {
+          "played": 14,
+          "win": 4,
+          "draw": 3,
+          "lose": 7,
+          "goals": {
+            "for": 17,
+            "against": 21
+          },
+          "form_visitor": "DLLLW",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 5.07,
+          "aproveitamento_away": 35.7,
+          "over_2_5_goals_away": 8,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 8,
+          "clean_sheets_away": 4
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 5,
+        "team": {
+          "id": 666790,
+          "name": "York9 FC",
+          "logo": "https://cdn.footystats.org/img/teams/canada-york9-fc.png"
+        },
+        "points": 39,
+        "goalsDiff": 2,
+        "group": "Canada Canadian Premier League 2025",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 30,
+          "win": 10,
+          "draw": 9,
+          "lose": 11,
+          "goals": {
+            "for": 46,
+            "against": 44
+          },
+          "form": "DDLDL",
+          "btts_matches": 19,
+          "avg_corners_per_game": 3.7,
+          "aproveitamento": 43.3,
+          "over_2_5_goals": 21,
+          "over_0_5_ht": 19,
+          "over_0_5_ft": 13,
+          "clean_sheets": 9
+        },
+        "home": {
+          "played": 14,
+          "win": 7,
+          "draw": 4,
+          "lose": 3,
+          "goals": {
+            "for": 28,
+            "against": 16
+          },
+          "form_home": "WWDWD",
+          "avg_corners_home_per_game": 3.79,
+          "aproveitamento_home": 59.5,
+          "btts_home_matches": 9,
+          "over_2_5_goals_home": 10,
+          "over_0_5_ht_home": 12,
+          "over_0_5_ft_home": 7,
+          "clean_sheets_home": 5
+        },
+        "away": {
+          "played": 16,
+          "win": 3,
+          "draw": 5,
+          "lose": 8,
+          "goals": {
+            "for": 18,
+            "against": 28
+          },
+          "form_visitor": "LDLDL",
+          "btts_away_matches": 10,
+          "avg_corners_away_per_game": 3.62,
+          "aproveitamento_away": 29.2,
+          "over_2_5_goals_away": 11,
+          "over_0_5_ht_away": 7,
+          "over_0_5_ft_away": 6,
+          "clean_sheets_away": 4
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 6,
+        "team": {
+          "id": 666786,
+          "name": "Valour FC",
+          "logo": "https://cdn.footystats.org/img/teams/canada-valour-fc.png"
+        },
+        "points": 26,
+        "goalsDiff": -27,
+        "group": "Canada Canadian Premier League 2025",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 28,
+          "win": 7,
+          "draw": 5,
+          "lose": 16,
+          "goals": {
+            "for": 35,
+            "against": 62
+          },
+          "form": "LLDLW",
+          "btts_matches": 17,
+          "avg_corners_per_game": 3.61,
+          "aproveitamento": 31.0,
+          "over_2_5_goals": 21,
+          "over_0_5_ht": 11,
+          "over_0_5_ft": 14,
+          "clean_sheets": 2
+        },
+        "home": {
+          "played": 14,
+          "win": 4,
+          "draw": 4,
+          "lose": 6,
+          "goals": {
+            "for": 16,
+            "against": 24
+          },
+          "form_home": "DDWDL",
+          "avg_corners_home_per_game": 4.5,
+          "aproveitamento_home": 38.1,
+          "btts_home_matches": 9,
+          "over_2_5_goals_home": 10,
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 8,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 14,
+          "win": 3,
+          "draw": 1,
+          "lose": 10,
+          "goals": {
+            "for": 19,
+            "against": 38
+          },
+          "form_visitor": "LWLLW",
+          "btts_away_matches": 8,
+          "avg_corners_away_per_game": 2.71,
+          "aproveitamento_away": 23.8,
+          "over_2_5_goals_away": 11,
+          "over_0_5_ht_away": 7,
+          "over_0_5_ft_away": 6,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 7,
+        "team": {
+          "id": 666791,
+          "name": "Pacific FC",
+          "logo": "https://cdn.footystats.org/img/teams/canada-pacific-fc.png"
+        },
+        "points": 23,
+        "goalsDiff": -29,
+        "group": "Canada Canadian Premier League 2025",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 28,
+          "win": 5,
+          "draw": 8,
+          "lose": 15,
+          "goals": {
+            "for": 30,
+            "against": 59
+          },
+          "form": "LLDDL",
+          "btts_matches": 15,
+          "avg_corners_per_game": 4.25,
+          "aproveitamento": 27.4,
+          "over_2_5_goals": 15,
+          "over_0_5_ht": 12,
+          "over_0_5_ft": 10,
+          "clean_sheets": 3
+        },
+        "home": {
+          "played": 14,
+          "win": 4,
+          "draw": 4,
+          "lose": 6,
+          "goals": {
+            "for": 20,
+            "against": 26
+          },
+          "form_home": "WDDDL",
+          "avg_corners_home_per_game": 4.86,
+          "aproveitamento_home": 38.1,
+          "btts_home_matches": 8,
+          "over_2_5_goals_home": 7,
+          "over_0_5_ht_home": 7,
+          "over_0_5_ft_home": 7,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 14,
+          "win": 1,
+          "draw": 4,
+          "lose": 9,
+          "goals": {
+            "for": 10,
+            "against": 33
+          },
+          "form_visitor": "DLLLD",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 3.64,
+          "aproveitamento_away": 16.7,
+          "over_2_5_goals_away": 8,
+          "over_0_5_ht_away": 5,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 8,
+        "team": {
+          "id": 955805,
+          "name": "Vancouver FC",
+          "logo": "https://cdn.footystats.org/img/teams/canada-vancouver-fc.png"
+        },
+        "points": 21,
+        "goalsDiff": -22,
+        "group": "Canada Canadian Premier League 2025",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 28,
+          "win": 4,
+          "draw": 9,
+          "lose": 15,
+          "goals": {
+            "for": 35,
+            "against": 57
+          },
+          "form": "WWDDD",
+          "btts_matches": 19,
+          "avg_corners_per_game": 4.5,
+          "aproveitamento": 25.0,
+          "over_2_5_goals": 16,
+          "over_0_5_ht": 14,
+          "over_0_5_ft": 11,
+          "clean_sheets": 2
+        },
+        "home": {
+          "played": 14,
+          "win": 2,
+          "draw": 4,
+          "lose": 8,
+          "goals": {
+            "for": 16,
+            "against": 29
+          },
+          "form_home": "LLWWD",
+          "avg_corners_home_per_game": 4.0,
+          "aproveitamento_home": 23.8,
+          "btts_home_matches": 9,
+          "over_2_5_goals_home": 8,
+          "over_0_5_ht_home": 7,
+          "over_0_5_ft_home": 5,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 14,
+          "win": 2,
+          "draw": 5,
+          "lose": 7,
+          "goals": {
+            "for": 19,
+            "against": 28
+          },
+          "form_visitor": "LLDDD",
+          "btts_away_matches": 10,
+          "avg_corners_away_per_game": 5.0,
+          "aproveitamento_away": 26.2,
+          "over_2_5_goals_away": 8,
+          "over_0_5_ht_away": 7,
+          "over_0_5_ft_away": 6,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      }
+    ]
+  },
+  "artilharia": {
+    "canada_canadian_premier_league": [
+      {
+        "jogador-nome": "Samuel Salter",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 20,
+        "jogador-assists": 3,
+        "jogador-partidas": 28,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/canada-atletico-ottawa.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/canada-samuel-salter.png"
+      },
+      {
+        "jogador-nome": "Tiago de Freitas Guimarães Coimbra",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 12,
+        "jogador-assists": 3,
+        "jogador-partidas": 21,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/canada-hfx-wanderers-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-tiago-de-freitas-guimarães-coimbra.png"
+      },
+      {
+        "jogador-nome": "Brian Wright",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 11,
+        "jogador-assists": 0,
+        "jogador-partidas": 25,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/canada-forge-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/canada-brian-wright.png"
+      },
+      {
+        "jogador-nome": "David Rodriguez",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 10,
+        "jogador-assists": 9,
+        "jogador-partidas": 27,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/canada-atletico-ottawa.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/usa-david-rodriguez.png"
+      },
+      {
+        "jogador-nome": "Ali Musse",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 10,
+        "jogador-assists": 7,
+        "jogador-partidas": 22,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/canada-cavalry-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/canada-ali-musse.png"
+      },
+      {
+        "jogador-nome": "Ballou Jean-Yves Tabla",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 10,
+        "jogador-assists": 4,
+        "jogador-partidas": 27,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/canada-atletico-ottawa.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/canada-ballou-jean-yves-tabla.png"
+      },
+      {
+        "jogador-nome": "Julian Altobelli",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 9,
+        "jogador-assists": 3,
+        "jogador-partidas": 26,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/canada-york9-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/canada-julian-altobelli.png"
+      },
+      {
+        "jogador-nome": "Shaan Hundal",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 9,
+        "jogador-assists": 2,
+        "jogador-partidas": 23,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/canada-valour-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/canada-shaan-hundal.png"
+      },
+      {
+        "jogador-nome": "Sergio Andres Camargo",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 8,
+        "jogador-assists": 6,
+        "jogador-partidas": 25,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/canada-cavalry-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/canada-sergio-andres-camargo.png"
+      },
+      {
+        "jogador-nome": "Tobias Warschewski",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 8,
+        "jogador-assists": 5,
+        "jogador-partidas": 26,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/canada-cavalry-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/germany-tobias-warschewski.png"
+      },
+      {
+        "jogador-nome": "Myles Morgan",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 7,
+        "jogador-assists": 4,
+        "jogador-partidas": 24,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/canada-valour-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-myles-morgan.png"
+      },
+      {
+        "jogador-nome": "Nana Opoku Ampomah",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 6,
+        "jogador-assists": 3,
+        "jogador-partidas": 19,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/canada-forge-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/ghana-nana-opoku-ampomah.png"
+      },
+      {
+        "jogador-nome": "Hugo Mbongue",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 6,
+        "jogador-assists": 2,
+        "jogador-partidas": 12,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/canada-vancouver-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-hugo-mbongue.png"
+      },
+      {
+        "jogador-nome": "Alejandro Díaz Liceága",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 6,
+        "jogador-assists": 1,
+        "jogador-partidas": 20,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/canada-vancouver-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/mexico-alejandro-diaz-liceaga.png"
+      },
+      {
+        "jogador-nome": "Gabriel Bitar",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 5,
+        "jogador-assists": 2,
+        "jogador-partidas": 24,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/canada-york9-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/canada-gabriel-bitar.png"
+      },
+      {
+        "jogador-nome": "Ndiaye Pathé",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 5,
+        "jogador-assists": 0,
+        "jogador-partidas": 20,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/canada-vancouver-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-ndiaye-pathé.png"
+      },
+      {
+        "jogador-nome": "Jogador_944765",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 4,
+        "jogador-assists": 5,
+        "jogador-partidas": 25,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/canada-forge-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-jogador_944765.png"
+      },
+      {
+        "jogador-nome": "Adonijah Reid",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 4,
+        "jogador-assists": 4,
+        "jogador-partidas": 25,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/canada-york9-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/canada-adonijah-reid.png"
+      },
+      {
+        "jogador-nome": "Tristan Borges",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 4,
+        "jogador-assists": 3,
+        "jogador-partidas": 20,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/canada-forge-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/canada-tristan-borges.png"
+      },
+      {
+        "jogador-nome": "Massimo Ferrin",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 4,
+        "jogador-assists": 3,
+        "jogador-partidas": 26,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/canada-york9-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/canada-massimo-ferrin.png"
+      }
+    ]
+  }
+}
