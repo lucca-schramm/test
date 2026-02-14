@@ -140,6 +140,74 @@
       {
         "rank": 3,
         "team": {
+          "id": 229,
+          "name": "Millwall FC",
+          "logo": "https://cdn.footystats.org/img/teams/england-millwall-fc.png"
+        },
+        "points": 56,
+        "goalsDiff": 4,
+        "group": "England Championship 20252026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 32,
+          "win": 16,
+          "draw": 8,
+          "lose": 8,
+          "goals": {
+            "for": 41,
+            "against": 37
+          },
+          "form": "LWDWW",
+          "btts_matches": 15,
+          "avg_corners_per_game": 5.38,
+          "aproveitamento": 58.3,
+          "over_2_5_goals": 15,
+          "over_0_5_ht": 14,
+          "over_0_5_ft": 16,
+          "clean_sheets": 12
+        },
+        "home": {
+          "played": 16,
+          "win": 9,
+          "draw": 3,
+          "lose": 4,
+          "goals": {
+            "for": 22,
+            "against": 18
+          },
+          "form_home": "DWWWD",
+          "avg_corners_home_per_game": 5.75,
+          "aproveitamento_home": 62.5,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 8,
+          "over_0_5_ht_home": 9,
+          "over_0_5_ft_home": 7,
+          "clean_sheets_home": 7
+        },
+        "away": {
+          "played": 16,
+          "win": 7,
+          "draw": 5,
+          "lose": 4,
+          "goals": {
+            "for": 19,
+            "against": 19
+          },
+          "form_visitor": "DWLWW",
+          "btts_away_matches": 9,
+          "avg_corners_away_per_game": 5.0,
+          "aproveitamento_away": 54.2,
+          "over_2_5_goals_away": 7,
+          "over_0_5_ht_away": 5,
+          "over_0_5_ft_away": 9,
+          "clean_sheets_away": 5
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 4,
+        "team": {
           "id": 150,
           "name": "Hull City AFC",
           "logo": "https://cdn.footystats.org/img/teams/england-hull-city-afc.png"
@@ -206,7 +274,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "team": {
           "id": 220,
           "name": "Ipswich Town FC",
@@ -216,7 +284,7 @@
         "goalsDiff": 22,
         "group": "England Championship 20252026",
         "status": "same",
-        "description": "Copa Libertadores",
+        "description": "Copa Sul-Americana",
         "all": {
           "played": 30,
           "win": 15,
@@ -274,75 +342,143 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "team": {
-          "id": 229,
-          "name": "Millwall FC",
-          "logo": "https://cdn.footystats.org/img/teams/england-millwall-fc.png"
+          "id": 213,
+          "name": "Derby County FC",
+          "logo": "https://cdn.footystats.org/img/teams/england-derby-county-fc.png"
         },
-        "points": 53,
-        "goalsDiff": 3,
+        "points": 48,
+        "goalsDiff": 8,
         "group": "England Championship 20252026",
         "status": "same",
         "description": "Copa Sul-Americana",
         "all": {
-          "played": 31,
-          "win": 15,
-          "draw": 8,
-          "lose": 8,
+          "played": 32,
+          "win": 13,
+          "draw": 9,
+          "lose": 10,
           "goals": {
-            "for": 39,
-            "against": 36
+            "for": 47,
+            "against": 39
           },
-          "form": "WLWDW",
-          "btts_matches": 14,
-          "avg_corners_per_game": 5.19,
-          "aproveitamento": 57.0,
-          "over_2_5_goals": 14,
-          "over_0_5_ht": 14,
-          "over_0_5_ft": 15,
-          "clean_sheets": 12
+          "form": "WDWLW",
+          "btts_matches": 22,
+          "avg_corners_per_game": 4.81,
+          "aproveitamento": 50.0,
+          "over_2_5_goals": 16,
+          "over_0_5_ht": 17,
+          "over_0_5_ft": 21,
+          "clean_sheets": 8
         },
         "home": {
-          "played": 16,
-          "win": 9,
+          "played": 17,
+          "win": 5,
+          "draw": 6,
+          "lose": 6,
+          "goals": {
+            "for": 21,
+            "against": 23
+          },
+          "form_home": "WLDLW",
+          "avg_corners_home_per_game": 5.59,
+          "aproveitamento_home": 41.2,
+          "btts_home_matches": 12,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 8,
+          "over_0_5_ft_home": 11,
+          "clean_sheets_home": 4
+        },
+        "away": {
+          "played": 15,
+          "win": 8,
           "draw": 3,
+          "lose": 4,
+          "goals": {
+            "for": 26,
+            "against": 16
+          },
+          "form_visitor": "DLWWW",
+          "btts_away_matches": 10,
+          "avg_corners_away_per_game": 3.93,
+          "aproveitamento_away": 60.0,
+          "over_2_5_goals_away": 10,
+          "over_0_5_ht_away": 9,
+          "over_0_5_ft_away": 10,
+          "clean_sheets_away": 4
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 7,
+        "team": {
+          "id": 210,
+          "name": "Preston North End FC",
+          "logo": "https://cdn.footystats.org/img/teams/england-preston-north-end-fc.png"
+        },
+        "points": 48,
+        "goalsDiff": 4,
+        "group": "England Championship 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 32,
+          "win": 12,
+          "draw": 12,
+          "lose": 8,
+          "goals": {
+            "for": 40,
+            "against": 36
+          },
+          "form": "LLDWD",
+          "btts_matches": 18,
+          "avg_corners_per_game": 4.31,
+          "aproveitamento": 50.0,
+          "over_2_5_goals": 14,
+          "over_0_5_ht": 17,
+          "over_0_5_ft": 18,
+          "clean_sheets": 9
+        },
+        "home": {
+          "played": 17,
+          "win": 7,
+          "draw": 6,
           "lose": 4,
           "goals": {
             "for": 22,
             "against": 18
           },
-          "form_home": "DWWWD",
-          "avg_corners_home_per_game": 5.75,
-          "aproveitamento_home": 62.5,
-          "btts_home_matches": 6,
+          "form_home": "WLLWD",
+          "avg_corners_home_per_game": 4.88,
+          "aproveitamento_home": 52.9,
+          "btts_home_matches": 9,
           "over_2_5_goals_home": 8,
           "over_0_5_ht_home": 9,
-          "over_0_5_ft_home": 7,
-          "clean_sheets_home": 7
+          "over_0_5_ft_home": 10,
+          "clean_sheets_home": 5
         },
         "away": {
           "played": 15,
-          "win": 6,
-          "draw": 5,
+          "win": 5,
+          "draw": 6,
           "lose": 4,
           "goals": {
-            "for": 17,
+            "for": 18,
             "against": 18
           },
-          "form_visitor": "LDWLW",
-          "btts_away_matches": 8,
-          "avg_corners_away_per_game": 4.6,
-          "aproveitamento_away": 51.1,
+          "form_visitor": "DLWLD",
+          "btts_away_matches": 9,
+          "avg_corners_away_per_game": 3.67,
+          "aproveitamento_away": 46.7,
           "over_2_5_goals_away": 6,
-          "over_0_5_ht_away": 5,
+          "over_0_5_ht_away": 8,
           "over_0_5_ft_away": 8,
-          "clean_sheets_away": 5
+          "clean_sheets_away": 4
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 6,
+        "rank": 8,
         "team": {
           "id": 1837,
           "name": "Wrexham FC",
@@ -352,7 +488,7 @@
         "goalsDiff": 5,
         "group": "England Championship 20252026",
         "status": "same",
-        "description": "Copa Sul-Americana",
+        "description": "",
         "all": {
           "played": 31,
           "win": 12,
@@ -410,75 +546,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 7,
-        "team": {
-          "id": 210,
-          "name": "Preston North End FC",
-          "logo": "https://cdn.footystats.org/img/teams/england-preston-north-end-fc.png"
-        },
-        "points": 47,
-        "goalsDiff": 4,
-        "group": "England Championship 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 31,
-          "win": 12,
-          "draw": 11,
-          "lose": 8,
-          "goals": {
-            "for": 38,
-            "against": 34
-          },
-          "form": "LLLDW",
-          "btts_matches": 17,
-          "avg_corners_per_game": 4.16,
-          "aproveitamento": 50.5,
-          "over_2_5_goals": 13,
-          "over_0_5_ht": 16,
-          "over_0_5_ft": 17,
-          "clean_sheets": 9
-        },
-        "home": {
-          "played": 16,
-          "win": 7,
-          "draw": 5,
-          "lose": 4,
-          "goals": {
-            "for": 20,
-            "against": 16
-          },
-          "form_home": "DWLLW",
-          "avg_corners_home_per_game": 4.62,
-          "aproveitamento_home": 54.2,
-          "btts_home_matches": 8,
-          "over_2_5_goals_home": 7,
-          "over_0_5_ht_home": 8,
-          "over_0_5_ft_home": 9,
-          "clean_sheets_home": 5
-        },
-        "away": {
-          "played": 15,
-          "win": 5,
-          "draw": 6,
-          "lose": 4,
-          "goals": {
-            "for": 18,
-            "against": 18
-          },
-          "form_visitor": "DLWLD",
-          "btts_away_matches": 9,
-          "avg_corners_away_per_game": 3.67,
-          "aproveitamento_away": 46.7,
-          "over_2_5_goals_away": 6,
-          "over_0_5_ht_away": 8,
-          "over_0_5_ft_away": 8,
-          "clean_sheets_away": 4
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 8,
+        "rank": 9,
         "team": {
           "id": 207,
           "name": "Bristol City FC",
@@ -546,7 +614,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "team": {
           "id": 146,
           "name": "Southampton FC",
@@ -614,7 +682,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "team": {
           "id": 206,
           "name": "Birmingham City FC",
@@ -682,169 +750,33 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 11,
-        "team": {
-          "id": 213,
-          "name": "Derby County FC",
-          "logo": "https://cdn.footystats.org/img/teams/england-derby-county-fc.png"
-        },
-        "points": 45,
-        "goalsDiff": 6,
-        "group": "England Championship 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 31,
-          "win": 12,
-          "draw": 9,
-          "lose": 10,
-          "goals": {
-            "for": 45,
-            "against": 39
-          },
-          "form": "WWDWL",
-          "btts_matches": 22,
-          "avg_corners_per_game": 4.77,
-          "aproveitamento": 48.4,
-          "over_2_5_goals": 16,
-          "over_0_5_ht": 17,
-          "over_0_5_ft": 20,
-          "clean_sheets": 7
-        },
-        "home": {
-          "played": 16,
-          "win": 4,
-          "draw": 6,
-          "lose": 6,
-          "goals": {
-            "for": 19,
-            "against": 23
-          },
-          "form_home": "DWLDL",
-          "avg_corners_home_per_game": 5.56,
-          "aproveitamento_home": 37.5,
-          "btts_home_matches": 12,
-          "over_2_5_goals_home": 6,
-          "over_0_5_ht_home": 8,
-          "over_0_5_ft_home": 10,
-          "clean_sheets_home": 3
-        },
-        "away": {
-          "played": 15,
-          "win": 8,
-          "draw": 3,
-          "lose": 4,
-          "goals": {
-            "for": 26,
-            "against": 16
-          },
-          "form_visitor": "DLWWW",
-          "btts_away_matches": 10,
-          "avg_corners_away_per_game": 3.93,
-          "aproveitamento_away": 60.0,
-          "over_2_5_goals_away": 10,
-          "over_0_5_ht_away": 9,
-          "over_0_5_ft_away": 10,
-          "clean_sheets_away": 4
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
         "rank": 12,
-        "team": {
-          "id": 160,
-          "name": "Queens Park Rangers FC",
-          "logo": "https://cdn.footystats.org/img/teams/england-queens-park-rangers-fc.png"
-        },
-        "points": 44,
-        "goalsDiff": -1,
-        "group": "England Championship 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 31,
-          "win": 12,
-          "draw": 8,
-          "lose": 11,
-          "goals": {
-            "for": 42,
-            "against": 43
-          },
-          "form": "DDLWD",
-          "btts_matches": 21,
-          "avg_corners_per_game": 4.9,
-          "aproveitamento": 47.3,
-          "over_2_5_goals": 19,
-          "over_0_5_ht": 14,
-          "over_0_5_ft": 18,
-          "clean_sheets": 9
-        },
-        "home": {
-          "played": 15,
-          "win": 8,
-          "draw": 2,
-          "lose": 5,
-          "goals": {
-            "for": 28,
-            "against": 21
-          },
-          "form_home": "WLWLW",
-          "avg_corners_home_per_game": 5.73,
-          "aproveitamento_home": 57.8,
-          "btts_home_matches": 12,
-          "over_2_5_goals_home": 12,
-          "over_0_5_ht_home": 9,
-          "over_0_5_ft_home": 11,
-          "clean_sheets_home": 3
-        },
-        "away": {
-          "played": 16,
-          "win": 4,
-          "draw": 6,
-          "lose": 6,
-          "goals": {
-            "for": 14,
-            "against": 22
-          },
-          "form_visitor": "DLDDD",
-          "btts_away_matches": 9,
-          "avg_corners_away_per_game": 4.12,
-          "aproveitamento_away": 37.5,
-          "over_2_5_goals_away": 7,
-          "over_0_5_ht_away": 5,
-          "over_0_5_ft_away": 7,
-          "clean_sheets_away": 6
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 13,
         "team": {
           "id": 155,
           "name": "Watford FC",
           "logo": "https://cdn.footystats.org/img/teams/england-watford-fc.png"
         },
-        "points": 44,
+        "points": 45,
         "goalsDiff": 3,
         "group": "England Championship 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 31,
+          "played": 32,
           "win": 11,
-          "draw": 11,
+          "draw": 12,
           "lose": 9,
           "goals": {
-            "for": 39,
-            "against": 36
+            "for": 41,
+            "against": 38
           },
-          "form": "DDLDL",
-          "btts_matches": 19,
-          "avg_corners_per_game": 4.84,
-          "aproveitamento": 47.3,
-          "over_2_5_goals": 14,
+          "form": "DLDLD",
+          "btts_matches": 20,
+          "avg_corners_per_game": 4.91,
+          "aproveitamento": 46.9,
+          "over_2_5_goals": 15,
           "over_0_5_ht": 13,
-          "over_0_5_ft": 15,
+          "over_0_5_ft": 16,
           "clean_sheets": 5
         },
         "home": {
@@ -866,22 +798,90 @@
           "clean_sheets_home": 3
         },
         "away": {
-          "played": 15,
+          "played": 16,
           "win": 3,
+          "draw": 7,
+          "lose": 6,
+          "goals": {
+            "for": 17,
+            "against": 21
+          },
+          "form_visitor": "WDDLD",
+          "btts_away_matches": 10,
+          "avg_corners_away_per_game": 4.56,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 7,
+          "over_0_5_ht_away": 5,
+          "over_0_5_ft_away": 7,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 13,
+        "team": {
+          "id": 160,
+          "name": "Queens Park Rangers FC",
+          "logo": "https://cdn.footystats.org/img/teams/england-queens-park-rangers-fc.png"
+        },
+        "points": 44,
+        "goalsDiff": -3,
+        "group": "England Championship 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 32,
+          "win": 12,
+          "draw": 8,
+          "lose": 12,
+          "goals": {
+            "for": 43,
+            "against": 46
+          },
+          "form": "DLWDL",
+          "btts_matches": 22,
+          "avg_corners_per_game": 5.0,
+          "aproveitamento": 45.8,
+          "over_2_5_goals": 20,
+          "over_0_5_ht": 15,
+          "over_0_5_ft": 18,
+          "clean_sheets": 9
+        },
+        "home": {
+          "played": 16,
+          "win": 8,
+          "draw": 2,
+          "lose": 6,
+          "goals": {
+            "for": 29,
+            "against": 24
+          },
+          "form_home": "LWLWL",
+          "avg_corners_home_per_game": 5.88,
+          "aproveitamento_home": 54.2,
+          "btts_home_matches": 13,
+          "over_2_5_goals_home": 13,
+          "over_0_5_ht_home": 10,
+          "over_0_5_ft_home": 11,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 16,
+          "win": 4,
           "draw": 6,
           "lose": 6,
           "goals": {
-            "for": 15,
-            "against": 19
+            "for": 14,
+            "against": 22
           },
-          "form_visitor": "WWDDL",
+          "form_visitor": "DLDDD",
           "btts_away_matches": 9,
-          "avg_corners_away_per_game": 4.4,
-          "aproveitamento_away": 33.3,
-          "over_2_5_goals_away": 6,
+          "avg_corners_away_per_game": 4.12,
+          "aproveitamento_away": 37.5,
+          "over_2_5_goals_away": 7,
           "over_0_5_ht_away": 5,
-          "over_0_5_ft_away": 6,
-          "clean_sheets_away": 2
+          "over_0_5_ft_away": 7,
+          "clean_sheets_away": 6
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -956,28 +956,96 @@
       {
         "rank": 15,
         "team": {
+          "id": 251,
+          "name": "Sheffield United FC",
+          "logo": "https://cdn.footystats.org/img/teams/england-sheffield-united-fc.png"
+        },
+        "points": 42,
+        "goalsDiff": 0,
+        "group": "England Championship 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 32,
+          "win": 13,
+          "draw": 3,
+          "lose": 16,
+          "goals": {
+            "for": 45,
+            "against": 45
+          },
+          "form": "WDWLW",
+          "btts_matches": 15,
+          "avg_corners_per_game": 7.19,
+          "aproveitamento": 43.8,
+          "over_2_5_goals": 18,
+          "over_0_5_ht": 14,
+          "over_0_5_ft": 15,
+          "clean_sheets": 8
+        },
+        "home": {
+          "played": 15,
+          "win": 7,
+          "draw": 2,
+          "lose": 6,
+          "goals": {
+            "for": 25,
+            "against": 17
+          },
+          "form_home": "WWWWL",
+          "avg_corners_home_per_game": 8.0,
+          "aproveitamento_home": 51.1,
+          "btts_home_matches": 8,
+          "over_2_5_goals_home": 10,
+          "over_0_5_ht_home": 8,
+          "over_0_5_ft_home": 10,
+          "clean_sheets_home": 5
+        },
+        "away": {
+          "played": 17,
+          "win": 6,
+          "draw": 1,
+          "lose": 10,
+          "goals": {
+            "for": 20,
+            "against": 28
+          },
+          "form_visitor": "WLLDW",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 6.47,
+          "aproveitamento_away": 37.3,
+          "over_2_5_goals_away": 8,
+          "over_0_5_ht_away": 6,
+          "over_0_5_ft_away": 5,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 16,
+        "team": {
           "id": 154,
           "name": "Swansea City AFC",
           "logo": "https://cdn.footystats.org/img/teams/wales-swansea-city-afc.png"
         },
         "points": 42,
-        "goalsDiff": 1,
+        "goalsDiff": -1,
         "group": "England Championship 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 31,
+          "played": 32,
           "win": 12,
           "draw": 6,
-          "lose": 13,
+          "lose": 14,
           "goals": {
             "for": 38,
-            "against": 37
+            "against": 39
           },
-          "form": "DWLWW",
+          "form": "WLWWL",
           "btts_matches": 17,
-          "avg_corners_per_game": 4.97,
-          "aproveitamento": 45.2,
+          "avg_corners_per_game": 4.88,
+          "aproveitamento": 43.8,
           "over_2_5_goals": 15,
           "over_0_5_ht": 10,
           "over_0_5_ft": 20,
@@ -1002,90 +1070,22 @@
           "clean_sheets_home": 5
         },
         "away": {
-          "played": 15,
+          "played": 16,
           "win": 4,
           "draw": 2,
-          "lose": 9,
+          "lose": 10,
           "goals": {
             "for": 14,
-            "against": 19
+            "against": 21
           },
-          "form_visitor": "LWLLW",
+          "form_visitor": "WLLWL",
           "btts_away_matches": 7,
-          "avg_corners_away_per_game": 4.87,
-          "aproveitamento_away": 31.1,
+          "avg_corners_away_per_game": 4.69,
+          "aproveitamento_away": 29.2,
           "over_2_5_goals_away": 7,
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 8,
           "clean_sheets_away": 4
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 16,
-        "team": {
-          "id": 251,
-          "name": "Sheffield United FC",
-          "logo": "https://cdn.footystats.org/img/teams/england-sheffield-united-fc.png"
-        },
-        "points": 39,
-        "goalsDiff": -1,
-        "group": "England Championship 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 31,
-          "win": 12,
-          "draw": 3,
-          "lose": 16,
-          "goals": {
-            "for": 44,
-            "against": 45
-          },
-          "form": "LWDWL",
-          "btts_matches": 15,
-          "avg_corners_per_game": 7.29,
-          "aproveitamento": 41.9,
-          "over_2_5_goals": 18,
-          "over_0_5_ht": 14,
-          "over_0_5_ft": 14,
-          "clean_sheets": 7
-        },
-        "home": {
-          "played": 15,
-          "win": 7,
-          "draw": 2,
-          "lose": 6,
-          "goals": {
-            "for": 25,
-            "against": 17
-          },
-          "form_home": "WWWWL",
-          "avg_corners_home_per_game": 8.0,
-          "aproveitamento_home": 51.1,
-          "btts_home_matches": 8,
-          "over_2_5_goals_home": 10,
-          "over_0_5_ht_home": 8,
-          "over_0_5_ft_home": 10,
-          "clean_sheets_home": 5
-        },
-        "away": {
-          "played": 16,
-          "win": 5,
-          "draw": 1,
-          "lose": 10,
-          "goals": {
-            "for": 19,
-            "against": 28
-          },
-          "form_visitor": "LWLLD",
-          "btts_away_matches": 7,
-          "avg_corners_away_per_game": 6.62,
-          "aproveitamento_away": 33.3,
-          "over_2_5_goals_away": 8,
-          "over_0_5_ht_away": 6,
-          "over_0_5_ft_away": 4,
-          "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1296,6 +1296,74 @@
       {
         "rank": 20,
         "team": {
+          "id": 216,
+          "name": "Blackburn Rovers FC",
+          "logo": "https://cdn.footystats.org/img/teams/england-blackburn-rovers-fc.png"
+        },
+        "points": 35,
+        "goalsDiff": -11,
+        "group": "England Championship 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 32,
+          "win": 9,
+          "draw": 8,
+          "lose": 15,
+          "goals": {
+            "for": 30,
+            "against": 41
+          },
+          "form": "DLWLW",
+          "btts_matches": 15,
+          "avg_corners_per_game": 5.53,
+          "aproveitamento": 36.5,
+          "over_2_5_goals": 13,
+          "over_0_5_ht": 14,
+          "over_0_5_ft": 12,
+          "clean_sheets": 8
+        },
+        "home": {
+          "played": 16,
+          "win": 3,
+          "draw": 5,
+          "lose": 8,
+          "goals": {
+            "for": 15,
+            "against": 22
+          },
+          "form_home": "LDDLW",
+          "avg_corners_home_per_game": 6.25,
+          "aproveitamento_home": 29.2,
+          "btts_home_matches": 10,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 6,
+          "over_0_5_ft_home": 7,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 16,
+          "win": 6,
+          "draw": 3,
+          "lose": 7,
+          "goals": {
+            "for": 15,
+            "against": 19
+          },
+          "form_visitor": "DLLLW",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 4.81,
+          "aproveitamento_away": 43.8,
+          "over_2_5_goals_away": 7,
+          "over_0_5_ht_away": 8,
+          "over_0_5_ft_away": 5,
+          "clean_sheets_away": 6
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 21,
+        "team": {
           "id": 142,
           "name": "West Bromwich Albion FC",
           "logo": "https://cdn.footystats.org/img/teams/england-west-bromwich-albion-fc.png"
@@ -1362,47 +1430,47 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 21,
+        "rank": 22,
         "team": {
           "id": 272,
           "name": "Portsmouth FC",
           "logo": "https://cdn.footystats.org/img/teams/england-portsmouth-fc.png"
         },
         "points": 33,
-        "goalsDiff": -11,
+        "goalsDiff": -12,
         "group": "England Championship 20252026",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 29,
+          "played": 30,
           "win": 8,
           "draw": 9,
-          "lose": 12,
+          "lose": 13,
           "goals": {
             "for": 27,
-            "against": 38
+            "against": 39
           },
-          "form": "WDDWL",
+          "form": "DDWLL",
           "btts_matches": 14,
-          "avg_corners_per_game": 5.45,
-          "aproveitamento": 37.9,
+          "avg_corners_per_game": 5.63,
+          "aproveitamento": 36.7,
           "over_2_5_goals": 12,
           "over_0_5_ht": 9,
           "over_0_5_ft": 13,
           "clean_sheets": 7
         },
         "home": {
-          "played": 15,
+          "played": 16,
           "win": 6,
           "draw": 4,
-          "lose": 5,
+          "lose": 6,
           "goals": {
             "for": 18,
-            "against": 15
+            "against": 16
           },
-          "form_home": "WDWDW",
-          "avg_corners_home_per_game": 5.87,
-          "aproveitamento_home": 48.9,
+          "form_home": "DWDWL",
+          "avg_corners_home_per_game": 6.19,
+          "aproveitamento_home": 45.8,
           "btts_home_matches": 8,
           "over_2_5_goals_home": 7,
           "over_0_5_ht_home": 6,
@@ -1426,74 +1494,6 @@
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 5,
           "clean_sheets_away": 3
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 22,
-        "team": {
-          "id": 216,
-          "name": "Blackburn Rovers FC",
-          "logo": "https://cdn.footystats.org/img/teams/england-blackburn-rovers-fc.png"
-        },
-        "points": 32,
-        "goalsDiff": -13,
-        "group": "England Championship 20252026",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 31,
-          "win": 8,
-          "draw": 8,
-          "lose": 15,
-          "goals": {
-            "for": 27,
-            "against": 40
-          },
-          "form": "LDLWL",
-          "btts_matches": 14,
-          "avg_corners_per_game": 5.68,
-          "aproveitamento": 34.4,
-          "over_2_5_goals": 12,
-          "over_0_5_ht": 13,
-          "over_0_5_ft": 11,
-          "clean_sheets": 8
-        },
-        "home": {
-          "played": 16,
-          "win": 3,
-          "draw": 5,
-          "lose": 8,
-          "goals": {
-            "for": 15,
-            "against": 22
-          },
-          "form_home": "LDDLW",
-          "avg_corners_home_per_game": 6.25,
-          "aproveitamento_home": 29.2,
-          "btts_home_matches": 10,
-          "over_2_5_goals_home": 6,
-          "over_0_5_ht_home": 6,
-          "over_0_5_ft_home": 7,
-          "clean_sheets_home": 2
-        },
-        "away": {
-          "played": 15,
-          "win": 5,
-          "draw": 3,
-          "lose": 7,
-          "goals": {
-            "for": 12,
-            "against": 18
-          },
-          "form_visitor": "DDLLL",
-          "btts_away_matches": 4,
-          "avg_corners_away_per_game": 5.07,
-          "aproveitamento_away": 40.0,
-          "over_2_5_goals_away": 6,
-          "over_0_5_ht_away": 7,
-          "over_0_5_ft_away": 4,
-          "clean_sheets_away": 6
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1573,44 +1573,44 @@
           "logo": "https://cdn.footystats.org/img/teams/england-sheffield-wednesday-fc.png"
         },
         "points": 11,
-        "goalsDiff": -44,
+        "goalsDiff": -45,
         "group": "England Championship 20252026",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 31,
+          "played": 32,
           "win": 1,
           "draw": 8,
-          "lose": 22,
+          "lose": 23,
           "goals": {
-            "for": 18,
-            "against": 62
+            "for": 19,
+            "against": 64
           },
           "form": "LLLLL",
-          "btts_matches": 12,
-          "avg_corners_per_game": 4.68,
-          "aproveitamento": 11.8,
-          "over_2_5_goals": 17,
+          "btts_matches": 13,
+          "avg_corners_per_game": 4.62,
+          "aproveitamento": 11.5,
+          "over_2_5_goals": 18,
           "over_0_5_ht": 9,
-          "over_0_5_ft": 7,
+          "over_0_5_ft": 8,
           "clean_sheets": 3
         },
         "home": {
-          "played": 16,
+          "played": 17,
           "win": 0,
           "draw": 4,
-          "lose": 12,
+          "lose": 13,
           "goals": {
-            "for": 7,
-            "against": 33
+            "for": 8,
+            "against": 35
           },
-          "form_home": "DDLLL",
-          "avg_corners_home_per_game": 5.0,
-          "aproveitamento_home": 8.3,
-          "btts_home_matches": 5,
-          "over_2_5_goals_home": 8,
+          "form_home": "DLLLL",
+          "avg_corners_home_per_game": 4.88,
+          "aproveitamento_home": 7.8,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 9,
           "over_0_5_ht_home": 4,
-          "over_0_5_ft_home": 2,
+          "over_0_5_ft_home": 3,
           "clean_sheets_home": 1
         },
         "away": {
@@ -1642,7 +1642,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 15,
         "jogador-assists": 2,
-        "jogador-partidas": 29,
+        "jogador-partidas": 30,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/wales-swansea-city-afc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/slovenia-zan-vipotnik.png"
       },
@@ -1719,6 +1719,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/england-ellis-simms.png"
       },
       {
+        "jogador-nome": "Patrick Agyemang",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 10,
+        "jogador-assists": 2,
+        "jogador-partidas": 26,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/england-derby-county-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/ghana-patrick-agyemang.png"
+      },
+      {
         "jogador-nome": "Kieffer Roberto Francisco Moore",
         "jogador-posicao": "Forward",
         "jogador-gols": 10,
@@ -1750,7 +1759,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 10,
         "jogador-assists": 0,
-        "jogador-partidas": 16,
+        "jogador-partidas": 17,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/england-derby-county-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/england-carlton-morris.png"
       },
@@ -1780,15 +1789,6 @@
         "jogador-partidas": 24,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/england-leicester-city-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-jordan-james.png"
-      },
-      {
-        "jogador-nome": "Patrick Agyemang",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 9,
-        "jogador-assists": 2,
-        "jogador-partidas": 25,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/england-derby-county-fc.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/ghana-patrick-agyemang.png"
       },
       {
         "jogador-nome": "Jaden Philogene-Bidace",
