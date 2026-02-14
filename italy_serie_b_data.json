@@ -276,6 +276,74 @@
       {
         "rank": 5,
         "team": {
+          "id": 2350,
+          "name": "Catanzaro Calcio 2011",
+          "logo": "https://cdn.footystats.org/img/teams/italy-catanzaro-calcio-2011.png"
+        },
+        "points": 41,
+        "goalsDiff": 8,
+        "group": "Italy Serie B 20252026",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 25,
+          "win": 11,
+          "draw": 8,
+          "lose": 6,
+          "goals": {
+            "for": 34,
+            "against": 26
+          },
+          "form": "DLWWW",
+          "btts_matches": 13,
+          "avg_corners_per_game": 4.0,
+          "aproveitamento": 54.7,
+          "over_2_5_goals": 11,
+          "over_0_5_ht": 12,
+          "over_0_5_ft": 14,
+          "clean_sheets": 9
+        },
+        "home": {
+          "played": 13,
+          "win": 7,
+          "draw": 5,
+          "lose": 1,
+          "goals": {
+            "for": 20,
+            "against": 11
+          },
+          "form_home": "WWDWW",
+          "avg_corners_home_per_game": 4.15,
+          "aproveitamento_home": 66.7,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 6,
+          "over_0_5_ft_home": 9,
+          "clean_sheets_home": 6
+        },
+        "away": {
+          "played": 12,
+          "win": 4,
+          "draw": 3,
+          "lose": 5,
+          "goals": {
+            "for": 14,
+            "against": 15
+          },
+          "form_visitor": "WLLLW",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 3.83,
+          "aproveitamento_away": 41.7,
+          "over_2_5_goals_away": 7,
+          "over_0_5_ht_away": 6,
+          "over_0_5_ft_away": 5,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 6,
+        "team": {
           "id": 517,
           "name": "Modena FC",
           "logo": "https://cdn.footystats.org/img/teams/italy-modena-fc.png"
@@ -338,74 +406,6 @@
           "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 5,
           "clean_sheets_away": 6
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 6,
-        "team": {
-          "id": 2350,
-          "name": "Catanzaro Calcio 2011",
-          "logo": "https://cdn.footystats.org/img/teams/italy-catanzaro-calcio-2011.png"
-        },
-        "points": 38,
-        "goalsDiff": 6,
-        "group": "Italy Serie B 20252026",
-        "status": "same",
-        "description": "Copa Sul-Americana",
-        "all": {
-          "played": 24,
-          "win": 10,
-          "draw": 8,
-          "lose": 6,
-          "goals": {
-            "for": 32,
-            "against": 26
-          },
-          "form": "LDLWW",
-          "btts_matches": 13,
-          "avg_corners_per_game": 4.08,
-          "aproveitamento": 52.8,
-          "over_2_5_goals": 11,
-          "over_0_5_ht": 11,
-          "over_0_5_ft": 14,
-          "clean_sheets": 8
-        },
-        "home": {
-          "played": 12,
-          "win": 6,
-          "draw": 5,
-          "lose": 1,
-          "goals": {
-            "for": 18,
-            "against": 11
-          },
-          "form_home": "WWWDW",
-          "avg_corners_home_per_game": 4.33,
-          "aproveitamento_home": 63.9,
-          "btts_home_matches": 6,
-          "over_2_5_goals_home": 4,
-          "over_0_5_ht_home": 5,
-          "over_0_5_ft_home": 9,
-          "clean_sheets_home": 5
-        },
-        "away": {
-          "played": 12,
-          "win": 4,
-          "draw": 3,
-          "lose": 5,
-          "goals": {
-            "for": 14,
-            "against": 15
-          },
-          "form_visitor": "WLLLW",
-          "btts_away_matches": 7,
-          "avg_corners_away_per_game": 3.83,
-          "aproveitamento_away": 41.7,
-          "over_2_5_goals_away": 7,
-          "over_0_5_ht_away": 6,
-          "over_0_5_ft_away": 5,
-          "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1097,23 +1097,23 @@
           "logo": "https://cdn.footystats.org/img/teams/italy-mantova-fc.png"
         },
         "points": 23,
-        "goalsDiff": -14,
+        "goalsDiff": -16,
         "group": "Italy Serie B 20252026",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 24,
+          "played": 25,
           "win": 6,
           "draw": 5,
-          "lose": 13,
+          "lose": 14,
           "goals": {
             "for": 24,
-            "against": 38
+            "against": 40
           },
-          "form": "WLDWL",
+          "form": "LDWLL",
           "btts_matches": 13,
-          "avg_corners_per_game": 4.75,
-          "aproveitamento": 31.9,
+          "avg_corners_per_game": 5.0,
+          "aproveitamento": 30.7,
           "over_2_5_goals": 12,
           "over_0_5_ht": 9,
           "over_0_5_ft": 12,
@@ -1138,18 +1138,18 @@
           "clean_sheets_home": 1
         },
         "away": {
-          "played": 12,
+          "played": 13,
           "win": 2,
           "draw": 3,
-          "lose": 7,
+          "lose": 8,
           "goals": {
             "for": 8,
-            "against": 15
+            "against": 17
           },
-          "form_visitor": "LDWDL",
+          "form_visitor": "DWDLL",
           "btts_away_matches": 4,
-          "avg_corners_away_per_game": 3.58,
-          "aproveitamento_away": 25.0,
+          "avg_corners_away_per_game": 4.15,
+          "aproveitamento_away": 23.1,
           "over_2_5_goals_away": 5,
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 4,
@@ -1456,6 +1456,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/-farès-ghedjemis.png"
       },
       {
+        "jogador-nome": "Pietro Iemmello",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 7,
+        "jogador-assists": 6,
+        "jogador-partidas": 25,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/italy-catanzaro-calcio-2011.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/italy-pietro-iemmello.png"
+      },
+      {
         "jogador-nome": "Leonardo Candellone",
         "jogador-posicao": "Forward",
         "jogador-gols": 7,
@@ -1469,18 +1478,9 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 7,
         "jogador-assists": 1,
-        "jogador-partidas": 17,
+        "jogador-partidas": 18,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/italy-mantova-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-francesco-ruocco.png"
-      },
-      {
-        "jogador-nome": "Pietro Iemmello",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 6,
-        "jogador-assists": 5,
-        "jogador-partidas": 24,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/italy-catanzaro-calcio-2011.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/italy-pietro-iemmello.png"
       },
       {
         "jogador-nome": "Ilias Koutsoupias",
