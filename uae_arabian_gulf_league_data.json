@@ -344,6 +344,74 @@
       {
         "rank": 6,
         "team": {
+          "id": 4400,
+          "name": "Ajman Club",
+          "logo": "https://cdn.footystats.org/img/teams/uae-ajman-club.png"
+        },
+        "points": 20,
+        "goalsDiff": -4,
+        "group": "UAE Arabian Gulf League 20252026",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 16,
+          "win": 6,
+          "draw": 2,
+          "lose": 8,
+          "goals": {
+            "for": 16,
+            "against": 20
+          },
+          "form": "LDLWW",
+          "btts_matches": 5,
+          "avg_corners_per_game": 4.38,
+          "aproveitamento": 41.7,
+          "over_2_5_goals": 6,
+          "over_0_5_ht": 3,
+          "over_0_5_ft": 8,
+          "clean_sheets": 5
+        },
+        "home": {
+          "played": 8,
+          "win": 2,
+          "draw": 1,
+          "lose": 5,
+          "goals": {
+            "for": 5,
+            "against": 10
+          },
+          "form_home": "LWLDL",
+          "avg_corners_home_per_game": 4.75,
+          "aproveitamento_home": 29.2,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 0,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 8,
+          "win": 4,
+          "draw": 1,
+          "lose": 3,
+          "goals": {
+            "for": 11,
+            "against": 10
+          },
+          "form_visitor": "DLLWW",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 4.0,
+          "aproveitamento_away": 54.2,
+          "over_2_5_goals_away": 4,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 7,
+        "team": {
           "id": 4402,
           "name": "Al Nasr SC Dubai",
           "logo": "https://cdn.footystats.org/img/teams/uae-al-nasr-sc-dubai.png"
@@ -352,7 +420,7 @@
         "goalsDiff": -1,
         "group": "UAE Arabian Gulf League 20252026",
         "status": "same",
-        "description": "Copa Sul-Americana",
+        "description": "",
         "all": {
           "played": 15,
           "win": 5,
@@ -410,51 +478,51 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "team": {
           "id": 5077,
           "name": "Al Khaleej Saihat",
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-khaleej-saihat.png"
         },
         "points": 18,
-        "goalsDiff": -3,
+        "goalsDiff": -6,
         "group": "UAE Arabian Gulf League 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 15,
+          "played": 16,
           "win": 5,
           "draw": 3,
-          "lose": 7,
+          "lose": 8,
           "goals": {
-            "for": 20,
-            "against": 23
+            "for": 22,
+            "against": 28
           },
-          "form": "LLDWW",
-          "btts_matches": 8,
-          "avg_corners_per_game": 2.27,
-          "aproveitamento": 40.0,
-          "over_2_5_goals": 9,
+          "form": "LDWWL",
+          "btts_matches": 9,
+          "avg_corners_per_game": 2.56,
+          "aproveitamento": 37.5,
+          "over_2_5_goals": 10,
           "over_0_5_ht": 9,
-          "over_0_5_ft": 6,
+          "over_0_5_ft": 7,
           "clean_sheets": 3
         },
         "home": {
-          "played": 7,
+          "played": 8,
           "win": 1,
           "draw": 3,
-          "lose": 3,
+          "lose": 4,
           "goals": {
-            "for": 10,
-            "against": 13
+            "for": 12,
+            "against": 18
           },
-          "form_home": "LDLLD",
-          "avg_corners_home_per_game": 1.71,
-          "aproveitamento_home": 28.6,
-          "btts_home_matches": 5,
-          "over_2_5_goals_home": 4,
+          "form_home": "DLLDL",
+          "avg_corners_home_per_game": 2.38,
+          "aproveitamento_home": 25.0,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 5,
           "over_0_5_ht_home": 4,
-          "over_0_5_ft_home": 3,
+          "over_0_5_ft_home": 4,
           "clean_sheets_home": 1
         },
         "away": {
@@ -478,7 +546,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "team": {
           "id": 4407,
           "name": "Al Sharjah SCC",
@@ -542,74 +610,6 @@
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 5,
           "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 9,
-        "team": {
-          "id": 4400,
-          "name": "Ajman Club",
-          "logo": "https://cdn.footystats.org/img/teams/uae-ajman-club.png"
-        },
-        "points": 17,
-        "goalsDiff": -7,
-        "group": "UAE Arabian Gulf League 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 15,
-          "win": 5,
-          "draw": 2,
-          "lose": 8,
-          "goals": {
-            "for": 11,
-            "against": 18
-          },
-          "form": "LLDLW",
-          "btts_matches": 4,
-          "avg_corners_per_game": 4.6,
-          "aproveitamento": 37.8,
-          "over_2_5_goals": 5,
-          "over_0_5_ht": 2,
-          "over_0_5_ft": 7,
-          "clean_sheets": 5
-        },
-        "home": {
-          "played": 8,
-          "win": 2,
-          "draw": 1,
-          "lose": 5,
-          "goals": {
-            "for": 5,
-            "against": 10
-          },
-          "form_home": "LWLDL",
-          "avg_corners_home_per_game": 4.75,
-          "aproveitamento_home": 29.2,
-          "btts_home_matches": 2,
-          "over_2_5_goals_home": 2,
-          "over_0_5_ht_home": 0,
-          "over_0_5_ft_home": 4,
-          "clean_sheets_home": 2
-        },
-        "away": {
-          "played": 7,
-          "win": 3,
-          "draw": 1,
-          "lose": 3,
-          "goals": {
-            "for": 6,
-            "against": 8
-          },
-          "form_visitor": "WDLLW",
-          "btts_away_matches": 2,
-          "avg_corners_away_per_game": 4.43,
-          "aproveitamento_away": 47.6,
-          "over_2_5_goals_away": 3,
-          "over_0_5_ht_away": 2,
-          "over_0_5_ft_away": 3,
-          "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -980,7 +980,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 7,
         "jogador-assists": 3,
-        "jogador-partidas": 15,
+        "jogador-partidas": 16,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-khaleej-saihat.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/netherlands-tarik-tissoudali.png"
       },
@@ -1019,6 +1019,15 @@
         "jogador-partidas": 10,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/uae-al-jazira-scc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/france-nabil-fekir.png"
+      },
+      {
+        "jogador-nome": "Walid Azarou",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 5,
+        "jogador-assists": 0,
+        "jogador-partidas": 14,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/uae-ajman-club.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/morocco-walid-azarou.png"
       },
       {
         "jogador-nome": "Shahriar Moghanlou",
@@ -1127,15 +1136,6 @@
         "jogador-partidas": 12,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/uae-al-wahda-fc-abu-dhabi.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/argentina-facundo-daniel-kruspzky.png"
-      },
-      {
-        "jogador-nome": "Bruno Conçeicão de Oliveira",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 4,
-        "jogador-assists": 0,
-        "jogador-partidas": 14,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/uae-al-jazira-scc.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-bruno-conceicao-de-oliveira.png"
       }
     ]
   }
