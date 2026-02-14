@@ -412,6 +412,74 @@
       {
         "rank": 7,
         "team": {
+          "id": 4546,
+          "name": "Burgos CF",
+          "logo": "https://cdn.footystats.org/img/teams/spain-burgos-cf.png"
+        },
+        "points": 40,
+        "goalsDiff": 4,
+        "group": "Spain Segunda División 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 26,
+          "win": 11,
+          "draw": 7,
+          "lose": 8,
+          "goals": {
+            "for": 29,
+            "against": 25
+          },
+          "form": "WLWDD",
+          "btts_matches": 12,
+          "avg_corners_per_game": 3.81,
+          "aproveitamento": 51.3,
+          "over_2_5_goals": 10,
+          "over_0_5_ht": 8,
+          "over_0_5_ft": 13,
+          "clean_sheets": 8
+        },
+        "home": {
+          "played": 14,
+          "win": 6,
+          "draw": 5,
+          "lose": 3,
+          "goals": {
+            "for": 15,
+            "against": 10
+          },
+          "form_home": "DWWWD",
+          "avg_corners_home_per_game": 3.79,
+          "aproveitamento_home": 54.8,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 7,
+          "clean_sheets_home": 5
+        },
+        "away": {
+          "played": 12,
+          "win": 5,
+          "draw": 2,
+          "lose": 5,
+          "goals": {
+            "for": 14,
+            "against": 15
+          },
+          "form_visitor": "LWLLD",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 3.83,
+          "aproveitamento_away": 47.2,
+          "over_2_5_goals_away": 7,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 6,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 8,
+        "team": {
           "id": 276,
           "name": "UD Las Palmas",
           "logo": "https://cdn.footystats.org/img/teams/spain-ud-las-palmas.png"
@@ -478,7 +546,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "team": {
           "id": 289,
           "name": "Real Sporting de Gijón",
@@ -541,74 +609,6 @@
           "over_2_5_goals_away": 6,
           "over_0_5_ht_away": 6,
           "over_0_5_ft_away": 5,
-          "clean_sheets_away": 3
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 9,
-        "team": {
-          "id": 4546,
-          "name": "Burgos CF",
-          "logo": "https://cdn.footystats.org/img/teams/spain-burgos-cf.png"
-        },
-        "points": 39,
-        "goalsDiff": 4,
-        "group": "Spain Segunda División 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 25,
-          "win": 11,
-          "draw": 6,
-          "lose": 8,
-          "goals": {
-            "for": 28,
-            "against": 24
-          },
-          "form": "WWLWD",
-          "btts_matches": 11,
-          "avg_corners_per_game": 3.72,
-          "aproveitamento": 52.0,
-          "over_2_5_goals": 10,
-          "over_0_5_ht": 7,
-          "over_0_5_ft": 13,
-          "clean_sheets": 8
-        },
-        "home": {
-          "played": 13,
-          "win": 6,
-          "draw": 4,
-          "lose": 3,
-          "goals": {
-            "for": 14,
-            "against": 9
-          },
-          "form_home": "LDWWW",
-          "avg_corners_home_per_game": 3.62,
-          "aproveitamento_home": 56.4,
-          "btts_home_matches": 5,
-          "over_2_5_goals_home": 3,
-          "over_0_5_ht_home": 3,
-          "over_0_5_ft_home": 7,
-          "clean_sheets_home": 5
-        },
-        "away": {
-          "played": 12,
-          "win": 5,
-          "draw": 2,
-          "lose": 5,
-          "goals": {
-            "for": 14,
-            "against": 15
-          },
-          "form_visitor": "LWLLD",
-          "btts_away_matches": 6,
-          "avg_corners_away_per_game": 3.83,
-          "aproveitamento_away": 47.2,
-          "over_2_5_goals_away": 7,
-          "over_0_5_ht_away": 4,
-          "over_0_5_ft_away": 6,
           "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -688,26 +688,26 @@
           "name": "Cádiz CF",
           "logo": "https://cdn.footystats.org/img/teams/spain-cadiz-cf.png"
         },
-        "points": 34,
+        "points": 35,
         "goalsDiff": -2,
         "group": "Spain Segunda División 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 25,
+          "played": 26,
           "win": 9,
-          "draw": 7,
+          "draw": 8,
           "lose": 9,
           "goals": {
-            "for": 27,
-            "against": 29
+            "for": 28,
+            "against": 30
           },
-          "form": "WLLLL",
-          "btts_matches": 12,
-          "avg_corners_per_game": 5.12,
-          "aproveitamento": 45.3,
+          "form": "LLLLD",
+          "btts_matches": 13,
+          "avg_corners_per_game": 4.92,
+          "aproveitamento": 44.9,
           "over_2_5_goals": 12,
-          "over_0_5_ht": 10,
+          "over_0_5_ht": 11,
           "over_0_5_ft": 11,
           "clean_sheets": 9
         },
@@ -730,20 +730,20 @@
           "clean_sheets_home": 6
         },
         "away": {
-          "played": 12,
+          "played": 13,
           "win": 3,
-          "draw": 5,
+          "draw": 6,
           "lose": 4,
           "goals": {
-            "for": 11,
-            "against": 14
+            "for": 12,
+            "against": 15
           },
-          "form_visitor": "WWDLL",
-          "btts_away_matches": 5,
-          "avg_corners_away_per_game": 4.25,
-          "aproveitamento_away": 38.9,
+          "form_visitor": "WDLLD",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 3.92,
+          "aproveitamento_away": 38.5,
           "over_2_5_goals_away": 5,
-          "over_0_5_ht_away": 3,
+          "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 5,
           "clean_sheets_away": 3
         },
@@ -1628,6 +1628,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/spain-jon-morcillo.png"
       },
       {
+        "jogador-nome": "David González Ballesteros",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 7,
+        "jogador-assists": 4,
+        "jogador-partidas": 25,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/spain-burgos-cf.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/spain-david-gonzalez-ballesteros.png"
+      },
+      {
         "jogador-nome": "César Gelabert Piña",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 7,
@@ -1662,15 +1671,6 @@
         "jogador-partidas": 23,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/spain-albacete-balompie.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/spain-agustin-medina-delgado.png"
-      },
-      {
-        "jogador-nome": "David González Ballesteros",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 6,
-        "jogador-assists": 4,
-        "jogador-partidas": 24,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/spain-burgos-cf.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/spain-david-gonzalez-ballesteros.png"
       },
       {
         "jogador-nome": "David Larrubia Romano",
