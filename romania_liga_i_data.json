@@ -480,6 +480,74 @@
       {
         "rank": 8,
         "team": {
+          "id": 6633,
+          "name": "FC Oţelul Galaţi",
+          "logo": "https://cdn.footystats.org/img/teams/romania-fc-otelul-galati.png"
+        },
+        "points": 40,
+        "goalsDiff": 13,
+        "group": "Romania Liga I 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 27,
+          "win": 11,
+          "draw": 7,
+          "lose": 9,
+          "goals": {
+            "for": 37,
+            "against": 24
+          },
+          "form": "WDLLW",
+          "btts_matches": 10,
+          "avg_corners_per_game": 4.3,
+          "aproveitamento": 49.4,
+          "over_2_5_goals": 12,
+          "over_0_5_ht": 15,
+          "over_0_5_ft": 12,
+          "clean_sheets": 11
+        },
+        "home": {
+          "played": 13,
+          "win": 7,
+          "draw": 3,
+          "lose": 3,
+          "goals": {
+            "for": 24,
+            "against": 13
+          },
+          "form_home": "DWWWL",
+          "avg_corners_home_per_game": 4.31,
+          "aproveitamento_home": 61.5,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 9,
+          "over_0_5_ht_home": 9,
+          "over_0_5_ft_home": 8,
+          "clean_sheets_home": 5
+        },
+        "away": {
+          "played": 14,
+          "win": 4,
+          "draw": 4,
+          "lose": 6,
+          "goals": {
+            "for": 13,
+            "against": 11
+          },
+          "form_visitor": "WLDLW",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 4.29,
+          "aproveitamento_away": 38.1,
+          "over_2_5_goals_away": 3,
+          "over_0_5_ht_away": 6,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 6
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 9,
+        "team": {
           "id": 97,
           "name": "SC Fotbal Club FCSB SA",
           "logo": "https://cdn.footystats.org/img/teams/romania-sc-fotbal-club-fcsb-sa.png"
@@ -546,7 +614,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "team": {
           "id": 6653,
           "name": "AFC UTA Arad",
@@ -610,74 +678,6 @@
           "over_0_5_ht_away": 6,
           "over_0_5_ft_away": 7,
           "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 10,
-        "team": {
-          "id": 6633,
-          "name": "FC Oţelul Galaţi",
-          "logo": "https://cdn.footystats.org/img/teams/romania-fc-otelul-galati.png"
-        },
-        "points": 37,
-        "goalsDiff": 12,
-        "group": "Romania Liga I 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 26,
-          "win": 10,
-          "draw": 7,
-          "lose": 9,
-          "goals": {
-            "for": 36,
-            "against": 24
-          },
-          "form": "LWDLL",
-          "btts_matches": 10,
-          "avg_corners_per_game": 4.35,
-          "aproveitamento": 47.4,
-          "over_2_5_goals": 12,
-          "over_0_5_ht": 14,
-          "over_0_5_ft": 12,
-          "clean_sheets": 10
-        },
-        "home": {
-          "played": 13,
-          "win": 7,
-          "draw": 3,
-          "lose": 3,
-          "goals": {
-            "for": 24,
-            "against": 13
-          },
-          "form_home": "DWWWL",
-          "avg_corners_home_per_game": 4.31,
-          "aproveitamento_home": 61.5,
-          "btts_home_matches": 7,
-          "over_2_5_goals_home": 9,
-          "over_0_5_ht_home": 9,
-          "over_0_5_ft_home": 8,
-          "clean_sheets_home": 5
-        },
-        "away": {
-          "played": 13,
-          "win": 3,
-          "draw": 4,
-          "lose": 6,
-          "goals": {
-            "for": 12,
-            "against": 11
-          },
-          "form_visitor": "LWLDL",
-          "btts_away_matches": 3,
-          "avg_corners_away_per_game": 4.38,
-          "aproveitamento_away": 33.3,
-          "over_2_5_goals_away": 3,
-          "over_0_5_ht_away": 5,
-          "over_0_5_ft_away": 4,
-          "clean_sheets_away": 5
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1029,40 +1029,40 @@
           "logo": "https://cdn.footystats.org/img/teams/romania-cs-metaloglobus-bucuresti.png"
         },
         "points": 11,
-        "goalsDiff": -36,
+        "goalsDiff": -37,
         "group": "Romania Liga I 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 26,
+          "played": 27,
           "win": 2,
           "draw": 5,
-          "lose": 19,
+          "lose": 20,
           "goals": {
             "for": 21,
-            "against": 57
+            "against": 58
           },
           "form": "LLLLL",
           "btts_matches": 15,
-          "avg_corners_per_game": 4.31,
-          "aproveitamento": 14.1,
+          "avg_corners_per_game": 4.3,
+          "aproveitamento": 13.6,
           "over_2_5_goals": 17,
           "over_0_5_ht": 7,
           "over_0_5_ft": 10,
           "clean_sheets": 1
         },
         "home": {
-          "played": 13,
+          "played": 14,
           "win": 2,
           "draw": 3,
-          "lose": 8,
+          "lose": 9,
           "goals": {
             "for": 10,
-            "against": 22
+            "against": 23
           },
-          "form_home": "DWLLL",
-          "avg_corners_home_per_game": 5.15,
-          "aproveitamento_home": 23.1,
+          "form_home": "WLLLL",
+          "avg_corners_home_per_game": 5.07,
+          "aproveitamento_home": 21.4,
           "btts_home_matches": 7,
           "over_2_5_goals_home": 6,
           "over_0_5_ht_home": 3,
