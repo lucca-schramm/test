@@ -212,46 +212,46 @@
           "name": "US Città di Palermo",
           "logo": "https://cdn.footystats.org/img/teams/italy-us-citta-di-palermo.png"
         },
-        "points": 45,
-        "goalsDiff": 20,
+        "points": 48,
+        "goalsDiff": 23,
         "group": "Italy Serie B 20252026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 24,
-          "win": 12,
+          "played": 25,
+          "win": 13,
           "draw": 9,
           "lose": 3,
           "goals": {
-            "for": 39,
+            "for": 42,
             "against": 19
           },
-          "form": "WDWWD",
+          "form": "DWWDW",
           "btts_matches": 10,
-          "avg_corners_per_game": 5.04,
-          "aproveitamento": 62.5,
-          "over_2_5_goals": 10,
-          "over_0_5_ht": 13,
-          "over_0_5_ft": 13,
-          "clean_sheets": 11
+          "avg_corners_per_game": 4.96,
+          "aproveitamento": 64.0,
+          "over_2_5_goals": 11,
+          "over_0_5_ht": 14,
+          "over_0_5_ft": 14,
+          "clean_sheets": 12
         },
         "home": {
-          "played": 12,
-          "win": 8,
+          "played": 13,
+          "win": 9,
           "draw": 3,
           "lose": 1,
           "goals": {
-            "for": 21,
+            "for": 24,
             "against": 7
           },
           "form_home": "WWWWW",
-          "avg_corners_home_per_game": 5.25,
-          "aproveitamento_home": 75.0,
+          "avg_corners_home_per_game": 5.08,
+          "aproveitamento_home": 76.9,
           "btts_home_matches": 3,
-          "over_2_5_goals_home": 5,
-          "over_0_5_ht_home": 8,
-          "over_0_5_ft_home": 5,
-          "clean_sheets_home": 8
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 9,
+          "over_0_5_ft_home": 6,
+          "clean_sheets_home": 9
         },
         "away": {
           "played": 12,
@@ -275,6 +275,74 @@
       },
       {
         "rank": 5,
+        "team": {
+          "id": 517,
+          "name": "Modena FC",
+          "logo": "https://cdn.footystats.org/img/teams/italy-modena-fc.png"
+        },
+        "points": 40,
+        "goalsDiff": 14,
+        "group": "Italy Serie B 20252026",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 25,
+          "win": 11,
+          "draw": 7,
+          "lose": 7,
+          "goals": {
+            "for": 33,
+            "against": 19
+          },
+          "form": "DDLWW",
+          "btts_matches": 10,
+          "avg_corners_per_game": 5.88,
+          "aproveitamento": 53.3,
+          "over_2_5_goals": 10,
+          "over_0_5_ht": 10,
+          "over_0_5_ft": 14,
+          "clean_sheets": 12
+        },
+        "home": {
+          "played": 13,
+          "win": 6,
+          "draw": 3,
+          "lose": 4,
+          "goals": {
+            "for": 19,
+            "against": 11
+          },
+          "form_home": "LLDLW",
+          "avg_corners_home_per_game": 4.77,
+          "aproveitamento_home": 53.8,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 8,
+          "over_0_5_ht_home": 6,
+          "over_0_5_ft_home": 9,
+          "clean_sheets_home": 6
+        },
+        "away": {
+          "played": 12,
+          "win": 5,
+          "draw": 4,
+          "lose": 3,
+          "goals": {
+            "for": 14,
+            "against": 8
+          },
+          "form_visitor": "WLWDW",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 7.08,
+          "aproveitamento_away": 52.8,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 5,
+          "clean_sheets_away": 6
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 6,
         "team": {
           "id": 2350,
           "name": "Catanzaro Calcio 2011",
@@ -342,7 +410,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "team": {
           "id": 520,
           "name": "SS Juve Stabia",
@@ -352,7 +420,7 @@
         "goalsDiff": 2,
         "group": "Italy Serie B 20252026",
         "status": "same",
-        "description": "Copa Sul-Americana",
+        "description": "",
         "all": {
           "played": 24,
           "win": 9,
@@ -410,7 +478,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "team": {
           "id": 475,
           "name": "AC Cesena",
@@ -478,74 +546,6 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 8,
-        "team": {
-          "id": 517,
-          "name": "Modena FC",
-          "logo": "https://cdn.footystats.org/img/teams/italy-modena-fc.png"
-        },
-        "points": 37,
-        "goalsDiff": 12,
-        "group": "Italy Serie B 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 24,
-          "win": 10,
-          "draw": 7,
-          "lose": 7,
-          "goals": {
-            "for": 31,
-            "against": 19
-          },
-          "form": "WDDLW",
-          "btts_matches": 10,
-          "avg_corners_per_game": 5.88,
-          "aproveitamento": 51.4,
-          "over_2_5_goals": 10,
-          "over_0_5_ht": 9,
-          "over_0_5_ft": 13,
-          "clean_sheets": 11
-        },
-        "home": {
-          "played": 12,
-          "win": 5,
-          "draw": 3,
-          "lose": 4,
-          "goals": {
-            "for": 17,
-            "against": 11
-          },
-          "form_home": "LLLDL",
-          "avg_corners_home_per_game": 4.67,
-          "aproveitamento_home": 50.0,
-          "btts_home_matches": 7,
-          "over_2_5_goals_home": 8,
-          "over_0_5_ht_home": 5,
-          "over_0_5_ft_home": 8,
-          "clean_sheets_home": 5
-        },
-        "away": {
-          "played": 12,
-          "win": 5,
-          "draw": 4,
-          "lose": 3,
-          "goals": {
-            "for": 14,
-            "against": 8
-          },
-          "form_visitor": "WLWDW",
-          "btts_away_matches": 3,
-          "avg_corners_away_per_game": 7.08,
-          "aproveitamento_away": 52.8,
-          "over_2_5_goals_away": 2,
-          "over_0_5_ht_away": 4,
-          "over_0_5_ft_away": 5,
-          "clean_sheets_away": 6
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
         "rank": 9,
         "team": {
           "id": 2358,
@@ -553,23 +553,23 @@
           "logo": "https://cdn.footystats.org/img/teams/italy-carrarese-calcio.png"
         },
         "points": 30,
-        "goalsDiff": -2,
+        "goalsDiff": -4,
         "group": "Italy Serie B 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 24,
+          "played": 25,
           "win": 7,
           "draw": 9,
-          "lose": 8,
+          "lose": 9,
           "goals": {
             "for": 31,
-            "against": 33
+            "against": 35
           },
-          "form": "WWLDL",
+          "form": "WLDLL",
           "btts_matches": 12,
-          "avg_corners_per_game": 5.29,
-          "aproveitamento": 41.7,
+          "avg_corners_per_game": 5.28,
+          "aproveitamento": 40.0,
           "over_2_5_goals": 13,
           "over_0_5_ht": 9,
           "over_0_5_ft": 15,
@@ -594,18 +594,18 @@
           "clean_sheets_home": 8
         },
         "away": {
-          "played": 12,
+          "played": 13,
           "win": 2,
           "draw": 4,
-          "lose": 6,
+          "lose": 7,
           "goals": {
             "for": 15,
-            "against": 24
+            "against": 26
           },
-          "form_visitor": "LLWLL",
+          "form_visitor": "LWLLL",
           "btts_away_matches": 9,
-          "avg_corners_away_per_game": 5.25,
-          "aproveitamento_away": 27.8,
+          "avg_corners_away_per_game": 5.23,
+          "aproveitamento_away": 25.6,
           "over_2_5_goals_away": 8,
           "over_0_5_ht_away": 5,
           "over_0_5_ft_away": 9,
@@ -684,9 +684,9 @@
       {
         "rank": 11,
         "team": {
-          "id": 2314,
-          "name": "Calcio Padova Spa",
-          "logo": "https://cdn.footystats.org/img/teams/italy-calcio-padova-spa.png"
+          "id": 465,
+          "name": "UC Sampdoria",
+          "logo": "https://cdn.footystats.org/img/teams/italy-uc-sampdoria.png"
         },
         "points": 29,
         "goalsDiff": -5,
@@ -694,18 +694,86 @@
         "status": "same",
         "description": "",
         "all": {
-          "played": 24,
+          "played": 25,
           "win": 7,
           "draw": 8,
-          "lose": 9,
+          "lose": 10,
+          "goals": {
+            "for": 27,
+            "against": 32
+          },
+          "form": "DWWDW",
+          "btts_matches": 15,
+          "avg_corners_per_game": 4.68,
+          "aproveitamento": 38.7,
+          "over_2_5_goals": 10,
+          "over_0_5_ht": 6,
+          "over_0_5_ft": 14,
+          "clean_sheets": 5
+        },
+        "home": {
+          "played": 13,
+          "win": 6,
+          "draw": 4,
+          "lose": 3,
+          "goals": {
+            "for": 18,
+            "against": 14
+          },
+          "form_home": "WDWDW",
+          "avg_corners_home_per_game": 5.46,
+          "aproveitamento_home": 56.4,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 8,
+          "clean_sheets_home": 4
+        },
+        "away": {
+          "played": 12,
+          "win": 1,
+          "draw": 4,
+          "lose": 7,
+          "goals": {
+            "for": 9,
+            "against": 18
+          },
+          "form_visitor": "LDLDW",
+          "btts_away_matches": 8,
+          "avg_corners_away_per_game": 3.83,
+          "aproveitamento_away": 19.4,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 6,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 12,
+        "team": {
+          "id": 2314,
+          "name": "Calcio Padova Spa",
+          "logo": "https://cdn.footystats.org/img/teams/italy-calcio-padova-spa.png"
+        },
+        "points": 29,
+        "goalsDiff": -6,
+        "group": "Italy Serie B 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 25,
+          "win": 7,
+          "draw": 8,
+          "lose": 10,
           "goals": {
             "for": 25,
-            "against": 30
+            "against": 31
           },
-          "form": "LLLDW",
+          "form": "LLDWL",
           "btts_matches": 13,
-          "avg_corners_per_game": 3.96,
-          "aproveitamento": 40.3,
+          "avg_corners_per_game": 3.84,
+          "aproveitamento": 38.7,
           "over_2_5_goals": 10,
           "over_0_5_ht": 8,
           "over_0_5_ft": 13,
@@ -730,18 +798,18 @@
           "clean_sheets_home": 2
         },
         "away": {
-          "played": 12,
+          "played": 13,
           "win": 4,
           "draw": 3,
-          "lose": 5,
+          "lose": 6,
           "goals": {
             "for": 11,
-            "against": 15
+            "against": 16
           },
-          "form_visitor": "WWLLD",
+          "form_visitor": "WLLDL",
           "btts_away_matches": 5,
-          "avg_corners_away_per_game": 4.17,
-          "aproveitamento_away": 41.7,
+          "avg_corners_away_per_game": 3.92,
+          "aproveitamento_away": 38.5,
           "over_2_5_goals_away": 5,
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 6,
@@ -750,7 +818,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "team": {
           "id": 459,
           "name": "Empoli FC",
@@ -818,7 +886,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "team": {
           "id": 499,
           "name": "US Avellino",
@@ -886,74 +954,6 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 14,
-        "team": {
-          "id": 465,
-          "name": "UC Sampdoria",
-          "logo": "https://cdn.footystats.org/img/teams/italy-uc-sampdoria.png"
-        },
-        "points": 26,
-        "goalsDiff": -6,
-        "group": "Italy Serie B 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 24,
-          "win": 6,
-          "draw": 8,
-          "lose": 10,
-          "goals": {
-            "for": 26,
-            "against": 32
-          },
-          "form": "DDWWD",
-          "btts_matches": 15,
-          "avg_corners_per_game": 4.67,
-          "aproveitamento": 36.1,
-          "over_2_5_goals": 10,
-          "over_0_5_ht": 5,
-          "over_0_5_ft": 14,
-          "clean_sheets": 4
-        },
-        "home": {
-          "played": 12,
-          "win": 5,
-          "draw": 4,
-          "lose": 3,
-          "goals": {
-            "for": 17,
-            "against": 14
-          },
-          "form_home": "WWDWD",
-          "avg_corners_home_per_game": 5.5,
-          "aproveitamento_home": 52.8,
-          "btts_home_matches": 7,
-          "over_2_5_goals_home": 5,
-          "over_0_5_ht_home": 3,
-          "over_0_5_ft_home": 8,
-          "clean_sheets_home": 3
-        },
-        "away": {
-          "played": 12,
-          "win": 1,
-          "draw": 4,
-          "lose": 7,
-          "goals": {
-            "for": 9,
-            "against": 18
-          },
-          "form_visitor": "LDLDW",
-          "btts_away_matches": 8,
-          "avg_corners_away_per_game": 3.83,
-          "aproveitamento_away": 19.4,
-          "over_2_5_goals_away": 5,
-          "over_0_5_ht_away": 2,
-          "over_0_5_ft_away": 6,
-          "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
         "rank": 15,
         "team": {
           "id": 514,
@@ -961,24 +961,24 @@
           "logo": "https://cdn.footystats.org/img/teams/italy-acd-virtus-entella.png"
         },
         "points": 25,
-        "goalsDiff": -8,
+        "goalsDiff": -11,
         "group": "Italy Serie B 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 24,
+          "played": 25,
           "win": 5,
           "draw": 10,
-          "lose": 9,
+          "lose": 10,
           "goals": {
             "for": 23,
-            "against": 31
+            "against": 34
           },
-          "form": "DLDDW",
+          "form": "LDDWL",
           "btts_matches": 14,
-          "avg_corners_per_game": 5.67,
-          "aproveitamento": 34.7,
-          "over_2_5_goals": 7,
+          "avg_corners_per_game": 5.76,
+          "aproveitamento": 33.3,
+          "over_2_5_goals": 8,
           "over_0_5_ht": 8,
           "over_0_5_ft": 11,
           "clean_sheets": 4
@@ -1002,19 +1002,19 @@
           "clean_sheets_home": 3
         },
         "away": {
-          "played": 12,
+          "played": 13,
           "win": 0,
           "draw": 4,
-          "lose": 8,
+          "lose": 9,
           "goals": {
             "for": 7,
-            "against": 21
+            "against": 24
           },
-          "form_visitor": "LLDLD",
+          "form_visitor": "LDLDL",
           "btts_away_matches": 6,
-          "avg_corners_away_per_game": 5.0,
-          "aproveitamento_away": 11.1,
-          "over_2_5_goals_away": 4,
+          "avg_corners_away_per_game": 5.23,
+          "aproveitamento_away": 10.3,
+          "over_2_5_goals_away": 5,
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 3,
           "clean_sheets_away": 1
@@ -1368,9 +1368,9 @@
       {
         "jogador-nome": "Joel Julius Ilmari Pohjanpalo",
         "jogador-posicao": "Forward",
-        "jogador-gols": 15,
+        "jogador-gols": 16,
         "jogador-assists": 5,
-        "jogador-partidas": 24,
+        "jogador-partidas": 25,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/italy-us-citta-di-palermo.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/finland-joel-pohjanpalo.png"
       },
@@ -1397,7 +1397,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 10,
         "jogador-assists": 0,
-        "jogador-partidas": 24,
+        "jogador-partidas": 25,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/italy-modena-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/italy-ettore-gliozzi.png"
       },
@@ -1415,7 +1415,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 9,
         "jogador-assists": 1,
-        "jogador-partidas": 24,
+        "jogador-partidas": 25,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/italy-calcio-padova-spa.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/italy-mattia-bortolussi.png"
       },
@@ -1433,7 +1433,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 8,
         "jogador-assists": 4,
-        "jogador-partidas": 23,
+        "jogador-partidas": 24,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/italy-carrarese-calcio.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-fabio-abiuso.png"
       },
@@ -1505,7 +1505,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 6,
         "jogador-assists": 1,
-        "jogador-partidas": 21,
+        "jogador-partidas": 22,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/italy-carrarese-calcio.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/argentina-nicolas-adrian-schiavi.png"
       },
