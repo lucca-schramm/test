@@ -485,44 +485,44 @@
           "logo": "https://cdn.footystats.org/img/teams/netherlands-fc-groningen.png"
         },
         "points": 31,
-        "goalsDiff": 1,
+        "goalsDiff": 0,
         "group": "Netherlands Eredivisie 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 22,
+          "played": 23,
           "win": 9,
           "draw": 4,
-          "lose": 9,
+          "lose": 10,
           "goals": {
-            "for": 29,
-            "against": 28
+            "for": 30,
+            "against": 30
           },
-          "form": "DWLLL",
-          "btts_matches": 10,
-          "avg_corners_per_game": 6.55,
-          "aproveitamento": 47.0,
-          "over_2_5_goals": 10,
+          "form": "WLLLL",
+          "btts_matches": 11,
+          "avg_corners_per_game": 6.35,
+          "aproveitamento": 44.9,
+          "over_2_5_goals": 11,
           "over_0_5_ht": 11,
-          "over_0_5_ft": 13,
+          "over_0_5_ft": 14,
           "clean_sheets": 7
         },
         "home": {
-          "played": 11,
+          "played": 12,
           "win": 4,
           "draw": 3,
-          "lose": 4,
+          "lose": 5,
           "goals": {
-            "for": 16,
-            "against": 11
+            "for": 17,
+            "against": 13
           },
-          "form_home": "DWDLL",
-          "avg_corners_home_per_game": 8.09,
-          "aproveitamento_home": 45.5,
-          "btts_home_matches": 5,
-          "over_2_5_goals_home": 6,
+          "form_home": "WDLLL",
+          "avg_corners_home_per_game": 7.58,
+          "aproveitamento_home": 41.7,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 7,
           "over_0_5_ht_home": 7,
-          "over_0_5_ft_home": 6,
+          "over_0_5_ft_home": 7,
           "clean_sheets_home": 4
         },
         "away": {
@@ -547,6 +547,74 @@
       },
       {
         "rank": 9,
+        "team": {
+          "id": 376,
+          "name": "FC Utrecht",
+          "logo": "https://cdn.footystats.org/img/teams/netherlands-fc-utrecht.png"
+        },
+        "points": 30,
+        "goalsDiff": 5,
+        "group": "Netherlands Eredivisie 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 23,
+          "win": 8,
+          "draw": 6,
+          "lose": 9,
+          "goals": {
+            "for": 35,
+            "against": 30
+          },
+          "form": "LDLWW",
+          "btts_matches": 16,
+          "avg_corners_per_game": 5.09,
+          "aproveitamento": 43.5,
+          "over_2_5_goals": 13,
+          "over_0_5_ht": 10,
+          "over_0_5_ft": 15,
+          "clean_sheets": 3
+        },
+        "home": {
+          "played": 11,
+          "win": 5,
+          "draw": 2,
+          "lose": 4,
+          "goals": {
+            "for": 18,
+            "against": 11
+          },
+          "form_home": "WDLLL",
+          "avg_corners_home_per_game": 5.18,
+          "aproveitamento_home": 51.5,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 6,
+          "over_0_5_ft_home": 6,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 12,
+          "win": 3,
+          "draw": 4,
+          "lose": 5,
+          "goals": {
+            "for": 17,
+            "against": 19
+          },
+          "form_visitor": "DLDWW",
+          "btts_away_matches": 10,
+          "avg_corners_away_per_game": 5.0,
+          "aproveitamento_away": 36.1,
+          "over_2_5_goals_away": 7,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 9,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 10,
         "team": {
           "id": 373,
           "name": "SC Heerenveen",
@@ -610,74 +678,6 @@
           "over_0_5_ht_away": 5,
           "over_0_5_ft_away": 6,
           "clean_sheets_away": 2
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 10,
-        "team": {
-          "id": 376,
-          "name": "FC Utrecht",
-          "logo": "https://cdn.footystats.org/img/teams/netherlands-fc-utrecht.png"
-        },
-        "points": 27,
-        "goalsDiff": 4,
-        "group": "Netherlands Eredivisie 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 22,
-          "win": 7,
-          "draw": 6,
-          "lose": 9,
-          "goals": {
-            "for": 33,
-            "against": 29
-          },
-          "form": "LLDLW",
-          "btts_matches": 15,
-          "avg_corners_per_game": 4.95,
-          "aproveitamento": 40.9,
-          "over_2_5_goals": 12,
-          "over_0_5_ht": 10,
-          "over_0_5_ft": 14,
-          "clean_sheets": 3
-        },
-        "home": {
-          "played": 11,
-          "win": 5,
-          "draw": 2,
-          "lose": 4,
-          "goals": {
-            "for": 18,
-            "against": 11
-          },
-          "form_home": "WDLLL",
-          "avg_corners_home_per_game": 5.18,
-          "aproveitamento_home": 51.5,
-          "btts_home_matches": 6,
-          "over_2_5_goals_home": 6,
-          "over_0_5_ht_home": 6,
-          "over_0_5_ft_home": 6,
-          "clean_sheets_home": 2
-        },
-        "away": {
-          "played": 11,
-          "win": 2,
-          "draw": 4,
-          "lose": 5,
-          "goals": {
-            "for": 15,
-            "against": 18
-          },
-          "form_visitor": "DDLDW",
-          "btts_away_matches": 9,
-          "avg_corners_away_per_game": 4.73,
-          "aproveitamento_away": 30.3,
-          "over_2_5_goals_away": 6,
-          "over_0_5_ht_away": 4,
-          "over_0_5_ft_away": 8,
-          "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
