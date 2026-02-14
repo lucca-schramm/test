@@ -553,26 +553,26 @@
           "logo": "https://cdn.footystats.org/img/teams/colombia-club-llaneros-sa.png"
         },
         "points": 9,
-        "goalsDiff": 2,
+        "goalsDiff": 1,
         "group": "Colombia Categoria Primera A 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 6,
+          "played": 7,
           "win": 2,
           "draw": 3,
-          "lose": 1,
+          "lose": 2,
           "goals": {
-            "for": 6,
-            "against": 4
+            "for": 7,
+            "against": 6
           },
-          "form": "DDDWL",
-          "btts_matches": 3,
-          "avg_corners_per_game": 3.83,
-          "aproveitamento": 50.0,
-          "over_2_5_goals": 0,
+          "form": "DDWLL",
+          "btts_matches": 4,
+          "avg_corners_per_game": 3.86,
+          "aproveitamento": 42.9,
+          "over_2_5_goals": 1,
           "over_0_5_ht": 3,
-          "over_0_5_ft": 2,
+          "over_0_5_ft": 3,
           "clean_sheets": 2
         },
         "home": {
@@ -594,21 +594,21 @@
           "clean_sheets_home": 0
         },
         "away": {
-          "played": 3,
+          "played": 4,
           "win": 2,
           "draw": 1,
-          "lose": 0,
+          "lose": 1,
           "goals": {
-            "for": 4,
-            "against": 1
+            "for": 5,
+            "against": 3
           },
-          "form_visitor": "WDW",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 3.67,
-          "aproveitamento_away": 77.8,
-          "over_2_5_goals_away": 0,
+          "form_visitor": "WDWL",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 3.75,
+          "aproveitamento_away": 58.3,
+          "over_2_5_goals_away": 1,
           "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 2,
+          "over_0_5_ft_away": 3,
           "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -684,6 +684,74 @@
       {
         "rank": 11,
         "team": {
+          "id": 2136,
+          "name": "Millonarios FC SA",
+          "logo": "https://cdn.footystats.org/img/teams/colombia-millonarios-fc-sa.png"
+        },
+        "points": 8,
+        "goalsDiff": -1,
+        "group": "Colombia Categoria Primera A 2026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 7,
+          "win": 2,
+          "draw": 2,
+          "lose": 3,
+          "goals": {
+            "for": 6,
+            "against": 7
+          },
+          "form": "LDDWW",
+          "btts_matches": 4,
+          "avg_corners_per_game": 4.86,
+          "aproveitamento": 38.1,
+          "over_2_5_goals": 4,
+          "over_0_5_ht": 4,
+          "over_0_5_ft": 2,
+          "clean_sheets": 3
+        },
+        "home": {
+          "played": 4,
+          "win": 2,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 4,
+            "against": 3
+          },
+          "form_home": "LDWW",
+          "avg_corners_home_per_game": 6.25,
+          "aproveitamento_home": 58.3,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 2,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 3,
+          "win": 0,
+          "draw": 1,
+          "lose": 2,
+          "goals": {
+            "for": 2,
+            "against": 4
+          },
+          "form_visitor": "LLD",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 3.0,
+          "aproveitamento_away": 11.1,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 12,
+        "team": {
           "id": 2132,
           "name": "Asociación Deportivo Cali",
           "logo": "https://cdn.footystats.org/img/teams/colombia-asociacion-deportivo-cali.png"
@@ -750,7 +818,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "team": {
           "id": 2150,
           "name": "Jaguares de Córdoba FC",
@@ -818,7 +886,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "team": {
           "id": 2133,
           "name": "Independiente Santa Fe SA",
@@ -886,7 +954,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 14,
+        "rank": 15,
         "team": {
           "id": 2152,
           "name": "Fortaleza CEIF FC",
@@ -954,7 +1022,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 15,
+        "rank": 16,
         "team": {
           "id": 2137,
           "name": "Deportivo Independiente Medellín",
@@ -1017,74 +1085,6 @@
           "over_2_5_goals_away": 2,
           "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 2,
-          "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 16,
-        "team": {
-          "id": 2136,
-          "name": "Millonarios FC SA",
-          "logo": "https://cdn.footystats.org/img/teams/colombia-millonarios-fc-sa.png"
-        },
-        "points": 5,
-        "goalsDiff": -2,
-        "group": "Colombia Categoria Primera A 2026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 6,
-          "win": 1,
-          "draw": 2,
-          "lose": 3,
-          "goals": {
-            "for": 4,
-            "against": 6
-          },
-          "form": "LLDDW",
-          "btts_matches": 3,
-          "avg_corners_per_game": 4.5,
-          "aproveitamento": 27.8,
-          "over_2_5_goals": 3,
-          "over_0_5_ht": 3,
-          "over_0_5_ft": 1,
-          "clean_sheets": 3
-        },
-        "home": {
-          "played": 3,
-          "win": 1,
-          "draw": 1,
-          "lose": 1,
-          "goals": {
-            "for": 2,
-            "against": 2
-          },
-          "form_home": "LDW",
-          "avg_corners_home_per_game": 6.0,
-          "aproveitamento_home": 44.4,
-          "btts_home_matches": 1,
-          "over_2_5_goals_home": 1,
-          "over_0_5_ht_home": 1,
-          "over_0_5_ft_home": 1,
-          "clean_sheets_home": 2
-        },
-        "away": {
-          "played": 3,
-          "win": 0,
-          "draw": 1,
-          "lose": 2,
-          "goals": {
-            "for": 2,
-            "against": 4
-          },
-          "form_visitor": "LLD",
-          "btts_away_matches": 2,
-          "avg_corners_away_per_game": 3.0,
-          "aproveitamento_away": 11.1,
-          "over_2_5_goals_away": 2,
-          "over_0_5_ht_away": 2,
-          "over_0_5_ft_away": 0,
           "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1429,6 +1429,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/venezuela-luifer-enrique-hernandez-quintero.png"
       },
       {
+        "jogador-nome": "Rodrigo Contreras",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 3,
+        "jogador-assists": 0,
+        "jogador-partidas": 7,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/colombia-millonarios-fc-sa.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/argentina-rodrigo-contreras.png"
+      },
+      {
         "jogador-nome": "Jaime Andrés Peralta González",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 3,
@@ -1526,15 +1535,6 @@
         "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/colombia-sociedad-anonima-deportiva-america-sa.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/colombia-yeison-estiven-guzman-gomez.png"
-      },
-      {
-        "jogador-nome": "Rodrigo Contreras",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 2,
-        "jogador-assists": 0,
-        "jogador-partidas": 6,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/colombia-millonarios-fc-sa.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/argentina-rodrigo-contreras.png"
       },
       {
         "jogador-nome": "Kevin Alexander Londoño Asprilla",
