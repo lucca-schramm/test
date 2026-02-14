@@ -213,44 +213,44 @@
           "logo": "https://cdn.footystats.org/img/teams/hungary-paksi-se.png"
         },
         "points": 36,
-        "goalsDiff": 12,
+        "goalsDiff": 11,
         "group": "Hungary NB I 20252026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 21,
+          "played": 22,
           "win": 10,
           "draw": 6,
-          "lose": 5,
+          "lose": 6,
           "goals": {
-            "for": 41,
-            "against": 29
+            "for": 42,
+            "against": 31
           },
-          "form": "WWWLL",
-          "btts_matches": 15,
-          "avg_corners_per_game": 6.62,
-          "aproveitamento": 57.1,
-          "over_2_5_goals": 14,
+          "form": "WWLLL",
+          "btts_matches": 16,
+          "avg_corners_per_game": 6.91,
+          "aproveitamento": 54.5,
+          "over_2_5_goals": 15,
           "over_0_5_ht": 11,
-          "over_0_5_ft": 16,
+          "over_0_5_ft": 17,
           "clean_sheets": 3
         },
         "home": {
-          "played": 10,
+          "played": 11,
           "win": 5,
           "draw": 3,
-          "lose": 2,
+          "lose": 3,
           "goals": {
-            "for": 23,
-            "against": 17
+            "for": 24,
+            "against": 19
           },
-          "form_home": "WLWWL",
-          "avg_corners_home_per_game": 7.3,
-          "aproveitamento_home": 60.0,
-          "btts_home_matches": 8,
-          "over_2_5_goals_home": 8,
+          "form_home": "LWWLL",
+          "avg_corners_home_per_game": 7.82,
+          "aproveitamento_home": 54.5,
+          "btts_home_matches": 9,
+          "over_2_5_goals_home": 9,
           "over_0_5_ht_home": 5,
-          "over_0_5_ft_home": 8,
+          "over_0_5_ft_home": 9,
           "clean_sheets_home": 1
         },
         "away": {
@@ -616,6 +616,74 @@
       {
         "rank": 10,
         "team": {
+          "id": 3771,
+          "name": "Diósgyőri VTK",
+          "logo": "https://cdn.footystats.org/img/teams/hungary-diosgyori-vtk.png"
+        },
+        "points": 23,
+        "goalsDiff": -6,
+        "group": "Hungary NB I 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 22,
+          "win": 5,
+          "draw": 8,
+          "lose": 9,
+          "goals": {
+            "for": 30,
+            "against": 36
+          },
+          "form": "LLDDW",
+          "btts_matches": 15,
+          "avg_corners_per_game": 4.59,
+          "aproveitamento": 34.8,
+          "over_2_5_goals": 13,
+          "over_0_5_ht": 12,
+          "over_0_5_ft": 8,
+          "clean_sheets": 3
+        },
+        "home": {
+          "played": 11,
+          "win": 3,
+          "draw": 6,
+          "lose": 2,
+          "goals": {
+            "for": 16,
+            "against": 12
+          },
+          "form_home": "WWLDD",
+          "avg_corners_home_per_game": 4.09,
+          "aproveitamento_home": 45.5,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 6,
+          "over_0_5_ft_home": 5,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 11,
+          "win": 2,
+          "draw": 2,
+          "lose": 7,
+          "goals": {
+            "for": 14,
+            "against": 24
+          },
+          "form_visitor": "LDLLW",
+          "btts_away_matches": 8,
+          "avg_corners_away_per_game": 5.09,
+          "aproveitamento_away": 24.2,
+          "over_2_5_goals_away": 8,
+          "over_0_5_ht_away": 6,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 11,
+        "team": {
           "id": 3780,
           "name": "Nyíregyháza Spartacus FC",
           "logo": "https://cdn.footystats.org/img/teams/hungary-nyiregyhaza-spartacus-fc.png"
@@ -678,74 +746,6 @@
           "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 4,
           "clean_sheets_away": 2
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 11,
-        "team": {
-          "id": 3771,
-          "name": "Diósgyőri VTK",
-          "logo": "https://cdn.footystats.org/img/teams/hungary-diosgyori-vtk.png"
-        },
-        "points": 20,
-        "goalsDiff": -7,
-        "group": "Hungary NB I 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 21,
-          "win": 4,
-          "draw": 8,
-          "lose": 9,
-          "goals": {
-            "for": 28,
-            "against": 35
-          },
-          "form": "LLLDD",
-          "btts_matches": 14,
-          "avg_corners_per_game": 4.67,
-          "aproveitamento": 31.7,
-          "over_2_5_goals": 12,
-          "over_0_5_ht": 12,
-          "over_0_5_ft": 7,
-          "clean_sheets": 3
-        },
-        "home": {
-          "played": 11,
-          "win": 3,
-          "draw": 6,
-          "lose": 2,
-          "goals": {
-            "for": 16,
-            "against": 12
-          },
-          "form_home": "WWLDD",
-          "avg_corners_home_per_game": 4.09,
-          "aproveitamento_home": 45.5,
-          "btts_home_matches": 7,
-          "over_2_5_goals_home": 5,
-          "over_0_5_ht_home": 6,
-          "over_0_5_ft_home": 5,
-          "clean_sheets_home": 3
-        },
-        "away": {
-          "played": 10,
-          "win": 1,
-          "draw": 2,
-          "lose": 7,
-          "goals": {
-            "for": 12,
-            "against": 23
-          },
-          "form_visitor": "LLDLL",
-          "btts_away_matches": 7,
-          "avg_corners_away_per_game": 5.3,
-          "aproveitamento_away": 16.7,
-          "over_2_5_goals_away": 7,
-          "over_0_5_ht_away": 6,
-          "over_0_5_ft_away": 2,
-          "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -907,7 +907,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 7,
         "jogador-assists": 0,
-        "jogador-partidas": 18,
+        "jogador-partidas": 19,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/hungary-paksi-se.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/hungary-janos-csaba-hahn.png"
       },
@@ -919,6 +919,15 @@
         "jogador-partidas": 22,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/hungary-debreceni-vsc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/hungary-balazs-dzsudzsak.png"
+      },
+      {
+        "jogador-nome": "Gergő Gyurkits",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 5,
+        "jogador-assists": 2,
+        "jogador-partidas": 19,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/hungary-paksi-se.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/hungary-gergo-gyurkits.png"
       },
       {
         "jogador-nome": "Bence Balazs Bíró",
@@ -934,7 +943,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 5,
         "jogador-assists": 2,
-        "jogador-partidas": 16,
+        "jogador-partidas": 17,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/hungary-paksi-se.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/hungary-barna-toth.png"
       },
@@ -991,15 +1000,6 @@
         "jogador-partidas": 20,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/hungary-gyori-eto-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/hungary-milan-vitalis.png"
-      },
-      {
-        "jogador-nome": "Gergő Gyurkits",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 4,
-        "jogador-assists": 2,
-        "jogador-partidas": 18,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/hungary-paksi-se.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/hungary-gergo-gyurkits.png"
       }
     ]
   }
