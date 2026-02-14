@@ -1,0 +1,870 @@
+{
+  "standings": {
+    "bosnia_and_herzegovina_premier_league_of_bosnia": [
+      {
+        "rank": 1,
+        "team": {
+          "id": 3542,
+          "name": "FK Borac Banja Luka",
+          "logo": "https://cdn.footystats.org/img/teams/bosnia-and-herzegovina-fk-borac-banja-luka.png"
+        },
+        "points": 44,
+        "goalsDiff": 29,
+        "group": "Bosnia and Herzegovina Premier League of Bosnia 20252026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 20,
+          "win": 14,
+          "draw": 2,
+          "lose": 4,
+          "goals": {
+            "for": 44,
+            "against": 15
+          },
+          "form": "WWWLD",
+          "btts_matches": 10,
+          "avg_corners_per_game": 5.8,
+          "aproveitamento": 73.3,
+          "over_2_5_goals": 11,
+          "over_0_5_ht": 13,
+          "over_0_5_ft": 11,
+          "clean_sheets": 8
+        },
+        "home": {
+          "played": 10,
+          "win": 9,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 32,
+            "against": 7
+          },
+          "form_home": "WWWWL",
+          "avg_corners_home_per_game": 6.5,
+          "aproveitamento_home": 90.0,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 8,
+          "over_0_5_ht_home": 8,
+          "over_0_5_ft_home": 8,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 10,
+          "win": 5,
+          "draw": 2,
+          "lose": 3,
+          "goals": {
+            "for": 12,
+            "against": 8
+          },
+          "form_visitor": "LLWWD",
+          "btts_away_matches": 4,
+          "avg_corners_away_per_game": 5.1,
+          "aproveitamento_away": 56.7,
+          "over_2_5_goals_away": 3,
+          "over_0_5_ht_away": 5,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 5
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 2,
+        "team": {
+          "id": 91,
+          "name": "HŠK Zrinjski Mostar",
+          "logo": "https://cdn.footystats.org/img/teams/bosnia-and-herzegovina-hsk-zrinjski-mostar.png"
+        },
+        "points": 43,
+        "goalsDiff": 15,
+        "group": "Bosnia and Herzegovina Premier League of Bosnia 20252026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 20,
+          "win": 13,
+          "draw": 4,
+          "lose": 3,
+          "goals": {
+            "for": 26,
+            "against": 11
+          },
+          "form": "WDLWW",
+          "btts_matches": 6,
+          "avg_corners_per_game": 5.75,
+          "aproveitamento": 71.7,
+          "over_2_5_goals": 5,
+          "over_0_5_ht": 7,
+          "over_0_5_ft": 14,
+          "clean_sheets": 11
+        },
+        "home": {
+          "played": 11,
+          "win": 6,
+          "draw": 3,
+          "lose": 2,
+          "goals": {
+            "for": 13,
+            "against": 6
+          },
+          "form_home": "WLDLW",
+          "avg_corners_home_per_game": 5.73,
+          "aproveitamento_home": 63.6,
+          "btts_home_matches": 3,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 6,
+          "clean_sheets_home": 6
+        },
+        "away": {
+          "played": 9,
+          "win": 7,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 13,
+            "against": 5
+          },
+          "form_visitor": "WWWWW",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 5.78,
+          "aproveitamento_away": 81.5,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 8,
+          "clean_sheets_away": 5
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 3,
+        "team": {
+          "id": 967,
+          "name": "FK Sarajevo",
+          "logo": "https://cdn.footystats.org/img/teams/bosnia-and-herzegovina-fk-sarajevo.png"
+        },
+        "points": 32,
+        "goalsDiff": 5,
+        "group": "Bosnia and Herzegovina Premier League of Bosnia 20252026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 20,
+          "win": 9,
+          "draw": 5,
+          "lose": 6,
+          "goals": {
+            "for": 28,
+            "against": 23
+          },
+          "form": "DDWWW",
+          "btts_matches": 8,
+          "avg_corners_per_game": 4.95,
+          "aproveitamento": 53.3,
+          "over_2_5_goals": 9,
+          "over_0_5_ht": 11,
+          "over_0_5_ft": 11,
+          "clean_sheets": 10
+        },
+        "home": {
+          "played": 10,
+          "win": 7,
+          "draw": 3,
+          "lose": 0,
+          "goals": {
+            "for": 18,
+            "against": 6
+          },
+          "form_home": "WWDWW",
+          "avg_corners_home_per_game": 6.2,
+          "aproveitamento_home": 80.0,
+          "btts_home_matches": 3,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 6,
+          "over_0_5_ft_home": 8,
+          "clean_sheets_home": 7
+        },
+        "away": {
+          "played": 10,
+          "win": 2,
+          "draw": 2,
+          "lose": 6,
+          "goals": {
+            "for": 10,
+            "against": 17
+          },
+          "form_visitor": "DWLDW",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 3.7,
+          "aproveitamento_away": 26.7,
+          "over_2_5_goals_away": 6,
+          "over_0_5_ht_away": 5,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 4,
+        "team": {
+          "id": 3552,
+          "name": "FK Velež Mostar",
+          "logo": "https://cdn.footystats.org/img/teams/bosnia-and-herzegovina-fk-velez-mostar.png"
+        },
+        "points": 29,
+        "goalsDiff": 0,
+        "group": "Bosnia and Herzegovina Premier League of Bosnia 20252026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 20,
+          "win": 8,
+          "draw": 5,
+          "lose": 7,
+          "goals": {
+            "for": 19,
+            "against": 19
+          },
+          "form": "WDDWD",
+          "btts_matches": 8,
+          "avg_corners_per_game": 5.3,
+          "aproveitamento": 48.3,
+          "over_2_5_goals": 7,
+          "over_0_5_ht": 5,
+          "over_0_5_ft": 10,
+          "clean_sheets": 7
+        },
+        "home": {
+          "played": 10,
+          "win": 4,
+          "draw": 3,
+          "lose": 3,
+          "goals": {
+            "for": 7,
+            "against": 6
+          },
+          "form_home": "WWWDD",
+          "avg_corners_home_per_game": 6.3,
+          "aproveitamento_home": 50.0,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 5,
+          "clean_sheets_home": 6
+        },
+        "away": {
+          "played": 10,
+          "win": 4,
+          "draw": 2,
+          "lose": 4,
+          "goals": {
+            "for": 12,
+            "against": 13
+          },
+          "form_visitor": "LWDDW",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 4.3,
+          "aproveitamento_away": 46.7,
+          "over_2_5_goals_away": 6,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 5,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 5,
+        "team": {
+          "id": 3543,
+          "name": "NK Široki Brijeg",
+          "logo": "https://cdn.footystats.org/img/teams/bosnia-and-herzegovina-nk-siroki-brijeg.png"
+        },
+        "points": 26,
+        "goalsDiff": -4,
+        "group": "Bosnia and Herzegovina Premier League of Bosnia 20252026",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 20,
+          "win": 6,
+          "draw": 8,
+          "lose": 6,
+          "goals": {
+            "for": 21,
+            "against": 25
+          },
+          "form": "DDLDW",
+          "btts_matches": 12,
+          "avg_corners_per_game": 3.8,
+          "aproveitamento": 43.3,
+          "over_2_5_goals": 9,
+          "over_0_5_ht": 9,
+          "over_0_5_ft": 8,
+          "clean_sheets": 7
+        },
+        "home": {
+          "played": 10,
+          "win": 4,
+          "draw": 2,
+          "lose": 4,
+          "goals": {
+            "for": 11,
+            "against": 13
+          },
+          "form_home": "WLLLD",
+          "avg_corners_home_per_game": 4.9,
+          "aproveitamento_home": 46.7,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 6,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 10,
+          "win": 2,
+          "draw": 6,
+          "lose": 2,
+          "goals": {
+            "for": 10,
+            "against": 12
+          },
+          "form_visitor": "LDDDW",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 2.7,
+          "aproveitamento_away": 40.0,
+          "over_2_5_goals_away": 4,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 4
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 6,
+        "team": {
+          "id": 995,
+          "name": "FK Željezničar Sarajevo",
+          "logo": "https://cdn.footystats.org/img/teams/bosnia-and-herzegovina-fk-zeljeznicar-sarajevo.png"
+        },
+        "points": 25,
+        "goalsDiff": -2,
+        "group": "Bosnia and Herzegovina Premier League of Bosnia 20252026",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 20,
+          "win": 6,
+          "draw": 7,
+          "lose": 7,
+          "goals": {
+            "for": 19,
+            "against": 21
+          },
+          "form": "DLDDL",
+          "btts_matches": 8,
+          "avg_corners_per_game": 5.25,
+          "aproveitamento": 41.7,
+          "over_2_5_goals": 6,
+          "over_0_5_ht": 5,
+          "over_0_5_ft": 10,
+          "clean_sheets": 8
+        },
+        "home": {
+          "played": 10,
+          "win": 4,
+          "draw": 5,
+          "lose": 1,
+          "goals": {
+            "for": 14,
+            "against": 9
+          },
+          "form_home": "WLDDD",
+          "avg_corners_home_per_game": 7.0,
+          "aproveitamento_home": 56.7,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 7,
+          "clean_sheets_home": 5
+        },
+        "away": {
+          "played": 10,
+          "win": 2,
+          "draw": 2,
+          "lose": 6,
+          "goals": {
+            "for": 5,
+            "against": 12
+          },
+          "form_visitor": "DLLLL",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 3.5,
+          "aproveitamento_away": 26.7,
+          "over_2_5_goals_away": 3,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 7,
+        "team": {
+          "id": 3549,
+          "name": "FK Radnik Bijeljina",
+          "logo": "https://cdn.footystats.org/img/teams/bosnia-and-herzegovina-fk-radnik-bijeljina.png"
+        },
+        "points": 21,
+        "goalsDiff": -9,
+        "group": "Bosnia and Herzegovina Premier League of Bosnia 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 20,
+          "win": 5,
+          "draw": 6,
+          "lose": 9,
+          "goals": {
+            "for": 20,
+            "against": 29
+          },
+          "form": "LLWDL",
+          "btts_matches": 7,
+          "avg_corners_per_game": 4.15,
+          "aproveitamento": 35.0,
+          "over_2_5_goals": 8,
+          "over_0_5_ht": 8,
+          "over_0_5_ft": 5,
+          "clean_sheets": 6
+        },
+        "home": {
+          "played": 9,
+          "win": 4,
+          "draw": 3,
+          "lose": 2,
+          "goals": {
+            "for": 10,
+            "against": 6
+          },
+          "form_home": "WDWLL",
+          "avg_corners_home_per_game": 4.67,
+          "aproveitamento_home": 55.6,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 5
+        },
+        "away": {
+          "played": 11,
+          "win": 1,
+          "draw": 3,
+          "lose": 7,
+          "goals": {
+            "for": 10,
+            "against": 23
+          },
+          "form_visitor": "LLWDL",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 3.73,
+          "aproveitamento_away": 18.2,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 8,
+        "team": {
+          "id": 3575,
+          "name": "FK Sloga Doboj",
+          "logo": "https://cdn.footystats.org/img/teams/bosnia-and-herzegovina-fk-sloga-doboj.png"
+        },
+        "points": 19,
+        "goalsDiff": -7,
+        "group": "Bosnia and Herzegovina Premier League of Bosnia 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 20,
+          "win": 4,
+          "draw": 7,
+          "lose": 9,
+          "goals": {
+            "for": 14,
+            "against": 21
+          },
+          "form": "DDLDL",
+          "btts_matches": 8,
+          "avg_corners_per_game": 3.2,
+          "aproveitamento": 31.7,
+          "over_2_5_goals": 7,
+          "over_0_5_ht": 7,
+          "over_0_5_ft": 5,
+          "clean_sheets": 5
+        },
+        "home": {
+          "played": 10,
+          "win": 4,
+          "draw": 3,
+          "lose": 3,
+          "goals": {
+            "for": 10,
+            "against": 8
+          },
+          "form_home": "LDWDL",
+          "avg_corners_home_per_game": 3.5,
+          "aproveitamento_home": 50.0,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 10,
+          "win": 0,
+          "draw": 4,
+          "lose": 6,
+          "goals": {
+            "for": 4,
+            "against": 13
+          },
+          "form_visitor": "LLDDL",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 2.9,
+          "aproveitamento_away": 13.3,
+          "over_2_5_goals_away": 3,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 9,
+        "team": {
+          "id": 19740,
+          "name": "Posusje",
+          "logo": "https://cdn.footystats.org/img/teams/bosnia-and-herzegovina-posusje.png"
+        },
+        "points": 18,
+        "goalsDiff": -8,
+        "group": "Bosnia and Herzegovina Premier League of Bosnia 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 20,
+          "win": 4,
+          "draw": 6,
+          "lose": 10,
+          "goals": {
+            "for": 15,
+            "against": 23
+          },
+          "form": "WDLDW",
+          "btts_matches": 6,
+          "avg_corners_per_game": 3.35,
+          "aproveitamento": 30.0,
+          "over_2_5_goals": 5,
+          "over_0_5_ht": 7,
+          "over_0_5_ft": 5,
+          "clean_sheets": 6
+        },
+        "home": {
+          "played": 10,
+          "win": 2,
+          "draw": 4,
+          "lose": 4,
+          "goals": {
+            "for": 8,
+            "against": 10
+          },
+          "form_home": "WLDDW",
+          "avg_corners_home_per_game": 3.2,
+          "aproveitamento_home": 33.3,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 4
+        },
+        "away": {
+          "played": 10,
+          "win": 2,
+          "draw": 2,
+          "lose": 6,
+          "goals": {
+            "for": 7,
+            "against": 13
+          },
+          "form_visitor": "LLWLD",
+          "btts_away_matches": 4,
+          "avg_corners_away_per_game": 3.5,
+          "aproveitamento_away": 26.7,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 5,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 10,
+        "team": {
+          "id": 3556,
+          "name": "FK Rudar Prijedor",
+          "logo": "https://cdn.footystats.org/img/teams/bosnia-and-herzegovina-fk-rudar-prijedor.png"
+        },
+        "points": 15,
+        "goalsDiff": -19,
+        "group": "Bosnia and Herzegovina Premier League of Bosnia 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 20,
+          "win": 3,
+          "draw": 6,
+          "lose": 11,
+          "goals": {
+            "for": 12,
+            "against": 31
+          },
+          "form": "LLDLL",
+          "btts_matches": 9,
+          "avg_corners_per_game": 3.4,
+          "aproveitamento": 25.0,
+          "over_2_5_goals": 7,
+          "over_0_5_ht": 5,
+          "over_0_5_ft": 6,
+          "clean_sheets": 4
+        },
+        "home": {
+          "played": 10,
+          "win": 3,
+          "draw": 2,
+          "lose": 5,
+          "goals": {
+            "for": 9,
+            "against": 15
+          },
+          "form_home": "DWWLL",
+          "avg_corners_home_per_game": 4.2,
+          "aproveitamento_home": 36.7,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 10,
+          "win": 0,
+          "draw": 4,
+          "lose": 6,
+          "goals": {
+            "for": 3,
+            "against": 16
+          },
+          "form_visitor": "LLLDL",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 2.6,
+          "aproveitamento_away": 13.3,
+          "over_2_5_goals_away": 3,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      }
+    ]
+  },
+  "artilharia": {
+    "bosnia_and_herzegovina_premier_league_of_bosnia": [
+      {
+        "jogador-nome": "Luka Juričić",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 16,
+        "jogador-assists": 3,
+        "jogador-partidas": 20,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/bosnia-and-herzegovina-fk-borac-banja-luka.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/bosnia-and-herzegovina-luka-juricic.png"
+      },
+      {
+        "jogador-nome": "Nemanja Bilbija",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 7,
+        "jogador-assists": 2,
+        "jogador-partidas": 18,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/bosnia-and-herzegovina-hsk-zrinjski-mostar.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/bosnia-and-herzegovina-nemanja-bilbija.png"
+      },
+      {
+        "jogador-nome": "Stefan Savić",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 6,
+        "jogador-assists": 3,
+        "jogador-partidas": 20,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/bosnia-and-herzegovina-fk-borac-banja-luka.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/austria-stefan-savic.png"
+      },
+      {
+        "jogador-nome": "David Vuković",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 6,
+        "jogador-assists": 3,
+        "jogador-partidas": 11,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/bosnia-and-herzegovina-fk-borac-banja-luka.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/bosnia-and-herzegovina-david-vukovic.png"
+      },
+      {
+        "jogador-nome": "Toni Jović",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 6,
+        "jogador-assists": 1,
+        "jogador-partidas": 20,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/bosnia-and-herzegovina-fk-sloga-doboj.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/croatia-toni-jovic.png"
+      },
+      {
+        "jogador-nome": "Mato Stanić",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 5,
+        "jogador-assists": 3,
+        "jogador-partidas": 19,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/bosnia-and-herzegovina-nk-siroki-brijeg.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/bosnia-and-herzegovina-mato-stanic.png"
+      },
+      {
+        "jogador-nome": "Matej Šakota",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 5,
+        "jogador-assists": 1,
+        "jogador-partidas": 19,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/bosnia-and-herzegovina-hsk-zrinjski-mostar.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-matej-šakota.png"
+      },
+      {
+        "jogador-nome": "Damir Hrelja",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 4,
+        "jogador-assists": 4,
+        "jogador-partidas": 18,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/bosnia-and-herzegovina-fk-borac-banja-luka.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/bosnia-and-herzegovina-damir-hrelja.png"
+      },
+      {
+        "jogador-nome": "Mario Čuić",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 4,
+        "jogador-assists": 2,
+        "jogador-partidas": 18,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/bosnia-and-herzegovina-posusje.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/croatia-mario-cuic.png"
+      },
+      {
+        "jogador-nome": "Đorđe Pantelić",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 4,
+        "jogador-assists": 1,
+        "jogador-partidas": 18,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/bosnia-and-herzegovina-fk-radnik-bijeljina.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/serbia-dorde-pantelic.png"
+      },
+      {
+        "jogador-nome": "Luka Čumić",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 4,
+        "jogador-assists": 1,
+        "jogador-partidas": 18,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/bosnia-and-herzegovina-fk-radnik-bijeljina.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-luka-čumić.png"
+      },
+      {
+        "jogador-nome": "Francis Kyeremeh",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 4,
+        "jogador-assists": 1,
+        "jogador-partidas": 14,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/bosnia-and-herzegovina-fk-sarajevo.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/ghana-francis-kyeremeh.png"
+      },
+      {
+        "jogador-nome": "Benjamin Tatar",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 4,
+        "jogador-assists": 1,
+        "jogador-partidas": 16,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/bosnia-and-herzegovina-fk-sloga-doboj.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-benjamin-tatar.png"
+      },
+      {
+        "jogador-nome": "Andrés García Mohedano",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 4,
+        "jogador-assists": 0,
+        "jogador-partidas": 18,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/bosnia-and-herzegovina-fk-rudar-prijedor.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/spain-andres-garcia-mohedano.png"
+      },
+      {
+        "jogador-nome": "Agon Elezi",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 4,
+        "jogador-assists": 0,
+        "jogador-partidas": 11,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/bosnia-and-herzegovina-fk-sarajevo.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/fyr-macedonia-agon-elezi.png"
+      },
+      {
+        "jogador-nome": "Adem Ljajić",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 3,
+        "jogador-assists": 3,
+        "jogador-partidas": 14,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/bosnia-and-herzegovina-fk-sarajevo.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/serbia-adem-ljajic.png"
+      },
+      {
+        "jogador-nome": "Selmir Pidro",
+        "jogador-posicao": "Defender",
+        "jogador-gols": 3,
+        "jogador-assists": 1,
+        "jogador-partidas": 19,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/bosnia-and-herzegovina-fk-velez-mostar.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/bosnia-and-herzegovina-selmir-pidro.png"
+      },
+      {
+        "jogador-nome": "Mario Čuže",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 3,
+        "jogador-assists": 1,
+        "jogador-partidas": 15,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/bosnia-and-herzegovina-hsk-zrinjski-mostar.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/croatia-mario-cuze.png"
+      },
+      {
+        "jogador-nome": "Matej Cvetanoski",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 3,
+        "jogador-assists": 0,
+        "jogador-partidas": 19,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/bosnia-and-herzegovina-fk-zeljeznicar-sarajevo.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/fyr-macedonia-matej-cvetanoski.png"
+      },
+      {
+        "jogador-nome": "Ivan Šarić",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 3,
+        "jogador-assists": 0,
+        "jogador-partidas": 17,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/bosnia-and-herzegovina-fk-velez-mostar.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/croatia-ivan-saric.png"
+      }
+    ]
+  }
+}
