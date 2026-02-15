@@ -208,6 +208,74 @@
       {
         "rank": 4,
         "team": {
+          "id": 1430,
+          "name": "CF Monterrey",
+          "logo": "https://cdn.footystats.org/img/teams/mexico-cf-monterrey.png"
+        },
+        "points": 47,
+        "goalsDiff": 10,
+        "group": "Mexico Liga MX 20252026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 27,
+          "win": 14,
+          "draw": 5,
+          "lose": 8,
+          "goals": {
+            "for": 49,
+            "against": 39
+          },
+          "form": "WWDLW",
+          "btts_matches": 15,
+          "avg_corners_per_game": 4.07,
+          "aproveitamento": 58.0,
+          "over_2_5_goals": 15,
+          "over_0_5_ht": 20,
+          "over_0_5_ft": 12,
+          "clean_sheets": 8
+        },
+        "home": {
+          "played": 13,
+          "win": 8,
+          "draw": 4,
+          "lose": 1,
+          "goals": {
+            "for": 24,
+            "against": 12
+          },
+          "form_home": "WWLDW",
+          "avg_corners_home_per_game": 4.31,
+          "aproveitamento_home": 71.8,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 12,
+          "over_0_5_ft_home": 5,
+          "clean_sheets_home": 5
+        },
+        "away": {
+          "played": 14,
+          "win": 6,
+          "draw": 1,
+          "lose": 7,
+          "goals": {
+            "for": 25,
+            "against": 27
+          },
+          "form_visitor": "LLWWL",
+          "btts_away_matches": 8,
+          "avg_corners_away_per_game": 3.86,
+          "aproveitamento_away": 45.2,
+          "over_2_5_goals_away": 9,
+          "over_0_5_ht_away": 8,
+          "over_0_5_ft_away": 7,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 5,
+        "team": {
           "id": 1431,
           "name": "CD Guadalajara",
           "logo": "https://cdn.footystats.org/img/teams/mexico-cd-guadalajara.png"
@@ -216,7 +284,7 @@
         "goalsDiff": 12,
         "group": "Mexico Liga MX 20252026",
         "status": "same",
-        "description": "Copa Libertadores",
+        "description": "Copa Sul-Americana",
         "all": {
           "played": 24,
           "win": 14,
@@ -274,7 +342,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "team": {
           "id": 1420,
           "name": "Club América",
@@ -337,74 +405,6 @@
           "over_2_5_goals_away": 5,
           "over_0_5_ht_away": 6,
           "over_0_5_ft_away": 5,
-          "clean_sheets_away": 3
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 6,
-        "team": {
-          "id": 1430,
-          "name": "CF Monterrey",
-          "logo": "https://cdn.footystats.org/img/teams/mexico-cf-monterrey.png"
-        },
-        "points": 44,
-        "goalsDiff": 9,
-        "group": "Mexico Liga MX 20252026",
-        "status": "same",
-        "description": "Copa Sul-Americana",
-        "all": {
-          "played": 26,
-          "win": 13,
-          "draw": 5,
-          "lose": 8,
-          "goals": {
-            "for": 48,
-            "against": 39
-          },
-          "form": "LWWDL",
-          "btts_matches": 15,
-          "avg_corners_per_game": 3.92,
-          "aproveitamento": 56.4,
-          "over_2_5_goals": 15,
-          "over_0_5_ht": 19,
-          "over_0_5_ft": 12,
-          "clean_sheets": 7
-        },
-        "home": {
-          "played": 12,
-          "win": 7,
-          "draw": 4,
-          "lose": 1,
-          "goals": {
-            "for": 23,
-            "against": 12
-          },
-          "form_home": "DWWLD",
-          "avg_corners_home_per_game": 4.0,
-          "aproveitamento_home": 69.4,
-          "btts_home_matches": 7,
-          "over_2_5_goals_home": 6,
-          "over_0_5_ht_home": 11,
-          "over_0_5_ft_home": 5,
-          "clean_sheets_home": 4
-        },
-        "away": {
-          "played": 14,
-          "win": 6,
-          "draw": 1,
-          "lose": 7,
-          "goals": {
-            "for": 25,
-            "against": 27
-          },
-          "form_visitor": "LLWWL",
-          "btts_away_matches": 8,
-          "avg_corners_away_per_game": 3.86,
-          "aproveitamento_away": 45.2,
-          "over_2_5_goals_away": 9,
-          "over_0_5_ht_away": 8,
-          "over_0_5_ft_away": 7,
           "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -621,43 +621,43 @@
           "logo": "https://cdn.footystats.org/img/teams/mexico-fc-juarez.png"
         },
         "points": 31,
-        "goalsDiff": -6,
+        "goalsDiff": -7,
         "group": "Mexico Liga MX 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 26,
+          "played": 27,
           "win": 8,
           "draw": 7,
-          "lose": 11,
+          "lose": 12,
           "goals": {
-            "for": 38,
-            "against": 44
+            "for": 39,
+            "against": 46
           },
-          "form": "WLDLL",
-          "btts_matches": 19,
-          "avg_corners_per_game": 3.92,
-          "aproveitamento": 39.7,
-          "over_2_5_goals": 16,
-          "over_0_5_ht": 14,
+          "form": "LDLLL",
+          "btts_matches": 20,
+          "avg_corners_per_game": 4.04,
+          "aproveitamento": 38.3,
+          "over_2_5_goals": 17,
+          "over_0_5_ht": 15,
           "over_0_5_ft": 12,
           "clean_sheets": 3
         },
         "home": {
-          "played": 13,
+          "played": 14,
           "win": 5,
           "draw": 3,
-          "lose": 5,
+          "lose": 6,
           "goals": {
-            "for": 22,
-            "against": 21
+            "for": 23,
+            "against": 23
           },
-          "form_home": "LWLLL",
-          "avg_corners_home_per_game": 4.08,
-          "aproveitamento_home": 46.2,
-          "btts_home_matches": 9,
-          "over_2_5_goals_home": 8,
-          "over_0_5_ht_home": 8,
+          "form_home": "WLLLL",
+          "avg_corners_home_per_game": 4.29,
+          "aproveitamento_home": 42.9,
+          "btts_home_matches": 10,
+          "over_2_5_goals_home": 9,
+          "over_0_5_ht_home": 9,
           "over_0_5_ft_home": 7,
           "clean_sheets_home": 2
         },
@@ -752,6 +752,74 @@
       {
         "rank": 12,
         "team": {
+          "id": 1428,
+          "name": "Club Necaxa",
+          "logo": "https://cdn.footystats.org/img/teams/mexico-club-necaxa.png"
+        },
+        "points": 26,
+        "goalsDiff": -7,
+        "group": "Mexico Liga MX 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 23,
+          "win": 7,
+          "draw": 5,
+          "lose": 11,
+          "goals": {
+            "for": 33,
+            "against": 40
+          },
+          "form": "LLLWW",
+          "btts_matches": 15,
+          "avg_corners_per_game": 5.09,
+          "aproveitamento": 37.7,
+          "over_2_5_goals": 12,
+          "over_0_5_ht": 10,
+          "over_0_5_ft": 13,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 11,
+          "win": 4,
+          "draw": 3,
+          "lose": 4,
+          "goals": {
+            "for": 15,
+            "against": 11
+          },
+          "form_home": "DWLLW",
+          "avg_corners_home_per_game": 5.64,
+          "aproveitamento_home": 45.5,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 5,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 12,
+          "win": 3,
+          "draw": 2,
+          "lose": 7,
+          "goals": {
+            "for": 18,
+            "against": 29
+          },
+          "form_visitor": "WDWLW",
+          "btts_away_matches": 9,
+          "avg_corners_away_per_game": 4.58,
+          "aproveitamento_away": 30.6,
+          "over_2_5_goals_away": 9,
+          "over_0_5_ht_away": 5,
+          "over_0_5_ft_away": 8,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 13,
+        "team": {
           "id": 1427,
           "name": "Querétaro FC",
           "logo": "https://cdn.footystats.org/img/teams/mexico-queretaro-fc.png"
@@ -818,7 +886,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "team": {
           "id": 1449,
           "name": "Atlético San Luis",
@@ -882,74 +950,6 @@
           "over_0_5_ht_away": 6,
           "over_0_5_ft_away": 9,
           "clean_sheets_away": 4
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 14,
-        "team": {
-          "id": 1428,
-          "name": "Club Necaxa",
-          "logo": "https://cdn.footystats.org/img/teams/mexico-club-necaxa.png"
-        },
-        "points": 23,
-        "goalsDiff": -8,
-        "group": "Mexico Liga MX 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 22,
-          "win": 6,
-          "draw": 5,
-          "lose": 11,
-          "goals": {
-            "for": 31,
-            "against": 39
-          },
-          "form": "WLLLW",
-          "btts_matches": 14,
-          "avg_corners_per_game": 5.05,
-          "aproveitamento": 34.8,
-          "over_2_5_goals": 11,
-          "over_0_5_ht": 9,
-          "over_0_5_ft": 12,
-          "clean_sheets": 1
-        },
-        "home": {
-          "played": 11,
-          "win": 4,
-          "draw": 3,
-          "lose": 4,
-          "goals": {
-            "for": 15,
-            "against": 11
-          },
-          "form_home": "DWLLW",
-          "avg_corners_home_per_game": 5.64,
-          "aproveitamento_home": 45.5,
-          "btts_home_matches": 6,
-          "over_2_5_goals_home": 3,
-          "over_0_5_ht_home": 5,
-          "over_0_5_ft_home": 5,
-          "clean_sheets_home": 1
-        },
-        "away": {
-          "played": 11,
-          "win": 2,
-          "draw": 2,
-          "lose": 7,
-          "goals": {
-            "for": 16,
-            "against": 28
-          },
-          "form_visitor": "LWDWL",
-          "btts_away_matches": 8,
-          "avg_corners_away_per_game": 4.45,
-          "aproveitamento_away": 24.2,
-          "over_2_5_goals_away": 8,
-          "over_0_5_ht_away": 4,
-          "over_0_5_ft_away": 7,
-          "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1029,23 +1029,23 @@
           "logo": "https://cdn.footystats.org/img/teams/mexico-club-leon.png"
         },
         "points": 17,
-        "goalsDiff": -20,
+        "goalsDiff": -21,
         "group": "Mexico Liga MX 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 22,
+          "played": 23,
           "win": 4,
           "draw": 5,
-          "lose": 13,
+          "lose": 14,
           "goals": {
             "for": 19,
-            "against": 39
+            "against": 40
           },
-          "form": "WLDLL",
+          "form": "LDLLL",
           "btts_matches": 11,
-          "avg_corners_per_game": 4.82,
-          "aproveitamento": 25.8,
+          "avg_corners_per_game": 4.78,
+          "aproveitamento": 24.6,
           "over_2_5_goals": 10,
           "over_0_5_ht": 8,
           "over_0_5_ft": 9,
@@ -1070,18 +1070,18 @@
           "clean_sheets_home": 2
         },
         "away": {
-          "played": 11,
+          "played": 12,
           "win": 1,
           "draw": 2,
-          "lose": 8,
+          "lose": 9,
           "goals": {
             "for": 4,
-            "against": 22
+            "against": 23
           },
-          "form_visitor": "LLLDL",
+          "form_visitor": "LLDLL",
           "btts_away_matches": 3,
-          "avg_corners_away_per_game": 4.82,
-          "aproveitamento_away": 15.2,
+          "avg_corners_away_per_game": 4.75,
+          "aproveitamento_away": 13.9,
           "over_2_5_goals_away": 3,
           "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 2,
@@ -1266,6 +1266,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/argentina-german-berterame.png"
       },
       {
+        "jogador-nome": "Sergio Canales Madrazo",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 12,
+        "jogador-assists": 5,
+        "jogador-partidas": 24,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/mexico-cf-monterrey.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/spain-sergio-canales.png"
+      },
+      {
         "jogador-nome": "Ángel Martín Correa Martínez",
         "jogador-posicao": "Forward",
         "jogador-gols": 11,
@@ -1273,15 +1282,6 @@
         "jogador-partidas": 27,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/mexico-tigres-uanl.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/argentina-angel-correa.png"
-      },
-      {
-        "jogador-nome": "Sergio Canales Madrazo",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 11,
-        "jogador-assists": 5,
-        "jogador-partidas": 23,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/mexico-cf-monterrey.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/spain-sergio-canales.png"
       },
       {
         "jogador-nome": "Juan Francisco Brunetta",
@@ -1297,7 +1297,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 11,
         "jogador-assists": 2,
-        "jogador-partidas": 22,
+        "jogador-partidas": 23,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/mexico-fc-juarez.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/colombia-oscar-estupinan.png"
       },
@@ -1315,7 +1315,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 9,
         "jogador-assists": 1,
-        "jogador-partidas": 21,
+        "jogador-partidas": 22,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/mexico-csyd-atlas-de-guadalajara.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/montenegro-uros-durdevic.png"
       },
@@ -1351,7 +1351,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 8,
         "jogador-assists": 2,
-        "jogador-partidas": 19,
+        "jogador-partidas": 20,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/mexico-club-necaxa.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/colombia-diber-cambindo.png"
       },
