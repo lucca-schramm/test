@@ -8,46 +8,46 @@
           "name": "Club Olimpia",
           "logo": "https://cdn.footystats.org/img/teams/paraguay-club-olimpia.png"
         },
-        "points": 10,
+        "points": 11,
         "goalsDiff": 3,
         "group": "Paraguay Division Profesional 2026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 4,
+          "played": 5,
           "win": 3,
-          "draw": 1,
+          "draw": 2,
           "lose": 0,
           "goals": {
             "for": 8,
             "against": 5
           },
-          "form": "WDWW",
+          "form": "WDWWD",
           "btts_matches": 4,
-          "avg_corners_per_game": 4.0,
-          "aproveitamento": 83.3,
+          "avg_corners_per_game": 4.6,
+          "aproveitamento": 73.3,
           "over_2_5_goals": 3,
           "over_0_5_ht": 3,
           "over_0_5_ft": 4,
-          "clean_sheets": 0
+          "clean_sheets": 1
         },
         "home": {
-          "played": 2,
+          "played": 3,
           "win": 2,
-          "draw": 0,
+          "draw": 1,
           "lose": 0,
           "goals": {
             "for": 5,
             "against": 3
           },
-          "form_home": "WW",
-          "avg_corners_home_per_game": 5.0,
-          "aproveitamento_home": 100.0,
+          "form_home": "WWD",
+          "avg_corners_home_per_game": 5.67,
+          "aproveitamento_home": 77.8,
           "btts_home_matches": 2,
           "over_2_5_goals_home": 2,
           "over_0_5_ht_home": 2,
           "over_0_5_ft_home": 2,
-          "clean_sheets_home": 0
+          "clean_sheets_home": 1
         },
         "away": {
           "played": 2,
@@ -616,6 +616,74 @@
       {
         "rank": 10,
         "team": {
+          "id": 6685,
+          "name": "Club Rubio Ñú",
+          "logo": "https://cdn.footystats.org/img/teams/paraguay-club-rubio-nu.png"
+        },
+        "points": 3,
+        "goalsDiff": -5,
+        "group": "Paraguay Division Profesional 2026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 5,
+          "win": 0,
+          "draw": 3,
+          "lose": 2,
+          "goals": {
+            "for": 3,
+            "against": 8
+          },
+          "form": "DDLLD",
+          "btts_matches": 2,
+          "avg_corners_per_game": 4.4,
+          "aproveitamento": 20.0,
+          "over_2_5_goals": 2,
+          "over_0_5_ht": 1,
+          "over_0_5_ft": 1,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 2,
+          "win": 0,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 1,
+            "against": 2
+          },
+          "form_home": "DL",
+          "avg_corners_home_per_game": 2.0,
+          "aproveitamento_home": 16.7,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 0,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 0,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 3,
+          "win": 0,
+          "draw": 2,
+          "lose": 1,
+          "goals": {
+            "for": 2,
+            "against": 6
+          },
+          "form_visitor": "DLD",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 6.0,
+          "aproveitamento_away": 22.2,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 11,
+        "team": {
           "id": 6696,
           "name": "Club 2 de Mayo",
           "logo": "https://cdn.footystats.org/img/teams/paraguay-club-2-de-mayo.png"
@@ -677,74 +745,6 @@
           "over_2_5_goals_away": 1,
           "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 0,
-          "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 11,
-        "team": {
-          "id": 6685,
-          "name": "Club Rubio Ñú",
-          "logo": "https://cdn.footystats.org/img/teams/paraguay-club-rubio-nu.png"
-        },
-        "points": 2,
-        "goalsDiff": -5,
-        "group": "Paraguay Division Profesional 2026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 4,
-          "win": 0,
-          "draw": 2,
-          "lose": 2,
-          "goals": {
-            "for": 3,
-            "against": 8
-          },
-          "form": "DDLL",
-          "btts_matches": 2,
-          "avg_corners_per_game": 4.25,
-          "aproveitamento": 16.7,
-          "over_2_5_goals": 2,
-          "over_0_5_ht": 1,
-          "over_0_5_ft": 1,
-          "clean_sheets": 0
-        },
-        "home": {
-          "played": 2,
-          "win": 0,
-          "draw": 1,
-          "lose": 1,
-          "goals": {
-            "for": 1,
-            "against": 2
-          },
-          "form_home": "DL",
-          "avg_corners_home_per_game": 2.0,
-          "aproveitamento_home": 16.7,
-          "btts_home_matches": 1,
-          "over_2_5_goals_home": 0,
-          "over_0_5_ht_home": 1,
-          "over_0_5_ft_home": 0,
-          "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 2,
-          "win": 0,
-          "draw": 1,
-          "lose": 1,
-          "goals": {
-            "for": 2,
-            "against": 6
-          },
-          "form_visitor": "DL",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 6.5,
-          "aproveitamento_away": 16.7,
-          "over_2_5_goals_away": 2,
-          "over_0_5_ht_away": 0,
-          "over_0_5_ft_away": 1,
           "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -853,7 +853,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 2,
         "jogador-assists": 2,
-        "jogador-partidas": 4,
+        "jogador-partidas": 5,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/paraguay-club-olimpia.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/paraguay-hugo-quintana.png"
       },
@@ -952,7 +952,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 1,
         "jogador-assists": 1,
-        "jogador-partidas": 3,
+        "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/paraguay-club-rubio-nu.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/paraguay-william-mendieta.png"
       },
