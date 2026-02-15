@@ -77,24 +77,24 @@
           "logo": "https://cdn.footystats.org/img/teams/luxembourg-f91-dudelange.png"
         },
         "points": 34,
-        "goalsDiff": 18,
+        "goalsDiff": 15,
         "group": "Luxembourg National Division 20252026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 16,
+          "played": 17,
           "win": 10,
           "draw": 4,
-          "lose": 2,
+          "lose": 3,
           "goals": {
             "for": 39,
-            "against": 21
+            "against": 24
           },
-          "form": "WWDWW",
+          "form": "WDWWL",
           "btts_matches": 11,
-          "avg_corners_per_game": 3.38,
-          "aproveitamento": 70.8,
-          "over_2_5_goals": 11,
+          "avg_corners_per_game": 3.12,
+          "aproveitamento": 66.7,
+          "over_2_5_goals": 12,
           "over_0_5_ht": 7,
           "over_0_5_ft": 14,
           "clean_sheets": 4
@@ -118,19 +118,19 @@
           "clean_sheets_home": 3
         },
         "away": {
-          "played": 7,
+          "played": 8,
           "win": 3,
           "draw": 3,
-          "lose": 1,
+          "lose": 2,
           "goals": {
             "for": 13,
-            "against": 10
+            "against": 13
           },
-          "form_visitor": "DDLDW",
+          "form_visitor": "DLDWL",
           "btts_away_matches": 6,
-          "avg_corners_away_per_game": 5.43,
-          "aproveitamento_away": 57.1,
-          "over_2_5_goals_away": 5,
+          "avg_corners_away_per_game": 4.62,
+          "aproveitamento_away": 50.0,
+          "over_2_5_goals_away": 6,
           "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 6,
           "clean_sheets_away": 1
@@ -684,6 +684,74 @@
       {
         "rank": 11,
         "team": {
+          "id": 3963,
+          "name": "FC Rodange 91",
+          "logo": "https://cdn.footystats.org/img/teams/luxembourg-fc-rodange-91.png"
+        },
+        "points": 17,
+        "goalsDiff": -15,
+        "group": "Luxembourg National Division 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 16,
+          "win": 4,
+          "draw": 5,
+          "lose": 7,
+          "goals": {
+            "for": 14,
+            "against": 29
+          },
+          "form": "LLWLW",
+          "btts_matches": 6,
+          "avg_corners_per_game": 2.06,
+          "aproveitamento": 35.4,
+          "over_2_5_goals": 10,
+          "over_0_5_ht": 5,
+          "over_0_5_ft": 5,
+          "clean_sheets": 5
+        },
+        "home": {
+          "played": 5,
+          "win": 1,
+          "draw": 2,
+          "lose": 2,
+          "goals": {
+            "for": 5,
+            "against": 6
+          },
+          "form_home": "DDLLW",
+          "avg_corners_home_per_game": 0.8,
+          "aproveitamento_home": 33.3,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 2,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 11,
+          "win": 3,
+          "draw": 3,
+          "lose": 5,
+          "goals": {
+            "for": 9,
+            "against": 23
+          },
+          "form_visitor": "DLDLW",
+          "btts_away_matches": 4,
+          "avg_corners_away_per_game": 2.64,
+          "aproveitamento_away": 36.4,
+          "over_2_5_goals_away": 7,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 12,
+        "team": {
           "id": 3968,
           "name": "Uewer - Nidder Kaerjeng 97",
           "logo": "https://cdn.footystats.org/img/teams/luxembourg-uewer-nidder-kaerjeng-97.png"
@@ -750,7 +818,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "team": {
           "id": 3957,
           "name": "FC Victoria Rosport",
@@ -818,7 +886,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "team": {
           "id": 3972,
           "name": "FC Swift Hesperange",
@@ -882,74 +950,6 @@
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 4,
           "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 14,
-        "team": {
-          "id": 3963,
-          "name": "FC Rodange 91",
-          "logo": "https://cdn.footystats.org/img/teams/luxembourg-fc-rodange-91.png"
-        },
-        "points": 14,
-        "goalsDiff": -18,
-        "group": "Luxembourg National Division 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 15,
-          "win": 3,
-          "draw": 5,
-          "lose": 7,
-          "goals": {
-            "for": 11,
-            "against": 29
-          },
-          "form": "DLLWL",
-          "btts_matches": 6,
-          "avg_corners_per_game": 2.27,
-          "aproveitamento": 31.1,
-          "over_2_5_goals": 9,
-          "over_0_5_ht": 5,
-          "over_0_5_ft": 4,
-          "clean_sheets": 4
-        },
-        "home": {
-          "played": 4,
-          "win": 0,
-          "draw": 2,
-          "lose": 2,
-          "goals": {
-            "for": 2,
-            "against": 6
-          },
-          "form_home": "DDLL",
-          "avg_corners_home_per_game": 1.25,
-          "aproveitamento_home": 16.7,
-          "btts_home_matches": 2,
-          "over_2_5_goals_home": 2,
-          "over_0_5_ht_home": 1,
-          "over_0_5_ft_home": 1,
-          "clean_sheets_home": 1
-        },
-        "away": {
-          "played": 11,
-          "win": 3,
-          "draw": 3,
-          "lose": 5,
-          "goals": {
-            "for": 9,
-            "against": 23
-          },
-          "form_visitor": "DLDLW",
-          "btts_away_matches": 4,
-          "avg_corners_away_per_game": 2.64,
-          "aproveitamento_away": 36.4,
-          "over_2_5_goals_away": 7,
-          "over_0_5_ht_away": 4,
-          "over_0_5_ft_away": 3,
-          "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
