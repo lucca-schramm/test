@@ -140,28 +140,96 @@
       {
         "rank": 3,
         "team": {
+          "id": 2767,
+          "name": "CS Herediano",
+          "logo": "https://cdn.footystats.org/img/teams/costa-rica-cs-herediano.png"
+        },
+        "points": 42,
+        "goalsDiff": 9,
+        "group": "Costa Rica Primera División FPD 20252026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 25,
+          "win": 12,
+          "draw": 6,
+          "lose": 7,
+          "goals": {
+            "for": 34,
+            "against": 25
+          },
+          "form": "WLWDW",
+          "btts_matches": 11,
+          "avg_corners_per_game": 5.16,
+          "aproveitamento": 56.0,
+          "over_2_5_goals": 10,
+          "over_0_5_ht": 11,
+          "over_0_5_ft": 12,
+          "clean_sheets": 9
+        },
+        "home": {
+          "played": 13,
+          "win": 8,
+          "draw": 2,
+          "lose": 3,
+          "goals": {
+            "for": 23,
+            "against": 15
+          },
+          "form_home": "WWWWW",
+          "avg_corners_home_per_game": 4.62,
+          "aproveitamento_home": 66.7,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 8,
+          "over_0_5_ht_home": 7,
+          "over_0_5_ft_home": 8,
+          "clean_sheets_home": 5
+        },
+        "away": {
+          "played": 12,
+          "win": 4,
+          "draw": 4,
+          "lose": 4,
+          "goals": {
+            "for": 11,
+            "against": 10
+          },
+          "form_visitor": "DWWLD",
+          "btts_away_matches": 4,
+          "avg_corners_away_per_game": 5.75,
+          "aproveitamento_away": 44.4,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 4
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 4,
+        "team": {
           "id": 2772,
           "name": "CS Cartaginés",
           "logo": "https://cdn.footystats.org/img/teams/costa-rica-cs-cartagines.png"
         },
         "points": 41,
-        "goalsDiff": 8,
+        "goalsDiff": 7,
         "group": "Costa Rica Primera División FPD 20252026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 26,
+          "played": 27,
           "win": 11,
           "draw": 8,
-          "lose": 7,
+          "lose": 8,
           "goals": {
             "for": 27,
-            "against": 19
+            "against": 20
           },
-          "form": "WWDLW",
+          "form": "WDLWL",
           "btts_matches": 10,
-          "avg_corners_per_game": 4.69,
-          "aproveitamento": 52.6,
+          "avg_corners_per_game": 4.7,
+          "aproveitamento": 50.6,
           "over_2_5_goals": 8,
           "over_0_5_ht": 8,
           "over_0_5_ft": 15,
@@ -186,90 +254,22 @@
           "clean_sheets_home": 7
         },
         "away": {
-          "played": 12,
+          "played": 13,
           "win": 4,
           "draw": 4,
-          "lose": 4,
+          "lose": 5,
           "goals": {
             "for": 12,
-            "against": 9
+            "against": 10
           },
-          "form_visitor": "DWLWD",
+          "form_visitor": "WLWDL",
           "btts_away_matches": 5,
-          "avg_corners_away_per_game": 4.17,
-          "aproveitamento_away": 44.4,
+          "avg_corners_away_per_game": 4.23,
+          "aproveitamento_away": 41.0,
           "over_2_5_goals_away": 4,
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 8,
           "clean_sheets_away": 6
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 4,
-        "team": {
-          "id": 2767,
-          "name": "CS Herediano",
-          "logo": "https://cdn.footystats.org/img/teams/costa-rica-cs-herediano.png"
-        },
-        "points": 39,
-        "goalsDiff": 8,
-        "group": "Costa Rica Primera División FPD 20252026",
-        "status": "same",
-        "description": "Copa Libertadores",
-        "all": {
-          "played": 24,
-          "win": 11,
-          "draw": 6,
-          "lose": 7,
-          "goals": {
-            "for": 33,
-            "against": 25
-          },
-          "form": "WWLWD",
-          "btts_matches": 11,
-          "avg_corners_per_game": 5.17,
-          "aproveitamento": 54.2,
-          "over_2_5_goals": 10,
-          "over_0_5_ht": 10,
-          "over_0_5_ft": 12,
-          "clean_sheets": 8
-        },
-        "home": {
-          "played": 12,
-          "win": 7,
-          "draw": 2,
-          "lose": 3,
-          "goals": {
-            "for": 22,
-            "against": 15
-          },
-          "form_home": "WWWWW",
-          "avg_corners_home_per_game": 4.58,
-          "aproveitamento_home": 63.9,
-          "btts_home_matches": 7,
-          "over_2_5_goals_home": 8,
-          "over_0_5_ht_home": 6,
-          "over_0_5_ft_home": 8,
-          "clean_sheets_home": 4
-        },
-        "away": {
-          "played": 12,
-          "win": 4,
-          "draw": 4,
-          "lose": 4,
-          "goals": {
-            "for": 11,
-            "against": 10
-          },
-          "form_visitor": "DWWLD",
-          "btts_away_matches": 4,
-          "avg_corners_away_per_game": 5.75,
-          "aproveitamento_away": 44.4,
-          "over_2_5_goals_away": 2,
-          "over_0_5_ht_away": 4,
-          "over_0_5_ft_away": 4,
-          "clean_sheets_away": 4
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -688,9 +688,9 @@
       {
         "jogador-nome": "Jogador_42458",
         "jogador-posicao": "Midfielder",
-        "jogador-gols": 55,
+        "jogador-gols": 58,
         "jogador-assists": 0,
-        "jogador-partidas": 89,
+        "jogador-partidas": 90,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/costa-rica-guadalupe-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-jogador_42458.png"
       },
@@ -699,7 +699,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 11,
         "jogador-assists": 2,
-        "jogador-partidas": 23,
+        "jogador-partidas": 24,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/costa-rica-cs-herediano.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/cuba-marcel-hernandez-campanioni.png"
       },
@@ -852,7 +852,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 4,
         "jogador-assists": 0,
-        "jogador-partidas": 21,
+        "jogador-partidas": 22,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/costa-rica-cs-cartagines.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/costa-rica-johan-alberto-venegas-ulloa.png"
       },
@@ -861,7 +861,7 @@
         "jogador-posicao": "Defender",
         "jogador-gols": 4,
         "jogador-assists": 0,
-        "jogador-partidas": 20,
+        "jogador-partidas": 21,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/costa-rica-cs-cartagines.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/mexico-jesus-everardo-rubio-quintero.png"
       }
