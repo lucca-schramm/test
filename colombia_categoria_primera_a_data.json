@@ -1028,45 +1028,45 @@
           "name": "Deportivo Independiente Medellín",
           "logo": "https://cdn.footystats.org/img/teams/colombia-deportivo-independiente-medellin.png"
         },
-        "points": 5,
+        "points": 6,
         "goalsDiff": -2,
         "group": "Colombia Categoria Primera A 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 6,
+          "played": 7,
           "win": 1,
-          "draw": 2,
+          "draw": 3,
           "lose": 3,
           "goals": {
-            "for": 7,
-            "against": 9
+            "for": 8,
+            "against": 10
           },
-          "form": "LDDLW",
-          "btts_matches": 4,
-          "avg_corners_per_game": 5.33,
-          "aproveitamento": 27.8,
+          "form": "DDLWD",
+          "btts_matches": 5,
+          "avg_corners_per_game": 5.14,
+          "aproveitamento": 28.6,
           "over_2_5_goals": 4,
           "over_0_5_ht": 2,
-          "over_0_5_ft": 4,
+          "over_0_5_ft": 5,
           "clean_sheets": 1
         },
         "home": {
-          "played": 2,
+          "played": 3,
           "win": 0,
-          "draw": 1,
+          "draw": 2,
           "lose": 1,
           "goals": {
-            "for": 3,
-            "against": 4
+            "for": 4,
+            "against": 5
           },
-          "form_home": "DL",
-          "avg_corners_home_per_game": 7.5,
-          "aproveitamento_home": 16.7,
-          "btts_home_matches": 2,
+          "form_home": "DLD",
+          "avg_corners_home_per_game": 6.33,
+          "aproveitamento_home": 22.2,
+          "btts_home_matches": 3,
           "over_2_5_goals_home": 2,
           "over_0_5_ht_home": 1,
-          "over_0_5_ft_home": 2,
+          "over_0_5_ft_home": 3,
           "clean_sheets_home": 0
         },
         "away": {
@@ -1164,26 +1164,26 @@
           "name": "CS Deportiva y Cultural de Pereira",
           "logo": "https://cdn.footystats.org/img/teams/colombia-cs-deportiva-y-cultural-de-pereira.png"
         },
-        "points": 2,
+        "points": 3,
         "goalsDiff": -4,
         "group": "Colombia Categoria Primera A 2026",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 5,
+          "played": 6,
           "win": 0,
-          "draw": 2,
+          "draw": 3,
           "lose": 3,
           "goals": {
-            "for": 4,
-            "against": 8
+            "for": 5,
+            "against": 9
           },
-          "form": "LDDLL",
-          "btts_matches": 2,
-          "avg_corners_per_game": 2.0,
-          "aproveitamento": 13.3,
+          "form": "DDLLD",
+          "btts_matches": 3,
+          "avg_corners_per_game": 1.67,
+          "aproveitamento": 16.7,
           "over_2_5_goals": 2,
-          "over_0_5_ht": 1,
+          "over_0_5_ht": 2,
           "over_0_5_ft": 2,
           "clean_sheets": 1
         },
@@ -1206,20 +1206,20 @@
           "clean_sheets_home": 1
         },
         "away": {
-          "played": 2,
+          "played": 3,
           "win": 0,
-          "draw": 1,
+          "draw": 2,
           "lose": 1,
           "goals": {
-            "for": 2,
-            "against": 3
+            "for": 3,
+            "against": 4
           },
-          "form_visitor": "DL",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 2.0,
-          "aproveitamento_away": 16.7,
+          "form_visitor": "DLD",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 1.33,
+          "aproveitamento_away": 22.2,
           "over_2_5_goals_away": 1,
-          "over_0_5_ht_away": 1,
+          "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 1,
           "clean_sheets_away": 0
         },
@@ -1370,7 +1370,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 14,
         "jogador-assists": 0,
-        "jogador-partidas": 46,
+        "jogador-partidas": 47,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/colombia-cs-deportiva-y-cultural-de-pereira.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-jogador_42458.png"
       },
@@ -1537,13 +1537,13 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/colombia-yeison-estiven-guzman-gomez.png"
       },
       {
-        "jogador-nome": "Kevin Alexander Londoño Asprilla",
-        "jogador-posicao": "Midfielder",
+        "jogador-nome": "Marco Jhonnier Pérez Murillo",
+        "jogador-posicao": "Forward",
         "jogador-gols": 2,
         "jogador-assists": 0,
         "jogador-partidas": 6,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/colombia-ca-bucaramanga.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/colombia-kevin-alexander-londono-asprilla.png"
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/colombia-cs-deportiva-y-cultural-de-pereira.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/colombia-marco-jhonnier-perez-murillo.png"
       }
     ]
   }
