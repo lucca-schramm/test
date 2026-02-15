@@ -208,6 +208,74 @@
       {
         "rank": 4,
         "team": {
+          "id": 1431,
+          "name": "CD Guadalajara",
+          "logo": "https://cdn.footystats.org/img/teams/mexico-cd-guadalajara.png"
+        },
+        "points": 48,
+        "goalsDiff": 13,
+        "group": "Mexico Liga MX 20252026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 25,
+          "win": 15,
+          "draw": 3,
+          "lose": 7,
+          "goals": {
+            "for": 42,
+            "against": 29
+          },
+          "form": "WWWWW",
+          "btts_matches": 13,
+          "avg_corners_per_game": 5.56,
+          "aproveitamento": 64.0,
+          "over_2_5_goals": 14,
+          "over_0_5_ht": 13,
+          "over_0_5_ft": 12,
+          "clean_sheets": 8
+        },
+        "home": {
+          "played": 13,
+          "win": 8,
+          "draw": 2,
+          "lose": 3,
+          "goals": {
+            "for": 24,
+            "against": 15
+          },
+          "form_home": "WDWWW",
+          "avg_corners_home_per_game": 5.69,
+          "aproveitamento_home": 66.7,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 8,
+          "over_0_5_ht_home": 9,
+          "over_0_5_ft_home": 6,
+          "clean_sheets_home": 5
+        },
+        "away": {
+          "played": 12,
+          "win": 7,
+          "draw": 1,
+          "lose": 4,
+          "goals": {
+            "for": 18,
+            "against": 14
+          },
+          "form_visitor": "WLWWW",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 5.42,
+          "aproveitamento_away": 61.1,
+          "over_2_5_goals_away": 6,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 6,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 5,
+        "team": {
           "id": 1430,
           "name": "CF Monterrey",
           "logo": "https://cdn.footystats.org/img/teams/mexico-cf-monterrey.png"
@@ -216,7 +284,7 @@
         "goalsDiff": 10,
         "group": "Mexico Liga MX 20252026",
         "status": "same",
-        "description": "Copa Libertadores",
+        "description": "Copa Sul-Americana",
         "all": {
           "played": 27,
           "win": 14,
@@ -274,74 +342,6 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 5,
-        "team": {
-          "id": 1431,
-          "name": "CD Guadalajara",
-          "logo": "https://cdn.footystats.org/img/teams/mexico-cd-guadalajara.png"
-        },
-        "points": 45,
-        "goalsDiff": 12,
-        "group": "Mexico Liga MX 20252026",
-        "status": "same",
-        "description": "Copa Sul-Americana",
-        "all": {
-          "played": 24,
-          "win": 14,
-          "draw": 3,
-          "lose": 7,
-          "goals": {
-            "for": 41,
-            "against": 29
-          },
-          "form": "WWWWW",
-          "btts_matches": 13,
-          "avg_corners_per_game": 5.58,
-          "aproveitamento": 62.5,
-          "over_2_5_goals": 14,
-          "over_0_5_ht": 12,
-          "over_0_5_ft": 12,
-          "clean_sheets": 7
-        },
-        "home": {
-          "played": 12,
-          "win": 7,
-          "draw": 2,
-          "lose": 3,
-          "goals": {
-            "for": 23,
-            "against": 15
-          },
-          "form_home": "WWDWW",
-          "avg_corners_home_per_game": 5.75,
-          "aproveitamento_home": 63.9,
-          "btts_home_matches": 7,
-          "over_2_5_goals_home": 8,
-          "over_0_5_ht_home": 8,
-          "over_0_5_ft_home": 6,
-          "clean_sheets_home": 4
-        },
-        "away": {
-          "played": 12,
-          "win": 7,
-          "draw": 1,
-          "lose": 4,
-          "goals": {
-            "for": 18,
-            "against": 14
-          },
-          "form_visitor": "WLWWW",
-          "btts_away_matches": 6,
-          "avg_corners_away_per_game": 5.42,
-          "aproveitamento_away": 61.1,
-          "over_2_5_goals_away": 6,
-          "over_0_5_ht_away": 4,
-          "over_0_5_ft_away": 6,
-          "clean_sheets_away": 3
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
         "rank": 6,
         "team": {
           "id": 1420,
@@ -349,23 +349,23 @@
           "logo": "https://cdn.footystats.org/img/teams/mexico-club-america.png"
         },
         "points": 45,
-        "goalsDiff": 15,
+        "goalsDiff": 14,
         "group": "Mexico Liga MX 20252026",
         "status": "same",
         "description": "Copa Sul-Americana",
         "all": {
-          "played": 24,
+          "played": 25,
           "win": 13,
           "draw": 6,
-          "lose": 5,
+          "lose": 6,
           "goals": {
             "for": 38,
-            "against": 23
+            "against": 24
           },
-          "form": "DLDWW",
+          "form": "LDWWL",
           "btts_matches": 12,
-          "avg_corners_per_game": 6.21,
-          "aproveitamento": 62.5,
+          "avg_corners_per_game": 6.08,
+          "aproveitamento": 60.0,
           "over_2_5_goals": 11,
           "over_0_5_ht": 12,
           "over_0_5_ft": 14,
@@ -390,18 +390,18 @@
           "clean_sheets_home": 6
         },
         "away": {
-          "played": 12,
+          "played": 13,
           "win": 3,
           "draw": 6,
-          "lose": 3,
+          "lose": 4,
           "goals": {
             "for": 15,
-            "against": 15
+            "against": 16
           },
-          "form_visitor": "DLLDD",
+          "form_visitor": "LLDDL",
           "btts_away_matches": 7,
-          "avg_corners_away_per_game": 5.25,
-          "aproveitamento_away": 41.7,
+          "avg_corners_away_per_game": 5.08,
+          "aproveitamento_away": 38.5,
           "over_2_5_goals_away": 5,
           "over_0_5_ht_away": 6,
           "over_0_5_ft_away": 5,
@@ -1250,9 +1250,9 @@
       {
         "jogador-nome": "Armando González Alba",
         "jogador-posicao": "Midfielder",
-        "jogador-gols": 16,
+        "jogador-gols": 17,
         "jogador-assists": 1,
-        "jogador-partidas": 23,
+        "jogador-partidas": 24,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/mexico-cd-guadalajara.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/mexico-armando-gonzalez-alba.png"
       },
@@ -1333,7 +1333,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 8,
         "jogador-assists": 5,
-        "jogador-partidas": 24,
+        "jogador-partidas": 25,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/mexico-club-america.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/uruguay-paul-brian-rodriguez-bravo.png"
       },
@@ -1369,7 +1369,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 7,
         "jogador-assists": 3,
-        "jogador-partidas": 25,
+        "jogador-partidas": 26,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/mexico-cruz-azul-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/mexico-angel-baltazar-sepulveda-sanchez.png"
       },
