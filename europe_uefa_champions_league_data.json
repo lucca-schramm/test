@@ -1097,25 +1097,25 @@
           "logo": "https://cdn.footystats.org/img/teams/italy-fc-internazionale-milano.png"
         },
         "points": 15,
-        "goalsDiff": 8,
+        "goalsDiff": 6,
         "group": "Europe UEFA Champions League 20252026",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 8,
+          "played": 9,
           "win": 5,
           "draw": 0,
-          "lose": 3,
+          "lose": 4,
           "goals": {
-            "for": 15,
-            "against": 7
+            "for": 16,
+            "against": 10
           },
-          "form": "WLLLW",
-          "btts_matches": 3,
-          "avg_corners_per_game": 5.25,
-          "aproveitamento": 62.5,
-          "over_2_5_goals": 5,
-          "over_0_5_ht": 5,
+          "form": "LLLWL",
+          "btts_matches": 4,
+          "avg_corners_per_game": 5.0,
+          "aproveitamento": 55.6,
+          "over_2_5_goals": 6,
+          "over_0_5_ht": 6,
           "over_0_5_ft": 6,
           "clean_sheets": 4
         },
@@ -1138,20 +1138,20 @@
           "clean_sheets_home": 1
         },
         "away": {
-          "played": 4,
+          "played": 5,
           "win": 3,
           "draw": 0,
-          "lose": 1,
+          "lose": 2,
           "goals": {
-            "for": 9,
-            "against": 2
+            "for": 10,
+            "against": 5
           },
-          "form_visitor": "WWLW",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 4.5,
-          "aproveitamento_away": 75.0,
-          "over_2_5_goals_away": 2,
-          "over_0_5_ht_away": 2,
+          "form_visitor": "WWLWL",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 4.2,
+          "aproveitamento_away": 60.0,
+          "over_2_5_goals_away": 3,
+          "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 4,
           "clean_sheets_away": 3
         },
@@ -1159,6 +1159,74 @@
       },
       {
         "rank": 18,
+        "team": {
+          "id": 332,
+          "name": "FK Bodo - Glimt",
+          "logo": "https://cdn.footystats.org/img/teams/norway-fk-bodo-glimt.png"
+        },
+        "points": 15,
+        "goalsDiff": 5,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 11,
+          "win": 4,
+          "draw": 3,
+          "lose": 4,
+          "goals": {
+            "for": 23,
+            "against": 18
+          },
+          "form": "LDWWW",
+          "btts_matches": 9,
+          "avg_corners_per_game": 4.09,
+          "aproveitamento": 45.5,
+          "over_2_5_goals": 10,
+          "over_0_5_ht": 7,
+          "over_0_5_ft": 9,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 6,
+          "win": 3,
+          "draw": 1,
+          "lose": 2,
+          "goals": {
+            "for": 15,
+            "against": 8
+          },
+          "form_home": "DLLWW",
+          "avg_corners_home_per_game": 4.0,
+          "aproveitamento_home": 55.6,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 5,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 5,
+          "win": 1,
+          "draw": 2,
+          "lose": 2,
+          "goals": {
+            "for": 8,
+            "against": 10
+          },
+          "form_visitor": "LDLDW",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 4.2,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 19,
         "team": {
           "id": 33,
           "name": "BVB 09 Borussia Dortmund",
@@ -1226,7 +1294,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 19,
+        "rank": 20,
         "team": {
           "id": 119,
           "name": "Ferencvárosi TC",
@@ -1294,7 +1362,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 20,
+        "rank": 21,
         "team": {
           "id": 656,
           "name": "Malmö FF",
@@ -1362,7 +1430,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 21,
+        "rank": 22,
         "team": {
           "id": 117,
           "name": "Club Atlético de Madrid",
@@ -1430,7 +1498,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 22,
+        "rank": 23,
         "team": {
           "id": 187,
           "name": "Galatasaray",
@@ -1498,7 +1566,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 23,
+        "rank": 24,
         "team": {
           "id": 464,
           "name": "Atalanta Bergamasca Calcio",
@@ -1566,7 +1634,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 24,
+        "rank": 25,
         "team": {
           "id": 90,
           "name": "Juventus FC",
@@ -1634,7 +1702,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 25,
+        "rank": 26,
         "team": {
           "id": 5408,
           "name": "FK Kairat Almaty",
@@ -1698,74 +1766,6 @@
           "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 5,
           "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 26,
-        "team": {
-          "id": 332,
-          "name": "FK Bodo - Glimt",
-          "logo": "https://cdn.footystats.org/img/teams/norway-fk-bodo-glimt.png"
-        },
-        "points": 12,
-        "goalsDiff": 3,
-        "group": "Europe UEFA Champions League 20252026",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 10,
-          "win": 3,
-          "draw": 3,
-          "lose": 4,
-          "goals": {
-            "for": 20,
-            "against": 17
-          },
-          "form": "LLDWW",
-          "btts_matches": 8,
-          "avg_corners_per_game": 4.2,
-          "aproveitamento": 40.0,
-          "over_2_5_goals": 9,
-          "over_0_5_ht": 6,
-          "over_0_5_ft": 8,
-          "clean_sheets": 1
-        },
-        "home": {
-          "played": 5,
-          "win": 2,
-          "draw": 1,
-          "lose": 2,
-          "goals": {
-            "for": 12,
-            "against": 7
-          },
-          "form_home": "WDLLW",
-          "avg_corners_home_per_game": 4.2,
-          "aproveitamento_home": 46.7,
-          "btts_home_matches": 3,
-          "over_2_5_goals_home": 4,
-          "over_0_5_ht_home": 3,
-          "over_0_5_ft_home": 4,
-          "clean_sheets_home": 1
-        },
-        "away": {
-          "played": 5,
-          "win": 1,
-          "draw": 2,
-          "lose": 2,
-          "goals": {
-            "for": 8,
-            "against": 10
-          },
-          "form_visitor": "LDLDW",
-          "btts_away_matches": 5,
-          "avg_corners_away_per_game": 4.2,
-          "aproveitamento_away": 33.3,
-          "over_2_5_goals_away": 5,
-          "over_0_5_ht_away": 3,
-          "over_0_5_ft_away": 4,
-          "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -5672,6 +5672,24 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/england-marcus-rashford.png"
       },
       {
+        "jogador-nome": "Kasper Waarst Høgh",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 5,
+        "jogador-assists": 3,
+        "jogador-partidas": 11,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/norway-fk-bodo-glimt.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/denmark-kasper-waarst-hogh.png"
+      },
+      {
+        "jogador-nome": "Jens Petter Hauge",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 5,
+        "jogador-assists": 3,
+        "jogador-partidas": 11,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/norway-fk-bodo-glimt.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/norway-jens-petter-hauge.png"
+      },
+      {
         "jogador-nome": "Fermín López Martín",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 5,
@@ -5742,24 +5760,6 @@
         "jogador-partidas": 9,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-bvb-09-borussia-dortmund.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/france-sehrou-guirassy.png"
-      },
-      {
-        "jogador-nome": "Jens Petter Hauge",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 4,
-        "jogador-assists": 3,
-        "jogador-partidas": 10,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/norway-fk-bodo-glimt.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/norway-jens-petter-hauge.png"
-      },
-      {
-        "jogador-nome": "Viktor Gyökeres",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 4,
-        "jogador-assists": 2,
-        "jogador-partidas": 6,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/england-arsenal-fc.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/sweden-viktor-gyokeres.png"
       }
     ]
   }
