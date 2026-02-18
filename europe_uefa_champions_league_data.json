@@ -9,44 +9,44 @@
           "logo": "https://cdn.footystats.org/img/teams/azerbaijan-qarabag-agdam-fk.png"
         },
         "points": 25,
-        "goalsDiff": 2,
+        "goalsDiff": -3,
         "group": "Europe UEFA Champions League 20252026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 14,
+          "played": 15,
           "win": 8,
           "draw": 1,
-          "lose": 5,
+          "lose": 6,
           "goals": {
-            "for": 28,
-            "against": 26
+            "for": 29,
+            "against": 32
           },
-          "form": "DLLWL",
-          "btts_matches": 8,
-          "avg_corners_per_game": 4.0,
-          "aproveitamento": 59.5,
-          "over_2_5_goals": 10,
+          "form": "LLWLL",
+          "btts_matches": 9,
+          "avg_corners_per_game": 4.27,
+          "aproveitamento": 55.6,
+          "over_2_5_goals": 11,
           "over_0_5_ht": 11,
-          "over_0_5_ft": 7,
+          "over_0_5_ft": 8,
           "clean_sheets": 4
         },
         "home": {
-          "played": 7,
+          "played": 8,
           "win": 4,
           "draw": 1,
-          "lose": 2,
+          "lose": 3,
           "goals": {
-            "for": 17,
-            "against": 12
+            "for": 18,
+            "against": 18
           },
-          "form_home": "LWDLW",
-          "avg_corners_home_per_game": 4.29,
-          "aproveitamento_home": 61.9,
-          "btts_home_matches": 5,
-          "over_2_5_goals_home": 5,
+          "form_home": "WDLWL",
+          "avg_corners_home_per_game": 4.75,
+          "aproveitamento_home": 54.2,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 6,
           "over_0_5_ht_home": 7,
-          "over_0_5_ft_home": 4,
+          "over_0_5_ft_home": 5,
           "clean_sheets_home": 2
         },
         "away": {
@@ -616,6 +616,74 @@
       {
         "rank": 10,
         "team": {
+          "id": 157,
+          "name": "Newcastle United FC",
+          "logo": "https://cdn.footystats.org/img/teams/england-newcastle-united-fc.png"
+        },
+        "points": 17,
+        "goalsDiff": 15,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 9,
+          "win": 5,
+          "draw": 2,
+          "lose": 2,
+          "goals": {
+            "for": 23,
+            "against": 8
+          },
+          "form": "LDWDW",
+          "btts_matches": 5,
+          "avg_corners_per_game": 5.11,
+          "aproveitamento": 63.0,
+          "over_2_5_goals": 7,
+          "over_0_5_ht": 7,
+          "over_0_5_ft": 7,
+          "clean_sheets": 4
+        },
+        "home": {
+          "played": 4,
+          "win": 3,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 9,
+            "against": 2
+          },
+          "form_home": "LWWW",
+          "avg_corners_home_per_game": 5.75,
+          "aproveitamento_home": 75.0,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 5,
+          "win": 2,
+          "draw": 2,
+          "lose": 1,
+          "goals": {
+            "for": 14,
+            "against": 6
+          },
+          "form_visitor": "WLDDW",
+          "btts_away_matches": 4,
+          "avg_corners_away_per_game": 4.6,
+          "aproveitamento_away": 53.3,
+          "over_2_5_goals_away": 4,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 11,
+        "team": {
           "id": 68,
           "name": "Paris Saint-Germain FC",
           "logo": "https://cdn.footystats.org/img/teams/france-paris-saint-germain-fc.png"
@@ -682,7 +750,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 11,
+        "rank": 12,
         "team": {
           "id": 92,
           "name": "Tottenham Hotspur FC",
@@ -750,7 +818,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "team": {
           "id": 83,
           "name": "FC Barcelona",
@@ -818,7 +886,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "team": {
           "id": 152,
           "name": "Chelsea FC",
@@ -886,7 +954,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 14,
+        "rank": 15,
         "team": {
           "id": 114,
           "name": "Sporting Clube de Portugal",
@@ -954,7 +1022,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 15,
+        "rank": 16,
         "team": {
           "id": 93,
           "name": "Manchester City FC",
@@ -1022,7 +1090,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 16,
+        "rank": 17,
         "team": {
           "id": 470,
           "name": "FC Internazionale Milano",
@@ -1032,7 +1100,7 @@
         "goalsDiff": 8,
         "group": "Europe UEFA Champions League 20252026",
         "status": "same",
-        "description": "",
+        "description": "Rebaixamento",
         "all": {
           "played": 8,
           "win": 5,
@@ -1086,74 +1154,6 @@
           "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 4,
           "clean_sheets_away": 3
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 17,
-        "team": {
-          "id": 157,
-          "name": "Newcastle United FC",
-          "logo": "https://cdn.footystats.org/img/teams/england-newcastle-united-fc.png"
-        },
-        "points": 14,
-        "goalsDiff": 10,
-        "group": "Europe UEFA Champions League 20252026",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 8,
-          "win": 4,
-          "draw": 2,
-          "lose": 2,
-          "goals": {
-            "for": 17,
-            "against": 7
-          },
-          "form": "WLDWD",
-          "btts_matches": 4,
-          "avg_corners_per_game": 5.0,
-          "aproveitamento": 58.3,
-          "over_2_5_goals": 6,
-          "over_0_5_ht": 6,
-          "over_0_5_ft": 6,
-          "clean_sheets": 4
-        },
-        "home": {
-          "played": 4,
-          "win": 3,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 9,
-            "against": 2
-          },
-          "form_home": "LWWW",
-          "avg_corners_home_per_game": 5.75,
-          "aproveitamento_home": 75.0,
-          "btts_home_matches": 1,
-          "over_2_5_goals_home": 3,
-          "over_0_5_ht_home": 3,
-          "over_0_5_ft_home": 4,
-          "clean_sheets_home": 3
-        },
-        "away": {
-          "played": 4,
-          "win": 1,
-          "draw": 2,
-          "lose": 1,
-          "goals": {
-            "for": 8,
-            "against": 5
-          },
-          "form_visitor": "WLDD",
-          "btts_away_matches": 3,
-          "avg_corners_away_per_game": 4.25,
-          "aproveitamento_away": 41.7,
-          "over_2_5_goals_away": 3,
-          "over_0_5_ht_away": 3,
-          "over_0_5_ft_away": 2,
-          "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -5631,7 +5631,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 6,
         "jogador-assists": 2,
-        "jogador-partidas": 14,
+        "jogador-partidas": 15,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/azerbaijan-qarabag-agdam-fk.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/cape-verde-leandro-andrade.png"
       },
