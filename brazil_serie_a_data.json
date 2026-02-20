@@ -276,9 +276,9 @@
       {
         "rank": 5,
         "team": {
-          "id": 622,
-          "name": "CA Paranaense",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-ca-paranaense.png"
+          "id": 624,
+          "name": "SC Corinthians Paulista",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-sc-corinthians-paulista.png"
         },
         "points": 6,
         "goalsDiff": 2,
@@ -286,35 +286,103 @@
         "status": "same",
         "description": "Copa Sul-Americana",
         "all": {
-          "played": 2,
+          "played": 3,
           "win": 2,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 4,
+            "against": 2
+          },
+          "form": "LWW",
+          "btts_matches": 1,
+          "avg_corners_per_game": 2.33,
+          "aproveitamento": 66.7,
+          "over_2_5_goals": 1,
+          "over_0_5_ht": 2,
+          "over_0_5_ft": 1,
+          "clean_sheets": 2
+        },
+        "home": {
+          "played": 2,
+          "win": 1,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 3,
+            "against": 2
+          },
+          "form_home": "LW",
+          "avg_corners_home_per_game": 3.5,
+          "aproveitamento_home": 50.0,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 1,
+          "win": 1,
           "draw": 0,
           "lose": 0,
           "goals": {
-            "for": 3,
-            "against": 1
+            "for": 1,
+            "against": 0
           },
-          "form": "WW",
+          "form_visitor": "W",
+          "btts_away_matches": 0,
+          "avg_corners_away_per_game": 0,
+          "aproveitamento_away": 100.0,
+          "over_2_5_goals_away": 0,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 6,
+        "team": {
+          "id": 622,
+          "name": "CA Paranaense",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-ca-paranaense.png"
+        },
+        "points": 6,
+        "goalsDiff": 1,
+        "group": "Brazil Serie A 2026",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 3,
+          "win": 2,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 3,
+            "against": 2
+          },
+          "form": "WWL",
           "btts_matches": 1,
-          "avg_corners_per_game": 4.5,
-          "aproveitamento": 100.0,
+          "avg_corners_per_game": 5.67,
+          "aproveitamento": 66.7,
           "over_2_5_goals": 1,
           "over_0_5_ht": 2,
           "over_0_5_ft": 1,
           "clean_sheets": 1
         },
         "home": {
-          "played": 1,
+          "played": 2,
           "win": 1,
           "draw": 0,
-          "lose": 0,
+          "lose": 1,
           "goals": {
             "for": 2,
-            "against": 1
+            "against": 2
           },
-          "form_home": "W",
+          "form_home": "WL",
           "avg_corners_home_per_game": 8.0,
-          "aproveitamento_home": 100.0,
+          "aproveitamento_home": 50.0,
           "btts_home_matches": 1,
           "over_2_5_goals_home": 1,
           "over_0_5_ht_home": 1,
@@ -342,7 +410,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "team": {
           "id": 635,
           "name": "Clube Atlético Bragantino",
@@ -352,7 +420,7 @@
         "goalsDiff": 0,
         "group": "Brazil Serie A 2026",
         "status": "same",
-        "description": "Copa Sul-Americana",
+        "description": "",
         "all": {
           "played": 3,
           "win": 2,
@@ -410,7 +478,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "team": {
           "id": 623,
           "name": "Chapecoense AF",
@@ -478,7 +546,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "team": {
           "id": 2721,
           "name": "Mirassol Futebol Clube",
@@ -546,7 +614,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "team": {
           "id": 627,
           "name": "Coritiba FBC",
@@ -614,7 +682,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "team": {
           "id": 612,
           "name": "CR Flamengo",
@@ -682,7 +750,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 11,
+        "rank": 12,
         "team": {
           "id": 615,
           "name": "Botafogo FR",
@@ -745,74 +813,6 @@
           "over_2_5_goals_away": 1,
           "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 1,
-          "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 12,
-        "team": {
-          "id": 624,
-          "name": "SC Corinthians Paulista",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-sc-corinthians-paulista.png"
-        },
-        "points": 3,
-        "goalsDiff": 1,
-        "group": "Brazil Serie A 2026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 2,
-          "win": 1,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 3,
-            "against": 2
-          },
-          "form": "LW",
-          "btts_matches": 1,
-          "avg_corners_per_game": 3.5,
-          "aproveitamento": 50.0,
-          "over_2_5_goals": 1,
-          "over_0_5_ht": 1,
-          "over_0_5_ft": 1,
-          "clean_sheets": 1
-        },
-        "home": {
-          "played": 2,
-          "win": 1,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 3,
-            "against": 2
-          },
-          "form_home": "LW",
-          "avg_corners_home_per_game": 3.5,
-          "aproveitamento_home": 50.0,
-          "btts_home_matches": 1,
-          "over_2_5_goals_home": 1,
-          "over_0_5_ht_home": 1,
-          "over_0_5_ft_home": 1,
-          "clean_sheets_home": 1
-        },
-        "away": {
-          "played": 0,
-          "win": 0,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 0,
-            "against": 0
-          },
-          "form_visitor": "",
-          "btts_away_matches": 0,
-          "avg_corners_away_per_game": 0,
-          "aproveitamento_away": 0,
-          "over_2_5_goals_away": 0,
-          "over_0_5_ht_away": 0,
-          "over_0_5_ft_away": 0,
           "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1465,6 +1465,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-andreas-pereira.png"
       },
       {
+        "jogador-nome": "Rodrigo Garro",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 1,
+        "jogador-assists": 2,
+        "jogador-partidas": 3,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-sc-corinthians-paulista.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/argentina-rodrigo-garro.png"
+      },
+      {
         "jogador-nome": "Victor Hugo Gomes Silva",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 1,
@@ -1505,7 +1514,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 1,
         "jogador-assists": 1,
-        "jogador-partidas": 2,
+        "jogador-partidas": 3,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ca-paranaense.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/colombia-kevin-stiven-viveros-rodallega.png"
       },
@@ -1535,15 +1544,6 @@
         "jogador-partidas": 2,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-fluminense-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-nonato.png"
-      },
-      {
-        "jogador-nome": "Givanildo Vieira de Souza",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 1,
-        "jogador-assists": 1,
-        "jogador-partidas": 3,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ca-mineiro.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-hulk.png"
       }
     ]
   }
