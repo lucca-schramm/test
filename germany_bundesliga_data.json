@@ -87,17 +87,17 @@
           "draw": 7,
           "lose": 1,
           "goals": {
-            "for": 47,
-            "against": 20
+            "for": 49,
+            "against": 22
           },
           "form": "WWWWD",
-          "btts_matches": 11,
-          "avg_corners_per_game": 5.17,
+          "btts_matches": 12,
+          "avg_corners_per_game": 5.3,
           "aproveitamento": 75.4,
-          "over_2_5_goals": 12,
+          "over_2_5_goals": 13,
           "over_0_5_ht": 19,
-          "over_0_5_ft": 16,
-          "clean_sheets": 12
+          "over_0_5_ft": 17,
+          "clean_sheets": 11
         },
         "home": {
           "played": 11,
@@ -123,17 +123,17 @@
           "draw": 5,
           "lose": 1,
           "goals": {
-            "for": 21,
-            "against": 12
+            "for": 23,
+            "against": 14
           },
           "form_visitor": "DDWWD",
-          "btts_away_matches": 7,
-          "avg_corners_away_per_game": 3.33,
+          "btts_away_matches": 8,
+          "avg_corners_away_per_game": 3.58,
           "aproveitamento_away": 63.9,
-          "over_2_5_goals_away": 6,
+          "over_2_5_goals_away": 7,
           "over_0_5_ht_away": 9,
-          "over_0_5_ft_away": 7,
-          "clean_sheets_away": 5
+          "over_0_5_ft_away": 8,
+          "clean_sheets_away": 4
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -291,17 +291,17 @@
           "draw": 5,
           "lose": 6,
           "goals": {
-            "for": 42,
-            "against": 30
+            "for": 44,
+            "against": 32
           },
           "form": "DLWDD",
-          "btts_matches": 12,
-          "avg_corners_per_game": 5.04,
+          "btts_matches": 13,
+          "avg_corners_per_game": 5.3,
           "aproveitamento": 59.4,
-          "over_2_5_goals": 14,
-          "over_0_5_ht": 13,
+          "over_2_5_goals": 15,
+          "over_0_5_ht": 14,
           "over_0_5_ft": 12,
-          "clean_sheets": 10
+          "clean_sheets": 9
         },
         "home": {
           "played": 12,
@@ -309,17 +309,17 @@
           "draw": 2,
           "lose": 3,
           "goals": {
-            "for": 25,
-            "against": 15
+            "for": 27,
+            "against": 17
           },
           "form_home": "WLLDD",
-          "avg_corners_home_per_game": 5.17,
+          "avg_corners_home_per_game": 5.67,
           "aproveitamento_home": 63.9,
-          "btts_home_matches": 7,
-          "over_2_5_goals_home": 8,
-          "over_0_5_ht_home": 7,
+          "btts_home_matches": 8,
+          "over_2_5_goals_home": 9,
+          "over_0_5_ht_home": 8,
           "over_0_5_ft_home": 7,
-          "clean_sheets_home": 5
+          "clean_sheets_home": 4
         },
         "away": {
           "played": 11,
@@ -1275,6 +1275,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/france-michael-olise.png"
       },
       {
+        "jogador-nome": "Christoph Baumgartner",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 10,
+        "jogador-assists": 7,
+        "jogador-partidas": 22,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-rasen-ballsport-leipzig.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/austria-christoph-baumgartner.png"
+      },
+      {
         "jogador-nome": "Andrej Kramarić",
         "jogador-posicao": "Forward",
         "jogador-gols": 10,
@@ -1311,19 +1320,10 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/germany-jonathan-burkardt.png"
       },
       {
-        "jogador-nome": "Christoph Baumgartner",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 8,
-        "jogador-assists": 7,
-        "jogador-partidas": 22,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-rasen-ballsport-leipzig.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/austria-christoph-baumgartner.png"
-      },
-      {
         "jogador-nome": "Yan Diomande",
         "jogador-posicao": "Forward",
         "jogador-gols": 8,
-        "jogador-assists": 5,
+        "jogador-assists": 6,
         "jogador-partidas": 22,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-rasen-ballsport-leipzig.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-yan-diomande.png"
@@ -1356,11 +1356,20 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/kosovo-fisnik-asllani.png"
       },
       {
+        "jogador-nome": "Rômulo José Cardoso da Cruz",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 7,
+        "jogador-assists": 4,
+        "jogador-partidas": 19,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-rasen-ballsport-leipzig.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-romulo.png"
+      },
+      {
         "jogador-nome": "Maximilian Beier",
         "jogador-posicao": "Forward",
         "jogador-gols": 7,
         "jogador-assists": 3,
-        "jogador-partidas": 20,
+        "jogador-partidas": 21,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-bvb-09-borussia-dortmund.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/germany-maximilian-beier.png"
       },
@@ -1399,15 +1408,6 @@
         "jogador-partidas": 14,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-eintracht-frankfurt.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-can-yılmaz-uzun.png"
-      },
-      {
-        "jogador-nome": "Rômulo José Cardoso da Cruz",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 6,
-        "jogador-assists": 4,
-        "jogador-partidas": 19,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-rasen-ballsport-leipzig.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-romulo.png"
       }
     ]
   }
