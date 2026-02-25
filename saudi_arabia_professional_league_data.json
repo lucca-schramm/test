@@ -4,6 +4,74 @@
       {
         "rank": 1,
         "team": {
+          "id": 5069,
+          "name": "Al Nassr FC",
+          "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-nassr-fc.png"
+        },
+        "points": 58,
+        "goalsDiff": 44,
+        "group": "Saudi Arabia Professional League 20252026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 23,
+          "win": 19,
+          "draw": 1,
+          "lose": 3,
+          "goals": {
+            "for": 62,
+            "against": 18
+          },
+          "form": "WWWWW",
+          "btts_matches": 11,
+          "avg_corners_per_game": 7.17,
+          "aproveitamento": 84.1,
+          "over_2_5_goals": 16,
+          "over_0_5_ht": 17,
+          "over_0_5_ft": 18,
+          "clean_sheets": 12
+        },
+        "home": {
+          "played": 11,
+          "win": 10,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 32,
+            "against": 8
+          },
+          "form_home": "LWWWW",
+          "avg_corners_home_per_game": 7.64,
+          "aproveitamento_home": 90.9,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 8,
+          "over_0_5_ht_home": 8,
+          "over_0_5_ft_home": 10,
+          "clean_sheets_home": 5
+        },
+        "away": {
+          "played": 12,
+          "win": 9,
+          "draw": 1,
+          "lose": 2,
+          "goals": {
+            "for": 30,
+            "against": 10
+          },
+          "form_visitor": "WWWWW",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 6.75,
+          "aproveitamento_away": 77.8,
+          "over_2_5_goals_away": 8,
+          "over_0_5_ht_away": 9,
+          "over_0_5_ft_away": 8,
+          "clean_sheets_away": 7
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 2,
+        "team": {
           "id": 5062,
           "name": "Al Ahli SC Jeddah",
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-ahli-sc-jeddah.png"
@@ -66,74 +134,6 @@
           "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 6,
           "clean_sheets_away": 9
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 2,
-        "team": {
-          "id": 5069,
-          "name": "Al Nassr FC",
-          "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-nassr-fc.png"
-        },
-        "points": 55,
-        "goalsDiff": 39,
-        "group": "Saudi Arabia Professional League 20252026",
-        "status": "same",
-        "description": "Copa Libertadores",
-        "all": {
-          "played": 22,
-          "win": 18,
-          "draw": 1,
-          "lose": 3,
-          "goals": {
-            "for": 57,
-            "against": 18
-          },
-          "form": "WWWWW",
-          "btts_matches": 11,
-          "avg_corners_per_game": 7.09,
-          "aproveitamento": 83.3,
-          "over_2_5_goals": 15,
-          "over_0_5_ht": 16,
-          "over_0_5_ft": 17,
-          "clean_sheets": 11
-        },
-        "home": {
-          "played": 11,
-          "win": 10,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 32,
-            "against": 8
-          },
-          "form_home": "LWWWW",
-          "avg_corners_home_per_game": 7.64,
-          "aproveitamento_home": 90.9,
-          "btts_home_matches": 6,
-          "over_2_5_goals_home": 8,
-          "over_0_5_ht_home": 8,
-          "over_0_5_ft_home": 10,
-          "clean_sheets_home": 5
-        },
-        "away": {
-          "played": 11,
-          "win": 8,
-          "draw": 1,
-          "lose": 2,
-          "goals": {
-            "for": 25,
-            "against": 10
-          },
-          "form_visitor": "LWWWW",
-          "btts_away_matches": 5,
-          "avg_corners_away_per_game": 6.55,
-          "aproveitamento_away": 75.8,
-          "over_2_5_goals_away": 7,
-          "over_0_5_ht_away": 8,
-          "over_0_5_ft_away": 7,
-          "clean_sheets_away": 6
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -484,26 +484,26 @@
           "name": "Neom SC",
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-neom-sc.png"
         },
-        "points": 31,
+        "points": 32,
         "goalsDiff": -3,
         "group": "Saudi Arabia Professional League 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 22,
+          "played": 23,
           "win": 9,
-          "draw": 4,
+          "draw": 5,
           "lose": 9,
           "goals": {
-            "for": 27,
-            "against": 30
+            "for": 28,
+            "against": 31
           },
-          "form": "WDWLW",
-          "btts_matches": 13,
-          "avg_corners_per_game": 4.5,
-          "aproveitamento": 47.0,
+          "form": "DWLWD",
+          "btts_matches": 14,
+          "avg_corners_per_game": 4.43,
+          "aproveitamento": 46.4,
           "over_2_5_goals": 12,
-          "over_0_5_ht": 9,
+          "over_0_5_ht": 10,
           "over_0_5_ft": 13,
           "clean_sheets": 5
         },
@@ -526,20 +526,20 @@
           "clean_sheets_home": 3
         },
         "away": {
-          "played": 11,
+          "played": 12,
           "win": 5,
-          "draw": 3,
+          "draw": 4,
           "lose": 3,
           "goals": {
-            "for": 15,
-            "against": 13
+            "for": 16,
+            "against": 14
           },
-          "form_visitor": "LDDLW",
-          "btts_away_matches": 7,
-          "avg_corners_away_per_game": 4.0,
-          "aproveitamento_away": 54.5,
+          "form_visitor": "DDLWD",
+          "btts_away_matches": 8,
+          "avg_corners_away_per_game": 3.92,
+          "aproveitamento_away": 52.8,
           "over_2_5_goals_away": 5,
-          "over_0_5_ht_away": 4,
+          "over_0_5_ht_away": 5,
           "over_0_5_ft_away": 8,
           "clean_sheets_away": 2
         },
@@ -688,45 +688,45 @@
           "name": "Al Feiha",
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-feiha.png"
         },
-        "points": 26,
+        "points": 27,
         "goalsDiff": -11,
         "group": "Saudi Arabia Professional League 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 22,
+          "played": 23,
           "win": 7,
-          "draw": 5,
+          "draw": 6,
           "lose": 10,
           "goals": {
-            "for": 26,
-            "against": 37
+            "for": 27,
+            "against": 38
           },
-          "form": "WLWLW",
-          "btts_matches": 12,
-          "avg_corners_per_game": 4.27,
-          "aproveitamento": 39.4,
+          "form": "LWLWD",
+          "btts_matches": 13,
+          "avg_corners_per_game": 4.39,
+          "aproveitamento": 39.1,
           "over_2_5_goals": 13,
           "over_0_5_ht": 9,
-          "over_0_5_ft": 8,
+          "over_0_5_ft": 9,
           "clean_sheets": 5
         },
         "home": {
-          "played": 10,
+          "played": 11,
           "win": 4,
-          "draw": 4,
+          "draw": 5,
           "lose": 2,
           "goals": {
-            "for": 13,
-            "against": 10
+            "for": 14,
+            "against": 11
           },
-          "form_home": "LDWWW",
-          "avg_corners_home_per_game": 4.5,
-          "aproveitamento_home": 53.3,
-          "btts_home_matches": 4,
+          "form_home": "DWWWD",
+          "avg_corners_home_per_game": 4.73,
+          "aproveitamento_home": 51.5,
+          "btts_home_matches": 5,
           "over_2_5_goals_home": 4,
           "over_0_5_ht_home": 4,
-          "over_0_5_ft_home": 4,
+          "over_0_5_ft_home": 5,
           "clean_sheets_home": 5
         },
         "away": {
@@ -1165,42 +1165,42 @@
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-najma-club-saudi-arabia.png"
         },
         "points": 8,
-        "goalsDiff": -25,
+        "goalsDiff": -30,
         "group": "Saudi Arabia Professional League 20252026",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 22,
+          "played": 23,
           "win": 1,
           "draw": 5,
-          "lose": 16,
+          "lose": 17,
           "goals": {
             "for": 21,
-            "against": 46
+            "against": 51
           },
-          "form": "DLLWL",
+          "form": "LLWLL",
           "btts_matches": 15,
-          "avg_corners_per_game": 3.82,
-          "aproveitamento": 12.1,
-          "over_2_5_goals": 14,
+          "avg_corners_per_game": 3.74,
+          "aproveitamento": 11.6,
+          "over_2_5_goals": 15,
           "over_0_5_ht": 5,
           "over_0_5_ft": 12,
           "clean_sheets": 2
         },
         "home": {
-          "played": 10,
+          "played": 11,
           "win": 1,
           "draw": 3,
-          "lose": 6,
+          "lose": 7,
           "goals": {
             "for": 13,
-            "against": 20
+            "against": 25
           },
-          "form_home": "LDLDW",
-          "avg_corners_home_per_game": 4.5,
-          "aproveitamento_home": 20.0,
+          "form_home": "DLDWL",
+          "avg_corners_home_per_game": 4.27,
+          "aproveitamento_home": 18.2,
           "btts_home_matches": 8,
-          "over_2_5_goals_home": 6,
+          "over_2_5_goals_home": 7,
           "over_0_5_ht_home": 2,
           "over_0_5_ft_home": 8,
           "clean_sheets_home": 0
@@ -1250,9 +1250,9 @@
       {
         "jogador-nome": "Cristiano Ronaldo dos Santos Aveiro",
         "jogador-posicao": "Forward",
-        "jogador-gols": 20,
-        "jogador-assists": 1,
-        "jogador-partidas": 20,
+        "jogador-gols": 21,
+        "jogador-assists": 2,
+        "jogador-partidas": 21,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-nassr-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/portugal-cristiano-ronaldo.png"
       },
@@ -1279,7 +1279,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 13,
         "jogador-assists": 8,
-        "jogador-partidas": 22,
+        "jogador-partidas": 23,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-nassr-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/portugal-joao-felix.png"
       },
@@ -1338,11 +1338,20 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/portugal-ruben-neves.png"
       },
       {
+        "jogador-nome": "Alexandre Lacazette",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 10,
+        "jogador-assists": 4,
+        "jogador-partidas": 23,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-neom-sc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/france-alexandre-lacazette.png"
+      },
+      {
         "jogador-nome": "Junior Fashion Sakala",
         "jogador-posicao": "Forward",
         "jogador-gols": 10,
         "jogador-assists": 3,
-        "jogador-partidas": 20,
+        "jogador-partidas": 21,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-feiha.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/zambia-junior-fashion-sakala.png"
       },
@@ -1354,15 +1363,6 @@
         "jogador-partidas": 23,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-khaleej-saihat.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/greece-giorgos-masouras.png"
-      },
-      {
-        "jogador-nome": "Alexandre Lacazette",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 9,
-        "jogador-assists": 4,
-        "jogador-partidas": 22,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-neom-sc.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/france-alexandre-lacazette.png"
       },
       {
         "jogador-nome": "Marcos Leonardo Santos Almeida",
@@ -1392,6 +1392,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/saudi-arabia-khalid-essa-al-ghannam.png"
       },
       {
+        "jogador-nome": "Kingsley Coman",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 7,
+        "jogador-assists": 9,
+        "jogador-partidas": 21,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-nassr-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/france-kingsley-coman.png"
+      },
+      {
         "jogador-nome": "Murad Batna",
         "jogador-posicao": "Forward",
         "jogador-gols": 7,
@@ -1399,15 +1408,6 @@
         "jogador-partidas": 21,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-fateh-sc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/morocco-murad-batna.png"
-      },
-      {
-        "jogador-nome": "Salem Mohammed Al Dawsari",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 7,
-        "jogador-assists": 7,
-        "jogador-partidas": 17,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-hilal-fc-riyadh.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/saudi-arabia-salem-mohammed-al-dawsari.png"
       }
     ]
   }
