@@ -1228,6 +1228,74 @@
       {
         "rank": 19,
         "team": {
+          "id": 464,
+          "name": "Atalanta Bergamasca Calcio",
+          "logo": "https://cdn.footystats.org/img/teams/italy-atalanta-bergamasca-calcio.png"
+        },
+        "points": 16,
+        "goalsDiff": 1,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 10,
+          "win": 5,
+          "draw": 1,
+          "lose": 4,
+          "goals": {
+            "for": 14,
+            "against": 13
+          },
+          "form": "WLLLW",
+          "btts_matches": 4,
+          "avg_corners_per_game": 4.3,
+          "aproveitamento": 53.3,
+          "over_2_5_goals": 6,
+          "over_0_5_ht": 2,
+          "over_0_5_ft": 6,
+          "clean_sheets": 3
+        },
+        "home": {
+          "played": 5,
+          "win": 3,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 10,
+            "against": 6
+          },
+          "form_home": "WDWLW",
+          "avg_corners_home_per_game": 5.0,
+          "aproveitamento_home": 66.7,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 5,
+          "win": 2,
+          "draw": 0,
+          "lose": 3,
+          "goals": {
+            "for": 4,
+            "against": 7
+          },
+          "form_visitor": "LWWLL",
+          "btts_away_matches": 0,
+          "avg_corners_away_per_game": 3.6,
+          "aproveitamento_away": 40.0,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 20,
+        "team": {
           "id": 40,
           "name": "Bayer 04 Leverkusen",
           "logo": "https://cdn.footystats.org/img/teams/germany-bayer-04-leverkusen.png"
@@ -1294,7 +1362,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 20,
+        "rank": 21,
         "team": {
           "id": 470,
           "name": "FC Internazionale Milano",
@@ -1362,33 +1430,33 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 21,
+        "rank": 22,
         "team": {
           "id": 33,
           "name": "BVB 09 Borussia Dortmund",
           "logo": "https://cdn.footystats.org/img/teams/germany-bvb-09-borussia-dortmund.png"
         },
         "points": 14,
-        "goalsDiff": 4,
+        "goalsDiff": 1,
         "group": "Europe UEFA Champions League 20252026",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 9,
+          "played": 10,
           "win": 4,
           "draw": 2,
-          "lose": 3,
+          "lose": 4,
           "goals": {
-            "for": 21,
-            "against": 17
+            "for": 22,
+            "against": 21
           },
-          "form": "WDLLW",
-          "btts_matches": 5,
-          "avg_corners_per_game": 4.44,
-          "aproveitamento": 51.9,
-          "over_2_5_goals": 6,
+          "form": "DLLWL",
+          "btts_matches": 6,
+          "avg_corners_per_game": 4.1,
+          "aproveitamento": 46.7,
+          "over_2_5_goals": 7,
           "over_0_5_ht": 5,
-          "over_0_5_ft": 6,
+          "over_0_5_ft": 7,
           "clean_sheets": 2
         },
         "home": {
@@ -1410,27 +1478,27 @@
           "clean_sheets_home": 2
         },
         "away": {
-          "played": 4,
+          "played": 5,
           "win": 1,
           "draw": 1,
-          "lose": 2,
+          "lose": 3,
           "goals": {
-            "for": 9,
-            "against": 12
+            "for": 10,
+            "against": 16
           },
-          "form_visitor": "DWLL",
-          "btts_away_matches": 3,
-          "avg_corners_away_per_game": 3.75,
-          "aproveitamento_away": 33.3,
-          "over_2_5_goals_away": 3,
+          "form_visitor": "DWLLL",
+          "btts_away_matches": 4,
+          "avg_corners_away_per_game": 3.2,
+          "aproveitamento_away": 26.7,
+          "over_2_5_goals_away": 4,
           "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 3,
+          "over_0_5_ft_away": 4,
           "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 22,
+        "rank": 23,
         "team": {
           "id": 119,
           "name": "Ferencvárosi TC",
@@ -1498,7 +1566,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 23,
+        "rank": 24,
         "team": {
           "id": 656,
           "name": "Malmö FF",
@@ -1566,7 +1634,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 24,
+        "rank": 25,
         "team": {
           "id": 187,
           "name": "Galatasaray",
@@ -1630,74 +1698,6 @@
           "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 1,
           "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 25,
-        "team": {
-          "id": 464,
-          "name": "Atalanta Bergamasca Calcio",
-          "logo": "https://cdn.footystats.org/img/teams/italy-atalanta-bergamasca-calcio.png"
-        },
-        "points": 13,
-        "goalsDiff": -2,
-        "group": "Europe UEFA Champions League 20252026",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 9,
-          "win": 4,
-          "draw": 1,
-          "lose": 4,
-          "goals": {
-            "for": 10,
-            "against": 12
-          },
-          "form": "WWLLL",
-          "btts_matches": 3,
-          "avg_corners_per_game": 4.22,
-          "aproveitamento": 48.1,
-          "over_2_5_goals": 5,
-          "over_0_5_ht": 1,
-          "over_0_5_ft": 5,
-          "clean_sheets": 3
-        },
-        "home": {
-          "played": 4,
-          "win": 2,
-          "draw": 1,
-          "lose": 1,
-          "goals": {
-            "for": 6,
-            "against": 5
-          },
-          "form_home": "WDWL",
-          "avg_corners_home_per_game": 5.0,
-          "aproveitamento_home": 58.3,
-          "btts_home_matches": 3,
-          "over_2_5_goals_home": 3,
-          "over_0_5_ht_home": 1,
-          "over_0_5_ft_home": 3,
-          "clean_sheets_home": 1
-        },
-        "away": {
-          "played": 5,
-          "win": 2,
-          "draw": 0,
-          "lose": 3,
-          "goals": {
-            "for": 4,
-            "against": 7
-          },
-          "form_visitor": "LWWLL",
-          "btts_away_matches": 0,
-          "avg_corners_away_per_game": 3.6,
-          "aproveitamento_away": 40.0,
-          "over_2_5_goals_away": 2,
-          "over_0_5_ht_away": 0,
-          "over_0_5_ft_away": 2,
-          "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
