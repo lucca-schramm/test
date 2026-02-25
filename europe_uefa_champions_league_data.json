@@ -1296,6 +1296,74 @@
       {
         "rank": 20,
         "team": {
+          "id": 90,
+          "name": "Juventus FC",
+          "logo": "https://cdn.footystats.org/img/teams/italy-juventus-fc.png"
+        },
+        "points": 16,
+        "goalsDiff": 2,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 10,
+          "win": 4,
+          "draw": 4,
+          "lose": 2,
+          "goals": {
+            "for": 19,
+            "against": 17
+          },
+          "form": "WWDLW",
+          "btts_matches": 6,
+          "avg_corners_per_game": 5.9,
+          "aproveitamento": 53.3,
+          "over_2_5_goals": 5,
+          "over_0_5_ht": 3,
+          "over_0_5_ft": 6,
+          "clean_sheets": 3
+        },
+        "home": {
+          "played": 5,
+          "win": 3,
+          "draw": 2,
+          "lose": 0,
+          "goals": {
+            "for": 12,
+            "against": 7
+          },
+          "form_home": "DDWWW",
+          "avg_corners_home_per_game": 7.2,
+          "aproveitamento_home": 73.3,
+          "btts_home_matches": 3,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 5,
+          "win": 1,
+          "draw": 2,
+          "lose": 2,
+          "goals": {
+            "for": 7,
+            "against": 10
+          },
+          "form_visitor": "DLWDL",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 4.6,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 3,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 21,
+        "team": {
           "id": 40,
           "name": "Bayer 04 Leverkusen",
           "logo": "https://cdn.footystats.org/img/teams/germany-bayer-04-leverkusen.png"
@@ -1362,7 +1430,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 21,
+        "rank": 22,
         "team": {
           "id": 470,
           "name": "FC Internazionale Milano",
@@ -1430,7 +1498,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 22,
+        "rank": 23,
         "team": {
           "id": 33,
           "name": "BVB 09 Borussia Dortmund",
@@ -1498,7 +1566,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 23,
+        "rank": 24,
         "team": {
           "id": 119,
           "name": "Ferencvárosi TC",
@@ -1566,7 +1634,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 24,
+        "rank": 25,
         "team": {
           "id": 656,
           "name": "Malmö FF",
@@ -1634,33 +1702,33 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 25,
+        "rank": 26,
         "team": {
           "id": 187,
           "name": "Galatasaray",
           "logo": "https://cdn.footystats.org/img/teams/turkey-galatasaray.png"
         },
         "points": 13,
-        "goalsDiff": 1,
+        "goalsDiff": 0,
         "group": "Europe UEFA Champions League 20252026",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 9,
+          "played": 10,
           "win": 4,
           "draw": 1,
-          "lose": 4,
+          "lose": 5,
           "goals": {
-            "for": 14,
-            "against": 13
+            "for": 16,
+            "against": 16
           },
-          "form": "LLDLW",
-          "btts_matches": 4,
-          "avg_corners_per_game": 3.89,
-          "aproveitamento": 48.1,
-          "over_2_5_goals": 4,
+          "form": "LDLWL",
+          "btts_matches": 5,
+          "avg_corners_per_game": 3.9,
+          "aproveitamento": 43.3,
+          "over_2_5_goals": 5,
           "over_0_5_ht": 5,
-          "over_0_5_ft": 3,
+          "over_0_5_ft": 4,
           "clean_sheets": 2
         },
         "home": {
@@ -1682,86 +1750,18 @@
           "clean_sheets_home": 1
         },
         "away": {
-          "played": 4,
-          "win": 1,
-          "draw": 0,
-          "lose": 3,
-          "goals": {
-            "for": 4,
-            "against": 8
-          },
-          "form_visitor": "LWLL",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 3.0,
-          "aproveitamento_away": 25.0,
-          "over_2_5_goals_away": 2,
-          "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 1,
-          "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 26,
-        "team": {
-          "id": 90,
-          "name": "Juventus FC",
-          "logo": "https://cdn.footystats.org/img/teams/italy-juventus-fc.png"
-        },
-        "points": 13,
-        "goalsDiff": 1,
-        "group": "Europe UEFA Champions League 20252026",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 9,
-          "win": 3,
-          "draw": 4,
-          "lose": 2,
-          "goals": {
-            "for": 16,
-            "against": 15
-          },
-          "form": "WWWDL",
-          "btts_matches": 5,
-          "avg_corners_per_game": 5.56,
-          "aproveitamento": 48.1,
-          "over_2_5_goals": 4,
-          "over_0_5_ht": 2,
-          "over_0_5_ft": 5,
-          "clean_sheets": 3
-        },
-        "home": {
-          "played": 4,
-          "win": 2,
-          "draw": 2,
-          "lose": 0,
-          "goals": {
-            "for": 9,
-            "against": 5
-          },
-          "form_home": "DDWW",
-          "avg_corners_home_per_game": 6.75,
-          "aproveitamento_home": 66.7,
-          "btts_home_matches": 2,
-          "over_2_5_goals_home": 1,
-          "over_0_5_ht_home": 1,
-          "over_0_5_ft_home": 3,
-          "clean_sheets_home": 2
-        },
-        "away": {
           "played": 5,
           "win": 1,
-          "draw": 2,
-          "lose": 2,
+          "draw": 0,
+          "lose": 4,
           "goals": {
-            "for": 7,
-            "against": 10
+            "for": 6,
+            "against": 11
           },
-          "form_visitor": "DLWDL",
-          "btts_away_matches": 3,
-          "avg_corners_away_per_game": 4.6,
-          "aproveitamento_away": 33.3,
+          "form_visitor": "LWLLL",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 3.2,
+          "aproveitamento_away": 20.0,
           "over_2_5_goals_away": 3,
           "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 2,
@@ -5609,6 +5609,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/england-harry-kane.png"
       },
       {
+        "jogador-nome": "Victor James Osimhen",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 7,
+        "jogador-assists": 2,
+        "jogador-partidas": 8,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/turkey-galatasaray.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/nigeria-victor-osimhen.png"
+      },
+      {
         "jogador-nome": "Erling Braut Haaland",
         "jogador-posicao": "Forward",
         "jogador-gols": 7,
@@ -5625,15 +5634,6 @@
         "jogador-partidas": 12,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/norway-fk-bodo-glimt.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/norway-jens-petter-hauge.png"
-      },
-      {
-        "jogador-nome": "Victor James Osimhen",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 6,
-        "jogador-assists": 2,
-        "jogador-partidas": 7,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/turkey-galatasaray.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/nigeria-victor-osimhen.png"
       },
       {
         "jogador-nome": "Leandro Livramento Andrade",
