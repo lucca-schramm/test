@@ -684,6 +684,74 @@
       {
         "rank": 11,
         "team": {
+          "id": 68,
+          "name": "Paris Saint-Germain FC",
+          "logo": "https://cdn.footystats.org/img/teams/france-paris-saint-germain-fc.png"
+        },
+        "points": 18,
+        "goalsDiff": 11,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 10,
+          "win": 5,
+          "draw": 3,
+          "lose": 2,
+          "goals": {
+            "for": 26,
+            "against": 15
+          },
+          "form": "DLDWD",
+          "btts_matches": 8,
+          "avg_corners_per_game": 7.0,
+          "aproveitamento": 60.0,
+          "over_2_5_goals": 8,
+          "over_0_5_ht": 6,
+          "over_0_5_ft": 8,
+          "clean_sheets": 2
+        },
+        "home": {
+          "played": 5,
+          "win": 2,
+          "draw": 2,
+          "lose": 1,
+          "goals": {
+            "for": 13,
+            "against": 8
+          },
+          "form_home": "WLWDD",
+          "avg_corners_home_per_game": 6.6,
+          "aproveitamento_home": 53.3,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 5,
+          "win": 3,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 13,
+            "against": 7
+          },
+          "form_visitor": "WWDLW",
+          "btts_away_matches": 4,
+          "avg_corners_away_per_game": 7.4,
+          "aproveitamento_away": 66.7,
+          "over_2_5_goals_away": 4,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 12,
+        "team": {
           "id": 332,
           "name": "FK Bodo - Glimt",
           "logo": "https://cdn.footystats.org/img/teams/norway-fk-bodo-glimt.png"
@@ -746,74 +814,6 @@
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 5,
           "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 12,
-        "team": {
-          "id": 68,
-          "name": "Paris Saint-Germain FC",
-          "logo": "https://cdn.footystats.org/img/teams/france-paris-saint-germain-fc.png"
-        },
-        "points": 17,
-        "goalsDiff": 11,
-        "group": "Europe UEFA Champions League 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 9,
-          "win": 5,
-          "draw": 2,
-          "lose": 2,
-          "goals": {
-            "for": 24,
-            "against": 13
-          },
-          "form": "WDLDW",
-          "btts_matches": 7,
-          "avg_corners_per_game": 6.89,
-          "aproveitamento": 63.0,
-          "over_2_5_goals": 7,
-          "over_0_5_ht": 6,
-          "over_0_5_ft": 7,
-          "clean_sheets": 2
-        },
-        "home": {
-          "played": 4,
-          "win": 2,
-          "draw": 1,
-          "lose": 1,
-          "goals": {
-            "for": 11,
-            "against": 6
-          },
-          "form_home": "WLWD",
-          "avg_corners_home_per_game": 6.25,
-          "aproveitamento_home": 58.3,
-          "btts_home_matches": 3,
-          "over_2_5_goals_home": 3,
-          "over_0_5_ht_home": 3,
-          "over_0_5_ft_home": 3,
-          "clean_sheets_home": 1
-        },
-        "away": {
-          "played": 5,
-          "win": 3,
-          "draw": 1,
-          "lose": 1,
-          "goals": {
-            "for": 13,
-            "against": 7
-          },
-          "form_visitor": "WWDLW",
-          "btts_away_matches": 4,
-          "avg_corners_away_per_game": 7.4,
-          "aproveitamento_away": 66.7,
-          "over_2_5_goals_away": 4,
-          "over_0_5_ht_away": 3,
-          "over_0_5_ft_away": 4,
-          "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1976,6 +1976,74 @@
       {
         "rank": 30,
         "team": {
+          "id": 56,
+          "name": "AS Monaco FC",
+          "logo": "https://cdn.footystats.org/img/teams/monaco-as-monaco-fc.png"
+        },
+        "points": 11,
+        "goalsDiff": -7,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 10,
+          "win": 2,
+          "draw": 5,
+          "lose": 3,
+          "goals": {
+            "for": 12,
+            "against": 19
+          },
+          "form": "WLDLD",
+          "btts_matches": 6,
+          "avg_corners_per_game": 4.8,
+          "aproveitamento": 36.7,
+          "over_2_5_goals": 6,
+          "over_0_5_ht": 5,
+          "over_0_5_ft": 5,
+          "clean_sheets": 4
+        },
+        "home": {
+          "played": 5,
+          "win": 1,
+          "draw": 3,
+          "lose": 1,
+          "goals": {
+            "for": 5,
+            "against": 5
+          },
+          "form_home": "DDWDL",
+          "avg_corners_home_per_game": 5.2,
+          "aproveitamento_home": 40.0,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 2,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 5,
+          "win": 1,
+          "draw": 2,
+          "lose": 2,
+          "goals": {
+            "for": 7,
+            "against": 14
+          },
+          "form_visitor": "LWDLD",
+          "btts_away_matches": 4,
+          "avg_corners_away_per_game": 4.4,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 4,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 31,
+        "team": {
           "id": 5411,
           "name": "KF Shkendija",
           "logo": "https://cdn.footystats.org/img/teams/fyr-macedonia-kf-shkendija.png"
@@ -2037,74 +2105,6 @@
           "over_2_5_goals_away": 2,
           "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 1,
-          "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 31,
-        "team": {
-          "id": 56,
-          "name": "AS Monaco FC",
-          "logo": "https://cdn.footystats.org/img/teams/monaco-as-monaco-fc.png"
-        },
-        "points": 10,
-        "goalsDiff": -7,
-        "group": "Europe UEFA Champions League 20252026",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 9,
-          "win": 2,
-          "draw": 4,
-          "lose": 3,
-          "goals": {
-            "for": 10,
-            "against": 17
-          },
-          "form": "DWLDL",
-          "btts_matches": 5,
-          "avg_corners_per_game": 4.89,
-          "aproveitamento": 37.0,
-          "over_2_5_goals": 5,
-          "over_0_5_ht": 4,
-          "over_0_5_ft": 4,
-          "clean_sheets": 4
-        },
-        "home": {
-          "played": 5,
-          "win": 1,
-          "draw": 3,
-          "lose": 1,
-          "goals": {
-            "for": 5,
-            "against": 5
-          },
-          "form_home": "DDWDL",
-          "avg_corners_home_per_game": 5.2,
-          "aproveitamento_home": 40.0,
-          "btts_home_matches": 2,
-          "over_2_5_goals_home": 2,
-          "over_0_5_ht_home": 2,
-          "over_0_5_ft_home": 2,
-          "clean_sheets_home": 3
-        },
-        "away": {
-          "played": 4,
-          "win": 1,
-          "draw": 1,
-          "lose": 2,
-          "goals": {
-            "for": 5,
-            "against": 12
-          },
-          "form_visitor": "LWDL",
-          "btts_away_matches": 3,
-          "avg_corners_away_per_game": 4.5,
-          "aproveitamento_away": 33.3,
-          "over_2_5_goals_away": 3,
-          "over_0_5_ht_away": 2,
-          "over_0_5_ft_away": 2,
           "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
