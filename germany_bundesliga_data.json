@@ -480,6 +480,74 @@
       {
         "rank": 8,
         "team": {
+          "id": 50,
+          "name": "FC Augsburg",
+          "logo": "https://cdn.footystats.org/img/teams/germany-fc-augsburg.png"
+        },
+        "points": 31,
+        "goalsDiff": -11,
+        "group": "Germany Bundesliga 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 24,
+          "win": 9,
+          "draw": 4,
+          "lose": 11,
+          "goals": {
+            "for": 30,
+            "against": 41
+          },
+          "form": "WLWWW",
+          "btts_matches": 13,
+          "avg_corners_per_game": 4.67,
+          "aproveitamento": 43.1,
+          "over_2_5_goals": 14,
+          "over_0_5_ht": 7,
+          "over_0_5_ft": 12,
+          "clean_sheets": 5
+        },
+        "home": {
+          "played": 13,
+          "win": 6,
+          "draw": 3,
+          "lose": 4,
+          "goals": {
+            "for": 17,
+            "against": 19
+          },
+          "form_home": "DDWWW",
+          "avg_corners_home_per_game": 5.46,
+          "aproveitamento_home": 53.8,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 8,
+          "clean_sheets_home": 5
+        },
+        "away": {
+          "played": 11,
+          "win": 3,
+          "draw": 1,
+          "lose": 7,
+          "goals": {
+            "for": 13,
+            "against": 22
+          },
+          "form_visitor": "LLWLW",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 3.73,
+          "aproveitamento_away": 30.3,
+          "over_2_5_goals_away": 8,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 9,
+        "team": {
           "id": 44,
           "name": "Eintracht Frankfurt",
           "logo": "https://cdn.footystats.org/img/teams/germany-eintracht-frankfurt.png"
@@ -541,74 +609,6 @@
           "over_2_5_goals_away": 9,
           "over_0_5_ht_away": 7,
           "over_0_5_ft_away": 9,
-          "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 9,
-        "team": {
-          "id": 50,
-          "name": "FC Augsburg",
-          "logo": "https://cdn.footystats.org/img/teams/germany-fc-augsburg.png"
-        },
-        "points": 28,
-        "goalsDiff": -13,
-        "group": "Germany Bundesliga 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 23,
-          "win": 8,
-          "draw": 4,
-          "lose": 11,
-          "goals": {
-            "for": 28,
-            "against": 41
-          },
-          "form": "WWLWW",
-          "btts_matches": 13,
-          "avg_corners_per_game": 4.61,
-          "aproveitamento": 40.6,
-          "over_2_5_goals": 14,
-          "over_0_5_ht": 7,
-          "over_0_5_ft": 11,
-          "clean_sheets": 4
-        },
-        "home": {
-          "played": 12,
-          "win": 5,
-          "draw": 3,
-          "lose": 4,
-          "goals": {
-            "for": 15,
-            "against": 19
-          },
-          "form_home": "DDDWW",
-          "avg_corners_home_per_game": 5.42,
-          "aproveitamento_home": 50.0,
-          "btts_home_matches": 6,
-          "over_2_5_goals_home": 6,
-          "over_0_5_ht_home": 4,
-          "over_0_5_ft_home": 7,
-          "clean_sheets_home": 4
-        },
-        "away": {
-          "played": 11,
-          "win": 3,
-          "draw": 1,
-          "lose": 7,
-          "goals": {
-            "for": 13,
-            "against": 22
-          },
-          "form_visitor": "LLWLW",
-          "btts_away_matches": 7,
-          "avg_corners_away_per_game": 3.73,
-          "aproveitamento_away": 30.3,
-          "over_2_5_goals_away": 8,
-          "over_0_5_ht_away": 3,
-          "over_0_5_ft_away": 4,
           "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -757,23 +757,23 @@
           "logo": "https://cdn.footystats.org/img/teams/germany-1-fc-koln.png"
         },
         "points": 24,
-        "goalsDiff": -6,
+        "goalsDiff": -8,
         "group": "Germany Bundesliga 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 23,
+          "played": 24,
           "win": 6,
           "draw": 6,
-          "lose": 11,
+          "lose": 12,
           "goals": {
             "for": 33,
-            "against": 39
+            "against": 41
           },
-          "form": "LWLLD",
+          "form": "WLLDL",
           "btts_matches": 17,
-          "avg_corners_per_game": 4.13,
-          "aproveitamento": 34.8,
+          "avg_corners_per_game": 4.33,
+          "aproveitamento": 33.3,
           "over_2_5_goals": 14,
           "over_0_5_ht": 12,
           "over_0_5_ft": 14,
@@ -798,18 +798,18 @@
           "clean_sheets_home": 1
         },
         "away": {
-          "played": 11,
+          "played": 12,
           "win": 2,
           "draw": 3,
-          "lose": 6,
+          "lose": 7,
           "goals": {
             "for": 12,
-            "against": 20
+            "against": 22
           },
-          "form_visitor": "DLDLL",
+          "form_visitor": "LDLLL",
           "btts_away_matches": 7,
-          "avg_corners_away_per_game": 3.91,
-          "aproveitamento_away": 27.3,
+          "avg_corners_away_per_game": 4.33,
+          "aproveitamento_away": 25.0,
           "over_2_5_goals_away": 6,
           "over_0_5_ht_away": 5,
           "over_0_5_ft_away": 6,
@@ -1333,7 +1333,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 8,
         "jogador-assists": 4,
-        "jogador-partidas": 23,
+        "jogador-partidas": 24,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-1-fc-koln.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-said-el-mala.png"
       },
