@@ -412,28 +412,96 @@
       {
         "rank": 7,
         "team": {
+          "id": 44,
+          "name": "Eintracht Frankfurt",
+          "logo": "https://cdn.footystats.org/img/teams/germany-eintracht-frankfurt.png"
+        },
+        "points": 34,
+        "goalsDiff": -1,
+        "group": "Germany Bundesliga 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 24,
+          "win": 9,
+          "draw": 7,
+          "lose": 8,
+          "goals": {
+            "for": 48,
+            "against": 49
+          },
+          "form": "LDWLW",
+          "btts_matches": 17,
+          "avg_corners_per_game": 4.29,
+          "aproveitamento": 47.2,
+          "over_2_5_goals": 16,
+          "over_0_5_ht": 13,
+          "over_0_5_ft": 19,
+          "clean_sheets": 5
+        },
+        "home": {
+          "played": 12,
+          "win": 6,
+          "draw": 2,
+          "lose": 4,
+          "goals": {
+            "for": 22,
+            "against": 18
+          },
+          "form_home": "DLLWW",
+          "avg_corners_home_per_game": 5.0,
+          "aproveitamento_home": 55.6,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 7,
+          "over_0_5_ht_home": 6,
+          "over_0_5_ft_home": 10,
+          "clean_sheets_home": 5
+        },
+        "away": {
+          "played": 12,
+          "win": 3,
+          "draw": 5,
+          "lose": 4,
+          "goals": {
+            "for": 26,
+            "against": 31
+          },
+          "form_visitor": "DLDDL",
+          "btts_away_matches": 11,
+          "avg_corners_away_per_game": 3.58,
+          "aproveitamento_away": 38.9,
+          "over_2_5_goals_away": 9,
+          "over_0_5_ht_away": 7,
+          "over_0_5_ft_away": 9,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 8,
+        "team": {
           "id": 42,
           "name": "SC Freiburg",
           "logo": "https://cdn.footystats.org/img/teams/germany-sc-freiburg.png"
         },
         "points": 33,
-        "goalsDiff": -3,
+        "goalsDiff": -5,
         "group": "Germany Bundesliga 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 23,
+          "played": 24,
           "win": 9,
           "draw": 6,
-          "lose": 8,
+          "lose": 9,
           "goals": {
             "for": 34,
-            "against": 37
+            "against": 39
           },
-          "form": "WLWLW",
+          "form": "LWLWL",
           "btts_matches": 14,
-          "avg_corners_per_game": 4.39,
-          "aproveitamento": 47.8,
+          "avg_corners_per_game": 4.46,
+          "aproveitamento": 45.8,
           "over_2_5_goals": 15,
           "over_0_5_ht": 11,
           "over_0_5_ft": 12,
@@ -458,18 +526,18 @@
           "clean_sheets_home": 2
         },
         "away": {
-          "played": 12,
+          "played": 13,
           "win": 2,
           "draw": 3,
-          "lose": 7,
+          "lose": 8,
           "goals": {
             "for": 13,
-            "against": 25
+            "against": 27
           },
-          "form_visitor": "WLDLL",
+          "form_visitor": "LDLLL",
           "btts_away_matches": 5,
-          "avg_corners_away_per_game": 3.92,
-          "aproveitamento_away": 25.0,
+          "avg_corners_away_per_game": 4.08,
+          "aproveitamento_away": 23.1,
           "over_2_5_goals_away": 7,
           "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 4,
@@ -478,7 +546,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "team": {
           "id": 50,
           "name": "FC Augsburg",
@@ -541,74 +609,6 @@
           "over_2_5_goals_away": 8,
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 4,
-          "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 9,
-        "team": {
-          "id": 44,
-          "name": "Eintracht Frankfurt",
-          "logo": "https://cdn.footystats.org/img/teams/germany-eintracht-frankfurt.png"
-        },
-        "points": 31,
-        "goalsDiff": -3,
-        "group": "Germany Bundesliga 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 23,
-          "win": 8,
-          "draw": 7,
-          "lose": 8,
-          "goals": {
-            "for": 46,
-            "against": 49
-          },
-          "form": "LLDWL",
-          "btts_matches": 17,
-          "avg_corners_per_game": 4.26,
-          "aproveitamento": 44.9,
-          "over_2_5_goals": 16,
-          "over_0_5_ht": 13,
-          "over_0_5_ft": 18,
-          "clean_sheets": 4
-        },
-        "home": {
-          "played": 11,
-          "win": 5,
-          "draw": 2,
-          "lose": 4,
-          "goals": {
-            "for": 20,
-            "against": 18
-          },
-          "form_home": "WDLLW",
-          "avg_corners_home_per_game": 5.0,
-          "aproveitamento_home": 51.5,
-          "btts_home_matches": 6,
-          "over_2_5_goals_home": 7,
-          "over_0_5_ht_home": 6,
-          "over_0_5_ft_home": 9,
-          "clean_sheets_home": 4
-        },
-        "away": {
-          "played": 12,
-          "win": 3,
-          "draw": 5,
-          "lose": 4,
-          "goals": {
-            "for": 26,
-            "against": 31
-          },
-          "form_visitor": "DLDDL",
-          "btts_away_matches": 11,
-          "avg_corners_away_per_game": 3.58,
-          "aproveitamento_away": 38.9,
-          "over_2_5_goals_away": 9,
-          "over_0_5_ht_away": 7,
-          "over_0_5_ft_away": 9,
           "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1315,7 +1315,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 9,
         "jogador-assists": 0,
-        "jogador-partidas": 11,
+        "jogador-partidas": 12,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-eintracht-frankfurt.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/germany-jonathan-burkardt.png"
       },
