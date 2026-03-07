@@ -140,6 +140,74 @@
       {
         "rank": 3,
         "team": {
+          "id": 51,
+          "name": "VfB Stuttgart 1893",
+          "logo": "https://cdn.footystats.org/img/teams/germany-vfb-stuttgart-1893.png"
+        },
+        "points": 47,
+        "goalsDiff": 16,
+        "group": "Germany Bundesliga 20252026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 25,
+          "win": 14,
+          "draw": 5,
+          "lose": 6,
+          "goals": {
+            "for": 50,
+            "against": 34
+          },
+          "form": "LWDWD",
+          "btts_matches": 15,
+          "avg_corners_per_game": 5.4,
+          "aproveitamento": 62.7,
+          "over_2_5_goals": 19,
+          "over_0_5_ht": 13,
+          "over_0_5_ft": 21,
+          "clean_sheets": 9
+        },
+        "home": {
+          "played": 12,
+          "win": 9,
+          "draw": 2,
+          "lose": 1,
+          "goals": {
+            "for": 21,
+            "against": 12
+          },
+          "form_home": "WDWWW",
+          "avg_corners_home_per_game": 5.08,
+          "aproveitamento_home": 80.6,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 6,
+          "over_0_5_ft_home": 10,
+          "clean_sheets_home": 6
+        },
+        "away": {
+          "played": 13,
+          "win": 5,
+          "draw": 3,
+          "lose": 5,
+          "goals": {
+            "for": 29,
+            "against": 22
+          },
+          "form_visitor": "WWLDD",
+          "btts_away_matches": 10,
+          "avg_corners_away_per_game": 5.69,
+          "aproveitamento_away": 46.2,
+          "over_2_5_goals_away": 13,
+          "over_0_5_ht_away": 7,
+          "over_0_5_ft_away": 11,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 4,
+        "team": {
           "id": 49,
           "name": "TSG 1899 Hoffenheim",
           "logo": "https://cdn.footystats.org/img/teams/germany-tsg-1899-hoffenheim.png"
@@ -206,75 +274,75 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "team": {
-          "id": 51,
-          "name": "VfB Stuttgart 1893",
-          "logo": "https://cdn.footystats.org/img/teams/germany-vfb-stuttgart-1893.png"
+          "id": 40,
+          "name": "Bayer 04 Leverkusen",
+          "logo": "https://cdn.footystats.org/img/teams/germany-bayer-04-leverkusen.png"
         },
-        "points": 46,
+        "points": 44,
         "goalsDiff": 16,
         "group": "Germany Bundesliga 20252026",
         "status": "same",
-        "description": "Copa Libertadores",
+        "description": "Copa Sul-Americana",
         "all": {
-          "played": 24,
-          "win": 14,
-          "draw": 4,
-          "lose": 6,
+          "played": 25,
+          "win": 13,
+          "draw": 5,
+          "lose": 7,
           "goals": {
             "for": 48,
             "against": 32
           },
-          "form": "WLWDW",
+          "form": "WLDWD",
           "btts_matches": 14,
-          "avg_corners_per_game": 5.38,
-          "aproveitamento": 63.9,
-          "over_2_5_goals": 18,
-          "over_0_5_ht": 13,
-          "over_0_5_ft": 20,
-          "clean_sheets": 9
+          "avg_corners_per_game": 5.08,
+          "aproveitamento": 58.7,
+          "over_2_5_goals": 14,
+          "over_0_5_ht": 15,
+          "over_0_5_ft": 17,
+          "clean_sheets": 7
         },
         "home": {
           "played": 12,
-          "win": 9,
+          "win": 7,
           "draw": 2,
-          "lose": 1,
+          "lose": 3,
           "goals": {
-            "for": 21,
-            "against": 12
+            "for": 25,
+            "against": 11
           },
-          "form_home": "WDWWW",
-          "avg_corners_home_per_game": 5.08,
-          "aproveitamento_home": 80.6,
-          "btts_home_matches": 5,
+          "form_home": "WLWWD",
+          "avg_corners_home_per_game": 6.0,
+          "aproveitamento_home": 63.9,
+          "btts_home_matches": 6,
           "over_2_5_goals_home": 6,
-          "over_0_5_ht_home": 6,
+          "over_0_5_ht_home": 7,
           "over_0_5_ft_home": 10,
           "clean_sheets_home": 6
         },
         "away": {
-          "played": 12,
-          "win": 5,
-          "draw": 2,
-          "lose": 5,
+          "played": 13,
+          "win": 6,
+          "draw": 3,
+          "lose": 4,
           "goals": {
-            "for": 27,
-            "against": 20
+            "for": 23,
+            "against": 21
           },
-          "form_visitor": "WWWLD",
-          "btts_away_matches": 9,
-          "avg_corners_away_per_game": 5.67,
-          "aproveitamento_away": 47.2,
-          "over_2_5_goals_away": 12,
-          "over_0_5_ht_away": 7,
-          "over_0_5_ft_away": 10,
-          "clean_sheets_away": 3
+          "form_visitor": "WDLWD",
+          "btts_away_matches": 8,
+          "avg_corners_away_per_game": 4.23,
+          "aproveitamento_away": 53.8,
+          "over_2_5_goals_away": 8,
+          "over_0_5_ht_away": 8,
+          "over_0_5_ft_away": 7,
+          "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "team": {
           "id": 46,
           "name": "Rasen Ballsport Leipzig",
@@ -338,74 +406,6 @@
           "over_0_5_ht_away": 7,
           "over_0_5_ft_away": 6,
           "clean_sheets_away": 5
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 6,
-        "team": {
-          "id": 40,
-          "name": "Bayer 04 Leverkusen",
-          "logo": "https://cdn.footystats.org/img/teams/germany-bayer-04-leverkusen.png"
-        },
-        "points": 43,
-        "goalsDiff": 16,
-        "group": "Germany Bundesliga 20252026",
-        "status": "same",
-        "description": "Copa Sul-Americana",
-        "all": {
-          "played": 24,
-          "win": 13,
-          "draw": 4,
-          "lose": 7,
-          "goals": {
-            "for": 45,
-            "against": 29
-          },
-          "form": "DWLDW",
-          "btts_matches": 13,
-          "avg_corners_per_game": 5.21,
-          "aproveitamento": 59.7,
-          "over_2_5_goals": 13,
-          "over_0_5_ht": 14,
-          "over_0_5_ft": 16,
-          "clean_sheets": 7
-        },
-        "home": {
-          "played": 12,
-          "win": 7,
-          "draw": 2,
-          "lose": 3,
-          "goals": {
-            "for": 25,
-            "against": 11
-          },
-          "form_home": "WLWWD",
-          "avg_corners_home_per_game": 6.0,
-          "aproveitamento_home": 63.9,
-          "btts_home_matches": 6,
-          "over_2_5_goals_home": 6,
-          "over_0_5_ht_home": 7,
-          "over_0_5_ft_home": 10,
-          "clean_sheets_home": 6
-        },
-        "away": {
-          "played": 12,
-          "win": 6,
-          "draw": 2,
-          "lose": 4,
-          "goals": {
-            "for": 20,
-            "against": 18
-          },
-          "form_visitor": "LWDLW",
-          "btts_away_matches": 7,
-          "avg_corners_away_per_game": 4.42,
-          "aproveitamento_away": 55.6,
-          "over_2_5_goals_away": 7,
-          "over_0_5_ht_away": 7,
-          "over_0_5_ft_away": 6,
-          "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -484,45 +484,45 @@
           "name": "SC Freiburg",
           "logo": "https://cdn.footystats.org/img/teams/germany-sc-freiburg.png"
         },
-        "points": 33,
+        "points": 34,
         "goalsDiff": -5,
         "group": "Germany Bundesliga 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 24,
+          "played": 25,
           "win": 9,
-          "draw": 6,
+          "draw": 7,
           "lose": 9,
           "goals": {
-            "for": 34,
-            "against": 39
+            "for": 37,
+            "against": 42
           },
-          "form": "LWLWL",
-          "btts_matches": 14,
-          "avg_corners_per_game": 4.46,
-          "aproveitamento": 45.8,
-          "over_2_5_goals": 15,
-          "over_0_5_ht": 11,
-          "over_0_5_ft": 12,
+          "form": "WLWLD",
+          "btts_matches": 15,
+          "avg_corners_per_game": 4.48,
+          "aproveitamento": 45.3,
+          "over_2_5_goals": 16,
+          "over_0_5_ht": 12,
+          "over_0_5_ft": 13,
           "clean_sheets": 5
         },
         "home": {
-          "played": 11,
+          "played": 12,
           "win": 7,
-          "draw": 3,
+          "draw": 4,
           "lose": 1,
           "goals": {
-            "for": 21,
-            "against": 12
+            "for": 24,
+            "against": 15
           },
-          "form_home": "DWWWW",
-          "avg_corners_home_per_game": 4.91,
-          "aproveitamento_home": 72.7,
-          "btts_home_matches": 9,
-          "over_2_5_goals_home": 8,
-          "over_0_5_ht_home": 7,
-          "over_0_5_ft_home": 8,
+          "form_home": "WWWWD",
+          "avg_corners_home_per_game": 4.92,
+          "aproveitamento_home": 69.4,
+          "btts_home_matches": 10,
+          "over_2_5_goals_home": 9,
+          "over_0_5_ht_home": 8,
+          "over_0_5_ft_home": 9,
           "clean_sheets_home": 2
         },
         "away": {
@@ -888,6 +888,74 @@
       {
         "rank": 14,
         "team": {
+          "id": 34,
+          "name": "1. FSV Mainz 05",
+          "logo": "https://cdn.footystats.org/img/teams/germany-1-fsv-mainz-05.png"
+        },
+        "points": 24,
+        "goalsDiff": -12,
+        "group": "Germany Bundesliga 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 25,
+          "win": 5,
+          "draw": 9,
+          "lose": 11,
+          "goals": {
+            "for": 29,
+            "against": 41
+          },
+          "form": "WLDDD",
+          "btts_matches": 15,
+          "avg_corners_per_game": 5.08,
+          "aproveitamento": 32.0,
+          "over_2_5_goals": 13,
+          "over_0_5_ht": 12,
+          "over_0_5_ft": 12,
+          "clean_sheets": 2
+        },
+        "home": {
+          "played": 13,
+          "win": 3,
+          "draw": 5,
+          "lose": 5,
+          "goals": {
+            "for": 15,
+            "against": 16
+          },
+          "form_home": "WWWDD",
+          "avg_corners_home_per_game": 6.38,
+          "aproveitamento_home": 35.9,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 6,
+          "over_0_5_ft_home": 6,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 12,
+          "win": 2,
+          "draw": 4,
+          "lose": 6,
+          "goals": {
+            "for": 14,
+            "against": 25
+          },
+          "form_visitor": "DLWLD",
+          "btts_away_matches": 8,
+          "avg_corners_away_per_game": 3.67,
+          "aproveitamento_away": 27.8,
+          "over_2_5_goals_away": 9,
+          "over_0_5_ht_away": 6,
+          "over_0_5_ft_away": 6,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 15,
+        "team": {
           "id": 548,
           "name": "FC St. Pauli",
           "logo": "https://cdn.footystats.org/img/teams/germany-fc-st-pauli.png"
@@ -950,74 +1018,6 @@
           "over_0_5_ht_away": 5,
           "over_0_5_ft_away": 4,
           "clean_sheets_away": 3
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 15,
-        "team": {
-          "id": 34,
-          "name": "1. FSV Mainz 05",
-          "logo": "https://cdn.footystats.org/img/teams/germany-1-fsv-mainz-05.png"
-        },
-        "points": 23,
-        "goalsDiff": -12,
-        "group": "Germany Bundesliga 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 24,
-          "win": 5,
-          "draw": 8,
-          "lose": 11,
-          "goals": {
-            "for": 27,
-            "against": 39
-          },
-          "form": "WWLDD",
-          "btts_matches": 14,
-          "avg_corners_per_game": 5.08,
-          "aproveitamento": 31.9,
-          "over_2_5_goals": 12,
-          "over_0_5_ht": 11,
-          "over_0_5_ft": 11,
-          "clean_sheets": 2
-        },
-        "home": {
-          "played": 12,
-          "win": 3,
-          "draw": 4,
-          "lose": 5,
-          "goals": {
-            "for": 13,
-            "against": 14
-          },
-          "form_home": "DWWWD",
-          "avg_corners_home_per_game": 6.5,
-          "aproveitamento_home": 36.1,
-          "btts_home_matches": 6,
-          "over_2_5_goals_home": 3,
-          "over_0_5_ht_home": 5,
-          "over_0_5_ft_home": 5,
-          "clean_sheets_home": 2
-        },
-        "away": {
-          "played": 12,
-          "win": 2,
-          "draw": 4,
-          "lose": 6,
-          "goals": {
-            "for": 14,
-            "against": 25
-          },
-          "form_visitor": "DLWLD",
-          "btts_away_matches": 8,
-          "avg_corners_away_per_game": 3.67,
-          "aproveitamento_away": 27.8,
-          "over_2_5_goals_away": 9,
-          "over_0_5_ht_away": 6,
-          "over_0_5_ft_away": 6,
-          "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1239,6 +1239,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/england-harry-kane.png"
       },
       {
+        "jogador-nome": "Deniz Undav",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 15,
+        "jogador-assists": 5,
+        "jogador-partidas": 20,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-vfb-stuttgart-1893.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/germany-deniz-undav.png"
+      },
+      {
         "jogador-nome": "Luis Fernando Díaz Marulanda",
         "jogador-posicao": "Forward",
         "jogador-gols": 14,
@@ -1246,15 +1255,6 @@
         "jogador-partidas": 24,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-fc-bayern-munchen.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/colombia-luis-diaz.png"
-      },
-      {
-        "jogador-nome": "Deniz Undav",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 14,
-        "jogador-assists": 4,
-        "jogador-partidas": 19,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-vfb-stuttgart-1893.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/germany-deniz-undav.png"
       },
       {
         "jogador-nome": "Haris Tabaković",
@@ -1356,11 +1356,20 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/algeria-mohamed-amoura.png"
       },
       {
+        "jogador-nome": "Ermedin Demirović",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 8,
+        "jogador-assists": 2,
+        "jogador-partidas": 16,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-vfb-stuttgart-1893.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/bosnia-and-herzegovina-ermedin-demirovic.png"
+      },
+      {
         "jogador-nome": "Jamie Leweling",
         "jogador-posicao": "Forward",
         "jogador-gols": 7,
         "jogador-assists": 7,
-        "jogador-partidas": 23,
+        "jogador-partidas": 24,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-vfb-stuttgart-1893.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/germany-jamie-leweling.png"
       },
@@ -1392,22 +1401,13 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/czech-republic-patrik-schick.png"
       },
       {
-        "jogador-nome": "Ermedin Demirović",
+        "jogador-nome": "Vincenzo Grifo",
         "jogador-posicao": "Forward",
         "jogador-gols": 7,
-        "jogador-assists": 2,
-        "jogador-partidas": 15,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-vfb-stuttgart-1893.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/bosnia-and-herzegovina-ermedin-demirovic.png"
-      },
-      {
-        "jogador-nome": "Serge Gnabry",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 6,
-        "jogador-assists": 6,
-        "jogador-partidas": 19,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-fc-bayern-munchen.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/germany-serge-gnabry.png"
+        "jogador-assists": 1,
+        "jogador-partidas": 25,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-sc-freiburg.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/italy-vincenzo-grifo.png"
       }
     ]
   }
