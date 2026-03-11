@@ -4,6 +4,74 @@
       {
         "rank": 1,
         "team": {
+          "id": 59,
+          "name": "Arsenal FC",
+          "logo": "https://cdn.footystats.org/img/teams/england-arsenal-fc.png"
+        },
+        "points": 25,
+        "goalsDiff": 19,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 9,
+          "win": 8,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 24,
+            "against": 5
+          },
+          "form": "WWWWD",
+          "btts_matches": 4,
+          "avg_corners_per_game": 5.11,
+          "aproveitamento": 92.6,
+          "over_2_5_goals": 6,
+          "over_0_5_ht": 6,
+          "over_0_5_ft": 8,
+          "clean_sheets": 5
+        },
+        "home": {
+          "played": 4,
+          "win": 4,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 12,
+            "against": 3
+          },
+          "form_home": "WWWW",
+          "avg_corners_home_per_game": 5.75,
+          "aproveitamento_home": 100.0,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 5,
+          "win": 4,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 12,
+            "against": 2
+          },
+          "form_visitor": "WWWWD",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 4.6,
+          "aproveitamento_away": 86.7,
+          "over_2_5_goals_away": 3,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 5,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 2,
+        "team": {
           "id": 75,
           "name": "Qarabağ Ağdam FK",
           "logo": "https://cdn.footystats.org/img/teams/azerbaijan-qarabag-agdam-fk.png"
@@ -70,7 +138,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "team": {
           "id": 38,
           "name": "FC Bayern München",
@@ -134,74 +202,6 @@
           "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 3,
           "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 3,
-        "team": {
-          "id": 59,
-          "name": "Arsenal FC",
-          "logo": "https://cdn.footystats.org/img/teams/england-arsenal-fc.png"
-        },
-        "points": 24,
-        "goalsDiff": 19,
-        "group": "Europe UEFA Champions League 20252026",
-        "status": "same",
-        "description": "Copa Libertadores",
-        "all": {
-          "played": 8,
-          "win": 8,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 23,
-            "against": 4
-          },
-          "form": "WWWWW",
-          "btts_matches": 3,
-          "avg_corners_per_game": 5.5,
-          "aproveitamento": 100.0,
-          "over_2_5_goals": 6,
-          "over_0_5_ht": 6,
-          "over_0_5_ft": 7,
-          "clean_sheets": 5
-        },
-        "home": {
-          "played": 4,
-          "win": 4,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 12,
-            "against": 3
-          },
-          "form_home": "WWWW",
-          "avg_corners_home_per_game": 5.75,
-          "aproveitamento_home": 100.0,
-          "btts_home_matches": 2,
-          "over_2_5_goals_home": 3,
-          "over_0_5_ht_home": 3,
-          "over_0_5_ft_home": 3,
-          "clean_sheets_home": 2
-        },
-        "away": {
-          "played": 4,
-          "win": 4,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 11,
-            "against": 1
-          },
-          "form_visitor": "WWWW",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 5.25,
-          "aproveitamento_away": 100.0,
-          "over_2_5_goals_away": 3,
-          "over_0_5_ht_away": 3,
-          "over_0_5_ft_away": 4,
-          "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1024,6 +1024,74 @@
       {
         "rank": 16,
         "team": {
+          "id": 40,
+          "name": "Bayer 04 Leverkusen",
+          "logo": "https://cdn.footystats.org/img/teams/germany-bayer-04-leverkusen.png"
+        },
+        "points": 17,
+        "goalsDiff": 1,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 11,
+          "win": 4,
+          "draw": 5,
+          "lose": 2,
+          "goals": {
+            "for": 16,
+            "against": 15
+          },
+          "form": "LWWDD",
+          "btts_matches": 5,
+          "avg_corners_per_game": 4.36,
+          "aproveitamento": 51.5,
+          "over_2_5_goals": 4,
+          "over_0_5_ht": 4,
+          "over_0_5_ft": 9,
+          "clean_sheets": 5
+        },
+        "home": {
+          "played": 6,
+          "win": 1,
+          "draw": 4,
+          "lose": 1,
+          "goals": {
+            "for": 9,
+            "against": 11
+          },
+          "form_home": "LDWDD",
+          "avg_corners_home_per_game": 4.83,
+          "aproveitamento_home": 38.9,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 5,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 5,
+          "win": 3,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 7,
+            "against": 4
+          },
+          "form_visitor": "DWWLW",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 3.8,
+          "aproveitamento_away": 66.7,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 17,
+        "team": {
           "id": 152,
           "name": "Chelsea FC",
           "logo": "https://cdn.footystats.org/img/teams/england-chelsea-fc.png"
@@ -1032,7 +1100,7 @@
         "goalsDiff": 7,
         "group": "Europe UEFA Champions League 20252026",
         "status": "same",
-        "description": "",
+        "description": "Rebaixamento",
         "all": {
           "played": 8,
           "win": 5,
@@ -1090,7 +1158,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 17,
+        "rank": 18,
         "team": {
           "id": 114,
           "name": "Sporting Clube de Portugal",
@@ -1158,7 +1226,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 18,
+        "rank": 19,
         "team": {
           "id": 93,
           "name": "Manchester City FC",
@@ -1226,7 +1294,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 19,
+        "rank": 20,
         "team": {
           "id": 187,
           "name": "Galatasaray",
@@ -1294,7 +1362,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 20,
+        "rank": 21,
         "team": {
           "id": 464,
           "name": "Atalanta Bergamasca Calcio",
@@ -1362,7 +1430,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 21,
+        "rank": 22,
         "team": {
           "id": 90,
           "name": "Juventus FC",
@@ -1426,74 +1494,6 @@
           "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 2,
           "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 22,
-        "team": {
-          "id": 40,
-          "name": "Bayer 04 Leverkusen",
-          "logo": "https://cdn.footystats.org/img/teams/germany-bayer-04-leverkusen.png"
-        },
-        "points": 16,
-        "goalsDiff": 1,
-        "group": "Europe UEFA Champions League 20252026",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 10,
-          "win": 4,
-          "draw": 4,
-          "lose": 2,
-          "goals": {
-            "for": 15,
-            "against": 14
-          },
-          "form": "DLWWD",
-          "btts_matches": 4,
-          "avg_corners_per_game": 4.6,
-          "aproveitamento": 53.3,
-          "over_2_5_goals": 4,
-          "over_0_5_ht": 4,
-          "over_0_5_ft": 8,
-          "clean_sheets": 5
-        },
-        "home": {
-          "played": 5,
-          "win": 1,
-          "draw": 3,
-          "lose": 1,
-          "goals": {
-            "for": 8,
-            "against": 10
-          },
-          "form_home": "DLDWD",
-          "avg_corners_home_per_game": 5.4,
-          "aproveitamento_home": 40.0,
-          "btts_home_matches": 3,
-          "over_2_5_goals_home": 3,
-          "over_0_5_ht_home": 3,
-          "over_0_5_ft_home": 4,
-          "clean_sheets_home": 2
-        },
-        "away": {
-          "played": 5,
-          "win": 3,
-          "draw": 1,
-          "lose": 1,
-          "goals": {
-            "for": 7,
-            "against": 4
-          },
-          "form_visitor": "DWWLW",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 3.8,
-          "aproveitamento_away": 66.7,
-          "over_2_5_goals_away": 1,
-          "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 4,
-          "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -5735,7 +5735,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 6,
         "jogador-assists": 1,
-        "jogador-partidas": 7,
+        "jogador-partidas": 8,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/england-arsenal-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-gabriel-martinelli.png"
       },
