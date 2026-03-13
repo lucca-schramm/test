@@ -4,6 +4,74 @@
       {
         "rank": 1,
         "team": {
+          "id": 618,
+          "name": "São Paulo FC",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-sao-paulo-fc.png"
+        },
+        "points": 13,
+        "goalsDiff": 6,
+        "group": "Brazil Serie A 2026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 5,
+          "win": 4,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 8,
+            "against": 2
+          },
+          "form": "WDWWW",
+          "btts_matches": 2,
+          "avg_corners_per_game": 5.4,
+          "aproveitamento": 86.7,
+          "over_2_5_goals": 1,
+          "over_0_5_ht": 1,
+          "over_0_5_ft": 5,
+          "clean_sheets": 3
+        },
+        "home": {
+          "played": 3,
+          "win": 3,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 6,
+            "against": 1
+          },
+          "form_home": "WWW",
+          "avg_corners_home_per_game": 5.33,
+          "aproveitamento_home": 100.0,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 2,
+          "win": 1,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 2,
+            "against": 1
+          },
+          "form_visitor": "DW",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 5.5,
+          "aproveitamento_away": 66.7,
+          "over_2_5_goals_away": 0,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 2,
+        "team": {
           "id": 619,
           "name": "SE Palmeiras",
           "logo": "https://cdn.footystats.org/img/teams/brazil-se-palmeiras.png"
@@ -66,74 +134,6 @@
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 2,
           "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 2,
-        "team": {
-          "id": 618,
-          "name": "São Paulo FC",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-sao-paulo-fc.png"
-        },
-        "points": 10,
-        "goalsDiff": 4,
-        "group": "Brazil Serie A 2026",
-        "status": "same",
-        "description": "Copa Libertadores",
-        "all": {
-          "played": 4,
-          "win": 3,
-          "draw": 1,
-          "lose": 0,
-          "goals": {
-            "for": 6,
-            "against": 2
-          },
-          "form": "WDWW",
-          "btts_matches": 2,
-          "avg_corners_per_game": 4.0,
-          "aproveitamento": 83.3,
-          "over_2_5_goals": 1,
-          "over_0_5_ht": 1,
-          "over_0_5_ft": 4,
-          "clean_sheets": 2
-        },
-        "home": {
-          "played": 2,
-          "win": 2,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 4,
-            "against": 1
-          },
-          "form_home": "WW",
-          "avg_corners_home_per_game": 2.5,
-          "aproveitamento_home": 100.0,
-          "btts_home_matches": 1,
-          "over_2_5_goals_home": 1,
-          "over_0_5_ht_home": 1,
-          "over_0_5_ft_home": 2,
-          "clean_sheets_home": 1
-        },
-        "away": {
-          "played": 2,
-          "win": 1,
-          "draw": 1,
-          "lose": 0,
-          "goals": {
-            "for": 2,
-            "against": 1
-          },
-          "form_visitor": "DW",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 5.5,
-          "aproveitamento_away": 66.7,
-          "over_2_5_goals_away": 0,
-          "over_0_5_ht_away": 0,
-          "over_0_5_ft_away": 2,
-          "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -757,23 +757,23 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-chapecoense-af.png"
         },
         "points": 5,
-        "goalsDiff": 2,
+        "goalsDiff": 0,
         "group": "Brazil Serie A 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 3,
+          "played": 4,
           "win": 1,
           "draw": 2,
-          "lose": 0,
+          "lose": 1,
           "goals": {
             "for": 8,
-            "against": 6
+            "against": 8
           },
-          "form": "WDD",
+          "form": "WDDL",
           "btts_matches": 3,
-          "avg_corners_per_game": 2.33,
-          "aproveitamento": 55.6,
+          "avg_corners_per_game": 3.25,
+          "aproveitamento": 41.7,
           "over_2_5_goals": 2,
           "over_0_5_ht": 2,
           "over_0_5_ft": 3,
@@ -798,18 +798,18 @@
           "clean_sheets_home": 0
         },
         "away": {
-          "played": 1,
+          "played": 2,
           "win": 0,
           "draw": 1,
-          "lose": 0,
+          "lose": 1,
           "goals": {
             "for": 1,
-            "against": 1
+            "against": 3
           },
-          "form_visitor": "D",
+          "form_visitor": "DL",
           "btts_away_matches": 1,
-          "avg_corners_away_per_game": 0,
-          "aproveitamento_away": 33.3,
+          "avg_corners_away_per_game": 3.0,
+          "aproveitamento_away": 16.7,
           "over_2_5_goals_away": 0,
           "over_0_5_ht_away": 0,
           "over_0_5_ft_away": 1,
@@ -1402,6 +1402,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-vitor-roque.png"
       },
       {
+        "jogador-nome": "Jonathan Calleri",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 3,
+        "jogador-assists": 0,
+        "jogador-partidas": 5,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-sao-paulo-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/argentina-jonathan-calleri.png"
+      },
+      {
         "jogador-nome": "Breno Henrique Vaconcelos Lopes",
         "jogador-posicao": "Forward",
         "jogador-gols": 3,
@@ -1415,7 +1424,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 2,
         "jogador-assists": 2,
-        "jogador-partidas": 3,
+        "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-chapecoense-af.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-jean-carlos-vicente.png"
       },
@@ -1433,7 +1442,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 2,
         "jogador-assists": 1,
-        "jogador-partidas": 3,
+        "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-chapecoense-af.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/paraguay-walter-david-clar-fritz.png"
       },
@@ -1445,6 +1454,15 @@
         "jogador-partidas": 5,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ca-mineiro.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-victor-hugo-gomes-silva.png"
+      },
+      {
+        "jogador-nome": "Luciano da Rocha Neves",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 2,
+        "jogador-assists": 1,
+        "jogador-partidas": 4,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-sao-paulo-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-luciano-da-rocha-neves.png"
       },
       {
         "jogador-nome": "José Manuel López",
@@ -1501,15 +1519,6 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-julimar-silva-oliveira-junior.png"
       },
       {
-        "jogador-nome": "Jonathan Calleri",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 2,
-        "jogador-assists": 0,
-        "jogador-partidas": 4,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-sao-paulo-fc.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/argentina-jonathan-calleri.png"
-      },
-      {
         "jogador-nome": "John Kennedy Batista de Souza",
         "jogador-posicao": "Forward",
         "jogador-gols": 2,
@@ -1535,15 +1544,6 @@
         "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-mirassol-futebol-clube.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-igor-marques-paciencia-cardoso.png"
-      },
-      {
-        "jogador-nome": "Gustavo Raúl Gómez Portillo",
-        "jogador-posicao": "Defender",
-        "jogador-gols": 2,
-        "jogador-assists": 0,
-        "jogador-partidas": 5,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-se-palmeiras.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/paraguay-gustavo-gomez.png"
       }
     ]
   }
