@@ -684,6 +684,74 @@
       {
         "rank": 11,
         "team": {
+          "id": 610,
+          "name": "EC Vitória",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-ec-vitoria.png"
+        },
+        "points": 7,
+        "goalsDiff": -1,
+        "group": "Brazil Serie A 2026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 5,
+          "win": 2,
+          "draw": 1,
+          "lose": 2,
+          "goals": {
+            "for": 7,
+            "against": 8
+          },
+          "form": "WLLDW",
+          "btts_matches": 3,
+          "avg_corners_per_game": 4.4,
+          "aproveitamento": 46.7,
+          "over_2_5_goals": 2,
+          "over_0_5_ht": 2,
+          "over_0_5_ft": 4,
+          "clean_sheets": 2
+        },
+        "home": {
+          "played": 3,
+          "win": 2,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 5,
+            "against": 2
+          },
+          "form_home": "WLW",
+          "avg_corners_home_per_game": 5.0,
+          "aproveitamento_home": 66.7,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 2,
+          "win": 0,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 2,
+            "against": 6
+          },
+          "form_visitor": "LD",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 3.5,
+          "aproveitamento_away": 16.7,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 12,
+        "team": {
           "id": 2721,
           "name": "Mirassol Futebol Clube",
           "logo": "https://cdn.footystats.org/img/teams/brazil-mirassol-futebol-clube.png"
@@ -750,7 +818,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "team": {
           "id": 623,
           "name": "Chapecoense AF",
@@ -811,74 +879,6 @@
           "avg_corners_away_per_game": 3.0,
           "aproveitamento_away": 16.7,
           "over_2_5_goals_away": 0,
-          "over_0_5_ht_away": 0,
-          "over_0_5_ft_away": 1,
-          "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 13,
-        "team": {
-          "id": 620,
-          "name": "CA Mineiro",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-ca-mineiro.png"
-        },
-        "points": 5,
-        "goalsDiff": -1,
-        "group": "Brazil Serie A 2026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 5,
-          "win": 1,
-          "draw": 2,
-          "lose": 2,
-          "goals": {
-            "for": 7,
-            "against": 8
-          },
-          "form": "DLDLW",
-          "btts_matches": 3,
-          "avg_corners_per_game": 5.6,
-          "aproveitamento": 33.3,
-          "over_2_5_goals": 3,
-          "over_0_5_ht": 3,
-          "over_0_5_ft": 3,
-          "clean_sheets": 1
-        },
-        "home": {
-          "played": 3,
-          "win": 1,
-          "draw": 2,
-          "lose": 0,
-          "goals": {
-            "for": 6,
-            "against": 5
-          },
-          "form_home": "DDW",
-          "avg_corners_home_per_game": 4.33,
-          "aproveitamento_home": 55.6,
-          "btts_home_matches": 2,
-          "over_2_5_goals_home": 2,
-          "over_0_5_ht_home": 3,
-          "over_0_5_ft_home": 2,
-          "clean_sheets_home": 1
-        },
-        "away": {
-          "played": 2,
-          "win": 0,
-          "draw": 0,
-          "lose": 2,
-          "goals": {
-            "for": 1,
-            "against": 3
-          },
-          "form_visitor": "LL",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 7.5,
-          "aproveitamento_away": 0.0,
-          "over_2_5_goals_away": 1,
           "over_0_5_ht_away": 0,
           "over_0_5_ft_away": 1,
           "clean_sheets_away": 0
@@ -956,6 +956,74 @@
       {
         "rank": 15,
         "team": {
+          "id": 620,
+          "name": "CA Mineiro",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-ca-mineiro.png"
+        },
+        "points": 5,
+        "goalsDiff": -3,
+        "group": "Brazil Serie A 2026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 6,
+          "win": 1,
+          "draw": 2,
+          "lose": 3,
+          "goals": {
+            "for": 7,
+            "against": 10
+          },
+          "form": "LDLWL",
+          "btts_matches": 3,
+          "avg_corners_per_game": 6.33,
+          "aproveitamento": 27.8,
+          "over_2_5_goals": 3,
+          "over_0_5_ht": 3,
+          "over_0_5_ft": 3,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 3,
+          "win": 1,
+          "draw": 2,
+          "lose": 0,
+          "goals": {
+            "for": 6,
+            "against": 5
+          },
+          "form_home": "DDW",
+          "avg_corners_home_per_game": 4.33,
+          "aproveitamento_home": 55.6,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 2,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 3,
+          "win": 0,
+          "draw": 0,
+          "lose": 3,
+          "goals": {
+            "for": 1,
+            "against": 5
+          },
+          "form_visitor": "LLL",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 8.33,
+          "aproveitamento_away": 0.0,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 16,
+        "team": {
           "id": 625,
           "name": "CR Vasco da Gama",
           "logo": "https://cdn.footystats.org/img/teams/brazil-cr-vasco-da-gama.png"
@@ -1017,74 +1085,6 @@
           "over_2_5_goals_away": 2,
           "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 0,
-          "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 16,
-        "team": {
-          "id": 610,
-          "name": "EC Vitória",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-ec-vitoria.png"
-        },
-        "points": 4,
-        "goalsDiff": -3,
-        "group": "Brazil Serie A 2026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 4,
-          "win": 1,
-          "draw": 1,
-          "lose": 2,
-          "goals": {
-            "for": 5,
-            "against": 8
-          },
-          "form": "WLLD",
-          "btts_matches": 3,
-          "avg_corners_per_game": 4.5,
-          "aproveitamento": 33.3,
-          "over_2_5_goals": 2,
-          "over_0_5_ht": 1,
-          "over_0_5_ft": 3,
-          "clean_sheets": 1
-        },
-        "home": {
-          "played": 2,
-          "win": 1,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 3,
-            "against": 2
-          },
-          "form_home": "WL",
-          "avg_corners_home_per_game": 5.5,
-          "aproveitamento_home": 50.0,
-          "btts_home_matches": 1,
-          "over_2_5_goals_home": 1,
-          "over_0_5_ht_home": 0,
-          "over_0_5_ft_home": 2,
-          "clean_sheets_home": 1
-        },
-        "away": {
-          "played": 2,
-          "win": 0,
-          "draw": 1,
-          "lose": 1,
-          "goals": {
-            "for": 2,
-            "against": 6
-          },
-          "form_visitor": "LD",
-          "btts_away_matches": 2,
-          "avg_corners_away_per_game": 3.5,
-          "aproveitamento_away": 16.7,
-          "over_2_5_goals_away": 1,
-          "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 1,
           "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1451,7 +1451,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 2,
         "jogador-assists": 1,
-        "jogador-partidas": 5,
+        "jogador-partidas": 6,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ca-mineiro.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-victor-hugo-gomes-silva.png"
       },
@@ -1481,6 +1481,15 @@
         "jogador-partidas": 5,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-se-palmeiras.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/argentina-jose-manuel-lopez.png"
+      },
+      {
+        "jogador-nome": "Renato Kayzer de Souza",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 2,
+        "jogador-assists": 0,
+        "jogador-partidas": 4,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ec-vitoria.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-renato-kayzer-de-souza.png"
       },
       {
         "jogador-nome": "Neymar da Silva Santos Junior",
@@ -1535,15 +1544,6 @@
         "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ec-bahia.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-jean-lucas.png"
-      },
-      {
-        "jogador-nome": "Igor Marques Paciencia Cardoso",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 2,
-        "jogador-assists": 0,
-        "jogador-partidas": 4,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-mirassol-futebol-clube.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-igor-marques-paciencia-cardoso.png"
       }
     ]
   }
