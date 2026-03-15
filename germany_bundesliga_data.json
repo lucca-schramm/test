@@ -212,46 +212,46 @@
           "name": "VfB Stuttgart 1893",
           "logo": "https://cdn.footystats.org/img/teams/germany-vfb-stuttgart-1893.png"
         },
-        "points": 47,
-        "goalsDiff": 16,
+        "points": 50,
+        "goalsDiff": 17,
         "group": "Germany Bundesliga 20252026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 25,
-          "win": 14,
+          "played": 26,
+          "win": 15,
           "draw": 5,
           "lose": 6,
           "goals": {
-            "for": 50,
+            "for": 51,
             "against": 34
           },
-          "form": "LWDWD",
+          "form": "WDWDW",
           "btts_matches": 15,
-          "avg_corners_per_game": 5.4,
-          "aproveitamento": 62.7,
+          "avg_corners_per_game": 5.38,
+          "aproveitamento": 64.1,
           "over_2_5_goals": 19,
           "over_0_5_ht": 13,
-          "over_0_5_ft": 21,
-          "clean_sheets": 9
+          "over_0_5_ft": 22,
+          "clean_sheets": 10
         },
         "home": {
-          "played": 12,
-          "win": 9,
+          "played": 13,
+          "win": 10,
           "draw": 2,
           "lose": 1,
           "goals": {
-            "for": 21,
+            "for": 22,
             "against": 12
           },
-          "form_home": "WDWWW",
+          "form_home": "DWWWW",
           "avg_corners_home_per_game": 5.08,
-          "aproveitamento_home": 80.6,
+          "aproveitamento_home": 82.1,
           "btts_home_matches": 5,
           "over_2_5_goals_home": 6,
           "over_0_5_ht_home": 6,
-          "over_0_5_ft_home": 10,
-          "clean_sheets_home": 6
+          "over_0_5_ft_home": 11,
+          "clean_sheets_home": 7
         },
         "away": {
           "played": 13,
@@ -281,23 +281,23 @@
           "logo": "https://cdn.footystats.org/img/teams/germany-rasen-ballsport-leipzig.png"
         },
         "points": 47,
-        "goalsDiff": 14,
+        "goalsDiff": 13,
         "group": "Germany Bundesliga 20252026",
         "status": "same",
         "description": "Copa Sul-Americana",
         "all": {
-          "played": 25,
+          "played": 26,
           "win": 14,
           "draw": 5,
-          "lose": 6,
+          "lose": 7,
           "goals": {
             "for": 48,
-            "against": 34
+            "against": 35
           },
-          "form": "WDDWW",
+          "form": "DDWWL",
           "btts_matches": 15,
-          "avg_corners_per_game": 5.52,
-          "aproveitamento": 62.7,
+          "avg_corners_per_game": 5.54,
+          "aproveitamento": 60.3,
           "over_2_5_goals": 17,
           "over_0_5_ht": 15,
           "over_0_5_ft": 14,
@@ -322,18 +322,18 @@
           "clean_sheets_home": 4
         },
         "away": {
-          "played": 12,
+          "played": 13,
           "win": 6,
           "draw": 3,
-          "lose": 3,
+          "lose": 4,
           "goals": {
             "for": 19,
-            "against": 16
+            "against": 17
           },
-          "form_visitor": "LWDWW",
+          "form_visitor": "WDWWL",
           "btts_away_matches": 6,
-          "avg_corners_away_per_game": 5.25,
-          "aproveitamento_away": 58.3,
+          "avg_corners_away_per_game": 5.31,
+          "aproveitamento_away": 53.8,
           "over_2_5_goals_away": 7,
           "over_0_5_ht_away": 7,
           "over_0_5_ft_away": 6,
@@ -1239,6 +1239,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/england-harry-kane.png"
       },
       {
+        "jogador-nome": "Deniz Undav",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 16,
+        "jogador-assists": 5,
+        "jogador-partidas": 21,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-vfb-stuttgart-1893.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/germany-deniz-undav.png"
+      },
+      {
         "jogador-nome": "Luis Fernando Díaz Marulanda",
         "jogador-posicao": "Forward",
         "jogador-gols": 15,
@@ -1246,15 +1255,6 @@
         "jogador-partidas": 25,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-fc-bayern-munchen.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/colombia-luis-diaz.png"
-      },
-      {
-        "jogador-nome": "Deniz Undav",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 15,
-        "jogador-assists": 5,
-        "jogador-partidas": 20,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-vfb-stuttgart-1893.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/germany-deniz-undav.png"
       },
       {
         "jogador-nome": "Sehrou Guirassy",
@@ -1288,7 +1288,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 10,
         "jogador-assists": 7,
-        "jogador-partidas": 24,
+        "jogador-partidas": 25,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-rasen-ballsport-leipzig.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/austria-christoph-baumgartner.png"
       },
@@ -1297,7 +1297,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 10,
         "jogador-assists": 6,
-        "jogador-partidas": 24,
+        "jogador-partidas": 25,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-rasen-ballsport-leipzig.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-yan-diomande.png"
       },
@@ -1351,7 +1351,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 8,
         "jogador-assists": 5,
-        "jogador-partidas": 21,
+        "jogador-partidas": 22,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-rasen-ballsport-leipzig.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-romulo.png"
       },
@@ -1378,7 +1378,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 8,
         "jogador-assists": 2,
-        "jogador-partidas": 16,
+        "jogador-partidas": 17,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-vfb-stuttgart-1893.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/bosnia-and-herzegovina-ermedin-demirovic.png"
       },
@@ -1387,7 +1387,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 7,
         "jogador-assists": 7,
-        "jogador-partidas": 24,
+        "jogador-partidas": 25,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-vfb-stuttgart-1893.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/germany-jamie-leweling.png"
       },
