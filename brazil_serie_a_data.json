@@ -4,6 +4,74 @@
       {
         "rank": 1,
         "team": {
+          "id": 618,
+          "name": "São Paulo FC",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-sao-paulo-fc.png"
+        },
+        "points": 16,
+        "goalsDiff": 7,
+        "group": "Brazil Serie A 2026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 6,
+          "win": 5,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 10,
+            "against": 3
+          },
+          "form": "DWWWW",
+          "btts_matches": 3,
+          "avg_corners_per_game": 5.17,
+          "aproveitamento": 88.9,
+          "over_2_5_goals": 2,
+          "over_0_5_ht": 1,
+          "over_0_5_ft": 6,
+          "clean_sheets": 3
+        },
+        "home": {
+          "played": 3,
+          "win": 3,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 6,
+            "against": 1
+          },
+          "form_home": "WWW",
+          "avg_corners_home_per_game": 5.33,
+          "aproveitamento_home": 100.0,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 3,
+          "win": 2,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 4,
+            "against": 2
+          },
+          "form_visitor": "DWW",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 5.0,
+          "aproveitamento_away": 77.8,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 2,
+        "team": {
           "id": 619,
           "name": "SE Palmeiras",
           "logo": "https://cdn.footystats.org/img/teams/brazil-se-palmeiras.png"
@@ -66,74 +134,6 @@
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 2,
           "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 2,
-        "team": {
-          "id": 618,
-          "name": "São Paulo FC",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-sao-paulo-fc.png"
-        },
-        "points": 13,
-        "goalsDiff": 6,
-        "group": "Brazil Serie A 2026",
-        "status": "same",
-        "description": "Copa Libertadores",
-        "all": {
-          "played": 5,
-          "win": 4,
-          "draw": 1,
-          "lose": 0,
-          "goals": {
-            "for": 8,
-            "against": 2
-          },
-          "form": "WDWWW",
-          "btts_matches": 2,
-          "avg_corners_per_game": 5.4,
-          "aproveitamento": 86.7,
-          "over_2_5_goals": 1,
-          "over_0_5_ht": 1,
-          "over_0_5_ft": 5,
-          "clean_sheets": 3
-        },
-        "home": {
-          "played": 3,
-          "win": 3,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 6,
-            "against": 1
-          },
-          "form_home": "WWW",
-          "avg_corners_home_per_game": 5.33,
-          "aproveitamento_home": 100.0,
-          "btts_home_matches": 1,
-          "over_2_5_goals_home": 1,
-          "over_0_5_ht_home": 1,
-          "over_0_5_ft_home": 3,
-          "clean_sheets_home": 2
-        },
-        "away": {
-          "played": 2,
-          "win": 1,
-          "draw": 1,
-          "lose": 0,
-          "goals": {
-            "for": 2,
-            "against": 1
-          },
-          "form_visitor": "DW",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 5.5,
-          "aproveitamento_away": 66.7,
-          "over_2_5_goals_away": 0,
-          "over_0_5_ht_away": 0,
-          "over_0_5_ft_away": 2,
-          "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -485,43 +485,43 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-clube-atletico-bragantino.png"
         },
         "points": 8,
-        "goalsDiff": 0,
+        "goalsDiff": -1,
         "group": "Brazil Serie A 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 5,
+          "played": 6,
           "win": 2,
           "draw": 2,
-          "lose": 1,
+          "lose": 2,
           "goals": {
-            "for": 4,
-            "against": 4
+            "for": 5,
+            "against": 6
           },
-          "form": "WWLDD",
-          "btts_matches": 2,
-          "avg_corners_per_game": 4.4,
-          "aproveitamento": 53.3,
-          "over_2_5_goals": 0,
-          "over_0_5_ht": 2,
+          "form": "WLDDL",
+          "btts_matches": 3,
+          "avg_corners_per_game": 4.67,
+          "aproveitamento": 44.4,
+          "over_2_5_goals": 1,
+          "over_0_5_ht": 3,
           "over_0_5_ft": 2,
           "clean_sheets": 2
         },
         "home": {
-          "played": 2,
+          "played": 3,
           "win": 1,
           "draw": 1,
-          "lose": 0,
+          "lose": 1,
           "goals": {
-            "for": 2,
-            "against": 1
+            "for": 3,
+            "against": 3
           },
-          "form_home": "WD",
-          "avg_corners_home_per_game": 4.0,
-          "aproveitamento_home": 66.7,
-          "btts_home_matches": 1,
-          "over_2_5_goals_home": 0,
-          "over_0_5_ht_home": 2,
+          "form_home": "WDL",
+          "avg_corners_home_per_game": 4.67,
+          "aproveitamento_home": 44.4,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 3,
           "over_0_5_ft_home": 0,
           "clean_sheets_home": 1
         },
@@ -1514,7 +1514,7 @@
         "jogador-posicao": "Defender",
         "jogador-gols": 2,
         "jogador-assists": 1,
-        "jogador-partidas": 5,
+        "jogador-partidas": 6,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-clube-atletico-bragantino.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-luis-antonio-da-rocha-junior.png"
       },
