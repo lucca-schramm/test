@@ -621,24 +621,24 @@
           "logo": "https://cdn.footystats.org/img/teams/norway-fk-bodo-glimt.png"
         },
         "points": 21,
-        "goalsDiff": 9,
+        "goalsDiff": 4,
         "group": "Europe UEFA Champions League 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 13,
+          "played": 14,
           "win": 6,
           "draw": 3,
-          "lose": 4,
+          "lose": 5,
           "goals": {
             "for": 28,
-            "against": 19
+            "against": 24
           },
-          "form": "WWWWW",
+          "form": "WWWWL",
           "btts_matches": 10,
-          "avg_corners_per_game": 3.85,
-          "aproveitamento": 53.8,
-          "over_2_5_goals": 12,
+          "avg_corners_per_game": 3.86,
+          "aproveitamento": 50.0,
+          "over_2_5_goals": 13,
           "over_0_5_ht": 8,
           "over_0_5_ft": 11,
           "clean_sheets": 2
@@ -662,19 +662,19 @@
           "clean_sheets_home": 2
         },
         "away": {
-          "played": 6,
+          "played": 7,
           "win": 2,
           "draw": 2,
-          "lose": 2,
+          "lose": 3,
           "goals": {
             "for": 10,
-            "against": 11
+            "against": 16
           },
-          "form_visitor": "DLDWW",
+          "form_visitor": "LDWWL",
           "btts_away_matches": 6,
-          "avg_corners_away_per_game": 3.67,
-          "aproveitamento_away": 44.4,
-          "over_2_5_goals_away": 6,
+          "avg_corners_away_per_game": 3.71,
+          "aproveitamento_away": 38.1,
+          "over_2_5_goals_away": 7,
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 5,
           "clean_sheets_away": 0
@@ -752,6 +752,74 @@
       {
         "rank": 12,
         "team": {
+          "id": 114,
+          "name": "Sporting Clube de Portugal",
+          "logo": "https://cdn.footystats.org/img/teams/portugal-sporting-clube-de-portugal.png"
+        },
+        "points": 19,
+        "goalsDiff": 8,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 10,
+          "win": 6,
+          "draw": 1,
+          "lose": 3,
+          "goals": {
+            "for": 22,
+            "against": 14
+          },
+          "form": "LWWLW",
+          "btts_matches": 7,
+          "avg_corners_per_game": 4.9,
+          "aproveitamento": 63.3,
+          "over_2_5_goals": 9,
+          "over_0_5_ht": 5,
+          "over_0_5_ft": 8,
+          "clean_sheets": 2
+        },
+        "home": {
+          "played": 5,
+          "win": 5,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 16,
+            "against": 3
+          },
+          "form_home": "WWWWW",
+          "avg_corners_home_per_game": 6.4,
+          "aproveitamento_home": 100.0,
+          "btts_home_matches": 3,
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 5,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 5,
+          "win": 1,
+          "draw": 1,
+          "lose": 3,
+          "goals": {
+            "for": 6,
+            "against": 11
+          },
+          "form_visitor": "LDLWL",
+          "btts_away_matches": 4,
+          "avg_corners_away_per_game": 3.4,
+          "aproveitamento_away": 26.7,
+          "over_2_5_goals_away": 4,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 13,
+        "team": {
           "id": 78,
           "name": "SL Benfica",
           "logo": "https://cdn.footystats.org/img/teams/portugal-sl-benfica.png"
@@ -818,7 +886,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "team": {
           "id": 151,
           "name": "Liverpool FC",
@@ -886,7 +954,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 14,
+        "rank": 15,
         "team": {
           "id": 83,
           "name": "FC Barcelona",
@@ -954,7 +1022,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 15,
+        "rank": 16,
         "team": {
           "id": 92,
           "name": "Tottenham Hotspur FC",
@@ -1022,7 +1090,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 16,
+        "rank": 17,
         "team": {
           "id": 40,
           "name": "Bayer 04 Leverkusen",
@@ -1032,7 +1100,7 @@
         "goalsDiff": 1,
         "group": "Europe UEFA Champions League 20252026",
         "status": "same",
-        "description": "",
+        "description": "Rebaixamento",
         "all": {
           "played": 11,
           "win": 4,
@@ -1090,7 +1158,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 17,
+        "rank": 18,
         "team": {
           "id": 152,
           "name": "Chelsea FC",
@@ -1152,74 +1220,6 @@
           "aproveitamento_away": 26.7,
           "over_2_5_goals_away": 5,
           "over_0_5_ht_away": 5,
-          "over_0_5_ft_away": 3,
-          "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 18,
-        "team": {
-          "id": 114,
-          "name": "Sporting Clube de Portugal",
-          "logo": "https://cdn.footystats.org/img/teams/portugal-sporting-clube-de-portugal.png"
-        },
-        "points": 16,
-        "goalsDiff": 3,
-        "group": "Europe UEFA Champions League 20252026",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 9,
-          "win": 5,
-          "draw": 1,
-          "lose": 3,
-          "goals": {
-            "for": 17,
-            "against": 14
-          },
-          "form": "WLWWL",
-          "btts_matches": 7,
-          "avg_corners_per_game": 3.67,
-          "aproveitamento": 59.3,
-          "over_2_5_goals": 8,
-          "over_0_5_ht": 4,
-          "over_0_5_ft": 7,
-          "clean_sheets": 1
-        },
-        "home": {
-          "played": 4,
-          "win": 4,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 11,
-            "against": 3
-          },
-          "form_home": "WWWW",
-          "avg_corners_home_per_game": 4.0,
-          "aproveitamento_home": 100.0,
-          "btts_home_matches": 3,
-          "over_2_5_goals_home": 4,
-          "over_0_5_ht_home": 2,
-          "over_0_5_ft_home": 4,
-          "clean_sheets_home": 1
-        },
-        "away": {
-          "played": 5,
-          "win": 1,
-          "draw": 1,
-          "lose": 3,
-          "goals": {
-            "for": 6,
-            "against": 11
-          },
-          "form_visitor": "LDLWL",
-          "btts_away_matches": 4,
-          "avg_corners_away_per_game": 3.4,
-          "aproveitamento_away": 26.7,
-          "over_2_5_goals_away": 4,
-          "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 3,
           "clean_sheets_away": 0
         },
@@ -5708,7 +5708,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 6,
         "jogador-assists": 6,
-        "jogador-partidas": 13,
+        "jogador-partidas": 14,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/norway-fk-bodo-glimt.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/norway-jens-petter-hauge.png"
       },
@@ -5726,7 +5726,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 6,
         "jogador-assists": 3,
-        "jogador-partidas": 13,
+        "jogador-partidas": 14,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/norway-fk-bodo-glimt.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/denmark-kasper-waarst-hogh.png"
       },
@@ -5821,13 +5821,13 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/spain-marcos-llorente.png"
       },
       {
-        "jogador-nome": "Alexander Sørloth",
+        "jogador-nome": "Luis Javier Suárez Charris",
         "jogador-posicao": "Forward",
         "jogador-gols": 5,
         "jogador-assists": 1,
         "jogador-partidas": 10,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/spain-club-atletico-de-madrid.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/norway-alexander-sorloth.png"
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/portugal-sporting-clube-de-portugal.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/colombia-luis-suarez.png"
       }
     ]
   }
