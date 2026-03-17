@@ -412,6 +412,74 @@
       {
         "rank": 7,
         "team": {
+          "id": 616,
+          "name": "Grêmio FB Porto Alegrense",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-gremio-fb-porto-alegrense.png"
+        },
+        "points": 8,
+        "goalsDiff": 0,
+        "group": "Brazil Serie A 2026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 6,
+          "win": 2,
+          "draw": 2,
+          "lose": 2,
+          "goals": {
+            "for": 10,
+            "against": 10
+          },
+          "form": "WLWDD",
+          "btts_matches": 5,
+          "avg_corners_per_game": 4.67,
+          "aproveitamento": 44.4,
+          "over_2_5_goals": 3,
+          "over_0_5_ht": 3,
+          "over_0_5_ft": 3,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 3,
+          "win": 2,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 8,
+            "against": 5
+          },
+          "form_home": "WWD",
+          "avg_corners_home_per_game": 4.67,
+          "aproveitamento_home": 77.8,
+          "btts_home_matches": 3,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 2,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 3,
+          "win": 0,
+          "draw": 1,
+          "lose": 2,
+          "goals": {
+            "for": 2,
+            "against": 5
+          },
+          "form_visitor": "LLD",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 4.67,
+          "aproveitamento_away": 11.1,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 8,
+        "team": {
           "id": 624,
           "name": "SC Corinthians Paulista",
           "logo": "https://cdn.footystats.org/img/teams/brazil-sc-corinthians-paulista.png"
@@ -478,7 +546,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "team": {
           "id": 635,
           "name": "Clube Atlético Bragantino",
@@ -542,74 +610,6 @@
           "over_0_5_ht_away": 0,
           "over_0_5_ft_away": 2,
           "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 9,
-        "team": {
-          "id": 616,
-          "name": "Grêmio FB Porto Alegrense",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-gremio-fb-porto-alegrense.png"
-        },
-        "points": 7,
-        "goalsDiff": 0,
-        "group": "Brazil Serie A 2026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 5,
-          "win": 2,
-          "draw": 1,
-          "lose": 2,
-          "goals": {
-            "for": 9,
-            "against": 9
-          },
-          "form": "LWLWD",
-          "btts_matches": 4,
-          "avg_corners_per_game": 4.6,
-          "aproveitamento": 46.7,
-          "over_2_5_goals": 3,
-          "over_0_5_ht": 2,
-          "over_0_5_ft": 3,
-          "clean_sheets": 0
-        },
-        "home": {
-          "played": 3,
-          "win": 2,
-          "draw": 1,
-          "lose": 0,
-          "goals": {
-            "for": 8,
-            "against": 5
-          },
-          "form_home": "WWD",
-          "avg_corners_home_per_game": 4.67,
-          "aproveitamento_home": 77.8,
-          "btts_home_matches": 3,
-          "over_2_5_goals_home": 2,
-          "over_0_5_ht_home": 2,
-          "over_0_5_ft_home": 2,
-          "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 2,
-          "win": 0,
-          "draw": 0,
-          "lose": 2,
-          "goals": {
-            "for": 1,
-            "against": 4
-          },
-          "form_visitor": "LL",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 4.5,
-          "aproveitamento_away": 0.0,
-          "over_2_5_goals_away": 1,
-          "over_0_5_ht_away": 0,
-          "over_0_5_ft_away": 1,
-          "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -752,6 +752,74 @@
       {
         "rank": 12,
         "team": {
+          "id": 623,
+          "name": "Chapecoense AF",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-chapecoense-af.png"
+        },
+        "points": 6,
+        "goalsDiff": 0,
+        "group": "Brazil Serie A 2026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 5,
+          "win": 1,
+          "draw": 3,
+          "lose": 1,
+          "goals": {
+            "for": 9,
+            "against": 9
+          },
+          "form": "WDDLD",
+          "btts_matches": 4,
+          "avg_corners_per_game": 3.4,
+          "aproveitamento": 40.0,
+          "over_2_5_goals": 2,
+          "over_0_5_ht": 3,
+          "over_0_5_ft": 3,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 3,
+          "win": 1,
+          "draw": 2,
+          "lose": 0,
+          "goals": {
+            "for": 8,
+            "against": 6
+          },
+          "form_home": "WDD",
+          "avg_corners_home_per_game": 3.67,
+          "aproveitamento_home": 55.6,
+          "btts_home_matches": 3,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 2,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 2,
+          "win": 0,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 1,
+            "against": 3
+          },
+          "form_visitor": "DL",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 3.0,
+          "aproveitamento_away": 16.7,
+          "over_2_5_goals_away": 0,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 13,
+        "team": {
           "id": 2721,
           "name": "Mirassol Futebol Clube",
           "logo": "https://cdn.footystats.org/img/teams/brazil-mirassol-futebol-clube.png"
@@ -818,7 +886,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "team": {
           "id": 611,
           "name": "Santos FC Sao Paulo",
@@ -881,74 +949,6 @@
           "over_2_5_goals_away": 3,
           "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 2,
-          "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 14,
-        "team": {
-          "id": 623,
-          "name": "Chapecoense AF",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-chapecoense-af.png"
-        },
-        "points": 5,
-        "goalsDiff": 0,
-        "group": "Brazil Serie A 2026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 4,
-          "win": 1,
-          "draw": 2,
-          "lose": 1,
-          "goals": {
-            "for": 8,
-            "against": 8
-          },
-          "form": "WDDL",
-          "btts_matches": 3,
-          "avg_corners_per_game": 3.25,
-          "aproveitamento": 41.7,
-          "over_2_5_goals": 2,
-          "over_0_5_ht": 2,
-          "over_0_5_ft": 3,
-          "clean_sheets": 0
-        },
-        "home": {
-          "played": 2,
-          "win": 1,
-          "draw": 1,
-          "lose": 0,
-          "goals": {
-            "for": 7,
-            "against": 5
-          },
-          "form_home": "WD",
-          "avg_corners_home_per_game": 3.5,
-          "aproveitamento_home": 66.7,
-          "btts_home_matches": 2,
-          "over_2_5_goals_home": 2,
-          "over_0_5_ht_home": 2,
-          "over_0_5_ft_home": 2,
-          "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 2,
-          "win": 0,
-          "draw": 1,
-          "lose": 1,
-          "goals": {
-            "for": 1,
-            "against": 3
-          },
-          "form_visitor": "DL",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 3.0,
-          "aproveitamento_away": 16.7,
-          "over_2_5_goals_away": 0,
-          "over_0_5_ht_away": 0,
-          "over_0_5_ft_away": 1,
           "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1370,7 +1370,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 5,
         "jogador-assists": 0,
-        "jogador-partidas": 5,
+        "jogador-partidas": 6,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-gremio-fb-porto-alegrense.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-carlos-vinicius.png"
       },
@@ -1391,6 +1391,15 @@
         "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-botafogo-fr.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-danilo-oliveira.png"
+      },
+      {
+        "jogador-nome": "Walter David Clar Fritz",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 3,
+        "jogador-assists": 1,
+        "jogador-partidas": 5,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-chapecoense-af.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/paraguay-walter-david-clar-fritz.png"
       },
       {
         "jogador-nome": "Luciano Federico Acosta",
@@ -1451,7 +1460,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 2,
         "jogador-assists": 2,
-        "jogador-partidas": 4,
+        "jogador-partidas": 5,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-chapecoense-af.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-jean-carlos-vicente.png"
       },
@@ -1472,15 +1481,6 @@
         "jogador-partidas": 5,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ec-bahia.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-willian-jose.png"
-      },
-      {
-        "jogador-nome": "Walter David Clar Fritz",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 2,
-        "jogador-assists": 1,
-        "jogador-partidas": 4,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-chapecoense-af.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/paraguay-walter-david-clar-fritz.png"
       },
       {
         "jogador-nome": "Victor Hugo Gomes Silva",
