@@ -553,25 +553,25 @@
           "logo": "https://cdn.footystats.org/img/teams/england-newcastle-united-fc.png"
         },
         "points": 21,
-        "goalsDiff": 16,
+        "goalsDiff": 11,
         "group": "Europe UEFA Champions League 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 11,
+          "played": 12,
           "win": 6,
           "draw": 3,
-          "lose": 2,
+          "lose": 3,
           "goals": {
-            "for": 27,
-            "against": 11
+            "for": 29,
+            "against": 18
           },
-          "form": "WDWWD",
-          "btts_matches": 7,
-          "avg_corners_per_game": 5.82,
-          "aproveitamento": 63.6,
-          "over_2_5_goals": 8,
-          "over_0_5_ht": 8,
+          "form": "DWWDL",
+          "btts_matches": 8,
+          "avg_corners_per_game": 5.42,
+          "aproveitamento": 58.3,
+          "over_2_5_goals": 9,
+          "over_0_5_ht": 9,
           "over_0_5_ft": 9,
           "clean_sheets": 4
         },
@@ -594,20 +594,20 @@
           "clean_sheets_home": 3
         },
         "away": {
-          "played": 5,
+          "played": 6,
           "win": 2,
           "draw": 2,
-          "lose": 1,
+          "lose": 2,
           "goals": {
-            "for": 14,
-            "against": 6
+            "for": 16,
+            "against": 13
           },
-          "form_visitor": "WLDDW",
-          "btts_away_matches": 4,
-          "avg_corners_away_per_game": 4.6,
-          "aproveitamento_away": 53.3,
-          "over_2_5_goals_away": 4,
-          "over_0_5_ht_away": 4,
+          "form_visitor": "LDDWL",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 4.0,
+          "aproveitamento_away": 44.4,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 5,
           "over_0_5_ft_away": 3,
           "clean_sheets_away": 1
         },
@@ -684,6 +684,74 @@
       {
         "rank": 11,
         "team": {
+          "id": 83,
+          "name": "FC Barcelona",
+          "logo": "https://cdn.footystats.org/img/teams/spain-fc-barcelona.png"
+        },
+        "points": 20,
+        "goalsDiff": 13,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 10,
+          "win": 6,
+          "draw": 2,
+          "lose": 2,
+          "goals": {
+            "for": 30,
+            "against": 17
+          },
+          "form": "WWWDW",
+          "btts_matches": 9,
+          "avg_corners_per_game": 4.7,
+          "aproveitamento": 66.7,
+          "over_2_5_goals": 9,
+          "over_0_5_ht": 5,
+          "over_0_5_ft": 8,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 5,
+          "win": 4,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 20,
+            "against": 7
+          },
+          "form_home": "LWWWW",
+          "avg_corners_home_per_game": 6.4,
+          "aproveitamento_home": 80.0,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 5,
+          "win": 2,
+          "draw": 2,
+          "lose": 1,
+          "goals": {
+            "for": 10,
+            "against": 10
+          },
+          "form_visitor": "WDLWD",
+          "btts_away_matches": 4,
+          "avg_corners_away_per_game": 3.0,
+          "aproveitamento_away": 53.3,
+          "over_2_5_goals_away": 4,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 12,
+        "team": {
           "id": 117,
           "name": "Club Atlético de Madrid",
           "logo": "https://cdn.footystats.org/img/teams/spain-club-atletico-de-madrid.png"
@@ -750,7 +818,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "team": {
           "id": 114,
           "name": "Sporting Clube de Portugal",
@@ -818,7 +886,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "team": {
           "id": 78,
           "name": "SL Benfica",
@@ -886,7 +954,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 14,
+        "rank": 15,
         "team": {
           "id": 151,
           "name": "Liverpool FC",
@@ -950,74 +1018,6 @@
           "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 3,
           "clean_sheets_away": 2
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 15,
-        "team": {
-          "id": 83,
-          "name": "FC Barcelona",
-          "logo": "https://cdn.footystats.org/img/teams/spain-fc-barcelona.png"
-        },
-        "points": 17,
-        "goalsDiff": 8,
-        "group": "Europe UEFA Champions League 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 9,
-          "win": 5,
-          "draw": 2,
-          "lose": 2,
-          "goals": {
-            "for": 23,
-            "against": 15
-          },
-          "form": "LWWWD",
-          "btts_matches": 8,
-          "avg_corners_per_game": 4.56,
-          "aproveitamento": 63.0,
-          "over_2_5_goals": 8,
-          "over_0_5_ht": 4,
-          "over_0_5_ft": 7,
-          "clean_sheets": 0
-        },
-        "home": {
-          "played": 4,
-          "win": 3,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 13,
-            "against": 5
-          },
-          "form_home": "LWWW",
-          "avg_corners_home_per_game": 6.5,
-          "aproveitamento_home": 75.0,
-          "btts_home_matches": 4,
-          "over_2_5_goals_home": 4,
-          "over_0_5_ht_home": 2,
-          "over_0_5_ft_home": 3,
-          "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 5,
-          "win": 2,
-          "draw": 2,
-          "lose": 1,
-          "goals": {
-            "for": 10,
-            "against": 10
-          },
-          "form_visitor": "WDLWD",
-          "btts_away_matches": 4,
-          "avg_corners_away_per_game": 3.0,
-          "aproveitamento_away": 53.3,
-          "over_2_5_goals_away": 4,
-          "over_0_5_ht_away": 2,
-          "over_0_5_ft_away": 4,
-          "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -5663,7 +5663,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 10,
         "jogador-assists": 2,
-        "jogador-partidas": 11,
+        "jogador-partidas": 12,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/england-newcastle-united-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/england-anthony-gordon.png"
       },
@@ -5722,6 +5722,24 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/norway-jens-petter-hauge.png"
       },
       {
+        "jogador-nome": "Harvey Lewis Barnes",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 6,
+        "jogador-assists": 4,
+        "jogador-partidas": 12,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/england-newcastle-united-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/england-harvey-barnes.png"
+      },
+      {
+        "jogador-nome": "Fermín López Martín",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 6,
+        "jogador-assists": 4,
+        "jogador-partidas": 9,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/spain-fc-barcelona.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/spain-fermin-lopez.png"
+      },
+      {
         "jogador-nome": "Kasper Waarst Høgh",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 6,
@@ -5729,15 +5747,6 @@
         "jogador-partidas": 14,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/norway-fk-bodo-glimt.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/denmark-kasper-waarst-hogh.png"
-      },
-      {
-        "jogador-nome": "Harvey Lewis Barnes",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 6,
-        "jogador-assists": 3,
-        "jogador-partidas": 11,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/england-newcastle-united-fc.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/england-harvey-barnes.png"
       },
       {
         "jogador-nome": "Leandro Livramento Andrade",
@@ -5794,6 +5803,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-vinicius-junior.png"
       },
       {
+        "jogador-nome": "Lamine Yamal Nasraoui Ebana",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 5,
+        "jogador-assists": 5,
+        "jogador-partidas": 8,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/spain-fc-barcelona.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/spain-lamine-yamal.png"
+      },
+      {
         "jogador-nome": "Marcus Rashford",
         "jogador-posicao": "Forward",
         "jogador-gols": 5,
@@ -5803,15 +5821,6 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/england-marcus-rashford.png"
       },
       {
-        "jogador-nome": "Fermín López Martín",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 5,
-        "jogador-assists": 3,
-        "jogador-partidas": 8,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/spain-fc-barcelona.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/spain-fermin-lopez.png"
-      },
-      {
         "jogador-nome": "Camilo Andres Durán Marquez",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 5,
@@ -5819,15 +5828,6 @@
         "jogador-partidas": 10,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/azerbaijan-qarabag-agdam-fk.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-camilo-andres-durán-marquez.png"
-      },
-      {
-        "jogador-nome": "Marcos Llorente Moreno",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 5,
-        "jogador-assists": 1,
-        "jogador-partidas": 9,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/spain-club-atletico-de-madrid.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/spain-marcos-llorente.png"
       }
     ]
   }
