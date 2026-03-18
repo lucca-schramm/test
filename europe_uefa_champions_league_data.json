@@ -72,6 +72,74 @@
       {
         "rank": 2,
         "team": {
+          "id": 38,
+          "name": "FC Bayern München",
+          "logo": "https://cdn.footystats.org/img/teams/germany-fc-bayern-munchen.png"
+        },
+        "points": 27,
+        "goalsDiff": 22,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 10,
+          "win": 9,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 32,
+            "against": 10
+          },
+          "form": "WWWWW",
+          "btts_matches": 8,
+          "avg_corners_per_game": 4.9,
+          "aproveitamento": 90.0,
+          "over_2_5_goals": 9,
+          "over_0_5_ht": 7,
+          "over_0_5_ft": 8,
+          "clean_sheets": 2
+        },
+        "home": {
+          "played": 5,
+          "win": 5,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 16,
+            "against": 3
+          },
+          "form_home": "WWWWW",
+          "avg_corners_home_per_game": 5.6,
+          "aproveitamento_home": 100.0,
+          "btts_home_matches": 3,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 5,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 5,
+          "win": 4,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 16,
+            "against": 7
+          },
+          "form_visitor": "WWLWW",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 4.2,
+          "aproveitamento_away": 80.0,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 3,
+        "team": {
           "id": 84,
           "name": "Real Madrid CF",
           "logo": "https://cdn.footystats.org/img/teams/spain-real-madrid-cf.png"
@@ -138,7 +206,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "team": {
           "id": 75,
           "name": "Qarabağ Ağdam FK",
@@ -202,74 +270,6 @@
           "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 4,
           "clean_sheets_away": 2
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 4,
-        "team": {
-          "id": 38,
-          "name": "FC Bayern München",
-          "logo": "https://cdn.footystats.org/img/teams/germany-fc-bayern-munchen.png"
-        },
-        "points": 24,
-        "goalsDiff": 19,
-        "group": "Europe UEFA Champions League 20252026",
-        "status": "same",
-        "description": "Copa Libertadores",
-        "all": {
-          "played": 9,
-          "win": 8,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 28,
-            "against": 9
-          },
-          "form": "LWWWW",
-          "btts_matches": 7,
-          "avg_corners_per_game": 4.89,
-          "aproveitamento": 88.9,
-          "over_2_5_goals": 8,
-          "over_0_5_ht": 6,
-          "over_0_5_ft": 7,
-          "clean_sheets": 2
-        },
-        "home": {
-          "played": 4,
-          "win": 4,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 12,
-            "against": 2
-          },
-          "form_home": "WWWW",
-          "avg_corners_home_per_game": 5.75,
-          "aproveitamento_home": 100.0,
-          "btts_home_matches": 2,
-          "over_2_5_goals_home": 3,
-          "over_0_5_ht_home": 2,
-          "over_0_5_ft_home": 4,
-          "clean_sheets_home": 2
-        },
-        "away": {
-          "played": 5,
-          "win": 4,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 16,
-            "against": 7
-          },
-          "form_visitor": "WWLWW",
-          "btts_away_matches": 5,
-          "avg_corners_away_per_game": 4.2,
-          "aproveitamento_away": 80.0,
-          "over_2_5_goals_away": 5,
-          "over_0_5_ht_away": 4,
-          "over_0_5_ft_away": 3,
-          "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -548,6 +548,74 @@
       {
         "rank": 9,
         "team": {
+          "id": 151,
+          "name": "Liverpool FC",
+          "logo": "https://cdn.footystats.org/img/teams/england-liverpool-fc.png"
+        },
+        "points": 21,
+        "goalsDiff": 15,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 10,
+          "win": 7,
+          "draw": 0,
+          "lose": 3,
+          "goals": {
+            "for": 24,
+            "against": 9
+          },
+          "form": "WWWLW",
+          "btts_matches": 3,
+          "avg_corners_per_game": 6.7,
+          "aproveitamento": 70.0,
+          "over_2_5_goals": 6,
+          "over_0_5_ht": 6,
+          "over_0_5_ft": 7,
+          "clean_sheets": 5
+        },
+        "home": {
+          "played": 5,
+          "win": 4,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 15,
+            "against": 6
+          },
+          "form_home": "WWLWW",
+          "avg_corners_home_per_game": 7.8,
+          "aproveitamento_home": 80.0,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 5,
+          "win": 3,
+          "draw": 0,
+          "lose": 2,
+          "goals": {
+            "for": 9,
+            "against": 3
+          },
+          "form_visitor": "LWWWL",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 5.6,
+          "aproveitamento_away": 60.0,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 10,
+        "team": {
           "id": 157,
           "name": "Newcastle United FC",
           "logo": "https://cdn.footystats.org/img/teams/england-newcastle-united-fc.png"
@@ -614,7 +682,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "team": {
           "id": 332,
           "name": "FK Bodo - Glimt",
@@ -682,7 +750,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 11,
+        "rank": 12,
         "team": {
           "id": 83,
           "name": "FC Barcelona",
@@ -750,11 +818,11 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "team": {
-          "id": 117,
-          "name": "Club Atlético de Madrid",
-          "logo": "https://cdn.footystats.org/img/teams/spain-club-atletico-de-madrid.png"
+          "id": 92,
+          "name": "Tottenham Hotspur FC",
+          "logo": "https://cdn.footystats.org/img/teams/england-tottenham-hotspur-fc.png"
         },
         "points": 20,
         "goalsDiff": 8,
@@ -762,21 +830,89 @@
         "status": "same",
         "description": "",
         "all": {
-          "played": 11,
+          "played": 10,
           "win": 6,
           "draw": 2,
-          "lose": 3,
+          "lose": 2,
           "goals": {
-            "for": 29,
-            "against": 21
+            "for": 22,
+            "against": 14
           },
-          "form": "DLDWW",
-          "btts_matches": 10,
-          "avg_corners_per_game": 6.09,
-          "aproveitamento": 60.6,
-          "over_2_5_goals": 10,
+          "form": "WWWLW",
+          "btts_matches": 4,
+          "avg_corners_per_game": 4.5,
+          "aproveitamento": 66.7,
+          "over_2_5_goals": 6,
+          "over_0_5_ht": 7,
+          "over_0_5_ft": 7,
+          "clean_sheets": 6
+        },
+        "home": {
+          "played": 5,
+          "win": 5,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 13,
+            "against": 2
+          },
+          "form_home": "WWWWW",
+          "avg_corners_home_per_game": 4.8,
+          "aproveitamento_home": 100.0,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 4
+        },
+        "away": {
+          "played": 5,
+          "win": 1,
+          "draw": 2,
+          "lose": 2,
+          "goals": {
+            "for": 9,
+            "against": 12
+          },
+          "form_visitor": "DDLWL",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 4.2,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 3,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 14,
+        "team": {
+          "id": 117,
+          "name": "Club Atlético de Madrid",
+          "logo": "https://cdn.footystats.org/img/teams/spain-club-atletico-de-madrid.png"
+        },
+        "points": 20,
+        "goalsDiff": 7,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 12,
+          "win": 6,
+          "draw": 2,
+          "lose": 4,
+          "goals": {
+            "for": 31,
+            "against": 24
+          },
+          "form": "LDWWL",
+          "btts_matches": 11,
+          "avg_corners_per_game": 6.17,
+          "aproveitamento": 55.6,
+          "over_2_5_goals": 11,
           "over_0_5_ht": 10,
-          "over_0_5_ft": 8,
+          "over_0_5_ft": 9,
           "clean_sheets": 0
         },
         "home": {
@@ -798,27 +934,27 @@
           "clean_sheets_home": 0
         },
         "away": {
-          "played": 5,
+          "played": 6,
           "win": 1,
           "draw": 2,
-          "lose": 2,
+          "lose": 3,
           "goals": {
-            "for": 9,
-            "against": 13
+            "for": 11,
+            "against": 16
           },
-          "form_visitor": "LLWDD",
-          "btts_away_matches": 4,
-          "avg_corners_away_per_game": 5.6,
-          "aproveitamento_away": 33.3,
-          "over_2_5_goals_away": 4,
+          "form_visitor": "LWDDL",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 5.83,
+          "aproveitamento_away": 27.8,
+          "over_2_5_goals_away": 5,
           "over_0_5_ht_away": 4,
-          "over_0_5_ft_away": 3,
+          "over_0_5_ft_away": 4,
           "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 13,
+        "rank": 15,
         "team": {
           "id": 114,
           "name": "Sporting Clube de Portugal",
@@ -886,7 +1022,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 14,
+        "rank": 16,
         "team": {
           "id": 78,
           "name": "SL Benfica",
@@ -950,142 +1086,6 @@
           "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 2,
           "clean_sheets_away": 3
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 15,
-        "team": {
-          "id": 151,
-          "name": "Liverpool FC",
-          "logo": "https://cdn.footystats.org/img/teams/england-liverpool-fc.png"
-        },
-        "points": 18,
-        "goalsDiff": 11,
-        "group": "Europe UEFA Champions League 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 9,
-          "win": 6,
-          "draw": 0,
-          "lose": 3,
-          "goals": {
-            "for": 20,
-            "against": 9
-          },
-          "form": "LWWWL",
-          "btts_matches": 3,
-          "avg_corners_per_game": 7.11,
-          "aproveitamento": 66.7,
-          "over_2_5_goals": 5,
-          "over_0_5_ht": 5,
-          "over_0_5_ft": 6,
-          "clean_sheets": 4
-        },
-        "home": {
-          "played": 4,
-          "win": 3,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 11,
-            "against": 6
-          },
-          "form_home": "WWLW",
-          "avg_corners_home_per_game": 9.0,
-          "aproveitamento_home": 75.0,
-          "btts_home_matches": 2,
-          "over_2_5_goals_home": 3,
-          "over_0_5_ht_home": 3,
-          "over_0_5_ft_home": 3,
-          "clean_sheets_home": 2
-        },
-        "away": {
-          "played": 5,
-          "win": 3,
-          "draw": 0,
-          "lose": 2,
-          "goals": {
-            "for": 9,
-            "against": 3
-          },
-          "form_visitor": "LWWWL",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 5.6,
-          "aproveitamento_away": 60.0,
-          "over_2_5_goals_away": 2,
-          "over_0_5_ht_away": 2,
-          "over_0_5_ft_away": 3,
-          "clean_sheets_away": 2
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 16,
-        "team": {
-          "id": 92,
-          "name": "Tottenham Hotspur FC",
-          "logo": "https://cdn.footystats.org/img/teams/england-tottenham-hotspur-fc.png"
-        },
-        "points": 17,
-        "goalsDiff": 7,
-        "group": "Europe UEFA Champions League 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 9,
-          "win": 5,
-          "draw": 2,
-          "lose": 2,
-          "goals": {
-            "for": 19,
-            "against": 12
-          },
-          "form": "LWWWL",
-          "btts_matches": 3,
-          "avg_corners_per_game": 4.33,
-          "aproveitamento": 63.0,
-          "over_2_5_goals": 5,
-          "over_0_5_ht": 6,
-          "over_0_5_ft": 6,
-          "clean_sheets": 6
-        },
-        "home": {
-          "played": 4,
-          "win": 4,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 10,
-            "against": 0
-          },
-          "form_home": "WWWW",
-          "avg_corners_home_per_game": 4.5,
-          "aproveitamento_home": 100.0,
-          "btts_home_matches": 0,
-          "over_2_5_goals_home": 2,
-          "over_0_5_ht_home": 4,
-          "over_0_5_ft_home": 2,
-          "clean_sheets_home": 4
-        },
-        "away": {
-          "played": 5,
-          "win": 1,
-          "draw": 2,
-          "lose": 2,
-          "goals": {
-            "for": 9,
-            "against": 12
-          },
-          "form_visitor": "DDLWL",
-          "btts_away_matches": 3,
-          "avg_corners_away_per_game": 4.2,
-          "aproveitamento_away": 33.3,
-          "over_2_5_goals_away": 3,
-          "over_0_5_ht_away": 2,
-          "over_0_5_ft_away": 4,
-          "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1301,24 +1301,24 @@
           "logo": "https://cdn.footystats.org/img/teams/turkey-galatasaray.png"
         },
         "points": 16,
-        "goalsDiff": 1,
+        "goalsDiff": -3,
         "group": "Europe UEFA Champions League 20252026",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 11,
+          "played": 12,
           "win": 5,
           "draw": 1,
-          "lose": 5,
+          "lose": 6,
           "goals": {
             "for": 17,
-            "against": 16
+            "against": 20
           },
-          "form": "DLWLW",
+          "form": "LWLWL",
           "btts_matches": 5,
-          "avg_corners_per_game": 4.18,
-          "aproveitamento": 48.5,
-          "over_2_5_goals": 5,
+          "avg_corners_per_game": 3.92,
+          "aproveitamento": 44.4,
+          "over_2_5_goals": 6,
           "over_0_5_ht": 6,
           "over_0_5_ft": 4,
           "clean_sheets": 3
@@ -1342,19 +1342,19 @@
           "clean_sheets_home": 2
         },
         "away": {
-          "played": 5,
+          "played": 6,
           "win": 1,
           "draw": 0,
-          "lose": 4,
+          "lose": 5,
           "goals": {
             "for": 6,
-            "against": 11
+            "against": 15
           },
-          "form_visitor": "LWLLL",
+          "form_visitor": "WLLLL",
           "btts_away_matches": 2,
-          "avg_corners_away_per_game": 3.2,
-          "aproveitamento_away": 20.0,
-          "over_2_5_goals_away": 3,
+          "avg_corners_away_per_game": 2.83,
+          "aproveitamento_away": 16.7,
+          "over_2_5_goals_away": 4,
           "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 2,
           "clean_sheets_away": 1
@@ -1369,26 +1369,26 @@
           "logo": "https://cdn.footystats.org/img/teams/italy-atalanta-bergamasca-calcio.png"
         },
         "points": 16,
-        "goalsDiff": -4,
+        "goalsDiff": -7,
         "group": "Europe UEFA Champions League 20252026",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 11,
+          "played": 12,
           "win": 5,
           "draw": 1,
-          "lose": 5,
+          "lose": 6,
           "goals": {
-            "for": 15,
-            "against": 19
+            "for": 16,
+            "against": 23
           },
-          "form": "LLLWL",
-          "btts_matches": 5,
-          "avg_corners_per_game": 4.09,
-          "aproveitamento": 48.5,
-          "over_2_5_goals": 7,
+          "form": "LLWLL",
+          "btts_matches": 6,
+          "avg_corners_per_game": 4.0,
+          "aproveitamento": 44.4,
+          "over_2_5_goals": 8,
           "over_0_5_ht": 2,
-          "over_0_5_ft": 7,
+          "over_0_5_ft": 8,
           "clean_sheets": 3
         },
         "home": {
@@ -1410,21 +1410,21 @@
           "clean_sheets_home": 1
         },
         "away": {
-          "played": 5,
+          "played": 6,
           "win": 2,
           "draw": 0,
-          "lose": 3,
+          "lose": 4,
           "goals": {
-            "for": 4,
-            "against": 7
+            "for": 5,
+            "against": 11
           },
-          "form_visitor": "LWWLL",
-          "btts_away_matches": 0,
-          "avg_corners_away_per_game": 3.6,
-          "aproveitamento_away": 40.0,
-          "over_2_5_goals_away": 2,
+          "form_visitor": "WWLLL",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 3.5,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 3,
           "over_0_5_ht_away": 0,
-          "over_0_5_ft_away": 2,
+          "over_0_5_ft_away": 3,
           "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -5670,11 +5670,20 @@
       {
         "jogador-nome": "Harry Edward Kane",
         "jogador-posicao": "Forward",
-        "jogador-gols": 8,
+        "jogador-gols": 10,
         "jogador-assists": 0,
-        "jogador-partidas": 8,
+        "jogador-partidas": 9,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-fc-bayern-munchen.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/england-harry-kane.png"
+      },
+      {
+        "jogador-nome": "Julián Álvarez",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 8,
+        "jogador-assists": 4,
+        "jogador-partidas": 11,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/spain-club-atletico-de-madrid.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/argentina-julian-alvarez.png"
       },
       {
         "jogador-nome": "Erling Braut Haaland",
@@ -5699,18 +5708,9 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 7,
         "jogador-assists": 3,
-        "jogador-partidas": 9,
+        "jogador-partidas": 10,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/turkey-galatasaray.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/nigeria-victor-osimhen.png"
-      },
-      {
-        "jogador-nome": "Julián Álvarez",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 7,
-        "jogador-assists": 3,
-        "jogador-partidas": 10,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/spain-club-atletico-de-madrid.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/argentina-julian-alvarez.png"
       },
       {
         "jogador-nome": "Jens Petter Hauge",
@@ -5812,6 +5812,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/spain-lamine-yamal.png"
       },
       {
+        "jogador-nome": "Dominik Szoboszlai",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 5,
+        "jogador-assists": 4,
+        "jogador-partidas": 10,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/england-liverpool-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/hungary-dominik-szoboszlai.png"
+      },
+      {
         "jogador-nome": "Marcus Rashford",
         "jogador-posicao": "Forward",
         "jogador-gols": 5,
@@ -5819,15 +5828,6 @@
         "jogador-partidas": 9,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/spain-fc-barcelona.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/england-marcus-rashford.png"
-      },
-      {
-        "jogador-nome": "Camilo Andres Durán Marquez",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 5,
-        "jogador-assists": 2,
-        "jogador-partidas": 10,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/azerbaijan-qarabag-agdam-fk.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/-camilo-andres-durán-marquez.png"
       }
     ]
   }
