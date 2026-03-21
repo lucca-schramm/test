@@ -76,45 +76,45 @@
           "name": "BVB 09 Borussia Dortmund",
           "logo": "https://cdn.footystats.org/img/teams/germany-bvb-09-borussia-dortmund.png"
         },
-        "points": 58,
-        "goalsDiff": 29,
+        "points": 61,
+        "goalsDiff": 30,
         "group": "Germany Bundesliga 20252026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 26,
-          "win": 17,
+          "played": 27,
+          "win": 18,
           "draw": 7,
           "lose": 2,
           "goals": {
-            "for": 55,
-            "against": 26
+            "for": 58,
+            "against": 28
           },
-          "form": "WDLWW",
-          "btts_matches": 14,
-          "avg_corners_per_game": 5.5,
-          "aproveitamento": 74.4,
-          "over_2_5_goals": 15,
+          "form": "DLWWW",
+          "btts_matches": 15,
+          "avg_corners_per_game": 5.7,
+          "aproveitamento": 75.3,
+          "over_2_5_goals": 16,
           "over_0_5_ht": 22,
-          "over_0_5_ft": 20,
+          "over_0_5_ft": 21,
           "clean_sheets": 12
         },
         "home": {
-          "played": 13,
-          "win": 10,
+          "played": 14,
+          "win": 11,
           "draw": 2,
           "lose": 1,
           "goals": {
-            "for": 30,
-            "against": 11
+            "for": 33,
+            "against": 13
           },
-          "form_home": "WWWLW",
-          "avg_corners_home_per_game": 7.38,
-          "aproveitamento_home": 82.1,
-          "btts_home_matches": 5,
-          "over_2_5_goals_home": 7,
+          "form_home": "WWLWW",
+          "avg_corners_home_per_game": 7.64,
+          "aproveitamento_home": 83.3,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 8,
           "over_0_5_ht_home": 12,
-          "over_0_5_ft_home": 11,
+          "over_0_5_ft_home": 12,
           "clean_sheets_home": 8
         },
         "away": {
@@ -689,25 +689,25 @@
           "logo": "https://cdn.footystats.org/img/teams/germany-hamburger-sv.png"
         },
         "points": 30,
-        "goalsDiff": -8,
+        "goalsDiff": -9,
         "group": "Germany Bundesliga 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 26,
+          "played": 27,
           "win": 7,
           "draw": 9,
-          "lose": 10,
+          "lose": 11,
           "goals": {
-            "for": 29,
-            "against": 37
+            "for": 31,
+            "against": 40
           },
-          "form": "DLLWD",
-          "btts_matches": 15,
-          "avg_corners_per_game": 3.65,
-          "aproveitamento": 38.5,
-          "over_2_5_goals": 13,
-          "over_0_5_ht": 10,
+          "form": "LLWDL",
+          "btts_matches": 16,
+          "avg_corners_per_game": 3.63,
+          "aproveitamento": 37.0,
+          "over_2_5_goals": 14,
+          "over_0_5_ht": 11,
           "over_0_5_ft": 14,
           "clean_sheets": 6
         },
@@ -730,20 +730,20 @@
           "clean_sheets_home": 2
         },
         "away": {
-          "played": 12,
+          "played": 13,
           "win": 2,
           "draw": 4,
-          "lose": 6,
+          "lose": 7,
           "goals": {
-            "for": 9,
-            "against": 20
+            "for": 11,
+            "against": 23
           },
-          "form_visitor": "LDWDW",
-          "btts_away_matches": 6,
-          "avg_corners_away_per_game": 3.83,
-          "aproveitamento_away": 27.8,
-          "over_2_5_goals_away": 6,
-          "over_0_5_ht_away": 2,
+          "form_visitor": "DWDWL",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 3.77,
+          "aproveitamento_away": 25.6,
+          "over_2_5_goals_away": 7,
+          "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 7,
           "clean_sheets_away": 4
         },
@@ -1257,6 +1257,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/colombia-luis-diaz.png"
       },
       {
+        "jogador-nome": "Sehrou Guirassy",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 13,
+        "jogador-assists": 1,
+        "jogador-partidas": 26,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-bvb-09-borussia-dortmund.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/france-sehrou-guirassy.png"
+      },
+      {
         "jogador-nome": "Christoph Baumgartner",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 12,
@@ -1264,15 +1273,6 @@
         "jogador-partidas": 26,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-rasen-ballsport-leipzig.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/austria-christoph-baumgartner.png"
-      },
-      {
-        "jogador-nome": "Sehrou Guirassy",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 12,
-        "jogador-assists": 1,
-        "jogador-partidas": 25,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-bvb-09-borussia-dortmund.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/france-sehrou-guirassy.png"
       },
       {
         "jogador-nome": "Michael Akpovie Olise",
@@ -1378,7 +1378,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 8,
         "jogador-assists": 4,
-        "jogador-partidas": 24,
+        "jogador-partidas": 25,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-bvb-09-borussia-dortmund.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/germany-maximilian-beier.png"
       },
