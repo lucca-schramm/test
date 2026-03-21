@@ -140,6 +140,74 @@
       {
         "rank": 3,
         "team": {
+          "id": 617,
+          "name": "Fluminense FC",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-fluminense-fc.png"
+        },
+        "points": 16,
+        "goalsDiff": 4,
+        "group": "Brazil Serie A 2026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 8,
+          "win": 5,
+          "draw": 1,
+          "lose": 2,
+          "goals": {
+            "for": 13,
+            "against": 9
+          },
+          "form": "LWWLW",
+          "btts_matches": 5,
+          "avg_corners_per_game": 5.12,
+          "aproveitamento": 66.7,
+          "over_2_5_goals": 4,
+          "over_0_5_ht": 6,
+          "over_0_5_ft": 5,
+          "clean_sheets": 3
+        },
+        "home": {
+          "played": 4,
+          "win": 4,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 7,
+            "against": 3
+          },
+          "form_home": "WWWW",
+          "avg_corners_home_per_game": 4.25,
+          "aproveitamento_home": 100.0,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 4,
+          "win": 1,
+          "draw": 1,
+          "lose": 2,
+          "goals": {
+            "for": 6,
+            "against": 6
+          },
+          "form_visitor": "DLWL",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 6.0,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 4,
+        "team": {
           "id": 626,
           "name": "EC Bahia",
           "logo": "https://cdn.footystats.org/img/teams/brazil-ec-bahia.png"
@@ -206,7 +274,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "team": {
           "id": 612,
           "name": "CR Flamengo",
@@ -216,7 +284,7 @@
         "goalsDiff": 8,
         "group": "Brazil Serie A 2026",
         "status": "same",
-        "description": "Copa Libertadores",
+        "description": "Copa Sul-Americana",
         "all": {
           "played": 6,
           "win": 4,
@@ -268,74 +336,6 @@
           "aproveitamento_away": 66.7,
           "over_2_5_goals_away": 3,
           "over_0_5_ht_away": 2,
-          "over_0_5_ft_away": 2,
-          "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 5,
-        "team": {
-          "id": 617,
-          "name": "Fluminense FC",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-fluminense-fc.png"
-        },
-        "points": 13,
-        "goalsDiff": 3,
-        "group": "Brazil Serie A 2026",
-        "status": "same",
-        "description": "Copa Sul-Americana",
-        "all": {
-          "played": 7,
-          "win": 4,
-          "draw": 1,
-          "lose": 2,
-          "goals": {
-            "for": 12,
-            "against": 9
-          },
-          "form": "WLWWL",
-          "btts_matches": 5,
-          "avg_corners_per_game": 5.43,
-          "aproveitamento": 61.9,
-          "over_2_5_goals": 4,
-          "over_0_5_ht": 5,
-          "over_0_5_ft": 5,
-          "clean_sheets": 2
-        },
-        "home": {
-          "played": 3,
-          "win": 3,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 6,
-            "against": 3
-          },
-          "form_home": "WWW",
-          "avg_corners_home_per_game": 4.67,
-          "aproveitamento_home": 100.0,
-          "btts_home_matches": 2,
-          "over_2_5_goals_home": 2,
-          "over_0_5_ht_home": 1,
-          "over_0_5_ft_home": 3,
-          "clean_sheets_home": 1
-        },
-        "away": {
-          "played": 4,
-          "win": 1,
-          "draw": 1,
-          "lose": 2,
-          "goals": {
-            "for": 6,
-            "against": 6
-          },
-          "form_visitor": "DLWL",
-          "btts_away_matches": 3,
-          "avg_corners_away_per_game": 6.0,
-          "aproveitamento_away": 33.3,
-          "over_2_5_goals_away": 2,
-          "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 2,
           "clean_sheets_away": 1
         },
@@ -689,23 +689,23 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-ca-mineiro.png"
         },
         "points": 8,
-        "goalsDiff": -2,
+        "goalsDiff": -3,
         "group": "Brazil Serie A 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 7,
+          "played": 8,
           "win": 2,
           "draw": 2,
-          "lose": 3,
+          "lose": 4,
           "goals": {
             "for": 8,
-            "against": 10
+            "against": 11
           },
-          "form": "DLWLW",
+          "form": "LWLWL",
           "btts_matches": 3,
-          "avg_corners_per_game": 6.0,
-          "aproveitamento": 38.1,
+          "avg_corners_per_game": 5.5,
+          "aproveitamento": 33.3,
           "over_2_5_goals": 3,
           "over_0_5_ht": 3,
           "over_0_5_ft": 4,
@@ -730,17 +730,17 @@
           "clean_sheets_home": 2
         },
         "away": {
-          "played": 3,
+          "played": 4,
           "win": 0,
           "draw": 0,
-          "lose": 3,
+          "lose": 4,
           "goals": {
             "for": 1,
-            "against": 5
+            "against": 6
           },
-          "form_visitor": "LLL",
+          "form_visitor": "LLLL",
           "btts_away_matches": 1,
-          "avg_corners_away_per_game": 8.33,
+          "avg_corners_away_per_game": 6.75,
           "aproveitamento_away": 0.0,
           "over_2_5_goals_away": 1,
           "over_0_5_ht_away": 0,
@@ -1397,7 +1397,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 3,
         "jogador-assists": 3,
-        "jogador-partidas": 7,
+        "jogador-partidas": 8,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-fluminense-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/argentina-luciano-acosta.png"
       },
@@ -1436,6 +1436,15 @@
         "jogador-partidas": 7,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-coritiba-fbc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-breno-lopes.png"
+      },
+      {
+        "jogador-nome": "Agustín Canobbio Graviz",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 3,
+        "jogador-assists": 1,
+        "jogador-partidas": 7,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-fluminense-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/uruguay-agustin-canobbio-graviz.png"
       },
       {
         "jogador-nome": "Vitor Hugo Roque Ferreira",
@@ -1483,15 +1492,6 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/-allan-andrade-elias.png"
       },
       {
-        "jogador-nome": "Agustín Canobbio Graviz",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 3,
-        "jogador-assists": 0,
-        "jogador-partidas": 6,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-fluminense-fc.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/uruguay-agustin-canobbio-graviz.png"
-      },
-      {
         "jogador-nome": "Jean Carlos Vicente",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 2,
@@ -1523,7 +1523,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 2,
         "jogador-assists": 1,
-        "jogador-partidas": 7,
+        "jogador-partidas": 8,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ca-mineiro.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-victor-hugo-gomes-silva.png"
       },
