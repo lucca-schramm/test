@@ -616,6 +616,74 @@
       {
         "rank": 10,
         "team": {
+          "id": 5077,
+          "name": "Al Khaleej Saihat",
+          "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-khaleej-saihat.png"
+        },
+        "points": 31,
+        "goalsDiff": 0,
+        "group": "Saudi Arabia Professional League 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 27,
+          "win": 8,
+          "draw": 7,
+          "lose": 12,
+          "goals": {
+            "for": 46,
+            "against": 46
+          },
+          "form": "LLWLD",
+          "btts_matches": 18,
+          "avg_corners_per_game": 5.15,
+          "aproveitamento": 38.3,
+          "over_2_5_goals": 18,
+          "over_0_5_ht": 13,
+          "over_0_5_ft": 17,
+          "clean_sheets": 3
+        },
+        "home": {
+          "played": 13,
+          "win": 5,
+          "draw": 2,
+          "lose": 6,
+          "goals": {
+            "for": 23,
+            "against": 19
+          },
+          "form_home": "LLLWL",
+          "avg_corners_home_per_game": 5.0,
+          "aproveitamento_home": 43.6,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 8,
+          "over_0_5_ht_home": 6,
+          "over_0_5_ft_home": 7,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 14,
+          "win": 3,
+          "draw": 5,
+          "lose": 6,
+          "goals": {
+            "for": 23,
+            "against": 27
+          },
+          "form_visitor": "LDDLD",
+          "btts_away_matches": 13,
+          "avg_corners_away_per_game": 5.29,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 10,
+          "over_0_5_ht_away": 7,
+          "over_0_5_ft_away": 10,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 11,
+        "team": {
           "id": 5089,
           "name": "Al Hazm",
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-hazm.png"
@@ -678,74 +746,6 @@
           "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 5,
           "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 11,
-        "team": {
-          "id": 5077,
-          "name": "Al Khaleej Saihat",
-          "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-khaleej-saihat.png"
-        },
-        "points": 30,
-        "goalsDiff": 0,
-        "group": "Saudi Arabia Professional League 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 26,
-          "win": 8,
-          "draw": 6,
-          "lose": 12,
-          "goals": {
-            "for": 44,
-            "against": 44
-          },
-          "form": "LLLWL",
-          "btts_matches": 17,
-          "avg_corners_per_game": 5.08,
-          "aproveitamento": 38.5,
-          "over_2_5_goals": 17,
-          "over_0_5_ht": 12,
-          "over_0_5_ft": 16,
-          "clean_sheets": 3
-        },
-        "home": {
-          "played": 13,
-          "win": 5,
-          "draw": 2,
-          "lose": 6,
-          "goals": {
-            "for": 23,
-            "against": 19
-          },
-          "form_home": "LLLWL",
-          "avg_corners_home_per_game": 5.0,
-          "aproveitamento_home": 43.6,
-          "btts_home_matches": 5,
-          "over_2_5_goals_home": 8,
-          "over_0_5_ht_home": 6,
-          "over_0_5_ft_home": 7,
-          "clean_sheets_home": 3
-        },
-        "away": {
-          "played": 13,
-          "win": 3,
-          "draw": 4,
-          "lose": 6,
-          "goals": {
-            "for": 21,
-            "against": 25
-          },
-          "form_visitor": "LLDDL",
-          "btts_away_matches": 12,
-          "avg_corners_away_per_game": 5.15,
-          "aproveitamento_away": 33.3,
-          "over_2_5_goals_away": 9,
-          "over_0_5_ht_away": 6,
-          "over_0_5_ft_away": 9,
-          "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -892,44 +892,44 @@
           "name": "Al Kholood Club",
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-kholood-club.png"
         },
-        "points": 25,
+        "points": 26,
         "goalsDiff": -14,
         "group": "Saudi Arabia Professional League 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 26,
+          "played": 27,
           "win": 8,
-          "draw": 1,
+          "draw": 2,
           "lose": 17,
           "goals": {
-            "for": 34,
-            "against": 48
+            "for": 36,
+            "against": 50
           },
-          "form": "LWWLL",
-          "btts_matches": 14,
-          "avg_corners_per_game": 4.23,
+          "form": "WWLLD",
+          "btts_matches": 15,
+          "avg_corners_per_game": 4.15,
           "aproveitamento": 32.1,
-          "over_2_5_goals": 18,
-          "over_0_5_ht": 13,
+          "over_2_5_goals": 19,
+          "over_0_5_ht": 14,
           "over_0_5_ft": 9,
           "clean_sheets": 3
         },
         "home": {
-          "played": 13,
+          "played": 14,
           "win": 3,
-          "draw": 0,
+          "draw": 1,
           "lose": 10,
           "goals": {
-            "for": 14,
-            "against": 28
+            "for": 16,
+            "against": 30
           },
-          "form_home": "LLWLL",
-          "avg_corners_home_per_game": 4.38,
-          "aproveitamento_home": 23.1,
-          "btts_home_matches": 7,
-          "over_2_5_goals_home": 9,
-          "over_0_5_ht_home": 7,
+          "form_home": "LWLLD",
+          "avg_corners_home_per_game": 4.21,
+          "aproveitamento_home": 23.8,
+          "btts_home_matches": 8,
+          "over_2_5_goals_home": 10,
+          "over_0_5_ht_home": 8,
           "over_0_5_ft_home": 4,
           "clean_sheets_home": 1
         },
@@ -1329,6 +1329,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/netherlands-georginio-wijnaldum.png"
       },
       {
+        "jogador-nome": "Giorgos Masouras",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 12,
+        "jogador-assists": 2,
+        "jogador-partidas": 27,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-khaleej-saihat.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/greece-giorgos-masouras.png"
+      },
+      {
         "jogador-nome": "Junior Fashion Sakala",
         "jogador-posicao": "Forward",
         "jogador-gols": 11,
@@ -1347,13 +1356,13 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/france-alexandre-lacazette.png"
       },
       {
-        "jogador-nome": "Giorgos Masouras",
+        "jogador-nome": "Konstantinos Fortounis",
         "jogador-posicao": "Midfielder",
-        "jogador-gols": 11,
-        "jogador-assists": 2,
-        "jogador-partidas": 26,
+        "jogador-gols": 10,
+        "jogador-assists": 11,
+        "jogador-partidas": 23,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-khaleej-saihat.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/greece-giorgos-masouras.png"
+        "jogador-foto": "https://cdn.footystats.org/img/players/greece-konstantinos-fortounis.png"
       },
       {
         "jogador-nome": "Rúben Diogo da Silva Neves",
@@ -1372,15 +1381,6 @@
         "jogador-partidas": 19,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-hilal-fc-riyadh.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-marcos-leonardo-santos-almeida.png"
-      },
-      {
-        "jogador-nome": "Konstantinos Fortounis",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 9,
-        "jogador-assists": 11,
-        "jogador-partidas": 22,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-khaleej-saihat.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/greece-konstantinos-fortounis.png"
       },
       {
         "jogador-nome": "Khalid Essa AL Ghannam",
