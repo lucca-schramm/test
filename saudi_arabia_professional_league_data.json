@@ -8,45 +8,45 @@
           "name": "Al Nassr FC",
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-nassr-fc.png"
         },
-        "points": 67,
-        "goalsDiff": 52,
+        "points": 70,
+        "goalsDiff": 55,
         "group": "Saudi Arabia Professional League 20252026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 26,
-          "win": 22,
+          "played": 27,
+          "win": 23,
           "draw": 1,
           "lose": 3,
           "goals": {
-            "for": 71,
-            "against": 19
+            "for": 76,
+            "against": 21
           },
           "form": "WWWWW",
-          "btts_matches": 12,
-          "avg_corners_per_game": 7.15,
-          "aproveitamento": 85.9,
-          "over_2_5_goals": 18,
-          "over_0_5_ht": 18,
-          "over_0_5_ft": 21,
+          "btts_matches": 13,
+          "avg_corners_per_game": 7.04,
+          "aproveitamento": 86.4,
+          "over_2_5_goals": 19,
+          "over_0_5_ht": 19,
+          "over_0_5_ft": 22,
           "clean_sheets": 14
         },
         "home": {
-          "played": 12,
-          "win": 11,
+          "played": 13,
+          "win": 12,
           "draw": 0,
           "lose": 1,
           "goals": {
-            "for": 33,
-            "against": 8
+            "for": 38,
+            "against": 10
           },
           "form_home": "WWWWW",
-          "avg_corners_home_per_game": 7.67,
-          "aproveitamento_home": 91.7,
-          "btts_home_matches": 6,
-          "over_2_5_goals_home": 8,
-          "over_0_5_ht_home": 8,
-          "over_0_5_ft_home": 11,
+          "avg_corners_home_per_game": 7.38,
+          "aproveitamento_home": 92.3,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 9,
+          "over_0_5_ht_home": 9,
+          "over_0_5_ft_home": 12,
           "clean_sheets_home": 6
         },
         "away": {
@@ -1165,26 +1165,26 @@
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-najma-club-saudi-arabia.png"
         },
         "points": 8,
-        "goalsDiff": -38,
+        "goalsDiff": -41,
         "group": "Saudi Arabia Professional League 20252026",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 26,
+          "played": 27,
           "win": 1,
           "draw": 5,
-          "lose": 20,
+          "lose": 21,
           "goals": {
-            "for": 23,
-            "against": 61
+            "for": 25,
+            "against": 66
           },
           "form": "LLLLL",
-          "btts_matches": 17,
-          "avg_corners_per_game": 3.77,
-          "aproveitamento": 10.3,
-          "over_2_5_goals": 18,
-          "over_0_5_ht": 6,
-          "over_0_5_ft": 13,
+          "btts_matches": 18,
+          "avg_corners_per_game": 3.74,
+          "aproveitamento": 9.9,
+          "over_2_5_goals": 19,
+          "over_0_5_ht": 7,
+          "over_0_5_ft": 14,
           "clean_sheets": 2
         },
         "home": {
@@ -1206,21 +1206,21 @@
           "clean_sheets_home": 0
         },
         "away": {
-          "played": 13,
+          "played": 14,
           "win": 0,
           "draw": 2,
-          "lose": 11,
+          "lose": 12,
           "goals": {
-            "for": 8,
-            "against": 30
+            "for": 10,
+            "against": 35
           },
-          "form_visitor": "DLLLL",
-          "btts_away_matches": 7,
-          "avg_corners_away_per_game": 3.08,
-          "aproveitamento_away": 5.1,
-          "over_2_5_goals_away": 9,
-          "over_0_5_ht_away": 3,
-          "over_0_5_ft_away": 4,
+          "form_visitor": "LLLLL",
+          "btts_away_matches": 8,
+          "avg_corners_away_per_game": 3.07,
+          "aproveitamento_away": 4.8,
+          "over_2_5_goals_away": 10,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 5,
           "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1250,9 +1250,9 @@
       {
         "jogador-nome": "Cristiano Ronaldo dos Santos Aveiro",
         "jogador-posicao": "Forward",
-        "jogador-gols": 21,
+        "jogador-gols": 23,
         "jogador-assists": 2,
-        "jogador-partidas": 22,
+        "jogador-partidas": 23,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-nassr-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/portugal-cristiano-ronaldo.png"
       },
@@ -1383,6 +1383,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-marcos-leonardo-santos-almeida.png"
       },
       {
+        "jogador-nome": "Sadio Mané",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 9,
+        "jogador-assists": 5,
+        "jogador-partidas": 19,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-nassr-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/senegal-sadio-mane.png"
+      },
+      {
         "jogador-nome": "Khalid Essa AL Ghannam",
         "jogador-posicao": "Forward",
         "jogador-gols": 9,
@@ -1399,15 +1408,6 @@
         "jogador-partidas": 26,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-dhamk-club.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/argentina-valentin-vada.png"
-      },
-      {
-        "jogador-nome": "Murad Batna",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 8,
-        "jogador-assists": 8,
-        "jogador-partidas": 23,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-fateh-sc.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/morocco-murad-batna.png"
       }
     ]
   }
