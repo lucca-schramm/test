@@ -140,6 +140,74 @@
       {
         "rank": 3,
         "team": {
+          "id": 2662,
+          "name": "Operário Ferroviário EC",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-operario-ferroviario-ec.png"
+        },
+        "points": 6,
+        "goalsDiff": 2,
+        "group": "Brazil Serie B 2026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 2,
+          "win": 2,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 3,
+            "against": 1
+          },
+          "form": "WW",
+          "btts_matches": 1,
+          "avg_corners_per_game": 7.5,
+          "aproveitamento": 100.0,
+          "over_2_5_goals": 1,
+          "over_0_5_ht": 2,
+          "over_0_5_ft": 1,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 1,
+          "win": 1,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 1,
+            "against": 0
+          },
+          "form_home": "W",
+          "avg_corners_home_per_game": 7.0,
+          "aproveitamento_home": 100.0,
+          "btts_home_matches": 0,
+          "over_2_5_goals_home": 0,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 0,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 1,
+          "win": 1,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 2,
+            "against": 1
+          },
+          "form_visitor": "W",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 8.0,
+          "aproveitamento_away": 100.0,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 4,
+        "team": {
           "id": 1055,
           "name": "Londrina EC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-londrina-ec.png"
@@ -206,7 +274,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "team": {
           "id": 1056,
           "name": "Goiás EC",
@@ -216,7 +284,7 @@
         "goalsDiff": 2,
         "group": "Brazil Serie B 2026",
         "status": "same",
-        "description": "Copa Libertadores",
+        "description": "Copa Sul-Americana",
         "all": {
           "played": 2,
           "win": 1,
@@ -274,7 +342,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "team": {
           "id": 677199,
           "name": "Athletic Club (Minas Gerais)",
@@ -342,7 +410,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "team": {
           "id": 691,
           "name": "Criciuma EC",
@@ -352,7 +420,7 @@
         "goalsDiff": 1,
         "group": "Brazil Serie B 2026",
         "status": "same",
-        "description": "Copa Sul-Americana",
+        "description": "",
         "all": {
           "played": 2,
           "win": 1,
@@ -406,74 +474,6 @@
           "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 0,
           "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 7,
-        "team": {
-          "id": 2662,
-          "name": "Operário Ferroviário EC",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-operario-ferroviario-ec.png"
-        },
-        "points": 3,
-        "goalsDiff": 1,
-        "group": "Brazil Serie B 2026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 1,
-          "win": 1,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 1,
-            "against": 0
-          },
-          "form": "W",
-          "btts_matches": 0,
-          "avg_corners_per_game": 7.0,
-          "aproveitamento": 100.0,
-          "over_2_5_goals": 0,
-          "over_0_5_ht": 1,
-          "over_0_5_ft": 0,
-          "clean_sheets": 1
-        },
-        "home": {
-          "played": 1,
-          "win": 1,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 1,
-            "against": 0
-          },
-          "form_home": "W",
-          "avg_corners_home_per_game": 7.0,
-          "aproveitamento_home": 100.0,
-          "btts_home_matches": 0,
-          "over_2_5_goals_home": 0,
-          "over_0_5_ht_home": 1,
-          "over_0_5_ft_home": 0,
-          "clean_sheets_home": 1
-        },
-        "away": {
-          "played": 0,
-          "win": 0,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 0,
-            "against": 0
-          },
-          "form_visitor": "",
-          "btts_away_matches": 0,
-          "avg_corners_away_per_game": 0,
-          "aproveitamento_away": 0,
-          "over_2_5_goals_away": 0,
-          "over_0_5_ht_away": 0,
-          "over_0_5_ft_away": 0,
-          "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -825,43 +825,43 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-sao-bernardo-fc.png"
         },
         "points": 1,
-        "goalsDiff": 0,
+        "goalsDiff": -1,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 1,
+          "played": 2,
           "win": 0,
           "draw": 1,
-          "lose": 0,
+          "lose": 1,
           "goals": {
-            "for": 1,
-            "against": 1
+            "for": 2,
+            "against": 3
           },
-          "form": "D",
-          "btts_matches": 1,
-          "avg_corners_per_game": 3.0,
-          "aproveitamento": 33.3,
-          "over_2_5_goals": 0,
-          "over_0_5_ht": 0,
+          "form": "DL",
+          "btts_matches": 2,
+          "avg_corners_per_game": 4.5,
+          "aproveitamento": 16.7,
+          "over_2_5_goals": 1,
+          "over_0_5_ht": 1,
           "over_0_5_ft": 1,
           "clean_sheets": 0
         },
         "home": {
-          "played": 0,
+          "played": 1,
           "win": 0,
           "draw": 0,
-          "lose": 0,
+          "lose": 1,
           "goals": {
-            "for": 0,
-            "against": 0
+            "for": 1,
+            "against": 2
           },
-          "form_home": "",
-          "avg_corners_home_per_game": 0,
-          "aproveitamento_home": 0,
-          "btts_home_matches": 0,
-          "over_2_5_goals_home": 0,
-          "over_0_5_ht_home": 0,
+          "form_home": "L",
+          "avg_corners_home_per_game": 6.0,
+          "aproveitamento_home": 0.0,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 1,
           "over_0_5_ft_home": 0,
           "clean_sheets_home": 0
         },
@@ -1393,6 +1393,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/-walace-dos-santos-frança.png"
       },
       {
+        "jogador-nome": "Pablo Felipe Teixeira",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 2,
+        "jogador-assists": 0,
+        "jogador-partidas": 2,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-operario-ferroviario-ec.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-pablo-felipe-teixeira.png"
+      },
+      {
         "jogador-nome": "Gonzalo Mathías Mastriani Borges",
         "jogador-posicao": "Forward",
         "jogador-gols": 2,
@@ -1474,6 +1483,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/portugal-ronaldo-rodrigues-tavares.png"
       },
       {
+        "jogador-nome": "Romisson Lino dos Santos",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 1,
+        "jogador-assists": 0,
+        "jogador-partidas": 2,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-sao-bernardo-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-romisson-lino-dos-santos.png"
+      },
+      {
         "jogador-nome": "Pedro Henrique Perotti",
         "jogador-posicao": "Forward",
         "jogador-gols": 1,
@@ -1481,15 +1499,6 @@
         "jogador-partidas": 1,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-sc-do-recife.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-pedro-henrique-perotti.png"
-      },
-      {
-        "jogador-nome": "Pablo Felipe Teixeira",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 1,
-        "jogador-assists": 0,
-        "jogador-partidas": 1,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-operario-ferroviario-ec.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-pablo-felipe-teixeira.png"
       },
       {
         "jogador-nome": "Mikael Filipe Viana de Sousa",
@@ -1535,15 +1544,6 @@
         "jogador-partidas": 2,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-athletic-club-minas-gerais.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-joão-victor-broad-moreira-guimaraes.png"
-      },
-      {
-        "jogador-nome": "João Batista da Cruz Santos Neto",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 1,
-        "jogador-assists": 0,
-        "jogador-partidas": 1,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-clube-de-regatas-brasil.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/-joão-batista-da-cruz-santos-neto.png"
       }
     ]
   }
