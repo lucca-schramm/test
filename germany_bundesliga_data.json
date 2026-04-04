@@ -76,28 +76,28 @@
           "name": "BVB 09 Borussia Dortmund",
           "logo": "https://cdn.footystats.org/img/teams/germany-bvb-09-borussia-dortmund.png"
         },
-        "points": 61,
-        "goalsDiff": 30,
+        "points": 64,
+        "goalsDiff": 32,
         "group": "Germany Bundesliga 20252026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 27,
-          "win": 18,
+          "played": 28,
+          "win": 19,
           "draw": 7,
           "lose": 2,
           "goals": {
-            "for": 58,
+            "for": 60,
             "against": 28
           },
-          "form": "DLWWW",
+          "form": "LWWWW",
           "btts_matches": 15,
-          "avg_corners_per_game": 5.7,
-          "aproveitamento": 75.3,
+          "avg_corners_per_game": 5.57,
+          "aproveitamento": 76.2,
           "over_2_5_goals": 16,
           "over_0_5_ht": 22,
-          "over_0_5_ft": 21,
-          "clean_sheets": 12
+          "over_0_5_ft": 22,
+          "clean_sheets": 13
         },
         "home": {
           "played": 14,
@@ -118,95 +118,27 @@
           "clean_sheets_home": 8
         },
         "away": {
-          "played": 13,
-          "win": 7,
+          "played": 14,
+          "win": 8,
           "draw": 5,
           "lose": 1,
           "goals": {
-            "for": 25,
+            "for": 27,
             "against": 15
           },
-          "form_visitor": "DWWDW",
+          "form_visitor": "WWDWW",
           "btts_away_matches": 9,
-          "avg_corners_away_per_game": 3.62,
-          "aproveitamento_away": 66.7,
+          "avg_corners_away_per_game": 3.5,
+          "aproveitamento_away": 69.0,
           "over_2_5_goals_away": 8,
           "over_0_5_ht_away": 10,
-          "over_0_5_ft_away": 9,
-          "clean_sheets_away": 4
+          "over_0_5_ft_away": 10,
+          "clean_sheets_away": 5
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
         "rank": 3,
-        "team": {
-          "id": 51,
-          "name": "VfB Stuttgart 1893",
-          "logo": "https://cdn.footystats.org/img/teams/germany-vfb-stuttgart-1893.png"
-        },
-        "points": 53,
-        "goalsDiff": 20,
-        "group": "Germany Bundesliga 20252026",
-        "status": "same",
-        "description": "Copa Libertadores",
-        "all": {
-          "played": 27,
-          "win": 16,
-          "draw": 5,
-          "lose": 6,
-          "goals": {
-            "for": 56,
-            "against": 36
-          },
-          "form": "DWDWW",
-          "btts_matches": 16,
-          "avg_corners_per_game": 5.37,
-          "aproveitamento": 65.4,
-          "over_2_5_goals": 20,
-          "over_0_5_ht": 14,
-          "over_0_5_ft": 23,
-          "clean_sheets": 10
-        },
-        "home": {
-          "played": 13,
-          "win": 10,
-          "draw": 2,
-          "lose": 1,
-          "goals": {
-            "for": 22,
-            "against": 12
-          },
-          "form_home": "DWWWW",
-          "avg_corners_home_per_game": 5.08,
-          "aproveitamento_home": 82.1,
-          "btts_home_matches": 5,
-          "over_2_5_goals_home": 6,
-          "over_0_5_ht_home": 6,
-          "over_0_5_ft_home": 11,
-          "clean_sheets_home": 7
-        },
-        "away": {
-          "played": 14,
-          "win": 6,
-          "draw": 3,
-          "lose": 5,
-          "goals": {
-            "for": 34,
-            "against": 24
-          },
-          "form_visitor": "WLDDW",
-          "btts_away_matches": 11,
-          "avg_corners_away_per_game": 5.64,
-          "aproveitamento_away": 50.0,
-          "over_2_5_goals_away": 14,
-          "over_0_5_ht_away": 8,
-          "over_0_5_ft_away": 12,
-          "clean_sheets_away": 3
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 4,
         "team": {
           "id": 46,
           "name": "Rasen Ballsport Leipzig",
@@ -270,6 +202,74 @@
           "over_0_5_ht_away": 8,
           "over_0_5_ft_away": 7,
           "clean_sheets_away": 5
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 4,
+        "team": {
+          "id": 51,
+          "name": "VfB Stuttgart 1893",
+          "logo": "https://cdn.footystats.org/img/teams/germany-vfb-stuttgart-1893.png"
+        },
+        "points": 53,
+        "goalsDiff": 18,
+        "group": "Germany Bundesliga 20252026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 28,
+          "win": 16,
+          "draw": 5,
+          "lose": 7,
+          "goals": {
+            "for": 56,
+            "against": 38
+          },
+          "form": "WDWWL",
+          "btts_matches": 16,
+          "avg_corners_per_game": 5.36,
+          "aproveitamento": 63.1,
+          "over_2_5_goals": 20,
+          "over_0_5_ht": 14,
+          "over_0_5_ft": 23,
+          "clean_sheets": 10
+        },
+        "home": {
+          "played": 14,
+          "win": 10,
+          "draw": 2,
+          "lose": 2,
+          "goals": {
+            "for": 22,
+            "against": 14
+          },
+          "form_home": "WWWWL",
+          "avg_corners_home_per_game": 5.07,
+          "aproveitamento_home": 76.2,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 6,
+          "over_0_5_ft_home": 11,
+          "clean_sheets_home": 7
+        },
+        "away": {
+          "played": 14,
+          "win": 6,
+          "draw": 3,
+          "lose": 5,
+          "goals": {
+            "for": 34,
+            "against": 24
+          },
+          "form_visitor": "WLDDW",
+          "btts_away_matches": 11,
+          "avg_corners_away_per_game": 5.64,
+          "aproveitamento_away": 50.0,
+          "over_2_5_goals_away": 14,
+          "over_0_5_ht_away": 8,
+          "over_0_5_ft_away": 12,
+          "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -772,7 +772,7 @@
           },
           "form": "LWDLD",
           "btts_matches": 17,
-          "avg_corners_per_game": 3.82,
+          "avg_corners_per_game": 3.79,
           "aproveitamento": 36.9,
           "over_2_5_goals": 14,
           "over_0_5_ht": 11,
@@ -789,7 +789,7 @@
             "against": 18
           },
           "form_home": "WLLDD",
-          "avg_corners_home_per_game": 3.87,
+          "avg_corners_home_per_game": 3.8,
           "aproveitamento_home": 46.7,
           "btts_home_matches": 10,
           "over_2_5_goals_home": 7,
@@ -1243,7 +1243,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 18,
         "jogador-assists": 5,
-        "jogador-partidas": 22,
+        "jogador-partidas": 23,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-vfb-stuttgart-1893.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/germany-deniz-undav.png"
       },
@@ -1261,7 +1261,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 13,
         "jogador-assists": 1,
-        "jogador-partidas": 26,
+        "jogador-partidas": 27,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-bvb-09-borussia-dortmund.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/france-sehrou-guirassy.png"
       },
@@ -1360,7 +1360,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 9,
         "jogador-assists": 2,
-        "jogador-partidas": 18,
+        "jogador-partidas": 19,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-vfb-stuttgart-1893.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/bosnia-and-herzegovina-ermedin-demirovic.png"
       },
@@ -1396,7 +1396,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 8,
         "jogador-assists": 4,
-        "jogador-partidas": 25,
+        "jogador-partidas": 26,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-bvb-09-borussia-dortmund.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/germany-maximilian-beier.png"
       },
