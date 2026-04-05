@@ -412,32 +412,32 @@
       {
         "rank": 7,
         "team": {
-          "id": 1055,
-          "name": "Londrina EC",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-londrina-ec.png"
+          "id": 614,
+          "name": "SC do Recife",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-sc-do-recife.png"
         },
-        "points": 4,
-        "goalsDiff": 2,
+        "points": 5,
+        "goalsDiff": 1,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 2,
+          "played": 3,
           "win": 1,
-          "draw": 1,
+          "draw": 2,
           "lose": 0,
           "goals": {
-            "for": 5,
-            "against": 3
+            "for": 3,
+            "against": 2
           },
-          "form": "WD",
+          "form": "DDW",
           "btts_matches": 2,
-          "avg_corners_per_game": 6.5,
-          "aproveitamento": 66.7,
-          "over_2_5_goals": 2,
-          "over_0_5_ht": 1,
+          "avg_corners_per_game": 4.67,
+          "aproveitamento": 55.6,
+          "over_2_5_goals": 1,
+          "over_0_5_ht": 0,
           "over_0_5_ft": 2,
-          "clean_sheets": 0
+          "clean_sheets": 1
         },
         "home": {
           "played": 1,
@@ -445,35 +445,35 @@
           "draw": 1,
           "lose": 0,
           "goals": {
-            "for": 2,
-            "against": 2
+            "for": 1,
+            "against": 1
           },
           "form_home": "D",
           "avg_corners_home_per_game": 6.0,
           "aproveitamento_home": 33.3,
           "btts_home_matches": 1,
-          "over_2_5_goals_home": 1,
-          "over_0_5_ht_home": 1,
+          "over_2_5_goals_home": 0,
+          "over_0_5_ht_home": 0,
           "over_0_5_ft_home": 1,
           "clean_sheets_home": 0
         },
         "away": {
-          "played": 1,
+          "played": 2,
           "win": 1,
-          "draw": 0,
+          "draw": 1,
           "lose": 0,
           "goals": {
-            "for": 3,
+            "for": 2,
             "against": 1
           },
-          "form_visitor": "W",
+          "form_visitor": "DW",
           "btts_away_matches": 1,
-          "avg_corners_away_per_game": 7.0,
-          "aproveitamento_away": 100.0,
+          "avg_corners_away_per_game": 4.0,
+          "aproveitamento_away": 66.7,
           "over_2_5_goals_away": 1,
           "over_0_5_ht_away": 0,
           "over_0_5_ft_away": 1,
-          "clean_sheets_away": 0
+          "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -548,6 +548,74 @@
       {
         "rank": 9,
         "team": {
+          "id": 1055,
+          "name": "Londrina EC",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-londrina-ec.png"
+        },
+        "points": 4,
+        "goalsDiff": 1,
+        "group": "Brazil Serie B 2026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 3,
+          "win": 1,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 6,
+            "against": 5
+          },
+          "form": "WDL",
+          "btts_matches": 3,
+          "avg_corners_per_game": 6.0,
+          "aproveitamento": 44.4,
+          "over_2_5_goals": 3,
+          "over_0_5_ht": 2,
+          "over_0_5_ft": 2,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 2,
+          "win": 0,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 3,
+            "against": 4
+          },
+          "form_home": "DL",
+          "avg_corners_home_per_game": 5.5,
+          "aproveitamento_home": 16.7,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 1,
+          "win": 1,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 3,
+            "against": 1
+          },
+          "form_visitor": "W",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 7.0,
+          "aproveitamento_away": 100.0,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 10,
+        "team": {
           "id": 677199,
           "name": "Athletic Club (Minas Gerais)",
           "logo": "https://cdn.footystats.org/img/teams/brazil-athletic-club-minas-gerais.png"
@@ -614,7 +682,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "team": {
           "id": 691,
           "name": "Criciuma EC",
@@ -682,7 +750,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 11,
+        "rank": 12,
         "team": {
           "id": 2601,
           "name": "Fortaleza EC",
@@ -746,74 +814,6 @@
           "over_0_5_ht_away": 0,
           "over_0_5_ft_away": 0,
           "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 12,
-        "team": {
-          "id": 614,
-          "name": "SC do Recife",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-sc-do-recife.png"
-        },
-        "points": 2,
-        "goalsDiff": 0,
-        "group": "Brazil Serie B 2026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 2,
-          "win": 0,
-          "draw": 2,
-          "lose": 0,
-          "goals": {
-            "for": 1,
-            "against": 1
-          },
-          "form": "DD",
-          "btts_matches": 1,
-          "avg_corners_per_game": 3.5,
-          "aproveitamento": 33.3,
-          "over_2_5_goals": 0,
-          "over_0_5_ht": 0,
-          "over_0_5_ft": 1,
-          "clean_sheets": 1
-        },
-        "home": {
-          "played": 1,
-          "win": 0,
-          "draw": 1,
-          "lose": 0,
-          "goals": {
-            "for": 1,
-            "against": 1
-          },
-          "form_home": "D",
-          "avg_corners_home_per_game": 6.0,
-          "aproveitamento_home": 33.3,
-          "btts_home_matches": 1,
-          "over_2_5_goals_home": 0,
-          "over_0_5_ht_home": 0,
-          "over_0_5_ft_home": 1,
-          "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 1,
-          "win": 0,
-          "draw": 1,
-          "lose": 0,
-          "goals": {
-            "for": 0,
-            "against": 0
-          },
-          "form_visitor": "D",
-          "btts_away_matches": 0,
-          "avg_corners_away_per_game": 1.0,
-          "aproveitamento_away": 33.3,
-          "over_2_5_goals_away": 0,
-          "over_0_5_ht_away": 0,
-          "over_0_5_ft_away": 0,
-          "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1377,9 +1377,9 @@
       {
         "jogador-nome": "Bruno Santos de Oliveira",
         "jogador-posicao": "Forward",
-        "jogador-gols": 2,
+        "jogador-gols": 3,
         "jogador-assists": 1,
-        "jogador-partidas": 2,
+        "jogador-partidas": 3,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-londrina-ec.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-bruno-santos-de-oliveira.png"
       },
@@ -1400,6 +1400,15 @@
         "jogador-partidas": 3,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-clube-nautico-capibaribe.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-vinicius-santos-silva.png"
+      },
+      {
+        "jogador-nome": "Pedro Henrique Perotti",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 2,
+        "jogador-assists": 0,
+        "jogador-partidas": 2,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-sc-do-recife.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-pedro-henrique-perotti.png"
       },
       {
         "jogador-nome": "Pablo Felipe Teixeira",
@@ -1442,7 +1451,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 1,
         "jogador-assists": 1,
-        "jogador-partidas": 2,
+        "jogador-partidas": 3,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-londrina-ec.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-iago-teles-da-silva.png"
       },
@@ -1508,15 +1517,6 @@
         "jogador-partidas": 2,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-sao-bernardo-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-romisson-lino-dos-santos.png"
-      },
-      {
-        "jogador-nome": "Pedro Henrique Perotti",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 1,
-        "jogador-assists": 0,
-        "jogador-partidas": 1,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-sc-do-recife.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-pedro-henrique-perotti.png"
       },
       {
         "jogador-nome": "Mikael Filipe Viana de Sousa",
