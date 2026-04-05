@@ -344,6 +344,74 @@
       {
         "rank": 6,
         "team": {
+          "id": 645,
+          "name": "Vila Nova FC",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-vila-nova-fc.png"
+        },
+        "points": 5,
+        "goalsDiff": 1,
+        "group": "Brazil Serie B 2026",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 3,
+          "win": 1,
+          "draw": 2,
+          "lose": 0,
+          "goals": {
+            "for": 5,
+            "against": 4
+          },
+          "form": "DDW",
+          "btts_matches": 3,
+          "avg_corners_per_game": 4.67,
+          "aproveitamento": 55.6,
+          "over_2_5_goals": 2,
+          "over_0_5_ht": 0,
+          "over_0_5_ft": 3,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 2,
+          "win": 1,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 4,
+            "against": 3
+          },
+          "form_home": "DW",
+          "avg_corners_home_per_game": 5.5,
+          "aproveitamento_home": 66.7,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 0,
+          "over_0_5_ft_home": 2,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 1,
+          "win": 0,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 1,
+            "against": 1
+          },
+          "form_visitor": "D",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 3.0,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 0,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 7,
+        "team": {
           "id": 1055,
           "name": "Londrina EC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-londrina-ec.png"
@@ -352,7 +420,7 @@
         "goalsDiff": 2,
         "group": "Brazil Serie B 2026",
         "status": "same",
-        "description": "Copa Sul-Americana",
+        "description": "",
         "all": {
           "played": 2,
           "win": 1,
@@ -410,7 +478,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "team": {
           "id": 1056,
           "name": "Goiás EC",
@@ -478,7 +546,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "team": {
           "id": 677199,
           "name": "Athletic Club (Minas Gerais)",
@@ -546,7 +614,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "team": {
           "id": 691,
           "name": "Criciuma EC",
@@ -614,7 +682,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "team": {
           "id": 2601,
           "name": "Fortaleza EC",
@@ -677,74 +745,6 @@
           "over_2_5_goals_away": 1,
           "over_0_5_ht_away": 0,
           "over_0_5_ft_away": 0,
-          "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 11,
-        "team": {
-          "id": 645,
-          "name": "Vila Nova FC",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-vila-nova-fc.png"
-        },
-        "points": 2,
-        "goalsDiff": 0,
-        "group": "Brazil Serie B 2026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 2,
-          "win": 0,
-          "draw": 2,
-          "lose": 0,
-          "goals": {
-            "for": 3,
-            "against": 3
-          },
-          "form": "DD",
-          "btts_matches": 2,
-          "avg_corners_per_game": 3.0,
-          "aproveitamento": 33.3,
-          "over_2_5_goals": 1,
-          "over_0_5_ht": 0,
-          "over_0_5_ft": 2,
-          "clean_sheets": 0
-        },
-        "home": {
-          "played": 1,
-          "win": 0,
-          "draw": 1,
-          "lose": 0,
-          "goals": {
-            "for": 2,
-            "against": 2
-          },
-          "form_home": "D",
-          "avg_corners_home_per_game": 3.0,
-          "aproveitamento_home": 33.3,
-          "btts_home_matches": 1,
-          "over_2_5_goals_home": 1,
-          "over_0_5_ht_home": 0,
-          "over_0_5_ft_home": 1,
-          "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 1,
-          "win": 0,
-          "draw": 1,
-          "lose": 0,
-          "goals": {
-            "for": 1,
-            "against": 1
-          },
-          "form_visitor": "D",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 3.0,
-          "aproveitamento_away": 33.3,
-          "over_2_5_goals_away": 0,
-          "over_0_5_ht_away": 0,
-          "over_0_5_ft_away": 1,
           "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1228,74 +1228,6 @@
       {
         "rank": 19,
         "team": {
-          "id": 629,
-          "name": "AC Goianiense",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-ac-goianiense.png"
-        },
-        "points": 0,
-        "goalsDiff": -2,
-        "group": "Brazil Serie B 2026",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 2,
-          "win": 0,
-          "draw": 0,
-          "lose": 2,
-          "goals": {
-            "for": 1,
-            "against": 3
-          },
-          "form": "LL",
-          "btts_matches": 1,
-          "avg_corners_per_game": 7.0,
-          "aproveitamento": 0.0,
-          "over_2_5_goals": 1,
-          "over_0_5_ht": 1,
-          "over_0_5_ft": 0,
-          "clean_sheets": 0
-        },
-        "home": {
-          "played": 1,
-          "win": 0,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 1,
-            "against": 2
-          },
-          "form_home": "L",
-          "avg_corners_home_per_game": 7.0,
-          "aproveitamento_home": 0.0,
-          "btts_home_matches": 1,
-          "over_2_5_goals_home": 1,
-          "over_0_5_ht_home": 1,
-          "over_0_5_ft_home": 0,
-          "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 1,
-          "win": 0,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 0,
-            "against": 1
-          },
-          "form_visitor": "L",
-          "btts_away_matches": 0,
-          "avg_corners_away_per_game": 7.0,
-          "aproveitamento_away": 0.0,
-          "over_2_5_goals_away": 0,
-          "over_0_5_ht_away": 0,
-          "over_0_5_ft_away": 0,
-          "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 20,
-        "team": {
           "id": 633,
           "name": "América FC - Minas Gerais",
           "logo": "https://cdn.footystats.org/img/teams/brazil-america-fc-minas-gerais.png"
@@ -1357,6 +1289,74 @@
           "over_2_5_goals_away": 1,
           "over_0_5_ht_away": 0,
           "over_0_5_ft_away": 1,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 20,
+        "team": {
+          "id": 629,
+          "name": "AC Goianiense",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-ac-goianiense.png"
+        },
+        "points": 0,
+        "goalsDiff": -3,
+        "group": "Brazil Serie B 2026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 3,
+          "win": 0,
+          "draw": 0,
+          "lose": 3,
+          "goals": {
+            "for": 2,
+            "against": 5
+          },
+          "form": "LLL",
+          "btts_matches": 2,
+          "avg_corners_per_game": 5.67,
+          "aproveitamento": 0.0,
+          "over_2_5_goals": 2,
+          "over_0_5_ht": 2,
+          "over_0_5_ft": 0,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 1,
+            "against": 2
+          },
+          "form_home": "L",
+          "avg_corners_home_per_game": 7.0,
+          "aproveitamento_home": 0.0,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 0,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 2,
+          "win": 0,
+          "draw": 0,
+          "lose": 2,
+          "goals": {
+            "for": 1,
+            "against": 3
+          },
+          "form_visitor": "LL",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 5.0,
+          "aproveitamento_away": 0.0,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 0,
           "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1537,13 +1537,13 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-mailton-dos-santos-de-sa.png"
       },
       {
-        "jogador-nome": "Luis Phelipe de Souza Figueiredo",
-        "jogador-posicao": "Midfielder",
+        "jogador-nome": "Marrony da Silva Liberato",
+        "jogador-posicao": "Forward",
         "jogador-gols": 1,
         "jogador-assists": 0,
         "jogador-partidas": 3,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-associacao-atletica-ponte-preta.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-luis-phelipe-de-souza-figueiredo.png"
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ac-goianiense.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-marrony-da-silva-liberato.png"
       }
     ]
   }
