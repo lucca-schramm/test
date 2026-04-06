@@ -548,6 +548,74 @@
       {
         "rank": 9,
         "team": {
+          "id": 635,
+          "name": "Clube Atlético Bragantino",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-clube-atletico-bragantino.png"
+        },
+        "points": 14,
+        "goalsDiff": 0,
+        "group": "Brazil Serie A 2026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 10,
+          "win": 4,
+          "draw": 2,
+          "lose": 4,
+          "goals": {
+            "for": 10,
+            "against": 10
+          },
+          "form": "LLLWW",
+          "btts_matches": 4,
+          "avg_corners_per_game": 5.9,
+          "aproveitamento": 46.7,
+          "over_2_5_goals": 3,
+          "over_0_5_ht": 5,
+          "over_0_5_ft": 4,
+          "clean_sheets": 4
+        },
+        "home": {
+          "played": 5,
+          "win": 2,
+          "draw": 1,
+          "lose": 2,
+          "goals": {
+            "for": 7,
+            "against": 5
+          },
+          "form_home": "WDLLW",
+          "avg_corners_home_per_game": 6.4,
+          "aproveitamento_home": 46.7,
+          "btts_home_matches": 3,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 5,
+          "win": 2,
+          "draw": 1,
+          "lose": 2,
+          "goals": {
+            "for": 3,
+            "against": 5
+          },
+          "form_visitor": "WLDLW",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 5.4,
+          "aproveitamento_away": 46.7,
+          "over_2_5_goals_away": 0,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 10,
+        "team": {
           "id": 615,
           "name": "Botafogo FR",
           "logo": "https://cdn.footystats.org/img/teams/brazil-botafogo-fr.png"
@@ -614,7 +682,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "team": {
           "id": 625,
           "name": "CR Vasco da Gama",
@@ -682,7 +750,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 11,
+        "rank": 12,
         "team": {
           "id": 630,
           "name": "SC Internacional",
@@ -750,7 +818,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "team": {
           "id": 616,
           "name": "Grêmio FB Porto Alegrense",
@@ -814,74 +882,6 @@
           "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 2,
           "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 13,
-        "team": {
-          "id": 635,
-          "name": "Clube Atlético Bragantino",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-clube-atletico-bragantino.png"
-        },
-        "points": 11,
-        "goalsDiff": -1,
-        "group": "Brazil Serie A 2026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 9,
-          "win": 3,
-          "draw": 2,
-          "lose": 4,
-          "goals": {
-            "for": 9,
-            "against": 10
-          },
-          "form": "DLLLW",
-          "btts_matches": 4,
-          "avg_corners_per_game": 5.89,
-          "aproveitamento": 40.7,
-          "over_2_5_goals": 3,
-          "over_0_5_ht": 5,
-          "over_0_5_ft": 3,
-          "clean_sheets": 3
-        },
-        "home": {
-          "played": 5,
-          "win": 2,
-          "draw": 1,
-          "lose": 2,
-          "goals": {
-            "for": 7,
-            "against": 5
-          },
-          "form_home": "WDLLW",
-          "avg_corners_home_per_game": 6.4,
-          "aproveitamento_home": 46.7,
-          "btts_home_matches": 3,
-          "over_2_5_goals_home": 3,
-          "over_0_5_ht_home": 5,
-          "over_0_5_ft_home": 1,
-          "clean_sheets_home": 2
-        },
-        "away": {
-          "played": 4,
-          "win": 1,
-          "draw": 1,
-          "lose": 2,
-          "goals": {
-            "for": 2,
-            "against": 5
-          },
-          "form_visitor": "WLDL",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 5.25,
-          "aproveitamento_away": 33.3,
-          "over_2_5_goals_away": 0,
-          "over_0_5_ht_away": 0,
-          "over_0_5_ft_away": 2,
-          "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1233,40 +1233,40 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-mirassol-futebol-clube.png"
         },
         "points": 6,
-        "goalsDiff": -3,
+        "goalsDiff": -4,
         "group": "Brazil Serie A 2026",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 8,
+          "played": 9,
           "win": 1,
           "draw": 3,
-          "lose": 4,
+          "lose": 5,
           "goals": {
             "for": 10,
-            "against": 13
+            "against": 14
           },
-          "form": "DLLLL",
+          "form": "LLLLL",
           "btts_matches": 5,
-          "avg_corners_per_game": 6.0,
-          "aproveitamento": 25.0,
+          "avg_corners_per_game": 6.67,
+          "aproveitamento": 22.2,
           "over_2_5_goals": 5,
           "over_0_5_ht": 4,
           "over_0_5_ft": 5,
           "clean_sheets": 0
         },
         "home": {
-          "played": 4,
+          "played": 5,
           "win": 1,
           "draw": 2,
-          "lose": 1,
+          "lose": 2,
           "goals": {
             "for": 6,
-            "against": 6
+            "against": 7
           },
-          "form_home": "WDDL",
-          "avg_corners_home_per_game": 6.75,
-          "aproveitamento_home": 41.7,
+          "form_home": "WDDLL",
+          "avg_corners_home_per_game": 7.8,
+          "aproveitamento_home": 33.3,
           "btts_home_matches": 3,
           "over_2_5_goals_home": 3,
           "over_0_5_ht_home": 3,
@@ -1532,7 +1532,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 3,
         "jogador-assists": 0,
-        "jogador-partidas": 8,
+        "jogador-partidas": 9,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-mirassol-futebol-clube.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-igor-marques-paciencia-cardoso.png"
       },
