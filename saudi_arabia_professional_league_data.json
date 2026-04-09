@@ -212,26 +212,26 @@
           "name": "Al Quadisiya Al Khubar",
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-quadisiya-al-khubar.png"
         },
-        "points": 60,
+        "points": 61,
         "goalsDiff": 36,
         "group": "Saudi Arabia Professional League 20252026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 27,
+          "played": 28,
           "win": 18,
-          "draw": 6,
+          "draw": 7,
           "lose": 3,
           "goals": {
-            "for": 64,
-            "against": 28
+            "for": 65,
+            "against": 29
           },
-          "form": "WDWWL",
-          "btts_matches": 18,
-          "avg_corners_per_game": 7.11,
-          "aproveitamento": 74.1,
+          "form": "DWWLD",
+          "btts_matches": 19,
+          "avg_corners_per_game": 7.29,
+          "aproveitamento": 72.6,
           "over_2_5_goals": 19,
-          "over_0_5_ht": 18,
+          "over_0_5_ht": 19,
           "over_0_5_ft": 20,
           "clean_sheets": 8
         },
@@ -254,20 +254,20 @@
           "clean_sheets_home": 6
         },
         "away": {
-          "played": 13,
+          "played": 14,
           "win": 9,
-          "draw": 1,
+          "draw": 2,
           "lose": 3,
           "goals": {
-            "for": 31,
-            "against": 18
+            "for": 32,
+            "against": 19
           },
-          "form_visitor": "WWWWL",
-          "btts_away_matches": 10,
-          "avg_corners_away_per_game": 5.54,
-          "aproveitamento_away": 71.8,
+          "form_visitor": "WWWLD",
+          "btts_away_matches": 11,
+          "avg_corners_away_per_game": 6.0,
+          "aproveitamento_away": 69.0,
           "over_2_5_goals_away": 10,
-          "over_0_5_ht_away": 8,
+          "over_0_5_ht_away": 9,
           "over_0_5_ft_away": 10,
           "clean_sheets_away": 2
         },
@@ -960,44 +960,44 @@
           "name": "Dhamk Club",
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-dhamk-club.png"
         },
-        "points": 22,
+        "points": 23,
         "goalsDiff": -21,
         "group": "Saudi Arabia Professional League 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 27,
+          "played": 28,
           "win": 4,
-          "draw": 10,
+          "draw": 11,
           "lose": 13,
           "goals": {
-            "for": 24,
-            "against": 45
+            "for": 25,
+            "against": 46
           },
-          "form": "LDWWL",
-          "btts_matches": 17,
-          "avg_corners_per_game": 4.3,
-          "aproveitamento": 27.2,
+          "form": "DWWLD",
+          "btts_matches": 18,
+          "avg_corners_per_game": 4.25,
+          "aproveitamento": 27.4,
           "over_2_5_goals": 13,
-          "over_0_5_ht": 12,
+          "over_0_5_ht": 13,
           "over_0_5_ft": 9,
           "clean_sheets": 4
         },
         "home": {
-          "played": 13,
+          "played": 14,
           "win": 2,
-          "draw": 5,
+          "draw": 6,
           "lose": 6,
           "goals": {
-            "for": 12,
-            "against": 17
+            "for": 13,
+            "against": 18
           },
-          "form_home": "DWLLW",
-          "avg_corners_home_per_game": 4.85,
-          "aproveitamento_home": 28.2,
-          "btts_home_matches": 8,
+          "form_home": "WLLWD",
+          "avg_corners_home_per_game": 4.71,
+          "aproveitamento_home": 28.6,
+          "btts_home_matches": 9,
           "over_2_5_goals_home": 6,
-          "over_0_5_ht_home": 5,
+          "over_0_5_ht_home": 6,
           "over_0_5_ft_home": 6,
           "clean_sheets_home": 3
         },
@@ -1243,7 +1243,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 26,
         "jogador-assists": 2,
-        "jogador-partidas": 24,
+        "jogador-partidas": 25,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-quadisiya-al-khubar.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/colombia-julian-andres-quinones-quinones.png"
       },
@@ -1306,7 +1306,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 15,
         "jogador-assists": 0,
-        "jogador-partidas": 26,
+        "jogador-partidas": 27,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-quadisiya-al-khubar.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/argentina-mateo-retegui.png"
       },
@@ -1383,6 +1383,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/portugal-ruben-neves.png"
       },
       {
+        "jogador-nome": "Valentín Vada",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 10,
+        "jogador-assists": 3,
+        "jogador-partidas": 28,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-dhamk-club.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/argentina-valentin-vada.png"
+      },
+      {
         "jogador-nome": "Sadio Mané",
         "jogador-posicao": "Forward",
         "jogador-gols": 9,
@@ -1399,15 +1408,6 @@
         "jogador-partidas": 25,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-ittifaq-fc-dammam.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/saudi-arabia-khalid-essa-al-ghannam.png"
-      },
-      {
-        "jogador-nome": "Valentín Vada",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 9,
-        "jogador-assists": 3,
-        "jogador-partidas": 27,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-dhamk-club.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/argentina-valentin-vada.png"
       }
     ]
   }
