@@ -77,40 +77,40 @@
           "logo": "https://cdn.footystats.org/img/teams/germany-bvb-09-borussia-dortmund.png"
         },
         "points": 64,
-        "goalsDiff": 32,
+        "goalsDiff": 31,
         "group": "Germany Bundesliga 20252026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 28,
+          "played": 29,
           "win": 19,
           "draw": 7,
-          "lose": 2,
+          "lose": 3,
           "goals": {
             "for": 60,
-            "against": 28
+            "against": 29
           },
-          "form": "LWWWW",
+          "form": "WWWWL",
           "btts_matches": 15,
-          "avg_corners_per_game": 5.57,
-          "aproveitamento": 76.2,
+          "avg_corners_per_game": 5.55,
+          "aproveitamento": 73.6,
           "over_2_5_goals": 16,
           "over_0_5_ht": 22,
           "over_0_5_ft": 22,
           "clean_sheets": 13
         },
         "home": {
-          "played": 14,
+          "played": 15,
           "win": 11,
           "draw": 2,
-          "lose": 1,
+          "lose": 2,
           "goals": {
             "for": 33,
-            "against": 13
+            "against": 14
           },
-          "form_home": "WWLWW",
-          "avg_corners_home_per_game": 7.64,
-          "aproveitamento_home": 83.3,
+          "form_home": "WLWWL",
+          "avg_corners_home_per_game": 7.47,
+          "aproveitamento_home": 77.8,
           "btts_home_matches": 6,
           "over_2_5_goals_home": 8,
           "over_0_5_ht_home": 12,
@@ -144,46 +144,46 @@
           "name": "Rasen Ballsport Leipzig",
           "logo": "https://cdn.footystats.org/img/teams/germany-rasen-ballsport-leipzig.png"
         },
-        "points": 53,
-        "goalsDiff": 19,
+        "points": 56,
+        "goalsDiff": 20,
         "group": "Germany Bundesliga 20252026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 28,
-          "win": 16,
+          "played": 29,
+          "win": 17,
           "draw": 5,
           "lose": 7,
           "goals": {
-            "for": 55,
+            "for": 56,
             "against": 36
           },
-          "form": "WWLWW",
+          "form": "WLWWW",
           "btts_matches": 16,
-          "avg_corners_per_game": 5.18,
-          "aproveitamento": 63.1,
+          "avg_corners_per_game": 5.38,
+          "aproveitamento": 64.4,
           "over_2_5_goals": 19,
           "over_0_5_ht": 17,
-          "over_0_5_ft": 16,
-          "clean_sheets": 10
+          "over_0_5_ft": 17,
+          "clean_sheets": 11
         },
         "home": {
-          "played": 14,
-          "win": 9,
+          "played": 15,
+          "win": 10,
           "draw": 2,
           "lose": 3,
           "goals": {
-            "for": 34,
+            "for": 35,
             "against": 18
           },
-          "form_home": "LDDWW",
-          "avg_corners_home_per_game": 5.43,
-          "aproveitamento_home": 69.0,
+          "form_home": "DDWWW",
+          "avg_corners_home_per_game": 5.8,
+          "aproveitamento_home": 71.1,
           "btts_home_matches": 9,
           "over_2_5_goals_home": 11,
           "over_0_5_ht_home": 9,
-          "over_0_5_ft_home": 9,
-          "clean_sheets_home": 5
+          "over_0_5_ft_home": 10,
+          "clean_sheets_home": 6
         },
         "away": {
           "played": 14,
@@ -276,6 +276,74 @@
       {
         "rank": 5,
         "team": {
+          "id": 40,
+          "name": "Bayer 04 Leverkusen",
+          "logo": "https://cdn.footystats.org/img/teams/germany-bayer-04-leverkusen.png"
+        },
+        "points": 52,
+        "goalsDiff": 20,
+        "group": "Germany Bundesliga 20252026",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 29,
+          "win": 15,
+          "draw": 7,
+          "lose": 7,
+          "goals": {
+            "for": 59,
+            "against": 39
+          },
+          "form": "DDDWW",
+          "btts_matches": 17,
+          "avg_corners_per_game": 5.28,
+          "aproveitamento": 59.8,
+          "over_2_5_goals": 16,
+          "over_0_5_ht": 19,
+          "over_0_5_ft": 19,
+          "clean_sheets": 8
+        },
+        "home": {
+          "played": 14,
+          "win": 8,
+          "draw": 3,
+          "lose": 3,
+          "goals": {
+            "for": 32,
+            "against": 15
+          },
+          "form_home": "WWDDW",
+          "avg_corners_home_per_game": 6.29,
+          "aproveitamento_home": 64.3,
+          "btts_home_matches": 8,
+          "over_2_5_goals_home": 7,
+          "over_0_5_ht_home": 9,
+          "over_0_5_ft_home": 11,
+          "clean_sheets_home": 6
+        },
+        "away": {
+          "played": 15,
+          "win": 7,
+          "draw": 4,
+          "lose": 4,
+          "goals": {
+            "for": 27,
+            "against": 24
+          },
+          "form_visitor": "LWDDW",
+          "btts_away_matches": 9,
+          "avg_corners_away_per_game": 4.33,
+          "aproveitamento_away": 55.6,
+          "over_2_5_goals_away": 9,
+          "over_0_5_ht_away": 10,
+          "over_0_5_ft_away": 8,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 6,
+        "team": {
           "id": 49,
           "name": "TSG 1899 Hoffenheim",
           "logo": "https://cdn.footystats.org/img/teams/germany-tsg-1899-hoffenheim.png"
@@ -342,100 +410,32 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 6,
-        "team": {
-          "id": 40,
-          "name": "Bayer 04 Leverkusen",
-          "logo": "https://cdn.footystats.org/img/teams/germany-bayer-04-leverkusen.png"
-        },
-        "points": 49,
-        "goalsDiff": 19,
-        "group": "Germany Bundesliga 20252026",
-        "status": "same",
-        "description": "Copa Sul-Americana",
-        "all": {
-          "played": 28,
-          "win": 14,
-          "draw": 7,
-          "lose": 7,
-          "goals": {
-            "for": 58,
-            "against": 39
-          },
-          "form": "WDDDW",
-          "btts_matches": 17,
-          "avg_corners_per_game": 5.29,
-          "aproveitamento": 58.3,
-          "over_2_5_goals": 16,
-          "over_0_5_ht": 18,
-          "over_0_5_ft": 19,
-          "clean_sheets": 7
-        },
-        "home": {
-          "played": 14,
-          "win": 8,
-          "draw": 3,
-          "lose": 3,
-          "goals": {
-            "for": 32,
-            "against": 15
-          },
-          "form_home": "WWDDW",
-          "avg_corners_home_per_game": 6.29,
-          "aproveitamento_home": 64.3,
-          "btts_home_matches": 8,
-          "over_2_5_goals_home": 7,
-          "over_0_5_ht_home": 9,
-          "over_0_5_ft_home": 11,
-          "clean_sheets_home": 6
-        },
-        "away": {
-          "played": 14,
-          "win": 6,
-          "draw": 4,
-          "lose": 4,
-          "goals": {
-            "for": 26,
-            "against": 24
-          },
-          "form_visitor": "DLWDD",
-          "btts_away_matches": 9,
-          "avg_corners_away_per_game": 4.29,
-          "aproveitamento_away": 52.4,
-          "over_2_5_goals_away": 9,
-          "over_0_5_ht_away": 9,
-          "over_0_5_ft_away": 8,
-          "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
         "rank": 7,
         "team": {
           "id": 44,
           "name": "Eintracht Frankfurt",
           "logo": "https://cdn.footystats.org/img/teams/germany-eintracht-frankfurt.png"
         },
-        "points": 39,
-        "goalsDiff": -1,
+        "points": 42,
+        "goalsDiff": 0,
         "group": "Germany Bundesliga 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 28,
-          "win": 10,
+          "played": 29,
+          "win": 11,
           "draw": 9,
           "lose": 9,
           "goals": {
-            "for": 52,
-            "against": 53
+            "for": 54,
+            "against": 54
           },
-          "form": "WDWLD",
-          "btts_matches": 19,
-          "avg_corners_per_game": 4.43,
-          "aproveitamento": 46.4,
-          "over_2_5_goals": 18,
-          "over_0_5_ht": 14,
+          "form": "DWLDW",
+          "btts_matches": 20,
+          "avg_corners_per_game": 4.52,
+          "aproveitamento": 48.3,
+          "over_2_5_goals": 19,
+          "over_0_5_ht": 15,
           "over_0_5_ft": 21,
           "clean_sheets": 7
         },
@@ -458,20 +458,20 @@
           "clean_sheets_home": 6
         },
         "away": {
-          "played": 14,
-          "win": 3,
+          "played": 15,
+          "win": 4,
           "draw": 6,
           "lose": 5,
           "goals": {
-            "for": 27,
-            "against": 33
+            "for": 29,
+            "against": 34
           },
-          "form_visitor": "DDLDL",
-          "btts_away_matches": 12,
-          "avg_corners_away_per_game": 3.64,
-          "aproveitamento_away": 35.7,
-          "over_2_5_goals_away": 10,
-          "over_0_5_ht_away": 8,
+          "form_visitor": "DLDLW",
+          "btts_away_matches": 13,
+          "avg_corners_away_per_game": 3.87,
+          "aproveitamento_away": 40.0,
+          "over_2_5_goals_away": 11,
+          "over_0_5_ht_away": 9,
           "over_0_5_ft_away": 9,
           "clean_sheets_away": 1
         },
@@ -689,26 +689,26 @@
           "logo": "https://cdn.footystats.org/img/teams/germany-1-fc-union-berlin.png"
         },
         "points": 32,
-        "goalsDiff": -15,
+        "goalsDiff": -17,
         "group": "Germany Bundesliga 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 28,
+          "played": 29,
           "win": 8,
           "draw": 8,
-          "lose": 12,
+          "lose": 13,
           "goals": {
-            "for": 32,
-            "against": 47
+            "for": 33,
+            "against": 50
           },
-          "form": "LLWLD",
-          "btts_matches": 16,
+          "form": "LWLDL",
+          "btts_matches": 17,
           "avg_corners_per_game": 4.86,
-          "aproveitamento": 38.1,
-          "over_2_5_goals": 15,
+          "aproveitamento": 36.8,
+          "over_2_5_goals": 16,
           "over_0_5_ht": 9,
-          "over_0_5_ft": 15,
+          "over_0_5_ft": 16,
           "clean_sheets": 6
         },
         "home": {
@@ -730,21 +730,21 @@
           "clean_sheets_home": 3
         },
         "away": {
-          "played": 14,
+          "played": 15,
           "win": 4,
           "draw": 2,
-          "lose": 8,
+          "lose": 9,
           "goals": {
-            "for": 13,
-            "against": 25
+            "for": 14,
+            "against": 28
           },
-          "form_visitor": "LLLWL",
-          "btts_away_matches": 6,
-          "avg_corners_away_per_game": 4.64,
-          "aproveitamento_away": 33.3,
-          "over_2_5_goals_away": 6,
+          "form_visitor": "LLWLL",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 4.67,
+          "aproveitamento_away": 31.1,
+          "over_2_5_goals_away": 7,
           "over_0_5_ht_away": 3,
-          "over_0_5_ft_away": 8,
+          "over_0_5_ft_away": 9,
           "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -825,23 +825,23 @@
           "logo": "https://cdn.footystats.org/img/teams/germany-borussia-vfl-monchengladbach.png"
         },
         "points": 30,
-        "goalsDiff": -13,
+        "goalsDiff": -14,
         "group": "Germany Bundesliga 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 28,
+          "played": 29,
           "win": 7,
           "draw": 9,
-          "lose": 12,
+          "lose": 13,
           "goals": {
             "for": 35,
-            "against": 48
+            "against": 49
           },
-          "form": "WLWDD",
+          "form": "LWDDL",
           "btts_matches": 12,
           "avg_corners_per_game": 4.07,
-          "aproveitamento": 35.7,
+          "aproveitamento": 34.5,
           "over_2_5_goals": 16,
           "over_0_5_ht": 10,
           "over_0_5_ft": 15,
@@ -866,18 +866,18 @@
           "clean_sheets_home": 6
         },
         "away": {
-          "played": 14,
+          "played": 15,
           "win": 3,
           "draw": 4,
-          "lose": 7,
+          "lose": 8,
           "goals": {
             "for": 17,
-            "against": 25
+            "against": 26
           },
-          "form_visitor": "DLLLD",
+          "form_visitor": "LLLDL",
           "btts_away_matches": 7,
-          "avg_corners_away_per_game": 4.36,
-          "aproveitamento_away": 31.0,
+          "avg_corners_away_per_game": 4.33,
+          "aproveitamento_away": 28.9,
           "over_2_5_goals_away": 8,
           "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 9,
@@ -1097,44 +1097,44 @@
           "logo": "https://cdn.footystats.org/img/teams/germany-vfl-wolfsburg.png"
         },
         "points": 21,
-        "goalsDiff": -25,
+        "goalsDiff": -26,
         "group": "Germany Bundesliga 20252026",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 28,
+          "played": 29,
           "win": 5,
           "draw": 6,
-          "lose": 17,
+          "lose": 18,
           "goals": {
-            "for": 38,
-            "against": 63
+            "for": 39,
+            "against": 65
           },
-          "form": "LLDLL",
-          "btts_matches": 21,
-          "avg_corners_per_game": 3.93,
-          "aproveitamento": 25.0,
-          "over_2_5_goals": 19,
+          "form": "LDLLL",
+          "btts_matches": 22,
+          "avg_corners_per_game": 4.03,
+          "aproveitamento": 24.1,
+          "over_2_5_goals": 20,
           "over_0_5_ht": 15,
-          "over_0_5_ft": 14,
+          "over_0_5_ft": 15,
           "clean_sheets": 1
         },
         "home": {
-          "played": 14,
+          "played": 15,
           "win": 2,
           "draw": 3,
-          "lose": 9,
+          "lose": 10,
           "goals": {
-            "for": 20,
-            "against": 29
+            "for": 21,
+            "against": 31
           },
-          "form_home": "DLLLL",
-          "avg_corners_home_per_game": 5.07,
-          "aproveitamento_home": 21.4,
-          "btts_home_matches": 11,
-          "over_2_5_goals_home": 10,
+          "form_home": "LLLLL",
+          "avg_corners_home_per_game": 5.2,
+          "aproveitamento_home": 20.0,
+          "btts_home_matches": 12,
+          "over_2_5_goals_home": 11,
           "over_0_5_ht_home": 8,
-          "over_0_5_ft_home": 9,
+          "over_0_5_ft_home": 10,
           "clean_sheets_home": 0
         },
         "away": {
@@ -1164,45 +1164,45 @@
           "name": "1. FC Heidenheim 1846",
           "logo": "https://cdn.footystats.org/img/teams/germany-1-fc-heidenheim-1846.png"
         },
-        "points": 16,
-        "goalsDiff": -34,
+        "points": 19,
+        "goalsDiff": -32,
         "group": "Germany Bundesliga 20252026",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 28,
-          "win": 3,
+          "played": 29,
+          "win": 4,
           "draw": 7,
           "lose": 18,
           "goals": {
-            "for": 29,
-            "against": 63
+            "for": 32,
+            "against": 64
           },
-          "form": "LLLDD",
-          "btts_matches": 17,
-          "avg_corners_per_game": 4.5,
-          "aproveitamento": 19.0,
-          "over_2_5_goals": 19,
-          "over_0_5_ht": 7,
-          "over_0_5_ft": 13,
+          "form": "LLDDW",
+          "btts_matches": 18,
+          "avg_corners_per_game": 4.45,
+          "aproveitamento": 21.8,
+          "over_2_5_goals": 20,
+          "over_0_5_ht": 8,
+          "over_0_5_ft": 14,
           "clean_sheets": 0
         },
         "home": {
-          "played": 14,
-          "win": 2,
+          "played": 15,
+          "win": 3,
           "draw": 5,
           "lose": 7,
           "goals": {
-            "for": 18,
-            "against": 34
+            "for": 21,
+            "against": 35
           },
-          "form_home": "LLDLD",
-          "avg_corners_home_per_game": 4.57,
-          "aproveitamento_home": 26.2,
-          "btts_home_matches": 9,
-          "over_2_5_goals_home": 11,
-          "over_0_5_ht_home": 4,
-          "over_0_5_ft_home": 6,
+          "form_home": "LDLDW",
+          "avg_corners_home_per_game": 4.47,
+          "aproveitamento_home": 31.1,
+          "btts_home_matches": 10,
+          "over_2_5_goals_home": 12,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 7,
           "clean_sheets_home": 0
         },
         "away": {
@@ -1261,7 +1261,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 13,
         "jogador-assists": 1,
-        "jogador-partidas": 27,
+        "jogador-partidas": 28,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-bvb-09-borussia-dortmund.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/france-sehrou-guirassy.png"
       },
@@ -1269,8 +1269,8 @@
         "jogador-nome": "Christoph Baumgartner",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 12,
-        "jogador-assists": 7,
-        "jogador-partidas": 27,
+        "jogador-assists": 8,
+        "jogador-partidas": 28,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-rasen-ballsport-leipzig.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/austria-christoph-baumgartner.png"
       },
@@ -1284,22 +1284,22 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/france-michael-olise.png"
       },
       {
+        "jogador-nome": "Yan Diomande",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 11,
+        "jogador-assists": 7,
+        "jogador-partidas": 28,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-rasen-ballsport-leipzig.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-yan-diomande.png"
+      },
+      {
         "jogador-nome": "Haris Tabaković",
         "jogador-posicao": "Forward",
         "jogador-gols": 11,
         "jogador-assists": 3,
-        "jogador-partidas": 27,
+        "jogador-partidas": 28,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-borussia-vfl-monchengladbach.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/switzerland-haris-tabakovic.png"
-      },
-      {
-        "jogador-nome": "Yan Diomande",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 10,
-        "jogador-assists": 7,
-        "jogador-partidas": 27,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-rasen-ballsport-leipzig.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/-yan-diomande.png"
       },
       {
         "jogador-nome": "Andrej Kramarić",
@@ -1324,7 +1324,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 10,
         "jogador-assists": 3,
-        "jogador-partidas": 22,
+        "jogador-partidas": 23,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-bayer-04-leverkusen.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/czech-republic-patrik-schick.png"
       },
@@ -1342,7 +1342,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 10,
         "jogador-assists": 0,
-        "jogador-partidas": 16,
+        "jogador-partidas": 17,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-eintracht-frankfurt.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/germany-jonathan-burkardt.png"
       },
@@ -1360,7 +1360,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 9,
         "jogador-assists": 5,
-        "jogador-partidas": 24,
+        "jogador-partidas": 25,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-rasen-ballsport-leipzig.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-romulo.png"
       },
@@ -1378,7 +1378,7 @@
         "jogador-posicao": "Defender",
         "jogador-gols": 8,
         "jogador-assists": 7,
-        "jogador-partidas": 23,
+        "jogador-partidas": 24,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-bayer-04-leverkusen.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/spain-alex-grimaldo.png"
       },
@@ -1396,7 +1396,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 8,
         "jogador-assists": 4,
-        "jogador-partidas": 26,
+        "jogador-partidas": 27,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-bvb-09-borussia-dortmund.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/germany-maximilian-beier.png"
       },
@@ -1405,7 +1405,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 8,
         "jogador-assists": 3,
-        "jogador-partidas": 25,
+        "jogador-partidas": 26,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-vfl-wolfsburg.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/algeria-mohamed-amoura.png"
       }
