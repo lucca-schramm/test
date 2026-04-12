@@ -208,6 +208,74 @@
       {
         "rank": 4,
         "team": {
+          "id": 626,
+          "name": "EC Bahia",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-ec-bahia.png"
+        },
+        "points": 20,
+        "goalsDiff": 5,
+        "group": "Brazil Serie A 2026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 10,
+          "win": 6,
+          "draw": 2,
+          "lose": 2,
+          "goals": {
+            "for": 15,
+            "against": 10
+          },
+          "form": "WLWLW",
+          "btts_matches": 6,
+          "avg_corners_per_game": 5.4,
+          "aproveitamento": 66.7,
+          "over_2_5_goals": 5,
+          "over_0_5_ht": 7,
+          "over_0_5_ft": 4,
+          "clean_sheets": 4
+        },
+        "home": {
+          "played": 5,
+          "win": 2,
+          "draw": 2,
+          "lose": 1,
+          "goals": {
+            "for": 8,
+            "against": 4
+          },
+          "form_home": "DDWWL",
+          "avg_corners_home_per_game": 6.0,
+          "aproveitamento_home": 53.3,
+          "btts_home_matches": 3,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 5,
+          "win": 4,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 7,
+            "against": 6
+          },
+          "form_visitor": "WWWLW",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 4.8,
+          "aproveitamento_away": 80.0,
+          "over_2_5_goals_away": 3,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 5,
+        "team": {
           "id": 612,
           "name": "CR Flamengo",
           "logo": "https://cdn.footystats.org/img/teams/brazil-cr-flamengo.png"
@@ -216,7 +284,7 @@
         "goalsDiff": 7,
         "group": "Brazil Serie A 2026",
         "status": "same",
-        "description": "Copa Libertadores",
+        "description": "Copa Sul-Americana",
         "all": {
           "played": 9,
           "win": 5,
@@ -270,74 +338,6 @@
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 2,
           "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 5,
-        "team": {
-          "id": 626,
-          "name": "EC Bahia",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-ec-bahia.png"
-        },
-        "points": 17,
-        "goalsDiff": 4,
-        "group": "Brazil Serie A 2026",
-        "status": "same",
-        "description": "Copa Sul-Americana",
-        "all": {
-          "played": 9,
-          "win": 5,
-          "draw": 2,
-          "lose": 2,
-          "goals": {
-            "for": 13,
-            "against": 9
-          },
-          "form": "WWLWL",
-          "btts_matches": 5,
-          "avg_corners_per_game": 5.56,
-          "aproveitamento": 63.0,
-          "over_2_5_goals": 4,
-          "over_0_5_ht": 7,
-          "over_0_5_ft": 3,
-          "clean_sheets": 4
-        },
-        "home": {
-          "played": 5,
-          "win": 2,
-          "draw": 2,
-          "lose": 1,
-          "goals": {
-            "for": 8,
-            "against": 4
-          },
-          "form_home": "DDWWL",
-          "avg_corners_home_per_game": 6.0,
-          "aproveitamento_home": 53.3,
-          "btts_home_matches": 3,
-          "over_2_5_goals_home": 2,
-          "over_0_5_ht_home": 3,
-          "over_0_5_ft_home": 3,
-          "clean_sheets_home": 2
-        },
-        "away": {
-          "played": 4,
-          "win": 3,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 5,
-            "against": 5
-          },
-          "form_visitor": "WWWL",
-          "btts_away_matches": 2,
-          "avg_corners_away_per_game": 5.0,
-          "aproveitamento_away": 75.0,
-          "over_2_5_goals_away": 2,
-          "over_0_5_ht_away": 4,
-          "over_0_5_ft_away": 0,
-          "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1301,43 +1301,43 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-mirassol-futebol-clube.png"
         },
         "points": 6,
-        "goalsDiff": -4,
+        "goalsDiff": -5,
         "group": "Brazil Serie A 2026",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 9,
+          "played": 10,
           "win": 1,
           "draw": 3,
-          "lose": 5,
+          "lose": 6,
           "goals": {
-            "for": 10,
-            "against": 14
+            "for": 11,
+            "against": 16
           },
           "form": "LLLLL",
-          "btts_matches": 5,
-          "avg_corners_per_game": 6.67,
-          "aproveitamento": 22.2,
-          "over_2_5_goals": 5,
-          "over_0_5_ht": 4,
+          "btts_matches": 6,
+          "avg_corners_per_game": 6.8,
+          "aproveitamento": 20.0,
+          "over_2_5_goals": 6,
+          "over_0_5_ht": 5,
           "over_0_5_ft": 5,
           "clean_sheets": 0
         },
         "home": {
-          "played": 5,
+          "played": 6,
           "win": 1,
           "draw": 2,
-          "lose": 2,
+          "lose": 3,
           "goals": {
-            "for": 6,
-            "against": 7
+            "for": 7,
+            "against": 9
           },
-          "form_home": "WDDLL",
-          "avg_corners_home_per_game": 7.8,
-          "aproveitamento_home": 33.3,
-          "btts_home_matches": 3,
-          "over_2_5_goals_home": 3,
-          "over_0_5_ht_home": 3,
+          "form_home": "DDLLL",
+          "avg_corners_home_per_game": 7.83,
+          "aproveitamento_home": 27.8,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 4,
           "over_0_5_ft_home": 3,
           "clean_sheets_home": 0
         },
@@ -1402,6 +1402,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-danilo-oliveira.png"
       },
       {
+        "jogador-nome": "Luciano Batista da Silva Junior",
+        "jogador-posicao": "Defender",
+        "jogador-gols": 4,
+        "jogador-assists": 1,
+        "jogador-partidas": 10,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ec-bahia.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-luciano-batista-da-silva-junior.png"
+      },
+      {
         "jogador-nome": "John Kennedy Batista de Souza",
         "jogador-posicao": "Forward",
         "jogador-gols": 4,
@@ -1463,15 +1472,6 @@
         "jogador-partidas": 10,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ca-mineiro.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-victor-hugo-gomes-silva.png"
-      },
-      {
-        "jogador-nome": "Luciano Batista da Silva Junior",
-        "jogador-posicao": "Defender",
-        "jogador-gols": 3,
-        "jogador-assists": 1,
-        "jogador-partidas": 9,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ec-bahia.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-luciano-batista-da-silva-junior.png"
       },
       {
         "jogador-nome": "Julimar Silva Oliveira Junior",
@@ -1541,7 +1541,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 3,
         "jogador-assists": 0,
-        "jogador-partidas": 9,
+        "jogador-partidas": 10,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-mirassol-futebol-clube.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-igor-marques-paciencia-cardoso.png"
       }
