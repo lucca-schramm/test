@@ -276,6 +276,74 @@
       {
         "rank": 5,
         "team": {
+          "id": 622,
+          "name": "CA Paranaense",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-ca-paranaense.png"
+        },
+        "points": 19,
+        "goalsDiff": 4,
+        "group": "Brazil Serie A 2026",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 11,
+          "win": 6,
+          "draw": 1,
+          "lose": 4,
+          "goals": {
+            "for": 17,
+            "against": 13
+          },
+          "form": "WWLLW",
+          "btts_matches": 6,
+          "avg_corners_per_game": 4.64,
+          "aproveitamento": 57.6,
+          "over_2_5_goals": 6,
+          "over_0_5_ht": 6,
+          "over_0_5_ft": 7,
+          "clean_sheets": 3
+        },
+        "home": {
+          "played": 6,
+          "win": 5,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 12,
+            "against": 4
+          },
+          "form_home": "LWWWW",
+          "avg_corners_home_per_game": 5.5,
+          "aproveitamento_home": 83.3,
+          "btts_home_matches": 3,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 5,
+          "win": 1,
+          "draw": 1,
+          "lose": 3,
+          "goals": {
+            "for": 5,
+            "against": 9
+          },
+          "form_visitor": "WDLLL",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 3.6,
+          "aproveitamento_away": 26.7,
+          "over_2_5_goals_away": 3,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 6,
+        "team": {
           "id": 612,
           "name": "CR Flamengo",
           "logo": "https://cdn.footystats.org/img/teams/brazil-cr-flamengo.png"
@@ -337,74 +405,6 @@
           "over_2_5_goals_away": 4,
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 2,
-          "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 6,
-        "team": {
-          "id": 622,
-          "name": "CA Paranaense",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-ca-paranaense.png"
-        },
-        "points": 16,
-        "goalsDiff": 2,
-        "group": "Brazil Serie A 2026",
-        "status": "same",
-        "description": "Copa Sul-Americana",
-        "all": {
-          "played": 10,
-          "win": 5,
-          "draw": 1,
-          "lose": 4,
-          "goals": {
-            "for": 15,
-            "against": 13
-          },
-          "form": "WWWLL",
-          "btts_matches": 6,
-          "avg_corners_per_game": 4.6,
-          "aproveitamento": 53.3,
-          "over_2_5_goals": 6,
-          "over_0_5_ht": 6,
-          "over_0_5_ft": 6,
-          "clean_sheets": 2
-        },
-        "home": {
-          "played": 5,
-          "win": 4,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 10,
-            "against": 4
-          },
-          "form_home": "WLWWW",
-          "avg_corners_home_per_game": 5.6,
-          "aproveitamento_home": 80.0,
-          "btts_home_matches": 3,
-          "over_2_5_goals_home": 3,
-          "over_0_5_ht_home": 4,
-          "over_0_5_ft_home": 3,
-          "clean_sheets_home": 1
-        },
-        "away": {
-          "played": 5,
-          "win": 1,
-          "draw": 1,
-          "lose": 3,
-          "goals": {
-            "for": 5,
-            "against": 9
-          },
-          "form_visitor": "WDLLL",
-          "btts_away_matches": 3,
-          "avg_corners_away_per_game": 3.6,
-          "aproveitamento_away": 26.7,
-          "over_2_5_goals_away": 3,
-          "over_0_5_ht_away": 2,
-          "over_0_5_ft_away": 3,
           "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1092,74 +1092,6 @@
       {
         "rank": 17,
         "team": {
-          "id": 623,
-          "name": "Chapecoense AF",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-chapecoense-af.png"
-        },
-        "points": 8,
-        "goalsDiff": -6,
-        "group": "Brazil Serie A 2026",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 9,
-          "win": 1,
-          "draw": 5,
-          "lose": 3,
-          "goals": {
-            "for": 10,
-            "against": 16
-          },
-          "form": "DDLLD",
-          "btts_matches": 5,
-          "avg_corners_per_game": 4.78,
-          "aproveitamento": 29.6,
-          "over_2_5_goals": 3,
-          "over_0_5_ht": 3,
-          "over_0_5_ft": 4,
-          "clean_sheets": 1
-        },
-        "home": {
-          "played": 6,
-          "win": 1,
-          "draw": 4,
-          "lose": 1,
-          "goals": {
-            "for": 9,
-            "against": 11
-          },
-          "form_home": "DDDLD",
-          "avg_corners_home_per_game": 5.5,
-          "aproveitamento_home": 38.9,
-          "btts_home_matches": 4,
-          "over_2_5_goals_home": 3,
-          "over_0_5_ht_home": 3,
-          "over_0_5_ft_home": 3,
-          "clean_sheets_home": 1
-        },
-        "away": {
-          "played": 3,
-          "win": 0,
-          "draw": 1,
-          "lose": 2,
-          "goals": {
-            "for": 1,
-            "against": 5
-          },
-          "form_visitor": "DLL",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 3.33,
-          "aproveitamento_away": 11.1,
-          "over_2_5_goals_away": 0,
-          "over_0_5_ht_away": 0,
-          "over_0_5_ft_away": 1,
-          "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 18,
-        "team": {
           "id": 2594,
           "name": "Clube do Remo",
           "logo": "https://cdn.footystats.org/img/teams/brazil-clube-do-remo.png"
@@ -1222,6 +1154,74 @@
           "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 1,
           "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 18,
+        "team": {
+          "id": 623,
+          "name": "Chapecoense AF",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-chapecoense-af.png"
+        },
+        "points": 8,
+        "goalsDiff": -8,
+        "group": "Brazil Serie A 2026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 10,
+          "win": 1,
+          "draw": 5,
+          "lose": 4,
+          "goals": {
+            "for": 10,
+            "against": 18
+          },
+          "form": "DLLDL",
+          "btts_matches": 5,
+          "avg_corners_per_game": 4.3,
+          "aproveitamento": 26.7,
+          "over_2_5_goals": 3,
+          "over_0_5_ht": 3,
+          "over_0_5_ft": 4,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 6,
+          "win": 1,
+          "draw": 4,
+          "lose": 1,
+          "goals": {
+            "for": 9,
+            "against": 11
+          },
+          "form_home": "DDDLD",
+          "avg_corners_home_per_game": 5.5,
+          "aproveitamento_home": 38.9,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 4,
+          "win": 0,
+          "draw": 1,
+          "lose": 3,
+          "goals": {
+            "for": 1,
+            "against": 7
+          },
+          "form_visitor": "DLLL",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 2.5,
+          "aproveitamento_away": 8.3,
+          "over_2_5_goals_away": 0,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1375,6 +1375,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-carlos-vinicius.png"
       },
       {
+        "jogador-nome": "Kevin Stiven Viveros Rodallega",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 6,
+        "jogador-assists": 1,
+        "jogador-partidas": 11,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ca-paranaense.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/colombia-kevin-stiven-viveros-rodallega.png"
+      },
+      {
         "jogador-nome": "Jonathan Calleri",
         "jogador-posicao": "Forward",
         "jogador-gols": 6,
@@ -1382,15 +1391,6 @@
         "jogador-partidas": 10,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-sao-paulo-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/argentina-jonathan-calleri.png"
-      },
-      {
-        "jogador-nome": "Kevin Stiven Viveros Rodallega",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 5,
-        "jogador-assists": 1,
-        "jogador-partidas": 10,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ca-paranaense.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/colombia-kevin-stiven-viveros-rodallega.png"
       },
       {
         "jogador-nome": "Danilo dos Santos de Oliveira",
@@ -1409,6 +1409,15 @@
         "jogador-partidas": 10,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ec-bahia.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-luciano-batista-da-silva-junior.png"
+      },
+      {
+        "jogador-nome": "John Stiven Mendoza Valencia",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 4,
+        "jogador-assists": 0,
+        "jogador-partidas": 11,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ca-paranaense.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/colombia-john-stiven-mendoza-valencia.png"
       },
       {
         "jogador-nome": "John Kennedy Batista de Souza",
@@ -1478,7 +1487,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 3,
         "jogador-assists": 1,
-        "jogador-partidas": 10,
+        "jogador-partidas": 11,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ca-paranaense.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-julimar-silva-oliveira-junior.png"
       },
@@ -1526,15 +1535,6 @@
         "jogador-partidas": 6,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-se-palmeiras.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-vitor-roque.png"
-      },
-      {
-        "jogador-nome": "John Stiven Mendoza Valencia",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 3,
-        "jogador-assists": 0,
-        "jogador-partidas": 10,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ca-paranaense.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/colombia-john-stiven-mendoza-valencia.png"
       },
       {
         "jogador-nome": "Jhon Adolfo Arias Andrade",
