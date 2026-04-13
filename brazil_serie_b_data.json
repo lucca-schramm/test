@@ -825,26 +825,26 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-londrina-ec.png"
         },
         "points": 4,
-        "goalsDiff": 1,
+        "goalsDiff": 0,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 3,
+          "played": 4,
           "win": 1,
           "draw": 1,
-          "lose": 1,
+          "lose": 2,
           "goals": {
-            "for": 6,
-            "against": 5
+            "for": 7,
+            "against": 7
           },
-          "form": "WDL",
-          "btts_matches": 3,
-          "avg_corners_per_game": 6.0,
-          "aproveitamento": 44.4,
-          "over_2_5_goals": 3,
+          "form": "WDLL",
+          "btts_matches": 4,
+          "avg_corners_per_game": 5.0,
+          "aproveitamento": 33.3,
+          "over_2_5_goals": 4,
           "over_0_5_ht": 2,
-          "over_0_5_ft": 2,
+          "over_0_5_ft": 3,
           "clean_sheets": 0
         },
         "home": {
@@ -866,21 +866,21 @@
           "clean_sheets_home": 0
         },
         "away": {
-          "played": 1,
+          "played": 2,
           "win": 1,
           "draw": 0,
-          "lose": 0,
+          "lose": 1,
           "goals": {
-            "for": 3,
-            "against": 1
+            "for": 4,
+            "against": 3
           },
-          "form_visitor": "W",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 7.0,
-          "aproveitamento_away": 100.0,
-          "over_2_5_goals_away": 1,
+          "form_visitor": "WL",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 4.5,
+          "aproveitamento_away": 50.0,
+          "over_2_5_goals_away": 2,
           "over_0_5_ht_away": 0,
-          "over_0_5_ft_away": 1,
+          "over_0_5_ft_away": 2,
           "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1024,6 +1024,74 @@
       {
         "rank": 16,
         "team": {
+          "id": 629,
+          "name": "AC Goianiense",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-ac-goianiense.png"
+        },
+        "points": 3,
+        "goalsDiff": -2,
+        "group": "Brazil Serie B 2026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 4,
+          "win": 1,
+          "draw": 0,
+          "lose": 3,
+          "goals": {
+            "for": 4,
+            "against": 6
+          },
+          "form": "LLLW",
+          "btts_matches": 3,
+          "avg_corners_per_game": 6.25,
+          "aproveitamento": 25.0,
+          "over_2_5_goals": 3,
+          "over_0_5_ht": 3,
+          "over_0_5_ft": 1,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 2,
+          "win": 1,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 3,
+            "against": 3
+          },
+          "form_home": "LW",
+          "avg_corners_home_per_game": 7.5,
+          "aproveitamento_home": 50.0,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 2,
+          "win": 0,
+          "draw": 0,
+          "lose": 2,
+          "goals": {
+            "for": 1,
+            "against": 3
+          },
+          "form_visitor": "LL",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 5.0,
+          "aproveitamento_away": 0.0,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 17,
+        "team": {
           "id": 2592,
           "name": "Cuiabá EC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-cuiaba-ec.png"
@@ -1032,7 +1100,7 @@
         "goalsDiff": -2,
         "group": "Brazil Serie B 2026",
         "status": "same",
-        "description": "",
+        "description": "Rebaixamento",
         "all": {
           "played": 4,
           "win": 0,
@@ -1090,7 +1158,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 17,
+        "rank": 18,
         "team": {
           "id": 694,
           "name": "Clube de Regatas Brasil",
@@ -1158,7 +1226,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 18,
+        "rank": 19,
         "team": {
           "id": 628,
           "name": "Associacao Atletica Ponte Preta",
@@ -1226,7 +1294,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 19,
+        "rank": 20,
         "team": {
           "id": 633,
           "name": "América FC - Minas Gerais",
@@ -1292,74 +1360,6 @@
           "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 20,
-        "team": {
-          "id": 629,
-          "name": "AC Goianiense",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-ac-goianiense.png"
-        },
-        "points": 0,
-        "goalsDiff": -3,
-        "group": "Brazil Serie B 2026",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 3,
-          "win": 0,
-          "draw": 0,
-          "lose": 3,
-          "goals": {
-            "for": 2,
-            "against": 5
-          },
-          "form": "LLL",
-          "btts_matches": 2,
-          "avg_corners_per_game": 5.67,
-          "aproveitamento": 0.0,
-          "over_2_5_goals": 2,
-          "over_0_5_ht": 2,
-          "over_0_5_ft": 0,
-          "clean_sheets": 0
-        },
-        "home": {
-          "played": 1,
-          "win": 0,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 1,
-            "against": 2
-          },
-          "form_home": "L",
-          "avg_corners_home_per_game": 7.0,
-          "aproveitamento_home": 0.0,
-          "btts_home_matches": 1,
-          "over_2_5_goals_home": 1,
-          "over_0_5_ht_home": 1,
-          "over_0_5_ft_home": 0,
-          "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 2,
-          "win": 0,
-          "draw": 0,
-          "lose": 2,
-          "goals": {
-            "for": 1,
-            "against": 3
-          },
-          "form_visitor": "LL",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 5.0,
-          "aproveitamento_away": 0.0,
-          "over_2_5_goals_away": 1,
-          "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 0,
-          "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
       }
     ]
   },
@@ -1388,7 +1388,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 3,
         "jogador-assists": 1,
-        "jogador-partidas": 3,
+        "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-londrina-ec.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-bruno-santos-de-oliveira.png"
       },
@@ -1445,6 +1445,15 @@
         "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-operario-ferroviario-ec.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-pablo-felipe-teixeira.png"
+      },
+      {
+        "jogador-nome": "Leonardo Gomes da Silva Jacó",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 2,
+        "jogador-assists": 0,
+        "jogador-partidas": 4,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ac-goianiense.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-leonardo-gomes-da-silva-jacó.png"
       },
       {
         "jogador-nome": "Juan Matheus Alano Nascimento",
@@ -1523,7 +1532,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 1,
         "jogador-assists": 1,
-        "jogador-partidas": 3,
+        "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-londrina-ec.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-iago-teles-da-silva.png"
       },
@@ -1535,15 +1544,6 @@
         "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-criciuma-ec.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-wagner-da-silva-souza.png"
-      },
-      {
-        "jogador-nome": "Vinicius Nelson de Souza Zanocelo",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 1,
-        "jogador-assists": 0,
-        "jogador-partidas": 1,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ceara-sc.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-vinicius-nelson-de-souza-zanocelo.png"
       }
     ]
   }
