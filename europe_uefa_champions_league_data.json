@@ -140,6 +140,74 @@
       {
         "rank": 3,
         "team": {
+          "id": 68,
+          "name": "Paris Saint-Germain FC",
+          "logo": "https://cdn.footystats.org/img/teams/france-paris-saint-germain-fc.png"
+        },
+        "points": 30,
+        "goalsDiff": 21,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 14,
+          "win": 9,
+          "draw": 3,
+          "lose": 2,
+          "goals": {
+            "for": 38,
+            "against": 17
+          },
+          "form": "DWWWW",
+          "btts_matches": 9,
+          "avg_corners_per_game": 5.71,
+          "aproveitamento": 71.4,
+          "over_2_5_goals": 10,
+          "over_0_5_ht": 9,
+          "over_0_5_ft": 12,
+          "clean_sheets": 5
+        },
+        "home": {
+          "played": 7,
+          "win": 4,
+          "draw": 2,
+          "lose": 1,
+          "goals": {
+            "for": 20,
+            "against": 10
+          },
+          "form_home": "WDDWW",
+          "avg_corners_home_per_game": 5.43,
+          "aproveitamento_home": 66.7,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 6,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 7,
+          "win": 5,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 18,
+            "against": 7
+          },
+          "form_visitor": "DLWWW",
+          "btts_away_matches": 4,
+          "avg_corners_away_per_game": 6.0,
+          "aproveitamento_away": 76.2,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 6,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 4,
+        "team": {
           "id": 84,
           "name": "Real Madrid CF",
           "logo": "https://cdn.footystats.org/img/teams/spain-real-madrid-cf.png"
@@ -199,74 +267,6 @@
           "avg_corners_away_per_game": 5.0,
           "aproveitamento_away": 66.7,
           "over_2_5_goals_away": 4,
-          "over_0_5_ht_away": 4,
-          "over_0_5_ft_away": 5,
-          "clean_sheets_away": 2
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 4,
-        "team": {
-          "id": 68,
-          "name": "Paris Saint-Germain FC",
-          "logo": "https://cdn.footystats.org/img/teams/france-paris-saint-germain-fc.png"
-        },
-        "points": 27,
-        "goalsDiff": 19,
-        "group": "Europe UEFA Champions League 20252026",
-        "status": "same",
-        "description": "Copa Libertadores",
-        "all": {
-          "played": 13,
-          "win": 8,
-          "draw": 3,
-          "lose": 2,
-          "goals": {
-            "for": 36,
-            "against": 17
-          },
-          "form": "WDWWW",
-          "btts_matches": 9,
-          "avg_corners_per_game": 6.0,
-          "aproveitamento": 69.2,
-          "over_2_5_goals": 10,
-          "over_0_5_ht": 9,
-          "over_0_5_ft": 11,
-          "clean_sheets": 4
-        },
-        "home": {
-          "played": 7,
-          "win": 4,
-          "draw": 2,
-          "lose": 1,
-          "goals": {
-            "for": 20,
-            "against": 10
-          },
-          "form_home": "WDDWW",
-          "avg_corners_home_per_game": 5.43,
-          "aproveitamento_home": 66.7,
-          "btts_home_matches": 5,
-          "over_2_5_goals_home": 5,
-          "over_0_5_ht_home": 5,
-          "over_0_5_ft_home": 6,
-          "clean_sheets_home": 2
-        },
-        "away": {
-          "played": 6,
-          "win": 4,
-          "draw": 1,
-          "lose": 1,
-          "goals": {
-            "for": 16,
-            "against": 7
-          },
-          "form_visitor": "WDLWW",
-          "btts_away_matches": 4,
-          "avg_corners_away_per_game": 6.67,
-          "aproveitamento_away": 72.2,
-          "over_2_5_goals_away": 5,
           "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 5,
           "clean_sheets_away": 2
@@ -344,48 +344,116 @@
       {
         "rank": 6,
         "team": {
+          "id": 83,
+          "name": "FC Barcelona",
+          "logo": "https://cdn.footystats.org/img/teams/spain-fc-barcelona.png"
+        },
+        "points": 23,
+        "goalsDiff": 12,
+        "group": "Europe UEFA Champions League 20252026",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 12,
+          "win": 7,
+          "draw": 2,
+          "lose": 3,
+          "goals": {
+            "for": 32,
+            "against": 20
+          },
+          "form": "WDWLW",
+          "btts_matches": 10,
+          "avg_corners_per_game": 4.83,
+          "aproveitamento": 63.9,
+          "over_2_5_goals": 10,
+          "over_0_5_ht": 6,
+          "over_0_5_ft": 8,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 6,
+          "win": 4,
+          "draw": 0,
+          "lose": 2,
+          "goals": {
+            "for": 20,
+            "against": 9
+          },
+          "form_home": "WWWWL",
+          "avg_corners_home_per_game": 6.5,
+          "aproveitamento_home": 66.7,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 6,
+          "win": 3,
+          "draw": 2,
+          "lose": 1,
+          "goals": {
+            "for": 12,
+            "against": 11
+          },
+          "form_visitor": "DLWDW",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 3.17,
+          "aproveitamento_away": 61.1,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 7,
+        "team": {
           "id": 117,
           "name": "Club Atlético de Madrid",
           "logo": "https://cdn.footystats.org/img/teams/spain-club-atletico-de-madrid.png"
         },
         "points": 23,
-        "goalsDiff": 9,
+        "goalsDiff": 8,
         "group": "Europe UEFA Champions League 20252026",
         "status": "same",
-        "description": "Copa Sul-Americana",
+        "description": "",
         "all": {
-          "played": 13,
+          "played": 14,
           "win": 7,
           "draw": 2,
-          "lose": 4,
+          "lose": 5,
           "goals": {
-            "for": 33,
-            "against": 24
+            "for": 34,
+            "against": 26
           },
-          "form": "DWWLW",
-          "btts_matches": 11,
-          "avg_corners_per_game": 5.77,
-          "aproveitamento": 59.0,
-          "over_2_5_goals": 11,
-          "over_0_5_ht": 11,
+          "form": "WWLWL",
+          "btts_matches": 12,
+          "avg_corners_per_game": 5.5,
+          "aproveitamento": 54.8,
+          "over_2_5_goals": 12,
+          "over_0_5_ht": 12,
           "over_0_5_ft": 10,
           "clean_sheets": 1
         },
         "home": {
-          "played": 6,
+          "played": 7,
           "win": 5,
           "draw": 0,
-          "lose": 1,
+          "lose": 2,
           "goals": {
-            "for": 20,
-            "against": 8
+            "for": 21,
+            "against": 10
           },
-          "form_home": "WWLWW",
-          "avg_corners_home_per_game": 6.5,
-          "aproveitamento_home": 83.3,
-          "btts_home_matches": 6,
-          "over_2_5_goals_home": 6,
-          "over_0_5_ht_home": 6,
+          "form_home": "WLWWL",
+          "avg_corners_home_per_game": 5.86,
+          "aproveitamento_home": 71.4,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 7,
+          "over_0_5_ht_home": 7,
           "over_0_5_ft_home": 5,
           "clean_sheets_home": 0
         },
@@ -410,7 +478,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "team": {
           "id": 95,
           "name": "Club Brugge KV",
@@ -478,7 +546,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "team": {
           "id": 3743,
           "name": "Paphos FC",
@@ -546,7 +614,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "team": {
           "id": 55,
           "name": "FC København",
@@ -614,47 +682,47 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "team": {
           "id": 151,
           "name": "Liverpool FC",
           "logo": "https://cdn.footystats.org/img/teams/england-liverpool-fc.png"
         },
         "points": 21,
-        "goalsDiff": 13,
+        "goalsDiff": 11,
         "group": "Europe UEFA Champions League 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 11,
+          "played": 12,
           "win": 7,
           "draw": 0,
-          "lose": 4,
+          "lose": 5,
           "goals": {
             "for": 24,
-            "against": 11
+            "against": 13
           },
-          "form": "WWLWL",
+          "form": "WLWLL",
           "btts_matches": 3,
-          "avg_corners_per_game": 6.45,
-          "aproveitamento": 63.6,
+          "avg_corners_per_game": 6.58,
+          "aproveitamento": 58.3,
           "over_2_5_goals": 6,
           "over_0_5_ht": 6,
           "over_0_5_ft": 7,
           "clean_sheets": 5
         },
         "home": {
-          "played": 5,
+          "played": 6,
           "win": 4,
           "draw": 0,
-          "lose": 1,
+          "lose": 2,
           "goals": {
             "for": 15,
-            "against": 6
+            "against": 8
           },
-          "form_home": "WWLWW",
-          "avg_corners_home_per_game": 8.4,
-          "aproveitamento_home": 80.0,
+          "form_home": "WLWWL",
+          "avg_corners_home_per_game": 8.33,
+          "aproveitamento_home": 66.7,
           "btts_home_matches": 2,
           "over_2_5_goals_home": 4,
           "over_0_5_ht_home": 4,
@@ -682,7 +750,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 11,
+        "rank": 12,
         "team": {
           "id": 157,
           "name": "Newcastle United FC",
@@ -750,7 +818,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "team": {
           "id": 332,
           "name": "FK Bodo - Glimt",
@@ -813,74 +881,6 @@
           "over_2_5_goals_away": 7,
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 5,
-          "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 13,
-        "team": {
-          "id": 83,
-          "name": "FC Barcelona",
-          "logo": "https://cdn.footystats.org/img/teams/spain-fc-barcelona.png"
-        },
-        "points": 20,
-        "goalsDiff": 11,
-        "group": "Europe UEFA Champions League 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 11,
-          "win": 6,
-          "draw": 2,
-          "lose": 3,
-          "goals": {
-            "for": 30,
-            "against": 19
-          },
-          "form": "WWDWL",
-          "btts_matches": 9,
-          "avg_corners_per_game": 4.91,
-          "aproveitamento": 60.6,
-          "over_2_5_goals": 9,
-          "over_0_5_ht": 5,
-          "over_0_5_ft": 8,
-          "clean_sheets": 0
-        },
-        "home": {
-          "played": 6,
-          "win": 4,
-          "draw": 0,
-          "lose": 2,
-          "goals": {
-            "for": 20,
-            "against": 9
-          },
-          "form_home": "WWWWL",
-          "avg_corners_home_per_game": 6.5,
-          "aproveitamento_home": 66.7,
-          "btts_home_matches": 5,
-          "over_2_5_goals_home": 5,
-          "over_0_5_ht_home": 3,
-          "over_0_5_ft_home": 4,
-          "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 5,
-          "win": 2,
-          "draw": 2,
-          "lose": 1,
-          "goals": {
-            "for": 10,
-            "against": 10
-          },
-          "form_visitor": "WDLWD",
-          "btts_away_matches": 4,
-          "avg_corners_away_per_game": 3.0,
-          "aproveitamento_away": 53.3,
-          "over_2_5_goals_away": 4,
-          "over_0_5_ht_away": 2,
-          "over_0_5_ft_away": 4,
           "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -5681,7 +5681,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 9,
         "jogador-assists": 4,
-        "jogador-partidas": 12,
+        "jogador-partidas": 13,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/spain-club-atletico-de-madrid.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/argentina-julian-alvarez.png"
       },
@@ -5689,8 +5689,8 @@
         "jogador-nome": "Khvicha Kvaratskhelia",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 8,
-        "jogador-assists": 4,
-        "jogador-partidas": 12,
+        "jogador-assists": 5,
+        "jogador-partidas": 13,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/france-paris-saint-germain-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/georgia-khvicha-kvaratskhelia.png"
       },
@@ -5722,6 +5722,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/norway-jens-petter-hauge.png"
       },
       {
+        "jogador-nome": "Lamine Yamal Nasraoui Ebana",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 6,
+        "jogador-assists": 5,
+        "jogador-partidas": 10,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/spain-fc-barcelona.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/spain-lamine-yamal.png"
+      },
+      {
         "jogador-nome": "Harvey Lewis Barnes",
         "jogador-posicao": "Forward",
         "jogador-gols": 6,
@@ -5735,7 +5744,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 6,
         "jogador-assists": 4,
-        "jogador-partidas": 10,
+        "jogador-partidas": 11,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/spain-fc-barcelona.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/spain-fermin-lopez.png"
       },
@@ -5771,7 +5780,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 6,
         "jogador-assists": 1,
-        "jogador-partidas": 13,
+        "jogador-partidas": 14,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/france-paris-saint-germain-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/portugal-vitinha.png"
       },
@@ -5789,7 +5798,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 6,
         "jogador-assists": 1,
-        "jogador-partidas": 12,
+        "jogador-partidas": 13,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/spain-club-atletico-de-madrid.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/norway-alexander-sorloth.png"
       },
@@ -5812,20 +5821,11 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-vinicius-junior.png"
       },
       {
-        "jogador-nome": "Lamine Yamal Nasraoui Ebana",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 5,
-        "jogador-assists": 5,
-        "jogador-partidas": 9,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/spain-fc-barcelona.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/spain-lamine-yamal.png"
-      },
-      {
         "jogador-nome": "Dominik Szoboszlai",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 5,
         "jogador-assists": 4,
-        "jogador-partidas": 11,
+        "jogador-partidas": 12,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/england-liverpool-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/hungary-dominik-szoboszlai.png"
       }
