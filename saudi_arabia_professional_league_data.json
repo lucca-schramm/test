@@ -212,45 +212,45 @@
           "name": "Al Quadisiya Al Khubar",
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-quadisiya-al-khubar.png"
         },
-        "points": 61,
+        "points": 62,
         "goalsDiff": 36,
         "group": "Saudi Arabia Professional League 20252026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 28,
+          "played": 29,
           "win": 18,
-          "draw": 7,
+          "draw": 8,
           "lose": 3,
           "goals": {
-            "for": 65,
-            "against": 29
+            "for": 67,
+            "against": 31
           },
-          "form": "DWWLD",
-          "btts_matches": 19,
-          "avg_corners_per_game": 7.29,
-          "aproveitamento": 72.6,
-          "over_2_5_goals": 19,
-          "over_0_5_ht": 19,
-          "over_0_5_ft": 20,
+          "form": "WWLDD",
+          "btts_matches": 20,
+          "avg_corners_per_game": 7.48,
+          "aproveitamento": 71.3,
+          "over_2_5_goals": 20,
+          "over_0_5_ht": 20,
+          "over_0_5_ft": 21,
           "clean_sheets": 8
         },
         "home": {
-          "played": 14,
+          "played": 15,
           "win": 9,
-          "draw": 5,
+          "draw": 6,
           "lose": 0,
           "goals": {
-            "for": 33,
-            "against": 10
+            "for": 35,
+            "against": 12
           },
-          "form_home": "DWWDW",
-          "avg_corners_home_per_game": 8.57,
-          "aproveitamento_home": 76.2,
-          "btts_home_matches": 8,
-          "over_2_5_goals_home": 9,
-          "over_0_5_ht_home": 10,
-          "over_0_5_ft_home": 10,
+          "form_home": "WWDWD",
+          "avg_corners_home_per_game": 8.87,
+          "aproveitamento_home": 73.3,
+          "btts_home_matches": 9,
+          "over_2_5_goals_home": 10,
+          "over_0_5_ht_home": 11,
+          "over_0_5_ft_home": 11,
           "clean_sheets_home": 6
         },
         "away": {
@@ -756,27 +756,27 @@
           "name": "Al Shabab FC Riyadh",
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-shabab-fc-riyadh.png"
         },
-        "points": 30,
+        "points": 31,
         "goalsDiff": -6,
         "group": "Saudi Arabia Professional League 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 27,
+          "played": 28,
           "win": 7,
-          "draw": 9,
+          "draw": 10,
           "lose": 11,
           "goals": {
-            "for": 34,
-            "against": 40
+            "for": 36,
+            "against": 42
           },
-          "form": "WLDWD",
-          "btts_matches": 15,
-          "avg_corners_per_game": 5.37,
-          "aproveitamento": 37.0,
-          "over_2_5_goals": 10,
-          "over_0_5_ht": 12,
-          "over_0_5_ft": 13,
+          "form": "LDWDD",
+          "btts_matches": 16,
+          "avg_corners_per_game": 5.32,
+          "aproveitamento": 36.9,
+          "over_2_5_goals": 11,
+          "over_0_5_ht": 13,
+          "over_0_5_ft": 14,
           "clean_sheets": 7
         },
         "home": {
@@ -798,21 +798,21 @@
           "clean_sheets_home": 4
         },
         "away": {
-          "played": 14,
+          "played": 15,
           "win": 2,
-          "draw": 6,
+          "draw": 7,
           "lose": 6,
           "goals": {
-            "for": 13,
-            "against": 16
+            "for": 15,
+            "against": 18
           },
-          "form_visitor": "WLWDD",
-          "btts_away_matches": 6,
-          "avg_corners_away_per_game": 4.79,
-          "aproveitamento_away": 28.6,
-          "over_2_5_goals_away": 3,
-          "over_0_5_ht_away": 4,
-          "over_0_5_ft_away": 5,
+          "form_visitor": "LWDDD",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 4.73,
+          "aproveitamento_away": 28.9,
+          "over_2_5_goals_away": 4,
+          "over_0_5_ht_away": 5,
+          "over_0_5_ft_away": 6,
           "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1243,7 +1243,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 26,
         "jogador-assists": 2,
-        "jogador-partidas": 25,
+        "jogador-partidas": 26,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-quadisiya-al-khubar.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/colombia-julian-andres-quinones-quinones.png"
       },
@@ -1284,11 +1284,20 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/france-karim-benzema.png"
       },
       {
+        "jogador-nome": "Mateo Retegui",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 16,
+        "jogador-assists": 1,
+        "jogador-partidas": 28,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-quadisiya-al-khubar.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/argentina-mateo-retegui.png"
+      },
+      {
         "jogador-nome": "Yannick Ferreira Carrasco",
         "jogador-posicao": "Forward",
         "jogador-gols": 15,
         "jogador-assists": 6,
-        "jogador-partidas": 23,
+        "jogador-partidas": 24,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-shabab-fc-riyadh.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/belgium-yannick-carrasco.png"
       },
@@ -1300,15 +1309,6 @@
         "jogador-partidas": 25,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-kholood-club.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/argentina-ramiro-enrique-paz.png"
-      },
-      {
-        "jogador-nome": "Mateo Retegui",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 15,
-        "jogador-assists": 0,
-        "jogador-partidas": 27,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-quadisiya-al-khubar.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/argentina-mateo-retegui.png"
       },
       {
         "jogador-nome": "Georginio Wijnaldum",
