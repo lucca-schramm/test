@@ -752,6 +752,74 @@
       {
         "rank": 12,
         "team": {
+          "id": 41,
+          "name": "1. FC Köln",
+          "logo": "https://cdn.footystats.org/img/teams/germany-1-fc-koln.png"
+        },
+        "points": 31,
+        "goalsDiff": -7,
+        "group": "Germany Bundesliga 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 30,
+          "win": 7,
+          "draw": 10,
+          "lose": 13,
+          "goals": {
+            "for": 44,
+            "against": 51
+          },
+          "form": "DDDWD",
+          "btts_matches": 23,
+          "avg_corners_per_game": 4.63,
+          "aproveitamento": 34.4,
+          "over_2_5_goals": 18,
+          "over_0_5_ht": 15,
+          "over_0_5_ft": 19,
+          "clean_sheets": 3
+        },
+        "home": {
+          "played": 15,
+          "win": 5,
+          "draw": 4,
+          "lose": 6,
+          "goals": {
+            "for": 28,
+            "against": 25
+          },
+          "form_home": "LDLDW",
+          "avg_corners_home_per_game": 4.93,
+          "aproveitamento_home": 42.2,
+          "btts_home_matches": 13,
+          "over_2_5_goals_home": 11,
+          "over_0_5_ht_home": 9,
+          "over_0_5_ft_home": 11,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 15,
+          "win": 2,
+          "draw": 6,
+          "lose": 7,
+          "goals": {
+            "for": 16,
+            "against": 26
+          },
+          "form_visitor": "LLDDD",
+          "btts_away_matches": 10,
+          "avg_corners_away_per_game": 4.33,
+          "aproveitamento_away": 26.7,
+          "over_2_5_goals_away": 7,
+          "over_0_5_ht_away": 6,
+          "over_0_5_ft_away": 8,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 13,
+        "team": {
           "id": 36,
           "name": "Hamburger SV",
           "logo": "https://cdn.footystats.org/img/teams/germany-hamburger-sv.png"
@@ -814,74 +882,6 @@
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 7,
           "clean_sheets_away": 4
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 13,
-        "team": {
-          "id": 41,
-          "name": "1. FC Köln",
-          "logo": "https://cdn.footystats.org/img/teams/germany-1-fc-koln.png"
-        },
-        "points": 30,
-        "goalsDiff": -7,
-        "group": "Germany Bundesliga 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 29,
-          "win": 7,
-          "draw": 9,
-          "lose": 13,
-          "goals": {
-            "for": 43,
-            "against": 50
-          },
-          "form": "LDDDW",
-          "btts_matches": 22,
-          "avg_corners_per_game": 4.62,
-          "aproveitamento": 34.5,
-          "over_2_5_goals": 18,
-          "over_0_5_ht": 15,
-          "over_0_5_ft": 18,
-          "clean_sheets": 3
-        },
-        "home": {
-          "played": 15,
-          "win": 5,
-          "draw": 4,
-          "lose": 6,
-          "goals": {
-            "for": 28,
-            "against": 25
-          },
-          "form_home": "LDLDW",
-          "avg_corners_home_per_game": 4.93,
-          "aproveitamento_home": 42.2,
-          "btts_home_matches": 13,
-          "over_2_5_goals_home": 11,
-          "over_0_5_ht_home": 9,
-          "over_0_5_ft_home": 11,
-          "clean_sheets_home": 1
-        },
-        "away": {
-          "played": 14,
-          "win": 2,
-          "draw": 5,
-          "lose": 7,
-          "goals": {
-            "for": 15,
-            "against": 25
-          },
-          "form_visitor": "LLLDD",
-          "btts_away_matches": 9,
-          "avg_corners_away_per_game": 4.29,
-          "aproveitamento_away": 26.2,
-          "over_2_5_goals_away": 7,
-          "over_0_5_ht_away": 6,
-          "over_0_5_ft_away": 7,
-          "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1028,45 +1028,45 @@
           "name": "FC St. Pauli",
           "logo": "https://cdn.footystats.org/img/teams/germany-fc-st-pauli.png"
         },
-        "points": 25,
+        "points": 26,
         "goalsDiff": -25,
         "group": "Germany Bundesliga 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 29,
+          "played": 30,
           "win": 6,
-          "draw": 7,
+          "draw": 8,
           "lose": 16,
           "goals": {
-            "for": 25,
-            "against": 50
+            "for": 26,
+            "against": 51
           },
-          "form": "DLLDL",
-          "btts_matches": 15,
-          "avg_corners_per_game": 4.38,
-          "aproveitamento": 28.7,
+          "form": "LLDLD",
+          "btts_matches": 16,
+          "avg_corners_per_game": 4.5,
+          "aproveitamento": 28.9,
           "over_2_5_goals": 16,
           "over_0_5_ht": 11,
-          "over_0_5_ft": 10,
+          "over_0_5_ft": 11,
           "clean_sheets": 5
         },
         "home": {
-          "played": 14,
+          "played": 15,
           "win": 4,
-          "draw": 4,
+          "draw": 5,
           "lose": 6,
           "goals": {
-            "for": 14,
-            "against": 25
+            "for": 15,
+            "against": 26
           },
-          "form_home": "WWDLL",
-          "avg_corners_home_per_game": 5.5,
-          "aproveitamento_home": 38.1,
-          "btts_home_matches": 8,
+          "form_home": "WDLLD",
+          "avg_corners_home_per_game": 5.67,
+          "aproveitamento_home": 37.8,
+          "btts_home_matches": 9,
           "over_2_5_goals_home": 10,
           "over_0_5_ht_home": 5,
-          "over_0_5_ft_home": 6,
+          "over_0_5_ft_home": 7,
           "clean_sheets_home": 2
         },
         "away": {
@@ -1297,7 +1297,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 11,
         "jogador-assists": 4,
-        "jogador-partidas": 29,
+        "jogador-partidas": 30,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-1-fc-koln.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-said-el-mala.png"
       },
