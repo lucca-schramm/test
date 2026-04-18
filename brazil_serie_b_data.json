@@ -4,6 +4,74 @@
       {
         "rank": 1,
         "team": {
+          "id": 645,
+          "name": "Vila Nova FC",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-vila-nova-fc.png"
+        },
+        "points": 11,
+        "goalsDiff": 3,
+        "group": "Brazil Serie B 2026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 5,
+          "win": 3,
+          "draw": 2,
+          "lose": 0,
+          "goals": {
+            "for": 8,
+            "against": 5
+          },
+          "form": "DDWWW",
+          "btts_matches": 4,
+          "avg_corners_per_game": 4.2,
+          "aproveitamento": 73.3,
+          "over_2_5_goals": 3,
+          "over_0_5_ht": 2,
+          "over_0_5_ft": 4,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 3,
+          "win": 2,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 6,
+            "against": 4
+          },
+          "form_home": "DWW",
+          "avg_corners_home_per_game": 4.67,
+          "aproveitamento_home": 77.8,
+          "btts_home_matches": 3,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 2,
+          "win": 1,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 2,
+            "against": 1
+          },
+          "form_visitor": "DW",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 3.5,
+          "aproveitamento_away": 66.7,
+          "over_2_5_goals_away": 0,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 2,
+        "team": {
           "id": 642,
           "name": "Ceará SC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-ceara-sc.png"
@@ -70,7 +138,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "team": {
           "id": 621,
           "name": "Avai FC",
@@ -138,7 +206,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "team": {
           "id": 677199,
           "name": "Athletic Club (Minas Gerais)",
@@ -206,74 +274,6 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 4,
-        "team": {
-          "id": 645,
-          "name": "Vila Nova FC",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-vila-nova-fc.png"
-        },
-        "points": 8,
-        "goalsDiff": 2,
-        "group": "Brazil Serie B 2026",
-        "status": "same",
-        "description": "Copa Libertadores",
-        "all": {
-          "played": 4,
-          "win": 2,
-          "draw": 2,
-          "lose": 0,
-          "goals": {
-            "for": 6,
-            "against": 4
-          },
-          "form": "DDWW",
-          "btts_matches": 3,
-          "avg_corners_per_game": 4.5,
-          "aproveitamento": 66.7,
-          "over_2_5_goals": 2,
-          "over_0_5_ht": 1,
-          "over_0_5_ft": 3,
-          "clean_sheets": 1
-        },
-        "home": {
-          "played": 2,
-          "win": 1,
-          "draw": 1,
-          "lose": 0,
-          "goals": {
-            "for": 4,
-            "against": 3
-          },
-          "form_home": "DW",
-          "avg_corners_home_per_game": 5.5,
-          "aproveitamento_home": 66.7,
-          "btts_home_matches": 2,
-          "over_2_5_goals_home": 2,
-          "over_0_5_ht_home": 0,
-          "over_0_5_ft_home": 2,
-          "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 2,
-          "win": 1,
-          "draw": 1,
-          "lose": 0,
-          "goals": {
-            "for": 2,
-            "against": 1
-          },
-          "form_visitor": "DW",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 3.5,
-          "aproveitamento_away": 66.7,
-          "over_2_5_goals_away": 0,
-          "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 1,
-          "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
         "rank": 5,
         "team": {
           "id": 2662,
@@ -281,25 +281,25 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-operario-ferroviario-ec.png"
         },
         "points": 8,
-        "goalsDiff": 2,
+        "goalsDiff": 1,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "Copa Sul-Americana",
         "all": {
-          "played": 4,
+          "played": 5,
           "win": 2,
           "draw": 2,
-          "lose": 0,
+          "lose": 1,
           "goals": {
-            "for": 3,
-            "against": 1
+            "for": 4,
+            "against": 3
           },
-          "form": "WWDD",
-          "btts_matches": 1,
-          "avg_corners_per_game": 5.25,
-          "aproveitamento": 66.7,
-          "over_2_5_goals": 1,
-          "over_0_5_ht": 2,
+          "form": "WWDDL",
+          "btts_matches": 2,
+          "avg_corners_per_game": 5.4,
+          "aproveitamento": 53.3,
+          "over_2_5_goals": 2,
+          "over_0_5_ht": 3,
           "over_0_5_ft": 1,
           "clean_sheets": 3
         },
@@ -322,20 +322,20 @@
           "clean_sheets_home": 2
         },
         "away": {
-          "played": 2,
+          "played": 3,
           "win": 1,
           "draw": 1,
-          "lose": 0,
+          "lose": 1,
           "goals": {
-            "for": 2,
-            "against": 1
+            "for": 3,
+            "against": 3
           },
-          "form_visitor": "WD",
-          "btts_away_matches": 1,
+          "form_visitor": "WDL",
+          "btts_away_matches": 2,
           "avg_corners_away_per_game": 6.0,
-          "aproveitamento_away": 66.7,
-          "over_2_5_goals_away": 1,
-          "over_0_5_ht_away": 1,
+          "aproveitamento_away": 44.4,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 1,
           "clean_sheets_away": 1
         },
@@ -1402,6 +1402,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/uruguay-gonzalo-mathias-mastriani-borges.png"
       },
       {
+        "jogador-nome": "Ryan Aparecido Lima Cassiano",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 2,
+        "jogador-assists": 1,
+        "jogador-partidas": 5,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-vila-nova-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-ryan-aparecido-lima-cassiano.png"
+      },
+      {
         "jogador-nome": "Anselmo Ramon Alves Erculano",
         "jogador-posicao": "Forward",
         "jogador-gols": 2,
@@ -1501,15 +1510,6 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-alan-kardec-de-souza-pereira-junior.png"
       },
       {
-        "jogador-nome": "Ryan Aparecido Lima Cassiano",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 1,
-        "jogador-assists": 1,
-        "jogador-partidas": 4,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-vila-nova-fc.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/-ryan-aparecido-lima-cassiano.png"
-      },
-      {
         "jogador-nome": "Pedro Vitor Ferreira da Silva",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 1,
@@ -1517,6 +1517,15 @@
         "jogador-partidas": 5,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-sao-bernardo-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-pedro-vitor-ferreira-da-silva.png"
+      },
+      {
+        "jogador-nome": "Marcos Gabriel do Nascimento",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 1,
+        "jogador-assists": 1,
+        "jogador-partidas": 5,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-vila-nova-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-marcos-gabriel-do-nascimento.png"
       },
       {
         "jogador-nome": "João Victor Broad Moreira Guimaraes",
@@ -1532,18 +1541,9 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 1,
         "jogador-assists": 1,
-        "jogador-partidas": 4,
+        "jogador-partidas": 5,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-vila-nova-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-janderson-santos-de-souza.png"
-      },
-      {
-        "jogador-nome": "Iago Teles da Silva",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 1,
-        "jogador-assists": 1,
-        "jogador-partidas": 4,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-londrina-ec.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-iago-teles-da-silva.png"
       }
     ]
   }
