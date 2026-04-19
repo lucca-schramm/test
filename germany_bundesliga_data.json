@@ -412,6 +412,74 @@
       {
         "rank": 7,
         "team": {
+          "id": 42,
+          "name": "SC Freiburg",
+          "logo": "https://cdn.footystats.org/img/teams/germany-sc-freiburg.png"
+        },
+        "points": 43,
+        "goalsDiff": -4,
+        "group": "Germany Bundesliga 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 30,
+          "win": 12,
+          "draw": 7,
+          "lose": 11,
+          "goals": {
+            "for": 44,
+            "against": 48
+          },
+          "form": "LWLWW",
+          "btts_matches": 18,
+          "avg_corners_per_game": 4.47,
+          "aproveitamento": 47.8,
+          "over_2_5_goals": 19,
+          "over_0_5_ht": 13,
+          "over_0_5_ft": 17,
+          "clean_sheets": 6
+        },
+        "home": {
+          "played": 15,
+          "win": 8,
+          "draw": 4,
+          "lose": 3,
+          "goals": {
+            "for": 28,
+            "against": 20
+          },
+          "form_home": "WDLLW",
+          "avg_corners_home_per_game": 5.0,
+          "aproveitamento_home": 62.2,
+          "btts_home_matches": 12,
+          "over_2_5_goals_home": 11,
+          "over_0_5_ht_home": 9,
+          "over_0_5_ft_home": 11,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 15,
+          "win": 4,
+          "draw": 3,
+          "lose": 8,
+          "goals": {
+            "for": 16,
+            "against": 28
+          },
+          "form_visitor": "LLLWW",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 3.93,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 8,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 6,
+          "clean_sheets_away": 4
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 8,
+        "team": {
           "id": 44,
           "name": "Eintracht Frankfurt",
           "logo": "https://cdn.footystats.org/img/teams/germany-eintracht-frankfurt.png"
@@ -474,74 +542,6 @@
           "over_0_5_ht_away": 9,
           "over_0_5_ft_away": 9,
           "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 8,
-        "team": {
-          "id": 42,
-          "name": "SC Freiburg",
-          "logo": "https://cdn.footystats.org/img/teams/germany-sc-freiburg.png"
-        },
-        "points": 40,
-        "goalsDiff": -5,
-        "group": "Germany Bundesliga 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 29,
-          "win": 11,
-          "draw": 7,
-          "lose": 11,
-          "goals": {
-            "for": 42,
-            "against": 47
-          },
-          "form": "DLWLW",
-          "btts_matches": 17,
-          "avg_corners_per_game": 4.45,
-          "aproveitamento": 46.0,
-          "over_2_5_goals": 18,
-          "over_0_5_ht": 12,
-          "over_0_5_ft": 16,
-          "clean_sheets": 6
-        },
-        "home": {
-          "played": 14,
-          "win": 7,
-          "draw": 4,
-          "lose": 3,
-          "goals": {
-            "for": 26,
-            "against": 19
-          },
-          "form_home": "WWDLL",
-          "avg_corners_home_per_game": 5.0,
-          "aproveitamento_home": 59.5,
-          "btts_home_matches": 11,
-          "over_2_5_goals_home": 10,
-          "over_0_5_ht_home": 8,
-          "over_0_5_ft_home": 10,
-          "clean_sheets_home": 2
-        },
-        "away": {
-          "played": 15,
-          "win": 4,
-          "draw": 3,
-          "lose": 8,
-          "goals": {
-            "for": 16,
-            "against": 28
-          },
-          "form_visitor": "LLLWW",
-          "btts_away_matches": 6,
-          "avg_corners_away_per_game": 3.93,
-          "aproveitamento_away": 33.3,
-          "over_2_5_goals_away": 8,
-          "over_0_5_ht_away": 4,
-          "over_0_5_ft_away": 6,
-          "clean_sheets_away": 4
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1165,26 +1165,26 @@
           "logo": "https://cdn.footystats.org/img/teams/germany-1-fc-heidenheim-1846.png"
         },
         "points": 19,
-        "goalsDiff": -32,
+        "goalsDiff": -33,
         "group": "Germany Bundesliga 20252026",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 29,
+          "played": 30,
           "win": 4,
           "draw": 7,
-          "lose": 18,
+          "lose": 19,
           "goals": {
-            "for": 32,
-            "against": 64
+            "for": 33,
+            "against": 66
           },
-          "form": "LLDDW",
-          "btts_matches": 18,
-          "avg_corners_per_game": 4.45,
-          "aproveitamento": 21.8,
-          "over_2_5_goals": 20,
+          "form": "LDDWL",
+          "btts_matches": 19,
+          "avg_corners_per_game": 4.43,
+          "aproveitamento": 21.1,
+          "over_2_5_goals": 21,
           "over_0_5_ht": 8,
-          "over_0_5_ft": 14,
+          "over_0_5_ft": 15,
           "clean_sheets": 0
         },
         "home": {
@@ -1206,21 +1206,21 @@
           "clean_sheets_home": 0
         },
         "away": {
-          "played": 14,
+          "played": 15,
           "win": 1,
           "draw": 2,
-          "lose": 11,
+          "lose": 12,
           "goals": {
-            "for": 11,
-            "against": 29
+            "for": 12,
+            "against": 31
           },
-          "form_visitor": "LLLLD",
-          "btts_away_matches": 8,
-          "avg_corners_away_per_game": 4.43,
-          "aproveitamento_away": 11.9,
-          "over_2_5_goals_away": 8,
+          "form_visitor": "LLLDL",
+          "btts_away_matches": 9,
+          "avg_corners_away_per_game": 4.4,
+          "aproveitamento_away": 11.1,
+          "over_2_5_goals_away": 9,
           "over_0_5_ht_away": 3,
-          "over_0_5_ft_away": 7,
+          "over_0_5_ft_away": 8,
           "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
