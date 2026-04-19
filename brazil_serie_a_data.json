@@ -820,74 +820,6 @@
       {
         "rank": 13,
         "team": {
-          "id": 630,
-          "name": "SC Internacional",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-sc-internacional.png"
-        },
-        "points": 13,
-        "goalsDiff": -1,
-        "group": "Brazil Serie A 2026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 11,
-          "win": 3,
-          "draw": 4,
-          "lose": 4,
-          "goals": {
-            "for": 9,
-            "against": 10
-          },
-          "form": "WWDWD",
-          "btts_matches": 5,
-          "avg_corners_per_game": 8.27,
-          "aproveitamento": 39.4,
-          "over_2_5_goals": 2,
-          "over_0_5_ht": 5,
-          "over_0_5_ft": 3,
-          "clean_sheets": 3
-        },
-        "home": {
-          "played": 6,
-          "win": 1,
-          "draw": 2,
-          "lose": 3,
-          "goals": {
-            "for": 4,
-            "against": 6
-          },
-          "form_home": "LLWDD",
-          "avg_corners_home_per_game": 8.33,
-          "aproveitamento_home": 27.8,
-          "btts_home_matches": 2,
-          "over_2_5_goals_home": 1,
-          "over_0_5_ht_home": 3,
-          "over_0_5_ft_home": 1,
-          "clean_sheets_home": 2
-        },
-        "away": {
-          "played": 5,
-          "win": 2,
-          "draw": 2,
-          "lose": 1,
-          "goals": {
-            "for": 5,
-            "against": 4
-          },
-          "form_visitor": "DDLWW",
-          "btts_away_matches": 3,
-          "avg_corners_away_per_game": 8.2,
-          "aproveitamento_away": 53.3,
-          "over_2_5_goals_away": 1,
-          "over_0_5_ht_away": 2,
-          "over_0_5_ft_away": 2,
-          "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 14,
-        "team": {
           "id": 611,
           "name": "Santos FC Sao Paulo",
           "logo": "https://cdn.footystats.org/img/teams/brazil-santos-fc-sao-paulo.png"
@@ -954,7 +886,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 15,
+        "rank": 14,
         "team": {
           "id": 616,
           "name": "Grêmio FB Porto Alegrense",
@@ -1015,6 +947,74 @@
           "avg_corners_away_per_game": 3.0,
           "aproveitamento_away": 9.5,
           "over_2_5_goals_away": 3,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 15,
+        "team": {
+          "id": 630,
+          "name": "SC Internacional",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-sc-internacional.png"
+        },
+        "points": 13,
+        "goalsDiff": -2,
+        "group": "Brazil Serie A 2026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 12,
+          "win": 3,
+          "draw": 4,
+          "lose": 5,
+          "goals": {
+            "for": 10,
+            "against": 12
+          },
+          "form": "WDWDL",
+          "btts_matches": 6,
+          "avg_corners_per_game": 8.5,
+          "aproveitamento": 36.1,
+          "over_2_5_goals": 3,
+          "over_0_5_ht": 5,
+          "over_0_5_ft": 4,
+          "clean_sheets": 3
+        },
+        "home": {
+          "played": 7,
+          "win": 1,
+          "draw": 2,
+          "lose": 4,
+          "goals": {
+            "for": 5,
+            "against": 8
+          },
+          "form_home": "LWDDL",
+          "avg_corners_home_per_game": 8.71,
+          "aproveitamento_home": 23.8,
+          "btts_home_matches": 3,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 2,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 5,
+          "win": 2,
+          "draw": 2,
+          "lose": 1,
+          "goals": {
+            "for": 5,
+            "against": 4
+          },
+          "form_visitor": "DDLWW",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 8.2,
+          "aproveitamento_away": 53.3,
+          "over_2_5_goals_away": 1,
           "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 2,
           "clean_sheets_away": 1
@@ -1160,6 +1160,74 @@
       {
         "rank": 18,
         "team": {
+          "id": 2721,
+          "name": "Mirassol Futebol Clube",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-mirassol-futebol-clube.png"
+        },
+        "points": 9,
+        "goalsDiff": -4,
+        "group": "Brazil Serie A 2026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 11,
+          "win": 2,
+          "draw": 3,
+          "lose": 6,
+          "goals": {
+            "for": 13,
+            "against": 17
+          },
+          "form": "LLLLW",
+          "btts_matches": 7,
+          "avg_corners_per_game": 6.36,
+          "aproveitamento": 27.3,
+          "over_2_5_goals": 7,
+          "over_0_5_ht": 6,
+          "over_0_5_ft": 5,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 6,
+          "win": 1,
+          "draw": 2,
+          "lose": 3,
+          "goals": {
+            "for": 7,
+            "against": 9
+          },
+          "form_home": "DDLLL",
+          "avg_corners_home_per_game": 7.83,
+          "aproveitamento_home": 27.8,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 5,
+          "win": 1,
+          "draw": 1,
+          "lose": 3,
+          "goals": {
+            "for": 6,
+            "against": 8
+          },
+          "form_visitor": "DLLLW",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 4.6,
+          "aproveitamento_away": 26.7,
+          "over_2_5_goals_away": 3,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 19,
+        "team": {
           "id": 2594,
           "name": "Clube do Remo",
           "logo": "https://cdn.footystats.org/img/teams/brazil-clube-do-remo.png"
@@ -1226,7 +1294,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 19,
+        "rank": 20,
         "team": {
           "id": 623,
           "name": "Chapecoense AF",
@@ -1289,74 +1357,6 @@
           "over_2_5_goals_away": 0,
           "over_0_5_ht_away": 0,
           "over_0_5_ft_away": 1,
-          "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 20,
-        "team": {
-          "id": 2721,
-          "name": "Mirassol Futebol Clube",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-mirassol-futebol-clube.png"
-        },
-        "points": 6,
-        "goalsDiff": -5,
-        "group": "Brazil Serie A 2026",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 10,
-          "win": 1,
-          "draw": 3,
-          "lose": 6,
-          "goals": {
-            "for": 11,
-            "against": 16
-          },
-          "form": "LLLLL",
-          "btts_matches": 6,
-          "avg_corners_per_game": 6.8,
-          "aproveitamento": 20.0,
-          "over_2_5_goals": 6,
-          "over_0_5_ht": 5,
-          "over_0_5_ft": 5,
-          "clean_sheets": 0
-        },
-        "home": {
-          "played": 6,
-          "win": 1,
-          "draw": 2,
-          "lose": 3,
-          "goals": {
-            "for": 7,
-            "against": 9
-          },
-          "form_home": "DDLLL",
-          "avg_corners_home_per_game": 7.83,
-          "aproveitamento_home": 27.8,
-          "btts_home_matches": 4,
-          "over_2_5_goals_home": 4,
-          "over_0_5_ht_home": 4,
-          "over_0_5_ft_home": 3,
-          "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 4,
-          "win": 0,
-          "draw": 1,
-          "lose": 3,
-          "goals": {
-            "for": 4,
-            "against": 7
-          },
-          "form_visitor": "DLLL",
-          "btts_away_matches": 2,
-          "avg_corners_away_per_game": 5.25,
-          "aproveitamento_away": 8.3,
-          "over_2_5_goals_away": 2,
-          "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 2,
           "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
