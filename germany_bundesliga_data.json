@@ -620,27 +620,27 @@
           "name": "1. FSV Mainz 05",
           "logo": "https://cdn.footystats.org/img/teams/germany-1-fsv-mainz-05.png"
         },
-        "points": 33,
+        "points": 34,
         "goalsDiff": -9,
         "group": "Germany Bundesliga 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 29,
+          "played": 30,
           "win": 8,
-          "draw": 9,
+          "draw": 10,
           "lose": 12,
           "goals": {
-            "for": 35,
-            "against": 44
+            "for": 36,
+            "against": 45
           },
-          "form": "DWWWL",
-          "btts_matches": 17,
-          "avg_corners_per_game": 5.0,
-          "aproveitamento": 37.9,
+          "form": "WWWLD",
+          "btts_matches": 18,
+          "avg_corners_per_game": 5.03,
+          "aproveitamento": 37.8,
           "over_2_5_goals": 15,
           "over_0_5_ht": 15,
-          "over_0_5_ft": 15,
+          "over_0_5_ft": 16,
           "clean_sheets": 3
         },
         "home": {
@@ -662,21 +662,21 @@
           "clean_sheets_home": 2
         },
         "away": {
-          "played": 14,
+          "played": 15,
           "win": 4,
-          "draw": 4,
+          "draw": 5,
           "lose": 6,
           "goals": {
-            "for": 18,
-            "against": 26
+            "for": 19,
+            "against": 27
           },
-          "form_visitor": "WLDWW",
-          "btts_away_matches": 9,
-          "avg_corners_away_per_game": 3.64,
-          "aproveitamento_away": 38.1,
+          "form_visitor": "LDWWD",
+          "btts_away_matches": 10,
+          "avg_corners_away_per_game": 3.8,
+          "aproveitamento_away": 37.8,
           "over_2_5_goals_away": 10,
           "over_0_5_ht_away": 8,
-          "over_0_5_ft_away": 8,
+          "over_0_5_ft_away": 9,
           "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -888,6 +888,74 @@
       {
         "rank": 14,
         "team": {
+          "id": 39,
+          "name": "Borussia VfL Mönchengladbach",
+          "logo": "https://cdn.footystats.org/img/teams/germany-borussia-vfl-monchengladbach.png"
+        },
+        "points": 31,
+        "goalsDiff": -14,
+        "group": "Germany Bundesliga 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 30,
+          "win": 7,
+          "draw": 10,
+          "lose": 13,
+          "goals": {
+            "for": 36,
+            "against": 50
+          },
+          "form": "WDDLD",
+          "btts_matches": 13,
+          "avg_corners_per_game": 3.93,
+          "aproveitamento": 34.4,
+          "over_2_5_goals": 16,
+          "over_0_5_ht": 11,
+          "over_0_5_ft": 15,
+          "clean_sheets": 10
+        },
+        "home": {
+          "played": 15,
+          "win": 4,
+          "draw": 6,
+          "lose": 5,
+          "goals": {
+            "for": 19,
+            "against": 24
+          },
+          "form_home": "DWWDD",
+          "avg_corners_home_per_game": 3.53,
+          "aproveitamento_home": 40.0,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 8,
+          "over_0_5_ht_home": 7,
+          "over_0_5_ft_home": 6,
+          "clean_sheets_home": 6
+        },
+        "away": {
+          "played": 15,
+          "win": 3,
+          "draw": 4,
+          "lose": 8,
+          "goals": {
+            "for": 17,
+            "against": 26
+          },
+          "form_visitor": "LLLDL",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 4.33,
+          "aproveitamento_away": 28.9,
+          "over_2_5_goals_away": 8,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 9,
+          "clean_sheets_away": 4
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 15,
+        "team": {
           "id": 36,
           "name": "Hamburger SV",
           "logo": "https://cdn.footystats.org/img/teams/germany-hamburger-sv.png"
@@ -949,74 +1017,6 @@
           "over_2_5_goals_away": 9,
           "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 7,
-          "clean_sheets_away": 4
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 15,
-        "team": {
-          "id": 39,
-          "name": "Borussia VfL Mönchengladbach",
-          "logo": "https://cdn.footystats.org/img/teams/germany-borussia-vfl-monchengladbach.png"
-        },
-        "points": 30,
-        "goalsDiff": -14,
-        "group": "Germany Bundesliga 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 29,
-          "win": 7,
-          "draw": 9,
-          "lose": 13,
-          "goals": {
-            "for": 35,
-            "against": 49
-          },
-          "form": "LWDDL",
-          "btts_matches": 12,
-          "avg_corners_per_game": 4.07,
-          "aproveitamento": 34.5,
-          "over_2_5_goals": 16,
-          "over_0_5_ht": 10,
-          "over_0_5_ft": 15,
-          "clean_sheets": 10
-        },
-        "home": {
-          "played": 14,
-          "win": 4,
-          "draw": 5,
-          "lose": 5,
-          "goals": {
-            "for": 18,
-            "against": 23
-          },
-          "form_home": "LDWWD",
-          "avg_corners_home_per_game": 3.79,
-          "aproveitamento_home": 40.5,
-          "btts_home_matches": 5,
-          "over_2_5_goals_home": 8,
-          "over_0_5_ht_home": 6,
-          "over_0_5_ft_home": 6,
-          "clean_sheets_home": 6
-        },
-        "away": {
-          "played": 15,
-          "win": 3,
-          "draw": 4,
-          "lose": 8,
-          "goals": {
-            "for": 17,
-            "against": 26
-          },
-          "form_visitor": "LLLDL",
-          "btts_away_matches": 7,
-          "avg_corners_away_per_game": 4.33,
-          "aproveitamento_away": 28.9,
-          "over_2_5_goals_away": 8,
-          "over_0_5_ht_away": 4,
-          "over_0_5_ft_away": 9,
           "clean_sheets_away": 4
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1324,16 +1324,16 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 11,
         "jogador-assists": 3,
-        "jogador-partidas": 28,
+        "jogador-partidas": 29,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-borussia-vfl-monchengladbach.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/switzerland-haris-tabakovic.png"
       },
       {
         "jogador-nome": "Nadiem Amiri",
         "jogador-posicao": "Midfielder",
-        "jogador-gols": 10,
+        "jogador-gols": 11,
         "jogador-assists": 2,
-        "jogador-partidas": 21,
+        "jogador-partidas": 22,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-1-fsv-mainz-05.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/germany-nadiem-amiri.png"
       },
