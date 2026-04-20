@@ -72,6 +72,74 @@
       {
         "rank": 2,
         "team": {
+          "id": 2601,
+          "name": "Fortaleza EC",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-fortaleza-ec.png"
+        },
+        "points": 10,
+        "goalsDiff": -1,
+        "group": "Brazil Serie B 2026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 5,
+          "win": 3,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 6,
+            "against": 7
+          },
+          "form": "LDWWW",
+          "btts_matches": 2,
+          "avg_corners_per_game": 4.8,
+          "aproveitamento": 66.7,
+          "over_2_5_goals": 3,
+          "over_0_5_ht": 2,
+          "over_0_5_ft": 2,
+          "clean_sheets": 2
+        },
+        "home": {
+          "played": 3,
+          "win": 2,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 5,
+            "against": 3
+          },
+          "form_home": "DWW",
+          "avg_corners_home_per_game": 4.33,
+          "aproveitamento_home": 77.8,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 2,
+          "win": 1,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 1,
+            "against": 4
+          },
+          "form_visitor": "LW",
+          "btts_away_matches": 0,
+          "avg_corners_away_per_game": 5.5,
+          "aproveitamento_away": 50.0,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 3,
+        "team": {
           "id": 642,
           "name": "Ceará SC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-ceara-sc.png"
@@ -138,7 +206,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "team": {
           "id": 677199,
           "name": "Athletic Club (Minas Gerais)",
@@ -206,7 +274,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "team": {
           "id": 621,
           "name": "Avai FC",
@@ -216,7 +284,7 @@
         "goalsDiff": 2,
         "group": "Brazil Serie B 2026",
         "status": "same",
-        "description": "Copa Libertadores",
+        "description": "Copa Sul-Americana",
         "all": {
           "played": 5,
           "win": 2,
@@ -274,7 +342,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "team": {
           "id": 2662,
           "name": "Operário Ferroviário EC",
@@ -342,7 +410,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "team": {
           "id": 2598,
           "name": "Botafogo FC Ribeirão Preto",
@@ -352,7 +420,7 @@
         "goalsDiff": 3,
         "group": "Brazil Serie B 2026",
         "status": "same",
-        "description": "Copa Sul-Americana",
+        "description": "",
         "all": {
           "played": 5,
           "win": 2,
@@ -410,7 +478,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "team": {
           "id": 2677,
           "name": "São Bernardo FC",
@@ -478,33 +546,33 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "team": {
           "id": 691,
           "name": "Criciuma EC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-criciuma-ec.png"
         },
         "points": 7,
-        "goalsDiff": 1,
+        "goalsDiff": 0,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 4,
+          "played": 5,
           "win": 2,
           "draw": 1,
-          "lose": 1,
+          "lose": 2,
           "goals": {
-            "for": 3,
-            "against": 2
+            "for": 5,
+            "against": 5
           },
-          "form": "WDLW",
-          "btts_matches": 1,
-          "avg_corners_per_game": 8.25,
-          "aproveitamento": 58.3,
-          "over_2_5_goals": 0,
-          "over_0_5_ht": 1,
-          "over_0_5_ft": 2,
+          "form": "WDLWL",
+          "btts_matches": 2,
+          "avg_corners_per_game": 7.2,
+          "aproveitamento": 46.7,
+          "over_2_5_goals": 1,
+          "over_0_5_ht": 2,
+          "over_0_5_ft": 3,
           "clean_sheets": 2
         },
         "home": {
@@ -526,27 +594,27 @@
           "clean_sheets_home": 1
         },
         "away": {
-          "played": 2,
+          "played": 3,
           "win": 1,
           "draw": 0,
-          "lose": 1,
+          "lose": 2,
           "goals": {
-            "for": 1,
-            "against": 1
+            "for": 3,
+            "against": 4
           },
-          "form_visitor": "WL",
-          "btts_away_matches": 0,
-          "avg_corners_away_per_game": 7.5,
-          "aproveitamento_away": 50.0,
-          "over_2_5_goals_away": 0,
-          "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 0,
+          "form_visitor": "WLL",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 6.0,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 1,
           "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "team": {
           "id": 1053,
           "name": "EC Juventude",
@@ -614,7 +682,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "team": {
           "id": 1056,
           "name": "Goiás EC",
@@ -678,74 +746,6 @@
           "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 1,
           "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 11,
-        "team": {
-          "id": 2601,
-          "name": "Fortaleza EC",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-fortaleza-ec.png"
-        },
-        "points": 7,
-        "goalsDiff": -2,
-        "group": "Brazil Serie B 2026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 4,
-          "win": 2,
-          "draw": 1,
-          "lose": 1,
-          "goals": {
-            "for": 3,
-            "against": 5
-          },
-          "form": "LDWW",
-          "btts_matches": 1,
-          "avg_corners_per_game": 5.0,
-          "aproveitamento": 58.3,
-          "over_2_5_goals": 2,
-          "over_0_5_ht": 1,
-          "over_0_5_ft": 1,
-          "clean_sheets": 2
-        },
-        "home": {
-          "played": 2,
-          "win": 1,
-          "draw": 1,
-          "lose": 0,
-          "goals": {
-            "for": 2,
-            "against": 1
-          },
-          "form_home": "DW",
-          "avg_corners_home_per_game": 4.5,
-          "aproveitamento_home": 66.7,
-          "btts_home_matches": 1,
-          "over_2_5_goals_home": 1,
-          "over_0_5_ht_home": 1,
-          "over_0_5_ft_home": 0,
-          "clean_sheets_home": 1
-        },
-        "away": {
-          "played": 2,
-          "win": 1,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 1,
-            "against": 4
-          },
-          "form_visitor": "LW",
-          "btts_away_matches": 0,
-          "avg_corners_away_per_game": 5.5,
-          "aproveitamento_away": 50.0,
-          "over_2_5_goals_away": 1,
-          "over_0_5_ht_away": 0,
-          "over_0_5_ft_away": 1,
-          "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
