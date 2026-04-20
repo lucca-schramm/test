@@ -72,6 +72,74 @@
       {
         "rank": 2,
         "team": {
+          "id": 612,
+          "name": "CR Flamengo",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-cr-flamengo.png"
+        },
+        "points": 23,
+        "goalsDiff": 10,
+        "group": "Brazil Serie A 2026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 11,
+          "win": 7,
+          "draw": 2,
+          "lose": 2,
+          "goals": {
+            "for": 20,
+            "against": 10
+          },
+          "form": "DLWWW",
+          "btts_matches": 6,
+          "avg_corners_per_game": 4.0,
+          "aproveitamento": 69.7,
+          "over_2_5_goals": 7,
+          "over_0_5_ht": 7,
+          "over_0_5_ft": 8,
+          "clean_sheets": 4
+        },
+        "home": {
+          "played": 5,
+          "win": 4,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 11,
+            "against": 2
+          },
+          "form_home": "DWWWW",
+          "avg_corners_home_per_game": 4.6,
+          "aproveitamento_home": 86.7,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 5,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 6,
+          "win": 3,
+          "draw": 1,
+          "lose": 2,
+          "goals": {
+            "for": 9,
+            "against": 8
+          },
+          "form_visitor": "WWDLW",
+          "btts_away_matches": 4,
+          "avg_corners_away_per_game": 3.5,
+          "aproveitamento_away": 55.6,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 3,
+        "team": {
           "id": 617,
           "name": "Fluminense FC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-fluminense-fc.png"
@@ -133,74 +201,6 @@
           "over_2_5_goals_away": 3,
           "over_0_5_ht_away": 5,
           "over_0_5_ft_away": 4,
-          "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 3,
-        "team": {
-          "id": 612,
-          "name": "CR Flamengo",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-cr-flamengo.png"
-        },
-        "points": 20,
-        "goalsDiff": 8,
-        "group": "Brazil Serie A 2026",
-        "status": "same",
-        "description": "Copa Libertadores",
-        "all": {
-          "played": 10,
-          "win": 6,
-          "draw": 2,
-          "lose": 2,
-          "goals": {
-            "for": 18,
-            "against": 10
-          },
-          "form": "WDLWW",
-          "btts_matches": 6,
-          "avg_corners_per_game": 3.8,
-          "aproveitamento": 66.7,
-          "over_2_5_goals": 7,
-          "over_0_5_ht": 6,
-          "over_0_5_ft": 7,
-          "clean_sheets": 3
-        },
-        "home": {
-          "played": 4,
-          "win": 3,
-          "draw": 1,
-          "lose": 0,
-          "goals": {
-            "for": 9,
-            "against": 2
-          },
-          "form_home": "DWWW",
-          "avg_corners_home_per_game": 4.25,
-          "aproveitamento_home": 83.3,
-          "btts_home_matches": 2,
-          "over_2_5_goals_home": 2,
-          "over_0_5_ht_home": 2,
-          "over_0_5_ft_home": 4,
-          "clean_sheets_home": 2
-        },
-        "away": {
-          "played": 6,
-          "win": 3,
-          "draw": 1,
-          "lose": 2,
-          "goals": {
-            "for": 9,
-            "against": 8
-          },
-          "form_visitor": "WWDLW",
-          "btts_away_matches": 4,
-          "avg_corners_away_per_game": 3.5,
-          "aproveitamento_away": 55.6,
-          "over_2_5_goals_away": 5,
-          "over_0_5_ht_away": 4,
-          "over_0_5_ft_away": 3,
           "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -281,23 +281,23 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-ec-bahia.png"
         },
         "points": 20,
-        "goalsDiff": 5,
+        "goalsDiff": 3,
         "group": "Brazil Serie A 2026",
         "status": "same",
         "description": "Copa Sul-Americana",
         "all": {
-          "played": 10,
+          "played": 11,
           "win": 6,
           "draw": 2,
-          "lose": 2,
+          "lose": 3,
           "goals": {
             "for": 15,
-            "against": 10
+            "against": 12
           },
-          "form": "WLWLW",
+          "form": "LWLWL",
           "btts_matches": 6,
-          "avg_corners_per_game": 5.4,
-          "aproveitamento": 66.7,
+          "avg_corners_per_game": 5.0,
+          "aproveitamento": 60.6,
           "over_2_5_goals": 5,
           "over_0_5_ht": 7,
           "over_0_5_ft": 4,
@@ -322,18 +322,18 @@
           "clean_sheets_home": 2
         },
         "away": {
-          "played": 5,
+          "played": 6,
           "win": 4,
           "draw": 0,
-          "lose": 1,
+          "lose": 2,
           "goals": {
             "for": 7,
-            "against": 6
+            "against": 8
           },
-          "form_visitor": "WWWLW",
+          "form_visitor": "WWLWL",
           "btts_away_matches": 3,
-          "avg_corners_away_per_game": 4.8,
-          "aproveitamento_away": 80.0,
+          "avg_corners_away_per_game": 4.17,
+          "aproveitamento_away": 66.7,
           "over_2_5_goals_away": 3,
           "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 1,
@@ -1405,8 +1405,8 @@
         "jogador-nome": "Pedro Guilherme Abreu dos Santos",
         "jogador-posicao": "Forward",
         "jogador-gols": 5,
-        "jogador-assists": 2,
-        "jogador-partidas": 10,
+        "jogador-assists": 3,
+        "jogador-partidas": 11,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-cr-flamengo.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-pedro-guilherme-abreu-dos-santos.png"
       },
@@ -1469,7 +1469,7 @@
         "jogador-posicao": "Defender",
         "jogador-gols": 4,
         "jogador-assists": 1,
-        "jogador-partidas": 10,
+        "jogador-partidas": 11,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ec-bahia.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-luciano-batista-da-silva-junior.png"
       },
