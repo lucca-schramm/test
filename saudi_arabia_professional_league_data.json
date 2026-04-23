@@ -956,6 +956,74 @@
       {
         "rank": 15,
         "team": {
+          "id": 5083,
+          "name": "Dhamk Club",
+          "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-dhamk-club.png"
+        },
+        "points": 26,
+        "goalsDiff": -19,
+        "group": "Saudi Arabia Professional League 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 29,
+          "win": 5,
+          "draw": 11,
+          "lose": 13,
+          "goals": {
+            "for": 27,
+            "against": 46
+          },
+          "form": "WWLDW",
+          "btts_matches": 18,
+          "avg_corners_per_game": 4.24,
+          "aproveitamento": 29.9,
+          "over_2_5_goals": 13,
+          "over_0_5_ht": 14,
+          "over_0_5_ft": 10,
+          "clean_sheets": 5
+        },
+        "home": {
+          "played": 15,
+          "win": 3,
+          "draw": 6,
+          "lose": 6,
+          "goals": {
+            "for": 15,
+            "against": 18
+          },
+          "form_home": "LLWDW",
+          "avg_corners_home_per_game": 4.67,
+          "aproveitamento_home": 33.3,
+          "btts_home_matches": 9,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 7,
+          "over_0_5_ft_home": 7,
+          "clean_sheets_home": 4
+        },
+        "away": {
+          "played": 14,
+          "win": 2,
+          "draw": 5,
+          "lose": 7,
+          "goals": {
+            "for": 12,
+            "against": 28
+          },
+          "form_visitor": "LLDWL",
+          "btts_away_matches": 9,
+          "avg_corners_away_per_game": 3.79,
+          "aproveitamento_away": 26.2,
+          "over_2_5_goals_away": 7,
+          "over_0_5_ht_away": 7,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 16,
+        "team": {
           "id": 5088,
           "name": "Al Riyadh SC",
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-riyadh-sc.png"
@@ -1022,74 +1090,6 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 16,
-        "team": {
-          "id": 5083,
-          "name": "Dhamk Club",
-          "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-dhamk-club.png"
-        },
-        "points": 23,
-        "goalsDiff": -21,
-        "group": "Saudi Arabia Professional League 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 28,
-          "win": 4,
-          "draw": 11,
-          "lose": 13,
-          "goals": {
-            "for": 25,
-            "against": 46
-          },
-          "form": "DWWLD",
-          "btts_matches": 18,
-          "avg_corners_per_game": 4.25,
-          "aproveitamento": 27.4,
-          "over_2_5_goals": 13,
-          "over_0_5_ht": 13,
-          "over_0_5_ft": 9,
-          "clean_sheets": 4
-        },
-        "home": {
-          "played": 14,
-          "win": 2,
-          "draw": 6,
-          "lose": 6,
-          "goals": {
-            "for": 13,
-            "against": 18
-          },
-          "form_home": "WLLWD",
-          "avg_corners_home_per_game": 4.71,
-          "aproveitamento_home": 28.6,
-          "btts_home_matches": 9,
-          "over_2_5_goals_home": 6,
-          "over_0_5_ht_home": 6,
-          "over_0_5_ft_home": 6,
-          "clean_sheets_home": 3
-        },
-        "away": {
-          "played": 14,
-          "win": 2,
-          "draw": 5,
-          "lose": 7,
-          "goals": {
-            "for": 12,
-            "against": 28
-          },
-          "form_visitor": "LLDWL",
-          "btts_away_matches": 9,
-          "avg_corners_away_per_game": 3.79,
-          "aproveitamento_away": 26.2,
-          "over_2_5_goals_away": 7,
-          "over_0_5_ht_away": 7,
-          "over_0_5_ft_away": 3,
-          "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
         "rank": 17,
         "team": {
           "id": 5111,
@@ -1097,23 +1097,23 @@
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-akhdoud.png"
         },
         "points": 16,
-        "goalsDiff": -36,
+        "goalsDiff": -38,
         "group": "Saudi Arabia Professional League 20252026",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 28,
+          "played": 29,
           "win": 4,
           "draw": 4,
-          "lose": 20,
+          "lose": 21,
           "goals": {
             "for": 23,
-            "against": 59
+            "against": 61
           },
-          "form": "WLLWL",
+          "form": "LLWLL",
           "btts_matches": 14,
-          "avg_corners_per_game": 3.61,
-          "aproveitamento": 19.0,
+          "avg_corners_per_game": 3.62,
+          "aproveitamento": 18.4,
           "over_2_5_goals": 15,
           "over_0_5_ht": 11,
           "over_0_5_ft": 10,
@@ -1138,18 +1138,18 @@
           "clean_sheets_home": 2
         },
         "away": {
-          "played": 13,
+          "played": 14,
           "win": 1,
           "draw": 1,
-          "lose": 11,
+          "lose": 12,
           "goals": {
             "for": 8,
-            "against": 25
+            "against": 27
           },
-          "form_visitor": "LLLWL",
+          "form_visitor": "LLWLL",
           "btts_away_matches": 6,
-          "avg_corners_away_per_game": 3.0,
-          "aproveitamento_away": 10.3,
+          "avg_corners_away_per_game": 3.07,
+          "aproveitamento_away": 9.5,
           "over_2_5_goals_away": 7,
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 4,
@@ -1347,6 +1347,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-marcos-leonardo-santos-almeida.png"
       },
       {
+        "jogador-nome": "Valentín Vada",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 11,
+        "jogador-assists": 4,
+        "jogador-partidas": 29,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-dhamk-club.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/argentina-valentin-vada.png"
+      },
+      {
         "jogador-nome": "Junior Fashion Sakala",
         "jogador-posicao": "Forward",
         "jogador-gols": 11,
@@ -1390,15 +1399,6 @@
         "jogador-partidas": 27,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-ittifaq-fc-dammam.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/saudi-arabia-khalid-essa-al-ghannam.png"
-      },
-      {
-        "jogador-nome": "Valentín Vada",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 10,
-        "jogador-assists": 3,
-        "jogador-partidas": 28,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-dhamk-club.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/argentina-valentin-vada.png"
       },
       {
         "jogador-nome": "Sadio Mané",
