@@ -689,23 +689,23 @@
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-khaleej-saihat.png"
         },
         "points": 31,
-        "goalsDiff": 0,
+        "goalsDiff": -1,
         "group": "Saudi Arabia Professional League 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 27,
+          "played": 28,
           "win": 8,
           "draw": 7,
-          "lose": 12,
+          "lose": 13,
           "goals": {
             "for": 46,
-            "against": 46
+            "against": 47
           },
-          "form": "LLWLD",
+          "form": "LWLDL",
           "btts_matches": 18,
-          "avg_corners_per_game": 5.15,
-          "aproveitamento": 38.3,
+          "avg_corners_per_game": 5.04,
+          "aproveitamento": 36.9,
           "over_2_5_goals": 18,
           "over_0_5_ht": 13,
           "over_0_5_ft": 17,
@@ -730,18 +730,18 @@
           "clean_sheets_home": 3
         },
         "away": {
-          "played": 14,
+          "played": 15,
           "win": 3,
           "draw": 5,
-          "lose": 6,
+          "lose": 7,
           "goals": {
             "for": 23,
-            "against": 27
+            "against": 28
           },
-          "form_visitor": "LDDLD",
+          "form_visitor": "DDLDL",
           "btts_away_matches": 13,
-          "avg_corners_away_per_game": 5.29,
-          "aproveitamento_away": 33.3,
+          "avg_corners_away_per_game": 5.07,
+          "aproveitamento_away": 31.1,
           "over_2_5_goals_away": 10,
           "over_0_5_ht_away": 7,
           "over_0_5_ft_away": 10,
@@ -751,6 +751,74 @@
       },
       {
         "rank": 12,
+        "team": {
+          "id": 5064,
+          "name": "Al Fateh SC",
+          "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-fateh-sc.png"
+        },
+        "points": 31,
+        "goalsDiff": -13,
+        "group": "Saudi Arabia Professional League 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 28,
+          "win": 8,
+          "draw": 7,
+          "lose": 13,
+          "goals": {
+            "for": 35,
+            "against": 48
+          },
+          "form": "DLLLW",
+          "btts_matches": 18,
+          "avg_corners_per_game": 5.25,
+          "aproveitamento": 36.9,
+          "over_2_5_goals": 13,
+          "over_0_5_ht": 13,
+          "over_0_5_ft": 16,
+          "clean_sheets": 5
+        },
+        "home": {
+          "played": 15,
+          "win": 6,
+          "draw": 3,
+          "lose": 6,
+          "goals": {
+            "for": 21,
+            "against": 24
+          },
+          "form_home": "LWDLW",
+          "avg_corners_home_per_game": 5.53,
+          "aproveitamento_home": 46.7,
+          "btts_home_matches": 10,
+          "over_2_5_goals_home": 8,
+          "over_0_5_ht_home": 6,
+          "over_0_5_ft_home": 11,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 13,
+          "win": 2,
+          "draw": 4,
+          "lose": 7,
+          "goals": {
+            "for": 14,
+            "against": 24
+          },
+          "form_visitor": "LDLLL",
+          "btts_away_matches": 8,
+          "avg_corners_away_per_game": 4.92,
+          "aproveitamento_away": 25.6,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 7,
+          "over_0_5_ft_away": 5,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 13,
         "team": {
           "id": 5067,
           "name": "Al Shabab FC Riyadh",
@@ -818,7 +886,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "team": {
           "id": 5125,
           "name": "Al Kholood Club",
@@ -882,74 +950,6 @@
           "over_0_5_ht_away": 7,
           "over_0_5_ft_away": 5,
           "clean_sheets_away": 2
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 14,
-        "team": {
-          "id": 5064,
-          "name": "Al Fateh SC",
-          "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-fateh-sc.png"
-        },
-        "points": 28,
-        "goalsDiff": -14,
-        "group": "Saudi Arabia Professional League 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 27,
-          "win": 7,
-          "draw": 7,
-          "lose": 13,
-          "goals": {
-            "for": 34,
-            "against": 48
-          },
-          "form": "WDLLL",
-          "btts_matches": 18,
-          "avg_corners_per_game": 5.37,
-          "aproveitamento": 34.6,
-          "over_2_5_goals": 13,
-          "over_0_5_ht": 13,
-          "over_0_5_ft": 15,
-          "clean_sheets": 4
-        },
-        "home": {
-          "played": 14,
-          "win": 5,
-          "draw": 3,
-          "lose": 6,
-          "goals": {
-            "for": 20,
-            "against": 24
-          },
-          "form_home": "DLWDL",
-          "avg_corners_home_per_game": 5.79,
-          "aproveitamento_home": 42.9,
-          "btts_home_matches": 10,
-          "over_2_5_goals_home": 8,
-          "over_0_5_ht_home": 6,
-          "over_0_5_ft_home": 10,
-          "clean_sheets_home": 1
-        },
-        "away": {
-          "played": 13,
-          "win": 2,
-          "draw": 4,
-          "lose": 7,
-          "goals": {
-            "for": 14,
-            "against": 24
-          },
-          "form_visitor": "LDLLL",
-          "btts_away_matches": 8,
-          "avg_corners_away_per_game": 4.92,
-          "aproveitamento_away": 25.6,
-          "over_2_5_goals_away": 5,
-          "over_0_5_ht_away": 7,
-          "over_0_5_ft_away": 5,
-          "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1324,7 +1324,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 14,
         "jogador-assists": 2,
-        "jogador-partidas": 22,
+        "jogador-partidas": 23,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-khaleej-saihat.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/norway-joshua-king.png"
       },
@@ -1333,7 +1333,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 12,
         "jogador-assists": 2,
-        "jogador-partidas": 27,
+        "jogador-partidas": 28,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-khaleej-saihat.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/greece-giorgos-masouras.png"
       },
@@ -1378,7 +1378,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 10,
         "jogador-assists": 11,
-        "jogador-partidas": 23,
+        "jogador-partidas": 24,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-khaleej-saihat.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/greece-konstantinos-fortounis.png"
       },
