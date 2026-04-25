@@ -820,6 +820,74 @@
       {
         "rank": 13,
         "team": {
+          "id": 628,
+          "name": "Associacao Atletica Ponte Preta",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-associacao-atletica-ponte-preta.png"
+        },
+        "points": 7,
+        "goalsDiff": -1,
+        "group": "Brazil Serie B 2026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 6,
+          "win": 2,
+          "draw": 1,
+          "lose": 3,
+          "goals": {
+            "for": 5,
+            "against": 6
+          },
+          "form": "DLLWW",
+          "btts_matches": 3,
+          "avg_corners_per_game": 4.17,
+          "aproveitamento": 38.9,
+          "over_2_5_goals": 2,
+          "over_0_5_ht": 3,
+          "over_0_5_ft": 2,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 3,
+          "win": 1,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 2,
+            "against": 2
+          },
+          "form_home": "DLW",
+          "avg_corners_home_per_game": 5.0,
+          "aproveitamento_home": 44.4,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 0,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 3,
+          "win": 1,
+          "draw": 0,
+          "lose": 2,
+          "goals": {
+            "for": 3,
+            "against": 4
+          },
+          "form_visitor": "LLW",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 3.33,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 14,
+        "team": {
           "id": 614,
           "name": "SC do Recife",
           "logo": "https://cdn.footystats.org/img/teams/brazil-sc-do-recife.png"
@@ -886,7 +954,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 14,
+        "rank": 15,
         "team": {
           "id": 2592,
           "name": "Cuiabá EC",
@@ -954,7 +1022,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 15,
+        "rank": 16,
         "team": {
           "id": 644,
           "name": "Clube Náutico Capibaribe",
@@ -1022,7 +1090,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 16,
+        "rank": 17,
         "team": {
           "id": 1055,
           "name": "Londrina EC",
@@ -1032,7 +1100,7 @@
         "goalsDiff": 0,
         "group": "Brazil Serie B 2026",
         "status": "same",
-        "description": "",
+        "description": "Rebaixamento",
         "all": {
           "played": 5,
           "win": 1,
@@ -1090,7 +1158,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 17,
+        "rank": 18,
         "team": {
           "id": 629,
           "name": "AC Goianiense",
@@ -1153,74 +1221,6 @@
           "over_2_5_goals_away": 1,
           "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 0,
-          "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 18,
-        "team": {
-          "id": 628,
-          "name": "Associacao Atletica Ponte Preta",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-associacao-atletica-ponte-preta.png"
-        },
-        "points": 4,
-        "goalsDiff": -2,
-        "group": "Brazil Serie B 2026",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 5,
-          "win": 1,
-          "draw": 1,
-          "lose": 3,
-          "goals": {
-            "for": 4,
-            "against": 6
-          },
-          "form": "LDLLW",
-          "btts_matches": 3,
-          "avg_corners_per_game": 4.6,
-          "aproveitamento": 26.7,
-          "over_2_5_goals": 2,
-          "over_0_5_ht": 2,
-          "over_0_5_ft": 2,
-          "clean_sheets": 0
-        },
-        "home": {
-          "played": 2,
-          "win": 0,
-          "draw": 1,
-          "lose": 1,
-          "goals": {
-            "for": 1,
-            "against": 2
-          },
-          "form_home": "DL",
-          "avg_corners_home_per_game": 6.5,
-          "aproveitamento_home": 16.7,
-          "btts_home_matches": 1,
-          "over_2_5_goals_home": 0,
-          "over_0_5_ht_home": 0,
-          "over_0_5_ft_home": 1,
-          "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 3,
-          "win": 1,
-          "draw": 0,
-          "lose": 2,
-          "goals": {
-            "for": 3,
-            "against": 4
-          },
-          "form_visitor": "LLW",
-          "btts_away_matches": 2,
-          "avg_corners_away_per_game": 3.33,
-          "aproveitamento_away": 33.3,
-          "over_2_5_goals_away": 2,
-          "over_0_5_ht_away": 2,
-          "over_0_5_ft_away": 1,
           "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1301,23 +1301,23 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-america-fc-minas-gerais.png"
         },
         "points": 2,
-        "goalsDiff": -6,
+        "goalsDiff": -7,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 5,
+          "played": 6,
           "win": 0,
           "draw": 2,
-          "lose": 3,
+          "lose": 4,
           "goals": {
             "for": 3,
-            "against": 9
+            "against": 10
           },
-          "form": "LLDLD",
+          "form": "LDLDL",
           "btts_matches": 3,
-          "avg_corners_per_game": 7.6,
-          "aproveitamento": 13.3,
+          "avg_corners_per_game": 8.0,
+          "aproveitamento": 11.1,
           "over_2_5_goals": 3,
           "over_0_5_ht": 1,
           "over_0_5_ft": 2,
@@ -1342,18 +1342,18 @@
           "clean_sheets_home": 1
         },
         "away": {
-          "played": 2,
+          "played": 3,
           "win": 0,
           "draw": 1,
-          "lose": 1,
+          "lose": 2,
           "goals": {
             "for": 2,
-            "against": 4
+            "against": 5
           },
-          "form_visitor": "LD",
+          "form_visitor": "LDL",
           "btts_away_matches": 2,
-          "avg_corners_away_per_game": 7.5,
-          "aproveitamento_away": 16.7,
+          "avg_corners_away_per_game": 8.33,
+          "aproveitamento_away": 11.1,
           "over_2_5_goals_away": 1,
           "over_0_5_ht_away": 0,
           "over_0_5_ft_away": 2,
@@ -1397,7 +1397,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 3,
         "jogador-assists": 0,
-        "jogador-partidas": 5,
+        "jogador-partidas": 6,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-america-fc-minas-gerais.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/uruguay-gonzalo-mathias-mastriani-borges.png"
       },
@@ -1427,6 +1427,15 @@
         "jogador-partidas": 5,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-goias-ec.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-anselmo-ramon-alves-erculano.png"
+      },
+      {
+        "jogador-nome": "William de Oliveira Pottker",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 2,
+        "jogador-assists": 0,
+        "jogador-partidas": 6,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-associacao-atletica-ponte-preta.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-william-de-oliveira-pottker.png"
       },
       {
         "jogador-nome": "Walace dos Santos França",
@@ -1535,15 +1544,6 @@
         "jogador-partidas": 5,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ec-juventude.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-alan-kardec-de-souza-pereira-junior.png"
-      },
-      {
-        "jogador-nome": "Robson dos Santos Fernandes",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 1,
-        "jogador-assists": 1,
-        "jogador-partidas": 5,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-gremio-novorizontino.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-robson-dos-santos-fernandes.png"
       }
     ]
   }
