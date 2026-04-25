@@ -208,6 +208,74 @@
       {
         "rank": 4,
         "team": {
+          "id": 49,
+          "name": "TSG 1899 Hoffenheim",
+          "logo": "https://cdn.footystats.org/img/teams/germany-tsg-1899-hoffenheim.png"
+        },
+        "points": 57,
+        "goalsDiff": 16,
+        "group": "Germany Bundesliga 20252026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 31,
+          "win": 17,
+          "draw": 6,
+          "lose": 8,
+          "goals": {
+            "for": 61,
+            "against": 45
+          },
+          "form": "LLDWW",
+          "btts_matches": 21,
+          "avg_corners_per_game": 5.68,
+          "aproveitamento": 61.3,
+          "over_2_5_goals": 22,
+          "over_0_5_ht": 20,
+          "over_0_5_ft": 18,
+          "clean_sheets": 6
+        },
+        "home": {
+          "played": 15,
+          "win": 9,
+          "draw": 1,
+          "lose": 5,
+          "goals": {
+            "for": 31,
+            "against": 18
+          },
+          "form_home": "WLDLW",
+          "avg_corners_home_per_game": 6.47,
+          "aproveitamento_home": 62.2,
+          "btts_home_matches": 10,
+          "over_2_5_goals_home": 11,
+          "over_0_5_ht_home": 9,
+          "over_0_5_ft_home": 10,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 16,
+          "win": 8,
+          "draw": 5,
+          "lose": 3,
+          "goals": {
+            "for": 30,
+            "against": 27
+          },
+          "form_visitor": "DWLDW",
+          "btts_away_matches": 11,
+          "avg_corners_away_per_game": 4.94,
+          "aproveitamento_away": 60.4,
+          "over_2_5_goals_away": 11,
+          "over_0_5_ht_away": 11,
+          "over_0_5_ft_away": 8,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 5,
+        "team": {
           "id": 51,
           "name": "VfB Stuttgart 1893",
           "logo": "https://cdn.footystats.org/img/teams/germany-vfb-stuttgart-1893.png"
@@ -216,7 +284,7 @@
         "goalsDiff": 20,
         "group": "Germany Bundesliga 20252026",
         "status": "same",
-        "description": "Copa Libertadores",
+        "description": "Copa Sul-Americana",
         "all": {
           "played": 30,
           "win": 17,
@@ -274,7 +342,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "team": {
           "id": 40,
           "name": "Bayer 04 Leverkusen",
@@ -338,74 +406,6 @@
           "over_0_5_ht_away": 11,
           "over_0_5_ft_away": 9,
           "clean_sheets_away": 2
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 6,
-        "team": {
-          "id": 49,
-          "name": "TSG 1899 Hoffenheim",
-          "logo": "https://cdn.footystats.org/img/teams/germany-tsg-1899-hoffenheim.png"
-        },
-        "points": 54,
-        "goalsDiff": 15,
-        "group": "Germany Bundesliga 20252026",
-        "status": "same",
-        "description": "Copa Sul-Americana",
-        "all": {
-          "played": 30,
-          "win": 16,
-          "draw": 6,
-          "lose": 8,
-          "goals": {
-            "for": 59,
-            "against": 44
-          },
-          "form": "DLLDW",
-          "btts_matches": 20,
-          "avg_corners_per_game": 5.57,
-          "aproveitamento": 60.0,
-          "over_2_5_goals": 21,
-          "over_0_5_ht": 19,
-          "over_0_5_ft": 18,
-          "clean_sheets": 6
-        },
-        "home": {
-          "played": 15,
-          "win": 9,
-          "draw": 1,
-          "lose": 5,
-          "goals": {
-            "for": 31,
-            "against": 18
-          },
-          "form_home": "WLDLW",
-          "avg_corners_home_per_game": 6.47,
-          "aproveitamento_home": 62.2,
-          "btts_home_matches": 10,
-          "over_2_5_goals_home": 11,
-          "over_0_5_ht_home": 9,
-          "over_0_5_ft_home": 10,
-          "clean_sheets_home": 3
-        },
-        "away": {
-          "played": 15,
-          "win": 7,
-          "draw": 5,
-          "lose": 3,
-          "goals": {
-            "for": 28,
-            "against": 26
-          },
-          "form_visitor": "LDWLD",
-          "btts_away_matches": 10,
-          "avg_corners_away_per_game": 4.67,
-          "aproveitamento_away": 57.8,
-          "over_2_5_goals_away": 10,
-          "over_0_5_ht_away": 10,
-          "over_0_5_ft_away": 8,
-          "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -961,43 +961,43 @@
           "logo": "https://cdn.footystats.org/img/teams/germany-hamburger-sv.png"
         },
         "points": 31,
-        "goalsDiff": -15,
+        "goalsDiff": -16,
         "group": "Germany Bundesliga 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 30,
+          "played": 31,
           "win": 7,
           "draw": 10,
-          "lose": 13,
+          "lose": 14,
           "goals": {
-            "for": 33,
-            "against": 48
+            "for": 34,
+            "against": 50
           },
-          "form": "DLDLL",
-          "btts_matches": 18,
-          "avg_corners_per_game": 3.73,
-          "aproveitamento": 34.4,
-          "over_2_5_goals": 16,
-          "over_0_5_ht": 12,
+          "form": "LDLLL",
+          "btts_matches": 19,
+          "avg_corners_per_game": 3.74,
+          "aproveitamento": 33.3,
+          "over_2_5_goals": 17,
+          "over_0_5_ht": 13,
           "over_0_5_ft": 15,
           "clean_sheets": 6
         },
         "home": {
-          "played": 15,
+          "played": 16,
           "win": 5,
           "draw": 6,
-          "lose": 4,
+          "lose": 5,
           "goals": {
-            "for": 21,
-            "against": 18
+            "for": 22,
+            "against": 20
           },
-          "form_home": "WLLDD",
-          "avg_corners_home_per_game": 3.87,
-          "aproveitamento_home": 46.7,
-          "btts_home_matches": 10,
-          "over_2_5_goals_home": 7,
-          "over_0_5_ht_home": 8,
+          "form_home": "LLDDL",
+          "avg_corners_home_per_game": 3.88,
+          "aproveitamento_home": 43.8,
+          "btts_home_matches": 11,
+          "over_2_5_goals_home": 8,
+          "over_0_5_ht_home": 9,
           "over_0_5_ft_home": 8,
           "clean_sheets_home": 2
         },
@@ -1306,7 +1306,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 12,
         "jogador-assists": 6,
-        "jogador-partidas": 30,
+        "jogador-partidas": 31,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-tsg-1899-hoffenheim.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/croatia-andrej-kramaric.png"
       },
@@ -1338,6 +1338,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/germany-nadiem-amiri.png"
       },
       {
+        "jogador-nome": "Fisnik Asllani",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 10,
+        "jogador-assists": 7,
+        "jogador-partidas": 30,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-tsg-1899-hoffenheim.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/kosovo-fisnik-asllani.png"
+      },
+      {
         "jogador-nome": "Rômulo José Cardoso da Cruz",
         "jogador-posicao": "Forward",
         "jogador-gols": 10,
@@ -1354,15 +1363,6 @@
         "jogador-partidas": 19,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-eintracht-frankfurt.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/germany-jonathan-burkardt.png"
-      },
-      {
-        "jogador-nome": "Fisnik Asllani",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 9,
-        "jogador-assists": 7,
-        "jogador-partidas": 29,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-tsg-1899-hoffenheim.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/kosovo-fisnik-asllani.png"
       },
       {
         "jogador-nome": "Ermedin Demirović",
