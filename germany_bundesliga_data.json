@@ -76,46 +76,46 @@
           "name": "BVB 09 Borussia Dortmund",
           "logo": "https://cdn.footystats.org/img/teams/germany-bvb-09-borussia-dortmund.png"
         },
-        "points": 64,
-        "goalsDiff": 30,
+        "points": 67,
+        "goalsDiff": 34,
         "group": "Germany Bundesliga 20252026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 30,
-          "win": 19,
+          "played": 31,
+          "win": 20,
           "draw": 7,
           "lose": 4,
           "goals": {
-            "for": 61,
+            "for": 65,
             "against": 31
           },
-          "form": "WWWLL",
+          "form": "WWLLW",
           "btts_matches": 16,
-          "avg_corners_per_game": 5.47,
-          "aproveitamento": 71.1,
-          "over_2_5_goals": 17,
-          "over_0_5_ht": 22,
-          "over_0_5_ft": 23,
-          "clean_sheets": 13
+          "avg_corners_per_game": 5.45,
+          "aproveitamento": 72.0,
+          "over_2_5_goals": 18,
+          "over_0_5_ht": 23,
+          "over_0_5_ft": 24,
+          "clean_sheets": 14
         },
         "home": {
-          "played": 15,
-          "win": 11,
+          "played": 16,
+          "win": 12,
           "draw": 2,
           "lose": 2,
           "goals": {
-            "for": 33,
+            "for": 37,
             "against": 14
           },
-          "form_home": "WLWWL",
-          "avg_corners_home_per_game": 7.47,
-          "aproveitamento_home": 77.8,
+          "form_home": "LWWLW",
+          "avg_corners_home_per_game": 7.31,
+          "aproveitamento_home": 79.2,
           "btts_home_matches": 6,
-          "over_2_5_goals_home": 8,
-          "over_0_5_ht_home": 12,
-          "over_0_5_ft_home": 12,
-          "clean_sheets_home": 8
+          "over_2_5_goals_home": 9,
+          "over_0_5_ht_home": 13,
+          "over_0_5_ft_home": 13,
+          "clean_sheets_home": 9
         },
         "away": {
           "played": 15,
@@ -417,24 +417,24 @@
           "logo": "https://cdn.footystats.org/img/teams/germany-sc-freiburg.png"
         },
         "points": 43,
-        "goalsDiff": -4,
+        "goalsDiff": -8,
         "group": "Germany Bundesliga 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 30,
+          "played": 31,
           "win": 12,
           "draw": 7,
-          "lose": 11,
+          "lose": 12,
           "goals": {
             "for": 44,
-            "against": 48
+            "against": 52
           },
-          "form": "LWLWW",
+          "form": "WLWWL",
           "btts_matches": 18,
-          "avg_corners_per_game": 4.47,
-          "aproveitamento": 47.8,
-          "over_2_5_goals": 19,
+          "avg_corners_per_game": 4.32,
+          "aproveitamento": 46.2,
+          "over_2_5_goals": 20,
           "over_0_5_ht": 13,
           "over_0_5_ft": 17,
           "clean_sheets": 6
@@ -458,19 +458,19 @@
           "clean_sheets_home": 2
         },
         "away": {
-          "played": 15,
+          "played": 16,
           "win": 4,
           "draw": 3,
-          "lose": 8,
+          "lose": 9,
           "goals": {
             "for": 16,
-            "against": 28
+            "against": 32
           },
-          "form_visitor": "LLLWW",
+          "form_visitor": "LLWWL",
           "btts_away_matches": 6,
-          "avg_corners_away_per_game": 3.93,
-          "aproveitamento_away": 33.3,
-          "over_2_5_goals_away": 8,
+          "avg_corners_away_per_game": 3.69,
+          "aproveitamento_away": 31.2,
+          "over_2_5_goals_away": 9,
           "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 6,
           "clean_sheets_away": 4
@@ -1259,9 +1259,9 @@
       {
         "jogador-nome": "Sehrou Guirassy",
         "jogador-posicao": "Forward",
-        "jogador-gols": 14,
+        "jogador-gols": 15,
         "jogador-assists": 1,
-        "jogador-partidas": 29,
+        "jogador-partidas": 30,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-bvb-09-borussia-dortmund.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/france-sehrou-guirassy.png"
       },
@@ -1383,6 +1383,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/germany-jonathan-burkardt.png"
       },
       {
+        "jogador-nome": "Maximilian Beier",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 9,
+        "jogador-assists": 4,
+        "jogador-partidas": 29,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-bvb-09-borussia-dortmund.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/germany-maximilian-beier.png"
+      },
+      {
         "jogador-nome": "Alejandro Grimaldo García",
         "jogador-posicao": "Defender",
         "jogador-gols": 8,
@@ -1399,15 +1408,6 @@
         "jogador-partidas": 21,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-fc-bayern-munchen.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/germany-serge-gnabry.png"
-      },
-      {
-        "jogador-nome": "Maximilian Beier",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 8,
-        "jogador-assists": 4,
-        "jogador-partidas": 28,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-bvb-09-borussia-dortmund.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/germany-maximilian-beier.png"
       }
     ]
   }
