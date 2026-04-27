@@ -144,45 +144,45 @@
           "name": "Fluminense FC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-fluminense-fc.png"
         },
-        "points": 23,
-        "goalsDiff": 6,
+        "points": 26,
+        "goalsDiff": 7,
         "group": "Brazil Serie A 2026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 12,
-          "win": 7,
+          "played": 13,
+          "win": 8,
           "draw": 2,
           "lose": 3,
           "goals": {
-            "for": 21,
-            "against": 15
+            "for": 23,
+            "against": 16
           },
-          "form": "WWDLW",
-          "btts_matches": 9,
-          "avg_corners_per_game": 5.92,
-          "aproveitamento": 63.9,
-          "over_2_5_goals": 7,
+          "form": "WDLWW",
+          "btts_matches": 10,
+          "avg_corners_per_game": 6.0,
+          "aproveitamento": 66.7,
+          "over_2_5_goals": 8,
           "over_0_5_ht": 8,
-          "over_0_5_ft": 9,
+          "over_0_5_ft": 10,
           "clean_sheets": 3
         },
         "home": {
-          "played": 6,
-          "win": 5,
+          "played": 7,
+          "win": 6,
           "draw": 0,
           "lose": 1,
           "goals": {
-            "for": 11,
-            "against": 6
+            "for": 13,
+            "against": 7
           },
-          "form_home": "WWWWL",
-          "avg_corners_home_per_game": 5.5,
-          "aproveitamento_home": 83.3,
-          "btts_home_matches": 4,
-          "over_2_5_goals_home": 4,
+          "form_home": "WWWLW",
+          "avg_corners_home_per_game": 5.71,
+          "aproveitamento_home": 85.7,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 5,
           "over_0_5_ht_home": 3,
-          "over_0_5_ft_home": 5,
+          "over_0_5_ft_home": 6,
           "clean_sheets_home": 2
         },
         "away": {
@@ -1301,26 +1301,26 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-chapecoense-af.png"
         },
         "points": 8,
-        "goalsDiff": -11,
+        "goalsDiff": -12,
         "group": "Brazil Serie A 2026",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 11,
+          "played": 12,
           "win": 1,
           "draw": 5,
-          "lose": 5,
+          "lose": 6,
           "goals": {
-            "for": 11,
-            "against": 22
+            "for": 12,
+            "against": 24
           },
-          "form": "LLDLL",
-          "btts_matches": 6,
-          "avg_corners_per_game": 4.27,
-          "aproveitamento": 24.2,
-          "over_2_5_goals": 4,
+          "form": "LDLLL",
+          "btts_matches": 7,
+          "avg_corners_per_game": 4.0,
+          "aproveitamento": 22.2,
+          "over_2_5_goals": 5,
           "over_0_5_ht": 4,
-          "over_0_5_ft": 4,
+          "over_0_5_ft": 5,
           "clean_sheets": 1
         },
         "home": {
@@ -1342,21 +1342,21 @@
           "clean_sheets_home": 1
         },
         "away": {
-          "played": 4,
+          "played": 5,
           "win": 0,
           "draw": 1,
-          "lose": 3,
+          "lose": 4,
           "goals": {
-            "for": 1,
-            "against": 7
+            "for": 2,
+            "against": 9
           },
-          "form_visitor": "DLLL",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 2.5,
-          "aproveitamento_away": 8.3,
-          "over_2_5_goals_away": 0,
+          "form_visitor": "DLLLL",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 2.2,
+          "aproveitamento_away": 6.7,
+          "over_2_5_goals_away": 1,
           "over_0_5_ht_away": 0,
-          "over_0_5_ft_away": 1,
+          "over_0_5_ft_away": 2,
           "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1411,6 +1411,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/argentina-jonathan-calleri.png"
       },
       {
+        "jogador-nome": "John Kennedy Batista de Souza",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 6,
+        "jogador-assists": 0,
+        "jogador-partidas": 12,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-fluminense-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-john-kennedy.png"
+      },
+      {
         "jogador-nome": "Luciano Batista da Silva Junior",
         "jogador-posicao": "Defender",
         "jogador-gols": 5,
@@ -1445,15 +1454,6 @@
         "jogador-partidas": 12,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-coritiba-fbc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-breno-lopes.png"
-      },
-      {
-        "jogador-nome": "John Kennedy Batista de Souza",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 5,
-        "jogador-assists": 0,
-        "jogador-partidas": 11,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-fluminense-fc.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-john-kennedy.png"
       },
       {
         "jogador-nome": "José Manuel López",
@@ -1528,6 +1528,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-neymar.png"
       },
       {
+        "jogador-nome": "Jefferson David Savarino Quintero",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 3,
+        "jogador-assists": 2,
+        "jogador-partidas": 11,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-fluminense-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/venezuela-jefferson-savarino.png"
+      },
+      {
         "jogador-nome": "Willian José da Silva",
         "jogador-posicao": "Forward",
         "jogador-gols": 3,
@@ -1535,15 +1544,6 @@
         "jogador-partidas": 11,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ec-bahia.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-willian-jose.png"
-      },
-      {
-        "jogador-nome": "Walter David Clar Fritz",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 3,
-        "jogador-assists": 1,
-        "jogador-partidas": 9,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-chapecoense-af.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/paraguay-walter-david-clar-fritz.png"
       }
     ]
   }
