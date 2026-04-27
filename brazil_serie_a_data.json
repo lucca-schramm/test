@@ -76,28 +76,28 @@
           "name": "CR Flamengo",
           "logo": "https://cdn.footystats.org/img/teams/brazil-cr-flamengo.png"
         },
-        "points": 23,
-        "goalsDiff": 10,
+        "points": 26,
+        "goalsDiff": 14,
         "group": "Brazil Serie A 2026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 11,
-          "win": 7,
+          "played": 12,
+          "win": 8,
           "draw": 2,
           "lose": 2,
           "goals": {
-            "for": 20,
+            "for": 24,
             "against": 10
           },
-          "form": "DLWWW",
+          "form": "LWWWW",
           "btts_matches": 6,
-          "avg_corners_per_game": 4.0,
-          "aproveitamento": 69.7,
-          "over_2_5_goals": 7,
-          "over_0_5_ht": 7,
-          "over_0_5_ft": 8,
-          "clean_sheets": 4
+          "avg_corners_per_game": 3.75,
+          "aproveitamento": 72.2,
+          "over_2_5_goals": 8,
+          "over_0_5_ht": 8,
+          "over_0_5_ft": 9,
+          "clean_sheets": 5
         },
         "home": {
           "played": 5,
@@ -118,22 +118,22 @@
           "clean_sheets_home": 3
         },
         "away": {
-          "played": 6,
-          "win": 3,
+          "played": 7,
+          "win": 4,
           "draw": 1,
           "lose": 2,
           "goals": {
-            "for": 9,
+            "for": 13,
             "against": 8
           },
-          "form_visitor": "WWDLW",
+          "form_visitor": "WDLWW",
           "btts_away_matches": 4,
-          "avg_corners_away_per_game": 3.5,
-          "aproveitamento_away": 55.6,
-          "over_2_5_goals_away": 5,
-          "over_0_5_ht_away": 4,
-          "over_0_5_ft_away": 3,
-          "clean_sheets_away": 1
+          "avg_corners_away_per_game": 3.14,
+          "aproveitamento_away": 61.9,
+          "over_2_5_goals_away": 6,
+          "over_0_5_ht_away": 5,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -961,42 +961,42 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-ca-mineiro.png"
         },
         "points": 14,
-        "goalsDiff": -1,
+        "goalsDiff": -5,
         "group": "Brazil Serie A 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 12,
+          "played": 13,
           "win": 4,
           "draw": 2,
-          "lose": 6,
+          "lose": 7,
           "goals": {
             "for": 14,
-            "against": 15
+            "against": 19
           },
-          "form": "LWWLL",
+          "form": "WWLLL",
           "btts_matches": 4,
-          "avg_corners_per_game": 5.33,
-          "aproveitamento": 38.9,
-          "over_2_5_goals": 5,
+          "avg_corners_per_game": 5.54,
+          "aproveitamento": 35.9,
+          "over_2_5_goals": 6,
           "over_0_5_ht": 5,
           "over_0_5_ft": 6,
           "clean_sheets": 3
         },
         "home": {
-          "played": 5,
+          "played": 6,
           "win": 3,
           "draw": 2,
-          "lose": 0,
+          "lose": 1,
           "goals": {
             "for": 9,
-            "against": 6
+            "against": 10
           },
-          "form_home": "DDWWW",
-          "avg_corners_home_per_game": 3.8,
-          "aproveitamento_home": 73.3,
+          "form_home": "DWWWL",
+          "avg_corners_home_per_game": 4.5,
+          "aproveitamento_home": 61.1,
           "btts_home_matches": 3,
-          "over_2_5_goals_home": 3,
+          "over_2_5_goals_home": 4,
           "over_0_5_ht_home": 4,
           "over_0_5_ft_home": 4,
           "clean_sheets_home": 2
@@ -1375,6 +1375,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/colombia-kevin-stiven-viveros-rodallega.png"
       },
       {
+        "jogador-nome": "Pedro Guilherme Abreu dos Santos",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 7,
+        "jogador-assists": 3,
+        "jogador-partidas": 12,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-cr-flamengo.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-pedro-guilherme-abreu-dos-santos.png"
+      },
+      {
         "jogador-nome": "Danilo dos Santos de Oliveira",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 7,
@@ -1400,15 +1409,6 @@
         "jogador-partidas": 12,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-sao-paulo-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/argentina-jonathan-calleri.png"
-      },
-      {
-        "jogador-nome": "Pedro Guilherme Abreu dos Santos",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 5,
-        "jogador-assists": 3,
-        "jogador-partidas": 11,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-cr-flamengo.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-pedro-guilherme-abreu-dos-santos.png"
       },
       {
         "jogador-nome": "Luciano Batista da Silva Junior",
