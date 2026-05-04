@@ -688,27 +688,27 @@
           "name": "Grêmio Novorizontino",
           "logo": "https://cdn.footystats.org/img/teams/brazil-gremio-novorizontino.png"
         },
-        "points": 8,
+        "points": 9,
         "goalsDiff": 1,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 6,
+          "played": 7,
           "win": 2,
-          "draw": 2,
+          "draw": 3,
           "lose": 2,
           "goals": {
-            "for": 7,
-            "against": 6
+            "for": 10,
+            "against": 9
           },
-          "form": "DDWWL",
-          "btts_matches": 3,
-          "avg_corners_per_game": 7.17,
-          "aproveitamento": 44.4,
-          "over_2_5_goals": 3,
+          "form": "DWWLD",
+          "btts_matches": 4,
+          "avg_corners_per_game": 6.57,
+          "aproveitamento": 42.9,
+          "over_2_5_goals": 4,
           "over_0_5_ht": 1,
-          "over_0_5_ft": 4,
+          "over_0_5_ft": 5,
           "clean_sheets": 2
         },
         "home": {
@@ -730,21 +730,21 @@
           "clean_sheets_home": 0
         },
         "away": {
-          "played": 3,
+          "played": 4,
           "win": 1,
-          "draw": 1,
+          "draw": 2,
           "lose": 1,
           "goals": {
-            "for": 3,
-            "against": 1
+            "for": 6,
+            "against": 4
           },
-          "form_visitor": "DWL",
-          "btts_away_matches": 0,
-          "avg_corners_away_per_game": 6.0,
-          "aproveitamento_away": 44.4,
-          "over_2_5_goals_away": 1,
+          "form_visitor": "DWLD",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 5.25,
+          "aproveitamento_away": 41.7,
+          "over_2_5_goals_away": 2,
           "over_0_5_ht_away": 0,
-          "over_0_5_ft_away": 1,
+          "over_0_5_ft_away": 2,
           "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -756,45 +756,45 @@
           "name": "Avai FC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-avai-fc.png"
         },
-        "points": 8,
+        "points": 9,
         "goalsDiff": 1,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 6,
+          "played": 7,
           "win": 2,
-          "draw": 2,
+          "draw": 3,
           "lose": 2,
           "goals": {
-            "for": 7,
-            "against": 6
+            "for": 10,
+            "against": 9
           },
-          "form": "WDDLL",
-          "btts_matches": 3,
-          "avg_corners_per_game": 5.17,
-          "aproveitamento": 44.4,
-          "over_2_5_goals": 3,
-          "over_0_5_ht": 3,
-          "over_0_5_ft": 4,
+          "form": "DDLLD",
+          "btts_matches": 4,
+          "avg_corners_per_game": 5.14,
+          "aproveitamento": 42.9,
+          "over_2_5_goals": 4,
+          "over_0_5_ht": 4,
+          "over_0_5_ft": 5,
           "clean_sheets": 3
         },
         "home": {
-          "played": 3,
+          "played": 4,
           "win": 1,
-          "draw": 1,
+          "draw": 2,
           "lose": 1,
           "goals": {
-            "for": 3,
-            "against": 2
+            "for": 6,
+            "against": 5
           },
-          "form_home": "WDL",
-          "avg_corners_home_per_game": 5.67,
-          "aproveitamento_home": 44.4,
-          "btts_home_matches": 1,
-          "over_2_5_goals_home": 1,
-          "over_0_5_ht_home": 2,
-          "over_0_5_ft_home": 1,
+          "form_home": "WDLD",
+          "avg_corners_home_per_game": 5.5,
+          "aproveitamento_home": 41.7,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 2,
           "clean_sheets_home": 2
         },
         "away": {
@@ -1406,7 +1406,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 3,
         "jogador-assists": 0,
-        "jogador-partidas": 6,
+        "jogador-partidas": 7,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-avai-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-walace-dos-santos-franca.png"
       },
@@ -1474,6 +1474,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-ryan-aparecido-lima-cassiano.png"
       },
       {
+        "jogador-nome": "Robson dos Santos Fernandes",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 2,
+        "jogador-assists": 1,
+        "jogador-partidas": 7,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-gremio-novorizontino.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-robson-dos-santos-fernandes.png"
+      },
+      {
         "jogador-nome": "Hernades Rodrigues da Silva",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 2,
@@ -1535,15 +1544,6 @@
         "jogador-partidas": 7,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-clube-nautico-capibaribe.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-vinicius-santos-silva.png"
-      },
-      {
-        "jogador-nome": "Victor Andrade Santos",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 2,
-        "jogador-assists": 0,
-        "jogador-partidas": 6,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-clube-nautico-capibaribe.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-victor-andrade-santos.png"
       }
     ]
   }
