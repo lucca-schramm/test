@@ -208,6 +208,74 @@
       {
         "rank": 4,
         "team": {
+          "id": 645,
+          "name": "Vila Nova FC",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-vila-nova-fc.png"
+        },
+        "points": 13,
+        "goalsDiff": 3,
+        "group": "Brazil Serie B 2026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 7,
+          "win": 3,
+          "draw": 4,
+          "lose": 0,
+          "goals": {
+            "for": 12,
+            "against": 9
+          },
+          "form": "WWWDD",
+          "btts_matches": 6,
+          "avg_corners_per_game": 4.86,
+          "aproveitamento": 61.9,
+          "over_2_5_goals": 4,
+          "over_0_5_ht": 3,
+          "over_0_5_ft": 6,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 4,
+          "win": 2,
+          "draw": 2,
+          "lose": 0,
+          "goals": {
+            "for": 7,
+            "against": 5
+          },
+          "form_home": "DWWD",
+          "avg_corners_home_per_game": 5.75,
+          "aproveitamento_home": 66.7,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 3,
+          "win": 1,
+          "draw": 2,
+          "lose": 0,
+          "goals": {
+            "for": 5,
+            "against": 4
+          },
+          "form_visitor": "DWD",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 3.67,
+          "aproveitamento_away": 55.6,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 5,
+        "team": {
           "id": 2662,
           "name": "Operário Ferroviário EC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-operario-ferroviario-ec.png"
@@ -216,7 +284,7 @@
         "goalsDiff": 4,
         "group": "Brazil Serie B 2026",
         "status": "same",
-        "description": "Copa Libertadores",
+        "description": "Copa Sul-Americana",
         "all": {
           "played": 7,
           "win": 3,
@@ -269,74 +337,6 @@
           "over_2_5_goals_away": 2,
           "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 1,
-          "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 5,
-        "team": {
-          "id": 645,
-          "name": "Vila Nova FC",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-vila-nova-fc.png"
-        },
-        "points": 12,
-        "goalsDiff": 3,
-        "group": "Brazil Serie B 2026",
-        "status": "same",
-        "description": "Copa Sul-Americana",
-        "all": {
-          "played": 6,
-          "win": 3,
-          "draw": 3,
-          "lose": 0,
-          "goals": {
-            "for": 11,
-            "against": 8
-          },
-          "form": "DWWWD",
-          "btts_matches": 5,
-          "avg_corners_per_game": 4.17,
-          "aproveitamento": 66.7,
-          "over_2_5_goals": 4,
-          "over_0_5_ht": 3,
-          "over_0_5_ft": 5,
-          "clean_sheets": 1
-        },
-        "home": {
-          "played": 3,
-          "win": 2,
-          "draw": 1,
-          "lose": 0,
-          "goals": {
-            "for": 6,
-            "against": 4
-          },
-          "form_home": "DWW",
-          "avg_corners_home_per_game": 4.67,
-          "aproveitamento_home": 77.8,
-          "btts_home_matches": 3,
-          "over_2_5_goals_home": 3,
-          "over_0_5_ht_home": 1,
-          "over_0_5_ft_home": 3,
-          "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 3,
-          "win": 1,
-          "draw": 2,
-          "lose": 0,
-          "goals": {
-            "for": 5,
-            "against": 4
-          },
-          "form_visitor": "DWD",
-          "btts_away_matches": 2,
-          "avg_corners_away_per_game": 3.67,
-          "aproveitamento_away": 55.6,
-          "over_2_5_goals_away": 1,
-          "over_0_5_ht_away": 2,
-          "over_0_5_ft_away": 2,
           "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -824,27 +824,27 @@
           "name": "Athletic Club (Minas Gerais)",
           "logo": "https://cdn.footystats.org/img/teams/brazil-athletic-club-minas-gerais.png"
         },
-        "points": 8,
+        "points": 9,
         "goalsDiff": 0,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 6,
+          "played": 7,
           "win": 2,
-          "draw": 2,
+          "draw": 3,
           "lose": 2,
           "goals": {
-            "for": 8,
-            "against": 8
+            "for": 9,
+            "against": 9
           },
-          "form": "DDWLL",
-          "btts_matches": 5,
-          "avg_corners_per_game": 4.0,
-          "aproveitamento": 44.4,
+          "form": "DWLLD",
+          "btts_matches": 6,
+          "avg_corners_per_game": 3.57,
+          "aproveitamento": 42.9,
           "over_2_5_goals": 3,
           "over_0_5_ht": 4,
-          "over_0_5_ft": 1,
+          "over_0_5_ft": 2,
           "clean_sheets": 0
         },
         "home": {
@@ -866,21 +866,21 @@
           "clean_sheets_home": 0
         },
         "away": {
-          "played": 3,
+          "played": 4,
           "win": 1,
-          "draw": 1,
+          "draw": 2,
           "lose": 1,
           "goals": {
-            "for": 5,
-            "against": 5
+            "for": 6,
+            "against": 6
           },
-          "form_visitor": "DWL",
-          "btts_away_matches": 3,
-          "avg_corners_away_per_game": 3.0,
-          "aproveitamento_away": 44.4,
+          "form_visitor": "DWLD",
+          "btts_away_matches": 4,
+          "avg_corners_away_per_game": 2.5,
+          "aproveitamento_away": 41.7,
           "over_2_5_goals_away": 2,
           "over_0_5_ht_away": 2,
-          "over_0_5_ft_away": 1,
+          "over_0_5_ft_away": 2,
           "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1415,7 +1415,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 3,
         "jogador-assists": 0,
-        "jogador-partidas": 4,
+        "jogador-partidas": 5,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-vila-nova-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-rafael-da-silva.png"
       },
@@ -1469,7 +1469,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 2,
         "jogador-assists": 1,
-        "jogador-partidas": 6,
+        "jogador-partidas": 7,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-vila-nova-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-ryan-aparecido-lima-cassiano.png"
       },
