@@ -144,45 +144,45 @@
           "name": "Al Ahli SC Jeddah",
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-ahli-sc-jeddah.png"
         },
-        "points": 69,
-        "goalsDiff": 37,
+        "points": 72,
+        "goalsDiff": 39,
         "group": "Saudi Arabia Professional League 20252026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 30,
-          "win": 21,
+          "played": 31,
+          "win": 22,
           "draw": 6,
           "lose": 3,
           "goals": {
-            "for": 59,
-            "against": 22
+            "for": 62,
+            "against": 23
           },
-          "form": "LWDLW",
-          "btts_matches": 13,
-          "avg_corners_per_game": 5.97,
-          "aproveitamento": 76.7,
-          "over_2_5_goals": 14,
-          "over_0_5_ht": 15,
-          "over_0_5_ft": 20,
+          "form": "WDLWW",
+          "btts_matches": 14,
+          "avg_corners_per_game": 5.84,
+          "aproveitamento": 77.4,
+          "over_2_5_goals": 15,
+          "over_0_5_ht": 16,
+          "over_0_5_ft": 21,
           "clean_sheets": 16
         },
         "home": {
-          "played": 15,
-          "win": 12,
+          "played": 16,
+          "win": 13,
           "draw": 3,
           "lose": 0,
           "goals": {
-            "for": 39,
-            "against": 12
+            "for": 42,
+            "against": 13
           },
           "form_home": "WWWWW",
-          "avg_corners_home_per_game": 6.67,
-          "aproveitamento_home": 86.7,
-          "btts_home_matches": 9,
-          "over_2_5_goals_home": 10,
-          "over_0_5_ht_home": 9,
-          "over_0_5_ft_home": 13,
+          "avg_corners_home_per_game": 6.38,
+          "aproveitamento_home": 87.5,
+          "btts_home_matches": 10,
+          "over_2_5_goals_home": 11,
+          "over_0_5_ht_home": 10,
+          "over_0_5_ft_home": 14,
           "clean_sheets_home": 6
         },
         "away": {
@@ -757,26 +757,26 @@
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-fateh-sc.png"
         },
         "points": 33,
-        "goalsDiff": -13,
+        "goalsDiff": -15,
         "group": "Saudi Arabia Professional League 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 30,
+          "played": 31,
           "win": 8,
           "draw": 9,
-          "lose": 13,
+          "lose": 14,
           "goals": {
-            "for": 38,
-            "against": 51
+            "for": 39,
+            "against": 54
           },
-          "form": "LLWDD",
-          "btts_matches": 20,
-          "avg_corners_per_game": 5.33,
-          "aproveitamento": 36.7,
-          "over_2_5_goals": 14,
+          "form": "LWDDL",
+          "btts_matches": 21,
+          "avg_corners_per_game": 5.23,
+          "aproveitamento": 35.5,
+          "over_2_5_goals": 15,
           "over_0_5_ht": 14,
-          "over_0_5_ft": 17,
+          "over_0_5_ft": 18,
           "clean_sheets": 5
         },
         "home": {
@@ -798,21 +798,21 @@
           "clean_sheets_home": 2
         },
         "away": {
-          "played": 14,
+          "played": 15,
           "win": 2,
           "draw": 5,
-          "lose": 7,
+          "lose": 8,
           "goals": {
-            "for": 15,
-            "against": 25
+            "for": 16,
+            "against": 28
           },
-          "form_visitor": "DLLLD",
-          "btts_away_matches": 9,
-          "avg_corners_away_per_game": 5.07,
-          "aproveitamento_away": 26.2,
-          "over_2_5_goals_away": 5,
+          "form_visitor": "LLLDL",
+          "btts_away_matches": 10,
+          "avg_corners_away_per_game": 4.87,
+          "aproveitamento_away": 24.4,
+          "over_2_5_goals_away": 6,
           "over_0_5_ht_away": 8,
-          "over_0_5_ft_away": 5,
+          "over_0_5_ft_away": 6,
           "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1230,6 +1230,15 @@
   "artilharia": {
     "saudi_arabia_professional_league": [
       {
+        "jogador-nome": "Ivan Toney",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 30,
+        "jogador-assists": 6,
+        "jogador-partidas": 29,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-ahli-sc-jeddah.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/england-ivan-toney.png"
+      },
+      {
         "jogador-nome": "Julián Andrés Quiñones Quiñones",
         "jogador-posicao": "Forward",
         "jogador-gols": 29,
@@ -1237,15 +1246,6 @@
         "jogador-partidas": 28,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-quadisiya-al-khubar.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/colombia-julian-andres-quinones-quinones.png"
-      },
-      {
-        "jogador-nome": "Ivan Toney",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 27,
-        "jogador-assists": 6,
-        "jogador-partidas": 28,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-ahli-sc-jeddah.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/england-ivan-toney.png"
       },
       {
         "jogador-nome": "Cristiano Ronaldo dos Santos Aveiro",
