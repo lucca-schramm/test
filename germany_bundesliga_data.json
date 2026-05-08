@@ -76,45 +76,45 @@
           "name": "BVB 09 Borussia Dortmund",
           "logo": "https://cdn.footystats.org/img/teams/germany-bvb-09-borussia-dortmund.png"
         },
-        "points": 67,
-        "goalsDiff": 33,
+        "points": 70,
+        "goalsDiff": 34,
         "group": "Germany Bundesliga 20252026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 32,
-          "win": 20,
+          "played": 33,
+          "win": 21,
           "draw": 7,
           "lose": 5,
           "goals": {
-            "for": 65,
-            "against": 32
+            "for": 68,
+            "against": 34
           },
-          "form": "WLLWL",
-          "btts_matches": 16,
-          "avg_corners_per_game": 5.31,
-          "aproveitamento": 69.8,
-          "over_2_5_goals": 18,
-          "over_0_5_ht": 23,
-          "over_0_5_ft": 24,
+          "form": "LLWLW",
+          "btts_matches": 17,
+          "avg_corners_per_game": 5.33,
+          "aproveitamento": 70.7,
+          "over_2_5_goals": 19,
+          "over_0_5_ht": 24,
+          "over_0_5_ft": 25,
           "clean_sheets": 14
         },
         "home": {
-          "played": 16,
-          "win": 12,
+          "played": 17,
+          "win": 13,
           "draw": 2,
           "lose": 2,
           "goals": {
-            "for": 37,
-            "against": 14
+            "for": 40,
+            "against": 16
           },
-          "form_home": "LWWLW",
-          "avg_corners_home_per_game": 7.31,
-          "aproveitamento_home": 79.2,
-          "btts_home_matches": 6,
-          "over_2_5_goals_home": 9,
-          "over_0_5_ht_home": 13,
-          "over_0_5_ft_home": 13,
+          "form_home": "WWLWW",
+          "avg_corners_home_per_game": 7.24,
+          "aproveitamento_home": 80.4,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 10,
+          "over_0_5_ht_home": 14,
+          "over_0_5_ft_home": 14,
           "clean_sheets_home": 9
         },
         "away": {
@@ -485,26 +485,26 @@
           "logo": "https://cdn.footystats.org/img/teams/germany-eintracht-frankfurt.png"
         },
         "points": 43,
-        "goalsDiff": -3,
+        "goalsDiff": -4,
         "group": "Germany Bundesliga 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 32,
+          "played": 33,
           "win": 11,
           "draw": 10,
-          "lose": 11,
+          "lose": 12,
           "goals": {
-            "for": 57,
-            "against": 60
+            "for": 59,
+            "against": 63
           },
-          "form": "DWLDL",
-          "btts_matches": 23,
-          "avg_corners_per_game": 4.72,
-          "aproveitamento": 44.8,
-          "over_2_5_goals": 21,
-          "over_0_5_ht": 16,
-          "over_0_5_ft": 23,
+          "form": "WLDLL",
+          "btts_matches": 24,
+          "avg_corners_per_game": 4.64,
+          "aproveitamento": 43.4,
+          "over_2_5_goals": 22,
+          "over_0_5_ht": 17,
+          "over_0_5_ft": 24,
           "clean_sheets": 7
         },
         "home": {
@@ -526,21 +526,21 @@
           "clean_sheets_home": 6
         },
         "away": {
-          "played": 16,
+          "played": 17,
           "win": 4,
           "draw": 7,
-          "lose": 5,
+          "lose": 6,
           "goals": {
-            "for": 30,
-            "against": 35
+            "for": 32,
+            "against": 38
           },
-          "form_visitor": "LDLWD",
-          "btts_away_matches": 14,
-          "avg_corners_away_per_game": 4.06,
-          "aproveitamento_away": 39.6,
-          "over_2_5_goals_away": 11,
-          "over_0_5_ht_away": 9,
-          "over_0_5_ft_away": 10,
+          "form_visitor": "DLWDL",
+          "btts_away_matches": 15,
+          "avg_corners_away_per_game": 3.94,
+          "aproveitamento_away": 37.3,
+          "over_2_5_goals_away": 12,
+          "over_0_5_ht_away": 10,
+          "over_0_5_ft_away": 11,
           "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1257,6 +1257,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/czech-republic-patrik-schick.png"
       },
       {
+        "jogador-nome": "Sehrou Guirassy",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 16,
+        "jogador-assists": 1,
+        "jogador-partidas": 32,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-bvb-09-borussia-dortmund.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/france-sehrou-guirassy.png"
+      },
+      {
         "jogador-nome": "Luis Fernando Díaz Marulanda",
         "jogador-posicao": "Forward",
         "jogador-gols": 15,
@@ -1264,15 +1273,6 @@
         "jogador-partidas": 30,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-fc-bayern-munchen.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/colombia-luis-diaz.png"
-      },
-      {
-        "jogador-nome": "Sehrou Guirassy",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 15,
-        "jogador-assists": 1,
-        "jogador-partidas": 31,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-bvb-09-borussia-dortmund.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/france-sehrou-guirassy.png"
       },
       {
         "jogador-nome": "Michael Akpovie Olise",
@@ -1347,6 +1347,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/germany-nadiem-amiri.png"
       },
       {
+        "jogador-nome": "Jonathan Burkardt",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 11,
+        "jogador-assists": 1,
+        "jogador-partidas": 21,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-eintracht-frankfurt.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/germany-jonathan-burkardt.png"
+      },
+      {
         "jogador-nome": "Fisnik Asllani",
         "jogador-posicao": "Forward",
         "jogador-gols": 10,
@@ -1374,20 +1383,11 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/denmark-jens-stage.png"
       },
       {
-        "jogador-nome": "Jonathan Burkardt",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 10,
-        "jogador-assists": 1,
-        "jogador-partidas": 20,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-eintracht-frankfurt.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/germany-jonathan-burkardt.png"
-      },
-      {
         "jogador-nome": "Maximilian Beier",
         "jogador-posicao": "Forward",
         "jogador-gols": 9,
-        "jogador-assists": 4,
-        "jogador-partidas": 30,
+        "jogador-assists": 6,
+        "jogador-partidas": 31,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-bvb-09-borussia-dortmund.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/germany-maximilian-beier.png"
       },
