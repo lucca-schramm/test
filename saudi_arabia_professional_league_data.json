@@ -548,6 +548,74 @@
       {
         "rank": 9,
         "team": {
+          "id": 5089,
+          "name": "Al Hazm",
+          "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-hazm.png"
+        },
+        "points": 39,
+        "goalsDiff": -19,
+        "group": "Saudi Arabia Professional League 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 32,
+          "win": 10,
+          "draw": 9,
+          "lose": 13,
+          "goals": {
+            "for": 36,
+            "against": 55
+          },
+          "form": "WWDLD",
+          "btts_matches": 20,
+          "avg_corners_per_game": 4.22,
+          "aproveitamento": 40.6,
+          "over_2_5_goals": 20,
+          "over_0_5_ht": 10,
+          "over_0_5_ft": 16,
+          "clean_sheets": 3
+        },
+        "home": {
+          "played": 16,
+          "win": 7,
+          "draw": 2,
+          "lose": 7,
+          "goals": {
+            "for": 20,
+            "against": 30
+          },
+          "form_home": "WWWWL",
+          "avg_corners_home_per_game": 4.38,
+          "aproveitamento_home": 47.9,
+          "btts_home_matches": 10,
+          "over_2_5_goals_home": 11,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 10,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 16,
+          "win": 3,
+          "draw": 7,
+          "lose": 6,
+          "goals": {
+            "for": 16,
+            "against": 25
+          },
+          "form_visitor": "LLLDD",
+          "btts_away_matches": 10,
+          "avg_corners_away_per_game": 4.06,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 9,
+          "over_0_5_ht_away": 5,
+          "over_0_5_ft_away": 6,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 10,
+        "team": {
           "id": 5071,
           "name": "Al Feiha",
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-feiha.png"
@@ -609,74 +677,6 @@
           "over_2_5_goals_away": 10,
           "over_0_5_ht_away": 7,
           "over_0_5_ft_away": 5,
-          "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 10,
-        "team": {
-          "id": 5089,
-          "name": "Al Hazm",
-          "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-hazm.png"
-        },
-        "points": 38,
-        "goalsDiff": -19,
-        "group": "Saudi Arabia Professional League 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 31,
-          "win": 10,
-          "draw": 8,
-          "lose": 13,
-          "goals": {
-            "for": 34,
-            "against": 53
-          },
-          "form": "LWWDL",
-          "btts_matches": 19,
-          "avg_corners_per_game": 4.13,
-          "aproveitamento": 40.9,
-          "over_2_5_goals": 19,
-          "over_0_5_ht": 9,
-          "over_0_5_ft": 16,
-          "clean_sheets": 3
-        },
-        "home": {
-          "played": 16,
-          "win": 7,
-          "draw": 2,
-          "lose": 7,
-          "goals": {
-            "for": 20,
-            "against": 30
-          },
-          "form_home": "WWWWL",
-          "avg_corners_home_per_game": 4.38,
-          "aproveitamento_home": 47.9,
-          "btts_home_matches": 10,
-          "over_2_5_goals_home": 11,
-          "over_0_5_ht_home": 5,
-          "over_0_5_ft_home": 10,
-          "clean_sheets_home": 2
-        },
-        "away": {
-          "played": 15,
-          "win": 3,
-          "draw": 6,
-          "lose": 6,
-          "goals": {
-            "for": 14,
-            "against": 23
-          },
-          "form_visitor": "LLLLD",
-          "btts_away_matches": 9,
-          "avg_corners_away_per_game": 3.87,
-          "aproveitamento_away": 33.3,
-          "over_2_5_goals_away": 8,
-          "over_0_5_ht_away": 4,
-          "over_0_5_ft_away": 6,
           "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1164,44 +1164,44 @@
           "name": "Al Najma Club Saudi Arabia",
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-najma-club-saudi-arabia.png"
         },
-        "points": 12,
+        "points": 13,
         "goalsDiff": -43,
         "group": "Saudi Arabia Professional League 20252026",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 31,
+          "played": 32,
           "win": 2,
-          "draw": 6,
+          "draw": 7,
           "lose": 23,
           "goals": {
-            "for": 29,
-            "against": 72
+            "for": 31,
+            "against": 74
           },
-          "form": "LWLLD",
-          "btts_matches": 21,
-          "avg_corners_per_game": 3.61,
-          "aproveitamento": 12.9,
-          "over_2_5_goals": 22,
-          "over_0_5_ht": 9,
+          "form": "WLLDD",
+          "btts_matches": 22,
+          "avg_corners_per_game": 3.53,
+          "aproveitamento": 13.5,
+          "over_2_5_goals": 23,
+          "over_0_5_ht": 10,
           "over_0_5_ft": 16,
           "clean_sheets": 3
         },
         "home": {
-          "played": 15,
+          "played": 16,
           "win": 2,
-          "draw": 3,
+          "draw": 4,
           "lose": 10,
           "goals": {
-            "for": 18,
-            "against": 34
+            "for": 20,
+            "against": 36
           },
-          "form_home": "LLLWL",
-          "avg_corners_home_per_game": 4.4,
-          "aproveitamento_home": 20.0,
-          "btts_home_matches": 12,
-          "over_2_5_goals_home": 11,
-          "over_0_5_ht_home": 4,
+          "form_home": "LLWLD",
+          "avg_corners_home_per_game": 4.19,
+          "aproveitamento_home": 20.8,
+          "btts_home_matches": 13,
+          "over_2_5_goals_home": 12,
+          "over_0_5_ht_home": 5,
           "over_0_5_ft_home": 11,
           "clean_sheets_home": 0
         },
