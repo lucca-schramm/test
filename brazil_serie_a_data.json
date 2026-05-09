@@ -144,45 +144,45 @@
           "name": "Fluminense FC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-fluminense-fc.png"
         },
-        "points": 26,
+        "points": 27,
         "goalsDiff": 5,
         "group": "Brazil Serie A 2026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 14,
+          "played": 15,
           "win": 8,
-          "draw": 2,
+          "draw": 3,
           "lose": 4,
           "goals": {
-            "for": 23,
-            "against": 18
+            "for": 25,
+            "against": 20
           },
-          "form": "DLWWL",
-          "btts_matches": 10,
-          "avg_corners_per_game": 5.79,
-          "aproveitamento": 61.9,
-          "over_2_5_goals": 8,
-          "over_0_5_ht": 8,
-          "over_0_5_ft": 10,
+          "form": "LWWLD",
+          "btts_matches": 11,
+          "avg_corners_per_game": 5.8,
+          "aproveitamento": 60.0,
+          "over_2_5_goals": 9,
+          "over_0_5_ht": 9,
+          "over_0_5_ft": 11,
           "clean_sheets": 3
         },
         "home": {
-          "played": 7,
+          "played": 8,
           "win": 6,
-          "draw": 0,
+          "draw": 1,
           "lose": 1,
           "goals": {
-            "for": 13,
-            "against": 7
+            "for": 15,
+            "against": 9
           },
-          "form_home": "WWWLW",
-          "avg_corners_home_per_game": 5.71,
-          "aproveitamento_home": 85.7,
-          "btts_home_matches": 5,
-          "over_2_5_goals_home": 5,
-          "over_0_5_ht_home": 3,
-          "over_0_5_ft_home": 6,
+          "form_home": "WWLWD",
+          "avg_corners_home_per_game": 5.75,
+          "aproveitamento_home": 79.2,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 7,
           "clean_sheets_home": 2
         },
         "away": {
@@ -552,27 +552,27 @@
           "name": "EC Vitória",
           "logo": "https://cdn.footystats.org/img/teams/brazil-ec-vitoria.png"
         },
-        "points": 18,
+        "points": 19,
         "goalsDiff": -2,
         "group": "Brazil Serie A 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 13,
+          "played": 14,
           "win": 5,
-          "draw": 3,
+          "draw": 4,
           "lose": 5,
           "goals": {
-            "for": 16,
-            "against": 18
+            "for": 18,
+            "against": 20
           },
-          "form": "DWDLW",
-          "btts_matches": 6,
-          "avg_corners_per_game": 3.77,
-          "aproveitamento": 46.2,
-          "over_2_5_goals": 5,
+          "form": "WDLWD",
+          "btts_matches": 7,
+          "avg_corners_per_game": 3.71,
+          "aproveitamento": 45.2,
+          "over_2_5_goals": 6,
           "over_0_5_ht": 6,
-          "over_0_5_ft": 7,
+          "over_0_5_ft": 8,
           "clean_sheets": 5
         },
         "home": {
@@ -594,21 +594,21 @@
           "clean_sheets_home": 5
         },
         "away": {
-          "played": 6,
+          "played": 7,
           "win": 0,
-          "draw": 2,
+          "draw": 3,
           "lose": 4,
           "goals": {
-            "for": 4,
-            "against": 15
+            "for": 6,
+            "against": 17
           },
-          "form_visitor": "DLLDL",
-          "btts_away_matches": 4,
-          "avg_corners_away_per_game": 3.83,
-          "aproveitamento_away": 11.1,
-          "over_2_5_goals_away": 3,
+          "form_visitor": "LLDLD",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 3.71,
+          "aproveitamento_away": 14.3,
+          "over_2_5_goals_away": 4,
           "over_0_5_ht_away": 2,
-          "over_0_5_ft_away": 2,
+          "over_0_5_ft_away": 3,
           "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1393,6 +1393,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-danilo-oliveira.png"
       },
       {
+        "jogador-nome": "John Kennedy Batista de Souza",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 7,
+        "jogador-assists": 1,
+        "jogador-partidas": 14,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-fluminense-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-john-kennedy.png"
+      },
+      {
         "jogador-nome": "Carlos Vinícius Alves Morais",
         "jogador-posicao": "Forward",
         "jogador-gols": 7,
@@ -1418,15 +1427,6 @@
         "jogador-partidas": 13,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-sao-paulo-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/argentina-jonathan-calleri.png"
-      },
-      {
-        "jogador-nome": "John Kennedy Batista de Souza",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 6,
-        "jogador-assists": 0,
-        "jogador-partidas": 13,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-fluminense-fc.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-john-kennedy.png"
       },
       {
         "jogador-nome": "José Manuel López",
@@ -1541,7 +1541,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 3,
         "jogador-assists": 3,
-        "jogador-partidas": 10,
+        "jogador-partidas": 11,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-fluminense-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/argentina-luciano-acosta.png"
       }
