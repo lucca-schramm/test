@@ -276,6 +276,74 @@
       {
         "rank": 5,
         "team": {
+          "id": 691,
+          "name": "Criciuma EC",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-criciuma-ec.png"
+        },
+        "points": 12,
+        "goalsDiff": 2,
+        "group": "Brazil Serie B 2026",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 8,
+          "win": 3,
+          "draw": 3,
+          "lose": 2,
+          "goals": {
+            "for": 9,
+            "against": 7
+          },
+          "form": "WLWDD",
+          "btts_matches": 4,
+          "avg_corners_per_game": 7.0,
+          "aproveitamento": 50.0,
+          "over_2_5_goals": 2,
+          "over_0_5_ht": 3,
+          "over_0_5_ft": 5,
+          "clean_sheets": 3
+        },
+        "home": {
+          "played": 3,
+          "win": 2,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 5,
+            "against": 2
+          },
+          "form_home": "DWW",
+          "avg_corners_home_per_game": 9.0,
+          "aproveitamento_home": 77.8,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 5,
+          "win": 1,
+          "draw": 2,
+          "lose": 2,
+          "goals": {
+            "for": 4,
+            "against": 5
+          },
+          "form_visitor": "WLLDD",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 5.8,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 6,
+        "team": {
           "id": 2662,
           "name": "Operário Ferroviário EC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-operario-ferroviario-ec.png"
@@ -342,120 +410,52 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 6,
-        "team": {
-          "id": 691,
-          "name": "Criciuma EC",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-criciuma-ec.png"
-        },
-        "points": 11,
-        "goalsDiff": 2,
-        "group": "Brazil Serie B 2026",
-        "status": "same",
-        "description": "Copa Sul-Americana",
-        "all": {
-          "played": 7,
-          "win": 3,
-          "draw": 2,
-          "lose": 2,
-          "goals": {
-            "for": 9,
-            "against": 7
-          },
-          "form": "LWLWD",
-          "btts_matches": 4,
-          "avg_corners_per_game": 6.71,
-          "aproveitamento": 52.4,
-          "over_2_5_goals": 2,
-          "over_0_5_ht": 3,
-          "over_0_5_ft": 5,
-          "clean_sheets": 2
-        },
-        "home": {
-          "played": 3,
-          "win": 2,
-          "draw": 1,
-          "lose": 0,
-          "goals": {
-            "for": 5,
-            "against": 2
-          },
-          "form_home": "DWW",
-          "avg_corners_home_per_game": 9.0,
-          "aproveitamento_home": 77.8,
-          "btts_home_matches": 2,
-          "over_2_5_goals_home": 1,
-          "over_0_5_ht_home": 1,
-          "over_0_5_ft_home": 3,
-          "clean_sheets_home": 1
-        },
-        "away": {
-          "played": 4,
-          "win": 1,
-          "draw": 1,
-          "lose": 2,
-          "goals": {
-            "for": 4,
-            "against": 5
-          },
-          "form_visitor": "WLLD",
-          "btts_away_matches": 2,
-          "avg_corners_away_per_game": 5.0,
-          "aproveitamento_away": 33.3,
-          "over_2_5_goals_away": 1,
-          "over_0_5_ht_away": 2,
-          "over_0_5_ft_away": 2,
-          "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
         "rank": 7,
         "team": {
           "id": 1053,
           "name": "EC Juventude",
           "logo": "https://cdn.footystats.org/img/teams/brazil-ec-juventude.png"
         },
-        "points": 11,
+        "points": 12,
         "goalsDiff": 1,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 7,
+          "played": 8,
           "win": 3,
-          "draw": 2,
+          "draw": 3,
           "lose": 2,
           "goals": {
             "for": 5,
             "against": 4
           },
-          "form": "LWWWD",
+          "form": "WWWDD",
           "btts_matches": 1,
-          "avg_corners_per_game": 3.0,
-          "aproveitamento": 52.4,
+          "avg_corners_per_game": 3.5,
+          "aproveitamento": 50.0,
           "over_2_5_goals": 1,
           "over_0_5_ht": 3,
           "over_0_5_ft": 2,
-          "clean_sheets": 5
+          "clean_sheets": 6
         },
         "home": {
-          "played": 3,
+          "played": 4,
           "win": 2,
-          "draw": 1,
+          "draw": 2,
           "lose": 0,
           "goals": {
             "for": 3,
             "against": 0
           },
-          "form_home": "DWW",
-          "avg_corners_home_per_game": 4.33,
-          "aproveitamento_home": 77.8,
+          "form_home": "DWWD",
+          "avg_corners_home_per_game": 5.0,
+          "aproveitamento_home": 66.7,
           "btts_home_matches": 0,
           "over_2_5_goals_home": 0,
           "over_0_5_ht_home": 2,
           "over_0_5_ft_home": 1,
-          "clean_sheets_home": 3
+          "clean_sheets_home": 4
         },
         "away": {
           "played": 4,
@@ -1496,7 +1496,7 @@
         "jogador-posicao": "Defender",
         "jogador-gols": 3,
         "jogador-assists": 0,
-        "jogador-partidas": 6,
+        "jogador-partidas": 7,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-criciuma-ec.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-bruno-fabiano-alves.png"
       },
@@ -1532,7 +1532,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 2,
         "jogador-assists": 1,
-        "jogador-partidas": 7,
+        "jogador-partidas": 8,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ec-juventude.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-alan-kardec-de-souza-pereira-junior.png"
       },
