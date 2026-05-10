@@ -8,26 +8,26 @@
           "name": "SE Palmeiras",
           "logo": "https://cdn.footystats.org/img/teams/brazil-se-palmeiras.png"
         },
-        "points": 33,
+        "points": 34,
         "goalsDiff": 13,
         "group": "Brazil Serie A 2026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 14,
+          "played": 15,
           "win": 10,
-          "draw": 3,
+          "draw": 4,
           "lose": 1,
           "goals": {
-            "for": 24,
-            "against": 11
+            "for": 25,
+            "against": 12
           },
-          "form": "WDWWD",
-          "btts_matches": 9,
-          "avg_corners_per_game": 5.57,
-          "aproveitamento": 78.6,
+          "form": "DWWDD",
+          "btts_matches": 10,
+          "avg_corners_per_game": 6.33,
+          "aproveitamento": 75.6,
           "over_2_5_goals": 8,
-          "over_0_5_ht": 12,
+          "over_0_5_ht": 13,
           "over_0_5_ft": 7,
           "clean_sheets": 5
         },
@@ -50,20 +50,20 @@
           "clean_sheets_home": 2
         },
         "away": {
-          "played": 7,
+          "played": 8,
           "win": 4,
-          "draw": 2,
+          "draw": 3,
           "lose": 1,
           "goals": {
-            "for": 10,
-            "against": 6
+            "for": 11,
+            "against": 7
           },
-          "form_visitor": "LWWDW",
-          "btts_away_matches": 4,
-          "avg_corners_away_per_game": 4.71,
-          "aproveitamento_away": 66.7,
+          "form_visitor": "WWDWD",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 6.25,
+          "aproveitamento_away": 62.5,
           "over_2_5_goals_away": 4,
-          "over_0_5_ht_away": 6,
+          "over_0_5_ht_away": 7,
           "over_0_5_ft_away": 3,
           "clean_sheets_away": 3
         },
@@ -1232,44 +1232,44 @@
           "name": "Clube do Remo",
           "logo": "https://cdn.footystats.org/img/teams/brazil-clube-do-remo.png"
         },
-        "points": 11,
+        "points": 12,
         "goalsDiff": -9,
         "group": "Brazil Serie A 2026",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 14,
+          "played": 15,
           "win": 2,
-          "draw": 5,
+          "draw": 6,
           "lose": 7,
           "goals": {
-            "for": 15,
-            "against": 24
+            "for": 16,
+            "against": 25
           },
-          "form": "DDLLW",
-          "btts_matches": 7,
-          "avg_corners_per_game": 4.07,
-          "aproveitamento": 26.2,
+          "form": "DLLWD",
+          "btts_matches": 8,
+          "avg_corners_per_game": 4.13,
+          "aproveitamento": 26.7,
           "over_2_5_goals": 6,
-          "over_0_5_ht": 5,
+          "over_0_5_ht": 6,
           "over_0_5_ft": 4,
           "clean_sheets": 1
         },
         "home": {
-          "played": 6,
+          "played": 7,
           "win": 1,
-          "draw": 3,
+          "draw": 4,
           "lose": 2,
           "goals": {
-            "for": 8,
-            "against": 8
+            "for": 9,
+            "against": 9
           },
-          "form_home": "DLWDL",
-          "avg_corners_home_per_game": 4.83,
+          "form_home": "LWDLD",
+          "avg_corners_home_per_game": 4.86,
           "aproveitamento_home": 33.3,
-          "btts_home_matches": 4,
+          "btts_home_matches": 5,
           "over_2_5_goals_home": 2,
-          "over_0_5_ht_home": 3,
+          "over_0_5_ht_home": 4,
           "over_0_5_ft_home": 2,
           "clean_sheets_home": 0
         },
@@ -1433,7 +1433,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 5,
         "jogador-assists": 3,
-        "jogador-partidas": 14,
+        "jogador-partidas": 15,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-se-palmeiras.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/argentina-jose-manuel-lopez.png"
       },
@@ -1463,6 +1463,15 @@
         "jogador-partidas": 12,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-coritiba-fbc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-breno-lopes.png"
+      },
+      {
+        "jogador-nome": "Alef Mangueira Severino Pereira",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 4,
+        "jogador-assists": 3,
+        "jogador-partidas": 15,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-clube-do-remo.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-alef-mangueira-severino-pereira.png"
       },
       {
         "jogador-nome": "Gabriel Barbosa Almeida",
@@ -1535,15 +1544,6 @@
         "jogador-partidas": 14,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-coritiba-fbc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/uruguay-joaquin-lavega-colzada.png"
-      },
-      {
-        "jogador-nome": "Aldemir dos Santos Ferreira",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 4,
-        "jogador-assists": 0,
-        "jogador-partidas": 9,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-sao-paulo-fc.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-aldemir-dos-santos-ferreira.png"
       }
     ]
   }
