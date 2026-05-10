@@ -76,28 +76,28 @@
           "name": "Fortaleza EC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-fortaleza-ec.png"
         },
-        "points": 14,
+        "points": 15,
         "goalsDiff": 2,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 7,
+          "played": 8,
           "win": 4,
-          "draw": 2,
+          "draw": 3,
           "lose": 1,
           "goals": {
             "for": 10,
             "against": 8
           },
-          "form": "WWWDW",
+          "form": "WWDWD",
           "btts_matches": 3,
-          "avg_corners_per_game": 4.86,
-          "aproveitamento": 66.7,
+          "avg_corners_per_game": 4.75,
+          "aproveitamento": 62.5,
           "over_2_5_goals": 4,
           "over_0_5_ht": 2,
           "over_0_5_ft": 3,
-          "clean_sheets": 3
+          "clean_sheets": 4
         },
         "home": {
           "played": 4,
@@ -118,22 +118,22 @@
           "clean_sheets_home": 1
         },
         "away": {
-          "played": 3,
+          "played": 4,
           "win": 1,
-          "draw": 1,
+          "draw": 2,
           "lose": 1,
           "goals": {
             "for": 1,
             "against": 4
           },
-          "form_visitor": "LWD",
+          "form_visitor": "LWDD",
           "btts_away_matches": 0,
-          "avg_corners_away_per_game": 6.0,
-          "aproveitamento_away": 44.4,
+          "avg_corners_away_per_game": 5.5,
+          "aproveitamento_away": 41.7,
           "over_2_5_goals_away": 1,
           "over_0_5_ht_away": 0,
           "over_0_5_ft_away": 1,
-          "clean_sheets_away": 2
+          "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -684,6 +684,74 @@
       {
         "rank": 11,
         "team": {
+          "id": 621,
+          "name": "Avai FC",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-avai-fc.png"
+        },
+        "points": 10,
+        "goalsDiff": 1,
+        "group": "Brazil Serie B 2026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 8,
+          "win": 2,
+          "draw": 4,
+          "lose": 2,
+          "goals": {
+            "for": 10,
+            "against": 9
+          },
+          "form": "DLLDD",
+          "btts_matches": 4,
+          "avg_corners_per_game": 5.12,
+          "aproveitamento": 41.7,
+          "over_2_5_goals": 4,
+          "over_0_5_ht": 4,
+          "over_0_5_ft": 5,
+          "clean_sheets": 4
+        },
+        "home": {
+          "played": 5,
+          "win": 1,
+          "draw": 3,
+          "lose": 1,
+          "goals": {
+            "for": 6,
+            "against": 5
+          },
+          "form_home": "WDLDD",
+          "avg_corners_home_per_game": 5.4,
+          "aproveitamento_home": 40.0,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 2,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 3,
+          "win": 1,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 4,
+            "against": 4
+          },
+          "form_visitor": "WDL",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 4.67,
+          "aproveitamento_away": 44.4,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 12,
+        "team": {
           "id": 677199,
           "name": "Athletic Club (Minas Gerais)",
           "logo": "https://cdn.footystats.org/img/teams/brazil-athletic-club-minas-gerais.png"
@@ -750,7 +818,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "team": {
           "id": 642,
           "name": "Ceará SC",
@@ -818,7 +886,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "team": {
           "id": 2598,
           "name": "Botafogo FC Ribeirão Preto",
@@ -886,7 +954,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 14,
+        "rank": 15,
         "team": {
           "id": 2712,
           "name": "Grêmio Novorizontino",
@@ -950,74 +1018,6 @@
           "over_0_5_ht_away": 0,
           "over_0_5_ft_away": 2,
           "clean_sheets_away": 2
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 15,
-        "team": {
-          "id": 621,
-          "name": "Avai FC",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-avai-fc.png"
-        },
-        "points": 9,
-        "goalsDiff": 1,
-        "group": "Brazil Serie B 2026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 7,
-          "win": 2,
-          "draw": 3,
-          "lose": 2,
-          "goals": {
-            "for": 10,
-            "against": 9
-          },
-          "form": "DDLLD",
-          "btts_matches": 4,
-          "avg_corners_per_game": 5.14,
-          "aproveitamento": 42.9,
-          "over_2_5_goals": 4,
-          "over_0_5_ht": 4,
-          "over_0_5_ft": 5,
-          "clean_sheets": 3
-        },
-        "home": {
-          "played": 4,
-          "win": 1,
-          "draw": 2,
-          "lose": 1,
-          "goals": {
-            "for": 6,
-            "against": 5
-          },
-          "form_home": "WDLD",
-          "avg_corners_home_per_game": 5.5,
-          "aproveitamento_home": 41.7,
-          "btts_home_matches": 2,
-          "over_2_5_goals_home": 2,
-          "over_0_5_ht_home": 3,
-          "over_0_5_ft_home": 2,
-          "clean_sheets_home": 2
-        },
-        "away": {
-          "played": 3,
-          "win": 1,
-          "draw": 1,
-          "lose": 1,
-          "goals": {
-            "for": 4,
-            "against": 4
-          },
-          "form_visitor": "WDL",
-          "btts_away_matches": 2,
-          "avg_corners_away_per_game": 4.67,
-          "aproveitamento_away": 44.4,
-          "over_2_5_goals_away": 2,
-          "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 3,
-          "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
