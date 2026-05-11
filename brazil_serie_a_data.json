@@ -281,23 +281,23 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-ca-paranaense.png"
         },
         "points": 23,
-        "goalsDiff": 5,
+        "goalsDiff": 4,
         "group": "Brazil Serie A 2026",
         "status": "same",
         "description": "Copa Sul-Americana",
         "all": {
-          "played": 14,
+          "played": 15,
           "win": 7,
           "draw": 2,
-          "lose": 5,
+          "lose": 6,
           "goals": {
             "for": 20,
-            "against": 15
+            "against": 16
           },
-          "form": "LWLWD",
+          "form": "WLWDL",
           "btts_matches": 7,
-          "avg_corners_per_game": 4.64,
-          "aproveitamento": 54.8,
+          "avg_corners_per_game": 4.53,
+          "aproveitamento": 51.1,
           "over_2_5_goals": 7,
           "over_0_5_ht": 7,
           "over_0_5_ft": 8,
@@ -322,18 +322,18 @@
           "clean_sheets_home": 3
         },
         "away": {
-          "played": 6,
+          "played": 7,
           "win": 1,
           "draw": 1,
-          "lose": 4,
+          "lose": 5,
           "goals": {
             "for": 5,
-            "against": 10
+            "against": 11
           },
-          "form_visitor": "DLLLL",
+          "form_visitor": "LLLLL",
           "btts_away_matches": 3,
-          "avg_corners_away_per_game": 3.5,
-          "aproveitamento_away": 22.2,
+          "avg_corners_away_per_game": 3.43,
+          "aproveitamento_away": 19.0,
           "over_2_5_goals_away": 3,
           "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 3,
@@ -480,6 +480,74 @@
       {
         "rank": 8,
         "team": {
+          "id": 625,
+          "name": "CR Vasco da Gama",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-cr-vasco-da-gama.png"
+        },
+        "points": 20,
+        "goalsDiff": 0,
+        "group": "Brazil Serie A 2026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 15,
+          "win": 5,
+          "draw": 5,
+          "lose": 5,
+          "goals": {
+            "for": 21,
+            "against": 21
+          },
+          "form": "DWLDW",
+          "btts_matches": 12,
+          "avg_corners_per_game": 5.53,
+          "aproveitamento": 44.4,
+          "over_2_5_goals": 9,
+          "over_0_5_ht": 5,
+          "over_0_5_ft": 8,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 8,
+          "win": 5,
+          "draw": 1,
+          "lose": 2,
+          "goals": {
+            "for": 12,
+            "against": 9
+          },
+          "form_home": "WWLWW",
+          "avg_corners_home_per_game": 6.12,
+          "aproveitamento_home": 66.7,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 5,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 7,
+          "win": 0,
+          "draw": 4,
+          "lose": 3,
+          "goals": {
+            "for": 9,
+            "against": 12
+          },
+          "form_visitor": "DDDLD",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 4.86,
+          "aproveitamento_away": 19.0,
+          "over_2_5_goals_away": 4,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 9,
+        "team": {
           "id": 627,
           "name": "Coritiba FBC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-coritiba-fbc.png"
@@ -546,7 +614,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "team": {
           "id": 610,
           "name": "EC Vitória",
@@ -614,7 +682,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "team": {
           "id": 613,
           "name": "Cruzeiro EC",
@@ -682,7 +750,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 11,
+        "rank": 12,
         "team": {
           "id": 615,
           "name": "Botafogo FR",
@@ -750,7 +818,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "team": {
           "id": 620,
           "name": "CA Mineiro",
@@ -818,7 +886,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "team": {
           "id": 630,
           "name": "SC Internacional",
@@ -886,7 +954,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 14,
+        "rank": 15,
         "team": {
           "id": 611,
           "name": "Santos FC Sao Paulo",
@@ -954,7 +1022,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 15,
+        "rank": 16,
         "team": {
           "id": 624,
           "name": "SC Corinthians Paulista",
@@ -1018,74 +1086,6 @@
           "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 3,
           "clean_sheets_away": 3
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 16,
-        "team": {
-          "id": 625,
-          "name": "CR Vasco da Gama",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-cr-vasco-da-gama.png"
-        },
-        "points": 17,
-        "goalsDiff": -1,
-        "group": "Brazil Serie A 2026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 14,
-          "win": 4,
-          "draw": 5,
-          "lose": 5,
-          "goals": {
-            "for": 20,
-            "against": 21
-          },
-          "form": "LDWLD",
-          "btts_matches": 12,
-          "avg_corners_per_game": 5.64,
-          "aproveitamento": 40.5,
-          "over_2_5_goals": 9,
-          "over_0_5_ht": 4,
-          "over_0_5_ft": 8,
-          "clean_sheets": 0
-        },
-        "home": {
-          "played": 7,
-          "win": 4,
-          "draw": 1,
-          "lose": 2,
-          "goals": {
-            "for": 11,
-            "against": 9
-          },
-          "form_home": "WWWLW",
-          "avg_corners_home_per_game": 6.43,
-          "aproveitamento_home": 61.9,
-          "btts_home_matches": 6,
-          "over_2_5_goals_home": 5,
-          "over_0_5_ht_home": 1,
-          "over_0_5_ft_home": 5,
-          "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 7,
-          "win": 0,
-          "draw": 4,
-          "lose": 3,
-          "goals": {
-            "for": 9,
-            "against": 12
-          },
-          "form_visitor": "DDDLD",
-          "btts_away_matches": 6,
-          "avg_corners_away_per_game": 4.86,
-          "aproveitamento_away": 19.0,
-          "over_2_5_goals_away": 4,
-          "over_0_5_ht_away": 3,
-          "over_0_5_ft_away": 3,
-          "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1532,7 +1532,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 4,
         "jogador-assists": 0,
-        "jogador-partidas": 14,
+        "jogador-partidas": 15,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ca-paranaense.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/colombia-john-stiven-mendoza-valencia.png"
       },
