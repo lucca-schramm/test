@@ -820,6 +820,74 @@
       {
         "rank": 13,
         "team": {
+          "id": 5125,
+          "name": "Al Kholood Club",
+          "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-kholood-club.png"
+        },
+        "points": 32,
+        "goalsDiff": -19,
+        "group": "Saudi Arabia Professional League 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 32,
+          "win": 9,
+          "draw": 5,
+          "lose": 18,
+          "goals": {
+            "for": 39,
+            "against": 58
+          },
+          "form": "LWDDD",
+          "btts_matches": 17,
+          "avg_corners_per_game": 4.06,
+          "aproveitamento": 33.3,
+          "over_2_5_goals": 21,
+          "over_0_5_ht": 16,
+          "over_0_5_ft": 9,
+          "clean_sheets": 5
+        },
+        "home": {
+          "played": 16,
+          "win": 3,
+          "draw": 3,
+          "lose": 10,
+          "goals": {
+            "for": 17,
+            "against": 31
+          },
+          "form_home": "LLDDD",
+          "avg_corners_home_per_game": 4.19,
+          "aproveitamento_home": 25.0,
+          "btts_home_matches": 9,
+          "over_2_5_goals_home": 10,
+          "over_0_5_ht_home": 9,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 16,
+          "win": 6,
+          "draw": 2,
+          "lose": 8,
+          "goals": {
+            "for": 22,
+            "against": 27
+          },
+          "form_visitor": "WLLWD",
+          "btts_away_matches": 8,
+          "avg_corners_away_per_game": 3.94,
+          "aproveitamento_away": 41.7,
+          "over_2_5_goals_away": 11,
+          "over_0_5_ht_away": 7,
+          "over_0_5_ft_away": 5,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 14,
+        "team": {
           "id": 5067,
           "name": "Al Shabab FC Riyadh",
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-shabab-fc-riyadh.png"
@@ -881,74 +949,6 @@
           "over_2_5_goals_away": 5,
           "over_0_5_ht_away": 5,
           "over_0_5_ft_away": 7,
-          "clean_sheets_away": 3
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 14,
-        "team": {
-          "id": 5125,
-          "name": "Al Kholood Club",
-          "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-kholood-club.png"
-        },
-        "points": 31,
-        "goalsDiff": -19,
-        "group": "Saudi Arabia Professional League 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 31,
-          "win": 9,
-          "draw": 4,
-          "lose": 18,
-          "goals": {
-            "for": 39,
-            "against": 58
-          },
-          "form": "DLWDD",
-          "btts_matches": 17,
-          "avg_corners_per_game": 4.06,
-          "aproveitamento": 33.3,
-          "over_2_5_goals": 21,
-          "over_0_5_ht": 16,
-          "over_0_5_ft": 9,
-          "clean_sheets": 4
-        },
-        "home": {
-          "played": 15,
-          "win": 3,
-          "draw": 2,
-          "lose": 10,
-          "goals": {
-            "for": 17,
-            "against": 31
-          },
-          "form_home": "WLLDD",
-          "avg_corners_home_per_game": 4.2,
-          "aproveitamento_home": 24.4,
-          "btts_home_matches": 9,
-          "over_2_5_goals_home": 10,
-          "over_0_5_ht_home": 9,
-          "over_0_5_ft_home": 4,
-          "clean_sheets_home": 1
-        },
-        "away": {
-          "played": 16,
-          "win": 6,
-          "draw": 2,
-          "lose": 8,
-          "goals": {
-            "for": 22,
-            "against": 27
-          },
-          "form_visitor": "WLLWD",
-          "btts_away_matches": 8,
-          "avg_corners_away_per_game": 3.94,
-          "aproveitamento_away": 41.7,
-          "over_2_5_goals_away": 11,
-          "over_0_5_ht_away": 7,
-          "over_0_5_ft_away": 5,
           "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1096,28 +1096,28 @@
           "name": "Al Akhdoud",
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-akhdoud.png"
         },
-        "points": 16,
+        "points": 17,
         "goalsDiff": -44,
         "group": "Saudi Arabia Professional League 20252026",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 31,
+          "played": 32,
           "win": 4,
-          "draw": 4,
+          "draw": 5,
           "lose": 23,
           "goals": {
             "for": 24,
             "against": 68
           },
-          "form": "WLLLL",
+          "form": "LLLLD",
           "btts_matches": 15,
-          "avg_corners_per_game": 3.74,
-          "aproveitamento": 17.2,
+          "avg_corners_per_game": 3.78,
+          "aproveitamento": 17.7,
           "over_2_5_goals": 17,
           "over_0_5_ht": 11,
           "over_0_5_ft": 11,
-          "clean_sheets": 3
+          "clean_sheets": 4
         },
         "home": {
           "played": 16,
@@ -1138,22 +1138,22 @@
           "clean_sheets_home": 2
         },
         "away": {
-          "played": 15,
+          "played": 16,
           "win": 1,
-          "draw": 1,
+          "draw": 2,
           "lose": 13,
           "goals": {
             "for": 8,
             "against": 31
           },
-          "form_visitor": "LWLLL",
+          "form_visitor": "WLLLD",
           "btts_away_matches": 6,
-          "avg_corners_away_per_game": 3.27,
-          "aproveitamento_away": 8.9,
+          "avg_corners_away_per_game": 3.38,
+          "aproveitamento_away": 10.4,
           "over_2_5_goals_away": 8,
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 4,
-          "clean_sheets_away": 1
+          "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1324,7 +1324,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 15,
         "jogador-assists": 0,
-        "jogador-partidas": 26,
+        "jogador-partidas": 27,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-kholood-club.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/argentina-ramiro-enrique-paz.png"
       },
