@@ -4,6 +4,74 @@
       {
         "rank": 1,
         "team": {
+          "id": 629,
+          "name": "AC Goianiense",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-ac-goianiense.png"
+        },
+        "points": 11,
+        "goalsDiff": 3,
+        "group": "Brazil Copa do Brasil 2026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 5,
+          "win": 3,
+          "draw": 2,
+          "lose": 0,
+          "goals": {
+            "for": 3,
+            "against": 0
+          },
+          "form": "WWWDD",
+          "btts_matches": 0,
+          "avg_corners_per_game": 4.0,
+          "aproveitamento": 73.3,
+          "over_2_5_goals": 0,
+          "over_0_5_ht": 2,
+          "over_0_5_ft": 1,
+          "clean_sheets": 5
+        },
+        "home": {
+          "played": 3,
+          "win": 2,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 2,
+            "against": 0
+          },
+          "form_home": "WWD",
+          "avg_corners_home_per_game": 5.33,
+          "aproveitamento_home": 77.8,
+          "btts_home_matches": 0,
+          "over_2_5_goals_home": 0,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 2,
+          "win": 1,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 1,
+            "against": 0
+          },
+          "form_visitor": "WD",
+          "btts_away_matches": 0,
+          "avg_corners_away_per_game": 2.0,
+          "aproveitamento_away": 66.7,
+          "over_2_5_goals_away": 0,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 2,
+        "team": {
           "id": 1053,
           "name": "EC Juventude",
           "logo": "https://cdn.footystats.org/img/teams/brazil-ec-juventude.png"
@@ -66,74 +134,6 @@
           "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 0,
           "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 2,
-        "team": {
-          "id": 629,
-          "name": "AC Goianiense",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-ac-goianiense.png"
-        },
-        "points": 10,
-        "goalsDiff": 3,
-        "group": "Brazil Copa do Brasil 2026",
-        "status": "same",
-        "description": "Copa Libertadores",
-        "all": {
-          "played": 4,
-          "win": 3,
-          "draw": 1,
-          "lose": 0,
-          "goals": {
-            "for": 3,
-            "against": 0
-          },
-          "form": "WWWD",
-          "btts_matches": 0,
-          "avg_corners_per_game": 4.0,
-          "aproveitamento": 83.3,
-          "over_2_5_goals": 0,
-          "over_0_5_ht": 2,
-          "over_0_5_ft": 1,
-          "clean_sheets": 4
-        },
-        "home": {
-          "played": 2,
-          "win": 2,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 2,
-            "against": 0
-          },
-          "form_home": "WW",
-          "avg_corners_home_per_game": 6.0,
-          "aproveitamento_home": 100.0,
-          "btts_home_matches": 0,
-          "over_2_5_goals_home": 0,
-          "over_0_5_ht_home": 1,
-          "over_0_5_ft_home": 1,
-          "clean_sheets_home": 2
-        },
-        "away": {
-          "played": 2,
-          "win": 1,
-          "draw": 1,
-          "lose": 0,
-          "goals": {
-            "for": 1,
-            "against": 0
-          },
-          "form_visitor": "WD",
-          "btts_away_matches": 0,
-          "avg_corners_away_per_game": 2.0,
-          "aproveitamento_away": 66.7,
-          "over_2_5_goals_away": 0,
-          "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 0,
-          "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
