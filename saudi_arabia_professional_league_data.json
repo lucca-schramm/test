@@ -621,24 +621,24 @@
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-feiha.png"
         },
         "points": 38,
-        "goalsDiff": -9,
+        "goalsDiff": -12,
         "group": "Saudi Arabia Professional League 20252026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 32,
+          "played": 33,
           "win": 10,
           "draw": 8,
-          "lose": 14,
+          "lose": 15,
           "goals": {
             "for": 41,
-            "against": 50
+            "against": 53
           },
-          "form": "DLDWL",
+          "form": "LDWLL",
           "btts_matches": 18,
-          "avg_corners_per_game": 4.53,
-          "aproveitamento": 39.6,
-          "over_2_5_goals": 17,
+          "avg_corners_per_game": 4.58,
+          "aproveitamento": 38.4,
+          "over_2_5_goals": 18,
           "over_0_5_ht": 14,
           "over_0_5_ft": 13,
           "clean_sheets": 7
@@ -662,19 +662,19 @@
           "clean_sheets_home": 6
         },
         "away": {
-          "played": 16,
+          "played": 17,
           "win": 4,
           "draw": 2,
-          "lose": 10,
+          "lose": 11,
           "goals": {
             "for": 19,
-            "against": 31
+            "against": 34
           },
-          "form_visitor": "WWLLD",
+          "form_visitor": "WLLDL",
           "btts_away_matches": 9,
-          "avg_corners_away_per_game": 4.69,
-          "aproveitamento_away": 29.2,
-          "over_2_5_goals_away": 10,
+          "avg_corners_away_per_game": 4.76,
+          "aproveitamento_away": 27.5,
+          "over_2_5_goals_away": 11,
           "over_0_5_ht_away": 7,
           "over_0_5_ft_away": 5,
           "clean_sheets_away": 1
@@ -956,6 +956,74 @@
       {
         "rank": 15,
         "team": {
+          "id": 5083,
+          "name": "Dhamk Club",
+          "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-dhamk-club.png"
+        },
+        "points": 29,
+        "goalsDiff": -20,
+        "group": "Saudi Arabia Professional League 20252026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 33,
+          "win": 6,
+          "draw": 11,
+          "lose": 16,
+          "goals": {
+            "for": 31,
+            "against": 51
+          },
+          "form": "WLLLW",
+          "btts_matches": 19,
+          "avg_corners_per_game": 4.15,
+          "aproveitamento": 29.3,
+          "over_2_5_goals": 15,
+          "over_0_5_ht": 15,
+          "over_0_5_ft": 12,
+          "clean_sheets": 6
+        },
+        "home": {
+          "played": 17,
+          "win": 4,
+          "draw": 6,
+          "lose": 7,
+          "goals": {
+            "for": 18,
+            "against": 20
+          },
+          "form_home": "WDWLW",
+          "avg_corners_home_per_game": 4.76,
+          "aproveitamento_home": 35.3,
+          "btts_home_matches": 9,
+          "over_2_5_goals_home": 7,
+          "over_0_5_ht_home": 8,
+          "over_0_5_ft_home": 8,
+          "clean_sheets_home": 5
+        },
+        "away": {
+          "played": 16,
+          "win": 2,
+          "draw": 5,
+          "lose": 9,
+          "goals": {
+            "for": 13,
+            "against": 31
+          },
+          "form_visitor": "DWLLL",
+          "btts_away_matches": 10,
+          "avg_corners_away_per_game": 3.5,
+          "aproveitamento_away": 22.9,
+          "over_2_5_goals_away": 8,
+          "over_0_5_ht_away": 7,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 16,
+        "team": {
           "id": 5088,
           "name": "Al Riyadh SC",
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-riyadh-sc.png"
@@ -1017,74 +1085,6 @@
           "over_2_5_goals_away": 11,
           "over_0_5_ht_away": 6,
           "over_0_5_ft_away": 8,
-          "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 16,
-        "team": {
-          "id": 5083,
-          "name": "Dhamk Club",
-          "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-dhamk-club.png"
-        },
-        "points": 26,
-        "goalsDiff": -23,
-        "group": "Saudi Arabia Professional League 20252026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 32,
-          "win": 5,
-          "draw": 11,
-          "lose": 16,
-          "goals": {
-            "for": 28,
-            "against": 51
-          },
-          "form": "DWLLL",
-          "btts_matches": 19,
-          "avg_corners_per_game": 4.06,
-          "aproveitamento": 27.1,
-          "over_2_5_goals": 14,
-          "over_0_5_ht": 14,
-          "over_0_5_ft": 11,
-          "clean_sheets": 5
-        },
-        "home": {
-          "played": 16,
-          "win": 3,
-          "draw": 6,
-          "lose": 7,
-          "goals": {
-            "for": 15,
-            "against": 20
-          },
-          "form_home": "LWDWL",
-          "avg_corners_home_per_game": 4.62,
-          "aproveitamento_home": 31.2,
-          "btts_home_matches": 9,
-          "over_2_5_goals_home": 6,
-          "over_0_5_ht_home": 7,
-          "over_0_5_ft_home": 7,
-          "clean_sheets_home": 4
-        },
-        "away": {
-          "played": 16,
-          "win": 2,
-          "draw": 5,
-          "lose": 9,
-          "goals": {
-            "for": 13,
-            "against": 31
-          },
-          "form_visitor": "DWLLL",
-          "btts_away_matches": 10,
-          "avg_corners_away_per_game": 3.5,
-          "aproveitamento_away": 22.9,
-          "over_2_5_goals_away": 8,
-          "over_0_5_ht_away": 7,
-          "over_0_5_ft_away": 4,
           "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
