@@ -276,6 +276,74 @@
       {
         "rank": 5,
         "team": {
+          "id": 1056,
+          "name": "Goiás EC",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-goias-ec.png"
+        },
+        "points": 13,
+        "goalsDiff": -3,
+        "group": "Brazil Serie B 2026",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 9,
+          "win": 4,
+          "draw": 1,
+          "lose": 4,
+          "goals": {
+            "for": 9,
+            "against": 12
+          },
+          "form": "LLLWW",
+          "btts_matches": 3,
+          "avg_corners_per_game": 3.89,
+          "aproveitamento": 48.1,
+          "over_2_5_goals": 3,
+          "over_0_5_ht": 3,
+          "over_0_5_ft": 5,
+          "clean_sheets": 3
+        },
+        "home": {
+          "played": 5,
+          "win": 4,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 6,
+            "against": 3
+          },
+          "form_home": "WWLWW",
+          "avg_corners_home_per_game": 4.2,
+          "aproveitamento_home": 80.0,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 4,
+          "win": 0,
+          "draw": 1,
+          "lose": 3,
+          "goals": {
+            "for": 3,
+            "against": 9
+          },
+          "form_visitor": "DLLL",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 3.5,
+          "aproveitamento_away": 8.3,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 6,
+        "team": {
           "id": 645,
           "name": "Vila Nova FC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-vila-nova-fc.png"
@@ -342,7 +410,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "team": {
           "id": 2712,
           "name": "Grêmio Novorizontino",
@@ -352,7 +420,7 @@
         "goalsDiff": 2,
         "group": "Brazil Serie B 2026",
         "status": "same",
-        "description": "Copa Sul-Americana",
+        "description": "",
         "all": {
           "played": 8,
           "win": 3,
@@ -410,7 +478,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "team": {
           "id": 691,
           "name": "Criciuma EC",
@@ -478,7 +546,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "team": {
           "id": 1053,
           "name": "EC Juventude",
@@ -546,7 +614,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "team": {
           "id": 2662,
           "name": "Operário Ferroviário EC",
@@ -614,7 +682,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "team": {
           "id": 629,
           "name": "AC Goianiense",
@@ -678,74 +746,6 @@
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 0,
           "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 11,
-        "team": {
-          "id": 1056,
-          "name": "Goiás EC",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-goias-ec.png"
-        },
-        "points": 10,
-        "goalsDiff": -4,
-        "group": "Brazil Serie B 2026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 8,
-          "win": 3,
-          "draw": 1,
-          "lose": 4,
-          "goals": {
-            "for": 8,
-            "against": 12
-          },
-          "form": "LLLLW",
-          "btts_matches": 3,
-          "avg_corners_per_game": 3.88,
-          "aproveitamento": 41.7,
-          "over_2_5_goals": 3,
-          "over_0_5_ht": 3,
-          "over_0_5_ft": 4,
-          "clean_sheets": 2
-        },
-        "home": {
-          "played": 4,
-          "win": 3,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 5,
-            "against": 3
-          },
-          "form_home": "WWLW",
-          "avg_corners_home_per_game": 4.25,
-          "aproveitamento_home": 75.0,
-          "btts_home_matches": 1,
-          "over_2_5_goals_home": 1,
-          "over_0_5_ht_home": 1,
-          "over_0_5_ft_home": 3,
-          "clean_sheets_home": 2
-        },
-        "away": {
-          "played": 4,
-          "win": 0,
-          "draw": 1,
-          "lose": 3,
-          "goals": {
-            "for": 3,
-            "against": 9
-          },
-          "form_visitor": "DLLL",
-          "btts_away_matches": 2,
-          "avg_corners_away_per_game": 3.5,
-          "aproveitamento_away": 8.3,
-          "over_2_5_goals_away": 2,
-          "over_0_5_ht_away": 2,
-          "over_0_5_ft_away": 1,
-          "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -961,23 +961,23 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-botafogo-fc-ribeirao-preto.png"
         },
         "points": 9,
-        "goalsDiff": 2,
+        "goalsDiff": 1,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 8,
+          "played": 9,
           "win": 2,
           "draw": 3,
-          "lose": 3,
+          "lose": 4,
           "goals": {
             "for": 10,
-            "against": 8
+            "against": 9
           },
-          "form": "LDDDL",
+          "form": "DDDLL",
           "btts_matches": 5,
-          "avg_corners_per_game": 6.5,
-          "aproveitamento": 37.5,
+          "avg_corners_per_game": 6.33,
+          "aproveitamento": 33.3,
           "over_2_5_goals": 3,
           "over_0_5_ht": 5,
           "over_0_5_ft": 3,
@@ -1002,18 +1002,18 @@
           "clean_sheets_home": 1
         },
         "away": {
-          "played": 4,
+          "played": 5,
           "win": 1,
           "draw": 1,
-          "lose": 2,
+          "lose": 3,
           "goals": {
             "for": 3,
-            "against": 4
+            "against": 5
           },
-          "form_visitor": "WLDL",
+          "form_visitor": "WLDLL",
           "btts_away_matches": 2,
-          "avg_corners_away_per_game": 4.5,
-          "aproveitamento_away": 33.3,
+          "avg_corners_away_per_game": 4.6,
+          "aproveitamento_away": 26.7,
           "over_2_5_goals_away": 1,
           "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 2,
@@ -1379,7 +1379,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 5,
         "jogador-assists": 1,
-        "jogador-partidas": 8,
+        "jogador-partidas": 9,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-botafogo-fc-ribeirao-preto.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-everton-morelli-casemiro.png"
       },
@@ -1451,7 +1451,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 3,
         "jogador-assists": 1,
-        "jogador-partidas": 8,
+        "jogador-partidas": 9,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-goias-ec.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-anselmo-ramon-alves-erculano.png"
       },
