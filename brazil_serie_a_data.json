@@ -1160,6 +1160,74 @@
       {
         "rank": 18,
         "team": {
+          "id": 2594,
+          "name": "Clube do Remo",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-clube-do-remo.png"
+        },
+        "points": 15,
+        "goalsDiff": -8,
+        "group": "Brazil Serie A 2026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 16,
+          "win": 3,
+          "draw": 6,
+          "lose": 7,
+          "goals": {
+            "for": 19,
+            "against": 27
+          },
+          "form": "LLWDW",
+          "btts_matches": 9,
+          "avg_corners_per_game": 4.44,
+          "aproveitamento": 31.2,
+          "over_2_5_goals": 7,
+          "over_0_5_ht": 7,
+          "over_0_5_ft": 5,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 7,
+          "win": 1,
+          "draw": 4,
+          "lose": 2,
+          "goals": {
+            "for": 9,
+            "against": 9
+          },
+          "form_home": "LWDLD",
+          "avg_corners_home_per_game": 4.86,
+          "aproveitamento_home": 33.3,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 2,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 9,
+          "win": 2,
+          "draw": 2,
+          "lose": 5,
+          "goals": {
+            "for": 10,
+            "against": 18
+          },
+          "form_visitor": "LDLWW",
+          "btts_away_matches": 4,
+          "avg_corners_away_per_game": 4.11,
+          "aproveitamento_away": 29.6,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 19,
+        "team": {
           "id": 2721,
           "name": "Mirassol Futebol Clube",
           "logo": "https://cdn.footystats.org/img/teams/brazil-mirassol-futebol-clube.png"
@@ -1226,74 +1294,6 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 19,
-        "team": {
-          "id": 2594,
-          "name": "Clube do Remo",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-clube-do-remo.png"
-        },
-        "points": 12,
-        "goalsDiff": -9,
-        "group": "Brazil Serie A 2026",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 15,
-          "win": 2,
-          "draw": 6,
-          "lose": 7,
-          "goals": {
-            "for": 16,
-            "against": 25
-          },
-          "form": "DLLWD",
-          "btts_matches": 8,
-          "avg_corners_per_game": 4.13,
-          "aproveitamento": 26.7,
-          "over_2_5_goals": 6,
-          "over_0_5_ht": 6,
-          "over_0_5_ft": 4,
-          "clean_sheets": 1
-        },
-        "home": {
-          "played": 7,
-          "win": 1,
-          "draw": 4,
-          "lose": 2,
-          "goals": {
-            "for": 9,
-            "against": 9
-          },
-          "form_home": "LWDLD",
-          "avg_corners_home_per_game": 4.86,
-          "aproveitamento_home": 33.3,
-          "btts_home_matches": 5,
-          "over_2_5_goals_home": 2,
-          "over_0_5_ht_home": 4,
-          "over_0_5_ft_home": 2,
-          "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 8,
-          "win": 1,
-          "draw": 2,
-          "lose": 5,
-          "goals": {
-            "for": 7,
-            "against": 16
-          },
-          "form_visitor": "LLDLW",
-          "btts_away_matches": 3,
-          "avg_corners_away_per_game": 3.5,
-          "aproveitamento_away": 20.8,
-          "over_2_5_goals_away": 4,
-          "over_0_5_ht_away": 2,
-          "over_0_5_ft_away": 2,
-          "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
         "rank": 20,
         "team": {
           "id": 623,
@@ -1301,44 +1301,44 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-chapecoense-af.png"
         },
         "points": 9,
-        "goalsDiff": -13,
+        "goalsDiff": -14,
         "group": "Brazil Serie A 2026",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 14,
+          "played": 15,
           "win": 1,
           "draw": 6,
-          "lose": 7,
+          "lose": 8,
           "goals": {
-            "for": 14,
-            "against": 27
+            "for": 16,
+            "against": 30
           },
-          "form": "LLLLD",
-          "btts_matches": 9,
-          "avg_corners_per_game": 3.86,
-          "aproveitamento": 21.4,
-          "over_2_5_goals": 6,
-          "over_0_5_ht": 5,
-          "over_0_5_ft": 6,
+          "form": "LLLDL",
+          "btts_matches": 10,
+          "avg_corners_per_game": 3.8,
+          "aproveitamento": 20.0,
+          "over_2_5_goals": 7,
+          "over_0_5_ht": 6,
+          "over_0_5_ft": 7,
           "clean_sheets": 1
         },
         "home": {
-          "played": 8,
+          "played": 9,
           "win": 1,
           "draw": 4,
-          "lose": 3,
+          "lose": 4,
           "goals": {
-            "for": 11,
-            "against": 17
+            "for": 13,
+            "against": 20
           },
-          "form_home": "DLDLL",
-          "avg_corners_home_per_game": 5.25,
-          "aproveitamento_home": 29.2,
-          "btts_home_matches": 6,
-          "over_2_5_goals_home": 5,
-          "over_0_5_ht_home": 5,
-          "over_0_5_ft_home": 3,
+          "form_home": "LDLLL",
+          "avg_corners_home_per_game": 5.0,
+          "aproveitamento_home": 25.9,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 6,
+          "over_0_5_ft_home": 4,
           "clean_sheets_home": 1
         },
         "away": {
@@ -1496,7 +1496,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 4,
         "jogador-assists": 3,
-        "jogador-partidas": 15,
+        "jogador-partidas": 16,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-clube-do-remo.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-alef-mangueira-severino-pereira.png"
       },
