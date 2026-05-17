@@ -416,28 +416,28 @@
           "name": "Grêmio Novorizontino",
           "logo": "https://cdn.footystats.org/img/teams/brazil-gremio-novorizontino.png"
         },
-        "points": 12,
+        "points": 13,
         "goalsDiff": 2,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 8,
+          "played": 9,
           "win": 3,
-          "draw": 3,
+          "draw": 4,
           "lose": 2,
           "goals": {
             "for": 11,
             "against": 9
           },
-          "form": "WWLDW",
+          "form": "WLDWD",
           "btts_matches": 4,
-          "avg_corners_per_game": 6.38,
-          "aproveitamento": 50.0,
+          "avg_corners_per_game": 6.11,
+          "aproveitamento": 48.1,
           "over_2_5_goals": 4,
           "over_0_5_ht": 1,
           "over_0_5_ft": 6,
-          "clean_sheets": 3
+          "clean_sheets": 4
         },
         "home": {
           "played": 4,
@@ -458,22 +458,22 @@
           "clean_sheets_home": 1
         },
         "away": {
-          "played": 4,
+          "played": 5,
           "win": 1,
-          "draw": 2,
+          "draw": 3,
           "lose": 1,
           "goals": {
             "for": 6,
             "against": 4
           },
-          "form_visitor": "DWLD",
+          "form_visitor": "DWLDD",
           "btts_away_matches": 1,
-          "avg_corners_away_per_game": 5.25,
-          "aproveitamento_away": 41.7,
+          "avg_corners_away_per_game": 5.0,
+          "aproveitamento_away": 40.0,
           "over_2_5_goals_away": 2,
           "over_0_5_ht_away": 0,
           "over_0_5_ft_away": 2,
-          "clean_sheets_away": 2
+          "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -956,6 +956,74 @@
       {
         "rank": 15,
         "team": {
+          "id": 2592,
+          "name": "Cuiabá EC",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-cuiaba-ec.png"
+        },
+        "points": 10,
+        "goalsDiff": 0,
+        "group": "Brazil Serie B 2026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 9,
+          "win": 1,
+          "draw": 7,
+          "lose": 1,
+          "goals": {
+            "for": 4,
+            "against": 4
+          },
+          "form": "WDDDD",
+          "btts_matches": 2,
+          "avg_corners_per_game": 3.22,
+          "aproveitamento": 37.0,
+          "over_2_5_goals": 0,
+          "over_0_5_ht": 1,
+          "over_0_5_ft": 2,
+          "clean_sheets": 6
+        },
+        "home": {
+          "played": 5,
+          "win": 0,
+          "draw": 4,
+          "lose": 1,
+          "goals": {
+            "for": 2,
+            "against": 4
+          },
+          "form_home": "DLDDD",
+          "avg_corners_home_per_game": 3.6,
+          "aproveitamento_home": 26.7,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 0,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 4,
+          "win": 1,
+          "draw": 3,
+          "lose": 0,
+          "goals": {
+            "for": 2,
+            "against": 0
+          },
+          "form_visitor": "DDWD",
+          "btts_away_matches": 0,
+          "avg_corners_away_per_game": 2.75,
+          "aproveitamento_away": 50.0,
+          "over_2_5_goals_away": 0,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 4
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 16,
+        "team": {
           "id": 2598,
           "name": "Botafogo FC Ribeirão Preto",
           "logo": "https://cdn.footystats.org/img/teams/brazil-botafogo-fc-ribeirao-preto.png"
@@ -1018,74 +1086,6 @@
           "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 2,
           "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 16,
-        "team": {
-          "id": 2592,
-          "name": "Cuiabá EC",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-cuiaba-ec.png"
-        },
-        "points": 9,
-        "goalsDiff": 0,
-        "group": "Brazil Serie B 2026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 8,
-          "win": 1,
-          "draw": 6,
-          "lose": 1,
-          "goals": {
-            "for": 4,
-            "against": 4
-          },
-          "form": "DWDDD",
-          "btts_matches": 2,
-          "avg_corners_per_game": 2.62,
-          "aproveitamento": 37.5,
-          "over_2_5_goals": 0,
-          "over_0_5_ht": 1,
-          "over_0_5_ft": 2,
-          "clean_sheets": 5
-        },
-        "home": {
-          "played": 4,
-          "win": 0,
-          "draw": 3,
-          "lose": 1,
-          "goals": {
-            "for": 2,
-            "against": 4
-          },
-          "form_home": "DLDD",
-          "avg_corners_home_per_game": 2.5,
-          "aproveitamento_home": 25.0,
-          "btts_home_matches": 2,
-          "over_2_5_goals_home": 0,
-          "over_0_5_ht_home": 1,
-          "over_0_5_ft_home": 1,
-          "clean_sheets_home": 1
-        },
-        "away": {
-          "played": 4,
-          "win": 1,
-          "draw": 3,
-          "lose": 0,
-          "goals": {
-            "for": 2,
-            "against": 0
-          },
-          "form_visitor": "DDWD",
-          "btts_away_matches": 0,
-          "avg_corners_away_per_game": 2.75,
-          "aproveitamento_away": 50.0,
-          "over_2_5_goals_away": 0,
-          "over_0_5_ht_away": 0,
-          "over_0_5_ft_away": 1,
-          "clean_sheets_away": 4
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1424,7 +1424,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 3,
         "jogador-assists": 1,
-        "jogador-partidas": 8,
+        "jogador-partidas": 9,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-gremio-novorizontino.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-robson-dos-santos-fernandes.png"
       },
