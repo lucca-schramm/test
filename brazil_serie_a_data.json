@@ -344,6 +344,74 @@
       {
         "rank": 6,
         "team": {
+          "id": 626,
+          "name": "EC Bahia",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-ec-bahia.png"
+        },
+        "points": 23,
+        "goalsDiff": 2,
+        "group": "Brazil Serie A 2026",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 15,
+          "win": 6,
+          "draw": 5,
+          "lose": 4,
+          "goals": {
+            "for": 21,
+            "against": 19
+          },
+          "form": "LDDLD",
+          "btts_matches": 10,
+          "avg_corners_per_game": 5.53,
+          "aproveitamento": 51.1,
+          "over_2_5_goals": 8,
+          "over_0_5_ht": 8,
+          "over_0_5_ft": 7,
+          "clean_sheets": 4
+        },
+        "home": {
+          "played": 8,
+          "win": 2,
+          "draw": 4,
+          "lose": 2,
+          "goals": {
+            "for": 12,
+            "against": 9
+          },
+          "form_home": "WLDLD",
+          "avg_corners_home_per_game": 6.0,
+          "aproveitamento_home": 41.7,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 5,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 7,
+          "win": 4,
+          "draw": 1,
+          "lose": 2,
+          "goals": {
+            "for": 9,
+            "against": 10
+          },
+          "form_visitor": "WLWLD",
+          "btts_away_matches": 4,
+          "avg_corners_away_per_game": 5.0,
+          "aproveitamento_away": 61.9,
+          "over_2_5_goals_away": 4,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 7,
+        "team": {
           "id": 627,
           "name": "Coritiba FBC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-coritiba-fbc.png"
@@ -352,7 +420,7 @@
         "goalsDiff": 2,
         "group": "Brazil Serie A 2026",
         "status": "same",
-        "description": "Copa Sul-Americana",
+        "description": "",
         "all": {
           "played": 16,
           "win": 6,
@@ -410,75 +478,75 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "team": {
-          "id": 626,
-          "name": "EC Bahia",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-ec-bahia.png"
+          "id": 615,
+          "name": "Botafogo FR",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-botafogo-fr.png"
         },
-        "points": 22,
-        "goalsDiff": 2,
+        "points": 21,
+        "goalsDiff": 1,
         "group": "Brazil Serie A 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 14,
+          "played": 15,
           "win": 6,
-          "draw": 4,
-          "lose": 4,
+          "draw": 3,
+          "lose": 6,
           "goals": {
-            "for": 20,
-            "against": 18
+            "for": 29,
+            "against": 28
           },
-          "form": "WLDDL",
-          "btts_matches": 9,
-          "avg_corners_per_game": 5.43,
-          "aproveitamento": 52.4,
-          "over_2_5_goals": 8,
-          "over_0_5_ht": 8,
-          "over_0_5_ft": 6,
-          "clean_sheets": 4
+          "form": "WDLDW",
+          "btts_matches": 12,
+          "avg_corners_per_game": 3.73,
+          "aproveitamento": 46.7,
+          "over_2_5_goals": 13,
+          "over_0_5_ht": 7,
+          "over_0_5_ft": 11,
+          "clean_sheets": 1
         },
         "home": {
           "played": 7,
-          "win": 2,
-          "draw": 3,
+          "win": 3,
+          "draw": 2,
           "lose": 2,
           "goals": {
-            "for": 11,
-            "against": 8
+            "for": 15,
+            "against": 12
           },
-          "form_home": "WWLDL",
-          "avg_corners_home_per_game": 5.86,
-          "aproveitamento_home": 42.9,
+          "form_home": "WDDLW",
+          "avg_corners_home_per_game": 4.14,
+          "aproveitamento_home": 52.4,
           "btts_home_matches": 5,
-          "over_2_5_goals_home": 4,
-          "over_0_5_ht_home": 4,
-          "over_0_5_ft_home": 4,
-          "clean_sheets_home": 2
+          "over_2_5_goals_home": 7,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 5,
+          "clean_sheets_home": 1
         },
         "away": {
-          "played": 7,
-          "win": 4,
+          "played": 8,
+          "win": 3,
           "draw": 1,
-          "lose": 2,
+          "lose": 4,
           "goals": {
-            "for": 9,
-            "against": 10
+            "for": 14,
+            "against": 16
           },
-          "form_visitor": "WLWLD",
-          "btts_away_matches": 4,
-          "avg_corners_away_per_game": 5.0,
-          "aproveitamento_away": 61.9,
-          "over_2_5_goals_away": 4,
+          "form_visitor": "WLWWD",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 3.38,
+          "aproveitamento_away": 41.7,
+          "over_2_5_goals_away": 6,
           "over_0_5_ht_away": 4,
-          "over_0_5_ft_away": 2,
-          "clean_sheets_away": 2
+          "over_0_5_ft_away": 6,
+          "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "team": {
           "id": 620,
           "name": "CA Mineiro",
@@ -546,7 +614,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "team": {
           "id": 630,
           "name": "SC Internacional",
@@ -614,7 +682,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "team": {
           "id": 635,
           "name": "Clube Atlético Bragantino",
@@ -682,7 +750,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 11,
+        "rank": 12,
         "team": {
           "id": 625,
           "name": "CR Vasco da Gama",
@@ -750,7 +818,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "team": {
           "id": 613,
           "name": "Cruzeiro EC",
@@ -818,7 +886,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "team": {
           "id": 610,
           "name": "EC Vitória",
@@ -886,79 +954,11 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 14,
-        "team": {
-          "id": 615,
-          "name": "Botafogo FR",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-botafogo-fr.png"
-        },
-        "points": 18,
-        "goalsDiff": -1,
-        "group": "Brazil Serie A 2026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 14,
-          "win": 5,
-          "draw": 3,
-          "lose": 6,
-          "goals": {
-            "for": 26,
-            "against": 27
-          },
-          "form": "DWDLD",
-          "btts_matches": 11,
-          "avg_corners_per_game": 3.79,
-          "aproveitamento": 42.9,
-          "over_2_5_goals": 12,
-          "over_0_5_ht": 6,
-          "over_0_5_ft": 10,
-          "clean_sheets": 1
-        },
-        "home": {
-          "played": 6,
-          "win": 2,
-          "draw": 2,
-          "lose": 2,
-          "goals": {
-            "for": 12,
-            "against": 11
-          },
-          "form_home": "LWDDL",
-          "avg_corners_home_per_game": 4.33,
-          "aproveitamento_home": 44.4,
-          "btts_home_matches": 4,
-          "over_2_5_goals_home": 6,
-          "over_0_5_ht_home": 2,
-          "over_0_5_ft_home": 4,
-          "clean_sheets_home": 1
-        },
-        "away": {
-          "played": 8,
-          "win": 3,
-          "draw": 1,
-          "lose": 4,
-          "goals": {
-            "for": 14,
-            "against": 16
-          },
-          "form_visitor": "WLWWD",
-          "btts_away_matches": 7,
-          "avg_corners_away_per_game": 3.38,
-          "aproveitamento_away": 41.7,
-          "over_2_5_goals_away": 6,
-          "over_0_5_ht_away": 4,
-          "over_0_5_ft_away": 6,
-          "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
         "rank": 15,
         "team": {
-          "id": 624,
-          "name": "SC Corinthians Paulista",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-sc-corinthians-paulista.png"
+          "id": 616,
+          "name": "Grêmio FB Porto Alegrense",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-gremio-fb-porto-alegrense.png"
         },
         "points": 18,
         "goalsDiff": -2,
@@ -966,58 +966,58 @@
         "status": "same",
         "description": "",
         "all": {
-          "played": 15,
+          "played": 16,
           "win": 4,
           "draw": 6,
-          "lose": 5,
+          "lose": 6,
           "goals": {
-            "for": 13,
-            "against": 15
+            "for": 16,
+            "against": 18
           },
-          "form": "DDWLW",
-          "btts_matches": 7,
-          "avg_corners_per_game": 4.8,
-          "aproveitamento": 40.0,
-          "over_2_5_goals": 4,
+          "form": "LWDLD",
+          "btts_matches": 8,
+          "avg_corners_per_game": 3.62,
+          "aproveitamento": 37.5,
+          "over_2_5_goals": 5,
           "over_0_5_ht": 6,
-          "over_0_5_ft": 5,
-          "clean_sheets": 6
+          "over_0_5_ft": 6,
+          "clean_sheets": 5
         },
         "home": {
-          "played": 8,
-          "win": 3,
+          "played": 7,
+          "win": 4,
           "draw": 2,
-          "lose": 3,
+          "lose": 1,
           "goals": {
-            "for": 8,
-            "against": 8
+            "for": 11,
+            "against": 6
           },
-          "form_home": "DLDWW",
-          "avg_corners_home_per_game": 5.25,
-          "aproveitamento_home": 45.8,
+          "form_home": "DWDWL",
+          "avg_corners_home_per_game": 4.43,
+          "aproveitamento_home": 66.7,
           "btts_home_matches": 3,
           "over_2_5_goals_home": 2,
           "over_0_5_ht_home": 4,
-          "over_0_5_ft_home": 2,
+          "over_0_5_ft_home": 3,
           "clean_sheets_home": 3
         },
         "away": {
-          "played": 7,
-          "win": 1,
+          "played": 9,
+          "win": 0,
           "draw": 4,
-          "lose": 2,
+          "lose": 5,
           "goals": {
             "for": 5,
-            "against": 7
+            "against": 12
           },
-          "form_visitor": "DDLDL",
-          "btts_away_matches": 4,
-          "avg_corners_away_per_game": 4.29,
-          "aproveitamento_away": 33.3,
-          "over_2_5_goals_away": 2,
+          "form_visitor": "LDLDD",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 3.0,
+          "aproveitamento_away": 14.8,
+          "over_2_5_goals_away": 3,
           "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 3,
-          "clean_sheets_away": 3
+          "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1092,68 +1092,68 @@
       {
         "rank": 17,
         "team": {
-          "id": 616,
-          "name": "Grêmio FB Porto Alegrense",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-gremio-fb-porto-alegrense.png"
+          "id": 624,
+          "name": "SC Corinthians Paulista",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-sc-corinthians-paulista.png"
         },
-        "points": 17,
-        "goalsDiff": -2,
+        "points": 18,
+        "goalsDiff": -4,
         "group": "Brazil Serie A 2026",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 15,
+          "played": 16,
           "win": 4,
-          "draw": 5,
+          "draw": 6,
           "lose": 6,
           "goals": {
-            "for": 15,
-            "against": 17
+            "for": 14,
+            "against": 18
           },
-          "form": "DLWDL",
-          "btts_matches": 7,
-          "avg_corners_per_game": 3.67,
-          "aproveitamento": 37.8,
+          "form": "DWLWL",
+          "btts_matches": 8,
+          "avg_corners_per_game": 4.62,
+          "aproveitamento": 37.5,
           "over_2_5_goals": 5,
-          "over_0_5_ht": 6,
+          "over_0_5_ht": 7,
           "over_0_5_ft": 5,
-          "clean_sheets": 5
+          "clean_sheets": 6
         },
         "home": {
-          "played": 7,
-          "win": 4,
+          "played": 8,
+          "win": 3,
           "draw": 2,
-          "lose": 1,
+          "lose": 3,
           "goals": {
-            "for": 11,
-            "against": 6
+            "for": 8,
+            "against": 8
           },
-          "form_home": "DWDWL",
-          "avg_corners_home_per_game": 4.43,
-          "aproveitamento_home": 66.7,
+          "form_home": "DLDWW",
+          "avg_corners_home_per_game": 5.25,
+          "aproveitamento_home": 45.8,
           "btts_home_matches": 3,
           "over_2_5_goals_home": 2,
           "over_0_5_ht_home": 4,
-          "over_0_5_ft_home": 3,
+          "over_0_5_ft_home": 2,
           "clean_sheets_home": 3
         },
         "away": {
           "played": 8,
-          "win": 0,
-          "draw": 3,
-          "lose": 5,
+          "win": 1,
+          "draw": 4,
+          "lose": 3,
           "goals": {
-            "for": 4,
-            "against": 11
+            "for": 6,
+            "against": 10
           },
-          "form_visitor": "LLDLD",
-          "btts_away_matches": 4,
-          "avg_corners_away_per_game": 3.0,
-          "aproveitamento_away": 12.5,
+          "form_visitor": "DLDLL",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 4.0,
+          "aproveitamento_away": 29.2,
           "over_2_5_goals_away": 3,
-          "over_0_5_ht_away": 2,
-          "over_0_5_ft_away": 2,
-          "clean_sheets_away": 2
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1406,7 +1406,7 @@
         "jogador-posicao": "Defender",
         "jogador-gols": 7,
         "jogador-assists": 1,
-        "jogador-partidas": 14,
+        "jogador-partidas": 15,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ec-bahia.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-luciano-batista-da-silva-junior.png"
       },
@@ -1420,11 +1420,20 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-breno-lopes.png"
       },
       {
+        "jogador-nome": "Arthur Mendonça Cabral",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 7,
+        "jogador-assists": 1,
+        "jogador-partidas": 13,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-botafogo-fr.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-arthur-cabral.png"
+      },
+      {
         "jogador-nome": "Carlos Vinícius Alves Morais",
         "jogador-posicao": "Forward",
         "jogador-gols": 7,
         "jogador-assists": 0,
-        "jogador-partidas": 14,
+        "jogador-partidas": 15,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-gremio-fb-porto-alegrense.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-carlos-vinicius.png"
       },
@@ -1514,7 +1523,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 4,
         "jogador-assists": 2,
-        "jogador-partidas": 13,
+        "jogador-partidas": 14,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-gremio-fb-porto-alegrense.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-edenilson.png"
       },
@@ -1526,15 +1535,6 @@
         "jogador-partidas": 16,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-coritiba-fbc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-pedro-rocha-neves.png"
-      },
-      {
-        "jogador-nome": "Arthur Mendonça Cabral",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 4,
-        "jogador-assists": 1,
-        "jogador-partidas": 12,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-botafogo-fr.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-arthur-cabral.png"
       },
       {
         "jogador-nome": "Alexandro Ezequiel Bernabei",
