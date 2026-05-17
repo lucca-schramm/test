@@ -8,44 +8,44 @@
           "name": "SE Palmeiras",
           "logo": "https://cdn.footystats.org/img/teams/brazil-se-palmeiras.png"
         },
-        "points": 34,
+        "points": 35,
         "goalsDiff": 13,
         "group": "Brazil Serie A 2026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 15,
+          "played": 16,
           "win": 10,
-          "draw": 4,
+          "draw": 5,
           "lose": 1,
           "goals": {
-            "for": 25,
-            "against": 12
+            "for": 26,
+            "against": 13
           },
-          "form": "DWWDD",
-          "btts_matches": 10,
-          "avg_corners_per_game": 6.33,
-          "aproveitamento": 75.6,
+          "form": "WWDDD",
+          "btts_matches": 11,
+          "avg_corners_per_game": 6.31,
+          "aproveitamento": 72.9,
           "over_2_5_goals": 8,
-          "over_0_5_ht": 13,
+          "over_0_5_ht": 14,
           "over_0_5_ft": 7,
           "clean_sheets": 5
         },
         "home": {
-          "played": 7,
+          "played": 8,
           "win": 6,
-          "draw": 1,
+          "draw": 2,
           "lose": 0,
           "goals": {
-            "for": 14,
-            "against": 5
+            "for": 15,
+            "against": 6
           },
-          "form_home": "WWWWD",
-          "avg_corners_home_per_game": 6.43,
-          "aproveitamento_home": 90.5,
-          "btts_home_matches": 5,
+          "form_home": "WWWDD",
+          "avg_corners_home_per_game": 6.38,
+          "aproveitamento_home": 83.3,
+          "btts_home_matches": 6,
           "over_2_5_goals_home": 4,
-          "over_0_5_ht_home": 6,
+          "over_0_5_ht_home": 7,
           "over_0_5_ft_home": 4,
           "clean_sheets_home": 2
         },
@@ -752,6 +752,74 @@
       {
         "rank": 12,
         "team": {
+          "id": 613,
+          "name": "Cruzeiro EC",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-cruzeiro-ec.png"
+        },
+        "points": 20,
+        "goalsDiff": -5,
+        "group": "Brazil Serie A 2026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 16,
+          "win": 5,
+          "draw": 5,
+          "lose": 6,
+          "goals": {
+            "for": 21,
+            "against": 26
+          },
+          "form": "WWLWD",
+          "btts_matches": 10,
+          "avg_corners_per_game": 5.12,
+          "aproveitamento": 41.7,
+          "over_2_5_goals": 10,
+          "over_0_5_ht": 9,
+          "over_0_5_ft": 8,
+          "clean_sheets": 4
+        },
+        "home": {
+          "played": 8,
+          "win": 3,
+          "draw": 3,
+          "lose": 2,
+          "goals": {
+            "for": 13,
+            "against": 10
+          },
+          "form_home": "DWWWL",
+          "avg_corners_home_per_game": 5.5,
+          "aproveitamento_home": 50.0,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 8,
+          "win": 2,
+          "draw": 2,
+          "lose": 4,
+          "goals": {
+            "for": 8,
+            "against": 16
+          },
+          "form_visitor": "LLWWD",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 4.75,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 13,
+        "team": {
           "id": 610,
           "name": "EC Vitória",
           "logo": "https://cdn.footystats.org/img/teams/brazil-ec-vitoria.png"
@@ -814,74 +882,6 @@
           "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 3,
           "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 13,
-        "team": {
-          "id": 613,
-          "name": "Cruzeiro EC",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-cruzeiro-ec.png"
-        },
-        "points": 19,
-        "goalsDiff": -5,
-        "group": "Brazil Serie A 2026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 15,
-          "win": 5,
-          "draw": 4,
-          "lose": 6,
-          "goals": {
-            "for": 20,
-            "against": 25
-          },
-          "form": "WWWLW",
-          "btts_matches": 9,
-          "avg_corners_per_game": 5.13,
-          "aproveitamento": 42.2,
-          "over_2_5_goals": 10,
-          "over_0_5_ht": 8,
-          "over_0_5_ft": 8,
-          "clean_sheets": 4
-        },
-        "home": {
-          "played": 8,
-          "win": 3,
-          "draw": 3,
-          "lose": 2,
-          "goals": {
-            "for": 13,
-            "against": 10
-          },
-          "form_home": "DWWWL",
-          "avg_corners_home_per_game": 5.5,
-          "aproveitamento_home": 50.0,
-          "btts_home_matches": 5,
-          "over_2_5_goals_home": 5,
-          "over_0_5_ht_home": 5,
-          "over_0_5_ft_home": 4,
-          "clean_sheets_home": 3
-        },
-        "away": {
-          "played": 7,
-          "win": 2,
-          "draw": 1,
-          "lose": 4,
-          "goals": {
-            "for": 7,
-            "against": 15
-          },
-          "form_visitor": "LLLWW",
-          "btts_away_matches": 4,
-          "avg_corners_away_per_game": 4.71,
-          "aproveitamento_away": 33.3,
-          "over_2_5_goals_away": 5,
-          "over_0_5_ht_away": 3,
-          "over_0_5_ft_away": 4,
-          "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1433,9 +1433,18 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 5,
         "jogador-assists": 3,
-        "jogador-partidas": 15,
+        "jogador-partidas": 16,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-se-palmeiras.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/argentina-jose-manuel-lopez.png"
+      },
+      {
+        "jogador-nome": "Christian Roberto Alves Cardoso",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 5,
+        "jogador-assists": 2,
+        "jogador-partidas": 15,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-cruzeiro-ec.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-christian-roberto-alves-cardoso.png"
       },
       {
         "jogador-nome": "Luciano da Rocha Neves",
@@ -1454,15 +1463,6 @@
         "jogador-partidas": 14,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-clube-atletico-bragantino.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/paraguay-isidro-miguel-pitta-saldivar.png"
-      },
-      {
-        "jogador-nome": "Christian Roberto Alves Cardoso",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 5,
-        "jogador-assists": 1,
-        "jogador-partidas": 14,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-cruzeiro-ec.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-christian-roberto-alves-cardoso.png"
       },
       {
         "jogador-nome": "Breno Henrique Vaconcelos Lopes",
