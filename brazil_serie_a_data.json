@@ -144,44 +144,44 @@
           "name": "Fluminense FC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-fluminense-fc.png"
         },
-        "points": 27,
-        "goalsDiff": 5,
+        "points": 30,
+        "goalsDiff": 6,
         "group": "Brazil Serie A 2026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 15,
-          "win": 8,
+          "played": 16,
+          "win": 9,
           "draw": 3,
           "lose": 4,
           "goals": {
-            "for": 25,
-            "against": 20
+            "for": 27,
+            "against": 21
           },
-          "form": "LWWLD",
-          "btts_matches": 11,
-          "avg_corners_per_game": 5.8,
-          "aproveitamento": 60.0,
-          "over_2_5_goals": 9,
-          "over_0_5_ht": 9,
+          "form": "WWLDW",
+          "btts_matches": 12,
+          "avg_corners_per_game": 5.62,
+          "aproveitamento": 62.5,
+          "over_2_5_goals": 10,
+          "over_0_5_ht": 10,
           "over_0_5_ft": 11,
           "clean_sheets": 3
         },
         "home": {
-          "played": 8,
-          "win": 6,
+          "played": 9,
+          "win": 7,
           "draw": 1,
           "lose": 1,
           "goals": {
-            "for": 15,
-            "against": 9
+            "for": 17,
+            "against": 10
           },
-          "form_home": "WWLWD",
-          "avg_corners_home_per_game": 5.75,
-          "aproveitamento_home": 79.2,
-          "btts_home_matches": 6,
-          "over_2_5_goals_home": 6,
-          "over_0_5_ht_home": 4,
+          "form_home": "WLWDW",
+          "avg_corners_home_per_game": 5.44,
+          "aproveitamento_home": 81.5,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 7,
+          "over_0_5_ht_home": 5,
           "over_0_5_ft_home": 7,
           "clean_sheets_home": 2
         },
@@ -213,26 +213,26 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-sao-paulo-fc.png"
         },
         "points": 24,
-        "goalsDiff": 5,
+        "goalsDiff": 4,
         "group": "Brazil Serie A 2026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 15,
+          "played": 16,
           "win": 7,
           "draw": 3,
-          "lose": 5,
+          "lose": 6,
           "goals": {
-            "for": 21,
-            "against": 16
+            "for": 22,
+            "against": 18
           },
-          "form": "LLWDL",
-          "btts_matches": 8,
-          "avg_corners_per_game": 6.87,
-          "aproveitamento": 53.3,
-          "over_2_5_goals": 6,
+          "form": "LWDLL",
+          "btts_matches": 9,
+          "avg_corners_per_game": 6.75,
+          "aproveitamento": 50.0,
+          "over_2_5_goals": 7,
           "over_0_5_ht": 5,
-          "over_0_5_ft": 11,
+          "over_0_5_ft": 12,
           "clean_sheets": 4
         },
         "home": {
@@ -254,21 +254,21 @@
           "clean_sheets_home": 3
         },
         "away": {
-          "played": 8,
+          "played": 9,
           "win": 2,
           "draw": 2,
-          "lose": 4,
+          "lose": 5,
           "goals": {
-            "for": 8,
-            "against": 11
+            "for": 9,
+            "against": 13
           },
-          "form_visitor": "LDLLL",
-          "btts_away_matches": 5,
-          "avg_corners_away_per_game": 5.62,
-          "aproveitamento_away": 33.3,
-          "over_2_5_goals_away": 3,
+          "form_visitor": "DLLLL",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 5.56,
+          "aproveitamento_away": 29.6,
+          "over_2_5_goals_away": 4,
           "over_0_5_ht_away": 2,
-          "over_0_5_ft_away": 5,
+          "over_0_5_ft_away": 6,
           "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1384,6 +1384,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/colombia-kevin-stiven-viveros-rodallega.png"
       },
       {
+        "jogador-nome": "John Kennedy Batista de Souza",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 8,
+        "jogador-assists": 1,
+        "jogador-partidas": 15,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-fluminense-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-john-kennedy.png"
+      },
+      {
         "jogador-nome": "Danilo dos Santos de Oliveira",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 7,
@@ -1400,15 +1409,6 @@
         "jogador-partidas": 14,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ec-bahia.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-luciano-batista-da-silva-junior.png"
-      },
-      {
-        "jogador-nome": "John Kennedy Batista de Souza",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 7,
-        "jogador-assists": 1,
-        "jogador-partidas": 14,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-fluminense-fc.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-john-kennedy.png"
       },
       {
         "jogador-nome": "Carlos Vinícius Alves Morais",
@@ -1537,13 +1537,13 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/argentina-alexandro-ezequiel-bernabei.png"
       },
       {
-        "jogador-nome": "Pedro Rocha Neves",
+        "jogador-nome": "Agustín Canobbio Graviz",
         "jogador-posicao": "Forward",
         "jogador-gols": 4,
-        "jogador-assists": 0,
-        "jogador-partidas": 15,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-coritiba-fbc.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-pedro-rocha-neves.png"
+        "jogador-assists": 1,
+        "jogador-partidas": 11,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-fluminense-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/uruguay-agustin-canobbio-graviz.png"
       }
     ]
   }
