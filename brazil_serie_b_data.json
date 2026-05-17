@@ -480,6 +480,74 @@
       {
         "rank": 8,
         "team": {
+          "id": 1053,
+          "name": "EC Juventude",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-ec-juventude.png"
+        },
+        "points": 13,
+        "goalsDiff": 1,
+        "group": "Brazil Serie B 2026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 9,
+          "win": 3,
+          "draw": 4,
+          "lose": 2,
+          "goals": {
+            "for": 6,
+            "against": 5
+          },
+          "form": "WWDDD",
+          "btts_matches": 2,
+          "avg_corners_per_game": 3.44,
+          "aproveitamento": 48.1,
+          "over_2_5_goals": 1,
+          "over_0_5_ht": 3,
+          "over_0_5_ft": 3,
+          "clean_sheets": 6
+        },
+        "home": {
+          "played": 4,
+          "win": 2,
+          "draw": 2,
+          "lose": 0,
+          "goals": {
+            "for": 3,
+            "against": 0
+          },
+          "form_home": "DWWD",
+          "avg_corners_home_per_game": 5.0,
+          "aproveitamento_home": 66.7,
+          "btts_home_matches": 0,
+          "over_2_5_goals_home": 0,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 4
+        },
+        "away": {
+          "played": 5,
+          "win": 1,
+          "draw": 2,
+          "lose": 2,
+          "goals": {
+            "for": 3,
+            "against": 5
+          },
+          "form_visitor": "LLWDD",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 2.2,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 9,
+        "team": {
           "id": 691,
           "name": "Criciuma EC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-criciuma-ec.png"
@@ -541,74 +609,6 @@
           "over_2_5_goals_away": 1,
           "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 2,
-          "clean_sheets_away": 2
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 9,
-        "team": {
-          "id": 1053,
-          "name": "EC Juventude",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-ec-juventude.png"
-        },
-        "points": 12,
-        "goalsDiff": 1,
-        "group": "Brazil Serie B 2026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 8,
-          "win": 3,
-          "draw": 3,
-          "lose": 2,
-          "goals": {
-            "for": 5,
-            "against": 4
-          },
-          "form": "WWWDD",
-          "btts_matches": 1,
-          "avg_corners_per_game": 3.5,
-          "aproveitamento": 50.0,
-          "over_2_5_goals": 1,
-          "over_0_5_ht": 3,
-          "over_0_5_ft": 2,
-          "clean_sheets": 6
-        },
-        "home": {
-          "played": 4,
-          "win": 2,
-          "draw": 2,
-          "lose": 0,
-          "goals": {
-            "for": 3,
-            "against": 0
-          },
-          "form_home": "DWWD",
-          "avg_corners_home_per_game": 5.0,
-          "aproveitamento_home": 66.7,
-          "btts_home_matches": 0,
-          "over_2_5_goals_home": 0,
-          "over_0_5_ht_home": 2,
-          "over_0_5_ft_home": 1,
-          "clean_sheets_home": 4
-        },
-        "away": {
-          "played": 4,
-          "win": 1,
-          "draw": 1,
-          "lose": 2,
-          "goals": {
-            "for": 2,
-            "against": 4
-          },
-          "form_visitor": "LLWD",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 2.0,
-          "aproveitamento_away": 33.3,
-          "over_2_5_goals_away": 1,
-          "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 1,
           "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -752,6 +752,74 @@
       {
         "rank": 12,
         "team": {
+          "id": 677199,
+          "name": "Athletic Club (Minas Gerais)",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-athletic-club-minas-gerais.png"
+        },
+        "points": 11,
+        "goalsDiff": 0,
+        "group": "Brazil Serie B 2026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 9,
+          "win": 2,
+          "draw": 5,
+          "lose": 2,
+          "goals": {
+            "for": 10,
+            "against": 10
+          },
+          "form": "LLDDD",
+          "btts_matches": 7,
+          "avg_corners_per_game": 4.0,
+          "aproveitamento": 40.7,
+          "over_2_5_goals": 3,
+          "over_0_5_ht": 5,
+          "over_0_5_ft": 2,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 5,
+          "win": 1,
+          "draw": 3,
+          "lose": 1,
+          "goals": {
+            "for": 4,
+            "against": 4
+          },
+          "form_home": "WDLDD",
+          "avg_corners_home_per_game": 5.2,
+          "aproveitamento_home": 40.0,
+          "btts_home_matches": 3,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 0,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 4,
+          "win": 1,
+          "draw": 2,
+          "lose": 1,
+          "goals": {
+            "for": 6,
+            "against": 6
+          },
+          "form_visitor": "DWLD",
+          "btts_away_matches": 4,
+          "avg_corners_away_per_game": 2.5,
+          "aproveitamento_away": 41.7,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 13,
+        "team": {
           "id": 621,
           "name": "Avai FC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-avai-fc.png"
@@ -814,74 +882,6 @@
           "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 3,
           "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 13,
-        "team": {
-          "id": 677199,
-          "name": "Athletic Club (Minas Gerais)",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-athletic-club-minas-gerais.png"
-        },
-        "points": 10,
-        "goalsDiff": 0,
-        "group": "Brazil Serie B 2026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 8,
-          "win": 2,
-          "draw": 4,
-          "lose": 2,
-          "goals": {
-            "for": 9,
-            "against": 9
-          },
-          "form": "WLLDD",
-          "btts_matches": 6,
-          "avg_corners_per_game": 3.88,
-          "aproveitamento": 41.7,
-          "over_2_5_goals": 3,
-          "over_0_5_ht": 4,
-          "over_0_5_ft": 2,
-          "clean_sheets": 1
-        },
-        "home": {
-          "played": 4,
-          "win": 1,
-          "draw": 2,
-          "lose": 1,
-          "goals": {
-            "for": 3,
-            "against": 3
-          },
-          "form_home": "WDLD",
-          "avg_corners_home_per_game": 5.25,
-          "aproveitamento_home": 41.7,
-          "btts_home_matches": 2,
-          "over_2_5_goals_home": 1,
-          "over_0_5_ht_home": 2,
-          "over_0_5_ft_home": 0,
-          "clean_sheets_home": 1
-        },
-        "away": {
-          "played": 4,
-          "win": 1,
-          "draw": 2,
-          "lose": 1,
-          "goals": {
-            "for": 6,
-            "against": 6
-          },
-          "form_visitor": "DWLD",
-          "btts_away_matches": 4,
-          "avg_corners_away_per_game": 2.5,
-          "aproveitamento_away": 41.7,
-          "over_2_5_goals_away": 2,
-          "over_0_5_ht_away": 2,
-          "over_0_5_ft_away": 2,
-          "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
