@@ -76,27 +76,27 @@
           "name": "CR Flamengo",
           "logo": "https://cdn.footystats.org/img/teams/brazil-cr-flamengo.png"
         },
-        "points": 30,
+        "points": 31,
         "goalsDiff": 15,
         "group": "Brazil Serie A 2026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 14,
+          "played": 15,
           "win": 9,
-          "draw": 3,
+          "draw": 4,
           "lose": 2,
           "goals": {
-            "for": 27,
-            "against": 12
+            "for": 28,
+            "against": 13
           },
-          "form": "WWWDW",
-          "btts_matches": 7,
-          "avg_corners_per_game": 4.0,
-          "aproveitamento": 71.4,
+          "form": "WWDWD",
+          "btts_matches": 8,
+          "avg_corners_per_game": 4.2,
+          "aproveitamento": 68.9,
           "over_2_5_goals": 9,
           "over_0_5_ht": 9,
-          "over_0_5_ft": 11,
+          "over_0_5_ft": 12,
           "clean_sheets": 6
         },
         "home": {
@@ -118,21 +118,21 @@
           "clean_sheets_home": 3
         },
         "away": {
-          "played": 8,
+          "played": 9,
           "win": 5,
-          "draw": 1,
+          "draw": 2,
           "lose": 2,
           "goals": {
-            "for": 14,
-            "against": 8
+            "for": 15,
+            "against": 9
           },
-          "form_visitor": "DLWWW",
-          "btts_away_matches": 4,
-          "avg_corners_away_per_game": 3.5,
-          "aproveitamento_away": 66.7,
+          "form_visitor": "LWWWD",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 3.89,
+          "aproveitamento_away": 63.0,
           "over_2_5_goals_away": 6,
           "over_0_5_ht_away": 5,
-          "over_0_5_ft_away": 5,
+          "over_0_5_ft_away": 6,
           "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -280,44 +280,44 @@
           "name": "CA Paranaense",
           "logo": "https://cdn.footystats.org/img/teams/brazil-ca-paranaense.png"
         },
-        "points": 23,
+        "points": 24,
         "goalsDiff": 4,
         "group": "Brazil Serie A 2026",
         "status": "same",
         "description": "Copa Sul-Americana",
         "all": {
-          "played": 15,
+          "played": 16,
           "win": 7,
-          "draw": 2,
+          "draw": 3,
           "lose": 6,
           "goals": {
-            "for": 20,
-            "against": 16
+            "for": 21,
+            "against": 17
           },
-          "form": "WLWDL",
-          "btts_matches": 7,
-          "avg_corners_per_game": 4.53,
-          "aproveitamento": 51.1,
+          "form": "LWDLD",
+          "btts_matches": 8,
+          "avg_corners_per_game": 4.81,
+          "aproveitamento": 50.0,
           "over_2_5_goals": 7,
-          "over_0_5_ht": 7,
+          "over_0_5_ht": 8,
           "over_0_5_ft": 8,
           "clean_sheets": 4
         },
         "home": {
-          "played": 8,
+          "played": 9,
           "win": 6,
-          "draw": 1,
+          "draw": 2,
           "lose": 1,
           "goals": {
-            "for": 15,
-            "against": 5
+            "for": 16,
+            "against": 6
           },
-          "form_home": "WWWWD",
-          "avg_corners_home_per_game": 5.5,
-          "aproveitamento_home": 79.2,
-          "btts_home_matches": 4,
+          "form_home": "WWWDD",
+          "avg_corners_home_per_game": 5.89,
+          "aproveitamento_home": 74.1,
+          "btts_home_matches": 5,
           "over_2_5_goals_home": 4,
-          "over_0_5_ht_home": 5,
+          "over_0_5_ht_home": 6,
           "over_0_5_ft_home": 5,
           "clean_sheets_home": 3
         },
@@ -1368,9 +1368,9 @@
       {
         "jogador-nome": "Pedro Guilherme Abreu dos Santos",
         "jogador-posicao": "Forward",
-        "jogador-gols": 8,
+        "jogador-gols": 9,
         "jogador-assists": 3,
-        "jogador-partidas": 14,
+        "jogador-partidas": 15,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-cr-flamengo.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-pedro-guilherme-abreu-dos-santos.png"
       },
@@ -1379,7 +1379,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 8,
         "jogador-assists": 1,
-        "jogador-partidas": 14,
+        "jogador-partidas": 15,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ca-paranaense.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/colombia-kevin-stiven-viveros-rodallega.png"
       },
@@ -1483,6 +1483,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/paraguay-isidro-miguel-pitta-saldivar.png"
       },
       {
+        "jogador-nome": "John Stiven Mendoza Valencia",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 5,
+        "jogador-assists": 0,
+        "jogador-partidas": 16,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ca-paranaense.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/colombia-john-stiven-mendoza-valencia.png"
+      },
+      {
         "jogador-nome": "Johan Stiven Carbonero Balanta",
         "jogador-posicao": "Forward",
         "jogador-gols": 4,
@@ -1535,15 +1544,6 @@
         "jogador-partidas": 16,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-coritiba-fbc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-pedro-rocha-neves.png"
-      },
-      {
-        "jogador-nome": "Lucas Henrique Barbosa",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 4,
-        "jogador-assists": 1,
-        "jogador-partidas": 15,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-clube-atletico-bragantino.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-lucas-henrique-barbosa.png"
       }
     ]
   }
