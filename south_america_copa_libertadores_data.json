@@ -4,6 +4,74 @@
       {
         "rank": 1,
         "team": {
+          "id": 2137,
+          "name": "Deportivo Independiente Medellín",
+          "logo": "https://cdn.footystats.org/img/teams/colombia-deportivo-independiente-medellin.png"
+        },
+        "points": 15,
+        "goalsDiff": 1,
+        "group": "South America Copa Libertadores 2026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 8,
+          "win": 4,
+          "draw": 3,
+          "lose": 1,
+          "goals": {
+            "for": 11,
+            "against": 10
+          },
+          "form": "WDLWW",
+          "btts_matches": 6,
+          "avg_corners_per_game": 4.62,
+          "aproveitamento": 62.5,
+          "over_2_5_goals": 4,
+          "over_0_5_ht": 4,
+          "over_0_5_ft": 5,
+          "clean_sheets": 2
+        },
+        "home": {
+          "played": 4,
+          "win": 2,
+          "draw": 2,
+          "lose": 0,
+          "goals": {
+            "for": 4,
+            "against": 2
+          },
+          "form_home": "DWDW",
+          "avg_corners_home_per_game": 5.25,
+          "aproveitamento_home": 66.7,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 4,
+          "win": 2,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 7,
+            "against": 8
+          },
+          "form_visitor": "WDLW",
+          "btts_away_matches": 4,
+          "avg_corners_away_per_game": 4.0,
+          "aproveitamento_away": 58.3,
+          "over_2_5_goals_away": 3,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 2,
+        "team": {
           "id": 710,
           "name": "CA Rosario Central",
           "logo": "https://cdn.footystats.org/img/teams/argentina-ca-rosario-central.png"
@@ -70,7 +138,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "team": {
           "id": 2140,
           "name": "Club Deportes Tolima SA",
@@ -138,7 +206,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "team": {
           "id": 2721,
           "name": "Mirassol Futebol Clube",
@@ -206,74 +274,6 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 4,
-        "team": {
-          "id": 2137,
-          "name": "Deportivo Independiente Medellín",
-          "logo": "https://cdn.footystats.org/img/teams/colombia-deportivo-independiente-medellin.png"
-        },
-        "points": 12,
-        "goalsDiff": 0,
-        "group": "South America Copa Libertadores 2026",
-        "status": "same",
-        "description": "Copa Libertadores",
-        "all": {
-          "played": 7,
-          "win": 3,
-          "draw": 3,
-          "lose": 1,
-          "goals": {
-            "for": 8,
-            "against": 8
-          },
-          "form": "DWDLW",
-          "btts_matches": 5,
-          "avg_corners_per_game": 4.86,
-          "aproveitamento": 57.1,
-          "over_2_5_goals": 3,
-          "over_0_5_ht": 3,
-          "over_0_5_ft": 4,
-          "clean_sheets": 2
-        },
-        "home": {
-          "played": 4,
-          "win": 2,
-          "draw": 2,
-          "lose": 0,
-          "goals": {
-            "for": 4,
-            "against": 2
-          },
-          "form_home": "DWDW",
-          "avg_corners_home_per_game": 5.25,
-          "aproveitamento_home": 66.7,
-          "btts_home_matches": 2,
-          "over_2_5_goals_home": 1,
-          "over_0_5_ht_home": 1,
-          "over_0_5_ft_home": 3,
-          "clean_sheets_home": 2
-        },
-        "away": {
-          "played": 3,
-          "win": 1,
-          "draw": 1,
-          "lose": 1,
-          "goals": {
-            "for": 4,
-            "against": 6
-          },
-          "form_visitor": "WDL",
-          "btts_away_matches": 3,
-          "avg_corners_away_per_game": 4.33,
-          "aproveitamento_away": 44.4,
-          "over_2_5_goals_away": 2,
-          "over_0_5_ht_away": 2,
-          "over_0_5_ft_away": 1,
-          "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
         "rank": 5,
         "team": {
           "id": 2804,
@@ -281,26 +281,26 @@
           "logo": "https://cdn.footystats.org/img/teams/peru-club-sporting-cristal-sac.png"
         },
         "points": 11,
-        "goalsDiff": 0,
+        "goalsDiff": -1,
         "group": "South America Copa Libertadores 2026",
         "status": "same",
         "description": "Copa Sul-Americana",
         "all": {
-          "played": 8,
+          "played": 9,
           "win": 3,
           "draw": 2,
-          "lose": 3,
+          "lose": 4,
           "goals": {
-            "for": 8,
-            "against": 8
+            "for": 10,
+            "against": 11
           },
-          "form": "LWLWL",
-          "btts_matches": 3,
-          "avg_corners_per_game": 5.25,
-          "aproveitamento": 45.8,
-          "over_2_5_goals": 3,
-          "over_0_5_ht": 2,
-          "over_0_5_ft": 4,
+          "form": "WLWLL",
+          "btts_matches": 4,
+          "avg_corners_per_game": 5.33,
+          "aproveitamento": 40.7,
+          "over_2_5_goals": 4,
+          "over_0_5_ht": 3,
+          "over_0_5_ft": 5,
           "clean_sheets": 4
         },
         "home": {
@@ -322,21 +322,21 @@
           "clean_sheets_home": 3
         },
         "away": {
-          "played": 3,
+          "played": 4,
           "win": 1,
           "draw": 1,
-          "lose": 1,
+          "lose": 2,
           "goals": {
-            "for": 4,
-            "against": 4
+            "for": 6,
+            "against": 7
           },
-          "form_visitor": "DWL",
-          "btts_away_matches": 2,
-          "avg_corners_away_per_game": 3.33,
-          "aproveitamento_away": 44.4,
-          "over_2_5_goals_away": 2,
-          "over_0_5_ht_away": 2,
-          "over_0_5_ft_away": 1,
+          "form_visitor": "DWLL",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 4.0,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 3,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 2,
           "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -2180,6 +2180,74 @@
       {
         "rank": 33,
         "team": {
+          "id": 2131,
+          "name": "CD Popular Junior FC SA",
+          "logo": "https://cdn.footystats.org/img/teams/colombia-cd-popular-junior-fc-sa.png"
+        },
+        "points": 4,
+        "goalsDiff": -3,
+        "group": "South America Copa Libertadores 2026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 5,
+          "win": 1,
+          "draw": 1,
+          "lose": 3,
+          "goals": {
+            "for": 4,
+            "against": 7
+          },
+          "form": "DLLLW",
+          "btts_matches": 2,
+          "avg_corners_per_game": 4.4,
+          "aproveitamento": 26.7,
+          "over_2_5_goals": 1,
+          "over_0_5_ht": 2,
+          "over_0_5_ft": 0,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 3,
+          "win": 1,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 4,
+            "against": 4
+          },
+          "form_home": "DLW",
+          "avg_corners_home_per_game": 5.33,
+          "aproveitamento_home": 44.4,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 0,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 2,
+          "win": 0,
+          "draw": 0,
+          "lose": 2,
+          "goals": {
+            "for": 0,
+            "against": 3
+          },
+          "form_visitor": "LL",
+          "btts_away_matches": 0,
+          "avg_corners_away_per_game": 3.0,
+          "aproveitamento_away": 0.0,
+          "over_2_5_goals_away": 0,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 34,
+        "team": {
           "id": 4328,
           "name": "CD Universidad Católica del Ecuador",
           "logo": "https://cdn.footystats.org/img/teams/ecuador-cd-universidad-catolica-del-ecuador.png"
@@ -2246,7 +2314,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 34,
+        "rank": 35,
         "team": {
           "id": 626,
           "name": "EC Bahia",
@@ -2314,7 +2382,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 35,
+        "rank": 36,
         "team": {
           "id": 2257,
           "name": "Club The Strongest",
@@ -2382,7 +2450,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 36,
+        "rank": 37,
         "team": {
           "id": 725,
           "name": "Argentinos Juniors",
@@ -2450,7 +2518,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 37,
+        "rank": 38,
         "team": {
           "id": 2276,
           "name": "Club Always Ready",
@@ -2518,7 +2586,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 38,
+        "rank": 39,
         "team": {
           "id": 2256,
           "name": "CA Nacional Potosí",
@@ -2586,7 +2654,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 39,
+        "rank": 40,
         "team": {
           "id": 2846,
           "name": "Deportivo La Guaira",
@@ -2654,7 +2722,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 40,
+        "rank": 41,
         "team": {
           "id": 4358,
           "name": "CA Peñarol",
@@ -2722,7 +2790,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 41,
+        "rank": 42,
         "team": {
           "id": 2811,
           "name": "Club Alianza Lima",
@@ -2790,7 +2858,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 42,
+        "rank": 43,
         "team": {
           "id": 4357,
           "name": "Liverpool FC Montevideo",
@@ -2858,7 +2926,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 43,
+        "rank": 44,
         "team": {
           "id": 6672,
           "name": "Club Guaraní",
@@ -2926,51 +2994,51 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 44,
+        "rank": 45,
         "team": {
           "id": 2806,
           "name": "Asociación Civil Real Atlético Garcilaso",
           "logo": "https://cdn.footystats.org/img/teams/peru-asociacion-civil-real-atletico-garcilaso.png"
         },
         "points": 1,
-        "goalsDiff": -4,
+        "goalsDiff": -5,
         "group": "South America Copa Libertadores 2026",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 4,
+          "played": 5,
           "win": 0,
           "draw": 1,
-          "lose": 3,
+          "lose": 4,
           "goals": {
-            "for": 2,
-            "against": 6
+            "for": 4,
+            "against": 9
           },
-          "form": "LLLD",
-          "btts_matches": 2,
-          "avg_corners_per_game": 2.25,
-          "aproveitamento": 8.3,
-          "over_2_5_goals": 1,
+          "form": "LLLDL",
+          "btts_matches": 3,
+          "avg_corners_per_game": 3.6,
+          "aproveitamento": 6.7,
+          "over_2_5_goals": 2,
           "over_0_5_ht": 2,
-          "over_0_5_ft": 0,
+          "over_0_5_ft": 1,
           "clean_sheets": 0
         },
         "home": {
-          "played": 2,
+          "played": 3,
           "win": 0,
           "draw": 1,
-          "lose": 1,
+          "lose": 2,
           "goals": {
-            "for": 1,
-            "against": 3
+            "for": 3,
+            "against": 6
           },
-          "form_home": "LD",
-          "avg_corners_home_per_game": 4.0,
-          "aproveitamento_home": 16.7,
-          "btts_home_matches": 1,
-          "over_2_5_goals_home": 0,
+          "form_home": "LDL",
+          "avg_corners_home_per_game": 5.67,
+          "aproveitamento_home": 11.1,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 1,
           "over_0_5_ht_home": 1,
-          "over_0_5_ft_home": 0,
+          "over_0_5_ft_home": 1,
           "clean_sheets_home": 0
         },
         "away": {
@@ -2988,74 +3056,6 @@
           "aproveitamento_away": 0.0,
           "over_2_5_goals_away": 1,
           "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 0,
-          "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 45,
-        "team": {
-          "id": 2131,
-          "name": "CD Popular Junior FC SA",
-          "logo": "https://cdn.footystats.org/img/teams/colombia-cd-popular-junior-fc-sa.png"
-        },
-        "points": 1,
-        "goalsDiff": -4,
-        "group": "South America Copa Libertadores 2026",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 4,
-          "win": 0,
-          "draw": 1,
-          "lose": 3,
-          "goals": {
-            "for": 1,
-            "against": 5
-          },
-          "form": "DLLL",
-          "btts_matches": 1,
-          "avg_corners_per_game": 4.5,
-          "aproveitamento": 8.3,
-          "over_2_5_goals": 0,
-          "over_0_5_ht": 1,
-          "over_0_5_ft": 0,
-          "clean_sheets": 0
-        },
-        "home": {
-          "played": 2,
-          "win": 0,
-          "draw": 1,
-          "lose": 1,
-          "goals": {
-            "for": 1,
-            "against": 2
-          },
-          "form_home": "DL",
-          "avg_corners_home_per_game": 6.0,
-          "aproveitamento_home": 16.7,
-          "btts_home_matches": 1,
-          "over_2_5_goals_home": 0,
-          "over_0_5_ht_home": 1,
-          "over_0_5_ft_home": 0,
-          "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 2,
-          "win": 0,
-          "draw": 0,
-          "lose": 2,
-          "goals": {
-            "for": 0,
-            "against": 3
-          },
-          "form_visitor": "LL",
-          "btts_away_matches": 0,
-          "avg_corners_away_per_game": 3.0,
-          "aproveitamento_away": 0.0,
-          "over_2_5_goals_away": 0,
-          "over_0_5_ht_away": 0,
           "over_0_5_ft_away": 0,
           "clean_sheets_away": 0
         },
@@ -3220,6 +3220,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/paraguay-alex-adrian-arce-barrios.png"
       },
       {
+        "jogador-nome": "Francisco David Fydriszewski",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 4,
+        "jogador-assists": 1,
+        "jogador-partidas": 8,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/colombia-deportivo-independiente-medellin.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/argentina-francisco-fydriszewski.png"
+      },
+      {
         "jogador-nome": "Lorenzo António Melgarejo Sanabria",
         "jogador-posicao": "Forward",
         "jogador-gols": 4,
@@ -3229,6 +3238,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/paraguay-lorenzo-melgarejo.png"
       },
       {
+        "jogador-nome": "Víctor Yoshimar Yotún Flores",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 3,
+        "jogador-assists": 1,
+        "jogador-partidas": 9,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/peru-club-sporting-cristal-sac.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/peru-victor-yoshimar-yotun-flores.png"
+      },
+      {
         "jogador-nome": "Gustavo Henrique Vernes",
         "jogador-posicao": "Defender",
         "jogador-gols": 3,
@@ -3236,15 +3254,6 @@
         "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-sc-corinthians-paulista.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-gustavo-henrique.png"
-      },
-      {
-        "jogador-nome": "Francisco David Fydriszewski",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 3,
-        "jogador-assists": 1,
-        "jogador-partidas": 7,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/colombia-deportivo-independiente-medellin.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/argentina-francisco-fydriszewski.png"
       },
       {
         "jogador-nome": "Federico Barrandeguy Martino",
@@ -3272,15 +3281,6 @@
         "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-cr-flamengo.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-bruno-henrique-pinto.png"
-      },
-      {
-        "jogador-nome": "Víctor Yoshimar Yotún Flores",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 2,
-        "jogador-assists": 1,
-        "jogador-partidas": 8,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/peru-club-sporting-cristal-sac.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/peru-victor-yoshimar-yotun-flores.png"
       },
       {
         "jogador-nome": "Milton Aaron Céliz",
