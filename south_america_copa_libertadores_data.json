@@ -140,6 +140,74 @@
       {
         "rank": 3,
         "team": {
+          "id": 746,
+          "name": "CS Independiente Rivadavia",
+          "logo": "https://cdn.footystats.org/img/teams/argentina-cs-independiente-rivadavia.png"
+        },
+        "points": 13,
+        "goalsDiff": 7,
+        "group": "South America Copa Libertadores 2026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 5,
+          "win": 4,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 12,
+            "against": 5
+          },
+          "form": "WWWDW",
+          "btts_matches": 4,
+          "avg_corners_per_game": 3.8,
+          "aproveitamento": 86.7,
+          "over_2_5_goals": 3,
+          "over_0_5_ht": 4,
+          "over_0_5_ft": 4,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 3,
+          "win": 2,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 6,
+            "against": 2
+          },
+          "form_home": "WWD",
+          "avg_corners_home_per_game": 5.0,
+          "aproveitamento_home": 77.8,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 2,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 2,
+          "win": 2,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 6,
+            "against": 3
+          },
+          "form_visitor": "WW",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 2.0,
+          "aproveitamento_away": 100.0,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 4,
+        "team": {
           "id": 2140,
           "name": "Club Deportes Tolima SA",
           "logo": "https://cdn.footystats.org/img/teams/colombia-club-deportes-tolima-sa.png"
@@ -206,7 +274,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "team": {
           "id": 2721,
           "name": "Mirassol Futebol Clube",
@@ -216,7 +284,7 @@
         "goalsDiff": 4,
         "group": "South America Copa Libertadores 2026",
         "status": "same",
-        "description": "Copa Libertadores",
+        "description": "Copa Sul-Americana",
         "all": {
           "played": 5,
           "win": 4,
@@ -274,7 +342,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "team": {
           "id": 2804,
           "name": "Club Sporting Cristal SAC",
@@ -342,7 +410,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "team": {
           "id": 612,
           "name": "CR Flamengo",
@@ -352,7 +420,7 @@
         "goalsDiff": 6,
         "group": "South America Copa Libertadores 2026",
         "status": "same",
-        "description": "Copa Sul-Americana",
+        "description": "",
         "all": {
           "played": 4,
           "win": 3,
@@ -410,7 +478,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "team": {
           "id": 624,
           "name": "SC Corinthians Paulista",
@@ -474,74 +542,6 @@
           "over_0_5_ht_away": 0,
           "over_0_5_ft_away": 2,
           "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 8,
-        "team": {
-          "id": 746,
-          "name": "CS Independiente Rivadavia",
-          "logo": "https://cdn.footystats.org/img/teams/argentina-cs-independiente-rivadavia.png"
-        },
-        "points": 10,
-        "goalsDiff": 5,
-        "group": "South America Copa Libertadores 2026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 4,
-          "win": 3,
-          "draw": 1,
-          "lose": 0,
-          "goals": {
-            "for": 8,
-            "against": 3
-          },
-          "form": "WWWD",
-          "btts_matches": 3,
-          "avg_corners_per_game": 4.0,
-          "aproveitamento": 83.3,
-          "over_2_5_goals": 2,
-          "over_0_5_ht": 3,
-          "over_0_5_ft": 3,
-          "clean_sheets": 1
-        },
-        "home": {
-          "played": 3,
-          "win": 2,
-          "draw": 1,
-          "lose": 0,
-          "goals": {
-            "for": 6,
-            "against": 2
-          },
-          "form_home": "WWD",
-          "avg_corners_home_per_game": 5.0,
-          "aproveitamento_home": 77.8,
-          "btts_home_matches": 2,
-          "over_2_5_goals_home": 1,
-          "over_0_5_ht_home": 2,
-          "over_0_5_ft_home": 2,
-          "clean_sheets_home": 1
-        },
-        "away": {
-          "played": 1,
-          "win": 1,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 2,
-            "against": 1
-          },
-          "form_visitor": "W",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 1.0,
-          "aproveitamento_away": 100.0,
-          "over_2_5_goals_away": 1,
-          "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 1,
-          "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -2661,44 +2661,44 @@
           "logo": "https://cdn.footystats.org/img/teams/venezuela-deportivo-la-guaira.png"
         },
         "points": 3,
-        "goalsDiff": -3,
+        "goalsDiff": -5,
         "group": "South America Copa Libertadores 2026",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 4,
+          "played": 5,
           "win": 0,
           "draw": 3,
-          "lose": 1,
+          "lose": 2,
           "goals": {
-            "for": 3,
-            "against": 6
+            "for": 5,
+            "against": 10
           },
-          "form": "DDLD",
-          "btts_matches": 3,
-          "avg_corners_per_game": 3.25,
-          "aproveitamento": 25.0,
-          "over_2_5_goals": 1,
-          "over_0_5_ht": 3,
-          "over_0_5_ft": 0,
+          "form": "DDLDL",
+          "btts_matches": 4,
+          "avg_corners_per_game": 4.0,
+          "aproveitamento": 20.0,
+          "over_2_5_goals": 2,
+          "over_0_5_ht": 4,
+          "over_0_5_ft": 1,
           "clean_sheets": 1
         },
         "home": {
-          "played": 2,
+          "played": 3,
           "win": 0,
           "draw": 2,
-          "lose": 0,
+          "lose": 1,
           "goals": {
-            "for": 1,
-            "against": 1
+            "for": 3,
+            "against": 5
           },
-          "form_home": "DD",
-          "avg_corners_home_per_game": 4.5,
-          "aproveitamento_home": 33.3,
-          "btts_home_matches": 1,
-          "over_2_5_goals_home": 0,
-          "over_0_5_ht_home": 1,
-          "over_0_5_ft_home": 0,
+          "form_home": "DDL",
+          "avg_corners_home_per_game": 5.33,
+          "aproveitamento_home": 22.2,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 1,
           "clean_sheets_home": 1
         },
         "away": {
@@ -3202,6 +3202,15 @@
   "artilharia": {
     "south_america_copa_libertadores": [
       {
+        "jogador-nome": "Alex Adrián Arce Barrios",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 8,
+        "jogador-assists": 0,
+        "jogador-partidas": 5,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/argentina-cs-independiente-rivadavia.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/paraguay-alex-adrian-arce-barrios.png"
+      },
+      {
         "jogador-nome": "Carlos Gonzalez Espínola",
         "jogador-posicao": "Forward",
         "jogador-gols": 6,
@@ -3209,15 +3218,6 @@
         "jogador-partidas": 5,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/ecuador-csd-independiente-del-valle.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/paraguay-carlos-gonzalez-espinola.png"
-      },
-      {
-        "jogador-nome": "Alex Adrián Arce Barrios",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 5,
-        "jogador-assists": 0,
-        "jogador-partidas": 4,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/argentina-cs-independiente-rivadavia.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/paraguay-alex-adrian-arce-barrios.png"
       },
       {
         "jogador-nome": "Francisco David Fydriszewski",
@@ -3272,6 +3272,15 @@
         "jogador-partidas": 5,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/argentina-estudiantes-de-la-plata.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/argentina-tiago-palacios.png"
+      },
+      {
+        "jogador-nome": "Sebastián Villa Cano",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 2,
+        "jogador-assists": 3,
+        "jogador-partidas": 5,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/argentina-cs-independiente-rivadavia.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/colombia-sebastian-villa-cano.png"
       },
       {
         "jogador-nome": "Bruno Henrique Pinto",
@@ -3371,15 +3380,6 @@
         "jogador-partidas": 2,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ec-bahia.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-willian-jose.png"
-      },
-      {
-        "jogador-nome": "Sebastián Coates Nión",
-        "jogador-posicao": "Defender",
-        "jogador-gols": 2,
-        "jogador-assists": 0,
-        "jogador-partidas": 5,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/uruguay-club-nacional-de-football.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/uruguay-sebastian-coates.png"
       }
     ]
   }
