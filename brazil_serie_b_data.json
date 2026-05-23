@@ -4,6 +4,74 @@
       {
         "rank": 1,
         "team": {
+          "id": 644,
+          "name": "Clube Náutico Capibaribe",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-clube-nautico-capibaribe.png"
+        },
+        "points": 19,
+        "goalsDiff": 7,
+        "group": "Brazil Serie B 2026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 10,
+          "win": 6,
+          "draw": 1,
+          "lose": 3,
+          "goals": {
+            "for": 16,
+            "against": 9
+          },
+          "form": "WDWWW",
+          "btts_matches": 3,
+          "avg_corners_per_game": 6.4,
+          "aproveitamento": 63.3,
+          "over_2_5_goals": 4,
+          "over_0_5_ht": 2,
+          "over_0_5_ft": 7,
+          "clean_sheets": 4
+        },
+        "home": {
+          "played": 5,
+          "win": 3,
+          "draw": 0,
+          "lose": 2,
+          "goals": {
+            "for": 6,
+            "against": 4
+          },
+          "form_home": "LWLWW",
+          "avg_corners_home_per_game": 9.6,
+          "aproveitamento_home": 60.0,
+          "btts_home_matches": 0,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 5,
+          "win": 3,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 10,
+            "against": 5
+          },
+          "form_visitor": "WLWDW",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 3.2,
+          "aproveitamento_away": 66.7,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 2,
+        "team": {
           "id": 2677,
           "name": "São Bernardo FC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-sao-bernardo-fc.png"
@@ -63,74 +131,6 @@
           "avg_corners_away_per_game": 3.75,
           "aproveitamento_away": 83.3,
           "over_2_5_goals_away": 3,
-          "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 4,
-          "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 2,
-        "team": {
-          "id": 644,
-          "name": "Clube Náutico Capibaribe",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-clube-nautico-capibaribe.png"
-        },
-        "points": 16,
-        "goalsDiff": 6,
-        "group": "Brazil Serie B 2026",
-        "status": "same",
-        "description": "Copa Libertadores",
-        "all": {
-          "played": 9,
-          "win": 5,
-          "draw": 1,
-          "lose": 3,
-          "goals": {
-            "for": 15,
-            "against": 9
-          },
-          "form": "LWDWW",
-          "btts_matches": 3,
-          "avg_corners_per_game": 6.44,
-          "aproveitamento": 59.3,
-          "over_2_5_goals": 4,
-          "over_0_5_ht": 2,
-          "over_0_5_ft": 6,
-          "clean_sheets": 3
-        },
-        "home": {
-          "played": 4,
-          "win": 2,
-          "draw": 0,
-          "lose": 2,
-          "goals": {
-            "for": 5,
-            "against": 4
-          },
-          "form_home": "LWLW",
-          "avg_corners_home_per_game": 10.5,
-          "aproveitamento_home": 50.0,
-          "btts_home_matches": 0,
-          "over_2_5_goals_home": 2,
-          "over_0_5_ht_home": 1,
-          "over_0_5_ft_home": 2,
-          "clean_sheets_home": 2
-        },
-        "away": {
-          "played": 5,
-          "win": 3,
-          "draw": 1,
-          "lose": 1,
-          "goals": {
-            "for": 10,
-            "against": 5
-          },
-          "form_visitor": "WLWDW",
-          "btts_away_matches": 3,
-          "avg_corners_away_per_game": 3.2,
-          "aproveitamento_away": 66.7,
-          "over_2_5_goals_away": 2,
           "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 4,
           "clean_sheets_away": 1
@@ -1029,23 +1029,23 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-cuiaba-ec.png"
         },
         "points": 10,
-        "goalsDiff": 0,
+        "goalsDiff": -1,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 9,
+          "played": 10,
           "win": 1,
           "draw": 7,
-          "lose": 1,
+          "lose": 2,
           "goals": {
             "for": 4,
-            "against": 4
+            "against": 5
           },
-          "form": "WDDDD",
+          "form": "DDDDL",
           "btts_matches": 2,
-          "avg_corners_per_game": 3.22,
-          "aproveitamento": 37.0,
+          "avg_corners_per_game": 3.0,
+          "aproveitamento": 33.3,
           "over_2_5_goals": 0,
           "over_0_5_ht": 1,
           "over_0_5_ft": 2,
@@ -1070,18 +1070,18 @@
           "clean_sheets_home": 2
         },
         "away": {
-          "played": 4,
+          "played": 5,
           "win": 1,
           "draw": 3,
-          "lose": 0,
+          "lose": 1,
           "goals": {
             "for": 2,
-            "against": 0
+            "against": 1
           },
-          "form_visitor": "DDWD",
+          "form_visitor": "DDWDL",
           "btts_away_matches": 0,
-          "avg_corners_away_per_game": 2.75,
-          "aproveitamento_away": 50.0,
+          "avg_corners_away_per_game": 2.4,
+          "aproveitamento_away": 40.0,
           "over_2_5_goals_away": 0,
           "over_0_5_ht_away": 0,
           "over_0_5_ft_away": 1,
@@ -1370,7 +1370,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 5,
         "jogador-assists": 2,
-        "jogador-partidas": 9,
+        "jogador-partidas": 10,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-clube-nautico-capibaribe.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-vinicius-santos-silva.png"
       },
@@ -1532,7 +1532,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 2,
         "jogador-assists": 1,
-        "jogador-partidas": 9,
+        "jogador-partidas": 10,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-clube-nautico-capibaribe.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-vinicius-rodrigues-adelino-dos-santos.png"
       },
@@ -1541,7 +1541,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 2,
         "jogador-assists": 1,
-        "jogador-partidas": 8,
+        "jogador-partidas": 9,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-clube-nautico-capibaribe.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-victor-andrade-santos.png"
       }
