@@ -8,28 +8,28 @@
           "name": "SE Palmeiras",
           "logo": "https://cdn.footystats.org/img/teams/brazil-se-palmeiras.png"
         },
-        "points": 35,
-        "goalsDiff": 13,
+        "points": 38,
+        "goalsDiff": 16,
         "group": "Brazil Serie A 2026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 16,
-          "win": 10,
+          "played": 17,
+          "win": 11,
           "draw": 5,
           "lose": 1,
           "goals": {
-            "for": 26,
+            "for": 29,
             "against": 13
           },
-          "form": "WWDDD",
+          "form": "WDDDW",
           "btts_matches": 11,
-          "avg_corners_per_game": 6.31,
-          "aproveitamento": 72.9,
-          "over_2_5_goals": 8,
-          "over_0_5_ht": 14,
-          "over_0_5_ft": 7,
-          "clean_sheets": 5
+          "avg_corners_per_game": 6.18,
+          "aproveitamento": 74.5,
+          "over_2_5_goals": 9,
+          "over_0_5_ht": 15,
+          "over_0_5_ft": 8,
+          "clean_sheets": 6
         },
         "home": {
           "played": 8,
@@ -50,22 +50,22 @@
           "clean_sheets_home": 2
         },
         "away": {
-          "played": 8,
-          "win": 4,
+          "played": 9,
+          "win": 5,
           "draw": 3,
           "lose": 1,
           "goals": {
-            "for": 11,
+            "for": 14,
             "against": 7
           },
-          "form_visitor": "WWDWD",
+          "form_visitor": "WDWDW",
           "btts_away_matches": 5,
-          "avg_corners_away_per_game": 6.25,
-          "aproveitamento_away": 62.5,
-          "over_2_5_goals_away": 4,
-          "over_0_5_ht_away": 7,
-          "over_0_5_ft_away": 3,
-          "clean_sheets_away": 3
+          "avg_corners_away_per_game": 6.0,
+          "aproveitamento_away": 66.7,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 8,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 4
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -77,42 +77,42 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-cr-flamengo.png"
         },
         "points": 31,
-        "goalsDiff": 15,
+        "goalsDiff": 12,
         "group": "Brazil Serie A 2026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 15,
+          "played": 16,
           "win": 9,
           "draw": 4,
-          "lose": 2,
+          "lose": 3,
           "goals": {
             "for": 28,
-            "against": 13
+            "against": 16
           },
-          "form": "WWDWD",
+          "form": "WDWDL",
           "btts_matches": 8,
-          "avg_corners_per_game": 4.2,
-          "aproveitamento": 68.9,
-          "over_2_5_goals": 9,
+          "avg_corners_per_game": 4.44,
+          "aproveitamento": 64.6,
+          "over_2_5_goals": 10,
           "over_0_5_ht": 9,
           "over_0_5_ft": 12,
           "clean_sheets": 6
         },
         "home": {
-          "played": 6,
+          "played": 7,
           "win": 4,
           "draw": 2,
-          "lose": 0,
+          "lose": 1,
           "goals": {
             "for": 13,
-            "against": 4
+            "against": 7
           },
-          "form_home": "WWWWD",
-          "avg_corners_home_per_game": 4.67,
-          "aproveitamento_home": 77.8,
+          "form_home": "WWWDL",
+          "avg_corners_home_per_game": 5.14,
+          "aproveitamento_home": 66.7,
           "btts_home_matches": 3,
-          "over_2_5_goals_home": 3,
+          "over_2_5_goals_home": 4,
           "over_0_5_ht_home": 4,
           "over_0_5_ft_home": 6,
           "clean_sheets_home": 3
@@ -1370,7 +1370,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 9,
         "jogador-assists": 3,
-        "jogador-partidas": 15,
+        "jogador-partidas": 16,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-cr-flamengo.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-pedro-guilherme-abreu-dos-santos.png"
       },
@@ -1438,6 +1438,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-arthur-cabral.png"
       },
       {
+        "jogador-nome": "José Manuel López",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 6,
+        "jogador-assists": 3,
+        "jogador-partidas": 17,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-se-palmeiras.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/argentina-jose-manuel-lopez.png"
+      },
+      {
         "jogador-nome": "Gabriel Barbosa Almeida",
         "jogador-posicao": "Forward",
         "jogador-gols": 6,
@@ -1463,15 +1472,6 @@
         "jogador-partidas": 15,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-sao-paulo-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/argentina-jonathan-calleri.png"
-      },
-      {
-        "jogador-nome": "José Manuel López",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 5,
-        "jogador-assists": 3,
-        "jogador-partidas": 16,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-se-palmeiras.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/argentina-jose-manuel-lopez.png"
       },
       {
         "jogador-nome": "Christian Roberto Alves Cardoso",
@@ -1537,13 +1537,13 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-edenilson.png"
       },
       {
-        "jogador-nome": "Pedro Rocha Neves",
+        "jogador-nome": "Allan Andrade Elias",
         "jogador-posicao": "Forward",
         "jogador-gols": 4,
-        "jogador-assists": 1,
+        "jogador-assists": 2,
         "jogador-partidas": 16,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-coritiba-fbc.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-pedro-rocha-neves.png"
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-se-palmeiras.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-allan-andrade-elias.png"
       }
     ]
   }
