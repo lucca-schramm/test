@@ -276,6 +276,74 @@
       {
         "rank": 5,
         "team": {
+          "id": 635,
+          "name": "Clube Atlético Bragantino",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-clube-atletico-bragantino.png"
+        },
+        "points": 26,
+        "goalsDiff": 4,
+        "group": "Brazil Serie A 2026",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 17,
+          "win": 8,
+          "draw": 2,
+          "lose": 7,
+          "goals": {
+            "for": 22,
+            "against": 18
+          },
+          "form": "LWLWW",
+          "btts_matches": 7,
+          "avg_corners_per_game": 5.53,
+          "aproveitamento": 51.0,
+          "over_2_5_goals": 7,
+          "over_0_5_ht": 10,
+          "over_0_5_ft": 8,
+          "clean_sheets": 6
+        },
+        "home": {
+          "played": 8,
+          "win": 4,
+          "draw": 1,
+          "lose": 3,
+          "goals": {
+            "for": 13,
+            "against": 8
+          },
+          "form_home": "LWWLW",
+          "avg_corners_home_per_game": 6.12,
+          "aproveitamento_home": 54.2,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 7,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 9,
+          "win": 4,
+          "draw": 1,
+          "lose": 4,
+          "goals": {
+            "for": 9,
+            "against": 10
+          },
+          "form_visitor": "WLWLW",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 5.0,
+          "aproveitamento_away": 48.1,
+          "over_2_5_goals_away": 3,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 5,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 6,
+        "team": {
           "id": 618,
           "name": "São Paulo FC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-sao-paulo-fc.png"
@@ -338,74 +406,6 @@
           "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 6,
           "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 6,
-        "team": {
-          "id": 635,
-          "name": "Clube Atlético Bragantino",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-clube-atletico-bragantino.png"
-        },
-        "points": 23,
-        "goalsDiff": 1,
-        "group": "Brazil Serie A 2026",
-        "status": "same",
-        "description": "Copa Sul-Americana",
-        "all": {
-          "played": 16,
-          "win": 7,
-          "draw": 2,
-          "lose": 7,
-          "goals": {
-            "for": 19,
-            "against": 18
-          },
-          "form": "WLWLW",
-          "btts_matches": 7,
-          "avg_corners_per_game": 5.5,
-          "aproveitamento": 47.9,
-          "over_2_5_goals": 6,
-          "over_0_5_ht": 9,
-          "over_0_5_ft": 7,
-          "clean_sheets": 5
-        },
-        "home": {
-          "played": 8,
-          "win": 4,
-          "draw": 1,
-          "lose": 3,
-          "goals": {
-            "for": 13,
-            "against": 8
-          },
-          "form_home": "LWWLW",
-          "avg_corners_home_per_game": 6.12,
-          "aproveitamento_home": 54.2,
-          "btts_home_matches": 4,
-          "over_2_5_goals_home": 4,
-          "over_0_5_ht_home": 7,
-          "over_0_5_ft_home": 3,
-          "clean_sheets_home": 3
-        },
-        "away": {
-          "played": 8,
-          "win": 3,
-          "draw": 1,
-          "lose": 4,
-          "goals": {
-            "for": 6,
-            "against": 10
-          },
-          "form_visitor": "LWLWL",
-          "btts_away_matches": 3,
-          "avg_corners_away_per_game": 4.88,
-          "aproveitamento_away": 41.7,
-          "over_2_5_goals_away": 2,
-          "over_0_5_ht_away": 2,
-          "over_0_5_ft_away": 4,
-          "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1029,42 +1029,42 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-cr-vasco-da-gama.png"
         },
         "points": 20,
-        "goalsDiff": -3,
+        "goalsDiff": -6,
         "group": "Brazil Serie A 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 16,
+          "played": 17,
           "win": 5,
           "draw": 5,
-          "lose": 6,
+          "lose": 7,
           "goals": {
             "for": 22,
-            "against": 25
+            "against": 28
           },
-          "form": "WLDWL",
+          "form": "LDWLL",
           "btts_matches": 13,
-          "avg_corners_per_game": 5.44,
-          "aproveitamento": 41.7,
-          "over_2_5_goals": 10,
+          "avg_corners_per_game": 5.47,
+          "aproveitamento": 39.2,
+          "over_2_5_goals": 11,
           "over_0_5_ht": 5,
           "over_0_5_ft": 9,
           "clean_sheets": 1
         },
         "home": {
-          "played": 8,
+          "played": 9,
           "win": 5,
           "draw": 1,
-          "lose": 2,
+          "lose": 3,
           "goals": {
             "for": 12,
-            "against": 9
+            "against": 12
           },
-          "form_home": "WWLWW",
-          "avg_corners_home_per_game": 6.12,
-          "aproveitamento_home": 66.7,
+          "form_home": "WLWWL",
+          "avg_corners_home_per_game": 6.11,
+          "aproveitamento_home": 59.3,
           "btts_home_matches": 6,
-          "over_2_5_goals_home": 5,
+          "over_2_5_goals_home": 6,
           "over_0_5_ht_home": 2,
           "over_0_5_ft_home": 5,
           "clean_sheets_home": 1
@@ -1447,6 +1447,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/argentina-jose-manuel-lopez.png"
       },
       {
+        "jogador-nome": "Isidro Miguel Pitta Saldívar",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 6,
+        "jogador-assists": 2,
+        "jogador-partidas": 16,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-clube-atletico-bragantino.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/paraguay-isidro-miguel-pitta-saldivar.png"
+      },
+      {
         "jogador-nome": "Gabriel Barbosa Almeida",
         "jogador-posicao": "Forward",
         "jogador-gols": 6,
@@ -1481,15 +1490,6 @@
         "jogador-partidas": 16,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-cruzeiro-ec.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-christian-roberto-alves-cardoso.png"
-      },
-      {
-        "jogador-nome": "Isidro Miguel Pitta Saldívar",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 5,
-        "jogador-assists": 1,
-        "jogador-partidas": 15,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-clube-atletico-bragantino.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/paraguay-isidro-miguel-pitta-saldivar.png"
       },
       {
         "jogador-nome": "John Stiven Mendoza Valencia",
