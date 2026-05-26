@@ -616,6 +616,74 @@
       {
         "rank": 10,
         "team": {
+          "id": 677199,
+          "name": "Athletic Club (Minas Gerais)",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-athletic-club-minas-gerais.png"
+        },
+        "points": 14,
+        "goalsDiff": 1,
+        "group": "Brazil Serie B 2026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 10,
+          "win": 3,
+          "draw": 5,
+          "lose": 2,
+          "goals": {
+            "for": 12,
+            "against": 11
+          },
+          "form": "LDDDW",
+          "btts_matches": 8,
+          "avg_corners_per_game": 3.8,
+          "aproveitamento": 46.7,
+          "over_2_5_goals": 4,
+          "over_0_5_ht": 6,
+          "over_0_5_ft": 3,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 5,
+          "win": 1,
+          "draw": 3,
+          "lose": 1,
+          "goals": {
+            "for": 4,
+            "against": 4
+          },
+          "form_home": "WDLDD",
+          "avg_corners_home_per_game": 5.2,
+          "aproveitamento_home": 40.0,
+          "btts_home_matches": 3,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 0,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 5,
+          "win": 2,
+          "draw": 2,
+          "lose": 1,
+          "goals": {
+            "for": 8,
+            "against": 7
+          },
+          "form_visitor": "DWLDW",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 2.4,
+          "aproveitamento_away": 53.3,
+          "over_2_5_goals_away": 3,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 11,
+        "team": {
           "id": 642,
           "name": "Ceará SC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-ceara-sc.png"
@@ -682,7 +750,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 11,
+        "rank": 12,
         "team": {
           "id": 1053,
           "name": "EC Juventude",
@@ -750,7 +818,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "team": {
           "id": 2662,
           "name": "Operário Ferroviário EC",
@@ -818,7 +886,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "team": {
           "id": 629,
           "name": "AC Goianiense",
@@ -882,74 +950,6 @@
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 1,
           "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 14,
-        "team": {
-          "id": 677199,
-          "name": "Athletic Club (Minas Gerais)",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-athletic-club-minas-gerais.png"
-        },
-        "points": 11,
-        "goalsDiff": 0,
-        "group": "Brazil Serie B 2026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 9,
-          "win": 2,
-          "draw": 5,
-          "lose": 2,
-          "goals": {
-            "for": 10,
-            "against": 10
-          },
-          "form": "LLDDD",
-          "btts_matches": 7,
-          "avg_corners_per_game": 4.0,
-          "aproveitamento": 40.7,
-          "over_2_5_goals": 3,
-          "over_0_5_ht": 5,
-          "over_0_5_ft": 2,
-          "clean_sheets": 1
-        },
-        "home": {
-          "played": 5,
-          "win": 1,
-          "draw": 3,
-          "lose": 1,
-          "goals": {
-            "for": 4,
-            "against": 4
-          },
-          "form_home": "WDLDD",
-          "avg_corners_home_per_game": 5.2,
-          "aproveitamento_home": 40.0,
-          "btts_home_matches": 3,
-          "over_2_5_goals_home": 1,
-          "over_0_5_ht_home": 3,
-          "over_0_5_ft_home": 0,
-          "clean_sheets_home": 1
-        },
-        "away": {
-          "played": 4,
-          "win": 1,
-          "draw": 2,
-          "lose": 1,
-          "goals": {
-            "for": 6,
-            "against": 6
-          },
-          "form_visitor": "DWLD",
-          "btts_away_matches": 4,
-          "avg_corners_away_per_game": 2.5,
-          "aproveitamento_away": 41.7,
-          "over_2_5_goals_away": 2,
-          "over_0_5_ht_away": 2,
-          "over_0_5_ft_away": 2,
-          "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1097,44 +1097,44 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-botafogo-fc-ribeirao-preto.png"
         },
         "points": 9,
-        "goalsDiff": 1,
+        "goalsDiff": 0,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 9,
+          "played": 10,
           "win": 2,
           "draw": 3,
-          "lose": 4,
+          "lose": 5,
           "goals": {
-            "for": 10,
-            "against": 9
+            "for": 11,
+            "against": 11
           },
-          "form": "DDDLL",
-          "btts_matches": 5,
-          "avg_corners_per_game": 6.33,
-          "aproveitamento": 33.3,
-          "over_2_5_goals": 3,
+          "form": "DDLLL",
+          "btts_matches": 6,
+          "avg_corners_per_game": 6.3,
+          "aproveitamento": 30.0,
+          "over_2_5_goals": 4,
           "over_0_5_ht": 5,
-          "over_0_5_ft": 3,
+          "over_0_5_ft": 4,
           "clean_sheets": 1
         },
         "home": {
-          "played": 4,
+          "played": 5,
           "win": 1,
           "draw": 2,
-          "lose": 1,
+          "lose": 2,
           "goals": {
-            "for": 7,
-            "against": 4
+            "for": 8,
+            "against": 6
           },
-          "form_home": "WLDD",
-          "avg_corners_home_per_game": 8.5,
-          "aproveitamento_home": 41.7,
-          "btts_home_matches": 3,
-          "over_2_5_goals_home": 2,
+          "form_home": "WLDDL",
+          "avg_corners_home_per_game": 8.0,
+          "aproveitamento_home": 33.3,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 3,
           "over_0_5_ht_home": 4,
-          "over_0_5_ft_home": 1,
+          "over_0_5_ft_home": 2,
           "clean_sheets_home": 1
         },
         "away": {
@@ -1375,6 +1375,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-mikael-filipe-viana-de-sousa.png"
       },
       {
+        "jogador-nome": "Everton Morelli Casemiro",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 6,
+        "jogador-assists": 1,
+        "jogador-partidas": 10,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-botafogo-fc-ribeirao-preto.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-everton-morelli-casemiro.png"
+      },
+      {
         "jogador-nome": "Vinícius Santos Silva",
         "jogador-posicao": "Forward",
         "jogador-gols": 5,
@@ -1382,15 +1391,6 @@
         "jogador-partidas": 10,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-clube-nautico-capibaribe.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-vinicius-santos-silva.png"
-      },
-      {
-        "jogador-nome": "Everton Morelli Casemiro",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 5,
-        "jogador-assists": 1,
-        "jogador-partidas": 9,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-botafogo-fc-ribeirao-preto.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-everton-morelli-casemiro.png"
       },
       {
         "jogador-nome": "Ronaldo Rodrigues Tavares",
