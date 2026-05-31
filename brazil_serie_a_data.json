@@ -757,26 +757,26 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-ec-vitoria.png"
         },
         "points": 22,
-        "goalsDiff": -2,
+        "goalsDiff": -4,
         "group": "Brazil Serie A 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 16,
+          "played": 17,
           "win": 6,
           "draw": 4,
-          "lose": 6,
+          "lose": 7,
           "goals": {
-            "for": 20,
-            "against": 22
+            "for": 21,
+            "against": 25
           },
-          "form": "LWDLW",
-          "btts_matches": 7,
-          "avg_corners_per_game": 3.88,
-          "aproveitamento": 45.8,
-          "over_2_5_goals": 6,
+          "form": "WDLWL",
+          "btts_matches": 8,
+          "avg_corners_per_game": 3.94,
+          "aproveitamento": 43.1,
+          "over_2_5_goals": 7,
           "over_0_5_ht": 7,
-          "over_0_5_ft": 9,
+          "over_0_5_ft": 10,
           "clean_sheets": 6
         },
         "home": {
@@ -798,21 +798,21 @@
           "clean_sheets_home": 6
         },
         "away": {
-          "played": 8,
+          "played": 9,
           "win": 0,
           "draw": 3,
-          "lose": 5,
+          "lose": 6,
           "goals": {
-            "for": 6,
-            "against": 19
+            "for": 7,
+            "against": 22
           },
-          "form_visitor": "LDLDL",
-          "btts_away_matches": 5,
-          "avg_corners_away_per_game": 4.0,
-          "aproveitamento_away": 12.5,
-          "over_2_5_goals_away": 4,
+          "form_visitor": "DLDLL",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 4.11,
+          "aproveitamento_away": 11.1,
+          "over_2_5_goals_away": 5,
           "over_0_5_ht_away": 2,
-          "over_0_5_ft_away": 3,
+          "over_0_5_ft_away": 4,
           "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -956,6 +956,74 @@
       {
         "rank": 15,
         "team": {
+          "id": 611,
+          "name": "Santos FC Sao Paulo",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-santos-fc-sao-paulo.png"
+        },
+        "points": 21,
+        "goalsDiff": -3,
+        "group": "Brazil Serie A 2026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 18,
+          "win": 5,
+          "draw": 6,
+          "lose": 7,
+          "goals": {
+            "for": 26,
+            "against": 29
+          },
+          "form": "DWLLW",
+          "btts_matches": 13,
+          "avg_corners_per_game": 5.0,
+          "aproveitamento": 38.9,
+          "over_2_5_goals": 11,
+          "over_0_5_ht": 12,
+          "over_0_5_ft": 11,
+          "clean_sheets": 4
+        },
+        "home": {
+          "played": 10,
+          "win": 5,
+          "draw": 2,
+          "lose": 3,
+          "goals": {
+            "for": 15,
+            "against": 12
+          },
+          "form_home": "WLWLW",
+          "avg_corners_home_per_game": 4.8,
+          "aproveitamento_home": 56.7,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 7,
+          "over_0_5_ft_home": 7,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 8,
+          "win": 0,
+          "draw": 4,
+          "lose": 4,
+          "goals": {
+            "for": 11,
+            "against": 17
+          },
+          "form_visitor": "DLDDL",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 5.25,
+          "aproveitamento_away": 16.7,
+          "over_2_5_goals_away": 6,
+          "over_0_5_ht_away": 5,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 16,
+        "team": {
           "id": 616,
           "name": "Grêmio FB Porto Alegrense",
           "logo": "https://cdn.footystats.org/img/teams/brazil-gremio-fb-porto-alegrense.png"
@@ -1022,7 +1090,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 16,
+        "rank": 17,
         "team": {
           "id": 625,
           "name": "CR Vasco da Gama",
@@ -1032,7 +1100,7 @@
         "goalsDiff": -6,
         "group": "Brazil Serie A 2026",
         "status": "same",
-        "description": "",
+        "description": "Rebaixamento",
         "all": {
           "played": 17,
           "win": 5,
@@ -1086,74 +1154,6 @@
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 4,
           "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 17,
-        "team": {
-          "id": 611,
-          "name": "Santos FC Sao Paulo",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-santos-fc-sao-paulo.png"
-        },
-        "points": 18,
-        "goalsDiff": -5,
-        "group": "Brazil Serie A 2026",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 17,
-          "win": 4,
-          "draw": 6,
-          "lose": 7,
-          "goals": {
-            "for": 23,
-            "against": 28
-          },
-          "form": "DDWLL",
-          "btts_matches": 12,
-          "avg_corners_per_game": 5.24,
-          "aproveitamento": 35.3,
-          "over_2_5_goals": 10,
-          "over_0_5_ht": 11,
-          "over_0_5_ft": 10,
-          "clean_sheets": 4
-        },
-        "home": {
-          "played": 9,
-          "win": 4,
-          "draw": 2,
-          "lose": 3,
-          "goals": {
-            "for": 12,
-            "against": 11
-          },
-          "form_home": "WWLWL",
-          "avg_corners_home_per_game": 5.22,
-          "aproveitamento_home": 51.9,
-          "btts_home_matches": 5,
-          "over_2_5_goals_home": 4,
-          "over_0_5_ht_home": 6,
-          "over_0_5_ft_home": 6,
-          "clean_sheets_home": 3
-        },
-        "away": {
-          "played": 8,
-          "win": 0,
-          "draw": 4,
-          "lose": 4,
-          "goals": {
-            "for": 11,
-            "against": 17
-          },
-          "form_visitor": "DLDDL",
-          "btts_away_matches": 7,
-          "avg_corners_away_per_game": 5.25,
-          "aproveitamento_away": 16.7,
-          "over_2_5_goals_away": 6,
-          "over_0_5_ht_away": 5,
-          "over_0_5_ft_away": 4,
-          "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1411,6 +1411,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-breno-lopes.png"
       },
       {
+        "jogador-nome": "Gabriel Barbosa Almeida",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 7,
+        "jogador-assists": 2,
+        "jogador-partidas": 12,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-santos-fc-sao-paulo.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-gabriel-barbosa-almeida.png"
+      },
+      {
         "jogador-nome": "Danilo dos Santos de Oliveira",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 7,
@@ -1456,15 +1465,6 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/paraguay-isidro-miguel-pitta-saldivar.png"
       },
       {
-        "jogador-nome": "Gabriel Barbosa Almeida",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 6,
-        "jogador-assists": 2,
-        "jogador-partidas": 11,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-santos-fc-sao-paulo.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-gabriel-barbosa-almeida.png"
-      },
-      {
         "jogador-nome": "Luciano da Rocha Neves",
         "jogador-posicao": "Forward",
         "jogador-gols": 6,
@@ -1501,6 +1501,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/uruguay-joaquin-lavega-colzada.png"
       },
       {
+        "jogador-nome": "Carlos Rene de Sousa Ferreira",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 5,
+        "jogador-assists": 1,
+        "jogador-partidas": 10,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ec-vitoria.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-carlos-rene-de-sousa-ferreira.png"
+      },
+      {
         "jogador-nome": "John Stiven Mendoza Valencia",
         "jogador-posicao": "Forward",
         "jogador-gols": 5,
@@ -1535,15 +1544,6 @@
         "jogador-partidas": 17,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-clube-do-remo.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-alef-mangueira-severino-pereira.png"
-      },
-      {
-        "jogador-nome": "Neymar da Silva Santos Junior",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 4,
-        "jogador-assists": 2,
-        "jogador-partidas": 8,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-santos-fc-sao-paulo.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-neymar.png"
       }
     ]
   }
