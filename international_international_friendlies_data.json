@@ -140,6 +140,74 @@
       {
         "rank": 3,
         "team": {
+          "id": 7963,
+          "name": "Austria National Team",
+          "logo": "https://cdn.footystats.org/img/teams/austria-austria-national-team.png"
+        },
+        "points": 9,
+        "goalsDiff": 6,
+        "group": "International International Friendlies 2026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 3,
+          "win": 3,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 7,
+            "against": 1
+          },
+          "form": "WWW",
+          "btts_matches": 1,
+          "avg_corners_per_game": 3.67,
+          "aproveitamento": 100.0,
+          "over_2_5_goals": 1,
+          "over_0_5_ht": 1,
+          "over_0_5_ft": 3,
+          "clean_sheets": 2
+        },
+        "home": {
+          "played": 3,
+          "win": 3,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 7,
+            "against": 1
+          },
+          "form_home": "WWW",
+          "avg_corners_home_per_game": 3.67,
+          "aproveitamento_home": 100.0,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 0,
+          "win": 0,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 0,
+            "against": 0
+          },
+          "form_visitor": "",
+          "btts_away_matches": 0,
+          "avg_corners_away_per_game": 0,
+          "aproveitamento_away": 0,
+          "over_2_5_goals_away": 0,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 4,
+        "team": {
           "id": 8579,
           "name": "Japan National Team",
           "logo": "https://cdn.footystats.org/img/teams/japan-japan-national-team.png"
@@ -206,7 +274,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "team": {
           "id": 8682,
           "name": "Morocco National Team",
@@ -216,7 +284,7 @@
         "goalsDiff": 6,
         "group": "International International Friendlies 2026",
         "status": "same",
-        "description": "Copa Libertadores",
+        "description": "Copa Sul-Americana",
         "all": {
           "played": 3,
           "win": 2,
@@ -274,7 +342,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "team": {
           "id": 7982,
           "name": "Republic of Ireland National Team",
@@ -342,7 +410,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "team": {
           "id": 8683,
           "name": "Egypt National Team",
@@ -352,7 +420,7 @@
         "goalsDiff": 5,
         "group": "International International Friendlies 2026",
         "status": "same",
-        "description": "Copa Sul-Americana",
+        "description": "",
         "all": {
           "played": 3,
           "win": 2,
@@ -410,7 +478,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "team": {
           "id": 8631,
           "name": "Nigeria National Team",
@@ -478,7 +546,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "team": {
           "id": 7991,
           "name": "Bulgaria National Team",
@@ -546,7 +614,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "team": {
           "id": 8607,
           "name": "Iran National Team",
@@ -614,7 +682,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "team": {
           "id": 8625,
           "name": "Argentina National Team",
@@ -682,7 +750,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 11,
+        "rank": 12,
         "team": {
           "id": 3986,
           "name": "Puerto Rico FC",
@@ -750,7 +818,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "team": {
           "id": 8630,
           "name": "Brazil National Team",
@@ -796,74 +864,6 @@
           "over_0_5_ht_home": 2,
           "over_0_5_ft_home": 3,
           "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 0,
-          "win": 0,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 0,
-            "against": 0
-          },
-          "form_visitor": "",
-          "btts_away_matches": 0,
-          "avg_corners_away_per_game": 0,
-          "aproveitamento_away": 0,
-          "over_2_5_goals_away": 0,
-          "over_0_5_ht_away": 0,
-          "over_0_5_ft_away": 0,
-          "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 13,
-        "team": {
-          "id": 7963,
-          "name": "Austria National Team",
-          "logo": "https://cdn.footystats.org/img/teams/austria-austria-national-team.png"
-        },
-        "points": 6,
-        "goalsDiff": 5,
-        "group": "International International Friendlies 2026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 2,
-          "win": 2,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 6,
-            "against": 1
-          },
-          "form": "WW",
-          "btts_matches": 1,
-          "avg_corners_per_game": 4.5,
-          "aproveitamento": 100.0,
-          "over_2_5_goals": 1,
-          "over_0_5_ht": 1,
-          "over_0_5_ft": 2,
-          "clean_sheets": 1
-        },
-        "home": {
-          "played": 2,
-          "win": 2,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 6,
-            "against": 1
-          },
-          "form_home": "WW",
-          "avg_corners_home_per_game": 4.5,
-          "aproveitamento_home": 100.0,
-          "btts_home_matches": 1,
-          "over_2_5_goals_home": 1,
-          "over_0_5_ht_home": 1,
-          "over_0_5_ft_home": 2,
-          "clean_sheets_home": 1
         },
         "away": {
           "played": 0,
@@ -2797,23 +2797,23 @@
           "logo": "https://cdn.footystats.org/img/teams/tunisia-tunisia-national-team.png"
         },
         "points": 4,
-        "goalsDiff": 1,
+        "goalsDiff": 0,
         "group": "International International Friendlies 2026",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 2,
+          "played": 3,
           "win": 1,
           "draw": 1,
-          "lose": 0,
+          "lose": 1,
           "goals": {
             "for": 1,
-            "against": 0
+            "against": 1
           },
-          "form": "WD",
+          "form": "WDL",
           "btts_matches": 0,
-          "avg_corners_per_game": 2.0,
-          "aproveitamento": 66.7,
+          "avg_corners_per_game": 2.67,
+          "aproveitamento": 44.4,
           "over_2_5_goals": 0,
           "over_0_5_ht": 1,
           "over_0_5_ft": 0,
@@ -2838,18 +2838,18 @@
           "clean_sheets_home": 0
         },
         "away": {
-          "played": 2,
+          "played": 3,
           "win": 1,
           "draw": 1,
-          "lose": 0,
+          "lose": 1,
           "goals": {
             "for": 1,
-            "against": 0
+            "against": 1
           },
-          "form_visitor": "WD",
+          "form_visitor": "WDL",
           "btts_away_matches": 0,
-          "avg_corners_away_per_game": 2.0,
-          "aproveitamento_away": 66.7,
+          "avg_corners_away_per_game": 2.67,
+          "aproveitamento_away": 44.4,
           "over_2_5_goals_away": 0,
           "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 0,
@@ -6824,6 +6824,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/iran-mehdi-taremi.png"
       },
       {
+        "jogador-nome": "Marcel Sabitzer",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 3,
+        "jogador-assists": 2,
+        "jogador-partidas": 3,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/austria-austria-national-team.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/austria-marcel-sabitzer.png"
+      },
+      {
         "jogador-nome": "Florian Wirtz",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 3,
@@ -6867,15 +6876,6 @@
         "jogador-partidas": 2,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/belgium-belgium-national-team.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/belgium-dodi-lukebakio.png"
-      },
-      {
-        "jogador-nome": "Marcel Sabitzer",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 2,
-        "jogador-assists": 2,
-        "jogador-partidas": 2,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/austria-austria-national-team.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/austria-marcel-sabitzer.png"
       },
       {
         "jogador-nome": "Jordan Jacob Bos",
