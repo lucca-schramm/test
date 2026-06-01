@@ -757,23 +757,23 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-clube-de-regatas-brasil.png"
         },
         "points": 14,
-        "goalsDiff": 2,
+        "goalsDiff": 0,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 10,
+          "played": 11,
           "win": 4,
           "draw": 2,
-          "lose": 4,
+          "lose": 5,
           "goals": {
             "for": 17,
-            "against": 15
+            "against": 17
           },
-          "form": "LWWWW",
+          "form": "WWWWL",
           "btts_matches": 7,
-          "avg_corners_per_game": 4.7,
-          "aproveitamento": 46.7,
+          "avg_corners_per_game": 4.55,
+          "aproveitamento": 42.4,
           "over_2_5_goals": 7,
           "over_0_5_ht": 6,
           "over_0_5_ft": 7,
@@ -798,18 +798,18 @@
           "clean_sheets_home": 1
         },
         "away": {
-          "played": 5,
+          "played": 6,
           "win": 2,
           "draw": 2,
-          "lose": 1,
+          "lose": 2,
           "goals": {
             "for": 8,
-            "against": 8
+            "against": 10
           },
-          "form_visitor": "DDLWW",
+          "form_visitor": "DLWWL",
           "btts_away_matches": 5,
-          "avg_corners_away_per_game": 3.4,
-          "aproveitamento_away": 53.3,
+          "avg_corners_away_per_game": 3.33,
+          "aproveitamento_away": 44.4,
           "over_2_5_goals_away": 4,
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 5,
@@ -956,6 +956,74 @@
       {
         "rank": 15,
         "team": {
+          "id": 2592,
+          "name": "Cuiabá EC",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-cuiaba-ec.png"
+        },
+        "points": 13,
+        "goalsDiff": 1,
+        "group": "Brazil Serie B 2026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 11,
+          "win": 2,
+          "draw": 7,
+          "lose": 2,
+          "goals": {
+            "for": 6,
+            "against": 5
+          },
+          "form": "DDDLW",
+          "btts_matches": 2,
+          "avg_corners_per_game": 3.36,
+          "aproveitamento": 39.4,
+          "over_2_5_goals": 0,
+          "over_0_5_ht": 2,
+          "over_0_5_ft": 2,
+          "clean_sheets": 7
+        },
+        "home": {
+          "played": 6,
+          "win": 1,
+          "draw": 4,
+          "lose": 1,
+          "goals": {
+            "for": 4,
+            "against": 4
+          },
+          "form_home": "LDDDW",
+          "avg_corners_home_per_game": 4.17,
+          "aproveitamento_home": 38.9,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 0,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 5,
+          "win": 1,
+          "draw": 3,
+          "lose": 1,
+          "goals": {
+            "for": 2,
+            "against": 1
+          },
+          "form_visitor": "DDWDL",
+          "btts_away_matches": 0,
+          "avg_corners_away_per_game": 2.4,
+          "aproveitamento_away": 40.0,
+          "over_2_5_goals_away": 0,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 4
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 16,
+        "team": {
           "id": 621,
           "name": "Avai FC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-avai-fc.png"
@@ -1018,74 +1086,6 @@
           "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 3,
           "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 16,
-        "team": {
-          "id": 2592,
-          "name": "Cuiabá EC",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-cuiaba-ec.png"
-        },
-        "points": 10,
-        "goalsDiff": -1,
-        "group": "Brazil Serie B 2026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 10,
-          "win": 1,
-          "draw": 7,
-          "lose": 2,
-          "goals": {
-            "for": 4,
-            "against": 5
-          },
-          "form": "DDDDL",
-          "btts_matches": 2,
-          "avg_corners_per_game": 3.0,
-          "aproveitamento": 33.3,
-          "over_2_5_goals": 0,
-          "over_0_5_ht": 1,
-          "over_0_5_ft": 2,
-          "clean_sheets": 6
-        },
-        "home": {
-          "played": 5,
-          "win": 0,
-          "draw": 4,
-          "lose": 1,
-          "goals": {
-            "for": 2,
-            "against": 4
-          },
-          "form_home": "DLDDD",
-          "avg_corners_home_per_game": 3.6,
-          "aproveitamento_home": 26.7,
-          "btts_home_matches": 2,
-          "over_2_5_goals_home": 0,
-          "over_0_5_ht_home": 1,
-          "over_0_5_ft_home": 1,
-          "clean_sheets_home": 2
-        },
-        "away": {
-          "played": 5,
-          "win": 1,
-          "draw": 3,
-          "lose": 1,
-          "goals": {
-            "for": 2,
-            "against": 1
-          },
-          "form_visitor": "DDWDL",
-          "btts_away_matches": 0,
-          "avg_corners_away_per_game": 2.4,
-          "aproveitamento_away": 40.0,
-          "over_2_5_goals_away": 0,
-          "over_0_5_ht_away": 0,
-          "over_0_5_ft_away": 1,
-          "clean_sheets_away": 4
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1379,7 +1379,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 6,
         "jogador-assists": 1,
-        "jogador-partidas": 9,
+        "jogador-partidas": 10,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-clube-de-regatas-brasil.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-mikael-filipe-viana-de-sousa.png"
       },
@@ -1514,7 +1514,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 3,
         "jogador-assists": 0,
-        "jogador-partidas": 9,
+        "jogador-partidas": 10,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-clube-de-regatas-brasil.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-pedro-henrique-de-castro-silva.png"
       },
