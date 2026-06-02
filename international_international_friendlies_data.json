@@ -72,6 +72,74 @@
       {
         "rank": 2,
         "team": {
+          "id": 8682,
+          "name": "Morocco National Team",
+          "logo": "https://cdn.footystats.org/img/teams/morocco-morocco-national-team.png"
+        },
+        "points": 10,
+        "goalsDiff": 10,
+        "group": "International International Friendlies 2026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 4,
+          "win": 3,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 12,
+            "against": 2
+          },
+          "form": "DWWW",
+          "btts_matches": 2,
+          "avg_corners_per_game": 3.5,
+          "aproveitamento": 83.3,
+          "over_2_5_goals": 3,
+          "over_0_5_ht": 1,
+          "over_0_5_ft": 4,
+          "clean_sheets": 2
+        },
+        "home": {
+          "played": 4,
+          "win": 3,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 12,
+            "against": 2
+          },
+          "form_home": "DWWW",
+          "avg_corners_home_per_game": 3.5,
+          "aproveitamento_home": 83.3,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 0,
+          "win": 0,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 0,
+            "against": 0
+          },
+          "form_visitor": "",
+          "btts_away_matches": 0,
+          "avg_corners_away_per_game": 0,
+          "aproveitamento_away": 0,
+          "over_2_5_goals_away": 0,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 3,
+        "team": {
           "id": 7980,
           "name": "Germany National Team",
           "logo": "https://cdn.footystats.org/img/teams/germany-germany-national-team.png"
@@ -138,7 +206,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "team": {
           "id": 7963,
           "name": "Austria National Team",
@@ -206,7 +274,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "team": {
           "id": 8579,
           "name": "Japan National Team",
@@ -216,7 +284,7 @@
         "goalsDiff": 3,
         "group": "International International Friendlies 2026",
         "status": "same",
-        "description": "Copa Libertadores",
+        "description": "Copa Sul-Americana",
         "all": {
           "played": 3,
           "win": 3,
@@ -274,7 +342,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "team": {
           "id": 8655,
           "name": "Canada National Team",
@@ -320,74 +388,6 @@
           "over_0_5_ht_home": 0,
           "over_0_5_ft_home": 3,
           "clean_sheets_home": 3
-        },
-        "away": {
-          "played": 0,
-          "win": 0,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 0,
-            "against": 0
-          },
-          "form_visitor": "",
-          "btts_away_matches": 0,
-          "avg_corners_away_per_game": 0,
-          "aproveitamento_away": 0,
-          "over_2_5_goals_away": 0,
-          "over_0_5_ht_away": 0,
-          "over_0_5_ft_away": 0,
-          "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 6,
-        "team": {
-          "id": 8682,
-          "name": "Morocco National Team",
-          "logo": "https://cdn.footystats.org/img/teams/morocco-morocco-national-team.png"
-        },
-        "points": 7,
-        "goalsDiff": 6,
-        "group": "International International Friendlies 2026",
-        "status": "same",
-        "description": "Copa Sul-Americana",
-        "all": {
-          "played": 3,
-          "win": 2,
-          "draw": 1,
-          "lose": 0,
-          "goals": {
-            "for": 8,
-            "against": 2
-          },
-          "form": "DWW",
-          "btts_matches": 2,
-          "avg_corners_per_game": 0.67,
-          "aproveitamento": 77.8,
-          "over_2_5_goals": 2,
-          "over_0_5_ht": 0,
-          "over_0_5_ft": 3,
-          "clean_sheets": 1
-        },
-        "home": {
-          "played": 3,
-          "win": 2,
-          "draw": 1,
-          "lose": 0,
-          "goals": {
-            "for": 8,
-            "against": 2
-          },
-          "form_home": "DWW",
-          "avg_corners_home_per_game": 0.67,
-          "aproveitamento_home": 77.8,
-          "btts_home_matches": 2,
-          "over_2_5_goals_home": 2,
-          "over_0_5_ht_home": 0,
-          "over_0_5_ft_home": 3,
-          "clean_sheets_home": 1
         },
         "away": {
           "played": 0,
