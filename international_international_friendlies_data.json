@@ -1840,6 +1840,74 @@
       {
         "rank": 28,
         "team": {
+          "id": 8653,
+          "name": "Kenya National Team",
+          "logo": "https://cdn.footystats.org/img/teams/kenya-kenya-national-team.png"
+        },
+        "points": 5,
+        "goalsDiff": 3,
+        "group": "International International Friendlies 2026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 3,
+          "win": 1,
+          "draw": 2,
+          "lose": 0,
+          "goals": {
+            "for": 5,
+            "against": 2
+          },
+          "form": "DWD",
+          "btts_matches": 2,
+          "avg_corners_per_game": 5.33,
+          "aproveitamento": 55.6,
+          "over_2_5_goals": 1,
+          "over_0_5_ht": 2,
+          "over_0_5_ft": 2,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 1,
+          "win": 0,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 1,
+            "against": 1
+          },
+          "form_home": "D",
+          "avg_corners_home_per_game": 5.0,
+          "aproveitamento_home": 33.3,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 0,
+          "over_0_5_ht_home": 0,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 2,
+          "win": 1,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 4,
+            "against": 1
+          },
+          "form_visitor": "WD",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 5.5,
+          "aproveitamento_away": 66.7,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 29,
+        "team": {
           "id": 7966,
           "name": "Georgia National Team",
           "logo": "https://cdn.footystats.org/img/teams/georgia-georgia-national-team.png"
@@ -1906,7 +1974,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 29,
+        "rank": 30,
         "team": {
           "id": 8628,
           "name": "Ecuador National Team",
@@ -1974,7 +2042,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 30,
+        "rank": 31,
         "team": {
           "id": 7994,
           "name": "Azerbaijan National Team",
@@ -2042,7 +2110,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 31,
+        "rank": 32,
         "team": {
           "id": 8658,
           "name": "Haiti National Team",
@@ -2106,74 +2174,6 @@
           "over_0_5_ht_away": 0,
           "over_0_5_ft_away": 0,
           "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 32,
-        "team": {
-          "id": 8653,
-          "name": "Kenya National Team",
-          "logo": "https://cdn.footystats.org/img/teams/kenya-kenya-national-team.png"
-        },
-        "points": 4,
-        "goalsDiff": 3,
-        "group": "International International Friendlies 2026",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 2,
-          "win": 1,
-          "draw": 1,
-          "lose": 0,
-          "goals": {
-            "for": 4,
-            "against": 1
-          },
-          "form": "DW",
-          "btts_matches": 1,
-          "avg_corners_per_game": 4.5,
-          "aproveitamento": 66.7,
-          "over_2_5_goals": 1,
-          "over_0_5_ht": 1,
-          "over_0_5_ft": 2,
-          "clean_sheets": 1
-        },
-        "home": {
-          "played": 1,
-          "win": 0,
-          "draw": 1,
-          "lose": 0,
-          "goals": {
-            "for": 1,
-            "against": 1
-          },
-          "form_home": "D",
-          "avg_corners_home_per_game": 5.0,
-          "aproveitamento_home": 33.3,
-          "btts_home_matches": 1,
-          "over_2_5_goals_home": 0,
-          "over_0_5_ht_home": 0,
-          "over_0_5_ft_home": 1,
-          "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 1,
-          "win": 1,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 3,
-            "against": 0
-          },
-          "form_visitor": "W",
-          "btts_away_matches": 0,
-          "avg_corners_away_per_game": 4.0,
-          "aproveitamento_away": 100.0,
-          "over_2_5_goals_away": 1,
-          "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 1,
-          "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -6810,7 +6810,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 326,
         "jogador-assists": 0,
-        "jogador-partidas": 80,
+        "jogador-partidas": 83,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/guatemala-guatemala-national-team.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-jogador_42458.png"
       },
