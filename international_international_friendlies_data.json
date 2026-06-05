@@ -1840,6 +1840,74 @@
       {
         "rank": 28,
         "team": {
+          "id": 8585,
+          "name": "China National Team",
+          "logo": "https://cdn.footystats.org/img/teams/china-china-national-team.png"
+        },
+        "points": 6,
+        "goalsDiff": 1,
+        "group": "International International Friendlies 2026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 3,
+          "win": 2,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 4,
+            "against": 3
+          },
+          "form": "WLW",
+          "btts_matches": 1,
+          "avg_corners_per_game": 6.0,
+          "aproveitamento": 66.7,
+          "over_2_5_goals": 1,
+          "over_0_5_ht": 1,
+          "over_0_5_ft": 1,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 1,
+          "win": 1,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 2,
+            "against": 0
+          },
+          "form_home": "W",
+          "avg_corners_home_per_game": 3.0,
+          "aproveitamento_home": 100.0,
+          "btts_home_matches": 0,
+          "over_2_5_goals_home": 0,
+          "over_0_5_ht_home": 0,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 2,
+          "win": 1,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 2,
+            "against": 3
+          },
+          "form_visitor": "LW",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 7.5,
+          "aproveitamento_away": 50.0,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 29,
+        "team": {
           "id": 8653,
           "name": "Kenya National Team",
           "logo": "https://cdn.footystats.org/img/teams/kenya-kenya-national-team.png"
@@ -1906,7 +1974,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 29,
+        "rank": 30,
         "team": {
           "id": 7967,
           "name": "Spain National Team",
@@ -1974,7 +2042,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 30,
+        "rank": 31,
         "team": {
           "id": 7966,
           "name": "Georgia National Team",
@@ -2042,7 +2110,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 31,
+        "rank": 32,
         "team": {
           "id": 8628,
           "name": "Ecuador National Team",
@@ -2110,7 +2178,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 32,
+        "rank": 33,
         "team": {
           "id": 7994,
           "name": "Azerbaijan National Team",
@@ -2178,7 +2246,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 33,
+        "rank": 34,
         "team": {
           "id": 8658,
           "name": "Haiti National Team",
@@ -2246,7 +2314,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 34,
+        "rank": 35,
         "team": {
           "id": 8731,
           "name": "Venezuela National Team",
@@ -2314,7 +2382,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 35,
+        "rank": 36,
         "team": {
           "id": 7960,
           "name": "Switzerland National Team",
@@ -2382,7 +2450,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 36,
+        "rank": 37,
         "team": {
           "id": 8663,
           "name": "Bolivia National Team",
@@ -2450,7 +2518,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 37,
+        "rank": 38,
         "team": {
           "id": 7969,
           "name": "Portugal National Team",
@@ -2518,7 +2586,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 38,
+        "rank": 39,
         "team": {
           "id": 8708,
           "name": "Cape Verde Islands National Team",
@@ -2586,7 +2654,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 39,
+        "rank": 40,
         "team": {
           "id": 7970,
           "name": "Norway National Team",
@@ -2654,7 +2722,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 40,
+        "rank": 41,
         "team": {
           "id": 8681,
           "name": "Togo National Team",
@@ -2722,7 +2790,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 41,
+        "rank": 42,
         "team": {
           "id": 7987,
           "name": "Israel National Team",
@@ -2790,7 +2858,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 42,
+        "rank": 43,
         "team": {
           "id": 7985,
           "name": "Hungary National Team",
@@ -2858,7 +2926,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 43,
+        "rank": 44,
         "team": {
           "id": 7979,
           "name": "Slovenia National Team",
@@ -2926,7 +2994,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 44,
+        "rank": 45,
         "team": {
           "id": 7986,
           "name": "Cyprus National Team",
@@ -2994,7 +3062,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 45,
+        "rank": 46,
         "team": {
           "id": 8615,
           "name": "Uzbekistan National Team",
@@ -3062,7 +3130,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 46,
+        "rank": 47,
         "team": {
           "id": 7996,
           "name": "Netherlands National Team",
@@ -3130,7 +3198,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 47,
+        "rank": 48,
         "team": {
           "id": 8685,
           "name": "Tunisia National Team",
@@ -3198,7 +3266,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 48,
+        "rank": 49,
         "team": {
           "id": 7962,
           "name": "Andorra National Team",
@@ -3266,7 +3334,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 49,
+        "rank": 50,
         "team": {
           "id": 7954,
           "name": "Finland National Team",
@@ -3334,7 +3402,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 50,
+        "rank": 51,
         "team": {
           "id": 8680,
           "name": "Tanzania National Team",
@@ -3402,7 +3470,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 51,
+        "rank": 52,
         "team": {
           "id": 8737,
           "name": "Indonesia National Team",
@@ -3470,7 +3538,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 52,
+        "rank": 53,
         "team": {
           "id": 8007,
           "name": "Kazakhstan National Team",
@@ -3538,7 +3606,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 53,
+        "rank": 54,
         "team": {
           "id": 8005,
           "name": "Scotland National Team",
@@ -3606,7 +3674,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 54,
+        "rank": 55,
         "team": {
           "id": 8006,
           "name": "Faroe Islands National Team",
@@ -3674,7 +3742,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 55,
+        "rank": 56,
         "team": {
           "id": 8634,
           "name": "Cameroon National Team",
@@ -3733,74 +3801,6 @@
           "form_visitor": "L",
           "btts_away_matches": 0,
           "avg_corners_away_per_game": 4.0,
-          "aproveitamento_away": 0.0,
-          "over_2_5_goals_away": 0,
-          "over_0_5_ht_away": 0,
-          "over_0_5_ft_away": 0,
-          "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 56,
-        "team": {
-          "id": 8585,
-          "name": "China National Team",
-          "logo": "https://cdn.footystats.org/img/teams/china-china-national-team.png"
-        },
-        "points": 3,
-        "goalsDiff": 0,
-        "group": "International International Friendlies 2026",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 2,
-          "win": 1,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 2,
-            "against": 2
-          },
-          "form": "WL",
-          "btts_matches": 0,
-          "avg_corners_per_game": 4.0,
-          "aproveitamento": 50.0,
-          "over_2_5_goals": 0,
-          "over_0_5_ht": 0,
-          "over_0_5_ft": 1,
-          "clean_sheets": 1
-        },
-        "home": {
-          "played": 1,
-          "win": 1,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 2,
-            "against": 0
-          },
-          "form_home": "W",
-          "avg_corners_home_per_game": 3.0,
-          "aproveitamento_home": 100.0,
-          "btts_home_matches": 0,
-          "over_2_5_goals_home": 0,
-          "over_0_5_ht_home": 0,
-          "over_0_5_ft_home": 1,
-          "clean_sheets_home": 1
-        },
-        "away": {
-          "played": 1,
-          "win": 0,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 0,
-            "against": 2
-          },
-          "form_visitor": "L",
-          "btts_away_matches": 0,
-          "avg_corners_away_per_game": 5.0,
           "aproveitamento_away": 0.0,
           "over_2_5_goals_away": 0,
           "over_0_5_ht_away": 0,
