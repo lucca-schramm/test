@@ -4,6 +4,74 @@
       {
         "rank": 1,
         "team": {
+          "id": 2677,
+          "name": "São Bernardo FC",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-sao-bernardo-fc.png"
+        },
+        "points": 24,
+        "goalsDiff": 10,
+        "group": "Brazil Serie B 2026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 12,
+          "win": 7,
+          "draw": 3,
+          "lose": 2,
+          "goals": {
+            "for": 20,
+            "against": 10
+          },
+          "form": "WDWDW",
+          "btts_matches": 7,
+          "avg_corners_per_game": 3.92,
+          "aproveitamento": 66.7,
+          "over_2_5_goals": 6,
+          "over_0_5_ht": 5,
+          "over_0_5_ft": 9,
+          "clean_sheets": 4
+        },
+        "home": {
+          "played": 6,
+          "win": 2,
+          "draw": 2,
+          "lose": 2,
+          "goals": {
+            "for": 7,
+            "against": 5
+          },
+          "form_home": "LWWDD",
+          "avg_corners_home_per_game": 4.67,
+          "aproveitamento_home": 44.4,
+          "btts_home_matches": 3,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 6,
+          "win": 5,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 13,
+            "against": 5
+          },
+          "form_visitor": "WWWWW",
+          "btts_away_matches": 4,
+          "avg_corners_away_per_game": 3.17,
+          "aproveitamento_away": 88.9,
+          "over_2_5_goals_away": 4,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 6,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 2,
+        "team": {
           "id": 614,
           "name": "SC do Recife",
           "logo": "https://cdn.footystats.org/img/teams/brazil-sc-do-recife.png"
@@ -70,7 +138,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "team": {
           "id": 645,
           "name": "Vila Nova FC",
@@ -133,74 +201,6 @@
           "over_2_5_goals_away": 2,
           "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 4,
-          "clean_sheets_away": 2
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 3,
-        "team": {
-          "id": 2677,
-          "name": "São Bernardo FC",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-sao-bernardo-fc.png"
-        },
-        "points": 21,
-        "goalsDiff": 9,
-        "group": "Brazil Serie B 2026",
-        "status": "same",
-        "description": "Copa Libertadores",
-        "all": {
-          "played": 11,
-          "win": 6,
-          "draw": 3,
-          "lose": 2,
-          "goals": {
-            "for": 17,
-            "against": 8
-          },
-          "form": "WWDWD",
-          "btts_matches": 6,
-          "avg_corners_per_game": 4.27,
-          "aproveitamento": 63.6,
-          "over_2_5_goals": 5,
-          "over_0_5_ht": 4,
-          "over_0_5_ft": 8,
-          "clean_sheets": 4
-        },
-        "home": {
-          "played": 6,
-          "win": 2,
-          "draw": 2,
-          "lose": 2,
-          "goals": {
-            "for": 7,
-            "against": 5
-          },
-          "form_home": "LWWDD",
-          "avg_corners_home_per_game": 4.67,
-          "aproveitamento_home": 44.4,
-          "btts_home_matches": 3,
-          "over_2_5_goals_home": 2,
-          "over_0_5_ht_home": 3,
-          "over_0_5_ft_home": 3,
-          "clean_sheets_home": 2
-        },
-        "away": {
-          "played": 5,
-          "win": 4,
-          "draw": 1,
-          "lose": 0,
-          "goals": {
-            "for": 10,
-            "against": 3
-          },
-          "form_visitor": "DWWWW",
-          "btts_away_matches": 3,
-          "avg_corners_away_per_game": 3.8,
-          "aproveitamento_away": 86.7,
-          "over_2_5_goals_away": 3,
-          "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 5,
           "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -757,44 +757,44 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-clube-de-regatas-brasil.png"
         },
         "points": 14,
-        "goalsDiff": 0,
+        "goalsDiff": -1,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 11,
+          "played": 12,
           "win": 4,
           "draw": 2,
-          "lose": 5,
+          "lose": 6,
           "goals": {
-            "for": 17,
-            "against": 17
+            "for": 19,
+            "against": 20
           },
-          "form": "WWWWL",
-          "btts_matches": 7,
-          "avg_corners_per_game": 4.55,
-          "aproveitamento": 42.4,
-          "over_2_5_goals": 7,
-          "over_0_5_ht": 6,
-          "over_0_5_ft": 7,
+          "form": "WWWLL",
+          "btts_matches": 8,
+          "avg_corners_per_game": 4.83,
+          "aproveitamento": 38.9,
+          "over_2_5_goals": 8,
+          "over_0_5_ht": 7,
+          "over_0_5_ft": 8,
           "clean_sheets": 1
         },
         "home": {
-          "played": 5,
+          "played": 6,
           "win": 2,
           "draw": 0,
-          "lose": 3,
+          "lose": 4,
           "goals": {
-            "for": 9,
-            "against": 7
+            "for": 11,
+            "against": 10
           },
-          "form_home": "LLLWW",
-          "avg_corners_home_per_game": 6.0,
-          "aproveitamento_home": 40.0,
-          "btts_home_matches": 2,
-          "over_2_5_goals_home": 3,
-          "over_0_5_ht_home": 3,
-          "over_0_5_ft_home": 2,
+          "form_home": "LLWWL",
+          "avg_corners_home_per_game": 6.33,
+          "aproveitamento_home": 33.3,
+          "btts_home_matches": 3,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 3,
           "clean_sheets_home": 1
         },
         "away": {
@@ -1366,6 +1366,15 @@
   "artilharia": {
     "brazil_serie_b": [
       {
+        "jogador-nome": "Mikael Filipe Viana de Sousa",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 7,
+        "jogador-assists": 2,
+        "jogador-partidas": 11,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-clube-de-regatas-brasil.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-mikael-filipe-viana-de-sousa.png"
+      },
+      {
         "jogador-nome": "Chrystian Amaral Barletta de Almeida",
         "jogador-posicao": "Forward",
         "jogador-gols": 6,
@@ -1373,15 +1382,6 @@
         "jogador-partidas": 9,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-sc-do-recife.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-chrystian-barletta.png"
-      },
-      {
-        "jogador-nome": "Mikael Filipe Viana de Sousa",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 6,
-        "jogador-assists": 1,
-        "jogador-partidas": 10,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-clube-de-regatas-brasil.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-mikael-filipe-viana-de-sousa.png"
       },
       {
         "jogador-nome": "Gabriel Boschilia",
@@ -1483,6 +1483,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-robson-dos-santos-fernandes.png"
       },
       {
+        "jogador-nome": "Adailson Freire Pereira da Silva",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 3,
+        "jogador-assists": 1,
+        "jogador-partidas": 10,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-clube-de-regatas-brasil.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-adailson-freire-pereira-da-silva.png"
+      },
+      {
         "jogador-nome": "Walace dos Santos França",
         "jogador-posicao": "Forward",
         "jogador-gols": 3,
@@ -1523,7 +1532,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 3,
         "jogador-assists": 0,
-        "jogador-partidas": 10,
+        "jogador-partidas": 11,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-clube-de-regatas-brasil.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-pedro-henrique-de-castro-silva.png"
       },
@@ -1535,15 +1544,6 @@
         "jogador-partidas": 9,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-fortaleza-ec.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/argentina-juan-bautista-miritello.png"
-      },
-      {
-        "jogador-nome": "Gustavo Coutinho Silva Lopes",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 3,
-        "jogador-assists": 0,
-        "jogador-partidas": 9,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ac-goianiense.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-gustavo-coutinho-silva-lopes.png"
       }
     ]
   }
