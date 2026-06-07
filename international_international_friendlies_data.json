@@ -2520,6 +2520,74 @@
       {
         "rank": 38,
         "team": {
+          "id": 7999,
+          "name": "Croatia National Team",
+          "logo": "https://cdn.footystats.org/img/teams/croatia-croatia-national-team.png"
+        },
+        "points": 6,
+        "goalsDiff": -2,
+        "group": "International International Friendlies 2026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 4,
+          "win": 2,
+          "draw": 0,
+          "lose": 2,
+          "goals": {
+            "for": 5,
+            "against": 7
+          },
+          "form": "WLLW",
+          "btts_matches": 3,
+          "avg_corners_per_game": 4.25,
+          "aproveitamento": 50.0,
+          "over_2_5_goals": 3,
+          "over_0_5_ht": 1,
+          "over_0_5_ft": 2,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 2,
+          "win": 1,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 2,
+            "against": 3
+          },
+          "form_home": "LW",
+          "avg_corners_home_per_game": 5.5,
+          "aproveitamento_home": 50.0,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 0,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 2,
+          "win": 1,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 3,
+            "against": 4
+          },
+          "form_visitor": "WL",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 3.0,
+          "aproveitamento_away": 50.0,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 39,
+        "team": {
           "id": 7967,
           "name": "Spain National Team",
           "logo": "https://cdn.footystats.org/img/teams/spain-spain-national-team.png"
@@ -2586,7 +2654,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 39,
+        "rank": 40,
         "team": {
           "id": 7960,
           "name": "Switzerland National Team",
@@ -2654,7 +2722,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 40,
+        "rank": 41,
         "team": {
           "id": 8681,
           "name": "Togo National Team",
@@ -2722,7 +2790,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 41,
+        "rank": 42,
         "team": {
           "id": 8628,
           "name": "Ecuador National Team",
@@ -2790,7 +2858,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 42,
+        "rank": 43,
         "team": {
           "id": 7994,
           "name": "Azerbaijan National Team",
@@ -2858,7 +2926,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 43,
+        "rank": 44,
         "team": {
           "id": 8658,
           "name": "Haiti National Team",
@@ -2926,7 +2994,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 44,
+        "rank": 45,
         "team": {
           "id": 8731,
           "name": "Venezuela National Team",
@@ -2994,7 +3062,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 45,
+        "rank": 46,
         "team": {
           "id": 8007,
           "name": "Kazakhstan National Team",
@@ -3062,7 +3130,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 46,
+        "rank": 47,
         "team": {
           "id": 7970,
           "name": "Norway National Team",
@@ -3130,7 +3198,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 47,
+        "rank": 48,
         "team": {
           "id": 7987,
           "name": "Israel National Team",
@@ -3198,7 +3266,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 48,
+        "rank": 49,
         "team": {
           "id": 8692,
           "name": "Sierra Leone National Team",
@@ -3261,74 +3329,6 @@
           "over_2_5_goals_away": 0,
           "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 0,
-          "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 49,
-        "team": {
-          "id": 7979,
-          "name": "Slovenia National Team",
-          "logo": "https://cdn.footystats.org/img/teams/slovenia-slovenia-national-team.png"
-        },
-        "points": 4,
-        "goalsDiff": 0,
-        "group": "International International Friendlies 2026",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 3,
-          "win": 1,
-          "draw": 1,
-          "lose": 1,
-          "goals": {
-            "for": 4,
-            "against": 4
-          },
-          "form": "LWD",
-          "btts_matches": 2,
-          "avg_corners_per_game": 6.0,
-          "aproveitamento": 44.4,
-          "over_2_5_goals": 1,
-          "over_0_5_ht": 1,
-          "over_0_5_ft": 2,
-          "clean_sheets": 0
-        },
-        "home": {
-          "played": 1,
-          "win": 0,
-          "draw": 1,
-          "lose": 0,
-          "goals": {
-            "for": 1,
-            "against": 1
-          },
-          "form_home": "D",
-          "avg_corners_home_per_game": 11.0,
-          "aproveitamento_home": 33.3,
-          "btts_home_matches": 1,
-          "over_2_5_goals_home": 0,
-          "over_0_5_ht_home": 0,
-          "over_0_5_ft_home": 1,
-          "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 2,
-          "win": 1,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 3,
-            "against": 3
-          },
-          "form_visitor": "LW",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 3.5,
-          "aproveitamento_away": 50.0,
-          "over_2_5_goals_away": 1,
-          "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 1,
           "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -3540,6 +3540,74 @@
       {
         "rank": 53,
         "team": {
+          "id": 7979,
+          "name": "Slovenia National Team",
+          "logo": "https://cdn.footystats.org/img/teams/slovenia-slovenia-national-team.png"
+        },
+        "points": 4,
+        "goalsDiff": -1,
+        "group": "International International Friendlies 2026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 4,
+          "win": 1,
+          "draw": 1,
+          "lose": 2,
+          "goals": {
+            "for": 5,
+            "against": 6
+          },
+          "form": "LWDL",
+          "btts_matches": 3,
+          "avg_corners_per_game": 5.5,
+          "aproveitamento": 33.3,
+          "over_2_5_goals": 2,
+          "over_0_5_ht": 1,
+          "over_0_5_ft": 3,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 1,
+          "win": 0,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 1,
+            "against": 1
+          },
+          "form_home": "D",
+          "avg_corners_home_per_game": 11.0,
+          "aproveitamento_home": 33.3,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 0,
+          "over_0_5_ht_home": 0,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 3,
+          "win": 1,
+          "draw": 0,
+          "lose": 2,
+          "goals": {
+            "for": 4,
+            "against": 5
+          },
+          "form_visitor": "LWL",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 3.67,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 54,
+        "team": {
           "id": 8673,
           "name": "Peru National Team",
           "logo": "https://cdn.footystats.org/img/teams/peru-peru-national-team.png"
@@ -3606,7 +3674,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 54,
+        "rank": 55,
         "team": {
           "id": 8663,
           "name": "Bolivia National Team",
@@ -3674,7 +3742,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 55,
+        "rank": 56,
         "team": {
           "id": 7954,
           "name": "Finland National Team",
@@ -3742,7 +3810,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 56,
+        "rank": 57,
         "team": {
           "id": 7962,
           "name": "Andorra National Team",
@@ -3810,7 +3878,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 57,
+        "rank": 58,
         "team": {
           "id": 8685,
           "name": "Tunisia National Team",
@@ -3878,7 +3946,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 58,
+        "rank": 59,
         "team": {
           "id": 8680,
           "name": "Tanzania National Team",
@@ -3946,7 +4014,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 59,
+        "rank": 60,
         "team": {
           "id": 8006,
           "name": "Faroe Islands National Team",
@@ -4014,7 +4082,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 60,
+        "rank": 61,
         "team": {
           "id": 8634,
           "name": "Cameroon National Team",
@@ -4082,7 +4150,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 61,
+        "rank": 62,
         "team": {
           "id": 8004,
           "name": "Lithuania National Team",
@@ -4150,7 +4218,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 62,
+        "rank": 63,
         "team": {
           "id": 8638,
           "name": "Colombia National Team",
@@ -4218,7 +4286,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 63,
+        "rank": 64,
         "team": {
           "id": 8637,
           "name": "Chile National Team",
@@ -4286,7 +4354,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 64,
+        "rank": 65,
         "team": {
           "id": 8693,
           "name": "St. Kitts and Nevis National Team",
@@ -4354,7 +4422,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 65,
+        "rank": 66,
         "team": {
           "id": 8588,
           "name": "Saudi Arabia National Team",
@@ -4418,74 +4486,6 @@
           "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 2,
           "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 66,
-        "team": {
-          "id": 7999,
-          "name": "Croatia National Team",
-          "logo": "https://cdn.footystats.org/img/teams/croatia-croatia-national-team.png"
-        },
-        "points": 3,
-        "goalsDiff": -3,
-        "group": "International International Friendlies 2026",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 3,
-          "win": 1,
-          "draw": 0,
-          "lose": 2,
-          "goals": {
-            "for": 3,
-            "against": 6
-          },
-          "form": "WLL",
-          "btts_matches": 2,
-          "avg_corners_per_game": 3.0,
-          "aproveitamento": 33.3,
-          "over_2_5_goals": 2,
-          "over_0_5_ht": 1,
-          "over_0_5_ft": 1,
-          "clean_sheets": 0
-        },
-        "home": {
-          "played": 1,
-          "win": 0,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 0,
-            "against": 2
-          },
-          "form_home": "L",
-          "avg_corners_home_per_game": 3.0,
-          "aproveitamento_home": 0.0,
-          "btts_home_matches": 0,
-          "over_2_5_goals_home": 0,
-          "over_0_5_ht_home": 0,
-          "over_0_5_ft_home": 0,
-          "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 2,
-          "win": 1,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 3,
-            "against": 4
-          },
-          "form_visitor": "WL",
-          "btts_away_matches": 2,
-          "avg_corners_away_per_game": 3.0,
-          "aproveitamento_away": 50.0,
-          "over_2_5_goals_away": 2,
-          "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 1,
-          "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
