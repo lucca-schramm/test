@@ -2792,74 +2792,6 @@
       {
         "rank": 42,
         "team": {
-          "id": 8731,
-          "name": "Venezuela National Team",
-          "logo": "https://cdn.footystats.org/img/teams/venezuela-venezuela-national-team.png"
-        },
-        "points": 4,
-        "goalsDiff": 3,
-        "group": "International International Friendlies 2026",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 2,
-          "win": 1,
-          "draw": 1,
-          "lose": 0,
-          "goals": {
-            "for": 4,
-            "against": 1
-          },
-          "form": "WD",
-          "btts_matches": 1,
-          "avg_corners_per_game": 3.0,
-          "aproveitamento": 66.7,
-          "over_2_5_goals": 1,
-          "over_0_5_ht": 0,
-          "over_0_5_ft": 1,
-          "clean_sheets": 1
-        },
-        "home": {
-          "played": 1,
-          "win": 1,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 4,
-            "against": 1
-          },
-          "form_home": "W",
-          "avg_corners_home_per_game": 6.0,
-          "aproveitamento_home": 100.0,
-          "btts_home_matches": 1,
-          "over_2_5_goals_home": 1,
-          "over_0_5_ht_home": 0,
-          "over_0_5_ft_home": 1,
-          "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 1,
-          "win": 0,
-          "draw": 1,
-          "lose": 0,
-          "goals": {
-            "for": 0,
-            "against": 0
-          },
-          "form_visitor": "D",
-          "btts_away_matches": 0,
-          "avg_corners_away_per_game": 0,
-          "aproveitamento_away": 33.3,
-          "over_2_5_goals_away": 0,
-          "over_0_5_ht_away": 0,
-          "over_0_5_ft_away": 0,
-          "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 43,
-        "team": {
           "id": 8658,
           "name": "Haiti National Team",
           "logo": "https://cdn.footystats.org/img/teams/haiti-haiti-national-team.png"
@@ -2922,6 +2854,74 @@
           "over_0_5_ht_away": 0,
           "over_0_5_ft_away": 0,
           "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 43,
+        "team": {
+          "id": 8731,
+          "name": "Venezuela National Team",
+          "logo": "https://cdn.footystats.org/img/teams/venezuela-venezuela-national-team.png"
+        },
+        "points": 4,
+        "goalsDiff": 2,
+        "group": "International International Friendlies 2026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 3,
+          "win": 1,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 5,
+            "against": 3
+          },
+          "form": "WDL",
+          "btts_matches": 2,
+          "avg_corners_per_game": 2.67,
+          "aproveitamento": 44.4,
+          "over_2_5_goals": 2,
+          "over_0_5_ht": 1,
+          "over_0_5_ft": 1,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 2,
+          "win": 1,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 5,
+            "against": 3
+          },
+          "form_home": "WL",
+          "avg_corners_home_per_game": 4.0,
+          "aproveitamento_home": 50.0,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 1,
+          "win": 0,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 0,
+            "against": 0
+          },
+          "form_visitor": "D",
+          "btts_away_matches": 0,
+          "avg_corners_away_per_game": 0,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 0,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
