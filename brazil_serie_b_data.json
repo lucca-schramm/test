@@ -4,6 +4,74 @@
       {
         "rank": 1,
         "team": {
+          "id": 2677,
+          "name": "São Bernardo FC",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-sao-bernardo-fc.png"
+        },
+        "points": 25,
+        "goalsDiff": 10,
+        "group": "Brazil Serie B 2026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 13,
+          "win": 7,
+          "draw": 4,
+          "lose": 2,
+          "goals": {
+            "for": 20,
+            "against": 10
+          },
+          "form": "DWDWD",
+          "btts_matches": 7,
+          "avg_corners_per_game": 3.85,
+          "aproveitamento": 64.1,
+          "over_2_5_goals": 6,
+          "over_0_5_ht": 5,
+          "over_0_5_ft": 9,
+          "clean_sheets": 5
+        },
+        "home": {
+          "played": 7,
+          "win": 2,
+          "draw": 3,
+          "lose": 2,
+          "goals": {
+            "for": 7,
+            "against": 5
+          },
+          "form_home": "WWDDD",
+          "avg_corners_home_per_game": 4.43,
+          "aproveitamento_home": 42.9,
+          "btts_home_matches": 3,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 6,
+          "win": 5,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 13,
+            "against": 5
+          },
+          "form_visitor": "WWWWW",
+          "btts_away_matches": 4,
+          "avg_corners_away_per_game": 3.17,
+          "aproveitamento_away": 88.9,
+          "over_2_5_goals_away": 4,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 6,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 2,
+        "team": {
           "id": 645,
           "name": "Vila Nova FC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-vila-nova-fc.png"
@@ -70,102 +138,34 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 2,
-        "team": {
-          "id": 2677,
-          "name": "São Bernardo FC",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-sao-bernardo-fc.png"
-        },
-        "points": 24,
-        "goalsDiff": 10,
-        "group": "Brazil Serie B 2026",
-        "status": "same",
-        "description": "Copa Libertadores",
-        "all": {
-          "played": 12,
-          "win": 7,
-          "draw": 3,
-          "lose": 2,
-          "goals": {
-            "for": 20,
-            "against": 10
-          },
-          "form": "WDWDW",
-          "btts_matches": 7,
-          "avg_corners_per_game": 3.92,
-          "aproveitamento": 66.7,
-          "over_2_5_goals": 6,
-          "over_0_5_ht": 5,
-          "over_0_5_ft": 9,
-          "clean_sheets": 4
-        },
-        "home": {
-          "played": 6,
-          "win": 2,
-          "draw": 2,
-          "lose": 2,
-          "goals": {
-            "for": 7,
-            "against": 5
-          },
-          "form_home": "LWWDD",
-          "avg_corners_home_per_game": 4.67,
-          "aproveitamento_home": 44.4,
-          "btts_home_matches": 3,
-          "over_2_5_goals_home": 2,
-          "over_0_5_ht_home": 3,
-          "over_0_5_ft_home": 3,
-          "clean_sheets_home": 2
-        },
-        "away": {
-          "played": 6,
-          "win": 5,
-          "draw": 1,
-          "lose": 0,
-          "goals": {
-            "for": 13,
-            "against": 5
-          },
-          "form_visitor": "WWWWW",
-          "btts_away_matches": 4,
-          "avg_corners_away_per_game": 3.17,
-          "aproveitamento_away": 88.9,
-          "over_2_5_goals_away": 4,
-          "over_0_5_ht_away": 2,
-          "over_0_5_ft_away": 6,
-          "clean_sheets_away": 2
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
         "rank": 3,
         "team": {
           "id": 614,
           "name": "SC do Recife",
           "logo": "https://cdn.footystats.org/img/teams/brazil-sc-do-recife.png"
         },
-        "points": 23,
+        "points": 24,
         "goalsDiff": 8,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 12,
+          "played": 13,
           "win": 6,
-          "draw": 5,
+          "draw": 6,
           "lose": 1,
           "goals": {
             "for": 16,
             "against": 8
           },
-          "form": "WLWWD",
+          "form": "LWWDD",
           "btts_matches": 6,
-          "avg_corners_per_game": 4.33,
-          "aproveitamento": 63.9,
+          "avg_corners_per_game": 4.85,
+          "aproveitamento": 61.5,
           "over_2_5_goals": 4,
           "over_0_5_ht": 3,
           "over_0_5_ft": 10,
-          "clean_sheets": 6
+          "clean_sheets": 7
         },
         "home": {
           "played": 7,
@@ -186,22 +186,22 @@
           "clean_sheets_home": 3
         },
         "away": {
-          "played": 5,
+          "played": 6,
           "win": 3,
-          "draw": 2,
+          "draw": 3,
           "lose": 0,
           "goals": {
             "for": 6,
             "against": 2
           },
-          "form_visitor": "DWDWW",
+          "form_visitor": "WDWWD",
           "btts_away_matches": 2,
-          "avg_corners_away_per_game": 3.0,
-          "aproveitamento_away": 73.3,
+          "avg_corners_away_per_game": 4.33,
+          "aproveitamento_away": 66.7,
           "over_2_5_goals_away": 2,
           "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 3,
-          "clean_sheets_away": 3
+          "clean_sheets_away": 4
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1379,7 +1379,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 6,
         "jogador-assists": 3,
-        "jogador-partidas": 10,
+        "jogador-partidas": 11,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-sc-do-recife.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-chrystian-barletta.png"
       },
@@ -1451,7 +1451,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 5,
         "jogador-assists": 0,
-        "jogador-partidas": 11,
+        "jogador-partidas": 12,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-sc-do-recife.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-pedro-henrique-perotti.png"
       },
