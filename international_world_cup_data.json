@@ -412,6 +412,142 @@
       {
         "rank": 7,
         "team": {
+          "id": 8579,
+          "name": "Japan National Team",
+          "logo": "https://cdn.footystats.org/img/teams/japan-japan-national-team.png"
+        },
+        "points": 1,
+        "goalsDiff": 0,
+        "group": "International World Cup 2026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 1,
+          "win": 0,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 2,
+            "against": 2
+          },
+          "form": "D",
+          "btts_matches": 1,
+          "avg_corners_per_game": 4.0,
+          "aproveitamento": 33.3,
+          "over_2_5_goals": 1,
+          "over_0_5_ht": 0,
+          "over_0_5_ft": 1,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 0,
+          "win": 0,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 0,
+            "against": 0
+          },
+          "form_home": "",
+          "avg_corners_home_per_game": 0,
+          "aproveitamento_home": 0,
+          "btts_home_matches": 0,
+          "over_2_5_goals_home": 0,
+          "over_0_5_ht_home": 0,
+          "over_0_5_ft_home": 0,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 1,
+          "win": 0,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 2,
+            "against": 2
+          },
+          "form_visitor": "D",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 4.0,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 8,
+        "team": {
+          "id": 7996,
+          "name": "Netherlands National Team",
+          "logo": "https://cdn.footystats.org/img/teams/netherlands-netherlands-national-team.png"
+        },
+        "points": 1,
+        "goalsDiff": 0,
+        "group": "International World Cup 2026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 1,
+          "win": 0,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 2,
+            "against": 2
+          },
+          "form": "D",
+          "btts_matches": 1,
+          "avg_corners_per_game": 5.0,
+          "aproveitamento": 33.3,
+          "over_2_5_goals": 1,
+          "over_0_5_ht": 0,
+          "over_0_5_ft": 1,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 1,
+          "win": 0,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 2,
+            "against": 2
+          },
+          "form_home": "D",
+          "avg_corners_home_per_game": 5.0,
+          "aproveitamento_home": 33.3,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 0,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 0,
+          "win": 0,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 0,
+            "against": 0
+          },
+          "form_visitor": "",
+          "btts_away_matches": 0,
+          "avg_corners_away_per_game": 0,
+          "aproveitamento_away": 0,
+          "over_2_5_goals_away": 0,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 9,
+        "team": {
           "id": 8682,
           "name": "Morocco National Team",
           "logo": "https://cdn.footystats.org/img/teams/morocco-morocco-national-team.png"
@@ -478,7 +614,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 8,
+        "rank": 10,
         "team": {
           "id": 7960,
           "name": "Switzerland National Team",
@@ -546,7 +682,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 9,
+        "rank": 11,
         "team": {
           "id": 8589,
           "name": "Qatar National Team",
@@ -614,7 +750,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 10,
+        "rank": 12,
         "team": {
           "id": 8630,
           "name": "Brazil National Team",
@@ -682,7 +818,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 11,
+        "rank": 13,
         "team": {
           "id": 8655,
           "name": "Canada National Team",
@@ -750,7 +886,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 12,
+        "rank": 14,
         "team": {
           "id": 8003,
           "name": "Bosnia-Herzegovina National Team",
@@ -818,7 +954,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 13,
+        "rank": 15,
         "team": {
           "id": 7963,
           "name": "Austria National Team",
@@ -886,7 +1022,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 14,
+        "rank": 16,
         "team": {
           "id": 7967,
           "name": "Spain National Team",
@@ -954,7 +1090,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 15,
+        "rank": 17,
         "team": {
           "id": 7969,
           "name": "Portugal National Team",
@@ -964,7 +1100,7 @@
         "goalsDiff": 0,
         "group": "International World Cup 2026",
         "status": "same",
-        "description": "",
+        "description": "Rebaixamento",
         "all": {
           "played": 0,
           "win": 0,
@@ -1022,7 +1158,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 16,
+        "rank": 18,
         "team": {
           "id": 7970,
           "name": "Norway National Team",
@@ -1032,7 +1168,7 @@
         "goalsDiff": 0,
         "group": "International World Cup 2026",
         "status": "same",
-        "description": "",
+        "description": "Rebaixamento",
         "all": {
           "played": 0,
           "win": 0,
@@ -1090,7 +1226,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 17,
+        "rank": 19,
         "team": {
           "id": 7973,
           "name": "Sweden National Team",
@@ -1158,7 +1294,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 18,
+        "rank": 20,
         "team": {
           "id": 7981,
           "name": "England National Team",
@@ -1226,7 +1362,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 19,
+        "rank": 21,
         "team": {
           "id": 7990,
           "name": "Belgium National Team",
@@ -1294,75 +1430,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 20,
-        "team": {
-          "id": 7996,
-          "name": "Netherlands National Team",
-          "logo": "https://cdn.footystats.org/img/teams/netherlands-netherlands-national-team.png"
-        },
-        "points": 0,
-        "goalsDiff": 0,
-        "group": "International World Cup 2026",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 0,
-          "win": 0,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 0,
-            "against": 0
-          },
-          "form": "",
-          "btts_matches": 0,
-          "avg_corners_per_game": 0,
-          "aproveitamento": 0,
-          "over_2_5_goals": 0,
-          "over_0_5_ht": 0,
-          "over_0_5_ft": 0,
-          "clean_sheets": 0
-        },
-        "home": {
-          "played": 0,
-          "win": 0,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 0,
-            "against": 0
-          },
-          "form_home": "",
-          "avg_corners_home_per_game": 0,
-          "aproveitamento_home": 0,
-          "btts_home_matches": 0,
-          "over_2_5_goals_home": 0,
-          "over_0_5_ht_home": 0,
-          "over_0_5_ft_home": 0,
-          "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 0,
-          "win": 0,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 0,
-            "against": 0
-          },
-          "form_visitor": "",
-          "btts_away_matches": 0,
-          "avg_corners_away_per_game": 0,
-          "aproveitamento_away": 0,
-          "over_2_5_goals_away": 0,
-          "over_0_5_ht_away": 0,
-          "over_0_5_ft_away": 0,
-          "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 21,
+        "rank": 22,
         "team": {
           "id": 7998,
           "name": "France National Team",
@@ -1430,79 +1498,11 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 22,
+        "rank": 23,
         "team": {
           "id": 7999,
           "name": "Croatia National Team",
           "logo": "https://cdn.footystats.org/img/teams/croatia-croatia-national-team.png"
-        },
-        "points": 0,
-        "goalsDiff": 0,
-        "group": "International World Cup 2026",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 0,
-          "win": 0,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 0,
-            "against": 0
-          },
-          "form": "",
-          "btts_matches": 0,
-          "avg_corners_per_game": 0,
-          "aproveitamento": 0,
-          "over_2_5_goals": 0,
-          "over_0_5_ht": 0,
-          "over_0_5_ft": 0,
-          "clean_sheets": 0
-        },
-        "home": {
-          "played": 0,
-          "win": 0,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 0,
-            "against": 0
-          },
-          "form_home": "",
-          "avg_corners_home_per_game": 0,
-          "aproveitamento_home": 0,
-          "btts_home_matches": 0,
-          "over_2_5_goals_home": 0,
-          "over_0_5_ht_home": 0,
-          "over_0_5_ft_home": 0,
-          "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 0,
-          "win": 0,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 0,
-            "against": 0
-          },
-          "form_visitor": "",
-          "btts_away_matches": 0,
-          "avg_corners_away_per_game": 0,
-          "aproveitamento_away": 0,
-          "over_2_5_goals_away": 0,
-          "over_0_5_ht_away": 0,
-          "over_0_5_ft_away": 0,
-          "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 23,
-        "team": {
-          "id": 8579,
-          "name": "Japan National Team",
-          "logo": "https://cdn.footystats.org/img/teams/japan-japan-national-team.png"
         },
         "points": 0,
         "goalsDiff": 0,
@@ -3315,6 +3315,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/south-korea-in-beom-hwang.png"
       },
       {
+        "jogador-nome": "Virgil van Dijk",
+        "jogador-posicao": "Defender",
+        "jogador-gols": 1,
+        "jogador-assists": 0,
+        "jogador-partidas": 1,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/netherlands-netherlands-national-team.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/netherlands-virgil-van-dijk.png"
+      },
+      {
         "jogador-nome": "Vinícius José Paixão de Oliveira Júnior",
         "jogador-posicao": "Forward",
         "jogador-gols": 1,
@@ -3387,6 +3396,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/czech-republic-ladislav-krejci.png"
       },
       {
+        "jogador-nome": "Keito Nakamura",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 1,
+        "jogador-assists": 0,
+        "jogador-partidas": 1,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/japan-japan-national-team.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/japan-keito-nakamura.png"
+      },
+      {
         "jogador-nome": "Julián Andrés Quiñones Quiñones",
         "jogador-posicao": "Forward",
         "jogador-gols": 1,
@@ -3430,24 +3448,6 @@
         "jogador-partidas": 1,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/morocco-morocco-national-team.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/morocco-ismael-saibari.png"
-      },
-      {
-        "jogador-nome": "Hyun-Gyu Oh",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 1,
-        "jogador-assists": 0,
-        "jogador-partidas": 1,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/south-korea-south-korea-national-team.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/south-korea-hyun-gyu-oh.png"
-      },
-      {
-        "jogador-nome": "Giovanni Reyna",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 1,
-        "jogador-assists": 0,
-        "jogador-partidas": 1,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/usa-united-states-mens-national-team.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/usa-giovanni-reyna.png"
       }
     ]
   }
