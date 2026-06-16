@@ -1092,31 +1092,99 @@
       {
         "rank": 17,
         "team": {
+          "id": 1055,
+          "name": "Londrina EC",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-londrina-ec.png"
+        },
+        "points": 11,
+        "goalsDiff": -7,
+        "group": "Brazil Serie B 2026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 13,
+          "win": 3,
+          "draw": 2,
+          "lose": 8,
+          "goals": {
+            "for": 15,
+            "against": 22
+          },
+          "form": "WLLLW",
+          "btts_matches": 7,
+          "avg_corners_per_game": 5.92,
+          "aproveitamento": 28.2,
+          "over_2_5_goals": 9,
+          "over_0_5_ht": 4,
+          "over_0_5_ft": 6,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 6,
+          "win": 1,
+          "draw": 2,
+          "lose": 3,
+          "goals": {
+            "for": 7,
+            "against": 10
+          },
+          "form_home": "LDLLW",
+          "avg_corners_home_per_game": 7.67,
+          "aproveitamento_home": 27.8,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 7,
+          "win": 2,
+          "draw": 0,
+          "lose": 5,
+          "goals": {
+            "for": 8,
+            "against": 12
+          },
+          "form_visitor": "LLWLL",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 4.43,
+          "aproveitamento_away": 28.6,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 18,
+        "team": {
           "id": 621,
           "name": "Avai FC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-avai-fc.png"
         },
         "points": 10,
-        "goalsDiff": -5,
+        "goalsDiff": -6,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 12,
+          "played": 13,
           "win": 2,
           "draw": 4,
-          "lose": 6,
+          "lose": 7,
           "goals": {
-            "for": 12,
-            "against": 17
+            "for": 14,
+            "against": 20
           },
-          "form": "DLLLL",
-          "btts_matches": 6,
-          "avg_corners_per_game": 3.83,
-          "aproveitamento": 27.8,
-          "over_2_5_goals": 6,
-          "over_0_5_ht": 4,
-          "over_0_5_ft": 7,
+          "form": "LLLLL",
+          "btts_matches": 7,
+          "avg_corners_per_game": 4.0,
+          "aproveitamento": 25.6,
+          "over_2_5_goals": 7,
+          "over_0_5_ht": 5,
+          "over_0_5_ft": 8,
           "clean_sheets": 4
         },
         "home": {
@@ -1138,90 +1206,22 @@
           "clean_sheets_home": 3
         },
         "away": {
-          "played": 5,
+          "played": 6,
           "win": 1,
           "draw": 1,
-          "lose": 3,
+          "lose": 4,
           "goals": {
-            "for": 5,
-            "against": 8
+            "for": 7,
+            "against": 11
           },
-          "form_visitor": "WDLLL",
-          "btts_away_matches": 3,
-          "avg_corners_away_per_game": 3.0,
-          "aproveitamento_away": 26.7,
-          "over_2_5_goals_away": 3,
-          "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 4,
+          "form_visitor": "DLLLL",
+          "btts_away_matches": 4,
+          "avg_corners_away_per_game": 3.5,
+          "aproveitamento_away": 22.2,
+          "over_2_5_goals_away": 4,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 5,
           "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 18,
-        "team": {
-          "id": 1055,
-          "name": "Londrina EC",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-londrina-ec.png"
-        },
-        "points": 8,
-        "goalsDiff": -8,
-        "group": "Brazil Serie B 2026",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 12,
-          "win": 2,
-          "draw": 2,
-          "lose": 8,
-          "goals": {
-            "for": 12,
-            "against": 20
-          },
-          "form": "LWLLL",
-          "btts_matches": 6,
-          "avg_corners_per_game": 5.58,
-          "aproveitamento": 22.2,
-          "over_2_5_goals": 8,
-          "over_0_5_ht": 3,
-          "over_0_5_ft": 5,
-          "clean_sheets": 1
-        },
-        "home": {
-          "played": 5,
-          "win": 0,
-          "draw": 2,
-          "lose": 3,
-          "goals": {
-            "for": 4,
-            "against": 8
-          },
-          "form_home": "DLDLL",
-          "avg_corners_home_per_game": 7.2,
-          "aproveitamento_home": 13.3,
-          "btts_home_matches": 3,
-          "over_2_5_goals_home": 3,
-          "over_0_5_ht_home": 2,
-          "over_0_5_ft_home": 2,
-          "clean_sheets_home": 1
-        },
-        "away": {
-          "played": 7,
-          "win": 2,
-          "draw": 0,
-          "lose": 5,
-          "goals": {
-            "for": 8,
-            "against": 12
-          },
-          "form_visitor": "LLWLL",
-          "btts_away_matches": 3,
-          "avg_corners_away_per_game": 4.43,
-          "aproveitamento_away": 28.6,
-          "over_2_5_goals_away": 5,
-          "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 3,
-          "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1420,6 +1420,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-gustavo-coutinho-silva-lopes.png"
       },
       {
+        "jogador-nome": "Bruno Santos de Oliveira",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 5,
+        "jogador-assists": 3,
+        "jogador-partidas": 13,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-londrina-ec.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-bruno-santos-de-oliveira.png"
+      },
+      {
         "jogador-nome": "Vinícius Santos Silva",
         "jogador-posicao": "Forward",
         "jogador-gols": 5,
@@ -1463,15 +1472,6 @@
         "jogador-partidas": 10,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ceara-sc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-melquisedeque-costa-de-oliveira.png"
-      },
-      {
-        "jogador-nome": "Bruno Santos de Oliveira",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 4,
-        "jogador-assists": 3,
-        "jogador-partidas": 12,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-londrina-ec.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-bruno-santos-de-oliveira.png"
       },
       {
         "jogador-nome": "Vinicius Rodrigues Adelino dos Santos",
