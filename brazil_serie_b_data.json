@@ -144,44 +144,44 @@
           "name": "SC do Recife",
           "logo": "https://cdn.footystats.org/img/teams/brazil-sc-do-recife.png"
         },
-        "points": 24,
+        "points": 25,
         "goalsDiff": 8,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 13,
+          "played": 14,
           "win": 6,
-          "draw": 6,
+          "draw": 7,
           "lose": 1,
           "goals": {
-            "for": 16,
-            "against": 8
+            "for": 17,
+            "against": 9
           },
-          "form": "LWWDD",
-          "btts_matches": 6,
-          "avg_corners_per_game": 4.85,
-          "aproveitamento": 61.5,
+          "form": "WWDDD",
+          "btts_matches": 7,
+          "avg_corners_per_game": 4.93,
+          "aproveitamento": 59.5,
           "over_2_5_goals": 4,
-          "over_0_5_ht": 3,
+          "over_0_5_ht": 4,
           "over_0_5_ft": 10,
           "clean_sheets": 7
         },
         "home": {
-          "played": 7,
+          "played": 8,
           "win": 3,
-          "draw": 3,
+          "draw": 4,
           "lose": 1,
           "goals": {
-            "for": 10,
-            "against": 6
+            "for": 11,
+            "against": 7
           },
-          "form_home": "WWLWD",
-          "avg_corners_home_per_game": 5.29,
-          "aproveitamento_home": 57.1,
-          "btts_home_matches": 4,
+          "form_home": "WLWDD",
+          "avg_corners_home_per_game": 5.38,
+          "aproveitamento_home": 54.2,
+          "btts_home_matches": 5,
           "over_2_5_goals_home": 2,
-          "over_0_5_ht_home": 2,
+          "over_0_5_ht_home": 3,
           "over_0_5_ft_home": 7,
           "clean_sheets_home": 3
         },
@@ -824,27 +824,27 @@
           "name": "AC Goianiense",
           "logo": "https://cdn.footystats.org/img/teams/brazil-ac-goianiense.png"
         },
-        "points": 17,
+        "points": 18,
         "goalsDiff": 0,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 13,
+          "played": 14,
           "win": 4,
-          "draw": 5,
+          "draw": 6,
           "lose": 4,
           "goals": {
-            "for": 15,
-            "against": 15
+            "for": 16,
+            "against": 16
           },
-          "form": "DLDWD",
-          "btts_matches": 9,
-          "avg_corners_per_game": 6.38,
-          "aproveitamento": 43.6,
+          "form": "LDWDD",
+          "btts_matches": 10,
+          "avg_corners_per_game": 6.21,
+          "aproveitamento": 42.9,
           "over_2_5_goals": 6,
           "over_0_5_ht": 7,
-          "over_0_5_ft": 6,
+          "over_0_5_ft": 7,
           "clean_sheets": 2
         },
         "home": {
@@ -866,21 +866,21 @@
           "clean_sheets_home": 1
         },
         "away": {
-          "played": 6,
+          "played": 7,
           "win": 2,
-          "draw": 2,
+          "draw": 3,
           "lose": 2,
           "goals": {
-            "for": 6,
-            "against": 6
+            "for": 7,
+            "against": 7
           },
-          "form_visitor": "LDWDW",
-          "btts_away_matches": 4,
-          "avg_corners_away_per_game": 4.5,
-          "aproveitamento_away": 44.4,
+          "form_visitor": "DWDWD",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 4.43,
+          "aproveitamento_away": 42.9,
           "over_2_5_goals_away": 2,
           "over_0_5_ht_away": 4,
-          "over_0_5_ft_away": 2,
+          "over_0_5_ft_away": 3,
           "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1388,7 +1388,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 6,
         "jogador-assists": 3,
-        "jogador-partidas": 11,
+        "jogador-partidas": 12,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-sc-do-recife.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-chrystian-barletta.png"
       },
@@ -1409,6 +1409,15 @@
         "jogador-partidas": 13,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-botafogo-fc-ribeirao-preto.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-everton-morelli-casemiro.png"
+      },
+      {
+        "jogador-nome": "Pedro Henrique Perotti",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 6,
+        "jogador-assists": 0,
+        "jogador-partidas": 13,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-sc-do-recife.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-pedro-henrique-perotti.png"
       },
       {
         "jogador-nome": "Gustavo Coutinho Silva Lopes",
@@ -1456,15 +1465,6 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/portugal-ronaldo-rodrigues-tavares.png"
       },
       {
-        "jogador-nome": "Pedro Henrique Perotti",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 5,
-        "jogador-assists": 0,
-        "jogador-partidas": 12,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-sc-do-recife.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-pedro-henrique-perotti.png"
-      },
-      {
         "jogador-nome": "Melquisedeque Costa de Oliveira",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 4,
@@ -1490,6 +1490,15 @@
         "jogador-partidas": 12,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-operario-ferroviario-ec.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-pablo-felipe-teixeira.png"
+      },
+      {
+        "jogador-nome": "Leonardo Gomes da Silva Jacó",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 4,
+        "jogador-assists": 0,
+        "jogador-partidas": 12,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ac-goianiense.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-leonardo-gomes-da-silva-jaco.png"
       },
       {
         "jogador-nome": "Hygor Cleber Garcia Silva",
@@ -1535,15 +1544,6 @@
         "jogador-partidas": 13,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-vila-nova-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-ryan-aparecido-lima-cassiano.png"
-      },
-      {
-        "jogador-nome": "Walace dos Santos França",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 3,
-        "jogador-assists": 0,
-        "jogador-partidas": 11,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-avai-fc.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-walace-dos-santos-franca.png"
       }
     ]
   }
