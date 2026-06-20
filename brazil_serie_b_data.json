@@ -689,23 +689,23 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-athletic-club-minas-gerais.png"
         },
         "points": 19,
-        "goalsDiff": 2,
+        "goalsDiff": 0,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 13,
+          "played": 14,
           "win": 4,
           "draw": 7,
-          "lose": 2,
+          "lose": 3,
           "goals": {
             "for": 15,
-            "against": 13
+            "against": 15
           },
-          "form": "DWWDD",
+          "form": "WWDDL",
           "btts_matches": 10,
-          "avg_corners_per_game": 4.08,
-          "aproveitamento": 48.7,
+          "avg_corners_per_game": 4.36,
+          "aproveitamento": 45.2,
           "over_2_5_goals": 4,
           "over_0_5_ht": 6,
           "over_0_5_ft": 6,
@@ -730,18 +730,18 @@
           "clean_sheets_home": 2
         },
         "away": {
-          "played": 6,
+          "played": 7,
           "win": 2,
           "draw": 3,
-          "lose": 1,
+          "lose": 2,
           "goals": {
             "for": 9,
-            "against": 8
+            "against": 10
           },
-          "form_visitor": "WLDWD",
+          "form_visitor": "LDWDL",
           "btts_away_matches": 6,
-          "avg_corners_away_per_game": 2.33,
-          "aproveitamento_away": 50.0,
+          "avg_corners_away_per_game": 3.14,
+          "aproveitamento_away": 42.9,
           "over_2_5_goals_away": 3,
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 4,
@@ -1024,6 +1024,74 @@
       {
         "rank": 16,
         "team": {
+          "id": 1055,
+          "name": "Londrina EC",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-londrina-ec.png"
+        },
+        "points": 14,
+        "goalsDiff": -5,
+        "group": "Brazil Serie B 2026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 14,
+          "win": 4,
+          "draw": 2,
+          "lose": 8,
+          "goals": {
+            "for": 17,
+            "against": 22
+          },
+          "form": "LLLWW",
+          "btts_matches": 7,
+          "avg_corners_per_game": 5.64,
+          "aproveitamento": 33.3,
+          "over_2_5_goals": 9,
+          "over_0_5_ht": 4,
+          "over_0_5_ft": 7,
+          "clean_sheets": 2
+        },
+        "home": {
+          "played": 7,
+          "win": 2,
+          "draw": 2,
+          "lose": 3,
+          "goals": {
+            "for": 9,
+            "against": 10
+          },
+          "form_home": "DLLWW",
+          "avg_corners_home_per_game": 6.86,
+          "aproveitamento_home": 38.1,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 7,
+          "win": 2,
+          "draw": 0,
+          "lose": 5,
+          "goals": {
+            "for": 8,
+            "against": 12
+          },
+          "form_visitor": "LLWLL",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 4.43,
+          "aproveitamento_away": 28.6,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 17,
+        "team": {
           "id": 2598,
           "name": "Botafogo FC Ribeirão Preto",
           "logo": "https://cdn.footystats.org/img/teams/brazil-botafogo-fc-ribeirao-preto.png"
@@ -1032,7 +1100,7 @@
         "goalsDiff": 0,
         "group": "Brazil Serie B 2026",
         "status": "same",
-        "description": "",
+        "description": "Rebaixamento",
         "all": {
           "played": 13,
           "win": 3,
@@ -1086,74 +1154,6 @@
           "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 2,
           "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 17,
-        "team": {
-          "id": 1055,
-          "name": "Londrina EC",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-londrina-ec.png"
-        },
-        "points": 11,
-        "goalsDiff": -7,
-        "group": "Brazil Serie B 2026",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 13,
-          "win": 3,
-          "draw": 2,
-          "lose": 8,
-          "goals": {
-            "for": 15,
-            "against": 22
-          },
-          "form": "WLLLW",
-          "btts_matches": 7,
-          "avg_corners_per_game": 5.92,
-          "aproveitamento": 28.2,
-          "over_2_5_goals": 9,
-          "over_0_5_ht": 4,
-          "over_0_5_ft": 6,
-          "clean_sheets": 1
-        },
-        "home": {
-          "played": 6,
-          "win": 1,
-          "draw": 2,
-          "lose": 3,
-          "goals": {
-            "for": 7,
-            "against": 10
-          },
-          "form_home": "LDLLW",
-          "avg_corners_home_per_game": 7.67,
-          "aproveitamento_home": 27.8,
-          "btts_home_matches": 4,
-          "over_2_5_goals_home": 4,
-          "over_0_5_ht_home": 3,
-          "over_0_5_ft_home": 3,
-          "clean_sheets_home": 1
-        },
-        "away": {
-          "played": 7,
-          "win": 2,
-          "draw": 0,
-          "lose": 5,
-          "goals": {
-            "for": 8,
-            "against": 12
-          },
-          "form_visitor": "LLWLL",
-          "btts_away_matches": 3,
-          "avg_corners_away_per_game": 4.43,
-          "aproveitamento_away": 28.6,
-          "over_2_5_goals_away": 5,
-          "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 3,
-          "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1375,6 +1375,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-mikael-filipe-viana-de-sousa.png"
       },
       {
+        "jogador-nome": "Bruno Santos de Oliveira",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 7,
+        "jogador-assists": 3,
+        "jogador-partidas": 14,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-londrina-ec.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-bruno-santos-de-oliveira.png"
+      },
+      {
         "jogador-nome": "Gabriel Boschilia",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 7,
@@ -1427,15 +1436,6 @@
         "jogador-partidas": 11,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ac-goianiense.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-gustavo-coutinho-silva-lopes.png"
-      },
-      {
-        "jogador-nome": "Bruno Santos de Oliveira",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 5,
-        "jogador-assists": 3,
-        "jogador-partidas": 13,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-londrina-ec.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-bruno-santos-de-oliveira.png"
       },
       {
         "jogador-nome": "Vinícius Santos Silva",
@@ -1523,7 +1523,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 3,
         "jogador-assists": 2,
-        "jogador-partidas": 11,
+        "jogador-partidas": 12,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-athletic-club-minas-gerais.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-ian-luccas-baroni-boetto.png"
       },
