@@ -4,6 +4,74 @@
       {
         "rank": 1,
         "team": {
+          "id": 645,
+          "name": "Vila Nova FC",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-vila-nova-fc.png"
+        },
+        "points": 28,
+        "goalsDiff": 7,
+        "group": "Brazil Serie B 2026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 14,
+          "win": 8,
+          "draw": 4,
+          "lose": 2,
+          "goals": {
+            "for": 22,
+            "against": 15
+          },
+          "form": "WWWLW",
+          "btts_matches": 8,
+          "avg_corners_per_game": 4.79,
+          "aproveitamento": 66.7,
+          "over_2_5_goals": 6,
+          "over_0_5_ht": 6,
+          "over_0_5_ft": 8,
+          "clean_sheets": 4
+        },
+        "home": {
+          "played": 7,
+          "win": 5,
+          "draw": 2,
+          "lose": 0,
+          "goals": {
+            "for": 14,
+            "against": 8
+          },
+          "form_home": "WDWWW",
+          "avg_corners_home_per_game": 5.14,
+          "aproveitamento_home": 81.0,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 7,
+          "win": 3,
+          "draw": 2,
+          "lose": 2,
+          "goals": {
+            "for": 8,
+            "against": 7
+          },
+          "form_visitor": "DLWWL",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 4.43,
+          "aproveitamento_away": 52.4,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 2,
+        "team": {
           "id": 2677,
           "name": "São Bernardo FC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-sao-bernardo-fc.png"
@@ -65,74 +133,6 @@
           "over_2_5_goals_away": 4,
           "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 6,
-          "clean_sheets_away": 2
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 2,
-        "team": {
-          "id": 645,
-          "name": "Vila Nova FC",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-vila-nova-fc.png"
-        },
-        "points": 25,
-        "goalsDiff": 6,
-        "group": "Brazil Serie B 2026",
-        "status": "same",
-        "description": "Copa Libertadores",
-        "all": {
-          "played": 13,
-          "win": 7,
-          "draw": 4,
-          "lose": 2,
-          "goals": {
-            "for": 18,
-            "against": 12
-          },
-          "form": "WWWWL",
-          "btts_matches": 7,
-          "avg_corners_per_game": 5.0,
-          "aproveitamento": 64.1,
-          "over_2_5_goals": 5,
-          "over_0_5_ht": 5,
-          "over_0_5_ft": 8,
-          "clean_sheets": 4
-        },
-        "home": {
-          "played": 6,
-          "win": 4,
-          "draw": 2,
-          "lose": 0,
-          "goals": {
-            "for": 10,
-            "against": 5
-          },
-          "form_home": "WWDWW",
-          "avg_corners_home_per_game": 5.67,
-          "aproveitamento_home": 77.8,
-          "btts_home_matches": 4,
-          "over_2_5_goals_home": 3,
-          "over_0_5_ht_home": 3,
-          "over_0_5_ft_home": 4,
-          "clean_sheets_home": 2
-        },
-        "away": {
-          "played": 7,
-          "win": 3,
-          "draw": 2,
-          "lose": 2,
-          "goals": {
-            "for": 8,
-            "against": 7
-          },
-          "form_visitor": "DLWWL",
-          "btts_away_matches": 3,
-          "avg_corners_away_per_game": 4.43,
-          "aproveitamento_away": 52.4,
-          "over_2_5_goals_away": 2,
-          "over_0_5_ht_away": 2,
-          "over_0_5_ft_away": 4,
           "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -417,26 +417,26 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-clube-nautico-capibaribe.png"
         },
         "points": 20,
-        "goalsDiff": 4,
+        "goalsDiff": 3,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 13,
+          "played": 14,
           "win": 6,
           "draw": 2,
-          "lose": 5,
+          "lose": 6,
           "goals": {
-            "for": 18,
-            "against": 14
+            "for": 21,
+            "against": 18
           },
-          "form": "WWLLD",
-          "btts_matches": 4,
-          "avg_corners_per_game": 6.69,
-          "aproveitamento": 51.3,
-          "over_2_5_goals": 5,
-          "over_0_5_ht": 3,
-          "over_0_5_ft": 8,
+          "form": "WLLDL",
+          "btts_matches": 5,
+          "avg_corners_per_game": 6.93,
+          "aproveitamento": 47.6,
+          "over_2_5_goals": 6,
+          "over_0_5_ht": 4,
+          "over_0_5_ft": 9,
           "clean_sheets": 4
         },
         "home": {
@@ -458,21 +458,21 @@
           "clean_sheets_home": 3
         },
         "away": {
-          "played": 7,
+          "played": 8,
           "win": 3,
           "draw": 2,
-          "lose": 2,
+          "lose": 3,
           "goals": {
-            "for": 12,
-            "against": 9
+            "for": 15,
+            "against": 13
           },
-          "form_visitor": "WDWLD",
-          "btts_away_matches": 4,
-          "avg_corners_away_per_game": 4.0,
-          "aproveitamento_away": 52.4,
-          "over_2_5_goals_away": 3,
-          "over_0_5_ht_away": 2,
-          "over_0_5_ft_away": 5,
+          "form_visitor": "DWLDL",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 4.75,
+          "aproveitamento_away": 45.8,
+          "over_2_5_goals_away": 4,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 6,
           "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -893,40 +893,40 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-ceara-sc.png"
         },
         "points": 17,
-        "goalsDiff": 0,
+        "goalsDiff": -1,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 13,
+          "played": 14,
           "win": 4,
           "draw": 5,
-          "lose": 4,
+          "lose": 5,
           "goals": {
             "for": 15,
-            "against": 15
+            "against": 16
           },
-          "form": "WLLWD",
+          "form": "LLWDL",
           "btts_matches": 8,
-          "avg_corners_per_game": 5.38,
-          "aproveitamento": 43.6,
+          "avg_corners_per_game": 5.5,
+          "aproveitamento": 40.5,
           "over_2_5_goals": 5,
           "over_0_5_ht": 5,
           "over_0_5_ft": 5,
           "clean_sheets": 3
         },
         "home": {
-          "played": 7,
+          "played": 8,
           "win": 3,
           "draw": 2,
-          "lose": 2,
+          "lose": 3,
           "goals": {
             "for": 10,
-            "against": 9
+            "against": 10
           },
-          "form_home": "DLWLW",
-          "avg_corners_home_per_game": 6.0,
-          "aproveitamento_home": 52.4,
+          "form_home": "LWLWL",
+          "avg_corners_home_per_game": 6.12,
+          "aproveitamento_home": 45.8,
           "btts_home_matches": 5,
           "over_2_5_goals_home": 4,
           "over_0_5_ht_home": 4,
@@ -955,6 +955,74 @@
       },
       {
         "rank": 15,
+        "team": {
+          "id": 2598,
+          "name": "Botafogo FC Ribeirão Preto",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-botafogo-fc-ribeirao-preto.png"
+        },
+        "points": 16,
+        "goalsDiff": 1,
+        "group": "Brazil Serie B 2026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 14,
+          "win": 4,
+          "draw": 4,
+          "lose": 6,
+          "goals": {
+            "for": 14,
+            "against": 13
+          },
+          "form": "LDLWW",
+          "btts_matches": 7,
+          "avg_corners_per_game": 6.5,
+          "aproveitamento": 38.1,
+          "over_2_5_goals": 5,
+          "over_0_5_ht": 5,
+          "over_0_5_ft": 6,
+          "clean_sheets": 3
+        },
+        "home": {
+          "played": 6,
+          "win": 2,
+          "draw": 2,
+          "lose": 2,
+          "goals": {
+            "for": 10,
+            "against": 7
+          },
+          "form_home": "LDDLW",
+          "avg_corners_home_per_game": 7.0,
+          "aproveitamento_home": 44.4,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 8,
+          "win": 2,
+          "draw": 2,
+          "lose": 4,
+          "goals": {
+            "for": 4,
+            "against": 6
+          },
+          "form_visitor": "LLDLW",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 6.12,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 16,
         "team": {
           "id": 694,
           "name": "Clube de Regatas Brasil",
@@ -1022,7 +1090,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 16,
+        "rank": 17,
         "team": {
           "id": 1055,
           "name": "Londrina EC",
@@ -1032,7 +1100,7 @@
         "goalsDiff": -5,
         "group": "Brazil Serie B 2026",
         "status": "same",
-        "description": "",
+        "description": "Rebaixamento",
         "all": {
           "played": 14,
           "win": 4,
@@ -1086,74 +1154,6 @@
           "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 3,
           "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 17,
-        "team": {
-          "id": 2598,
-          "name": "Botafogo FC Ribeirão Preto",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-botafogo-fc-ribeirao-preto.png"
-        },
-        "points": 13,
-        "goalsDiff": 0,
-        "group": "Brazil Serie B 2026",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 13,
-          "win": 3,
-          "draw": 4,
-          "lose": 6,
-          "goals": {
-            "for": 13,
-            "against": 13
-          },
-          "form": "LLDLW",
-          "btts_matches": 7,
-          "avg_corners_per_game": 6.62,
-          "aproveitamento": 33.3,
-          "over_2_5_goals": 5,
-          "over_0_5_ht": 5,
-          "over_0_5_ft": 5,
-          "clean_sheets": 2
-        },
-        "home": {
-          "played": 6,
-          "win": 2,
-          "draw": 2,
-          "lose": 2,
-          "goals": {
-            "for": 10,
-            "against": 7
-          },
-          "form_home": "LDDLW",
-          "avg_corners_home_per_game": 7.0,
-          "aproveitamento_home": 44.4,
-          "btts_home_matches": 5,
-          "over_2_5_goals_home": 4,
-          "over_0_5_ht_home": 4,
-          "over_0_5_ft_home": 3,
-          "clean_sheets_home": 1
-        },
-        "away": {
-          "played": 7,
-          "win": 1,
-          "draw": 2,
-          "lose": 4,
-          "goals": {
-            "for": 3,
-            "against": 6
-          },
-          "form_visitor": "DLLDL",
-          "btts_away_matches": 2,
-          "avg_corners_away_per_game": 6.29,
-          "aproveitamento_away": 23.8,
-          "over_2_5_goals_away": 1,
-          "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 2,
-          "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1402,6 +1402,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-chrystian-barletta.png"
       },
       {
+        "jogador-nome": "Vinícius Santos Silva",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 6,
+        "jogador-assists": 2,
+        "jogador-partidas": 14,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-clube-nautico-capibaribe.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-vinicius-santos-silva.png"
+      },
+      {
         "jogador-nome": "Robson dos Santos Fernandes",
         "jogador-posicao": "Forward",
         "jogador-gols": 6,
@@ -1438,13 +1447,13 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-gustavo-coutinho-silva-lopes.png"
       },
       {
-        "jogador-nome": "Vinícius Santos Silva",
-        "jogador-posicao": "Forward",
+        "jogador-nome": "Vinicius Rodrigues Adelino dos Santos",
+        "jogador-posicao": "Midfielder",
         "jogador-gols": 5,
         "jogador-assists": 2,
-        "jogador-partidas": 13,
+        "jogador-partidas": 14,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-clube-nautico-capibaribe.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-vinicius-santos-silva.png"
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-vinicius-rodrigues-adelino-dos-santos.png"
       },
       {
         "jogador-nome": "Anselmo Ramon Alves Erculano",
@@ -1465,22 +1474,31 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/portugal-ronaldo-rodrigues-tavares.png"
       },
       {
+        "jogador-nome": "Janderson Santos de Souza",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 4,
+        "jogador-assists": 4,
+        "jogador-partidas": 13,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-vila-nova-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-janderson-santos-de-souza.png"
+      },
+      {
         "jogador-nome": "Melquisedeque Costa de Oliveira",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 4,
         "jogador-assists": 3,
-        "jogador-partidas": 11,
+        "jogador-partidas": 12,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ceara-sc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-melquisedeque-costa-de-oliveira.png"
       },
       {
-        "jogador-nome": "Vinicius Rodrigues Adelino dos Santos",
-        "jogador-posicao": "Midfielder",
+        "jogador-nome": "Ryan Aparecido Lima Cassiano",
+        "jogador-posicao": "Forward",
         "jogador-gols": 4,
-        "jogador-assists": 1,
-        "jogador-partidas": 13,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-clube-nautico-capibaribe.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-vinicius-rodrigues-adelino-dos-santos.png"
+        "jogador-assists": 2,
+        "jogador-partidas": 14,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-vila-nova-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-ryan-aparecido-lima-cassiano.png"
       },
       {
         "jogador-nome": "Pablo Felipe Teixeira",
@@ -1505,7 +1523,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 4,
         "jogador-assists": 0,
-        "jogador-partidas": 8,
+        "jogador-partidas": 9,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-botafogo-fc-ribeirao-preto.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-hygor-cleber-garcia-silva.png"
       },
@@ -1526,24 +1544,6 @@
         "jogador-partidas": 12,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-athletic-club-minas-gerais.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-ian-luccas-baroni-boetto.png"
-      },
-      {
-        "jogador-nome": "Adailson Freire Pereira da Silva",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 3,
-        "jogador-assists": 2,
-        "jogador-partidas": 11,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-clube-de-regatas-brasil.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-adailson-freire-pereira-da-silva.png"
-      },
-      {
-        "jogador-nome": "Ryan Aparecido Lima Cassiano",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 3,
-        "jogador-assists": 1,
-        "jogador-partidas": 13,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-vila-nova-fc.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-ryan-aparecido-lima-cassiano.png"
       }
     ]
   }
