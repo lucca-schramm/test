@@ -212,27 +212,27 @@
           "name": "Fortaleza EC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-fortaleza-ec.png"
         },
-        "points": 21,
+        "points": 22,
         "goalsDiff": 1,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 13,
+          "played": 14,
           "win": 6,
-          "draw": 3,
+          "draw": 4,
           "lose": 4,
           "goals": {
-            "for": 15,
-            "against": 14
+            "for": 16,
+            "against": 15
           },
-          "form": "LWLWL",
-          "btts_matches": 4,
-          "avg_corners_per_game": 5.08,
-          "aproveitamento": 53.8,
+          "form": "WLWLD",
+          "btts_matches": 5,
+          "avg_corners_per_game": 5.21,
+          "aproveitamento": 52.4,
           "over_2_5_goals": 7,
           "over_0_5_ht": 5,
-          "over_0_5_ft": 4,
+          "over_0_5_ft": 5,
           "clean_sheets": 6
         },
         "home": {
@@ -254,21 +254,21 @@
           "clean_sheets_home": 2
         },
         "away": {
-          "played": 7,
+          "played": 8,
           "win": 2,
-          "draw": 2,
+          "draw": 3,
           "lose": 3,
           "goals": {
-            "for": 3,
-            "against": 7
+            "for": 4,
+            "against": 8
           },
-          "form_visitor": "DDLLW",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 5.0,
-          "aproveitamento_away": 38.1,
+          "form_visitor": "DLLWD",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 5.25,
+          "aproveitamento_away": 37.5,
           "over_2_5_goals_away": 2,
           "over_0_5_ht_away": 2,
-          "over_0_5_ft_away": 1,
+          "over_0_5_ft_away": 2,
           "clean_sheets_away": 4
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1028,44 +1028,44 @@
           "name": "Clube de Regatas Brasil",
           "logo": "https://cdn.footystats.org/img/teams/brazil-clube-de-regatas-brasil.png"
         },
-        "points": 15,
+        "points": 16,
         "goalsDiff": -1,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 13,
+          "played": 14,
           "win": 4,
-          "draw": 3,
+          "draw": 4,
           "lose": 6,
           "goals": {
-            "for": 22,
-            "against": 23
+            "for": 23,
+            "against": 24
           },
-          "form": "WWLLD",
-          "btts_matches": 9,
-          "avg_corners_per_game": 4.69,
-          "aproveitamento": 38.5,
+          "form": "WLLDD",
+          "btts_matches": 10,
+          "avg_corners_per_game": 4.86,
+          "aproveitamento": 38.1,
           "over_2_5_goals": 9,
-          "over_0_5_ht": 8,
+          "over_0_5_ht": 9,
           "over_0_5_ft": 8,
           "clean_sheets": 1
         },
         "home": {
-          "played": 6,
+          "played": 7,
           "win": 2,
-          "draw": 0,
+          "draw": 1,
           "lose": 4,
           "goals": {
-            "for": 11,
-            "against": 10
+            "for": 12,
+            "against": 11
           },
-          "form_home": "LLWWL",
-          "avg_corners_home_per_game": 6.33,
+          "form_home": "LWWLD",
+          "avg_corners_home_per_game": 6.43,
           "aproveitamento_home": 33.3,
-          "btts_home_matches": 3,
+          "btts_home_matches": 4,
           "over_2_5_goals_home": 4,
-          "over_0_5_ht_home": 4,
+          "over_0_5_ht_home": 5,
           "over_0_5_ft_home": 3,
           "clean_sheets_home": 1
         },
@@ -1368,9 +1368,9 @@
       {
         "jogador-nome": "Mikael Filipe Viana de Sousa",
         "jogador-posicao": "Forward",
-        "jogador-gols": 9,
+        "jogador-gols": 10,
         "jogador-assists": 2,
-        "jogador-partidas": 12,
+        "jogador-partidas": 13,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-clube-de-regatas-brasil.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-mikael-filipe-viana-de-sousa.png"
       },
@@ -1519,6 +1519,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-leonardo-gomes-da-silva-jaco.png"
       },
       {
+        "jogador-nome": "Juan Bautista Miritello",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 4,
+        "jogador-assists": 0,
+        "jogador-partidas": 11,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-fortaleza-ec.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/argentina-juan-bautista-miritello.png"
+      },
+      {
         "jogador-nome": "Hygor Cleber Garcia Silva",
         "jogador-posicao": "Forward",
         "jogador-gols": 4,
@@ -1535,15 +1544,6 @@
         "jogador-partidas": 13,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-gremio-novorizontino.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-romulo-azevedo-simao.png"
-      },
-      {
-        "jogador-nome": "Ian Luccas Baroni Boetto",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 3,
-        "jogador-assists": 2,
-        "jogador-partidas": 12,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-athletic-club-minas-gerais.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-ian-luccas-baroni-boetto.png"
       }
     ]
   }
