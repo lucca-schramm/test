@@ -72,6 +72,74 @@
       {
         "rank": 2,
         "team": {
+          "id": 7998,
+          "name": "France National Team",
+          "logo": "https://cdn.footystats.org/img/teams/france-france-national-team.png"
+        },
+        "points": 6,
+        "goalsDiff": 5,
+        "group": "International World Cup 2026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 2,
+          "win": 2,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 6,
+            "against": 1
+          },
+          "form": "WW",
+          "btts_matches": 1,
+          "avg_corners_per_game": 5.0,
+          "aproveitamento": 100.0,
+          "over_2_5_goals": 2,
+          "over_0_5_ht": 1,
+          "over_0_5_ft": 2,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 2,
+          "win": 2,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 6,
+            "against": 1
+          },
+          "form_home": "WW",
+          "avg_corners_home_per_game": 5.0,
+          "aproveitamento_home": 100.0,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 2,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 0,
+          "win": 0,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 0,
+            "against": 0
+          },
+          "form_visitor": "",
+          "btts_away_matches": 0,
+          "avg_corners_away_per_game": 0,
+          "aproveitamento_away": 0,
+          "over_2_5_goals_away": 0,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 3,
+        "team": {
           "id": 8632,
           "name": "United States Men's National Team",
           "logo": "https://cdn.footystats.org/img/teams/usa-united-states-mens-national-team.png"
@@ -138,7 +206,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "team": {
           "id": 8625,
           "name": "Argentina National Team",
@@ -206,7 +274,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "team": {
           "id": 8635,
           "name": "Mexico National Team",
@@ -216,7 +284,7 @@
         "goalsDiff": 3,
         "group": "International World Cup 2026",
         "status": "same",
-        "description": "Copa Libertadores",
+        "description": "Copa Sul-Americana",
         "all": {
           "played": 2,
           "win": 2,
@@ -274,7 +342,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "team": {
           "id": 8655,
           "name": "Canada National Team",
@@ -342,7 +410,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "team": {
           "id": 7996,
           "name": "Netherlands National Team",
@@ -352,7 +420,7 @@
         "goalsDiff": 4,
         "group": "International World Cup 2026",
         "status": "same",
-        "description": "Copa Sul-Americana",
+        "description": "",
         "all": {
           "played": 2,
           "win": 1,
@@ -410,7 +478,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "team": {
           "id": 8579,
           "name": "Japan National Team",
@@ -478,7 +546,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "team": {
           "id": 7967,
           "name": "Spain National Team",
@@ -546,7 +614,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "team": {
           "id": 7960,
           "name": "Switzerland National Team",
@@ -614,7 +682,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "team": {
           "id": 8630,
           "name": "Brazil National Team",
@@ -682,7 +750,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 11,
+        "rank": 12,
         "team": {
           "id": 8683,
           "name": "Egypt National Team",
@@ -750,7 +818,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "team": {
           "id": 8682,
           "name": "Morocco National Team",
@@ -818,7 +886,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "team": {
           "id": 7970,
           "name": "Norway National Team",
@@ -886,7 +954,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 14,
+        "rank": 15,
         "team": {
           "id": 7981,
           "name": "England National Team",
@@ -930,74 +998,6 @@
           "btts_home_matches": 1,
           "over_2_5_goals_home": 1,
           "over_0_5_ht_home": 1,
-          "over_0_5_ft_home": 1,
-          "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 0,
-          "win": 0,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 0,
-            "against": 0
-          },
-          "form_visitor": "",
-          "btts_away_matches": 0,
-          "avg_corners_away_per_game": 0,
-          "aproveitamento_away": 0,
-          "over_2_5_goals_away": 0,
-          "over_0_5_ht_away": 0,
-          "over_0_5_ft_away": 0,
-          "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 15,
-        "team": {
-          "id": 7998,
-          "name": "France National Team",
-          "logo": "https://cdn.footystats.org/img/teams/france-france-national-team.png"
-        },
-        "points": 3,
-        "goalsDiff": 2,
-        "group": "International World Cup 2026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 1,
-          "win": 1,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 3,
-            "against": 1
-          },
-          "form": "W",
-          "btts_matches": 1,
-          "avg_corners_per_game": 6.0,
-          "aproveitamento": 100.0,
-          "over_2_5_goals": 1,
-          "over_0_5_ht": 0,
-          "over_0_5_ft": 1,
-          "clean_sheets": 0
-        },
-        "home": {
-          "played": 1,
-          "win": 1,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 3,
-            "against": 1
-          },
-          "form_home": "W",
-          "avg_corners_home_per_game": 6.0,
-          "aproveitamento_home": 100.0,
-          "btts_home_matches": 1,
-          "over_2_5_goals_home": 1,
-          "over_0_5_ht_home": 0,
           "over_0_5_ft_home": 1,
           "clean_sheets_home": 0
         },
@@ -3132,74 +3132,6 @@
       {
         "rank": 47,
         "team": {
-          "id": 8606,
-          "name": "Iraq National Team",
-          "logo": "https://cdn.footystats.org/img/teams/iraq-iraq-national-team.png"
-        },
-        "points": 0,
-        "goalsDiff": -3,
-        "group": "International World Cup 2026",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 1,
-          "win": 0,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 1,
-            "against": 4
-          },
-          "form": "L",
-          "btts_matches": 1,
-          "avg_corners_per_game": 2.0,
-          "aproveitamento": 0.0,
-          "over_2_5_goals": 1,
-          "over_0_5_ht": 1,
-          "over_0_5_ft": 0,
-          "clean_sheets": 0
-        },
-        "home": {
-          "played": 1,
-          "win": 0,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 1,
-            "against": 4
-          },
-          "form_home": "L",
-          "avg_corners_home_per_game": 2.0,
-          "aproveitamento_home": 0.0,
-          "btts_home_matches": 1,
-          "over_2_5_goals_home": 1,
-          "over_0_5_ht_home": 1,
-          "over_0_5_ft_home": 0,
-          "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 0,
-          "win": 0,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 0,
-            "against": 0
-          },
-          "form_visitor": "",
-          "btts_away_matches": 0,
-          "avg_corners_away_per_game": 0,
-          "aproveitamento_away": 0,
-          "over_2_5_goals_away": 0,
-          "over_0_5_ht_away": 0,
-          "over_0_5_ft_away": 0,
-          "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 48,
-        "team": {
           "id": 8636,
           "name": "Algeria National Team",
           "logo": "https://cdn.footystats.org/img/teams/algeria-algeria-national-team.png"
@@ -3266,7 +3198,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 49,
+        "rank": 48,
         "team": {
           "id": 8002,
           "name": "Turkey National Team",
@@ -3334,7 +3266,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 50,
+        "rank": 49,
         "team": {
           "id": 8658,
           "name": "Haiti National Team",
@@ -3393,6 +3325,74 @@
           "form_visitor": "L",
           "btts_away_matches": 0,
           "avg_corners_away_per_game": 4.0,
+          "aproveitamento_away": 0.0,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 50,
+        "team": {
+          "id": 8606,
+          "name": "Iraq National Team",
+          "logo": "https://cdn.footystats.org/img/teams/iraq-iraq-national-team.png"
+        },
+        "points": 0,
+        "goalsDiff": -6,
+        "group": "International World Cup 2026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 2,
+          "win": 0,
+          "draw": 0,
+          "lose": 2,
+          "goals": {
+            "for": 1,
+            "against": 7
+          },
+          "form": "LL",
+          "btts_matches": 1,
+          "avg_corners_per_game": 2.0,
+          "aproveitamento": 0.0,
+          "over_2_5_goals": 2,
+          "over_0_5_ht": 1,
+          "over_0_5_ft": 0,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 1,
+            "against": 4
+          },
+          "form_home": "L",
+          "avg_corners_home_per_game": 2.0,
+          "aproveitamento_home": 0.0,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 0,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 0,
+            "against": 3
+          },
+          "form_visitor": "L",
+          "btts_away_matches": 0,
+          "avg_corners_away_per_game": 2.0,
           "aproveitamento_away": 0.0,
           "over_2_5_goals_away": 1,
           "over_0_5_ht_away": 0,
@@ -3483,6 +3483,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/argentina-lionel-messi.png"
       },
       {
+        "jogador-nome": "Kylian Mbappé Lottin",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 4,
+        "jogador-assists": 0,
+        "jogador-partidas": 2,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/france-france-national-team.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/france-kylian-mbappe.png"
+      },
+      {
         "jogador-nome": "Deniz Undav",
         "jogador-posicao": "Forward",
         "jogador-gols": 3,
@@ -3571,15 +3580,6 @@
         "jogador-partidas": 2,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-brazil-national-team.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-matheus-cunha.png"
-      },
-      {
-        "jogador-nome": "Kylian Mbappé Lottin",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 2,
-        "jogador-assists": 0,
-        "jogador-partidas": 1,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/france-france-national-team.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/france-kylian-mbappe.png"
       },
       {
         "jogador-nome": "Kai Lukas Havertz",
