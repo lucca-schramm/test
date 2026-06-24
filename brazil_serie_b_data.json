@@ -276,6 +276,74 @@
       {
         "rank": 5,
         "team": {
+          "id": 691,
+          "name": "Criciuma EC",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-criciuma-ec.png"
+        },
+        "points": 24,
+        "goalsDiff": 5,
+        "group": "Brazil Serie B 2026",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 14,
+          "win": 6,
+          "draw": 6,
+          "lose": 2,
+          "goals": {
+            "for": 16,
+            "against": 11
+          },
+          "form": "DWWDW",
+          "btts_matches": 8,
+          "avg_corners_per_game": 6.71,
+          "aproveitamento": 57.1,
+          "over_2_5_goals": 3,
+          "over_0_5_ht": 7,
+          "over_0_5_ft": 8,
+          "clean_sheets": 5
+        },
+        "home": {
+          "played": 6,
+          "win": 3,
+          "draw": 3,
+          "lose": 0,
+          "goals": {
+            "for": 8,
+            "against": 4
+          },
+          "form_home": "WWDWD",
+          "avg_corners_home_per_game": 7.5,
+          "aproveitamento_home": 66.7,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 8,
+          "win": 3,
+          "draw": 3,
+          "lose": 2,
+          "goals": {
+            "for": 8,
+            "against": 7
+          },
+          "form_visitor": "DDDWW",
+          "btts_away_matches": 4,
+          "avg_corners_away_per_game": 6.12,
+          "aproveitamento_away": 50.0,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 6,
+        "team": {
           "id": 1053,
           "name": "EC Juventude",
           "logo": "https://cdn.footystats.org/img/teams/brazil-ec-juventude.png"
@@ -342,7 +410,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "team": {
           "id": 2662,
           "name": "Operário Ferroviário EC",
@@ -352,7 +420,7 @@
         "goalsDiff": 1,
         "group": "Brazil Serie B 2026",
         "status": "same",
-        "description": "Copa Sul-Americana",
+        "description": "",
         "all": {
           "played": 14,
           "win": 6,
@@ -410,7 +478,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "team": {
           "id": 2601,
           "name": "Fortaleza EC",
@@ -474,74 +542,6 @@
           "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 2,
           "clean_sheets_away": 4
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 8,
-        "team": {
-          "id": 691,
-          "name": "Criciuma EC",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-criciuma-ec.png"
-        },
-        "points": 21,
-        "goalsDiff": 4,
-        "group": "Brazil Serie B 2026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 13,
-          "win": 5,
-          "draw": 6,
-          "lose": 2,
-          "goals": {
-            "for": 15,
-            "against": 11
-          },
-          "form": "DDWWD",
-          "btts_matches": 8,
-          "avg_corners_per_game": 6.85,
-          "aproveitamento": 53.8,
-          "over_2_5_goals": 3,
-          "over_0_5_ht": 6,
-          "over_0_5_ft": 8,
-          "clean_sheets": 4
-        },
-        "home": {
-          "played": 6,
-          "win": 3,
-          "draw": 3,
-          "lose": 0,
-          "goals": {
-            "for": 8,
-            "against": 4
-          },
-          "form_home": "WWDWD",
-          "avg_corners_home_per_game": 7.5,
-          "aproveitamento_home": 66.7,
-          "btts_home_matches": 4,
-          "over_2_5_goals_home": 1,
-          "over_0_5_ht_home": 3,
-          "over_0_5_ft_home": 4,
-          "clean_sheets_home": 2
-        },
-        "away": {
-          "played": 7,
-          "win": 2,
-          "draw": 3,
-          "lose": 2,
-          "goals": {
-            "for": 7,
-            "against": 7
-          },
-          "form_visitor": "LDDDW",
-          "btts_away_matches": 4,
-          "avg_corners_away_per_game": 6.29,
-          "aproveitamento_away": 42.9,
-          "over_2_5_goals_away": 2,
-          "over_0_5_ht_away": 3,
-          "over_0_5_ft_away": 4,
-          "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1301,40 +1301,40 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-america-fc-minas-gerais.png"
         },
         "points": 6,
-        "goalsDiff": -14,
+        "goalsDiff": -15,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 13,
+          "played": 14,
           "win": 1,
           "draw": 3,
-          "lose": 9,
+          "lose": 10,
           "goals": {
             "for": 10,
-            "against": 24
+            "against": 25
           },
-          "form": "DLLLW",
+          "form": "LLLWL",
           "btts_matches": 7,
-          "avg_corners_per_game": 6.0,
-          "aproveitamento": 15.4,
+          "avg_corners_per_game": 5.57,
+          "aproveitamento": 14.3,
           "over_2_5_goals": 9,
           "over_0_5_ht": 6,
           "over_0_5_ft": 3,
           "clean_sheets": 2
         },
         "home": {
-          "played": 6,
+          "played": 7,
           "win": 0,
           "draw": 1,
-          "lose": 5,
+          "lose": 6,
           "goals": {
             "for": 4,
-            "against": 11
+            "against": 12
           },
-          "form_home": "LDLLL",
-          "avg_corners_home_per_game": 6.33,
-          "aproveitamento_home": 5.6,
+          "form_home": "DLLLL",
+          "avg_corners_home_per_game": 5.43,
+          "aproveitamento_home": 4.8,
           "btts_home_matches": 4,
           "over_2_5_goals_home": 5,
           "over_0_5_ht_home": 4,
