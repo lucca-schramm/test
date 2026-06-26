@@ -620,45 +620,45 @@
           "name": "Cuiabá EC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-cuiaba-ec.png"
         },
-        "points": 19,
+        "points": 20,
         "goalsDiff": 2,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 14,
+          "played": 15,
           "win": 4,
-          "draw": 7,
+          "draw": 8,
           "lose": 3,
           "goals": {
-            "for": 9,
-            "against": 7
+            "for": 11,
+            "against": 9
           },
-          "form": "LWWWL",
-          "btts_matches": 3,
-          "avg_corners_per_game": 4.14,
-          "aproveitamento": 45.2,
-          "over_2_5_goals": 1,
+          "form": "WWWLD",
+          "btts_matches": 4,
+          "avg_corners_per_game": 4.47,
+          "aproveitamento": 44.4,
+          "over_2_5_goals": 2,
           "over_0_5_ht": 3,
-          "over_0_5_ft": 4,
+          "over_0_5_ft": 5,
           "clean_sheets": 8
         },
         "home": {
-          "played": 7,
+          "played": 8,
           "win": 2,
-          "draw": 4,
+          "draw": 5,
           "lose": 1,
           "goals": {
-            "for": 5,
-            "against": 4
+            "for": 7,
+            "against": 6
           },
-          "form_home": "DDDWW",
-          "avg_corners_home_per_game": 4.29,
-          "aproveitamento_home": 47.6,
-          "btts_home_matches": 2,
-          "over_2_5_goals_home": 0,
+          "form_home": "DDWWD",
+          "avg_corners_home_per_game": 4.88,
+          "aproveitamento_home": 45.8,
+          "btts_home_matches": 3,
+          "over_2_5_goals_home": 1,
           "over_0_5_ht_home": 2,
-          "over_0_5_ft_home": 2,
+          "over_0_5_ft_home": 3,
           "clean_sheets_home": 4
         },
         "away": {
@@ -1096,26 +1096,26 @@
           "name": "Londrina EC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-londrina-ec.png"
         },
-        "points": 14,
+        "points": 15,
         "goalsDiff": -5,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 14,
+          "played": 15,
           "win": 4,
-          "draw": 2,
+          "draw": 3,
           "lose": 8,
           "goals": {
-            "for": 17,
-            "against": 22
+            "for": 19,
+            "against": 24
           },
-          "form": "LLLWW",
-          "btts_matches": 7,
-          "avg_corners_per_game": 5.64,
+          "form": "LLWWD",
+          "btts_matches": 8,
+          "avg_corners_per_game": 5.27,
           "aproveitamento": 33.3,
-          "over_2_5_goals": 9,
-          "over_0_5_ht": 4,
+          "over_2_5_goals": 10,
+          "over_0_5_ht": 5,
           "over_0_5_ft": 7,
           "clean_sheets": 2
         },
@@ -1138,20 +1138,20 @@
           "clean_sheets_home": 2
         },
         "away": {
-          "played": 7,
+          "played": 8,
           "win": 2,
-          "draw": 0,
+          "draw": 1,
           "lose": 5,
           "goals": {
-            "for": 8,
-            "against": 12
+            "for": 10,
+            "against": 14
           },
-          "form_visitor": "LLWLL",
-          "btts_away_matches": 3,
-          "avg_corners_away_per_game": 4.43,
-          "aproveitamento_away": 28.6,
-          "over_2_5_goals_away": 5,
-          "over_0_5_ht_away": 1,
+          "form_visitor": "LWLLD",
+          "btts_away_matches": 4,
+          "avg_corners_away_per_game": 3.88,
+          "aproveitamento_away": 29.2,
+          "over_2_5_goals_away": 6,
+          "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 3,
           "clean_sheets_away": 0
         },
@@ -1375,6 +1375,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-mikael-filipe-viana-de-sousa.png"
       },
       {
+        "jogador-nome": "Bruno Santos de Oliveira",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 9,
+        "jogador-assists": 3,
+        "jogador-partidas": 15,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-londrina-ec.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-bruno-santos-de-oliveira.png"
+      },
+      {
         "jogador-nome": "Robson dos Santos Fernandes",
         "jogador-posicao": "Forward",
         "jogador-gols": 8,
@@ -1382,15 +1391,6 @@
         "jogador-partidas": 14,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-gremio-novorizontino.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-robson-dos-santos-fernandes.png"
-      },
-      {
-        "jogador-nome": "Bruno Santos de Oliveira",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 7,
-        "jogador-assists": 3,
-        "jogador-partidas": 14,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-londrina-ec.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-bruno-santos-de-oliveira.png"
       },
       {
         "jogador-nome": "Gabriel Boschilia",
