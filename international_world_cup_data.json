@@ -4,6 +4,74 @@
       {
         "rank": 1,
         "team": {
+          "id": 7998,
+          "name": "France National Team",
+          "logo": "https://cdn.footystats.org/img/teams/france-france-national-team.png"
+        },
+        "points": 9,
+        "goalsDiff": 8,
+        "group": "International World Cup 2026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 3,
+          "win": 3,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 10,
+            "against": 2
+          },
+          "form": "WWW",
+          "btts_matches": 2,
+          "avg_corners_per_game": 5.0,
+          "aproveitamento": 100.0,
+          "over_2_5_goals": 3,
+          "over_0_5_ht": 2,
+          "over_0_5_ft": 3,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 2,
+          "win": 2,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 6,
+            "against": 1
+          },
+          "form_home": "WW",
+          "avg_corners_home_per_game": 5.0,
+          "aproveitamento_home": 100.0,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 2,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 1,
+          "win": 1,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 4,
+            "against": 1
+          },
+          "form_visitor": "W",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 5.0,
+          "aproveitamento_away": 100.0,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 2,
+        "team": {
           "id": 8635,
           "name": "Mexico National Team",
           "logo": "https://cdn.footystats.org/img/teams/mexico-mexico-national-team.png"
@@ -70,7 +138,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "team": {
           "id": 7996,
           "name": "Netherlands National Team",
@@ -138,7 +206,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "team": {
           "id": 8630,
           "name": "Brazil National Team",
@@ -206,7 +274,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "team": {
           "id": 7960,
           "name": "Switzerland National Team",
@@ -216,7 +284,7 @@
         "goalsDiff": 4,
         "group": "International World Cup 2026",
         "status": "same",
-        "description": "Copa Libertadores",
+        "description": "Copa Sul-Americana",
         "all": {
           "played": 3,
           "win": 2,
@@ -274,7 +342,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "team": {
           "id": 8682,
           "name": "Morocco National Team",
@@ -342,7 +410,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "team": {
           "id": 7980,
           "name": "Germany National Team",
@@ -352,7 +420,7 @@
         "goalsDiff": 6,
         "group": "International World Cup 2026",
         "status": "same",
-        "description": "Copa Sul-Americana",
+        "description": "",
         "all": {
           "played": 3,
           "win": 2,
@@ -404,74 +472,6 @@
           "aproveitamento_away": 0.0,
           "over_2_5_goals_away": 1,
           "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 0,
-          "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 7,
-        "team": {
-          "id": 7998,
-          "name": "France National Team",
-          "logo": "https://cdn.footystats.org/img/teams/france-france-national-team.png"
-        },
-        "points": 6,
-        "goalsDiff": 5,
-        "group": "International World Cup 2026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 2,
-          "win": 2,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 6,
-            "against": 1
-          },
-          "form": "WW",
-          "btts_matches": 1,
-          "avg_corners_per_game": 5.0,
-          "aproveitamento": 100.0,
-          "over_2_5_goals": 2,
-          "over_0_5_ht": 1,
-          "over_0_5_ft": 2,
-          "clean_sheets": 1
-        },
-        "home": {
-          "played": 2,
-          "win": 2,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 6,
-            "against": 1
-          },
-          "form_home": "WW",
-          "avg_corners_home_per_game": 5.0,
-          "aproveitamento_home": 100.0,
-          "btts_home_matches": 1,
-          "over_2_5_goals_home": 2,
-          "over_0_5_ht_home": 1,
-          "over_0_5_ft_home": 2,
-          "clean_sheets_home": 1
-        },
-        "away": {
-          "played": 0,
-          "win": 0,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 0,
-            "against": 0
-          },
-          "form_visitor": "",
-          "btts_away_matches": 0,
-          "avg_corners_away_per_game": 0,
-          "aproveitamento_away": 0,
-          "over_2_5_goals_away": 0,
-          "over_0_5_ht_away": 0,
           "over_0_5_ft_away": 0,
           "clean_sheets_away": 0
         },
@@ -616,74 +616,6 @@
       {
         "rank": 10,
         "team": {
-          "id": 7970,
-          "name": "Norway National Team",
-          "logo": "https://cdn.footystats.org/img/teams/norway-norway-national-team.png"
-        },
-        "points": 6,
-        "goalsDiff": 4,
-        "group": "International World Cup 2026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 2,
-          "win": 2,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 7,
-            "against": 3
-          },
-          "form": "WW",
-          "btts_matches": 2,
-          "avg_corners_per_game": 5.0,
-          "aproveitamento": 100.0,
-          "over_2_5_goals": 2,
-          "over_0_5_ht": 2,
-          "over_0_5_ft": 2,
-          "clean_sheets": 0
-        },
-        "home": {
-          "played": 1,
-          "win": 1,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 3,
-            "against": 2
-          },
-          "form_home": "W",
-          "avg_corners_home_per_game": 5.0,
-          "aproveitamento_home": 100.0,
-          "btts_home_matches": 1,
-          "over_2_5_goals_home": 1,
-          "over_0_5_ht_home": 1,
-          "over_0_5_ft_home": 1,
-          "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 1,
-          "win": 1,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 4,
-            "against": 1
-          },
-          "form_visitor": "W",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 5.0,
-          "aproveitamento_away": 100.0,
-          "over_2_5_goals_away": 1,
-          "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 1,
-          "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 11,
-        "team": {
           "id": 8638,
           "name": "Colombia National Team",
           "logo": "https://cdn.footystats.org/img/teams/colombia-colombia-national-team.png"
@@ -750,7 +682,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 12,
+        "rank": 11,
         "team": {
           "id": 8624,
           "name": "Ivory Coast National Team",
@@ -814,6 +746,74 @@
           "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 1,
           "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 12,
+        "team": {
+          "id": 7970,
+          "name": "Norway National Team",
+          "logo": "https://cdn.footystats.org/img/teams/norway-norway-national-team.png"
+        },
+        "points": 6,
+        "goalsDiff": 1,
+        "group": "International World Cup 2026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 3,
+          "win": 2,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 8,
+            "against": 7
+          },
+          "form": "WWL",
+          "btts_matches": 3,
+          "avg_corners_per_game": 4.67,
+          "aproveitamento": 66.7,
+          "over_2_5_goals": 3,
+          "over_0_5_ht": 3,
+          "over_0_5_ft": 2,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 2,
+          "win": 1,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 4,
+            "against": 6
+          },
+          "form_home": "WL",
+          "avg_corners_home_per_game": 4.5,
+          "aproveitamento_home": 50.0,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 1,
+          "win": 1,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 4,
+            "against": 1
+          },
+          "form_visitor": "W",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 5.0,
+          "aproveitamento_away": 100.0,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -3755,6 +3755,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/argentina-lionel-messi.png"
       },
       {
+        "jogador-nome": "Kylian Mbappé Lottin",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 4,
+        "jogador-assists": 2,
+        "jogador-partidas": 3,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/france-france-national-team.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/france-kylian-mbappe.png"
+      },
+      {
         "jogador-nome": "Vinícius José Paixão de Oliveira Júnior",
         "jogador-posicao": "Forward",
         "jogador-gols": 4,
@@ -3764,13 +3773,13 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-vinicius-junior.png"
       },
       {
-        "jogador-nome": "Kylian Mbappé Lottin",
+        "jogador-nome": "Ousmane Dembélé",
         "jogador-posicao": "Forward",
         "jogador-gols": 4,
-        "jogador-assists": 0,
-        "jogador-partidas": 2,
+        "jogador-assists": 1,
+        "jogador-partidas": 3,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/france-france-national-team.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/france-kylian-mbappe.png"
+        "jogador-foto": "https://cdn.footystats.org/img/players/france-ousmane-dembele.png"
       },
       {
         "jogador-nome": "Erling Braut Haaland",
@@ -3915,15 +3924,6 @@
         "jogador-partidas": 3,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-germany-national-team.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/germany-kai-havertz.png"
-      },
-      {
-        "jogador-nome": "Julián Andrés Quiñones Quiñones",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 2,
-        "jogador-assists": 0,
-        "jogador-partidas": 3,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/mexico-mexico-national-team.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/colombia-julian-andres-quinones-quinones.png"
       }
     ]
   }
