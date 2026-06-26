@@ -820,6 +820,74 @@
       {
         "rank": 13,
         "team": {
+          "id": 8579,
+          "name": "Japan National Team",
+          "logo": "https://cdn.footystats.org/img/teams/japan-japan-national-team.png"
+        },
+        "points": 5,
+        "goalsDiff": 4,
+        "group": "International World Cup 2026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 3,
+          "win": 1,
+          "draw": 2,
+          "lose": 0,
+          "goals": {
+            "for": 7,
+            "against": 3
+          },
+          "form": "DWD",
+          "btts_matches": 2,
+          "avg_corners_per_game": 3.67,
+          "aproveitamento": 55.6,
+          "over_2_5_goals": 2,
+          "over_0_5_ht": 1,
+          "over_0_5_ft": 3,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 1,
+          "win": 0,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 1,
+            "against": 1
+          },
+          "form_home": "D",
+          "avg_corners_home_per_game": 2.0,
+          "aproveitamento_home": 33.3,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 0,
+          "over_0_5_ht_home": 0,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 2,
+          "win": 1,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 6,
+            "against": 2
+          },
+          "form_visitor": "DW",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 4.5,
+          "aproveitamento_away": 66.7,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 14,
+        "team": {
           "id": 8655,
           "name": "Canada National Team",
           "logo": "https://cdn.footystats.org/img/teams/canada-canada-national-team.png"
@@ -886,7 +954,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 14,
+        "rank": 15,
         "team": {
           "id": 7969,
           "name": "Portugal National Team",
@@ -950,74 +1018,6 @@
           "over_0_5_ht_away": 0,
           "over_0_5_ft_away": 0,
           "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 15,
-        "team": {
-          "id": 8579,
-          "name": "Japan National Team",
-          "logo": "https://cdn.footystats.org/img/teams/japan-japan-national-team.png"
-        },
-        "points": 4,
-        "goalsDiff": 4,
-        "group": "International World Cup 2026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 2,
-          "win": 1,
-          "draw": 1,
-          "lose": 0,
-          "goals": {
-            "for": 6,
-            "against": 2
-          },
-          "form": "DW",
-          "btts_matches": 1,
-          "avg_corners_per_game": 4.5,
-          "aproveitamento": 66.7,
-          "over_2_5_goals": 2,
-          "over_0_5_ht": 1,
-          "over_0_5_ft": 2,
-          "clean_sheets": 1
-        },
-        "home": {
-          "played": 0,
-          "win": 0,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 0,
-            "against": 0
-          },
-          "form_home": "",
-          "avg_corners_home_per_game": 0,
-          "aproveitamento_home": 0,
-          "btts_home_matches": 0,
-          "over_2_5_goals_home": 0,
-          "over_0_5_ht_home": 0,
-          "over_0_5_ft_home": 0,
-          "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 2,
-          "win": 1,
-          "draw": 1,
-          "lose": 0,
-          "goals": {
-            "for": 6,
-            "against": 2
-          },
-          "form_visitor": "DW",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 4.5,
-          "aproveitamento_away": 66.7,
-          "over_2_5_goals_away": 2,
-          "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 2,
-          "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1296,6 +1296,74 @@
       {
         "rank": 20,
         "team": {
+          "id": 7973,
+          "name": "Sweden National Team",
+          "logo": "https://cdn.footystats.org/img/teams/sweden-sweden-national-team.png"
+        },
+        "points": 4,
+        "goalsDiff": 0,
+        "group": "International World Cup 2026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 3,
+          "win": 1,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 7,
+            "against": 7
+          },
+          "form": "WLD",
+          "btts_matches": 3,
+          "avg_corners_per_game": 5.67,
+          "aproveitamento": 44.4,
+          "over_2_5_goals": 2,
+          "over_0_5_ht": 1,
+          "over_0_5_ft": 3,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 1,
+          "win": 1,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 5,
+            "against": 1
+          },
+          "form_home": "W",
+          "avg_corners_home_per_game": 4.0,
+          "aproveitamento_home": 100.0,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 2,
+          "win": 0,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 2,
+            "against": 6
+          },
+          "form_visitor": "LD",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 6.5,
+          "aproveitamento_away": 16.7,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 21,
+        "team": {
           "id": 8628,
           "name": "Ecuador National Team",
           "logo": "https://cdn.footystats.org/img/teams/ecuador-ecuador-national-team.png"
@@ -1362,7 +1430,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 21,
+        "rank": 22,
         "team": {
           "id": 8003,
           "name": "Bosnia-Herzegovina National Team",
@@ -1430,7 +1498,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 22,
+        "rank": 23,
         "team": {
           "id": 8656,
           "name": "South Africa National Team",
@@ -1491,74 +1559,6 @@
           "avg_corners_away_per_game": 3.0,
           "aproveitamento_away": 16.7,
           "over_2_5_goals_away": 0,
-          "over_0_5_ht_away": 0,
-          "over_0_5_ft_away": 1,
-          "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 23,
-        "team": {
-          "id": 7973,
-          "name": "Sweden National Team",
-          "logo": "https://cdn.footystats.org/img/teams/sweden-sweden-national-team.png"
-        },
-        "points": 3,
-        "goalsDiff": 0,
-        "group": "International World Cup 2026",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 2,
-          "win": 1,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 6,
-            "against": 6
-          },
-          "form": "WL",
-          "btts_matches": 2,
-          "avg_corners_per_game": 4.5,
-          "aproveitamento": 50.0,
-          "over_2_5_goals": 2,
-          "over_0_5_ht": 1,
-          "over_0_5_ft": 2,
-          "clean_sheets": 0
-        },
-        "home": {
-          "played": 1,
-          "win": 1,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 5,
-            "against": 1
-          },
-          "form_home": "W",
-          "avg_corners_home_per_game": 4.0,
-          "aproveitamento_home": 100.0,
-          "btts_home_matches": 1,
-          "over_2_5_goals_home": 1,
-          "over_0_5_ht_home": 1,
-          "over_0_5_ft_home": 1,
-          "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 1,
-          "win": 0,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 1,
-            "against": 5
-          },
-          "form_visitor": "L",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 5.0,
-          "aproveitamento_away": 0.0,
-          "over_2_5_goals_away": 1,
           "over_0_5_ht_away": 0,
           "over_0_5_ft_away": 1,
           "clean_sheets_away": 0
@@ -3749,7 +3749,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 2,
         "jogador-assists": 1,
-        "jogador-partidas": 2,
+        "jogador-partidas": 3,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/japan-japan-national-team.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/japan-ayase-ueda.png"
       },
@@ -3758,7 +3758,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 2,
         "jogador-assists": 0,
-        "jogador-partidas": 2,
+        "jogador-partidas": 3,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/sweden-sweden-national-team.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/sweden-yasin-ayari.png"
       },
