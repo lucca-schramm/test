@@ -276,6 +276,74 @@
       {
         "rank": 5,
         "team": {
+          "id": 7980,
+          "name": "Germany National Team",
+          "logo": "https://cdn.footystats.org/img/teams/germany-germany-national-team.png"
+        },
+        "points": 7,
+        "goalsDiff": 6,
+        "group": "International World Cup 2026",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 4,
+          "win": 2,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 11,
+            "against": 5
+          },
+          "form": "WWLD",
+          "btts_matches": 4,
+          "avg_corners_per_game": 8.5,
+          "aproveitamento": 58.3,
+          "over_2_5_goals": 3,
+          "over_0_5_ht": 2,
+          "over_0_5_ft": 3,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 3,
+          "win": 2,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 10,
+            "against": 3
+          },
+          "form_home": "WWD",
+          "avg_corners_home_per_game": 10.67,
+          "aproveitamento_home": 77.8,
+          "btts_home_matches": 3,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 1,
+            "against": 2
+          },
+          "form_visitor": "L",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 2.0,
+          "aproveitamento_away": 0.0,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 6,
+        "team": {
           "id": 7996,
           "name": "Netherlands National Team",
           "logo": "https://cdn.footystats.org/img/teams/netherlands-netherlands-national-team.png"
@@ -342,7 +410,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "team": {
           "id": 8655,
           "name": "Canada National Team",
@@ -352,7 +420,7 @@
         "goalsDiff": 6,
         "group": "International World Cup 2026",
         "status": "same",
-        "description": "Copa Sul-Americana",
+        "description": "",
         "all": {
           "played": 4,
           "win": 2,
@@ -410,7 +478,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "team": {
           "id": 7967,
           "name": "Spain National Team",
@@ -478,7 +546,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "team": {
           "id": 7960,
           "name": "Switzerland National Team",
@@ -546,7 +614,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "team": {
           "id": 7981,
           "name": "England National Team",
@@ -614,7 +682,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "team": {
           "id": 8682,
           "name": "Morocco National Team",
@@ -682,7 +750,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 11,
+        "rank": 12,
         "team": {
           "id": 8638,
           "name": "Colombia National Team",
@@ -745,74 +813,6 @@
           "over_2_5_goals_away": 1,
           "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 1,
-          "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 12,
-        "team": {
-          "id": 7980,
-          "name": "Germany National Team",
-          "logo": "https://cdn.footystats.org/img/teams/germany-germany-national-team.png"
-        },
-        "points": 6,
-        "goalsDiff": 6,
-        "group": "International World Cup 2026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 3,
-          "win": 2,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 10,
-            "against": 4
-          },
-          "form": "WWL",
-          "btts_matches": 3,
-          "avg_corners_per_game": 6.0,
-          "aproveitamento": 66.7,
-          "over_2_5_goals": 3,
-          "over_0_5_ht": 2,
-          "over_0_5_ft": 2,
-          "clean_sheets": 0
-        },
-        "home": {
-          "played": 2,
-          "win": 2,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 9,
-            "against": 2
-          },
-          "form_home": "WW",
-          "avg_corners_home_per_game": 8.0,
-          "aproveitamento_home": 100.0,
-          "btts_home_matches": 2,
-          "over_2_5_goals_home": 2,
-          "over_0_5_ht_home": 1,
-          "over_0_5_ft_home": 2,
-          "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 1,
-          "win": 0,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 1,
-            "against": 2
-          },
-          "form_visitor": "L",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 2.0,
-          "aproveitamento_away": 0.0,
-          "over_2_5_goals_away": 1,
-          "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 0,
           "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1364,6 +1364,74 @@
       {
         "rank": 21,
         "team": {
+          "id": 8678,
+          "name": "Paraguay National Team",
+          "logo": "https://cdn.footystats.org/img/teams/paraguay-paraguay-national-team.png"
+        },
+        "points": 5,
+        "goalsDiff": -2,
+        "group": "International World Cup 2026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 4,
+          "win": 1,
+          "draw": 2,
+          "lose": 1,
+          "goals": {
+            "for": 3,
+            "against": 5
+          },
+          "form": "LWDD",
+          "btts_matches": 2,
+          "avg_corners_per_game": 2.0,
+          "aproveitamento": 41.7,
+          "over_2_5_goals": 1,
+          "over_0_5_ht": 2,
+          "over_0_5_ft": 1,
+          "clean_sheets": 2
+        },
+        "home": {
+          "played": 1,
+          "win": 0,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 0,
+            "against": 0
+          },
+          "form_home": "D",
+          "avg_corners_home_per_game": 1.0,
+          "aproveitamento_home": 33.3,
+          "btts_home_matches": 0,
+          "over_2_5_goals_home": 0,
+          "over_0_5_ht_home": 0,
+          "over_0_5_ft_home": 0,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 3,
+          "win": 1,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 3,
+            "against": 5
+          },
+          "form_visitor": "LWD",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 2.33,
+          "aproveitamento_away": 44.4,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 22,
+        "team": {
           "id": 8704,
           "name": "Congo DR National Team",
           "logo": "https://cdn.footystats.org/img/teams/congo-dr-congo-dr-national-team.png"
@@ -1430,7 +1498,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 22,
+        "rank": 23,
         "team": {
           "id": 7973,
           "name": "Sweden National Team",
@@ -1498,7 +1566,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 23,
+        "rank": 24,
         "team": {
           "id": 7963,
           "name": "Austria National Team",
@@ -1566,7 +1634,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 24,
+        "rank": 25,
         "team": {
           "id": 8629,
           "name": "Ghana National Team",
@@ -1634,7 +1702,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 25,
+        "rank": 26,
         "team": {
           "id": 8582,
           "name": "Australia National Team",
@@ -1702,7 +1770,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 26,
+        "rank": 27,
         "team": {
           "id": 8628,
           "name": "Ecuador National Team",
@@ -1770,7 +1838,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 27,
+        "rank": 28,
         "team": {
           "id": 8003,
           "name": "Bosnia-Herzegovina National Team",
@@ -1838,7 +1906,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 28,
+        "rank": 29,
         "team": {
           "id": 8636,
           "name": "Algeria National Team",
@@ -1902,74 +1970,6 @@
           "over_0_5_ht_away": 0,
           "over_0_5_ft_away": 1,
           "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 29,
-        "team": {
-          "id": 8678,
-          "name": "Paraguay National Team",
-          "logo": "https://cdn.footystats.org/img/teams/paraguay-paraguay-national-team.png"
-        },
-        "points": 4,
-        "goalsDiff": -2,
-        "group": "International World Cup 2026",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 3,
-          "win": 1,
-          "draw": 1,
-          "lose": 1,
-          "goals": {
-            "for": 2,
-            "against": 4
-          },
-          "form": "LWD",
-          "btts_matches": 1,
-          "avg_corners_per_game": 0.67,
-          "aproveitamento": 44.4,
-          "over_2_5_goals": 1,
-          "over_0_5_ht": 1,
-          "over_0_5_ft": 1,
-          "clean_sheets": 2
-        },
-        "home": {
-          "played": 1,
-          "win": 0,
-          "draw": 1,
-          "lose": 0,
-          "goals": {
-            "for": 0,
-            "against": 0
-          },
-          "form_home": "D",
-          "avg_corners_home_per_game": 1.0,
-          "aproveitamento_home": 33.3,
-          "btts_home_matches": 0,
-          "over_2_5_goals_home": 0,
-          "over_0_5_ht_home": 0,
-          "over_0_5_ft_home": 0,
-          "clean_sheets_home": 1
-        },
-        "away": {
-          "played": 2,
-          "win": 1,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 2,
-            "against": 4
-          },
-          "form_visitor": "LW",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 0.5,
-          "aproveitamento_away": 50.0,
-          "over_2_5_goals_away": 1,
-          "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 1,
-          "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -3931,7 +3931,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 3,
         "jogador-assists": 2,
-        "jogador-partidas": 3,
+        "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-germany-national-team.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/germany-deniz-undav.png"
       },
@@ -3970,6 +3970,15 @@
         "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-brazil-national-team.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-matheus-cunha.png"
+      },
+      {
+        "jogador-nome": "Kai Lukas Havertz",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 3,
+        "jogador-assists": 0,
+        "jogador-partidas": 4,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-germany-national-team.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/germany-kai-havertz.png"
       },
       {
         "jogador-nome": "Jonathan Christian David",
@@ -4051,15 +4060,6 @@
         "jogador-partidas": 3,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/senegal-senegal-national-team.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/france-pape-gueye.png"
-      },
-      {
-        "jogador-nome": "Mikel Oyarzabal Ugarte",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 2,
-        "jogador-assists": 1,
-        "jogador-partidas": 3,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/spain-spain-national-team.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/spain-mikel-oyarzabal.png"
       }
     ]
   }
