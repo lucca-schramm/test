@@ -888,6 +888,74 @@
       {
         "rank": 14,
         "team": {
+          "id": 694,
+          "name": "Clube de Regatas Brasil",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-clube-de-regatas-brasil.png"
+        },
+        "points": 19,
+        "goalsDiff": 0,
+        "group": "Brazil Serie B 2026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 15,
+          "win": 5,
+          "draw": 4,
+          "lose": 6,
+          "goals": {
+            "for": 24,
+            "against": 24
+          },
+          "form": "LLDDW",
+          "btts_matches": 10,
+          "avg_corners_per_game": 4.93,
+          "aproveitamento": 42.2,
+          "over_2_5_goals": 9,
+          "over_0_5_ht": 10,
+          "over_0_5_ft": 8,
+          "clean_sheets": 2
+        },
+        "home": {
+          "played": 7,
+          "win": 2,
+          "draw": 1,
+          "lose": 4,
+          "goals": {
+            "for": 12,
+            "against": 11
+          },
+          "form_home": "LWWLD",
+          "avg_corners_home_per_game": 6.43,
+          "aproveitamento_home": 33.3,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 8,
+          "win": 3,
+          "draw": 3,
+          "lose": 2,
+          "goals": {
+            "for": 12,
+            "against": 13
+          },
+          "form_visitor": "WWLDW",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 3.62,
+          "aproveitamento_away": 50.0,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 5,
+          "over_0_5_ft_away": 5,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 15,
+        "team": {
           "id": 642,
           "name": "Ceará SC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-ceara-sc.png"
@@ -954,47 +1022,47 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 15,
+        "rank": 16,
         "team": {
           "id": 2598,
           "name": "Botafogo FC Ribeirão Preto",
           "logo": "https://cdn.footystats.org/img/teams/brazil-botafogo-fc-ribeirao-preto.png"
         },
         "points": 16,
-        "goalsDiff": 1,
+        "goalsDiff": 0,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 14,
+          "played": 15,
           "win": 4,
           "draw": 4,
-          "lose": 6,
+          "lose": 7,
           "goals": {
             "for": 14,
-            "against": 13
+            "against": 14
           },
-          "form": "LDLWW",
+          "form": "DLWWL",
           "btts_matches": 7,
-          "avg_corners_per_game": 6.5,
-          "aproveitamento": 38.1,
+          "avg_corners_per_game": 6.8,
+          "aproveitamento": 35.6,
           "over_2_5_goals": 5,
           "over_0_5_ht": 5,
           "over_0_5_ft": 6,
           "clean_sheets": 3
         },
         "home": {
-          "played": 6,
+          "played": 7,
           "win": 2,
           "draw": 2,
-          "lose": 2,
+          "lose": 3,
           "goals": {
             "for": 10,
-            "against": 7
+            "against": 8
           },
-          "form_home": "LDDLW",
-          "avg_corners_home_per_game": 7.0,
-          "aproveitamento_home": 44.4,
+          "form_home": "DDLWL",
+          "avg_corners_home_per_game": 7.57,
+          "aproveitamento_home": 38.1,
           "btts_home_matches": 5,
           "over_2_5_goals_home": 4,
           "over_0_5_ht_home": 4,
@@ -1018,74 +1086,6 @@
           "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 3,
           "clean_sheets_away": 2
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 16,
-        "team": {
-          "id": 694,
-          "name": "Clube de Regatas Brasil",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-clube-de-regatas-brasil.png"
-        },
-        "points": 16,
-        "goalsDiff": -1,
-        "group": "Brazil Serie B 2026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 14,
-          "win": 4,
-          "draw": 4,
-          "lose": 6,
-          "goals": {
-            "for": 23,
-            "against": 24
-          },
-          "form": "WLLDD",
-          "btts_matches": 10,
-          "avg_corners_per_game": 4.86,
-          "aproveitamento": 38.1,
-          "over_2_5_goals": 9,
-          "over_0_5_ht": 9,
-          "over_0_5_ft": 8,
-          "clean_sheets": 1
-        },
-        "home": {
-          "played": 7,
-          "win": 2,
-          "draw": 1,
-          "lose": 4,
-          "goals": {
-            "for": 12,
-            "against": 11
-          },
-          "form_home": "LWWLD",
-          "avg_corners_home_per_game": 6.43,
-          "aproveitamento_home": 33.3,
-          "btts_home_matches": 4,
-          "over_2_5_goals_home": 4,
-          "over_0_5_ht_home": 5,
-          "over_0_5_ft_home": 3,
-          "clean_sheets_home": 1
-        },
-        "away": {
-          "played": 7,
-          "win": 2,
-          "draw": 3,
-          "lose": 2,
-          "goals": {
-            "for": 11,
-            "against": 13
-          },
-          "form_visitor": "LWWLD",
-          "btts_away_matches": 6,
-          "avg_corners_away_per_game": 3.29,
-          "aproveitamento_away": 42.9,
-          "over_2_5_goals_away": 5,
-          "over_0_5_ht_away": 4,
-          "over_0_5_ft_away": 5,
-          "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1370,7 +1370,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 10,
         "jogador-assists": 2,
-        "jogador-partidas": 13,
+        "jogador-partidas": 14,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-clube-de-regatas-brasil.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-mikael-filipe-viana-de-sousa.png"
       },
@@ -1442,7 +1442,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 6,
         "jogador-assists": 1,
-        "jogador-partidas": 13,
+        "jogador-partidas": 14,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-botafogo-fc-ribeirao-preto.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-everton-morelli-casemiro.png"
       },
@@ -1501,6 +1501,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-melquisedeque-costa-de-oliveira.png"
       },
       {
+        "jogador-nome": "Adailson Freire Pereira da Silva",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 4,
+        "jogador-assists": 3,
+        "jogador-partidas": 13,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-clube-de-regatas-brasil.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-adailson-freire-pereira-da-silva.png"
+      },
+      {
         "jogador-nome": "Ryan Aparecido Lima Cassiano",
         "jogador-posicao": "Forward",
         "jogador-gols": 4,
@@ -1532,18 +1541,9 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 4,
         "jogador-assists": 0,
-        "jogador-partidas": 9,
+        "jogador-partidas": 10,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-botafogo-fc-ribeirao-preto.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-hygor-cleber-garcia-silva.png"
-      },
-      {
-        "jogador-nome": "Romulo Azevedo Simão",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 3,
-        "jogador-assists": 7,
-        "jogador-partidas": 15,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-gremio-novorizontino.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-romulo-azevedo-simao.png"
       }
     ]
   }
