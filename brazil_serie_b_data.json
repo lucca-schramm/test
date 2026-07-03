@@ -72,6 +72,74 @@
       {
         "rank": 2,
         "team": {
+          "id": 2601,
+          "name": "Fortaleza EC",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-fortaleza-ec.png"
+        },
+        "points": 28,
+        "goalsDiff": 4,
+        "group": "Brazil Serie B 2026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 16,
+          "win": 8,
+          "draw": 4,
+          "lose": 4,
+          "goals": {
+            "for": 20,
+            "against": 16
+          },
+          "form": "WLDWW",
+          "btts_matches": 6,
+          "avg_corners_per_game": 5.12,
+          "aproveitamento": 58.3,
+          "over_2_5_goals": 8,
+          "over_0_5_ht": 6,
+          "over_0_5_ft": 7,
+          "clean_sheets": 7
+        },
+        "home": {
+          "played": 8,
+          "win": 6,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 16,
+            "against": 8
+          },
+          "form_home": "WWLWW",
+          "avg_corners_home_per_game": 5.0,
+          "aproveitamento_home": 79.2,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 5,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 8,
+          "win": 2,
+          "draw": 3,
+          "lose": 3,
+          "goals": {
+            "for": 4,
+            "against": 8
+          },
+          "form_visitor": "DLLWD",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 5.25,
+          "aproveitamento_away": 37.5,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 4
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 3,
+        "team": {
           "id": 2712,
           "name": "Grêmio Novorizontino",
           "logo": "https://cdn.footystats.org/img/teams/brazil-gremio-novorizontino.png"
@@ -138,7 +206,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "team": {
           "id": 691,
           "name": "Criciuma EC",
@@ -206,7 +274,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "team": {
           "id": 2677,
           "name": "São Bernardo FC",
@@ -216,7 +284,7 @@
         "goalsDiff": 8,
         "group": "Brazil Serie B 2026",
         "status": "same",
-        "description": "Copa Libertadores",
+        "description": "Copa Sul-Americana",
         "all": {
           "played": 15,
           "win": 7,
@@ -274,7 +342,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "team": {
           "id": 1053,
           "name": "EC Juventude",
@@ -342,7 +410,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "team": {
           "id": 2662,
           "name": "Operário Ferroviário EC",
@@ -352,7 +420,7 @@
         "goalsDiff": 2,
         "group": "Brazil Serie B 2026",
         "status": "same",
-        "description": "Copa Sul-Americana",
+        "description": "",
         "all": {
           "played": 15,
           "win": 7,
@@ -406,74 +474,6 @@
           "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 2,
           "clean_sheets_away": 2
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 7,
-        "team": {
-          "id": 2601,
-          "name": "Fortaleza EC",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-fortaleza-ec.png"
-        },
-        "points": 25,
-        "goalsDiff": 2,
-        "group": "Brazil Serie B 2026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 15,
-          "win": 7,
-          "draw": 4,
-          "lose": 4,
-          "goals": {
-            "for": 18,
-            "against": 16
-          },
-          "form": "LWLDW",
-          "btts_matches": 6,
-          "avg_corners_per_game": 5.0,
-          "aproveitamento": 55.6,
-          "over_2_5_goals": 8,
-          "over_0_5_ht": 6,
-          "over_0_5_ft": 6,
-          "clean_sheets": 6
-        },
-        "home": {
-          "played": 7,
-          "win": 5,
-          "draw": 1,
-          "lose": 1,
-          "goals": {
-            "for": 14,
-            "against": 8
-          },
-          "form_home": "WWWLW",
-          "avg_corners_home_per_game": 4.71,
-          "aproveitamento_home": 76.2,
-          "btts_home_matches": 4,
-          "over_2_5_goals_home": 6,
-          "over_0_5_ht_home": 4,
-          "over_0_5_ft_home": 4,
-          "clean_sheets_home": 2
-        },
-        "away": {
-          "played": 8,
-          "win": 2,
-          "draw": 3,
-          "lose": 3,
-          "goals": {
-            "for": 4,
-            "against": 8
-          },
-          "form_visitor": "DLLWD",
-          "btts_away_matches": 2,
-          "avg_corners_away_per_game": 5.25,
-          "aproveitamento_away": 37.5,
-          "over_2_5_goals_away": 2,
-          "over_0_5_ht_away": 2,
-          "over_0_5_ft_away": 2,
-          "clean_sheets_away": 4
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1233,23 +1233,23 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-associacao-atletica-ponte-preta.png"
         },
         "points": 8,
-        "goalsDiff": -19,
+        "goalsDiff": -21,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 15,
+          "played": 16,
           "win": 2,
           "draw": 2,
-          "lose": 11,
+          "lose": 12,
           "goals": {
             "for": 10,
-            "against": 29
+            "against": 31
           },
-          "form": "DLLLL",
+          "form": "LLLLL",
           "btts_matches": 7,
-          "avg_corners_per_game": 5.4,
-          "aproveitamento": 17.8,
+          "avg_corners_per_game": 5.31,
+          "aproveitamento": 16.7,
           "over_2_5_goals": 8,
           "over_0_5_ht": 6,
           "over_0_5_ft": 3,
@@ -1274,18 +1274,18 @@
           "clean_sheets_home": 2
         },
         "away": {
-          "played": 7,
+          "played": 8,
           "win": 1,
           "draw": 0,
-          "lose": 6,
+          "lose": 7,
           "goals": {
             "for": 5,
-            "against": 16
+            "against": 18
           },
-          "form_visitor": "WLLLL",
+          "form_visitor": "LLLLL",
           "btts_away_matches": 3,
           "avg_corners_away_per_game": 4.0,
-          "aproveitamento_away": 14.3,
+          "aproveitamento_away": 12.5,
           "over_2_5_goals_away": 5,
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 1,
@@ -1456,6 +1456,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-vinicius-rodrigues-adelino-dos-santos.png"
       },
       {
+        "jogador-nome": "Juan Bautista Miritello",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 5,
+        "jogador-assists": 1,
+        "jogador-partidas": 13,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-fortaleza-ec.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/argentina-juan-bautista-miritello.png"
+      },
+      {
         "jogador-nome": "Anselmo Ramon Alves Erculano",
         "jogador-posicao": "Forward",
         "jogador-gols": 5,
@@ -1517,15 +1526,6 @@
         "jogador-partidas": 15,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-vila-nova-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-ryan-aparecido-lima-cassiano.png"
-      },
-      {
-        "jogador-nome": "Juan Bautista Miritello",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 4,
-        "jogador-assists": 1,
-        "jogador-partidas": 12,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-fortaleza-ec.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/argentina-juan-bautista-miritello.png"
       },
       {
         "jogador-nome": "Leonardo Gomes da Silva Jacó",
