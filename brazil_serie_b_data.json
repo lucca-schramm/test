@@ -548,6 +548,74 @@
       {
         "rank": 9,
         "team": {
+          "id": 2592,
+          "name": "Cuiabá EC",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-cuiaba-ec.png"
+        },
+        "points": 23,
+        "goalsDiff": 3,
+        "group": "Brazil Serie B 2026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 16,
+          "win": 5,
+          "draw": 8,
+          "lose": 3,
+          "goals": {
+            "for": 12,
+            "against": 9
+          },
+          "form": "WWLDW",
+          "btts_matches": 4,
+          "avg_corners_per_game": 4.62,
+          "aproveitamento": 47.9,
+          "over_2_5_goals": 2,
+          "over_0_5_ht": 3,
+          "over_0_5_ft": 6,
+          "clean_sheets": 9
+        },
+        "home": {
+          "played": 9,
+          "win": 3,
+          "draw": 5,
+          "lose": 1,
+          "goals": {
+            "for": 8,
+            "against": 6
+          },
+          "form_home": "DWWDW",
+          "avg_corners_home_per_game": 5.11,
+          "aproveitamento_home": 51.9,
+          "btts_home_matches": 3,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 5
+        },
+        "away": {
+          "played": 7,
+          "win": 2,
+          "draw": 3,
+          "lose": 2,
+          "goals": {
+            "for": 4,
+            "against": 3
+          },
+          "form_visitor": "WDLWL",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 4.0,
+          "aproveitamento_away": 42.9,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 4
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 10,
+        "team": {
           "id": 677199,
           "name": "Athletic Club (Minas Gerais)",
           "logo": "https://cdn.footystats.org/img/teams/brazil-athletic-club-minas-gerais.png"
@@ -614,7 +682,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "team": {
           "id": 1056,
           "name": "Goiás EC",
@@ -682,7 +750,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 11,
+        "rank": 12,
         "team": {
           "id": 629,
           "name": "AC Goianiense",
@@ -750,7 +818,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "team": {
           "id": 644,
           "name": "Clube Náutico Capibaribe",
@@ -814,74 +882,6 @@
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 6,
           "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 13,
-        "team": {
-          "id": 2592,
-          "name": "Cuiabá EC",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-cuiaba-ec.png"
-        },
-        "points": 20,
-        "goalsDiff": 2,
-        "group": "Brazil Serie B 2026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 15,
-          "win": 4,
-          "draw": 8,
-          "lose": 3,
-          "goals": {
-            "for": 11,
-            "against": 9
-          },
-          "form": "WWWLD",
-          "btts_matches": 4,
-          "avg_corners_per_game": 4.47,
-          "aproveitamento": 44.4,
-          "over_2_5_goals": 2,
-          "over_0_5_ht": 3,
-          "over_0_5_ft": 5,
-          "clean_sheets": 8
-        },
-        "home": {
-          "played": 8,
-          "win": 2,
-          "draw": 5,
-          "lose": 1,
-          "goals": {
-            "for": 7,
-            "against": 6
-          },
-          "form_home": "DDWWD",
-          "avg_corners_home_per_game": 4.88,
-          "aproveitamento_home": 45.8,
-          "btts_home_matches": 3,
-          "over_2_5_goals_home": 1,
-          "over_0_5_ht_home": 2,
-          "over_0_5_ft_home": 3,
-          "clean_sheets_home": 4
-        },
-        "away": {
-          "played": 7,
-          "win": 2,
-          "draw": 3,
-          "lose": 2,
-          "goals": {
-            "for": 4,
-            "against": 3
-          },
-          "form_visitor": "WDLWL",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 4.0,
-          "aproveitamento_away": 42.9,
-          "over_2_5_goals_away": 1,
-          "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 2,
-          "clean_sheets_away": 4
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1301,23 +1301,23 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-america-fc-minas-gerais.png"
         },
         "points": 6,
-        "goalsDiff": -16,
+        "goalsDiff": -17,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 15,
+          "played": 16,
           "win": 1,
           "draw": 3,
-          "lose": 11,
+          "lose": 12,
           "goals": {
             "for": 10,
-            "against": 26
+            "against": 27
           },
-          "form": "LLWLL",
+          "form": "LWLLL",
           "btts_matches": 7,
-          "avg_corners_per_game": 5.67,
-          "aproveitamento": 13.3,
+          "avg_corners_per_game": 5.44,
+          "aproveitamento": 12.5,
           "over_2_5_goals": 9,
           "over_0_5_ht": 6,
           "over_0_5_ft": 3,
@@ -1342,18 +1342,18 @@
           "clean_sheets_home": 1
         },
         "away": {
-          "played": 8,
+          "played": 9,
           "win": 1,
           "draw": 2,
-          "lose": 5,
+          "lose": 6,
           "goals": {
             "for": 6,
-            "against": 14
+            "against": 15
           },
-          "form_visitor": "LDLWL",
+          "form_visitor": "DLWLL",
           "btts_away_matches": 3,
-          "avg_corners_away_per_game": 5.75,
-          "aproveitamento_away": 20.8,
+          "avg_corners_away_per_game": 5.33,
+          "aproveitamento_away": 18.5,
           "over_2_5_goals_away": 4,
           "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 3,
