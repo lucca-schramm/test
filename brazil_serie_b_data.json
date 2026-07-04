@@ -4,6 +4,74 @@
       {
         "rank": 1,
         "team": {
+          "id": 2712,
+          "name": "Grêmio Novorizontino",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-gremio-novorizontino.png"
+        },
+        "points": 30,
+        "goalsDiff": 13,
+        "group": "Brazil Serie B 2026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 16,
+          "win": 8,
+          "draw": 6,
+          "lose": 2,
+          "goals": {
+            "for": 27,
+            "against": 14
+          },
+          "form": "WDWWW",
+          "btts_matches": 8,
+          "avg_corners_per_game": 5.44,
+          "aproveitamento": 62.5,
+          "over_2_5_goals": 9,
+          "over_0_5_ht": 7,
+          "over_0_5_ft": 12,
+          "clean_sheets": 7
+        },
+        "home": {
+          "played": 8,
+          "win": 5,
+          "draw": 2,
+          "lose": 1,
+          "goals": {
+            "for": 14,
+            "against": 9
+          },
+          "form_home": "WWDWW",
+          "avg_corners_home_per_game": 6.38,
+          "aproveitamento_home": 70.8,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 8,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 8,
+          "win": 3,
+          "draw": 4,
+          "lose": 1,
+          "goals": {
+            "for": 13,
+            "against": 5
+          },
+          "form_visitor": "DDDWW",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 4.5,
+          "aproveitamento_away": 54.2,
+          "over_2_5_goals_away": 3,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 5
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 2,
+        "team": {
           "id": 645,
           "name": "Vila Nova FC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-vila-nova-fc.png"
@@ -70,7 +138,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "team": {
           "id": 2601,
           "name": "Fortaleza EC",
@@ -134,74 +202,6 @@
           "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 2,
           "clean_sheets_away": 4
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 3,
-        "team": {
-          "id": 2712,
-          "name": "Grêmio Novorizontino",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-gremio-novorizontino.png"
-        },
-        "points": 27,
-        "goalsDiff": 10,
-        "group": "Brazil Serie B 2026",
-        "status": "same",
-        "description": "Copa Libertadores",
-        "all": {
-          "played": 15,
-          "win": 7,
-          "draw": 6,
-          "lose": 2,
-          "goals": {
-            "for": 24,
-            "against": 14
-          },
-          "form": "DWDWW",
-          "btts_matches": 8,
-          "avg_corners_per_game": 5.47,
-          "aproveitamento": 60.0,
-          "over_2_5_goals": 8,
-          "over_0_5_ht": 6,
-          "over_0_5_ft": 11,
-          "clean_sheets": 6
-        },
-        "home": {
-          "played": 7,
-          "win": 4,
-          "draw": 2,
-          "lose": 1,
-          "goals": {
-            "for": 11,
-            "against": 9
-          },
-          "form_home": "WWWDW",
-          "avg_corners_home_per_game": 6.57,
-          "aproveitamento_home": 66.7,
-          "btts_home_matches": 6,
-          "over_2_5_goals_home": 5,
-          "over_0_5_ht_home": 3,
-          "over_0_5_ft_home": 7,
-          "clean_sheets_home": 1
-        },
-        "away": {
-          "played": 8,
-          "win": 3,
-          "draw": 4,
-          "lose": 1,
-          "goals": {
-            "for": 13,
-            "against": 5
-          },
-          "form_visitor": "DDDWW",
-          "btts_away_matches": 2,
-          "avg_corners_away_per_game": 4.5,
-          "aproveitamento_away": 54.2,
-          "over_2_5_goals_away": 3,
-          "over_0_5_ht_away": 3,
-          "over_0_5_ft_away": 4,
-          "clean_sheets_away": 5
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -757,24 +757,24 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-ac-goianiense.png"
         },
         "points": 21,
-        "goalsDiff": 2,
+        "goalsDiff": -1,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 15,
+          "played": 16,
           "win": 5,
           "draw": 6,
-          "lose": 4,
+          "lose": 5,
           "goals": {
             "for": 18,
-            "against": 16
+            "against": 19
           },
-          "form": "DWDDW",
+          "form": "WDDWL",
           "btts_matches": 10,
           "avg_corners_per_game": 6.0,
-          "aproveitamento": 46.7,
-          "over_2_5_goals": 6,
+          "aproveitamento": 43.8,
+          "over_2_5_goals": 7,
           "over_0_5_ht": 8,
           "over_0_5_ft": 7,
           "clean_sheets": 3
@@ -798,19 +798,19 @@
           "clean_sheets_home": 2
         },
         "away": {
-          "played": 7,
+          "played": 8,
           "win": 2,
           "draw": 3,
-          "lose": 2,
+          "lose": 3,
           "goals": {
             "for": 7,
-            "against": 7
+            "against": 10
           },
-          "form_visitor": "DWDWD",
+          "form_visitor": "WDWDL",
           "btts_away_matches": 5,
-          "avg_corners_away_per_game": 4.43,
-          "aproveitamento_away": 42.9,
-          "over_2_5_goals_away": 2,
+          "avg_corners_away_per_game": 4.62,
+          "aproveitamento_away": 37.5,
+          "over_2_5_goals_away": 3,
           "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 3,
           "clean_sheets_away": 1
@@ -1375,6 +1375,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-mikael-filipe-viana-de-sousa.png"
       },
       {
+        "jogador-nome": "Robson dos Santos Fernandes",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 9,
+        "jogador-assists": 3,
+        "jogador-partidas": 16,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-gremio-novorizontino.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-robson-dos-santos-fernandes.png"
+      },
+      {
         "jogador-nome": "Bruno Santos de Oliveira",
         "jogador-posicao": "Forward",
         "jogador-gols": 9,
@@ -1384,20 +1393,11 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-bruno-santos-de-oliveira.png"
       },
       {
-        "jogador-nome": "Robson dos Santos Fernandes",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 8,
-        "jogador-assists": 2,
-        "jogador-partidas": 15,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-gremio-novorizontino.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-robson-dos-santos-fernandes.png"
-      },
-      {
         "jogador-nome": "Gustavo Coutinho Silva Lopes",
         "jogador-posicao": "Forward",
         "jogador-gols": 8,
         "jogador-assists": 0,
-        "jogador-partidas": 12,
+        "jogador-partidas": 13,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ac-goianiense.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-gustavo-coutinho-silva-lopes.png"
       },
@@ -1483,6 +1483,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/portugal-ronaldo-rodrigues-tavares.png"
       },
       {
+        "jogador-nome": "Romulo Azevedo Simão",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 4,
+        "jogador-assists": 7,
+        "jogador-partidas": 16,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-gremio-novorizontino.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-romulo-azevedo-simao.png"
+      },
+      {
         "jogador-nome": "Janderson Santos de Souza",
         "jogador-posicao": "Forward",
         "jogador-gols": 4,
@@ -1532,18 +1541,9 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 4,
         "jogador-assists": 0,
-        "jogador-partidas": 13,
+        "jogador-partidas": 14,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ac-goianiense.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-leonardo-gomes-da-silva-jaco.png"
-      },
-      {
-        "jogador-nome": "Hygor Cleber Garcia Silva",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 4,
-        "jogador-assists": 0,
-        "jogador-partidas": 10,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-botafogo-fc-ribeirao-preto.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-hygor-cleber-garcia-silva.png"
       }
     ]
   }
