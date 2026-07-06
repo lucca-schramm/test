@@ -72,6 +72,74 @@
       {
         "rank": 2,
         "team": {
+          "id": 7981,
+          "name": "England National Team",
+          "logo": "https://cdn.footystats.org/img/teams/england-england-national-team.png"
+        },
+        "points": 13,
+        "goalsDiff": 6,
+        "group": "International World Cup 2026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 5,
+          "win": 4,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 11,
+            "against": 5
+          },
+          "form": "WDWWW",
+          "btts_matches": 3,
+          "avg_corners_per_game": 6.2,
+          "aproveitamento": 86.7,
+          "over_2_5_goals": 3,
+          "over_0_5_ht": 2,
+          "over_0_5_ft": 4,
+          "clean_sheets": 2
+        },
+        "home": {
+          "played": 3,
+          "win": 2,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 6,
+            "against": 3
+          },
+          "form_home": "WDW",
+          "avg_corners_home_per_game": 7.33,
+          "aproveitamento_home": 77.8,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 2,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 2,
+          "win": 2,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 5,
+            "against": 2
+          },
+          "form_visitor": "WW",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 4.5,
+          "aproveitamento_away": 100.0,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 3,
+        "team": {
           "id": 8625,
           "name": "Argentina National Team",
           "logo": "https://cdn.footystats.org/img/teams/argentina-argentina-national-team.png"
@@ -138,51 +206,51 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "team": {
           "id": 8635,
           "name": "Mexico National Team",
           "logo": "https://cdn.footystats.org/img/teams/mexico-mexico-national-team.png"
         },
         "points": 12,
-        "goalsDiff": 8,
+        "goalsDiff": 7,
         "group": "International World Cup 2026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 4,
+          "played": 5,
           "win": 4,
           "draw": 0,
-          "lose": 0,
+          "lose": 1,
           "goals": {
-            "for": 8,
-            "against": 0
+            "for": 10,
+            "against": 3
           },
-          "form": "WWWW",
-          "btts_matches": 0,
-          "avg_corners_per_game": 1.75,
-          "aproveitamento": 100.0,
-          "over_2_5_goals": 1,
-          "over_0_5_ht": 2,
-          "over_0_5_ft": 3,
+          "form": "WWWWL",
+          "btts_matches": 1,
+          "avg_corners_per_game": 3.8,
+          "aproveitamento": 80.0,
+          "over_2_5_goals": 2,
+          "over_0_5_ht": 3,
+          "over_0_5_ft": 4,
           "clean_sheets": 4
         },
         "home": {
-          "played": 3,
+          "played": 4,
           "win": 3,
           "draw": 0,
-          "lose": 0,
+          "lose": 1,
           "goals": {
-            "for": 5,
-            "against": 0
+            "for": 7,
+            "against": 3
           },
-          "form_home": "WWW",
-          "avg_corners_home_per_game": 2.0,
-          "aproveitamento_home": 100.0,
-          "btts_home_matches": 0,
-          "over_2_5_goals_home": 0,
-          "over_0_5_ht_home": 2,
-          "over_0_5_ft_home": 2,
+          "form_home": "WWWL",
+          "avg_corners_home_per_game": 4.5,
+          "aproveitamento_home": 75.0,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 3,
           "clean_sheets_home": 3
         },
         "away": {
@@ -206,7 +274,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "team": {
           "id": 7970,
           "name": "Norway National Team",
@@ -216,7 +284,7 @@
         "goalsDiff": 3,
         "group": "International World Cup 2026",
         "status": "same",
-        "description": "Copa Libertadores",
+        "description": "Copa Sul-Americana",
         "all": {
           "played": 5,
           "win": 4,
@@ -274,7 +342,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "team": {
           "id": 8682,
           "name": "Morocco National Team",
@@ -342,7 +410,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "team": {
           "id": 7967,
           "name": "Spain National Team",
@@ -352,7 +420,7 @@
         "goalsDiff": 8,
         "group": "International World Cup 2026",
         "status": "same",
-        "description": "Copa Sul-Americana",
+        "description": "",
         "all": {
           "played": 4,
           "win": 3,
@@ -410,7 +478,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "team": {
           "id": 8630,
           "name": "Brazil National Team",
@@ -478,7 +546,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "team": {
           "id": 7960,
           "name": "Switzerland National Team",
@@ -542,74 +610,6 @@
           "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 0,
           "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 9,
-        "team": {
-          "id": 7981,
-          "name": "England National Team",
-          "logo": "https://cdn.footystats.org/img/teams/england-england-national-team.png"
-        },
-        "points": 10,
-        "goalsDiff": 5,
-        "group": "International World Cup 2026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 4,
-          "win": 3,
-          "draw": 1,
-          "lose": 0,
-          "goals": {
-            "for": 8,
-            "against": 3
-          },
-          "form": "WDWW",
-          "btts_matches": 2,
-          "avg_corners_per_game": 7.25,
-          "aproveitamento": 83.3,
-          "over_2_5_goals": 2,
-          "over_0_5_ht": 1,
-          "over_0_5_ft": 3,
-          "clean_sheets": 2
-        },
-        "home": {
-          "played": 3,
-          "win": 2,
-          "draw": 1,
-          "lose": 0,
-          "goals": {
-            "for": 6,
-            "against": 3
-          },
-          "form_home": "WDW",
-          "avg_corners_home_per_game": 7.33,
-          "aproveitamento_home": 77.8,
-          "btts_home_matches": 2,
-          "over_2_5_goals_home": 2,
-          "over_0_5_ht_home": 1,
-          "over_0_5_ft_home": 2,
-          "clean_sheets_home": 1
-        },
-        "away": {
-          "played": 1,
-          "win": 1,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 2,
-            "against": 0
-          },
-          "form_visitor": "W",
-          "btts_away_matches": 0,
-          "avg_corners_away_per_game": 7.0,
-          "aproveitamento_away": 100.0,
-          "over_2_5_goals_away": 0,
-          "over_0_5_ht_away": 0,
-          "over_0_5_ft_away": 1,
-          "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -3911,9 +3911,9 @@
       {
         "jogador-nome": "Harry Edward Kane",
         "jogador-posicao": "Forward",
-        "jogador-gols": 5,
-        "jogador-assists": 0,
-        "jogador-partidas": 4,
+        "jogador-gols": 6,
+        "jogador-assists": 1,
+        "jogador-partidas": 5,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/england-england-national-team.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/england-harry-kane.png"
       },
@@ -3945,6 +3945,24 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/spain-mikel-oyarzabal.png"
       },
       {
+        "jogador-nome": "Julián Andrés Quiñones Quiñones",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 4,
+        "jogador-assists": 1,
+        "jogador-partidas": 5,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/mexico-mexico-national-team.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/colombia-julian-andres-quinones-quinones.png"
+      },
+      {
+        "jogador-nome": "Jude Bellingham",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 4,
+        "jogador-assists": 1,
+        "jogador-partidas": 5,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/england-england-national-team.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/england-jude-bellingham.png"
+      },
+      {
         "jogador-nome": "Ismaïla Sarr",
         "jogador-posicao": "Forward",
         "jogador-gols": 4,
@@ -3972,15 +3990,6 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/germany-deniz-undav.png"
       },
       {
-        "jogador-nome": "Julián Andrés Quiñones Quiñones",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 3,
-        "jogador-assists": 1,
-        "jogador-partidas": 4,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/mexico-mexico-national-team.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/colombia-julian-andres-quinones-quinones.png"
-      },
-      {
         "jogador-nome": "Cody Mathès Gakpo",
         "jogador-posicao": "Forward",
         "jogador-gols": 3,
@@ -3997,6 +4006,15 @@
         "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/congo-dr-congo-dr-national-team.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/congo-dr-yoane-wissa.png"
+      },
+      {
+        "jogador-nome": "Raúl Alonso Jiménez Rodríguez",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 3,
+        "jogador-assists": 0,
+        "jogador-partidas": 4,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/mexico-mexico-national-team.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/mexico-raul-jimenez.png"
       },
       {
         "jogador-nome": "Matheus Santos Carneiro da Cunha",
@@ -4042,24 +4060,6 @@
         "jogador-partidas": 3,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/usa-united-states-mens-national-team.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/england-folarin-balogun.png"
-      },
-      {
-        "jogador-nome": "Elijah Henry Just",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 3,
-        "jogador-assists": 0,
-        "jogador-partidas": 3,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/new-zealand-new-zealand-national-team.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/new-zealand-elijah-henry-just.png"
-      },
-      {
-        "jogador-nome": "Cristiano Ronaldo dos Santos Aveiro",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 3,
-        "jogador-assists": 0,
-        "jogador-partidas": 4,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/portugal-portugal-national-team.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/portugal-cristiano-ronaldo.png"
       }
     ]
   }
