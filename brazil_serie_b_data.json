@@ -276,6 +276,74 @@
       {
         "rank": 5,
         "team": {
+          "id": 2662,
+          "name": "Operário Ferroviário EC",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-operario-ferroviario-ec.png"
+        },
+        "points": 28,
+        "goalsDiff": 3,
+        "group": "Brazil Serie B 2026",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 16,
+          "win": 8,
+          "draw": 4,
+          "lose": 4,
+          "goals": {
+            "for": 20,
+            "against": 17
+          },
+          "form": "WLWWW",
+          "btts_matches": 7,
+          "avg_corners_per_game": 5.06,
+          "aproveitamento": 58.3,
+          "over_2_5_goals": 9,
+          "over_0_5_ht": 8,
+          "over_0_5_ft": 8,
+          "clean_sheets": 8
+        },
+        "home": {
+          "played": 8,
+          "win": 4,
+          "draw": 3,
+          "lose": 1,
+          "goals": {
+            "for": 10,
+            "against": 8
+          },
+          "form_home": "WLDWW",
+          "avg_corners_home_per_game": 6.38,
+          "aproveitamento_home": 62.5,
+          "btts_home_matches": 3,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 5,
+          "clean_sheets_home": 5
+        },
+        "away": {
+          "played": 8,
+          "win": 4,
+          "draw": 1,
+          "lose": 3,
+          "goals": {
+            "for": 10,
+            "against": 9
+          },
+          "form_visitor": "LWLWW",
+          "btts_away_matches": 4,
+          "avg_corners_away_per_game": 3.75,
+          "aproveitamento_away": 54.2,
+          "over_2_5_goals_away": 6,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 6,
+        "team": {
           "id": 1053,
           "name": "EC Juventude",
           "logo": "https://cdn.footystats.org/img/teams/brazil-ec-juventude.png"
@@ -342,7 +410,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "team": {
           "id": 2677,
           "name": "São Bernardo FC",
@@ -352,7 +420,7 @@
         "goalsDiff": 7,
         "group": "Brazil Serie B 2026",
         "status": "same",
-        "description": "Copa Sul-Americana",
+        "description": "",
         "all": {
           "played": 16,
           "win": 7,
@@ -405,74 +473,6 @@
           "over_2_5_goals_away": 5,
           "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 7,
-          "clean_sheets_away": 2
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 7,
-        "team": {
-          "id": 2662,
-          "name": "Operário Ferroviário EC",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-operario-ferroviario-ec.png"
-        },
-        "points": 25,
-        "goalsDiff": 2,
-        "group": "Brazil Serie B 2026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 15,
-          "win": 7,
-          "draw": 4,
-          "lose": 4,
-          "goals": {
-            "for": 19,
-            "against": 17
-          },
-          "form": "WWLWW",
-          "btts_matches": 7,
-          "avg_corners_per_game": 5.0,
-          "aproveitamento": 55.6,
-          "over_2_5_goals": 9,
-          "over_0_5_ht": 8,
-          "over_0_5_ft": 7,
-          "clean_sheets": 7
-        },
-        "home": {
-          "played": 8,
-          "win": 4,
-          "draw": 3,
-          "lose": 1,
-          "goals": {
-            "for": 10,
-            "against": 8
-          },
-          "form_home": "WLDWW",
-          "avg_corners_home_per_game": 6.38,
-          "aproveitamento_home": 62.5,
-          "btts_home_matches": 3,
-          "over_2_5_goals_home": 3,
-          "over_0_5_ht_home": 4,
-          "over_0_5_ft_home": 5,
-          "clean_sheets_home": 5
-        },
-        "away": {
-          "played": 7,
-          "win": 3,
-          "draw": 1,
-          "lose": 3,
-          "goals": {
-            "for": 9,
-            "against": 9
-          },
-          "form_visitor": "LLWLW",
-          "btts_away_matches": 4,
-          "avg_corners_away_per_game": 3.43,
-          "aproveitamento_away": 47.6,
-          "over_2_5_goals_away": 6,
-          "over_0_5_ht_away": 4,
-          "over_0_5_ft_away": 2,
           "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -689,40 +689,40 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-athletic-club-minas-gerais.png"
         },
         "points": 22,
-        "goalsDiff": 1,
+        "goalsDiff": 0,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 15,
+          "played": 16,
           "win": 5,
           "draw": 7,
-          "lose": 3,
+          "lose": 4,
           "goals": {
             "for": 16,
-            "against": 15
+            "against": 16
           },
-          "form": "WDDLW",
+          "form": "DDLWL",
           "btts_matches": 10,
-          "avg_corners_per_game": 4.6,
-          "aproveitamento": 48.9,
+          "avg_corners_per_game": 4.81,
+          "aproveitamento": 45.8,
           "over_2_5_goals": 4,
           "over_0_5_ht": 6,
           "over_0_5_ft": 7,
           "clean_sheets": 3
         },
         "home": {
-          "played": 8,
+          "played": 9,
           "win": 3,
           "draw": 4,
-          "lose": 1,
+          "lose": 2,
           "goals": {
             "for": 7,
-            "against": 5
+            "against": 6
           },
-          "form_home": "DDWDW",
-          "avg_corners_home_per_game": 5.88,
-          "aproveitamento_home": 54.2,
+          "form_home": "DWDWL",
+          "avg_corners_home_per_game": 6.11,
+          "aproveitamento_home": 48.1,
           "btts_home_matches": 4,
           "over_2_5_goals_home": 1,
           "over_0_5_ht_home": 3,
@@ -1406,7 +1406,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 7,
         "jogador-assists": 1,
-        "jogador-partidas": 14,
+        "jogador-partidas": 15,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-operario-ferroviario-ec.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-gabriel-boschilia.png"
       },
@@ -1514,7 +1514,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 4,
         "jogador-assists": 3,
-        "jogador-partidas": 14,
+        "jogador-partidas": 15,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-operario-ferroviario-ec.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-pablo-felipe-teixeira.png"
       },
