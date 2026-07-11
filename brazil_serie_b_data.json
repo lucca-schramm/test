@@ -77,23 +77,23 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-vila-nova-fc.png"
         },
         "points": 31,
-        "goalsDiff": 7,
+        "goalsDiff": 6,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 16,
+          "played": 17,
           "win": 9,
           "draw": 4,
-          "lose": 3,
+          "lose": 4,
           "goals": {
             "for": 25,
-            "against": 18
+            "against": 19
           },
-          "form": "WLWLW",
+          "form": "LWLWL",
           "btts_matches": 10,
-          "avg_corners_per_game": 4.81,
-          "aproveitamento": 64.6,
+          "avg_corners_per_game": 4.65,
+          "aproveitamento": 60.8,
           "over_2_5_goals": 8,
           "over_0_5_ht": 8,
           "over_0_5_ft": 9,
@@ -118,18 +118,18 @@
           "clean_sheets_home": 2
         },
         "away": {
-          "played": 8,
+          "played": 9,
           "win": 3,
           "draw": 2,
-          "lose": 3,
+          "lose": 4,
           "goals": {
             "for": 9,
-            "against": 9
+            "against": 10
           },
-          "form_visitor": "LWWLL",
+          "form_visitor": "WWLLL",
           "btts_away_matches": 4,
-          "avg_corners_away_per_game": 4.38,
-          "aproveitamento_away": 45.8,
+          "avg_corners_away_per_game": 4.11,
+          "aproveitamento_away": 40.7,
           "over_2_5_goals_away": 3,
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 4,
@@ -208,6 +208,74 @@
       {
         "rank": 4,
         "team": {
+          "id": 1053,
+          "name": "EC Juventude",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-ec-juventude.png"
+        },
+        "points": 29,
+        "goalsDiff": 9,
+        "group": "Brazil Serie B 2026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 17,
+          "win": 8,
+          "draw": 5,
+          "lose": 4,
+          "goals": {
+            "for": 17,
+            "against": 8
+          },
+          "form": "WWWDW",
+          "btts_matches": 3,
+          "avg_corners_per_game": 4.29,
+          "aproveitamento": 56.9,
+          "over_2_5_goals": 4,
+          "over_0_5_ht": 7,
+          "over_0_5_ft": 7,
+          "clean_sheets": 12
+        },
+        "home": {
+          "played": 9,
+          "win": 6,
+          "draw": 2,
+          "lose": 1,
+          "goals": {
+            "for": 12,
+            "against": 1
+          },
+          "form_home": "LWWWW",
+          "avg_corners_home_per_game": 5.78,
+          "aproveitamento_home": 74.1,
+          "btts_home_matches": 0,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 6,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 8
+        },
+        "away": {
+          "played": 8,
+          "win": 2,
+          "draw": 3,
+          "lose": 3,
+          "goals": {
+            "for": 5,
+            "against": 7
+          },
+          "form_visitor": "DDLWD",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 2.62,
+          "aproveitamento_away": 37.5,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 4
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 5,
+        "team": {
           "id": 2601,
           "name": "Fortaleza EC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-fortaleza-ec.png"
@@ -216,7 +284,7 @@
         "goalsDiff": 4,
         "group": "Brazil Serie B 2026",
         "status": "same",
-        "description": "Copa Libertadores",
+        "description": "Copa Sul-Americana",
         "all": {
           "played": 16,
           "win": 8,
@@ -274,7 +342,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "team": {
           "id": 2662,
           "name": "Operário Ferroviário EC",
@@ -338,74 +406,6 @@
           "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 3,
           "clean_sheets_away": 3
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 6,
-        "team": {
-          "id": 1053,
-          "name": "EC Juventude",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-ec-juventude.png"
-        },
-        "points": 26,
-        "goalsDiff": 8,
-        "group": "Brazil Serie B 2026",
-        "status": "same",
-        "description": "Copa Sul-Americana",
-        "all": {
-          "played": 16,
-          "win": 7,
-          "draw": 5,
-          "lose": 4,
-          "goals": {
-            "for": 16,
-            "against": 8
-          },
-          "form": "LWWWD",
-          "btts_matches": 3,
-          "avg_corners_per_game": 4.25,
-          "aproveitamento": 54.2,
-          "over_2_5_goals": 4,
-          "over_0_5_ht": 6,
-          "over_0_5_ft": 7,
-          "clean_sheets": 11
-        },
-        "home": {
-          "played": 8,
-          "win": 5,
-          "draw": 2,
-          "lose": 1,
-          "goals": {
-            "for": 11,
-            "against": 1
-          },
-          "form_home": "DLWWW",
-          "avg_corners_home_per_game": 5.88,
-          "aproveitamento_home": 70.8,
-          "btts_home_matches": 0,
-          "over_2_5_goals_home": 2,
-          "over_0_5_ht_home": 5,
-          "over_0_5_ft_home": 3,
-          "clean_sheets_home": 7
-        },
-        "away": {
-          "played": 8,
-          "win": 2,
-          "draw": 3,
-          "lose": 3,
-          "goals": {
-            "for": 5,
-            "against": 7
-          },
-          "form_visitor": "DDLWD",
-          "btts_away_matches": 3,
-          "avg_corners_away_per_game": 2.62,
-          "aproveitamento_away": 37.5,
-          "over_2_5_goals_away": 2,
-          "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 4,
-          "clean_sheets_away": 4
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1451,7 +1451,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 5,
         "jogador-assists": 4,
-        "jogador-partidas": 15,
+        "jogador-partidas": 16,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-vila-nova-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-janderson-santos-de-souza.png"
       },
@@ -1541,7 +1541,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 4,
         "jogador-assists": 2,
-        "jogador-partidas": 15,
+        "jogador-partidas": 16,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-vila-nova-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-ryan-aparecido-lima-cassiano.png"
       }
