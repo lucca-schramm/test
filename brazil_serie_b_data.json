@@ -412,6 +412,74 @@
       {
         "rank": 7,
         "team": {
+          "id": 614,
+          "name": "SC do Recife",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-sc-do-recife.png"
+        },
+        "points": 26,
+        "goalsDiff": 6,
+        "group": "Brazil Serie B 2026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 17,
+          "win": 6,
+          "draw": 8,
+          "lose": 3,
+          "goals": {
+            "for": 21,
+            "against": 15
+          },
+          "form": "DDLLD",
+          "btts_matches": 9,
+          "avg_corners_per_game": 5.06,
+          "aproveitamento": 51.0,
+          "over_2_5_goals": 6,
+          "over_0_5_ht": 4,
+          "over_0_5_ft": 12,
+          "clean_sheets": 7
+        },
+        "home": {
+          "played": 9,
+          "win": 3,
+          "draw": 5,
+          "lose": 1,
+          "goals": {
+            "for": 14,
+            "against": 10
+          },
+          "form_home": "LWDDD",
+          "avg_corners_home_per_game": 5.56,
+          "aproveitamento_home": 51.9,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 8,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 8,
+          "win": 3,
+          "draw": 3,
+          "lose": 2,
+          "goals": {
+            "for": 7,
+            "against": 5
+          },
+          "form_visitor": "WWDLL",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 4.5,
+          "aproveitamento_away": 50.0,
+          "over_2_5_goals_away": 3,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 4
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 8,
+        "team": {
           "id": 2677,
           "name": "São Bernardo FC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-sao-bernardo-fc.png"
@@ -474,74 +542,6 @@
           "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 7,
           "clean_sheets_away": 2
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 8,
-        "team": {
-          "id": 614,
-          "name": "SC do Recife",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-sc-do-recife.png"
-        },
-        "points": 25,
-        "goalsDiff": 6,
-        "group": "Brazil Serie B 2026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 16,
-          "win": 6,
-          "draw": 7,
-          "lose": 3,
-          "goals": {
-            "for": 18,
-            "against": 12
-          },
-          "form": "DDDLL",
-          "btts_matches": 8,
-          "avg_corners_per_game": 4.94,
-          "aproveitamento": 52.1,
-          "over_2_5_goals": 5,
-          "over_0_5_ht": 4,
-          "over_0_5_ft": 11,
-          "clean_sheets": 7
-        },
-        "home": {
-          "played": 8,
-          "win": 3,
-          "draw": 4,
-          "lose": 1,
-          "goals": {
-            "for": 11,
-            "against": 7
-          },
-          "form_home": "WLWDD",
-          "avg_corners_home_per_game": 5.38,
-          "aproveitamento_home": 54.2,
-          "btts_home_matches": 5,
-          "over_2_5_goals_home": 2,
-          "over_0_5_ht_home": 3,
-          "over_0_5_ft_home": 7,
-          "clean_sheets_home": 3
-        },
-        "away": {
-          "played": 8,
-          "win": 3,
-          "draw": 3,
-          "lose": 2,
-          "goals": {
-            "for": 7,
-            "against": 5
-          },
-          "form_visitor": "WWDLL",
-          "btts_away_matches": 3,
-          "avg_corners_away_per_game": 4.5,
-          "aproveitamento_away": 50.0,
-          "over_2_5_goals_away": 3,
-          "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 4,
-          "clean_sheets_away": 4
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -892,27 +892,27 @@
           "name": "Botafogo FC Ribeirão Preto",
           "logo": "https://cdn.footystats.org/img/teams/brazil-botafogo-fc-ribeirao-preto.png"
         },
-        "points": 19,
+        "points": 20,
         "goalsDiff": 2,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 16,
+          "played": 17,
           "win": 5,
-          "draw": 4,
+          "draw": 5,
           "lose": 7,
           "goals": {
-            "for": 17,
-            "against": 15
+            "for": 20,
+            "against": 18
           },
-          "form": "LWWLW",
-          "btts_matches": 8,
-          "avg_corners_per_game": 6.75,
-          "aproveitamento": 39.6,
-          "over_2_5_goals": 6,
-          "over_0_5_ht": 6,
-          "over_0_5_ft": 7,
+          "form": "WWLWD",
+          "btts_matches": 9,
+          "avg_corners_per_game": 6.47,
+          "aproveitamento": 39.2,
+          "over_2_5_goals": 7,
+          "over_0_5_ht": 7,
+          "over_0_5_ft": 8,
           "clean_sheets": 3
         },
         "home": {
@@ -934,21 +934,21 @@
           "clean_sheets_home": 1
         },
         "away": {
-          "played": 8,
+          "played": 9,
           "win": 2,
-          "draw": 2,
+          "draw": 3,
           "lose": 4,
           "goals": {
-            "for": 4,
-            "against": 6
+            "for": 7,
+            "against": 9
           },
-          "form_visitor": "LLDLW",
-          "btts_away_matches": 2,
-          "avg_corners_away_per_game": 6.12,
+          "form_visitor": "LDLWD",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 5.67,
           "aproveitamento_away": 33.3,
-          "over_2_5_goals_away": 1,
-          "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 3,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 4,
           "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1393,6 +1393,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-robson-dos-santos-fernandes.png"
       },
       {
+        "jogador-nome": "Chrystian Amaral Barletta de Almeida",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 8,
+        "jogador-assists": 3,
+        "jogador-partidas": 15,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-sc-do-recife.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-chrystian-barletta.png"
+      },
+      {
         "jogador-nome": "Gustavo Coutinho Silva Lopes",
         "jogador-posicao": "Forward",
         "jogador-gols": 8,
@@ -1400,6 +1409,15 @@
         "jogador-partidas": 13,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ac-goianiense.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-gustavo-coutinho-silva-lopes.png"
+      },
+      {
+        "jogador-nome": "Everton Morelli Casemiro",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 7,
+        "jogador-assists": 2,
+        "jogador-partidas": 16,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-botafogo-fc-ribeirao-preto.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-everton-morelli-casemiro.png"
       },
       {
         "jogador-nome": "Gabriel Boschilia",
@@ -1411,31 +1429,13 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-gabriel-boschilia.png"
       },
       {
-        "jogador-nome": "Everton Morelli Casemiro",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 7,
-        "jogador-assists": 1,
-        "jogador-partidas": 15,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-botafogo-fc-ribeirao-preto.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-everton-morelli-casemiro.png"
-      },
-      {
         "jogador-nome": "Pedro Henrique Perotti",
         "jogador-posicao": "Forward",
         "jogador-gols": 7,
         "jogador-assists": 0,
-        "jogador-partidas": 15,
+        "jogador-partidas": 16,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-sc-do-recife.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-pedro-henrique-perotti.png"
-      },
-      {
-        "jogador-nome": "Chrystian Amaral Barletta de Almeida",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 6,
-        "jogador-assists": 3,
-        "jogador-partidas": 14,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-sc-do-recife.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-chrystian-barletta.png"
       },
       {
         "jogador-nome": "Vinícius Santos Silva",
@@ -1496,7 +1496,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 5,
         "jogador-assists": 0,
-        "jogador-partidas": 11,
+        "jogador-partidas": 12,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-botafogo-fc-ribeirao-preto.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-hygor-cleber-garcia-silva.png"
       },
