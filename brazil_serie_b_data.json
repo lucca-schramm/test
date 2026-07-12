@@ -412,6 +412,74 @@
       {
         "rank": 7,
         "team": {
+          "id": 2677,
+          "name": "São Bernardo FC",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-sao-bernardo-fc.png"
+        },
+        "points": 26,
+        "goalsDiff": 7,
+        "group": "Brazil Serie B 2026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 17,
+          "win": 7,
+          "draw": 5,
+          "lose": 5,
+          "goals": {
+            "for": 23,
+            "against": 16
+          },
+          "form": "DLLLD",
+          "btts_matches": 9,
+          "avg_corners_per_game": 3.82,
+          "aproveitamento": 51.0,
+          "over_2_5_goals": 8,
+          "over_0_5_ht": 6,
+          "over_0_5_ft": 10,
+          "clean_sheets": 5
+        },
+        "home": {
+          "played": 9,
+          "win": 2,
+          "draw": 4,
+          "lose": 3,
+          "goals": {
+            "for": 9,
+            "against": 8
+          },
+          "form_home": "DDDLD",
+          "avg_corners_home_per_game": 4.22,
+          "aproveitamento_home": 37.0,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 8,
+          "win": 5,
+          "draw": 1,
+          "lose": 2,
+          "goals": {
+            "for": 14,
+            "against": 8
+          },
+          "form_visitor": "WWWLL",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 3.38,
+          "aproveitamento_away": 66.7,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 7,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 8,
+        "team": {
           "id": 614,
           "name": "SC do Recife",
           "logo": "https://cdn.footystats.org/img/teams/brazil-sc-do-recife.png"
@@ -474,74 +542,6 @@
           "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 4,
           "clean_sheets_away": 4
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 8,
-        "team": {
-          "id": 2677,
-          "name": "São Bernardo FC",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-sao-bernardo-fc.png"
-        },
-        "points": 25,
-        "goalsDiff": 7,
-        "group": "Brazil Serie B 2026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 16,
-          "win": 7,
-          "draw": 4,
-          "lose": 5,
-          "goals": {
-            "for": 21,
-            "against": 14
-          },
-          "form": "WDLLL",
-          "btts_matches": 8,
-          "avg_corners_per_game": 3.69,
-          "aproveitamento": 52.1,
-          "over_2_5_goals": 7,
-          "over_0_5_ht": 5,
-          "over_0_5_ft": 10,
-          "clean_sheets": 5
-        },
-        "home": {
-          "played": 8,
-          "win": 2,
-          "draw": 3,
-          "lose": 3,
-          "goals": {
-            "for": 7,
-            "against": 6
-          },
-          "form_home": "WDDDL",
-          "avg_corners_home_per_game": 4.0,
-          "aproveitamento_home": 37.5,
-          "btts_home_matches": 3,
-          "over_2_5_goals_home": 2,
-          "over_0_5_ht_home": 3,
-          "over_0_5_ft_home": 3,
-          "clean_sheets_home": 3
-        },
-        "away": {
-          "played": 8,
-          "win": 5,
-          "draw": 1,
-          "lose": 2,
-          "goals": {
-            "for": 14,
-            "against": 8
-          },
-          "form_visitor": "WWWLL",
-          "btts_away_matches": 5,
-          "avg_corners_away_per_game": 3.38,
-          "aproveitamento_away": 66.7,
-          "over_2_5_goals_away": 5,
-          "over_0_5_ht_away": 2,
-          "over_0_5_ft_away": 7,
-          "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -620,26 +620,26 @@
           "name": "Cuiabá EC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-cuiaba-ec.png"
         },
-        "points": 23,
+        "points": 24,
         "goalsDiff": 3,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 16,
+          "played": 17,
           "win": 5,
-          "draw": 8,
+          "draw": 9,
           "lose": 3,
           "goals": {
-            "for": 12,
-            "against": 9
+            "for": 14,
+            "against": 11
           },
-          "form": "WWLDW",
-          "btts_matches": 4,
-          "avg_corners_per_game": 4.62,
-          "aproveitamento": 47.9,
-          "over_2_5_goals": 2,
-          "over_0_5_ht": 3,
+          "form": "WLDWD",
+          "btts_matches": 5,
+          "avg_corners_per_game": 4.76,
+          "aproveitamento": 47.1,
+          "over_2_5_goals": 3,
+          "over_0_5_ht": 4,
           "over_0_5_ft": 6,
           "clean_sheets": 9
         },
@@ -662,20 +662,20 @@
           "clean_sheets_home": 5
         },
         "away": {
-          "played": 7,
+          "played": 8,
           "win": 2,
-          "draw": 3,
+          "draw": 4,
           "lose": 2,
           "goals": {
-            "for": 4,
-            "against": 3
+            "for": 6,
+            "against": 5
           },
-          "form_visitor": "WDLWL",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 4.0,
-          "aproveitamento_away": 42.9,
-          "over_2_5_goals_away": 1,
-          "over_0_5_ht_away": 1,
+          "form_visitor": "DLWLD",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 4.38,
+          "aproveitamento_away": 41.7,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 2,
           "clean_sheets_away": 4
         },
