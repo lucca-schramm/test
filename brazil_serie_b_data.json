@@ -552,26 +552,26 @@
           "name": "Goiás EC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-goias-ec.png"
         },
-        "points": 24,
+        "points": 25,
         "goalsDiff": -5,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 16,
+          "played": 17,
           "win": 7,
-          "draw": 3,
+          "draw": 4,
           "lose": 6,
           "goals": {
-            "for": 16,
-            "against": 21
+            "for": 18,
+            "against": 23
           },
-          "form": "LDLWW",
-          "btts_matches": 5,
-          "avg_corners_per_game": 4.44,
-          "aproveitamento": 50.0,
-          "over_2_5_goals": 5,
-          "over_0_5_ht": 6,
+          "form": "DLWWD",
+          "btts_matches": 6,
+          "avg_corners_per_game": 4.24,
+          "aproveitamento": 49.0,
+          "over_2_5_goals": 6,
+          "over_0_5_ht": 7,
           "over_0_5_ft": 8,
           "clean_sheets": 6
         },
@@ -594,20 +594,20 @@
           "clean_sheets_home": 4
         },
         "away": {
-          "played": 8,
+          "played": 9,
           "win": 2,
-          "draw": 3,
+          "draw": 4,
           "lose": 3,
           "goals": {
-            "for": 8,
-            "against": 11
+            "for": 10,
+            "against": 13
           },
-          "form_visitor": "LWDDW",
-          "btts_away_matches": 4,
-          "avg_corners_away_per_game": 3.62,
-          "aproveitamento_away": 37.5,
-          "over_2_5_goals_away": 2,
-          "over_0_5_ht_away": 4,
+          "form_visitor": "WDDWD",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 3.33,
+          "aproveitamento_away": 37.0,
+          "over_2_5_goals_away": 3,
+          "over_0_5_ht_away": 5,
           "over_0_5_ft_away": 3,
           "clean_sheets_away": 2
         },
@@ -960,45 +960,45 @@
           "name": "Clube de Regatas Brasil",
           "logo": "https://cdn.footystats.org/img/teams/brazil-clube-de-regatas-brasil.png"
         },
-        "points": 19,
+        "points": 20,
         "goalsDiff": -5,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 16,
+          "played": 17,
           "win": 5,
-          "draw": 4,
+          "draw": 5,
           "lose": 7,
           "goals": {
-            "for": 24,
-            "against": 29
+            "for": 26,
+            "against": 31
           },
-          "form": "LDDWL",
-          "btts_matches": 10,
-          "avg_corners_per_game": 5.31,
-          "aproveitamento": 39.6,
-          "over_2_5_goals": 10,
+          "form": "DDWLD",
+          "btts_matches": 11,
+          "avg_corners_per_game": 5.35,
+          "aproveitamento": 39.2,
+          "over_2_5_goals": 11,
           "over_0_5_ht": 10,
-          "over_0_5_ft": 8,
+          "over_0_5_ft": 9,
           "clean_sheets": 2
         },
         "home": {
-          "played": 7,
+          "played": 8,
           "win": 2,
-          "draw": 1,
+          "draw": 2,
           "lose": 4,
           "goals": {
-            "for": 12,
-            "against": 11
+            "for": 14,
+            "against": 13
           },
-          "form_home": "LWWLD",
-          "avg_corners_home_per_game": 6.43,
+          "form_home": "WWLDD",
+          "avg_corners_home_per_game": 6.38,
           "aproveitamento_home": 33.3,
-          "btts_home_matches": 4,
-          "over_2_5_goals_home": 4,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 5,
           "over_0_5_ht_home": 5,
-          "over_0_5_ft_home": 3,
+          "over_0_5_ft_home": 4,
           "clean_sheets_home": 1
         },
         "away": {
@@ -1366,6 +1366,15 @@
   "artilharia": {
     "brazil_serie_b": [
       {
+        "jogador-nome": "Mikael Filipe Viana de Sousa",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 11,
+        "jogador-assists": 3,
+        "jogador-partidas": 16,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-clube-de-regatas-brasil.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-mikael-filipe-viana-de-sousa.png"
+      },
+      {
         "jogador-nome": "Bruno Santos de Oliveira",
         "jogador-posicao": "Forward",
         "jogador-gols": 11,
@@ -1382,15 +1391,6 @@
         "jogador-partidas": 17,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-gremio-novorizontino.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-robson-dos-santos-fernandes.png"
-      },
-      {
-        "jogador-nome": "Mikael Filipe Viana de Sousa",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 10,
-        "jogador-assists": 2,
-        "jogador-partidas": 15,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-clube-de-regatas-brasil.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-mikael-filipe-viana-de-sousa.png"
       },
       {
         "jogador-nome": "Gabriel Boschilia",
@@ -1469,7 +1469,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 5,
         "jogador-assists": 2,
-        "jogador-partidas": 15,
+        "jogador-partidas": 16,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-goias-ec.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-anselmo-ramon-alves-erculano.png"
       },
@@ -1532,7 +1532,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 4,
         "jogador-assists": 3,
-        "jogador-partidas": 14,
+        "jogador-partidas": 15,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-clube-de-regatas-brasil.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-adailson-freire-pereira-da-silva.png"
       },
