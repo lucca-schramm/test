@@ -4,6 +4,74 @@
       {
         "rank": 1,
         "team": {
+          "id": 8625,
+          "name": "Argentina National Team",
+          "logo": "https://cdn.footystats.org/img/teams/argentina-argentina-national-team.png"
+        },
+        "points": 21,
+        "goalsDiff": 12,
+        "group": "International World Cup 2026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 7,
+          "win": 7,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 19,
+            "against": 7
+          },
+          "form": "WWWWW",
+          "btts_matches": 5,
+          "avg_corners_per_game": 5.29,
+          "aproveitamento": 100.0,
+          "over_2_5_goals": 6,
+          "over_0_5_ht": 5,
+          "over_0_5_ft": 7,
+          "clean_sheets": 2
+        },
+        "home": {
+          "played": 5,
+          "win": 5,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 14,
+            "against": 5
+          },
+          "form_home": "WWWWW",
+          "avg_corners_home_per_game": 5.0,
+          "aproveitamento_home": 100.0,
+          "btts_home_matches": 3,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 5,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 2,
+          "win": 2,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 5,
+            "against": 2
+          },
+          "form_visitor": "WW",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 6.0,
+          "aproveitamento_away": 100.0,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 2,
+        "team": {
           "id": 7967,
           "name": "Spain National Team",
           "logo": "https://cdn.footystats.org/img/teams/spain-spain-national-team.png"
@@ -70,7 +138,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "team": {
           "id": 7998,
           "name": "France National Team",
@@ -138,74 +206,6 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 3,
-        "team": {
-          "id": 8625,
-          "name": "Argentina National Team",
-          "logo": "https://cdn.footystats.org/img/teams/argentina-argentina-national-team.png"
-        },
-        "points": 18,
-        "goalsDiff": 11,
-        "group": "International World Cup 2026",
-        "status": "same",
-        "description": "Copa Libertadores",
-        "all": {
-          "played": 6,
-          "win": 6,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 17,
-            "against": 6
-          },
-          "form": "WWWWW",
-          "btts_matches": 4,
-          "avg_corners_per_game": 5.17,
-          "aproveitamento": 100.0,
-          "over_2_5_goals": 5,
-          "over_0_5_ht": 5,
-          "over_0_5_ft": 6,
-          "clean_sheets": 2
-        },
-        "home": {
-          "played": 5,
-          "win": 5,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 14,
-            "against": 5
-          },
-          "form_home": "WWWWW",
-          "avg_corners_home_per_game": 5.0,
-          "aproveitamento_home": 100.0,
-          "btts_home_matches": 3,
-          "over_2_5_goals_home": 4,
-          "over_0_5_ht_home": 4,
-          "over_0_5_ft_home": 5,
-          "clean_sheets_home": 2
-        },
-        "away": {
-          "played": 1,
-          "win": 1,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 3,
-            "against": 1
-          },
-          "form_visitor": "W",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 6.0,
-          "aproveitamento_away": 100.0,
-          "over_2_5_goals_away": 1,
-          "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 1,
-          "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
         "rank": 4,
         "team": {
           "id": 7981,
@@ -213,44 +213,44 @@
           "logo": "https://cdn.footystats.org/img/teams/england-england-national-team.png"
         },
         "points": 16,
-        "goalsDiff": 7,
+        "goalsDiff": 6,
         "group": "International World Cup 2026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 6,
+          "played": 7,
           "win": 5,
           "draw": 1,
-          "lose": 0,
+          "lose": 1,
           "goals": {
-            "for": 13,
-            "against": 6
+            "for": 14,
+            "against": 8
           },
-          "form": "DWWWW",
-          "btts_matches": 4,
-          "avg_corners_per_game": 5.83,
-          "aproveitamento": 88.9,
-          "over_2_5_goals": 4,
+          "form": "WWWWL",
+          "btts_matches": 5,
+          "avg_corners_per_game": 5.14,
+          "aproveitamento": 76.2,
+          "over_2_5_goals": 5,
           "over_0_5_ht": 3,
-          "over_0_5_ft": 5,
+          "over_0_5_ft": 6,
           "clean_sheets": 2
         },
         "home": {
-          "played": 3,
+          "played": 4,
           "win": 2,
           "draw": 1,
-          "lose": 0,
+          "lose": 1,
           "goals": {
-            "for": 6,
-            "against": 3
+            "for": 7,
+            "against": 5
           },
-          "form_home": "WDW",
-          "avg_corners_home_per_game": 7.33,
-          "aproveitamento_home": 77.8,
-          "btts_home_matches": 2,
-          "over_2_5_goals_home": 2,
+          "form_home": "WDWL",
+          "avg_corners_home_per_game": 5.75,
+          "aproveitamento_home": 58.3,
+          "btts_home_matches": 3,
+          "over_2_5_goals_home": 3,
           "over_0_5_ht_home": 1,
-          "over_0_5_ft_home": 2,
+          "over_0_5_ft_home": 3,
           "clean_sheets_home": 1
         },
         "away": {
@@ -3882,6 +3882,15 @@
   "artilharia": {
     "international_world_cup": [
       {
+        "jogador-nome": "Lionel Andrés Messi Cuccittini",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 8,
+        "jogador-assists": 4,
+        "jogador-partidas": 7,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/argentina-argentina-national-team.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/argentina-lionel-messi.png"
+      },
+      {
         "jogador-nome": "Kylian Mbappé Lottin",
         "jogador-posicao": "Forward",
         "jogador-gols": 8,
@@ -3889,15 +3898,6 @@
         "jogador-partidas": 7,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/france-france-national-team.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/france-kylian-mbappe.png"
-      },
-      {
-        "jogador-nome": "Lionel Andrés Messi Cuccittini",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 8,
-        "jogador-assists": 2,
-        "jogador-partidas": 6,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/argentina-argentina-national-team.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/argentina-lionel-messi.png"
       },
       {
         "jogador-nome": "Erling Braut Haaland",
@@ -3913,7 +3913,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 6,
         "jogador-assists": 1,
-        "jogador-partidas": 6,
+        "jogador-partidas": 7,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/england-england-national-team.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/england-jude-bellingham.png"
       },
@@ -3922,7 +3922,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 6,
         "jogador-assists": 1,
-        "jogador-partidas": 6,
+        "jogador-partidas": 7,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/england-england-national-team.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/england-harry-kane.png"
       },
@@ -3999,6 +3999,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/belgium-romelu-lukaku.png"
       },
       {
+        "jogador-nome": "Lautaro Javier Martínez",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 3,
+        "jogador-assists": 1,
+        "jogador-partidas": 7,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/argentina-argentina-national-team.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/argentina-lautaro-martinez.png"
+      },
+      {
         "jogador-nome": "Cody Mathès Gakpo",
         "jogador-posicao": "Forward",
         "jogador-gols": 3,
@@ -4051,15 +4060,6 @@
         "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-germany-national-team.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/germany-kai-havertz.png"
-      },
-      {
-        "jogador-nome": "Jonathan Christian David",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 3,
-        "jogador-assists": 0,
-        "jogador-partidas": 5,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/canada-canada-national-team.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/canada-jonathan-david.png"
       }
     ]
   }
