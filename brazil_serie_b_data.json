@@ -276,28 +276,96 @@
       {
         "rank": 5,
         "team": {
+          "id": 2601,
+          "name": "Fortaleza EC",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-fortaleza-ec.png"
+        },
+        "points": 31,
+        "goalsDiff": 4,
+        "group": "Brazil Serie B 2026",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 18,
+          "win": 9,
+          "draw": 4,
+          "lose": 5,
+          "goals": {
+            "for": 21,
+            "against": 17
+          },
+          "form": "DWWLW",
+          "btts_matches": 6,
+          "avg_corners_per_game": 5.72,
+          "aproveitamento": 57.4,
+          "over_2_5_goals": 8,
+          "over_0_5_ht": 7,
+          "over_0_5_ft": 7,
+          "clean_sheets": 8
+        },
+        "home": {
+          "played": 9,
+          "win": 7,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 17,
+            "against": 8
+          },
+          "form_home": "WLWWW",
+          "avg_corners_home_per_game": 5.56,
+          "aproveitamento_home": 81.5,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 5,
+          "clean_sheets_home": 4
+        },
+        "away": {
+          "played": 9,
+          "win": 2,
+          "draw": 3,
+          "lose": 4,
+          "goals": {
+            "for": 4,
+            "against": 9
+          },
+          "form_visitor": "LLWDL",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 5.89,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 4
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 6,
+        "team": {
           "id": 2712,
           "name": "Grêmio Novorizontino",
           "logo": "https://cdn.footystats.org/img/teams/brazil-gremio-novorizontino.png"
         },
         "points": 30,
-        "goalsDiff": 12,
+        "goalsDiff": 11,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "Copa Sul-Americana",
         "all": {
-          "played": 17,
+          "played": 18,
           "win": 8,
           "draw": 6,
-          "lose": 3,
+          "lose": 4,
           "goals": {
             "for": 28,
-            "against": 16
+            "against": 17
           },
-          "form": "DWWWL",
+          "form": "WWWLL",
           "btts_matches": 9,
-          "avg_corners_per_game": 5.24,
-          "aproveitamento": 58.8,
+          "avg_corners_per_game": 5.28,
+          "aproveitamento": 55.6,
           "over_2_5_goals": 10,
           "over_0_5_ht": 8,
           "over_0_5_ft": 12,
@@ -322,90 +390,22 @@
           "clean_sheets_home": 2
         },
         "away": {
-          "played": 9,
+          "played": 10,
           "win": 3,
           "draw": 4,
-          "lose": 2,
+          "lose": 3,
           "goals": {
             "for": 14,
-            "against": 7
+            "against": 8
           },
-          "form_visitor": "DDWWL",
+          "form_visitor": "DWWLL",
           "btts_away_matches": 3,
-          "avg_corners_away_per_game": 4.22,
-          "aproveitamento_away": 48.1,
+          "avg_corners_away_per_game": 4.4,
+          "aproveitamento_away": 43.3,
           "over_2_5_goals_away": 4,
           "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 4,
           "clean_sheets_away": 5
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 6,
-        "team": {
-          "id": 2601,
-          "name": "Fortaleza EC",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-fortaleza-ec.png"
-        },
-        "points": 28,
-        "goalsDiff": 3,
-        "group": "Brazil Serie B 2026",
-        "status": "same",
-        "description": "Copa Sul-Americana",
-        "all": {
-          "played": 17,
-          "win": 8,
-          "draw": 4,
-          "lose": 5,
-          "goals": {
-            "for": 20,
-            "against": 17
-          },
-          "form": "LDWWL",
-          "btts_matches": 6,
-          "avg_corners_per_game": 5.47,
-          "aproveitamento": 54.9,
-          "over_2_5_goals": 8,
-          "over_0_5_ht": 6,
-          "over_0_5_ft": 7,
-          "clean_sheets": 7
-        },
-        "home": {
-          "played": 8,
-          "win": 6,
-          "draw": 1,
-          "lose": 1,
-          "goals": {
-            "for": 16,
-            "against": 8
-          },
-          "form_home": "WWLWW",
-          "avg_corners_home_per_game": 5.0,
-          "aproveitamento_home": 79.2,
-          "btts_home_matches": 4,
-          "over_2_5_goals_home": 6,
-          "over_0_5_ht_home": 4,
-          "over_0_5_ft_home": 5,
-          "clean_sheets_home": 3
-        },
-        "away": {
-          "played": 9,
-          "win": 2,
-          "draw": 3,
-          "lose": 4,
-          "goals": {
-            "for": 4,
-            "against": 9
-          },
-          "form_visitor": "LLWDL",
-          "btts_away_matches": 2,
-          "avg_corners_away_per_game": 5.89,
-          "aproveitamento_away": 33.3,
-          "over_2_5_goals_away": 2,
-          "over_0_5_ht_away": 2,
-          "over_0_5_ft_away": 2,
-          "clean_sheets_away": 4
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -960,28 +960,28 @@
           "name": "Botafogo FC Ribeirão Preto",
           "logo": "https://cdn.footystats.org/img/teams/brazil-botafogo-fc-ribeirao-preto.png"
         },
-        "points": 20,
+        "points": 21,
         "goalsDiff": 2,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 17,
+          "played": 18,
           "win": 5,
-          "draw": 5,
+          "draw": 6,
           "lose": 7,
           "goals": {
             "for": 20,
             "against": 18
           },
-          "form": "WWLWD",
+          "form": "WLWDD",
           "btts_matches": 9,
-          "avg_corners_per_game": 6.47,
-          "aproveitamento": 39.2,
+          "avg_corners_per_game": 6.28,
+          "aproveitamento": 38.9,
           "over_2_5_goals": 7,
           "over_0_5_ht": 7,
           "over_0_5_ft": 8,
-          "clean_sheets": 3
+          "clean_sheets": 4
         },
         "home": {
           "played": 8,
@@ -1002,22 +1002,22 @@
           "clean_sheets_home": 1
         },
         "away": {
-          "played": 9,
+          "played": 10,
           "win": 2,
-          "draw": 3,
+          "draw": 4,
           "lose": 4,
           "goals": {
             "for": 7,
             "against": 9
           },
-          "form_visitor": "LDLWD",
+          "form_visitor": "DLWDD",
           "btts_away_matches": 3,
-          "avg_corners_away_per_game": 5.67,
+          "avg_corners_away_per_game": 5.4,
           "aproveitamento_away": 33.3,
           "over_2_5_goals_away": 2,
           "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 4,
-          "clean_sheets_away": 2
+          "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1028,46 +1028,46 @@
           "name": "Londrina EC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-londrina-ec.png"
         },
-        "points": 19,
+        "points": 20,
         "goalsDiff": 0,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 17,
+          "played": 18,
           "win": 5,
-          "draw": 4,
+          "draw": 5,
           "lose": 8,
           "goals": {
             "for": 25,
             "against": 25
           },
-          "form": "WWDWD",
+          "form": "WDWDD",
           "btts_matches": 9,
-          "avg_corners_per_game": 5.18,
-          "aproveitamento": 37.3,
+          "avg_corners_per_game": 5.33,
+          "aproveitamento": 37.0,
           "over_2_5_goals": 11,
           "over_0_5_ht": 6,
           "over_0_5_ft": 9,
-          "clean_sheets": 3
+          "clean_sheets": 4
         },
         "home": {
-          "played": 8,
+          "played": 9,
           "win": 3,
-          "draw": 2,
+          "draw": 3,
           "lose": 3,
           "goals": {
             "for": 14,
             "against": 10
           },
-          "form_home": "LLWWW",
-          "avg_corners_home_per_game": 6.25,
-          "aproveitamento_home": 45.8,
+          "form_home": "LWWWD",
+          "avg_corners_home_per_game": 6.44,
+          "aproveitamento_home": 44.4,
           "btts_home_matches": 4,
           "over_2_5_goals_home": 5,
           "over_0_5_ht_home": 4,
           "over_0_5_ft_home": 5,
-          "clean_sheets_home": 3
+          "clean_sheets_home": 4
         },
         "away": {
           "played": 9,
@@ -1388,7 +1388,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 10,
         "jogador-assists": 3,
-        "jogador-partidas": 17,
+        "jogador-partidas": 18,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-gremio-novorizontino.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-robson-dos-santos-fernandes.png"
       },
@@ -1424,7 +1424,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 7,
         "jogador-assists": 2,
-        "jogador-partidas": 16,
+        "jogador-partidas": 17,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-botafogo-fc-ribeirao-preto.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-everton-morelli-casemiro.png"
       },
@@ -1478,7 +1478,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 5,
         "jogador-assists": 1,
-        "jogador-partidas": 14,
+        "jogador-partidas": 15,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-fortaleza-ec.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/argentina-juan-bautista-miritello.png"
       },
@@ -1496,7 +1496,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 5,
         "jogador-assists": 0,
-        "jogador-partidas": 12,
+        "jogador-partidas": 13,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-botafogo-fc-ribeirao-preto.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-hygor-cleber-garcia-silva.png"
       },
@@ -1505,7 +1505,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 4,
         "jogador-assists": 8,
-        "jogador-partidas": 17,
+        "jogador-partidas": 18,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-gremio-novorizontino.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-romulo-azevedo-simao.png"
       },
