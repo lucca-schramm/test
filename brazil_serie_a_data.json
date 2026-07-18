@@ -144,45 +144,45 @@
           "name": "Fluminense FC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-fluminense-fc.png"
         },
-        "points": 31,
+        "points": 32,
         "goalsDiff": 5,
         "group": "Brazil Serie A 2026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 18,
+          "played": 19,
           "win": 9,
-          "draw": 4,
+          "draw": 5,
           "lose": 5,
           "goals": {
-            "for": 28,
-            "against": 23
+            "for": 29,
+            "against": 24
           },
-          "form": "LDWLD",
-          "btts_matches": 13,
-          "avg_corners_per_game": 5.5,
-          "aproveitamento": 57.4,
+          "form": "DWLDD",
+          "btts_matches": 14,
+          "avg_corners_per_game": 5.79,
+          "aproveitamento": 56.1,
           "over_2_5_goals": 10,
           "over_0_5_ht": 11,
-          "over_0_5_ft": 11,
+          "over_0_5_ft": 12,
           "clean_sheets": 3
         },
         "home": {
-          "played": 9,
+          "played": 10,
           "win": 7,
-          "draw": 1,
+          "draw": 2,
           "lose": 1,
           "goals": {
-            "for": 17,
-            "against": 10
+            "for": 18,
+            "against": 11
           },
-          "form_home": "WLWDW",
-          "avg_corners_home_per_game": 5.44,
-          "aproveitamento_home": 81.5,
-          "btts_home_matches": 7,
+          "form_home": "LWDWD",
+          "avg_corners_home_per_game": 6.0,
+          "aproveitamento_home": 76.7,
+          "btts_home_matches": 8,
           "over_2_5_goals_home": 7,
           "over_0_5_ht_home": 5,
-          "over_0_5_ft_home": 7,
+          "over_0_5_ft_home": 8,
           "clean_sheets_home": 2
         },
         "away": {
@@ -208,6 +208,74 @@
       {
         "rank": 4,
         "team": {
+          "id": 635,
+          "name": "Clube Atlético Bragantino",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-clube-atletico-bragantino.png"
+        },
+        "points": 30,
+        "goalsDiff": 6,
+        "group": "Brazil Serie A 2026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 19,
+          "win": 9,
+          "draw": 3,
+          "lose": 7,
+          "goals": {
+            "for": 26,
+            "against": 20
+          },
+          "form": "LWWWD",
+          "btts_matches": 9,
+          "avg_corners_per_game": 5.47,
+          "aproveitamento": 52.6,
+          "over_2_5_goals": 8,
+          "over_0_5_ht": 12,
+          "over_0_5_ft": 9,
+          "clean_sheets": 6
+        },
+        "home": {
+          "played": 9,
+          "win": 5,
+          "draw": 1,
+          "lose": 3,
+          "goals": {
+            "for": 16,
+            "against": 9
+          },
+          "form_home": "WWLWW",
+          "avg_corners_home_per_game": 6.11,
+          "aproveitamento_home": 59.3,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 8,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 10,
+          "win": 4,
+          "draw": 2,
+          "lose": 4,
+          "goals": {
+            "for": 10,
+            "against": 11
+          },
+          "form_visitor": "LWLWD",
+          "btts_away_matches": 4,
+          "avg_corners_away_per_game": 4.9,
+          "aproveitamento_away": 46.7,
+          "over_2_5_goals_away": 3,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 5,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 5,
+        "team": {
           "id": 622,
           "name": "CA Paranaense",
           "logo": "https://cdn.footystats.org/img/teams/brazil-ca-paranaense.png"
@@ -216,7 +284,7 @@
         "goalsDiff": 6,
         "group": "Brazil Serie A 2026",
         "status": "same",
-        "description": "Copa Libertadores",
+        "description": "Copa Sul-Americana",
         "all": {
           "played": 18,
           "win": 9,
@@ -270,74 +338,6 @@
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 4,
           "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 5,
-        "team": {
-          "id": 635,
-          "name": "Clube Atlético Bragantino",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-clube-atletico-bragantino.png"
-        },
-        "points": 29,
-        "goalsDiff": 6,
-        "group": "Brazil Serie A 2026",
-        "status": "same",
-        "description": "Copa Sul-Americana",
-        "all": {
-          "played": 18,
-          "win": 9,
-          "draw": 2,
-          "lose": 7,
-          "goals": {
-            "for": 25,
-            "against": 19
-          },
-          "form": "WLWWW",
-          "btts_matches": 8,
-          "avg_corners_per_game": 5.56,
-          "aproveitamento": 53.7,
-          "over_2_5_goals": 8,
-          "over_0_5_ht": 11,
-          "over_0_5_ft": 9,
-          "clean_sheets": 6
-        },
-        "home": {
-          "played": 9,
-          "win": 5,
-          "draw": 1,
-          "lose": 3,
-          "goals": {
-            "for": 16,
-            "against": 9
-          },
-          "form_home": "WWLWW",
-          "avg_corners_home_per_game": 6.11,
-          "aproveitamento_home": 59.3,
-          "btts_home_matches": 5,
-          "over_2_5_goals_home": 5,
-          "over_0_5_ht_home": 8,
-          "over_0_5_ft_home": 4,
-          "clean_sheets_home": 3
-        },
-        "away": {
-          "played": 9,
-          "win": 4,
-          "draw": 1,
-          "lose": 4,
-          "goals": {
-            "for": 9,
-            "against": 10
-          },
-          "form_visitor": "WLWLW",
-          "btts_away_matches": 3,
-          "avg_corners_away_per_game": 5.0,
-          "aproveitamento_away": 48.1,
-          "over_2_5_goals_away": 3,
-          "over_0_5_ht_away": 3,
-          "over_0_5_ft_away": 5,
-          "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1397,7 +1397,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 9,
         "jogador-assists": 1,
-        "jogador-partidas": 17,
+        "jogador-partidas": 18,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-fluminense-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-john-kennedy.png"
       },
