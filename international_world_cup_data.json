@@ -4,28 +4,96 @@
       {
         "rank": 1,
         "team": {
+          "id": 7967,
+          "name": "Spain National Team",
+          "logo": "https://cdn.footystats.org/img/teams/spain-spain-national-team.png"
+        },
+        "points": 22,
+        "goalsDiff": 13,
+        "group": "International World Cup 2026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 8,
+          "win": 7,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 14,
+            "against": 1
+          },
+          "form": "WWWWW",
+          "btts_matches": 1,
+          "avg_corners_per_game": 6.75,
+          "aproveitamento": 91.7,
+          "over_2_5_goals": 3,
+          "over_0_5_ht": 5,
+          "over_0_5_ft": 6,
+          "clean_sheets": 7
+        },
+        "home": {
+          "played": 5,
+          "win": 4,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 10,
+            "against": 1
+          },
+          "form_home": "DWWWW",
+          "avg_corners_home_per_game": 8.0,
+          "aproveitamento_home": 86.7,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 4
+        },
+        "away": {
+          "played": 3,
+          "win": 3,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 4,
+            "against": 0
+          },
+          "form_visitor": "WWW",
+          "btts_away_matches": 0,
+          "avg_corners_away_per_game": 4.67,
+          "aproveitamento_away": 100.0,
+          "over_2_5_goals_away": 0,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 2,
+        "team": {
           "id": 8625,
           "name": "Argentina National Team",
           "logo": "https://cdn.footystats.org/img/teams/argentina-argentina-national-team.png"
         },
         "points": 21,
-        "goalsDiff": 12,
+        "goalsDiff": 11,
         "group": "International World Cup 2026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 7,
+          "played": 8,
           "win": 7,
           "draw": 0,
-          "lose": 0,
+          "lose": 1,
           "goals": {
             "for": 19,
-            "against": 7
+            "against": 8
           },
-          "form": "WWWWW",
+          "form": "WWWWL",
           "btts_matches": 5,
-          "avg_corners_per_game": 5.29,
-          "aproveitamento": 100.0,
+          "avg_corners_per_game": 5.12,
+          "aproveitamento": 87.5,
           "over_2_5_goals": 6,
           "over_0_5_ht": 5,
           "over_0_5_ft": 7,
@@ -50,90 +118,22 @@
           "clean_sheets_home": 2
         },
         "away": {
-          "played": 2,
+          "played": 3,
           "win": 2,
           "draw": 0,
-          "lose": 0,
+          "lose": 1,
           "goals": {
             "for": 5,
-            "against": 2
+            "against": 3
           },
-          "form_visitor": "WW",
+          "form_visitor": "WWL",
           "btts_away_matches": 2,
-          "avg_corners_away_per_game": 6.0,
-          "aproveitamento_away": 100.0,
+          "avg_corners_away_per_game": 5.33,
+          "aproveitamento_away": 66.7,
           "over_2_5_goals_away": 2,
           "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 2,
           "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 2,
-        "team": {
-          "id": 7967,
-          "name": "Spain National Team",
-          "logo": "https://cdn.footystats.org/img/teams/spain-spain-national-team.png"
-        },
-        "points": 19,
-        "goalsDiff": 12,
-        "group": "International World Cup 2026",
-        "status": "same",
-        "description": "Copa Libertadores",
-        "all": {
-          "played": 7,
-          "win": 6,
-          "draw": 1,
-          "lose": 0,
-          "goals": {
-            "for": 13,
-            "against": 1
-          },
-          "form": "WWWWW",
-          "btts_matches": 1,
-          "avg_corners_per_game": 6.43,
-          "aproveitamento": 90.5,
-          "over_2_5_goals": 3,
-          "over_0_5_ht": 5,
-          "over_0_5_ft": 5,
-          "clean_sheets": 6
-        },
-        "home": {
-          "played": 4,
-          "win": 3,
-          "draw": 1,
-          "lose": 0,
-          "goals": {
-            "for": 9,
-            "against": 1
-          },
-          "form_home": "DWWW",
-          "avg_corners_home_per_game": 7.75,
-          "aproveitamento_home": 83.3,
-          "btts_home_matches": 1,
-          "over_2_5_goals_home": 3,
-          "over_0_5_ht_home": 3,
-          "over_0_5_ft_home": 3,
-          "clean_sheets_home": 3
-        },
-        "away": {
-          "played": 3,
-          "win": 3,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 4,
-            "against": 0
-          },
-          "form_visitor": "WWW",
-          "btts_away_matches": 0,
-          "avg_corners_away_per_game": 4.67,
-          "aproveitamento_away": 100.0,
-          "over_2_5_goals_away": 0,
-          "over_0_5_ht_away": 2,
-          "over_0_5_ft_away": 2,
-          "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -3895,7 +3895,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 8,
         "jogador-assists": 4,
-        "jogador-partidas": 7,
+        "jogador-partidas": 8,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/argentina-argentina-national-team.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/argentina-lionel-messi.png"
       },
@@ -3940,7 +3940,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 5,
         "jogador-assists": 1,
-        "jogador-partidas": 7,
+        "jogador-partidas": 8,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/spain-spain-national-team.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/spain-mikel-oyarzabal.png"
       },
