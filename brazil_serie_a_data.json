@@ -8,27 +8,27 @@
           "name": "SE Palmeiras",
           "logo": "https://cdn.footystats.org/img/teams/brazil-se-palmeiras.png"
         },
-        "points": 41,
-        "goalsDiff": 17,
+        "points": 44,
+        "goalsDiff": 19,
         "group": "Brazil Serie A 2026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 18,
-          "win": 12,
+          "played": 19,
+          "win": 13,
           "draw": 5,
           "lose": 1,
           "goals": {
-            "for": 30,
-            "against": 13
+            "for": 33,
+            "against": 14
           },
-          "form": "DDDWW",
-          "btts_matches": 11,
-          "avg_corners_per_game": 6.0,
-          "aproveitamento": 75.9,
-          "over_2_5_goals": 9,
-          "over_0_5_ht": 15,
-          "over_0_5_ft": 9,
+          "form": "DDWWW",
+          "btts_matches": 12,
+          "avg_corners_per_game": 5.89,
+          "aproveitamento": 77.2,
+          "over_2_5_goals": 10,
+          "over_0_5_ht": 16,
+          "over_0_5_ft": 10,
           "clean_sheets": 7
         },
         "home": {
@@ -50,21 +50,21 @@
           "clean_sheets_home": 3
         },
         "away": {
-          "played": 9,
-          "win": 5,
+          "played": 10,
+          "win": 6,
           "draw": 3,
           "lose": 1,
           "goals": {
-            "for": 14,
-            "against": 7
+            "for": 17,
+            "against": 8
           },
-          "form_visitor": "WDWDW",
-          "btts_away_matches": 5,
-          "avg_corners_away_per_game": 6.0,
-          "aproveitamento_away": 66.7,
-          "over_2_5_goals_away": 5,
-          "over_0_5_ht_away": 8,
-          "over_0_5_ft_away": 4,
+          "form_visitor": "DWDWW",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 5.8,
+          "aproveitamento_away": 70.0,
+          "over_2_5_goals_away": 6,
+          "over_0_5_ht_away": 9,
+          "over_0_5_ft_away": 5,
           "clean_sheets_away": 4
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -417,44 +417,44 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-coritiba-fbc.png"
         },
         "points": 26,
-        "goalsDiff": 0,
+        "goalsDiff": -2,
         "group": "Brazil Serie A 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 18,
+          "played": 19,
           "win": 7,
           "draw": 5,
-          "lose": 6,
+          "lose": 7,
           "goals": {
-            "for": 24,
-            "against": 24
+            "for": 25,
+            "against": 27
           },
-          "form": "LDWWL",
-          "btts_matches": 8,
-          "avg_corners_per_game": 3.22,
-          "aproveitamento": 48.1,
-          "over_2_5_goals": 8,
+          "form": "DWWLL",
+          "btts_matches": 9,
+          "avg_corners_per_game": 3.47,
+          "aproveitamento": 45.6,
+          "over_2_5_goals": 9,
           "over_0_5_ht": 9,
-          "over_0_5_ft": 10,
+          "over_0_5_ft": 11,
           "clean_sheets": 5
         },
         "home": {
-          "played": 8,
+          "played": 9,
           "win": 3,
           "draw": 3,
-          "lose": 2,
+          "lose": 3,
           "goals": {
-            "for": 10,
-            "against": 8
+            "for": 11,
+            "against": 11
           },
-          "form_home": "DDWDW",
-          "avg_corners_home_per_game": 2.75,
-          "aproveitamento_home": 50.0,
-          "btts_home_matches": 4,
-          "over_2_5_goals_home": 2,
+          "form_home": "DWDWL",
+          "avg_corners_home_per_game": 3.33,
+          "aproveitamento_home": 44.4,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 3,
           "over_0_5_ht_home": 3,
-          "over_0_5_ft_home": 5,
+          "over_0_5_ft_home": 6,
           "clean_sheets_home": 2
         },
         "away": {
@@ -1406,7 +1406,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 8,
         "jogador-assists": 1,
-        "jogador-partidas": 15,
+        "jogador-partidas": 16,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-coritiba-fbc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-breno-lopes.png"
       },
@@ -1445,6 +1445,15 @@
         "jogador-partidas": 15,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-botafogo-fr.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-arthur-cabral.png"
+      },
+      {
+        "jogador-nome": "Jogador_42458",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 7,
+        "jogador-assists": 0,
+        "jogador-partidas": 1,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-chapecoense-af.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/-jogador_42458.png"
       },
       {
         "jogador-nome": "José Manuel López",
@@ -1496,7 +1505,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 5,
         "jogador-assists": 1,
-        "jogador-partidas": 17,
+        "jogador-partidas": 18,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-coritiba-fbc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/uruguay-joaquin-lavega-colzada.png"
       },
@@ -1517,15 +1526,6 @@
         "jogador-partidas": 18,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ca-paranaense.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/colombia-john-stiven-mendoza-valencia.png"
-      },
-      {
-        "jogador-nome": "Jogador_42458",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 5,
-        "jogador-assists": 0,
-        "jogador-partidas": 1,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-chapecoense-af.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/-jogador_42458.png"
       },
       {
         "jogador-nome": "Samuel Dias Lino",
