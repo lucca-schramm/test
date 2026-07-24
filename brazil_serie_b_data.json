@@ -213,26 +213,26 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-ec-juventude.png"
         },
         "points": 32,
-        "goalsDiff": 11,
+        "goalsDiff": 9,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 18,
+          "played": 19,
           "win": 9,
           "draw": 5,
-          "lose": 4,
+          "lose": 5,
           "goals": {
-            "for": 19,
-            "against": 8
+            "for": 21,
+            "against": 12
           },
-          "form": "WWDWW",
-          "btts_matches": 3,
-          "avg_corners_per_game": 4.22,
-          "aproveitamento": 59.3,
-          "over_2_5_goals": 4,
+          "form": "WDWWL",
+          "btts_matches": 4,
+          "avg_corners_per_game": 4.47,
+          "aproveitamento": 56.1,
+          "over_2_5_goals": 5,
           "over_0_5_ht": 8,
-          "over_0_5_ft": 8,
+          "over_0_5_ft": 9,
           "clean_sheets": 13
         },
         "home": {
@@ -254,21 +254,21 @@
           "clean_sheets_home": 9
         },
         "away": {
-          "played": 8,
+          "played": 9,
           "win": 2,
           "draw": 3,
-          "lose": 3,
+          "lose": 4,
           "goals": {
-            "for": 5,
-            "against": 7
+            "for": 7,
+            "against": 11
           },
-          "form_visitor": "DDLWD",
-          "btts_away_matches": 3,
-          "avg_corners_away_per_game": 2.62,
-          "aproveitamento_away": 37.5,
-          "over_2_5_goals_away": 2,
+          "form_visitor": "DLWDL",
+          "btts_away_matches": 4,
+          "avg_corners_away_per_game": 3.33,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 3,
           "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 4,
+          "over_0_5_ft_away": 5,
           "clean_sheets_away": 4
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -888,6 +888,74 @@
       {
         "rank": 14,
         "team": {
+          "id": 2598,
+          "name": "Botafogo FC Ribeirão Preto",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-botafogo-fc-ribeirao-preto.png"
+        },
+        "points": 24,
+        "goalsDiff": 4,
+        "group": "Brazil Serie B 2026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 19,
+          "win": 6,
+          "draw": 6,
+          "lose": 7,
+          "goals": {
+            "for": 24,
+            "against": 20
+          },
+          "form": "LWDDW",
+          "btts_matches": 10,
+          "avg_corners_per_game": 6.16,
+          "aproveitamento": 42.1,
+          "over_2_5_goals": 8,
+          "over_0_5_ht": 8,
+          "over_0_5_ft": 9,
+          "clean_sheets": 4
+        },
+        "home": {
+          "played": 9,
+          "win": 4,
+          "draw": 2,
+          "lose": 3,
+          "goals": {
+            "for": 17,
+            "against": 11
+          },
+          "form_home": "LWLWW",
+          "avg_corners_home_per_game": 7.0,
+          "aproveitamento_home": 51.9,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 6,
+          "over_0_5_ft_home": 5,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 10,
+          "win": 2,
+          "draw": 4,
+          "lose": 4,
+          "goals": {
+            "for": 7,
+            "against": 9
+          },
+          "form_visitor": "DLWDD",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 5.4,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 15,
+        "team": {
           "id": 2592,
           "name": "Cuiabá EC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-cuiaba-ec.png"
@@ -950,74 +1018,6 @@
           "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 2,
           "clean_sheets_away": 4
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 15,
-        "team": {
-          "id": 2598,
-          "name": "Botafogo FC Ribeirão Preto",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-botafogo-fc-ribeirao-preto.png"
-        },
-        "points": 21,
-        "goalsDiff": 2,
-        "group": "Brazil Serie B 2026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 18,
-          "win": 5,
-          "draw": 6,
-          "lose": 7,
-          "goals": {
-            "for": 20,
-            "against": 18
-          },
-          "form": "WLWDD",
-          "btts_matches": 9,
-          "avg_corners_per_game": 6.28,
-          "aproveitamento": 38.9,
-          "over_2_5_goals": 7,
-          "over_0_5_ht": 7,
-          "over_0_5_ft": 8,
-          "clean_sheets": 4
-        },
-        "home": {
-          "played": 8,
-          "win": 3,
-          "draw": 2,
-          "lose": 3,
-          "goals": {
-            "for": 13,
-            "against": 9
-          },
-          "form_home": "DLWLW",
-          "avg_corners_home_per_game": 7.38,
-          "aproveitamento_home": 45.8,
-          "btts_home_matches": 6,
-          "over_2_5_goals_home": 5,
-          "over_0_5_ht_home": 5,
-          "over_0_5_ft_home": 4,
-          "clean_sheets_home": 1
-        },
-        "away": {
-          "played": 10,
-          "win": 2,
-          "draw": 4,
-          "lose": 4,
-          "goals": {
-            "for": 7,
-            "against": 9
-          },
-          "form_visitor": "DLWDD",
-          "btts_away_matches": 3,
-          "avg_corners_away_per_game": 5.4,
-          "aproveitamento_away": 33.3,
-          "over_2_5_goals_away": 2,
-          "over_0_5_ht_away": 2,
-          "over_0_5_ft_away": 4,
-          "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1432,8 +1432,8 @@
         "jogador-nome": "Everton Morelli Casemiro",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 7,
-        "jogador-assists": 2,
-        "jogador-partidas": 17,
+        "jogador-assists": 3,
+        "jogador-partidas": 18,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-botafogo-fc-ribeirao-preto.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-everton-morelli-casemiro.png"
       },
