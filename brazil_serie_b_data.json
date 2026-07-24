@@ -480,6 +480,74 @@
       {
         "rank": 8,
         "team": {
+          "id": 629,
+          "name": "AC Goianiense",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-ac-goianiense.png"
+        },
+        "points": 28,
+        "goalsDiff": 1,
+        "group": "Brazil Serie B 2026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 19,
+          "win": 7,
+          "draw": 7,
+          "lose": 5,
+          "goals": {
+            "for": 20,
+            "against": 19
+          },
+          "form": "WLWDW",
+          "btts_matches": 10,
+          "avg_corners_per_game": 5.63,
+          "aproveitamento": 49.1,
+          "over_2_5_goals": 7,
+          "over_0_5_ht": 9,
+          "over_0_5_ft": 8,
+          "clean_sheets": 6
+        },
+        "home": {
+          "played": 10,
+          "win": 4,
+          "draw": 4,
+          "lose": 2,
+          "goals": {
+            "for": 12,
+            "against": 9
+          },
+          "form_home": "DDWWD",
+          "avg_corners_home_per_game": 6.8,
+          "aproveitamento_home": 53.3,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 4
+        },
+        "away": {
+          "played": 9,
+          "win": 3,
+          "draw": 3,
+          "lose": 3,
+          "goals": {
+            "for": 8,
+            "against": 10
+          },
+          "form_visitor": "DWDLW",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 4.33,
+          "aproveitamento_away": 44.4,
+          "over_2_5_goals_away": 3,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 9,
+        "team": {
           "id": 614,
           "name": "SC do Recife",
           "logo": "https://cdn.footystats.org/img/teams/brazil-sc-do-recife.png"
@@ -546,7 +614,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "team": {
           "id": 2677,
           "name": "São Bernardo FC",
@@ -614,7 +682,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "team": {
           "id": 677199,
           "name": "Athletic Club (Minas Gerais)",
@@ -682,7 +750,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 11,
+        "rank": 12,
         "team": {
           "id": 694,
           "name": "Clube de Regatas Brasil",
@@ -746,74 +814,6 @@
           "over_0_5_ht_away": 6,
           "over_0_5_ft_away": 5,
           "clean_sheets_away": 2
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 12,
-        "team": {
-          "id": 629,
-          "name": "AC Goianiense",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-ac-goianiense.png"
-        },
-        "points": 25,
-        "goalsDiff": 0,
-        "group": "Brazil Serie B 2026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 18,
-          "win": 6,
-          "draw": 7,
-          "lose": 5,
-          "goals": {
-            "for": 19,
-            "against": 19
-          },
-          "form": "DWLWD",
-          "btts_matches": 10,
-          "avg_corners_per_game": 5.83,
-          "aproveitamento": 46.3,
-          "over_2_5_goals": 7,
-          "over_0_5_ht": 9,
-          "over_0_5_ft": 7,
-          "clean_sheets": 5
-        },
-        "home": {
-          "played": 10,
-          "win": 4,
-          "draw": 4,
-          "lose": 2,
-          "goals": {
-            "for": 12,
-            "against": 9
-          },
-          "form_home": "DDWWD",
-          "avg_corners_home_per_game": 6.8,
-          "aproveitamento_home": 53.3,
-          "btts_home_matches": 5,
-          "over_2_5_goals_home": 4,
-          "over_0_5_ht_home": 5,
-          "over_0_5_ft_home": 4,
-          "clean_sheets_home": 4
-        },
-        "away": {
-          "played": 8,
-          "win": 2,
-          "draw": 3,
-          "lose": 3,
-          "goals": {
-            "for": 7,
-            "against": 10
-          },
-          "form_visitor": "WDWDL",
-          "btts_away_matches": 5,
-          "avg_corners_away_per_game": 4.62,
-          "aproveitamento_away": 37.5,
-          "over_2_5_goals_away": 3,
-          "over_0_5_ht_away": 4,
-          "over_0_5_ft_away": 3,
-          "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -893,40 +893,40 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-cuiaba-ec.png"
         },
         "points": 24,
-        "goalsDiff": 1,
+        "goalsDiff": 0,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 18,
+          "played": 19,
           "win": 5,
           "draw": 9,
-          "lose": 4,
+          "lose": 5,
           "goals": {
             "for": 14,
-            "against": 13
+            "against": 14
           },
-          "form": "LDWDL",
+          "form": "DWDLL",
           "btts_matches": 5,
-          "avg_corners_per_game": 4.78,
-          "aproveitamento": 44.4,
+          "avg_corners_per_game": 4.95,
+          "aproveitamento": 42.1,
           "over_2_5_goals": 3,
           "over_0_5_ht": 4,
           "over_0_5_ft": 6,
           "clean_sheets": 9
         },
         "home": {
-          "played": 9,
+          "played": 10,
           "win": 3,
           "draw": 5,
-          "lose": 1,
+          "lose": 2,
           "goals": {
             "for": 8,
-            "against": 6
+            "against": 7
           },
-          "form_home": "DWWDW",
-          "avg_corners_home_per_game": 5.11,
-          "aproveitamento_home": 51.9,
+          "form_home": "WWDWL",
+          "avg_corners_home_per_game": 5.4,
+          "aproveitamento_home": 46.7,
           "btts_home_matches": 3,
           "over_2_5_goals_home": 1,
           "over_0_5_ht_home": 2,
@@ -1424,7 +1424,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 8,
         "jogador-assists": 0,
-        "jogador-partidas": 14,
+        "jogador-partidas": 15,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ac-goianiense.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-gustavo-coutinho-silva-lopes.png"
       },
