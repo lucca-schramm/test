@@ -553,25 +553,25 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-sao-bernardo-fc.png"
         },
         "points": 27,
-        "goalsDiff": 7,
+        "goalsDiff": 6,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 18,
+          "played": 19,
           "win": 7,
           "draw": 6,
-          "lose": 5,
+          "lose": 6,
           "goals": {
-            "for": 24,
-            "against": 17
+            "for": 25,
+            "against": 19
           },
-          "form": "LLLDD",
-          "btts_matches": 10,
-          "avg_corners_per_game": 4.11,
-          "aproveitamento": 50.0,
-          "over_2_5_goals": 8,
-          "over_0_5_ht": 7,
+          "form": "LLDDL",
+          "btts_matches": 11,
+          "avg_corners_per_game": 4.26,
+          "aproveitamento": 47.4,
+          "over_2_5_goals": 9,
+          "over_0_5_ht": 8,
           "over_0_5_ft": 10,
           "clean_sheets": 5
         },
@@ -594,20 +594,20 @@
           "clean_sheets_home": 3
         },
         "away": {
-          "played": 8,
+          "played": 9,
           "win": 5,
           "draw": 1,
-          "lose": 2,
+          "lose": 3,
           "goals": {
-            "for": 14,
-            "against": 8
+            "for": 15,
+            "against": 10
           },
-          "form_visitor": "WWWLL",
-          "btts_away_matches": 5,
-          "avg_corners_away_per_game": 3.38,
-          "aproveitamento_away": 66.7,
-          "over_2_5_goals_away": 5,
-          "over_0_5_ht_away": 2,
+          "form_visitor": "WWLLL",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 3.78,
+          "aproveitamento_away": 59.3,
+          "over_2_5_goals_away": 6,
+          "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 7,
           "clean_sheets_away": 2
         },
@@ -615,6 +615,74 @@
       },
       {
         "rank": 10,
+        "team": {
+          "id": 677199,
+          "name": "Athletic Club (Minas Gerais)",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-athletic-club-minas-gerais.png"
+        },
+        "points": 27,
+        "goalsDiff": 1,
+        "group": "Brazil Serie B 2026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 19,
+          "win": 6,
+          "draw": 9,
+          "lose": 4,
+          "goals": {
+            "for": 18,
+            "against": 17
+          },
+          "form": "WLDDW",
+          "btts_matches": 11,
+          "avg_corners_per_game": 4.53,
+          "aproveitamento": 47.4,
+          "over_2_5_goals": 5,
+          "over_0_5_ht": 7,
+          "over_0_5_ft": 8,
+          "clean_sheets": 5
+        },
+        "home": {
+          "played": 10,
+          "win": 4,
+          "draw": 4,
+          "lose": 2,
+          "goals": {
+            "for": 9,
+            "against": 7
+          },
+          "form_home": "WDWLW",
+          "avg_corners_home_per_game": 5.7,
+          "aproveitamento_home": 53.3,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 4,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 9,
+          "win": 2,
+          "draw": 5,
+          "lose": 2,
+          "goals": {
+            "for": 9,
+            "against": 10
+          },
+          "form_visitor": "WDLDD",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 3.22,
+          "aproveitamento_away": 40.7,
+          "over_2_5_goals_away": 3,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 11,
         "team": {
           "id": 694,
           "name": "Clube de Regatas Brasil",
@@ -682,7 +750,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 11,
+        "rank": 12,
         "team": {
           "id": 629,
           "name": "AC Goianiense",
@@ -750,7 +818,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "team": {
           "id": 644,
           "name": "Clube Náutico Capibaribe",
@@ -818,7 +886,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "team": {
           "id": 2592,
           "name": "Cuiabá EC",
@@ -882,74 +950,6 @@
           "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 2,
           "clean_sheets_away": 4
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 14,
-        "team": {
-          "id": 677199,
-          "name": "Athletic Club (Minas Gerais)",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-athletic-club-minas-gerais.png"
-        },
-        "points": 24,
-        "goalsDiff": 0,
-        "group": "Brazil Serie B 2026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 18,
-          "win": 5,
-          "draw": 9,
-          "lose": 4,
-          "goals": {
-            "for": 16,
-            "against": 16
-          },
-          "form": "LWLDD",
-          "btts_matches": 10,
-          "avg_corners_per_game": 4.67,
-          "aproveitamento": 44.4,
-          "over_2_5_goals": 4,
-          "over_0_5_ht": 6,
-          "over_0_5_ft": 7,
-          "clean_sheets": 5
-        },
-        "home": {
-          "played": 9,
-          "win": 3,
-          "draw": 4,
-          "lose": 2,
-          "goals": {
-            "for": 7,
-            "against": 6
-          },
-          "form_home": "DWDWL",
-          "avg_corners_home_per_game": 6.11,
-          "aproveitamento_home": 48.1,
-          "btts_home_matches": 4,
-          "over_2_5_goals_home": 1,
-          "over_0_5_ht_home": 3,
-          "over_0_5_ft_home": 3,
-          "clean_sheets_home": 3
-        },
-        "away": {
-          "played": 9,
-          "win": 2,
-          "draw": 5,
-          "lose": 2,
-          "goals": {
-            "for": 9,
-            "against": 10
-          },
-          "form_visitor": "WDLDD",
-          "btts_away_matches": 6,
-          "avg_corners_away_per_game": 3.22,
-          "aproveitamento_away": 40.7,
-          "over_2_5_goals_away": 3,
-          "over_0_5_ht_away": 3,
-          "over_0_5_ft_away": 4,
-          "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
