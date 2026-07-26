@@ -276,6 +276,74 @@
       {
         "rank": 5,
         "team": {
+          "id": 626,
+          "name": "EC Bahia",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-ec-bahia.png"
+        },
+        "points": 31,
+        "goalsDiff": 4,
+        "group": "Brazil Serie A 2026",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 20,
+          "win": 8,
+          "draw": 7,
+          "lose": 5,
+          "goals": {
+            "for": 29,
+            "against": 25
+          },
+          "form": "LWWDD",
+          "btts_matches": 14,
+          "avg_corners_per_game": 6.0,
+          "aproveitamento": 51.7,
+          "over_2_5_goals": 10,
+          "over_0_5_ht": 11,
+          "over_0_5_ft": 10,
+          "clean_sheets": 5
+        },
+        "home": {
+          "played": 11,
+          "win": 4,
+          "draw": 5,
+          "lose": 2,
+          "goals": {
+            "for": 17,
+            "against": 11
+          },
+          "form_home": "LDWWD",
+          "avg_corners_home_per_game": 6.82,
+          "aproveitamento_home": 51.5,
+          "btts_home_matches": 8,
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 6,
+          "over_0_5_ft_home": 6,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 9,
+          "win": 4,
+          "draw": 2,
+          "lose": 3,
+          "goals": {
+            "for": 12,
+            "against": 14
+          },
+          "form_visitor": "WLDLD",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 5.0,
+          "aproveitamento_away": 51.9,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 5,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 6,
+        "team": {
           "id": 635,
           "name": "Clube Atlético Bragantino",
           "logo": "https://cdn.footystats.org/img/teams/brazil-clube-atletico-bragantino.png"
@@ -338,74 +406,6 @@
           "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 5,
           "clean_sheets_away": 3
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 6,
-        "team": {
-          "id": 626,
-          "name": "EC Bahia",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-ec-bahia.png"
-        },
-        "points": 30,
-        "goalsDiff": 4,
-        "group": "Brazil Serie A 2026",
-        "status": "same",
-        "description": "Copa Sul-Americana",
-        "all": {
-          "played": 19,
-          "win": 8,
-          "draw": 6,
-          "lose": 5,
-          "goals": {
-            "for": 28,
-            "against": 24
-          },
-          "form": "DLWWD",
-          "btts_matches": 13,
-          "avg_corners_per_game": 5.95,
-          "aproveitamento": 52.6,
-          "over_2_5_goals": 10,
-          "over_0_5_ht": 10,
-          "over_0_5_ft": 10,
-          "clean_sheets": 5
-        },
-        "home": {
-          "played": 10,
-          "win": 4,
-          "draw": 4,
-          "lose": 2,
-          "goals": {
-            "for": 16,
-            "against": 10
-          },
-          "form_home": "DLDWW",
-          "avg_corners_home_per_game": 6.8,
-          "aproveitamento_home": 53.3,
-          "btts_home_matches": 7,
-          "over_2_5_goals_home": 5,
-          "over_0_5_ht_home": 5,
-          "over_0_5_ft_home": 6,
-          "clean_sheets_home": 3
-        },
-        "away": {
-          "played": 9,
-          "win": 4,
-          "draw": 2,
-          "lose": 3,
-          "goals": {
-            "for": 12,
-            "against": 14
-          },
-          "form_visitor": "WLDLD",
-          "btts_away_matches": 6,
-          "avg_corners_away_per_game": 5.0,
-          "aproveitamento_away": 51.9,
-          "over_2_5_goals_away": 5,
-          "over_0_5_ht_away": 5,
-          "over_0_5_ft_away": 4,
-          "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -484,26 +484,26 @@
           "name": "SC Corinthians Paulista",
           "logo": "https://cdn.footystats.org/img/teams/brazil-sc-corinthians-paulista.png"
         },
-        "points": 27,
+        "points": 28,
         "goalsDiff": 2,
         "group": "Brazil Serie A 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 19,
+          "played": 20,
           "win": 7,
-          "draw": 6,
+          "draw": 7,
           "lose": 6,
           "goals": {
-            "for": 21,
-            "against": 19
+            "for": 22,
+            "against": 20
           },
-          "form": "WLWWW",
-          "btts_matches": 9,
-          "avg_corners_per_game": 4.63,
-          "aproveitamento": 47.4,
+          "form": "LWWWD",
+          "btts_matches": 10,
+          "avg_corners_per_game": 4.5,
+          "aproveitamento": 46.7,
           "over_2_5_goals": 7,
-          "over_0_5_ht": 9,
+          "over_0_5_ht": 10,
           "over_0_5_ft": 7,
           "clean_sheets": 8
         },
@@ -526,20 +526,20 @@
           "clean_sheets_home": 5
         },
         "away": {
-          "played": 9,
+          "played": 10,
           "win": 2,
-          "draw": 4,
+          "draw": 5,
           "lose": 3,
           "goals": {
-            "for": 9,
-            "against": 11
+            "for": 10,
+            "against": 12
           },
-          "form_visitor": "LDLLW",
-          "btts_away_matches": 6,
-          "avg_corners_away_per_game": 4.44,
-          "aproveitamento_away": 37.0,
+          "form_visitor": "DLLWD",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 4.2,
+          "aproveitamento_away": 36.7,
           "over_2_5_goals_away": 4,
-          "over_0_5_ht_away": 4,
+          "over_0_5_ht_away": 5,
           "over_0_5_ft_away": 4,
           "clean_sheets_away": 3
         },
@@ -1433,7 +1433,7 @@
         "jogador-posicao": "Defender",
         "jogador-gols": 7,
         "jogador-assists": 1,
-        "jogador-partidas": 15,
+        "jogador-partidas": 16,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ec-bahia.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-luciano-batista-da-silva-junior.png"
       },
