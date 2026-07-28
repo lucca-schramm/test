@@ -684,6 +684,142 @@
       {
         "rank": 11,
         "team": {
+          "id": 103,
+          "name": "Lincoln Red Imps FC",
+          "logo": "https://cdn.footystats.org/img/teams/gibraltar-lincoln-red-imps-fc.png"
+        },
+        "points": 5,
+        "goalsDiff": -1,
+        "group": "Europe UEFA Champions League 20262027",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 4,
+          "win": 1,
+          "draw": 2,
+          "lose": 1,
+          "goals": {
+            "for": 4,
+            "against": 5
+          },
+          "form": "WDLD",
+          "btts_matches": 2,
+          "avg_corners_per_game": 4.25,
+          "aproveitamento": 41.7,
+          "over_2_5_goals": 2,
+          "over_0_5_ht": 1,
+          "over_0_5_ft": 2,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 2,
+          "win": 1,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 3,
+            "against": 1
+          },
+          "form_home": "WD",
+          "avg_corners_home_per_game": 4.0,
+          "aproveitamento_home": 66.7,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 2,
+          "win": 0,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 1,
+            "against": 4
+          },
+          "form_visitor": "DL",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 4.5,
+          "aproveitamento_away": 16.7,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 12,
+        "team": {
+          "id": 671,
+          "name": "Mjällby AIF",
+          "logo": "https://cdn.footystats.org/img/teams/sweden-mjallby-aif.png"
+        },
+        "points": 4,
+        "goalsDiff": 3,
+        "group": "Europe UEFA Champions League 20262027",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 2,
+          "win": 1,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 3,
+            "against": 0
+          },
+          "form": "WD",
+          "btts_matches": 0,
+          "avg_corners_per_game": 5.5,
+          "aproveitamento": 66.7,
+          "over_2_5_goals": 1,
+          "over_0_5_ht": 1,
+          "over_0_5_ft": 0,
+          "clean_sheets": 2
+        },
+        "home": {
+          "played": 1,
+          "win": 1,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 3,
+            "against": 0
+          },
+          "form_home": "W",
+          "avg_corners_home_per_game": 3.0,
+          "aproveitamento_home": 100.0,
+          "btts_home_matches": 0,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 0,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 1,
+          "win": 0,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 0,
+            "against": 0
+          },
+          "form_visitor": "D",
+          "btts_away_matches": 0,
+          "avg_corners_away_per_game": 8.0,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 0,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 13,
+        "team": {
           "id": 6498,
           "name": "FC Saburtalo Tbilisi",
           "logo": "https://cdn.footystats.org/img/teams/georgia-fc-saburtalo-tbilisi.png"
@@ -750,75 +886,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 12,
-        "team": {
-          "id": 103,
-          "name": "Lincoln Red Imps FC",
-          "logo": "https://cdn.footystats.org/img/teams/gibraltar-lincoln-red-imps-fc.png"
-        },
-        "points": 4,
-        "goalsDiff": -1,
-        "group": "Europe UEFA Champions League 20262027",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 3,
-          "win": 1,
-          "draw": 1,
-          "lose": 1,
-          "goals": {
-            "for": 4,
-            "against": 5
-          },
-          "form": "WDL",
-          "btts_matches": 2,
-          "avg_corners_per_game": 4.0,
-          "aproveitamento": 44.4,
-          "over_2_5_goals": 2,
-          "over_0_5_ht": 1,
-          "over_0_5_ft": 2,
-          "clean_sheets": 0
-        },
-        "home": {
-          "played": 1,
-          "win": 1,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 3,
-            "against": 1
-          },
-          "form_home": "W",
-          "avg_corners_home_per_game": 3.0,
-          "aproveitamento_home": 100.0,
-          "btts_home_matches": 1,
-          "over_2_5_goals_home": 1,
-          "over_0_5_ht_home": 1,
-          "over_0_5_ft_home": 1,
-          "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 2,
-          "win": 0,
-          "draw": 1,
-          "lose": 1,
-          "goals": {
-            "for": 1,
-            "against": 4
-          },
-          "form_visitor": "DL",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 4.5,
-          "aproveitamento_away": 16.7,
-          "over_2_5_goals_away": 1,
-          "over_0_5_ht_away": 0,
-          "over_0_5_ft_away": 1,
-          "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 13,
+        "rank": 14,
         "team": {
           "id": 70,
           "name": "Red Star Belgrade",
@@ -886,7 +954,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 14,
+        "rank": 15,
         "team": {
           "id": 582,
           "name": "SK Sturm Graz",
@@ -954,7 +1022,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 15,
+        "rank": 16,
         "team": {
           "id": 961,
           "name": "KKS Lech Poznań",
@@ -1017,74 +1085,6 @@
           "over_2_5_goals_away": 1,
           "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 1,
-          "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 16,
-        "team": {
-          "id": 671,
-          "name": "Mjällby AIF",
-          "logo": "https://cdn.footystats.org/img/teams/sweden-mjallby-aif.png"
-        },
-        "points": 3,
-        "goalsDiff": 3,
-        "group": "Europe UEFA Champions League 20262027",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 1,
-          "win": 1,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 3,
-            "against": 0
-          },
-          "form": "W",
-          "btts_matches": 0,
-          "avg_corners_per_game": 3.0,
-          "aproveitamento": 100.0,
-          "over_2_5_goals": 1,
-          "over_0_5_ht": 1,
-          "over_0_5_ft": 0,
-          "clean_sheets": 1
-        },
-        "home": {
-          "played": 1,
-          "win": 1,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 3,
-            "against": 0
-          },
-          "form_home": "W",
-          "avg_corners_home_per_game": 3.0,
-          "aproveitamento_home": 100.0,
-          "btts_home_matches": 0,
-          "over_2_5_goals_home": 1,
-          "over_0_5_ht_home": 1,
-          "over_0_5_ft_home": 0,
-          "clean_sheets_home": 1
-        },
-        "away": {
-          "played": 0,
-          "win": 0,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 0,
-            "against": 0
-          },
-          "form_visitor": "",
-          "btts_away_matches": 0,
-          "avg_corners_away_per_game": 0,
-          "aproveitamento_away": 0,
-          "over_2_5_goals_away": 0,
-          "over_0_5_ht_away": 0,
-          "over_0_5_ft_away": 0,
           "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -3328,7 +3328,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 2,
         "jogador-assists": 0,
-        "jogador-partidas": 1,
+        "jogador-partidas": 2,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/sweden-mjallby-aif.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/faroe-islands-aki-samuelsen.png"
       },
