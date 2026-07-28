@@ -8,28 +8,28 @@
           "name": "Sabah FK",
           "logo": "https://cdn.footystats.org/img/teams/azerbaijan-sabah-fk.png"
         },
-        "points": 9,
-        "goalsDiff": 4,
+        "points": 12,
+        "goalsDiff": 6,
         "group": "Europe UEFA Champions League 20262027",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 3,
-          "win": 3,
+          "played": 4,
+          "win": 4,
           "draw": 0,
           "lose": 0,
           "goals": {
-            "for": 5,
+            "for": 7,
             "against": 1
           },
-          "form": "WWW",
+          "form": "WWWW",
           "btts_matches": 1,
-          "avg_corners_per_game": 6.33,
+          "avg_corners_per_game": 6.25,
           "aproveitamento": 100.0,
           "over_2_5_goals": 1,
           "over_0_5_ht": 2,
-          "over_0_5_ft": 1,
-          "clean_sheets": 2
+          "over_0_5_ft": 2,
+          "clean_sheets": 3
         },
         "home": {
           "played": 2,
@@ -50,22 +50,22 @@
           "clean_sheets_home": 2
         },
         "away": {
-          "played": 1,
-          "win": 1,
+          "played": 2,
+          "win": 2,
           "draw": 0,
           "lose": 0,
           "goals": {
-            "for": 2,
+            "for": 4,
             "against": 1
           },
-          "form_visitor": "W",
+          "form_visitor": "WW",
           "btts_away_matches": 1,
-          "avg_corners_away_per_game": 3.0,
+          "avg_corners_away_per_game": 4.5,
           "aproveitamento_away": 100.0,
           "over_2_5_goals_away": 1,
           "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 0,
-          "clean_sheets_away": 0
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1364,74 +1364,6 @@
       {
         "rank": 21,
         "team": {
-          "id": 411,
-          "name": "Kuopion Palloseura",
-          "logo": "https://cdn.footystats.org/img/teams/finland-kuopion-palloseura.png"
-        },
-        "points": 3,
-        "goalsDiff": 0,
-        "group": "Europe UEFA Champions League 20262027",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 3,
-          "win": 1,
-          "draw": 0,
-          "lose": 2,
-          "goals": {
-            "for": 4,
-            "against": 4
-          },
-          "form": "WLL",
-          "btts_matches": 1,
-          "avg_corners_per_game": 5.33,
-          "aproveitamento": 33.3,
-          "over_2_5_goals": 1,
-          "over_0_5_ht": 1,
-          "over_0_5_ft": 2,
-          "clean_sheets": 1
-        },
-        "home": {
-          "played": 1,
-          "win": 0,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 2,
-            "against": 3
-          },
-          "form_home": "L",
-          "avg_corners_home_per_game": 12.0,
-          "aproveitamento_home": 0.0,
-          "btts_home_matches": 1,
-          "over_2_5_goals_home": 1,
-          "over_0_5_ht_home": 0,
-          "over_0_5_ft_home": 1,
-          "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 2,
-          "win": 1,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 2,
-            "against": 1
-          },
-          "form_visitor": "WL",
-          "btts_away_matches": 0,
-          "avg_corners_away_per_game": 2.0,
-          "aproveitamento_away": 50.0,
-          "over_2_5_goals_away": 0,
-          "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 1,
-          "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 22,
-        "team": {
           "id": 1089,
           "name": "Riga FC",
           "logo": "https://cdn.footystats.org/img/teams/latvia-riga-fc.png"
@@ -1498,7 +1430,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 23,
+        "rank": 22,
         "team": {
           "id": 104,
           "name": "FK Vardar Skopje",
@@ -1562,6 +1494,74 @@
           "over_0_5_ht_away": 0,
           "over_0_5_ft_away": 1,
           "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 23,
+        "team": {
+          "id": 411,
+          "name": "Kuopion Palloseura",
+          "logo": "https://cdn.footystats.org/img/teams/finland-kuopion-palloseura.png"
+        },
+        "points": 3,
+        "goalsDiff": -2,
+        "group": "Europe UEFA Champions League 20262027",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 4,
+          "win": 1,
+          "draw": 0,
+          "lose": 3,
+          "goals": {
+            "for": 4,
+            "against": 6
+          },
+          "form": "WLLL",
+          "btts_matches": 1,
+          "avg_corners_per_game": 6.0,
+          "aproveitamento": 25.0,
+          "over_2_5_goals": 1,
+          "over_0_5_ht": 1,
+          "over_0_5_ft": 2,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 2,
+          "win": 0,
+          "draw": 0,
+          "lose": 2,
+          "goals": {
+            "for": 2,
+            "against": 5
+          },
+          "form_home": "LL",
+          "avg_corners_home_per_game": 10.0,
+          "aproveitamento_home": 0.0,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 0,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 2,
+          "win": 1,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 2,
+            "against": 1
+          },
+          "form_visitor": "WL",
+          "btts_away_matches": 0,
+          "avg_corners_away_per_game": 2.0,
+          "aproveitamento_away": 50.0,
+          "over_2_5_goals_away": 0,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -3288,6 +3288,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/-jogador_42458.png"
       },
       {
+        "jogador-nome": "Veljko Simić",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 3,
+        "jogador-assists": 1,
+        "jogador-partidas": 4,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/azerbaijan-sabah-fk.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/serbia-veljko-simic.png"
+      },
+      {
         "jogador-nome": "Nikolaj Andreas Hansen",
         "jogador-posicao": "Forward",
         "jogador-gols": 3,
@@ -3295,15 +3304,6 @@
         "jogador-partidas": 3,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/iceland-vikingur-reykjavik.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/denmark-nikolaj-andreas-hansen.png"
-      },
-      {
-        "jogador-nome": "Veljko Simić",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 2,
-        "jogador-assists": 1,
-        "jogador-partidas": 3,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/azerbaijan-sabah-fk.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/serbia-veljko-simic.png"
       },
       {
         "jogador-nome": "Páll Klettskard",
@@ -3378,6 +3378,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/bosnia-and-herzegovina-mario-kvesic.png"
       },
       {
+        "jogador-nome": "Joy-Lance Mickels",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 2,
+        "jogador-assists": 0,
+        "jogador-partidas": 4,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/azerbaijan-sabah-fk.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/germany-joy-lance-mickels.png"
+      },
+      {
         "jogador-nome": "Enea Bitri",
         "jogador-posicao": "Defender",
         "jogador-gols": 2,
@@ -3400,7 +3409,7 @@
         "jogador-posicao": "Defender",
         "jogador-gols": 2,
         "jogador-assists": 0,
-        "jogador-partidas": 3,
+        "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/finland-kuopion-palloseura.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/ghana-bob-nii-armah.png"
       },
@@ -3439,15 +3448,6 @@
         "jogador-partidas": 3,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/kazakhstan-fk-kairat-almaty.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/kazakhstan-ismail-bekbolat.png"
-      },
-      {
-        "jogador-nome": "Dylan Billy Watts",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 1,
-        "jogador-assists": 2,
-        "jogador-partidas": 3,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/republic-of-ireland-shamrock-rovers-fc.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/republic-of-ireland-dylan-watts.png"
       }
     ]
   }
