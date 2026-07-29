@@ -140,6 +140,74 @@
       {
         "rank": 3,
         "team": {
+          "id": 3605,
+          "name": "PFC Levski Sofia",
+          "logo": "https://cdn.footystats.org/img/teams/bulgaria-pfc-levski-sofia.png"
+        },
+        "points": 8,
+        "goalsDiff": 5,
+        "group": "Europe UEFA Champions League 20262027",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 4,
+          "win": 2,
+          "draw": 2,
+          "lose": 0,
+          "goals": {
+            "for": 8,
+            "against": 3
+          },
+          "form": "DWWD",
+          "btts_matches": 2,
+          "avg_corners_per_game": 5.25,
+          "aproveitamento": 66.7,
+          "over_2_5_goals": 2,
+          "over_0_5_ht": 2,
+          "over_0_5_ft": 2,
+          "clean_sheets": 2
+        },
+        "home": {
+          "played": 2,
+          "win": 2,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 5,
+            "against": 0
+          },
+          "form_home": "WW",
+          "avg_corners_home_per_game": 5.0,
+          "aproveitamento_home": 100.0,
+          "btts_home_matches": 0,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 2,
+          "win": 0,
+          "draw": 2,
+          "lose": 0,
+          "goals": {
+            "for": 3,
+            "against": 3
+          },
+          "form_visitor": "DD",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 5.5,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 4,
+        "team": {
           "id": 1231,
           "name": "FK Kauno Žalgiris",
           "logo": "https://cdn.footystats.org/img/teams/lithuania-fk-kauno-zalgiris.png"
@@ -206,75 +274,75 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "team": {
-          "id": 3605,
-          "name": "PFC Levski Sofia",
-          "logo": "https://cdn.footystats.org/img/teams/bulgaria-pfc-levski-sofia.png"
+          "id": 12956,
+          "name": "CS Universitatea Craiova",
+          "logo": "https://cdn.footystats.org/img/teams/romania-cs-universitatea-craiova.png"
         },
         "points": 7,
-        "goalsDiff": 5,
+        "goalsDiff": 3,
         "group": "Europe UEFA Champions League 20262027",
         "status": "same",
-        "description": "Copa Libertadores",
+        "description": "Copa Sul-Americana",
         "all": {
-          "played": 3,
+          "played": 4,
           "win": 2,
           "draw": 1,
-          "lose": 0,
+          "lose": 1,
           "goals": {
-            "for": 6,
-            "against": 1
+            "for": 7,
+            "against": 4
           },
-          "form": "DWW",
-          "btts_matches": 1,
-          "avg_corners_per_game": 5.67,
-          "aproveitamento": 77.8,
-          "over_2_5_goals": 1,
-          "over_0_5_ht": 1,
-          "over_0_5_ft": 2,
-          "clean_sheets": 2
+          "form": "WWLD",
+          "btts_matches": 2,
+          "avg_corners_per_game": 6.5,
+          "aproveitamento": 58.3,
+          "over_2_5_goals": 2,
+          "over_0_5_ht": 2,
+          "over_0_5_ft": 3,
+          "clean_sheets": 1
         },
         "home": {
           "played": 2,
-          "win": 2,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 5,
-            "against": 0
-          },
-          "form_home": "WW",
-          "avg_corners_home_per_game": 5.0,
-          "aproveitamento_home": 100.0,
-          "btts_home_matches": 0,
-          "over_2_5_goals_home": 1,
-          "over_0_5_ht_home": 1,
-          "over_0_5_ft_home": 1,
-          "clean_sheets_home": 2
-        },
-        "away": {
-          "played": 1,
-          "win": 0,
+          "win": 1,
           "draw": 1,
           "lose": 0,
           "goals": {
-            "for": 1,
-            "against": 1
+            "for": 3,
+            "against": 2
           },
-          "form_visitor": "D",
+          "form_home": "WD",
+          "avg_corners_home_per_game": 8.5,
+          "aproveitamento_home": 66.7,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 2,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 2,
+          "win": 1,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 4,
+            "against": 2
+          },
+          "form_visitor": "WL",
           "btts_away_matches": 1,
-          "avg_corners_away_per_game": 7.0,
-          "aproveitamento_away": 33.3,
-          "over_2_5_goals_away": 0,
-          "over_0_5_ht_away": 0,
+          "avg_corners_away_per_game": 4.5,
+          "aproveitamento_away": 50.0,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 1,
           "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "team": {
           "id": 3810,
           "name": "Víkingur Reykjavík",
@@ -342,7 +410,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "team": {
           "id": 5404,
           "name": "KÍ Klaksvík",
@@ -352,7 +420,7 @@
         "goalsDiff": 1,
         "group": "Europe UEFA Champions League 20262027",
         "status": "same",
-        "description": "Copa Sul-Americana",
+        "description": "",
         "all": {
           "played": 4,
           "win": 2,
@@ -410,7 +478,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "team": {
           "id": 582,
           "name": "SK Sturm Graz",
@@ -474,74 +542,6 @@
           "over_0_5_ht_away": 0,
           "over_0_5_ft_away": 1,
           "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 8,
-        "team": {
-          "id": 12956,
-          "name": "CS Universitatea Craiova",
-          "logo": "https://cdn.footystats.org/img/teams/romania-cs-universitatea-craiova.png"
-        },
-        "points": 6,
-        "goalsDiff": 3,
-        "group": "Europe UEFA Champions League 20262027",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 3,
-          "win": 2,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 5,
-            "against": 2
-          },
-          "form": "WWL",
-          "btts_matches": 1,
-          "avg_corners_per_game": 5.67,
-          "aproveitamento": 66.7,
-          "over_2_5_goals": 1,
-          "over_0_5_ht": 1,
-          "over_0_5_ft": 2,
-          "clean_sheets": 1
-        },
-        "home": {
-          "played": 1,
-          "win": 1,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 1,
-            "against": 0
-          },
-          "form_home": "W",
-          "avg_corners_home_per_game": 8.0,
-          "aproveitamento_home": 100.0,
-          "btts_home_matches": 0,
-          "over_2_5_goals_home": 0,
-          "over_0_5_ht_home": 0,
-          "over_0_5_ft_home": 1,
-          "clean_sheets_home": 1
-        },
-        "away": {
-          "played": 2,
-          "win": 1,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 4,
-            "against": 2
-          },
-          "form_visitor": "WL",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 4.5,
-          "aproveitamento_away": 50.0,
-          "over_2_5_goals_away": 1,
-          "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 1,
-          "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -3364,7 +3364,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 2,
         "jogador-assists": 0,
-        "jogador-partidas": 3,
+        "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/bulgaria-pfc-levski-sofia.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-reinaldo-nascimento-satorno.png"
       },
@@ -3385,6 +3385,15 @@
         "jogador-partidas": 3,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/georgia-fc-saburtalo-tbilisi.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/georgia-nika-sikharulashvili.png"
+      },
+      {
+        "jogador-nome": "Nicușor Silviu Bancu",
+        "jogador-posicao": "Defender",
+        "jogador-gols": 2,
+        "jogador-assists": 0,
+        "jogador-partidas": 4,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/romania-cs-universitatea-craiova.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/romania-nicusor-silviu-bancu.png"
       },
       {
         "jogador-nome": "Joy-Lance Mickels",
@@ -3439,15 +3448,6 @@
         "jogador-partidas": 2,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/romania-cs-universitatea-craiova.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/sweden-assad-al-hamlawi.png"
-      },
-      {
-        "jogador-nome": "Armstrong Echezolachukwu Inya Oko-Flex",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 2,
-        "jogador-assists": 0,
-        "jogador-partidas": 3,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/bulgaria-pfc-levski-sofia.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/republic-of-ireland-armstrong-okoflex.png"
       }
     ]
   }
