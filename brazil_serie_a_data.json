@@ -144,28 +144,28 @@
           "name": "CA Paranaense",
           "logo": "https://cdn.footystats.org/img/teams/brazil-ca-paranaense.png"
         },
-        "points": 36,
+        "points": 37,
         "goalsDiff": 9,
         "group": "Brazil Serie A 2026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 20,
+          "played": 21,
           "win": 11,
-          "draw": 3,
+          "draw": 4,
           "lose": 6,
           "goals": {
             "for": 28,
             "against": 19
           },
-          "form": "DWWWW",
+          "form": "WWWWD",
           "btts_matches": 10,
-          "avg_corners_per_game": 4.95,
-          "aproveitamento": 60.0,
+          "avg_corners_per_game": 4.81,
+          "aproveitamento": 58.7,
           "over_2_5_goals": 9,
           "over_0_5_ht": 10,
           "over_0_5_ft": 12,
-          "clean_sheets": 6
+          "clean_sheets": 7
         },
         "home": {
           "played": 11,
@@ -186,22 +186,22 @@
           "clean_sheets_home": 5
         },
         "away": {
-          "played": 9,
+          "played": 10,
           "win": 3,
-          "draw": 1,
+          "draw": 2,
           "lose": 5,
           "goals": {
             "for": 9,
             "against": 13
           },
-          "form_visitor": "LLLWW",
+          "form_visitor": "LLWWD",
           "btts_away_matches": 5,
-          "avg_corners_away_per_game": 4.11,
-          "aproveitamento_away": 37.0,
+          "avg_corners_away_per_game": 3.9,
+          "aproveitamento_away": 36.7,
           "over_2_5_goals_away": 5,
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 5,
-          "clean_sheets_away": 1
+          "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -480,6 +480,74 @@
       {
         "rank": 8,
         "team": {
+          "id": 624,
+          "name": "SC Corinthians Paulista",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-sc-corinthians-paulista.png"
+        },
+        "points": 29,
+        "goalsDiff": 2,
+        "group": "Brazil Serie A 2026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 21,
+          "win": 7,
+          "draw": 8,
+          "lose": 6,
+          "goals": {
+            "for": 22,
+            "against": 20
+          },
+          "form": "WWWDD",
+          "btts_matches": 10,
+          "avg_corners_per_game": 4.57,
+          "aproveitamento": 46.0,
+          "over_2_5_goals": 7,
+          "over_0_5_ht": 10,
+          "over_0_5_ft": 7,
+          "clean_sheets": 9
+        },
+        "home": {
+          "played": 11,
+          "win": 5,
+          "draw": 3,
+          "lose": 3,
+          "goals": {
+            "for": 12,
+            "against": 8
+          },
+          "form_home": "WWWWD",
+          "avg_corners_home_per_game": 4.91,
+          "aproveitamento_home": 54.5,
+          "btts_home_matches": 3,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 6
+        },
+        "away": {
+          "played": 10,
+          "win": 2,
+          "draw": 5,
+          "lose": 3,
+          "goals": {
+            "for": 10,
+            "against": 12
+          },
+          "form_visitor": "DLLWD",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 4.2,
+          "aproveitamento_away": 36.7,
+          "over_2_5_goals_away": 4,
+          "over_0_5_ht_away": 5,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 9,
+        "team": {
           "id": 620,
           "name": "CA Mineiro",
           "logo": "https://cdn.footystats.org/img/teams/brazil-ca-mineiro.png"
@@ -542,74 +610,6 @@
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 4,
           "clean_sheets_away": 2
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 9,
-        "team": {
-          "id": 624,
-          "name": "SC Corinthians Paulista",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-sc-corinthians-paulista.png"
-        },
-        "points": 28,
-        "goalsDiff": 2,
-        "group": "Brazil Serie A 2026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 20,
-          "win": 7,
-          "draw": 7,
-          "lose": 6,
-          "goals": {
-            "for": 22,
-            "against": 20
-          },
-          "form": "LWWWD",
-          "btts_matches": 10,
-          "avg_corners_per_game": 4.5,
-          "aproveitamento": 46.7,
-          "over_2_5_goals": 7,
-          "over_0_5_ht": 10,
-          "over_0_5_ft": 7,
-          "clean_sheets": 8
-        },
-        "home": {
-          "played": 10,
-          "win": 5,
-          "draw": 2,
-          "lose": 3,
-          "goals": {
-            "for": 12,
-            "against": 8
-          },
-          "form_home": "DWWWW",
-          "avg_corners_home_per_game": 4.8,
-          "aproveitamento_home": 56.7,
-          "btts_home_matches": 3,
-          "over_2_5_goals_home": 3,
-          "over_0_5_ht_home": 5,
-          "over_0_5_ft_home": 3,
-          "clean_sheets_home": 5
-        },
-        "away": {
-          "played": 10,
-          "win": 2,
-          "draw": 5,
-          "lose": 3,
-          "goals": {
-            "for": 10,
-            "against": 12
-          },
-          "form_visitor": "DLLWD",
-          "btts_away_matches": 7,
-          "avg_corners_away_per_game": 4.2,
-          "aproveitamento_away": 36.7,
-          "over_2_5_goals_away": 4,
-          "over_0_5_ht_away": 5,
-          "over_0_5_ft_away": 4,
-          "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
