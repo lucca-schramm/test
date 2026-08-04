@@ -72,6 +72,74 @@
       {
         "rank": 2,
         "team": {
+          "id": 3605,
+          "name": "PFC Levski Sofia",
+          "logo": "https://cdn.footystats.org/img/teams/bulgaria-pfc-levski-sofia.png"
+        },
+        "points": 11,
+        "goalsDiff": 6,
+        "group": "Europe UEFA Champions League 20262027",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 5,
+          "win": 3,
+          "draw": 2,
+          "lose": 0,
+          "goals": {
+            "for": 9,
+            "against": 3
+          },
+          "form": "DWWDW",
+          "btts_matches": 2,
+          "avg_corners_per_game": 5.6,
+          "aproveitamento": 73.3,
+          "over_2_5_goals": 2,
+          "over_0_5_ht": 2,
+          "over_0_5_ft": 3,
+          "clean_sheets": 3
+        },
+        "home": {
+          "played": 3,
+          "win": 3,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 6,
+            "against": 0
+          },
+          "form_home": "WWW",
+          "avg_corners_home_per_game": 5.67,
+          "aproveitamento_home": 100.0,
+          "btts_home_matches": 0,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 2,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 2,
+          "win": 0,
+          "draw": 2,
+          "lose": 0,
+          "goals": {
+            "for": 3,
+            "against": 3
+          },
+          "form_visitor": "DD",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 5.5,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 3,
+        "team": {
           "id": 1362,
           "name": "FC Avan Academy",
           "logo": "https://cdn.footystats.org/img/teams/armenia-fc-avan-academy.png"
@@ -138,30 +206,30 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "team": {
           "id": 5408,
           "name": "FK Kairat Almaty",
           "logo": "https://cdn.footystats.org/img/teams/kazakhstan-fk-kairat-almaty.png"
         },
         "points": 9,
-        "goalsDiff": 3,
+        "goalsDiff": 2,
         "group": "Europe UEFA Champions League 20262027",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 4,
+          "played": 5,
           "win": 3,
           "draw": 0,
-          "lose": 1,
+          "lose": 2,
           "goals": {
             "for": 5,
-            "against": 2
+            "against": 3
           },
-          "form": "WWLW",
+          "form": "WWLWL",
           "btts_matches": 1,
-          "avg_corners_per_game": 8.0,
-          "aproveitamento": 75.0,
+          "avg_corners_per_game": 6.6,
+          "aproveitamento": 60.0,
           "over_2_5_goals": 1,
           "over_0_5_ht": 1,
           "over_0_5_ft": 2,
@@ -186,90 +254,22 @@
           "clean_sheets_home": 1
         },
         "away": {
-          "played": 2,
+          "played": 3,
           "win": 1,
           "draw": 0,
-          "lose": 1,
+          "lose": 2,
           "goals": {
             "for": 2,
-            "against": 1
+            "against": 2
           },
-          "form_visitor": "WL",
+          "form_visitor": "WLL",
           "btts_away_matches": 0,
-          "avg_corners_away_per_game": 7.0,
-          "aproveitamento_away": 50.0,
+          "avg_corners_away_per_game": 5.0,
+          "aproveitamento_away": 33.3,
           "over_2_5_goals_away": 0,
           "over_0_5_ht_away": 0,
           "over_0_5_ft_away": 1,
           "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 4,
-        "team": {
-          "id": 3605,
-          "name": "PFC Levski Sofia",
-          "logo": "https://cdn.footystats.org/img/teams/bulgaria-pfc-levski-sofia.png"
-        },
-        "points": 8,
-        "goalsDiff": 5,
-        "group": "Europe UEFA Champions League 20262027",
-        "status": "same",
-        "description": "Copa Libertadores",
-        "all": {
-          "played": 4,
-          "win": 2,
-          "draw": 2,
-          "lose": 0,
-          "goals": {
-            "for": 8,
-            "against": 3
-          },
-          "form": "DWWD",
-          "btts_matches": 2,
-          "avg_corners_per_game": 5.25,
-          "aproveitamento": 66.7,
-          "over_2_5_goals": 2,
-          "over_0_5_ht": 2,
-          "over_0_5_ft": 2,
-          "clean_sheets": 2
-        },
-        "home": {
-          "played": 2,
-          "win": 2,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 5,
-            "against": 0
-          },
-          "form_home": "WW",
-          "avg_corners_home_per_game": 5.0,
-          "aproveitamento_home": 100.0,
-          "btts_home_matches": 0,
-          "over_2_5_goals_home": 1,
-          "over_0_5_ht_home": 1,
-          "over_0_5_ft_home": 1,
-          "clean_sheets_home": 2
-        },
-        "away": {
-          "played": 2,
-          "win": 0,
-          "draw": 2,
-          "lose": 0,
-          "goals": {
-            "for": 3,
-            "against": 3
-          },
-          "form_visitor": "DD",
-          "btts_away_matches": 2,
-          "avg_corners_away_per_game": 5.5,
-          "aproveitamento_away": 33.3,
-          "over_2_5_goals_away": 1,
-          "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 1,
-          "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -621,23 +621,23 @@
           "logo": "https://cdn.footystats.org/img/teams/serbia-red-star-belgrade.png"
         },
         "points": 6,
-        "goalsDiff": 9,
+        "goalsDiff": 8,
         "group": "Europe UEFA Champions League 20262027",
         "status": "same",
         "description": "",
         "all": {
-          "played": 2,
+          "played": 3,
           "win": 2,
           "draw": 0,
-          "lose": 0,
+          "lose": 1,
           "goals": {
             "for": 9,
-            "against": 0
+            "against": 1
           },
-          "form": "WW",
+          "form": "WWL",
           "btts_matches": 0,
-          "avg_corners_per_game": 6.5,
-          "aproveitamento": 100.0,
+          "avg_corners_per_game": 7.0,
+          "aproveitamento": 66.7,
           "over_2_5_goals": 2,
           "over_0_5_ht": 2,
           "over_0_5_ft": 2,
@@ -662,18 +662,18 @@
           "clean_sheets_home": 1
         },
         "away": {
-          "played": 1,
+          "played": 2,
           "win": 1,
           "draw": 0,
-          "lose": 0,
+          "lose": 1,
           "goals": {
             "for": 4,
-            "against": 0
+            "against": 1
           },
-          "form_visitor": "W",
+          "form_visitor": "WL",
           "btts_away_matches": 0,
           "avg_corners_away_per_game": 8.0,
-          "aproveitamento_away": 100.0,
+          "aproveitamento_away": 50.0,
           "over_2_5_goals_away": 1,
           "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 1,
@@ -752,6 +752,74 @@
       {
         "rank": 12,
         "team": {
+          "id": 58,
+          "name": "Hapoel Be'er Sheva FC",
+          "logo": "https://cdn.footystats.org/img/teams/israel-hapoel-beer-sheva-fc.png"
+        },
+        "points": 6,
+        "goalsDiff": 2,
+        "group": "Europe UEFA Champions League 20262027",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 3,
+          "win": 2,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 4,
+            "against": 2
+          },
+          "form": "LWW",
+          "btts_matches": 1,
+          "avg_corners_per_game": 4.33,
+          "aproveitamento": 66.7,
+          "over_2_5_goals": 1,
+          "over_0_5_ht": 1,
+          "over_0_5_ft": 2,
+          "clean_sheets": 2
+        },
+        "home": {
+          "played": 2,
+          "win": 2,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 3,
+            "against": 0
+          },
+          "form_home": "WW",
+          "avg_corners_home_per_game": 6.0,
+          "aproveitamento_home": 100.0,
+          "btts_home_matches": 0,
+          "over_2_5_goals_home": 0,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 1,
+            "against": 2
+          },
+          "form_visitor": "L",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 1.0,
+          "aproveitamento_away": 0.0,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 13,
+        "team": {
           "id": 2056,
           "name": "Shamrock Rovers FC",
           "logo": "https://cdn.footystats.org/img/teams/republic-of-ireland-shamrock-rovers-fc.png"
@@ -818,7 +886,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "team": {
           "id": 2079,
           "name": "Larne FC",
@@ -886,7 +954,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 14,
+        "rank": 15,
         "team": {
           "id": 1789,
           "name": "KS Egnatia Rrogozhinë",
@@ -954,7 +1022,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 15,
+        "rank": 16,
         "team": {
           "id": 6498,
           "name": "FC Saburtalo Tbilisi",
@@ -1022,7 +1090,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 16,
+        "rank": 17,
         "team": {
           "id": 103,
           "name": "Lincoln Red Imps FC",
@@ -1032,7 +1100,7 @@
         "goalsDiff": -1,
         "group": "Europe UEFA Champions League 20262027",
         "status": "same",
-        "description": "",
+        "description": "Rebaixamento",
         "all": {
           "played": 4,
           "win": 1,
@@ -1090,7 +1158,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 17,
+        "rank": 18,
         "team": {
           "id": 671,
           "name": "Mjällby AIF",
@@ -1158,7 +1226,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 18,
+        "rank": 19,
         "team": {
           "id": 122,
           "name": "GNK Dinamo Zagreb",
@@ -1226,7 +1294,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 19,
+        "rank": 20,
         "team": {
           "id": 105,
           "name": "Fenerbahçe",
@@ -1289,74 +1357,6 @@
           "over_2_5_goals_away": 0,
           "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 0,
-          "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 20,
-        "team": {
-          "id": 58,
-          "name": "Hapoel Be'er Sheva FC",
-          "logo": "https://cdn.footystats.org/img/teams/israel-hapoel-beer-sheva-fc.png"
-        },
-        "points": 3,
-        "goalsDiff": 1,
-        "group": "Europe UEFA Champions League 20262027",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 2,
-          "win": 1,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 3,
-            "against": 2
-          },
-          "form": "LW",
-          "btts_matches": 1,
-          "avg_corners_per_game": 5.0,
-          "aproveitamento": 50.0,
-          "over_2_5_goals": 1,
-          "over_0_5_ht": 0,
-          "over_0_5_ft": 2,
-          "clean_sheets": 1
-        },
-        "home": {
-          "played": 1,
-          "win": 1,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 2,
-            "against": 0
-          },
-          "form_home": "W",
-          "avg_corners_home_per_game": 9.0,
-          "aproveitamento_home": 100.0,
-          "btts_home_matches": 0,
-          "over_2_5_goals_home": 0,
-          "over_0_5_ht_home": 0,
-          "over_0_5_ft_home": 1,
-          "clean_sheets_home": 1
-        },
-        "away": {
-          "played": 1,
-          "win": 0,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 1,
-            "against": 2
-          },
-          "form_visitor": "L",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 1.0,
-          "aproveitamento_away": 0.0,
-          "over_2_5_goals_away": 1,
-          "over_0_5_ht_away": 0,
-          "over_0_5_ft_away": 1,
           "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -3505,6 +3505,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/faroe-islands-aki-samuelsen.png"
       },
       {
+        "jogador-nome": "Zahi Ahmed",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 2,
+        "jogador-assists": 0,
+        "jogador-partidas": 3,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/israel-hapoel-beer-sheva-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/israel-zahi-ahmed.png"
+      },
+      {
         "jogador-nome": "Vykintas Slivka",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 2,
@@ -3527,7 +3536,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 2,
         "jogador-assists": 0,
-        "jogador-partidas": 4,
+        "jogador-partidas": 5,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/bulgaria-pfc-levski-sofia.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-reinaldo-nascimento-satorno.png"
       },
@@ -3554,7 +3563,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 2,
         "jogador-assists": 0,
-        "jogador-partidas": 2,
+        "jogador-partidas": 3,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/serbia-red-star-belgrade.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/austria-marko-arnautovic.png"
       },
@@ -3575,15 +3584,6 @@
         "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/albania-ks-egnatia-rrogozhine.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/albania-enea-bitri.png"
-      },
-      {
-        "jogador-nome": "Bruno Duarte da Silva",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 2,
-        "jogador-assists": 0,
-        "jogador-partidas": 1,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/serbia-red-star-belgrade.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-bruno-duarte-da-silva.png"
       }
     ]
   }
