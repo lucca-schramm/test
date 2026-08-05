@@ -9,26 +9,26 @@
           "logo": "https://cdn.footystats.org/img/teams/azerbaijan-sabah-fk.png"
         },
         "points": 12,
-        "goalsDiff": 6,
+        "goalsDiff": 5,
         "group": "Europe UEFA Champions League 20262027",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 4,
+          "played": 5,
           "win": 4,
           "draw": 0,
-          "lose": 0,
+          "lose": 1,
           "goals": {
-            "for": 7,
-            "against": 1
+            "for": 8,
+            "against": 3
           },
-          "form": "WWWW",
-          "btts_matches": 1,
-          "avg_corners_per_game": 6.25,
-          "aproveitamento": 100.0,
-          "over_2_5_goals": 1,
+          "form": "WWWWL",
+          "btts_matches": 2,
+          "avg_corners_per_game": 6.0,
+          "aproveitamento": 80.0,
+          "over_2_5_goals": 2,
           "over_0_5_ht": 2,
-          "over_0_5_ft": 2,
+          "over_0_5_ft": 3,
           "clean_sheets": 3
         },
         "home": {
@@ -50,21 +50,21 @@
           "clean_sheets_home": 2
         },
         "away": {
-          "played": 2,
+          "played": 3,
           "win": 2,
           "draw": 0,
-          "lose": 0,
+          "lose": 1,
           "goals": {
-            "for": 4,
-            "against": 1
+            "for": 5,
+            "against": 3
           },
-          "form_visitor": "WW",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 4.5,
-          "aproveitamento_away": 100.0,
-          "over_2_5_goals_away": 1,
+          "form_visitor": "WWL",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 4.67,
+          "aproveitamento_away": 66.7,
+          "over_2_5_goals_away": 2,
           "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 1,
+          "over_0_5_ft_away": 2,
           "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -888,6 +888,74 @@
       {
         "rank": 14,
         "team": {
+          "id": 2516,
+          "name": "Aarhus Gymnastikforening",
+          "logo": "https://cdn.footystats.org/img/teams/denmark-aarhus-gymnastikforening.png"
+        },
+        "points": 6,
+        "goalsDiff": 1,
+        "group": "Europe UEFA Champions League 20262027",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 3,
+          "win": 2,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 7,
+            "against": 6
+          },
+          "form": "LWW",
+          "btts_matches": 3,
+          "avg_corners_per_game": 4.33,
+          "aproveitamento": 66.7,
+          "over_2_5_goals": 3,
+          "over_0_5_ht": 2,
+          "over_0_5_ft": 3,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 2,
+          "win": 1,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 3,
+            "against": 5
+          },
+          "form_home": "LW",
+          "avg_corners_home_per_game": 5.0,
+          "aproveitamento_home": 50.0,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 2,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 1,
+          "win": 1,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 4,
+            "against": 1
+          },
+          "form_visitor": "W",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 3.0,
+          "aproveitamento_away": 100.0,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 15,
+        "team": {
           "id": 2056,
           "name": "Shamrock Rovers FC",
           "logo": "https://cdn.footystats.org/img/teams/republic-of-ireland-shamrock-rovers-fc.png"
@@ -954,7 +1022,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 15,
+        "rank": 16,
         "team": {
           "id": 2079,
           "name": "Larne FC",
@@ -1022,7 +1090,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 16,
+        "rank": 17,
         "team": {
           "id": 1789,
           "name": "KS Egnatia Rrogozhinë",
@@ -1032,7 +1100,7 @@
         "goalsDiff": 5,
         "group": "Europe UEFA Champions League 20262027",
         "status": "same",
-        "description": "",
+        "description": "Rebaixamento",
         "all": {
           "played": 4,
           "win": 1,
@@ -1090,7 +1158,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 17,
+        "rank": 18,
         "team": {
           "id": 6498,
           "name": "FC Saburtalo Tbilisi",
@@ -1158,7 +1226,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 18,
+        "rank": 19,
         "team": {
           "id": 103,
           "name": "Lincoln Red Imps FC",
@@ -1226,7 +1294,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 19,
+        "rank": 20,
         "team": {
           "id": 671,
           "name": "Mjällby AIF",
@@ -1294,7 +1362,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 20,
+        "rank": 21,
         "team": {
           "id": 105,
           "name": "Fenerbahçe",
@@ -1362,7 +1430,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 21,
+        "rank": 22,
         "team": {
           "id": 86,
           "name": "AC Sparta Praha",
@@ -1430,7 +1498,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 22,
+        "rank": 23,
         "team": {
           "id": 961,
           "name": "KKS Lech Poznań",
@@ -1489,74 +1557,6 @@
           "form_visitor": "W",
           "btts_away_matches": 1,
           "avg_corners_away_per_game": 2.0,
-          "aproveitamento_away": 100.0,
-          "over_2_5_goals_away": 1,
-          "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 1,
-          "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 23,
-        "team": {
-          "id": 2516,
-          "name": "Aarhus Gymnastikforening",
-          "logo": "https://cdn.footystats.org/img/teams/denmark-aarhus-gymnastikforening.png"
-        },
-        "points": 3,
-        "goalsDiff": 0,
-        "group": "Europe UEFA Champions League 20262027",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 2,
-          "win": 1,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 5,
-            "against": 5
-          },
-          "form": "LW",
-          "btts_matches": 2,
-          "avg_corners_per_game": 3.5,
-          "aproveitamento": 50.0,
-          "over_2_5_goals": 2,
-          "over_0_5_ht": 1,
-          "over_0_5_ft": 2,
-          "clean_sheets": 0
-        },
-        "home": {
-          "played": 1,
-          "win": 0,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 1,
-            "against": 4
-          },
-          "form_home": "L",
-          "avg_corners_home_per_game": 4.0,
-          "aproveitamento_home": 0.0,
-          "btts_home_matches": 1,
-          "over_2_5_goals_home": 1,
-          "over_0_5_ht_home": 0,
-          "over_0_5_ft_home": 1,
-          "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 1,
-          "win": 1,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 4,
-            "against": 1
-          },
-          "form_visitor": "W",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 3.0,
           "aproveitamento_away": 100.0,
           "over_2_5_goals_away": 1,
           "over_0_5_ht_away": 1,
@@ -3424,6 +3424,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/-jogador_42458.png"
       },
       {
+        "jogador-nome": "Veljko Simić",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 4,
+        "jogador-assists": 1,
+        "jogador-partidas": 5,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/azerbaijan-sabah-fk.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/serbia-veljko-simic.png"
+      },
+      {
         "jogador-nome": "Mario Kvesić",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 4,
@@ -3431,15 +3440,6 @@
         "jogador-partidas": 3,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/slovenia-nk-celje.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/bosnia-and-herzegovina-mario-kvesic.png"
-      },
-      {
-        "jogador-nome": "Veljko Simić",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 3,
-        "jogador-assists": 1,
-        "jogador-partidas": 4,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/azerbaijan-sabah-fk.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/serbia-veljko-simic.png"
       },
       {
         "jogador-nome": "Nikolaj Andreas Hansen",
@@ -3491,7 +3491,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 2,
         "jogador-assists": 1,
-        "jogador-partidas": 2,
+        "jogador-partidas": 3,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/denmark-aarhus-gymnastikforening.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/norway-kristian-arnstad.png"
       },
