@@ -344,6 +344,74 @@
       {
         "rank": 6,
         "team": {
+          "id": 78,
+          "name": "SL Benfica",
+          "logo": "https://cdn.footystats.org/img/teams/portugal-sl-benfica.png"
+        },
+        "points": 6,
+        "goalsDiff": 9,
+        "group": "Europe UEFA Europa League 20262027",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 3,
+          "win": 2,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 12,
+            "against": 3
+          },
+          "form": "LWW",
+          "btts_matches": 2,
+          "avg_corners_per_game": 6.67,
+          "aproveitamento": 66.7,
+          "over_2_5_goals": 3,
+          "over_0_5_ht": 3,
+          "over_0_5_ft": 2,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 2,
+          "win": 2,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 11,
+            "against": 1
+          },
+          "form_home": "WW",
+          "avg_corners_home_per_game": 7.5,
+          "aproveitamento_home": 100.0,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 2,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 1,
+            "against": 2
+          },
+          "form_visitor": "L",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 5.0,
+          "aproveitamento_away": 0.0,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 7,
+        "team": {
           "id": 956,
           "name": "Maccabi Tel Aviv FC",
           "logo": "https://cdn.footystats.org/img/teams/israel-maccabi-tel-aviv-fc.png"
@@ -352,7 +420,7 @@
         "goalsDiff": 3,
         "group": "Europe UEFA Europa League 20262027",
         "status": "same",
-        "description": "Copa Sul-Americana",
+        "description": "",
         "all": {
           "played": 3,
           "win": 2,
@@ -410,7 +478,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "team": {
           "id": 106,
           "name": "PAOK Thessaloniki FC",
@@ -478,7 +546,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "team": {
           "id": 2437,
           "name": "FC Hradec Králové",
@@ -546,7 +614,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "team": {
           "id": 1863,
           "name": "HNK Hajduk Split",
@@ -614,7 +682,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "team": {
           "id": 60,
           "name": "FK Sheriff Tiraspol",
@@ -678,74 +746,6 @@
           "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 0,
           "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 11,
-        "team": {
-          "id": 78,
-          "name": "SL Benfica",
-          "logo": "https://cdn.footystats.org/img/teams/portugal-sl-benfica.png"
-        },
-        "points": 3,
-        "goalsDiff": 4,
-        "group": "Europe UEFA Europa League 20262027",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 2,
-          "win": 1,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 6,
-            "against": 2
-          },
-          "form": "LW",
-          "btts_matches": 1,
-          "avg_corners_per_game": 7.0,
-          "aproveitamento": 50.0,
-          "over_2_5_goals": 2,
-          "over_0_5_ht": 2,
-          "over_0_5_ft": 1,
-          "clean_sheets": 1
-        },
-        "home": {
-          "played": 1,
-          "win": 1,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 5,
-            "against": 0
-          },
-          "form_home": "W",
-          "avg_corners_home_per_game": 9.0,
-          "aproveitamento_home": 100.0,
-          "btts_home_matches": 0,
-          "over_2_5_goals_home": 1,
-          "over_0_5_ht_home": 1,
-          "over_0_5_ft_home": 1,
-          "clean_sheets_home": 1
-        },
-        "away": {
-          "played": 1,
-          "win": 0,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 1,
-            "against": 2
-          },
-          "form_visitor": "L",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 5.0,
-          "aproveitamento_away": 0.0,
-          "over_2_5_goals_away": 1,
-          "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 0,
-          "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -820,74 +820,6 @@
       {
         "rank": 13,
         "team": {
-          "id": 3743,
-          "name": "Paphos FC",
-          "logo": "https://cdn.footystats.org/img/teams/cyprus-paphos-fc.png"
-        },
-        "points": 3,
-        "goalsDiff": 2,
-        "group": "Europe UEFA Europa League 20262027",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 2,
-          "win": 1,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 4,
-            "against": 2
-          },
-          "form": "LW",
-          "btts_matches": 0,
-          "avg_corners_per_game": 8.0,
-          "aproveitamento": 50.0,
-          "over_2_5_goals": 1,
-          "over_0_5_ht": 1,
-          "over_0_5_ft": 1,
-          "clean_sheets": 1
-        },
-        "home": {
-          "played": 1,
-          "win": 1,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 4,
-            "against": 0
-          },
-          "form_home": "W",
-          "avg_corners_home_per_game": 9.0,
-          "aproveitamento_home": 100.0,
-          "btts_home_matches": 0,
-          "over_2_5_goals_home": 1,
-          "over_0_5_ht_home": 1,
-          "over_0_5_ft_home": 1,
-          "clean_sheets_home": 1
-        },
-        "away": {
-          "played": 1,
-          "win": 0,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 0,
-            "against": 2
-          },
-          "form_visitor": "L",
-          "btts_away_matches": 0,
-          "avg_corners_away_per_game": 7.0,
-          "aproveitamento_away": 0.0,
-          "over_2_5_goals_away": 0,
-          "over_0_5_ht_away": 0,
-          "over_0_5_ft_away": 0,
-          "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 14,
-        "team": {
           "id": 2056,
           "name": "Shamrock Rovers FC",
           "logo": "https://cdn.footystats.org/img/teams/republic-of-ireland-shamrock-rovers-fc.png"
@@ -946,6 +878,74 @@
           "btts_away_matches": 0,
           "avg_corners_away_per_game": 0,
           "aproveitamento_away": 0,
+          "over_2_5_goals_away": 0,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 14,
+        "team": {
+          "id": 3743,
+          "name": "Paphos FC",
+          "logo": "https://cdn.footystats.org/img/teams/cyprus-paphos-fc.png"
+        },
+        "points": 3,
+        "goalsDiff": 1,
+        "group": "Europe UEFA Europa League 20262027",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 3,
+          "win": 1,
+          "draw": 0,
+          "lose": 2,
+          "goals": {
+            "for": 4,
+            "against": 3
+          },
+          "form": "LWL",
+          "btts_matches": 0,
+          "avg_corners_per_game": 5.33,
+          "aproveitamento": 33.3,
+          "over_2_5_goals": 1,
+          "over_0_5_ht": 1,
+          "over_0_5_ft": 1,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 1,
+          "win": 1,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 4,
+            "against": 0
+          },
+          "form_home": "W",
+          "avg_corners_home_per_game": 9.0,
+          "aproveitamento_home": 100.0,
+          "btts_home_matches": 0,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 2,
+          "win": 0,
+          "draw": 0,
+          "lose": 2,
+          "goals": {
+            "for": 0,
+            "against": 3
+          },
+          "form_visitor": "LL",
+          "btts_away_matches": 0,
+          "avg_corners_away_per_game": 3.5,
+          "aproveitamento_away": 0.0,
           "over_2_5_goals_away": 0,
           "over_0_5_ht_away": 0,
           "over_0_5_ft_away": 0,
@@ -1024,6 +1024,74 @@
       {
         "rank": 16,
         "team": {
+          "id": 100,
+          "name": "FC Salzburg",
+          "logo": "https://cdn.footystats.org/img/teams/austria-fc-salzburg.png"
+        },
+        "points": 3,
+        "goalsDiff": 1,
+        "group": "Europe UEFA Europa League 20262027",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 1,
+          "win": 1,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 1,
+            "against": 0
+          },
+          "form": "W",
+          "btts_matches": 0,
+          "avg_corners_per_game": 13.0,
+          "aproveitamento": 100.0,
+          "over_2_5_goals": 0,
+          "over_0_5_ht": 0,
+          "over_0_5_ft": 1,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 1,
+          "win": 1,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 1,
+            "against": 0
+          },
+          "form_home": "W",
+          "avg_corners_home_per_game": 13.0,
+          "aproveitamento_home": 100.0,
+          "btts_home_matches": 0,
+          "over_2_5_goals_home": 0,
+          "over_0_5_ht_home": 0,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 0,
+          "win": 0,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 0,
+            "against": 0
+          },
+          "form_visitor": "",
+          "btts_away_matches": 0,
+          "avg_corners_away_per_game": 0,
+          "aproveitamento_away": 0,
+          "over_2_5_goals_away": 0,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 17,
+        "team": {
           "id": 961,
           "name": "KKS Lech Poznań",
           "logo": "https://cdn.footystats.org/img/teams/poland-kks-lech-poznan.png"
@@ -1032,7 +1100,7 @@
         "goalsDiff": 1,
         "group": "Europe UEFA Europa League 20262027",
         "status": "same",
-        "description": "",
+        "description": "Rebaixamento",
         "all": {
           "played": 1,
           "win": 1,
@@ -1090,7 +1158,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 17,
+        "rank": 18,
         "team": {
           "id": 1217,
           "name": "MŠK Žilina",
@@ -1158,7 +1226,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 18,
+        "rank": 19,
         "team": {
           "id": 891,
           "name": "FC Sankt Gallen 1879",
@@ -1226,7 +1294,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 19,
+        "rank": 20,
         "team": {
           "id": 10306,
           "name": "FC Universitatea Cluj",
@@ -1294,7 +1362,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 20,
+        "rank": 21,
         "team": {
           "id": 123,
           "name": "FC Dynamo Kyiv",
@@ -1362,7 +1430,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 21,
+        "rank": 22,
         "team": {
           "id": 12956,
           "name": "CS Universitatea Craiova",
@@ -1430,7 +1498,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 22,
+        "rank": 23,
         "team": {
           "id": 411,
           "name": "Kuopion Palloseura",
@@ -1498,7 +1566,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 23,
+        "rank": 24,
         "team": {
           "id": 3741,
           "name": "AC Omonia Nicosia",
@@ -1566,7 +1634,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 24,
+        "rank": 25,
         "team": {
           "id": 103,
           "name": "Lincoln Red Imps FC",
@@ -1634,7 +1702,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 25,
+        "rank": 26,
         "team": {
           "id": 6498,
           "name": "FC Saburtalo Tbilisi",
@@ -1702,7 +1770,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 26,
+        "rank": 27,
         "team": {
           "id": 2079,
           "name": "Larne FC",
@@ -1770,7 +1838,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 27,
+        "rank": 28,
         "team": {
           "id": 375,
           "name": "FC Twente",
@@ -1838,7 +1906,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 28,
+        "rank": 29,
         "team": {
           "id": 1971,
           "name": "NK Aluminij",
@@ -1906,7 +1974,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 29,
+        "rank": 30,
         "team": {
           "id": 655,
           "name": "Hammarby IF",
@@ -1968,74 +2036,6 @@
           "aproveitamento_away": 0.0,
           "over_2_5_goals_away": 1,
           "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 0,
-          "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 30,
-        "team": {
-          "id": 32,
-          "name": "Heart of Midlothian FC",
-          "logo": "https://cdn.footystats.org/img/teams/scotland-heart-of-midlothian-fc.png"
-        },
-        "points": 0,
-        "goalsDiff": 0,
-        "group": "Europe UEFA Europa League 20262027",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 0,
-          "win": 0,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 0,
-            "against": 0
-          },
-          "form": "",
-          "btts_matches": 0,
-          "avg_corners_per_game": 0,
-          "aproveitamento": 0,
-          "over_2_5_goals": 0,
-          "over_0_5_ht": 0,
-          "over_0_5_ft": 0,
-          "clean_sheets": 0
-        },
-        "home": {
-          "played": 0,
-          "win": 0,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 0,
-            "against": 0
-          },
-          "form_home": "",
-          "avg_corners_home_per_game": 0,
-          "aproveitamento_home": 0,
-          "btts_home_matches": 0,
-          "over_2_5_goals_home": 0,
-          "over_0_5_ht_home": 0,
-          "over_0_5_ft_home": 0,
-          "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 0,
-          "win": 0,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 0,
-            "against": 0
-          },
-          "form_visitor": "",
-          "btts_away_matches": 0,
-          "avg_corners_away_per_game": 0,
-          "aproveitamento_away": 0,
-          "over_2_5_goals_away": 0,
-          "over_0_5_ht_away": 0,
           "over_0_5_ft_away": 0,
           "clean_sheets_away": 0
         },
@@ -2112,74 +2112,6 @@
       {
         "rank": 32,
         "team": {
-          "id": 100,
-          "name": "FC Salzburg",
-          "logo": "https://cdn.footystats.org/img/teams/austria-fc-salzburg.png"
-        },
-        "points": 0,
-        "goalsDiff": 0,
-        "group": "Europe UEFA Europa League 20262027",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 0,
-          "win": 0,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 0,
-            "against": 0
-          },
-          "form": "",
-          "btts_matches": 0,
-          "avg_corners_per_game": 0,
-          "aproveitamento": 0,
-          "over_2_5_goals": 0,
-          "over_0_5_ht": 0,
-          "over_0_5_ft": 0,
-          "clean_sheets": 0
-        },
-        "home": {
-          "played": 0,
-          "win": 0,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 0,
-            "against": 0
-          },
-          "form_home": "",
-          "avg_corners_home_per_game": 0,
-          "aproveitamento_home": 0,
-          "btts_home_matches": 0,
-          "over_2_5_goals_home": 0,
-          "over_0_5_ht_home": 0,
-          "over_0_5_ft_home": 0,
-          "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 0,
-          "win": 0,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 0,
-            "against": 0
-          },
-          "form_visitor": "",
-          "btts_away_matches": 0,
-          "avg_corners_away_per_game": 0,
-          "aproveitamento_away": 0,
-          "over_2_5_goals_away": 0,
-          "over_0_5_ht_away": 0,
-          "over_0_5_ft_away": 0,
-          "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 33,
-        "team": {
           "id": 1856285,
           "name": "Loser Match 8",
           "logo": "https://cdn.footystats.org/img/teams/international-loser-match-8.png"
@@ -2246,7 +2178,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 34,
+        "rank": 33,
         "team": {
           "id": 1856286,
           "name": "Loser Match 11",
@@ -2314,7 +2246,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 35,
+        "rank": 34,
         "team": {
           "id": 1856287,
           "name": "Loser Match 4",
@@ -2382,7 +2314,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 36,
+        "rank": 35,
         "team": {
           "id": 1856288,
           "name": "Loser Match 3",
@@ -2450,7 +2382,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 37,
+        "rank": 36,
         "team": {
           "id": 1856289,
           "name": "Loser Match 12",
@@ -2518,7 +2450,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 38,
+        "rank": 37,
         "team": {
           "id": 1856290,
           "name": "Loser Match 9",
@@ -2586,7 +2518,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 39,
+        "rank": 38,
         "team": {
           "id": 1856291,
           "name": "Loser Match 7",
@@ -2654,7 +2586,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 40,
+        "rank": 39,
         "team": {
           "id": 1856292,
           "name": "Loser Match 10",
@@ -2722,7 +2654,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 41,
+        "rank": 40,
         "team": {
           "id": 24,
           "name": "Rangers FC",
@@ -2790,7 +2722,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 42,
+        "rank": 41,
         "team": {
           "id": 785,
           "name": "KS Górnik Zabrze",
@@ -2858,7 +2790,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 43,
+        "rank": 42,
         "team": {
           "id": 5404,
           "name": "KÍ Klaksvík",
@@ -2926,7 +2858,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 44,
+        "rank": 43,
         "team": {
           "id": 2051,
           "name": "Derry City FC",
@@ -2994,7 +2926,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 45,
+        "rank": 44,
         "team": {
           "id": 1789,
           "name": "KS Egnatia Rrogozhinë",
@@ -3062,7 +2994,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 46,
+        "rank": 45,
         "team": {
           "id": 331,
           "name": "Tromsø IL",
@@ -3130,7 +3062,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 47,
+        "rank": 46,
         "team": {
           "id": 3810,
           "name": "Víkingur Reykjavík",
@@ -3198,7 +3130,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 48,
+        "rank": 47,
         "team": {
           "id": 955,
           "name": "FC Midtjylland",
@@ -3266,7 +3198,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 49,
+        "rank": 48,
         "team": {
           "id": 1933,
           "name": "FK Vojvodina Novi Sad",
@@ -3329,6 +3261,74 @@
           "over_2_5_goals_away": 1,
           "over_0_5_ht_away": 0,
           "over_0_5_ft_away": 0,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 49,
+        "team": {
+          "id": 32,
+          "name": "Heart of Midlothian FC",
+          "logo": "https://cdn.footystats.org/img/teams/scotland-heart-of-midlothian-fc.png"
+        },
+        "points": 0,
+        "goalsDiff": -5,
+        "group": "Europe UEFA Europa League 20262027",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 1,
+            "against": 6
+          },
+          "form": "L",
+          "btts_matches": 1,
+          "avg_corners_per_game": 2.0,
+          "aproveitamento": 0.0,
+          "over_2_5_goals": 1,
+          "over_0_5_ht": 0,
+          "over_0_5_ft": 1,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 0,
+          "win": 0,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 0,
+            "against": 0
+          },
+          "form_home": "",
+          "avg_corners_home_per_game": 0,
+          "aproveitamento_home": 0,
+          "btts_home_matches": 0,
+          "over_2_5_goals_home": 0,
+          "over_0_5_ht_home": 0,
+          "over_0_5_ft_home": 0,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 1,
+            "against": 6
+          },
+          "form_visitor": "L",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 2.0,
+          "aproveitamento_away": 0.0,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 1,
           "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -3408,9 +3408,9 @@
       {
         "jogador-nome": "Evangelos Pavlidis",
         "jogador-posicao": "Forward",
-        "jogador-gols": 4,
+        "jogador-gols": 5,
         "jogador-assists": 1,
-        "jogador-partidas": 2,
+        "jogador-partidas": 3,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/portugal-sl-benfica.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/greece-evangelos-pavlidis.png"
       },
@@ -3458,6 +3458,15 @@
         "jogador-partidas": 5,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/hungary-ferencvarosi-tc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/norway-kristoffer-zachariassen.png"
+      },
+      {
+        "jogador-nome": "Rafael Alexandre Fernandes Ferreira da Silva",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 2,
+        "jogador-assists": 1,
+        "jogador-partidas": 3,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/portugal-sl-benfica.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/portugal-rafa-silva.png"
       },
       {
         "jogador-nome": "Mick van Buren",
@@ -3523,15 +3532,6 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/croatia-roko-brajkovic.png"
       },
       {
-        "jogador-nome": "Rafael Alexandre Fernandes Ferreira da Silva",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 1,
-        "jogador-assists": 1,
-        "jogador-partidas": 2,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/portugal-sl-benfica.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/portugal-rafa-silva.png"
-      },
-      {
         "jogador-nome": "Paulos Abraham",
         "jogador-posicao": "Forward",
         "jogador-gols": 1,
@@ -3539,6 +3539,15 @@
         "jogador-partidas": 2,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/sweden-hammarby-if.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/sweden-paulos-abraham.png"
+      },
+      {
+        "jogador-nome": "Andreas Schjelderup",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 1,
+        "jogador-assists": 1,
+        "jogador-partidas": 2,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/portugal-sl-benfica.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/norway-andreas-schjelderup.png"
       },
       {
         "jogador-nome": "Ștefan Baiaram",
@@ -3575,15 +3584,6 @@
         "jogador-partidas": 2,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/belgium-rsc-anderlecht.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/belgium-tristan-degreef.png"
-      },
-      {
-        "jogador-nome": "Toon Raemaekers",
-        "jogador-posicao": "Defender",
-        "jogador-gols": 1,
-        "jogador-assists": 0,
-        "jogador-partidas": 5,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/hungary-ferencvarosi-tc.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/belgium-toon-raemaekers.png"
       }
     ]
   }
