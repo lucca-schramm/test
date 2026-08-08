@@ -145,44 +145,44 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-operario-ferroviario-ec.png"
         },
         "points": 35,
-        "goalsDiff": 3,
+        "goalsDiff": 1,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 20,
+          "played": 21,
           "win": 10,
           "draw": 5,
-          "lose": 5,
+          "lose": 6,
           "goals": {
-            "for": 28,
-            "against": 25
+            "for": 29,
+            "against": 28
           },
-          "form": "WWDWL",
-          "btts_matches": 11,
-          "avg_corners_per_game": 5.0,
-          "aproveitamento": 58.3,
-          "over_2_5_goals": 13,
+          "form": "WDWLL",
+          "btts_matches": 12,
+          "avg_corners_per_game": 5.1,
+          "aproveitamento": 55.6,
+          "over_2_5_goals": 14,
           "over_0_5_ht": 12,
-          "over_0_5_ft": 11,
+          "over_0_5_ft": 12,
           "clean_sheets": 8
         },
         "home": {
-          "played": 10,
+          "played": 11,
           "win": 6,
           "draw": 3,
-          "lose": 1,
+          "lose": 2,
           "goals": {
-            "for": 15,
-            "against": 11
+            "for": 16,
+            "against": 14
           },
-          "form_home": "DWWWW",
-          "avg_corners_home_per_game": 6.7,
-          "aproveitamento_home": 70.0,
-          "btts_home_matches": 5,
-          "over_2_5_goals_home": 5,
+          "form_home": "WWWWL",
+          "avg_corners_home_per_game": 6.73,
+          "aproveitamento_home": 63.6,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 6,
           "over_0_5_ht_home": 6,
-          "over_0_5_ft_home": 7,
+          "over_0_5_ft_home": 8,
           "clean_sheets_home": 5
         },
         "away": {
@@ -480,6 +480,74 @@
       {
         "rank": 8,
         "team": {
+          "id": 2677,
+          "name": "São Bernardo FC",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-sao-bernardo-fc.png"
+        },
+        "points": 30,
+        "goalsDiff": 7,
+        "group": "Brazil Serie B 2026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 21,
+          "win": 8,
+          "draw": 6,
+          "lose": 7,
+          "goals": {
+            "for": 31,
+            "against": 24
+          },
+          "form": "DDLLW",
+          "btts_matches": 13,
+          "avg_corners_per_game": 4.48,
+          "aproveitamento": 47.6,
+          "over_2_5_goals": 11,
+          "over_0_5_ht": 10,
+          "over_0_5_ft": 12,
+          "clean_sheets": 5
+        },
+        "home": {
+          "played": 11,
+          "win": 2,
+          "draw": 5,
+          "lose": 4,
+          "goals": {
+            "for": 13,
+            "against": 13
+          },
+          "form_home": "DLDDL",
+          "avg_corners_home_per_game": 5.18,
+          "aproveitamento_home": 33.3,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 6,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 10,
+          "win": 6,
+          "draw": 1,
+          "lose": 3,
+          "goals": {
+            "for": 18,
+            "against": 11
+          },
+          "form_visitor": "WLLLW",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 3.7,
+          "aproveitamento_away": 63.3,
+          "over_2_5_goals_away": 7,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 8,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 9,
+        "team": {
           "id": 694,
           "name": "Clube de Regatas Brasil",
           "logo": "https://cdn.footystats.org/img/teams/brazil-clube-de-regatas-brasil.png"
@@ -546,7 +614,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "team": {
           "id": 1056,
           "name": "Goiás EC",
@@ -614,7 +682,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "team": {
           "id": 614,
           "name": "SC do Recife",
@@ -682,7 +750,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 11,
+        "rank": 12,
         "team": {
           "id": 677199,
           "name": "Athletic Club (Minas Gerais)",
@@ -745,74 +813,6 @@
           "over_2_5_goals_away": 3,
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 5,
-          "clean_sheets_away": 2
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 12,
-        "team": {
-          "id": 2677,
-          "name": "São Bernardo FC",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-sao-bernardo-fc.png"
-        },
-        "points": 27,
-        "goalsDiff": 5,
-        "group": "Brazil Serie B 2026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 20,
-          "win": 7,
-          "draw": 6,
-          "lose": 7,
-          "goals": {
-            "for": 28,
-            "against": 23
-          },
-          "form": "LDDLL",
-          "btts_matches": 12,
-          "avg_corners_per_game": 4.55,
-          "aproveitamento": 45.0,
-          "over_2_5_goals": 10,
-          "over_0_5_ht": 9,
-          "over_0_5_ft": 11,
-          "clean_sheets": 5
-        },
-        "home": {
-          "played": 11,
-          "win": 2,
-          "draw": 5,
-          "lose": 4,
-          "goals": {
-            "for": 13,
-            "against": 13
-          },
-          "form_home": "DLDDL",
-          "avg_corners_home_per_game": 5.18,
-          "aproveitamento_home": 33.3,
-          "btts_home_matches": 6,
-          "over_2_5_goals_home": 4,
-          "over_0_5_ht_home": 6,
-          "over_0_5_ft_home": 4,
-          "clean_sheets_home": 3
-        },
-        "away": {
-          "played": 9,
-          "win": 5,
-          "draw": 1,
-          "lose": 3,
-          "goals": {
-            "for": 15,
-            "against": 10
-          },
-          "form_visitor": "WWLLL",
-          "btts_away_matches": 6,
-          "avg_corners_away_per_game": 3.78,
-          "aproveitamento_away": 59.3,
-          "over_2_5_goals_away": 6,
-          "over_0_5_ht_away": 3,
-          "over_0_5_ft_away": 7,
           "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1397,7 +1397,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 10,
         "jogador-assists": 1,
-        "jogador-partidas": 18,
+        "jogador-partidas": 19,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-operario-ferroviario-ec.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-gabriel-boschilia.png"
       },
