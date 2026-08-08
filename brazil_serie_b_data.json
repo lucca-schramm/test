@@ -888,6 +888,74 @@
       {
         "rank": 14,
         "team": {
+          "id": 642,
+          "name": "Ceará SC",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-ceara-sc.png"
+        },
+        "points": 25,
+        "goalsDiff": -3,
+        "group": "Brazil Serie B 2026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 21,
+          "win": 6,
+          "draw": 7,
+          "lose": 8,
+          "goals": {
+            "for": 22,
+            "against": 25
+          },
+          "form": "DDLWW",
+          "btts_matches": 10,
+          "avg_corners_per_game": 5.71,
+          "aproveitamento": 39.7,
+          "over_2_5_goals": 6,
+          "over_0_5_ht": 6,
+          "over_0_5_ft": 8,
+          "clean_sheets": 5
+        },
+        "home": {
+          "played": 11,
+          "win": 4,
+          "draw": 3,
+          "lose": 4,
+          "goals": {
+            "for": 12,
+            "against": 11
+          },
+          "form_home": "WLDLW",
+          "avg_corners_home_per_game": 6.0,
+          "aproveitamento_home": 45.5,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 10,
+          "win": 2,
+          "draw": 4,
+          "lose": 4,
+          "goals": {
+            "for": 10,
+            "against": 14
+          },
+          "form_visitor": "DLLDW",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 5.4,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 5,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 15,
+        "team": {
           "id": 2592,
           "name": "Cuiabá EC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-cuiaba-ec.png"
@@ -954,7 +1022,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 15,
+        "rank": 16,
         "team": {
           "id": 2598,
           "name": "Botafogo FC Ribeirão Preto",
@@ -1018,74 +1086,6 @@
           "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 4,
           "clean_sheets_away": 3
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 16,
-        "team": {
-          "id": 642,
-          "name": "Ceará SC",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-ceara-sc.png"
-        },
-        "points": 22,
-        "goalsDiff": -5,
-        "group": "Brazil Serie B 2026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 20,
-          "win": 5,
-          "draw": 7,
-          "lose": 8,
-          "goals": {
-            "for": 20,
-            "against": 25
-          },
-          "form": "LDDLW",
-          "btts_matches": 10,
-          "avg_corners_per_game": 5.85,
-          "aproveitamento": 36.7,
-          "over_2_5_goals": 6,
-          "over_0_5_ht": 5,
-          "over_0_5_ft": 7,
-          "clean_sheets": 4
-        },
-        "home": {
-          "played": 10,
-          "win": 3,
-          "draw": 3,
-          "lose": 4,
-          "goals": {
-            "for": 10,
-            "against": 11
-          },
-          "form_home": "LWLDL",
-          "avg_corners_home_per_game": 6.3,
-          "aproveitamento_home": 40.0,
-          "btts_home_matches": 5,
-          "over_2_5_goals_home": 4,
-          "over_0_5_ht_home": 4,
-          "over_0_5_ft_home": 2,
-          "clean_sheets_home": 2
-        },
-        "away": {
-          "played": 10,
-          "win": 2,
-          "draw": 4,
-          "lose": 4,
-          "goals": {
-            "for": 10,
-            "against": 14
-          },
-          "form_visitor": "DLLDW",
-          "btts_away_matches": 5,
-          "avg_corners_away_per_game": 5.4,
-          "aproveitamento_away": 33.3,
-          "over_2_5_goals_away": 2,
-          "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 5,
-          "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1301,23 +1301,23 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-associacao-atletica-ponte-preta.png"
         },
         "points": 9,
-        "goalsDiff": -24,
+        "goalsDiff": -26,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 20,
+          "played": 21,
           "win": 2,
           "draw": 3,
-          "lose": 15,
+          "lose": 16,
           "goals": {
             "for": 15,
-            "against": 39
+            "against": 41
           },
-          "form": "LLLLD",
+          "form": "LLLDL",
           "btts_matches": 11,
-          "avg_corners_per_game": 4.9,
-          "aproveitamento": 15.0,
+          "avg_corners_per_game": 4.76,
+          "aproveitamento": 14.3,
           "over_2_5_goals": 11,
           "over_0_5_ht": 9,
           "over_0_5_ft": 5,
@@ -1342,18 +1342,18 @@
           "clean_sheets_home": 2
         },
         "away": {
-          "played": 9,
+          "played": 10,
           "win": 1,
           "draw": 0,
-          "lose": 8,
+          "lose": 9,
           "goals": {
             "for": 7,
-            "against": 21
+            "against": 23
           },
           "form_visitor": "LLLLL",
           "btts_away_matches": 4,
-          "avg_corners_away_per_game": 4.22,
-          "aproveitamento_away": 11.1,
+          "avg_corners_away_per_game": 4.0,
+          "aproveitamento_away": 10.0,
           "over_2_5_goals_away": 6,
           "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 2,
