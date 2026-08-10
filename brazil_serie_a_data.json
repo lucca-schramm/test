@@ -72,6 +72,74 @@
       {
         "rank": 2,
         "team": {
+          "id": 612,
+          "name": "CR Flamengo",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-cr-flamengo.png"
+        },
+        "points": 42,
+        "goalsDiff": 21,
+        "group": "Brazil Serie A 2026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 21,
+          "win": 12,
+          "draw": 6,
+          "lose": 3,
+          "goals": {
+            "for": 39,
+            "against": 18
+          },
+          "form": "WWDDW",
+          "btts_matches": 10,
+          "avg_corners_per_game": 4.57,
+          "aproveitamento": 66.7,
+          "over_2_5_goals": 12,
+          "over_0_5_ht": 12,
+          "over_0_5_ft": 17,
+          "clean_sheets": 9
+        },
+        "home": {
+          "played": 10,
+          "win": 6,
+          "draw": 3,
+          "lose": 1,
+          "goals": {
+            "for": 19,
+            "against": 8
+          },
+          "form_home": "DLWDW",
+          "avg_corners_home_per_game": 5.5,
+          "aproveitamento_home": 70.0,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 6,
+          "over_0_5_ft_home": 9,
+          "clean_sheets_home": 5
+        },
+        "away": {
+          "played": 11,
+          "win": 6,
+          "draw": 3,
+          "lose": 2,
+          "goals": {
+            "for": 20,
+            "against": 10
+          },
+          "form_visitor": "WWDWD",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 3.73,
+          "aproveitamento_away": 63.6,
+          "over_2_5_goals_away": 7,
+          "over_0_5_ht_away": 6,
+          "over_0_5_ft_away": 8,
+          "clean_sheets_away": 4
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 3,
+        "team": {
           "id": 622,
           "name": "CA Paranaense",
           "logo": "https://cdn.footystats.org/img/teams/brazil-ca-paranaense.png"
@@ -134,74 +202,6 @@
           "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 5,
           "clean_sheets_away": 3
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 3,
-        "team": {
-          "id": 612,
-          "name": "CR Flamengo",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-cr-flamengo.png"
-        },
-        "points": 39,
-        "goalsDiff": 19,
-        "group": "Brazil Serie A 2026",
-        "status": "same",
-        "description": "Copa Libertadores",
-        "all": {
-          "played": 20,
-          "win": 11,
-          "draw": 6,
-          "lose": 3,
-          "goals": {
-            "for": 37,
-            "against": 18
-          },
-          "form": "LWWDD",
-          "btts_matches": 10,
-          "avg_corners_per_game": 4.4,
-          "aproveitamento": 65.0,
-          "over_2_5_goals": 12,
-          "over_0_5_ht": 11,
-          "over_0_5_ft": 16,
-          "clean_sheets": 8
-        },
-        "home": {
-          "played": 9,
-          "win": 5,
-          "draw": 3,
-          "lose": 1,
-          "goals": {
-            "for": 17,
-            "against": 8
-          },
-          "form_home": "WDLWD",
-          "avg_corners_home_per_game": 5.22,
-          "aproveitamento_home": 66.7,
-          "btts_home_matches": 4,
-          "over_2_5_goals_home": 5,
-          "over_0_5_ht_home": 5,
-          "over_0_5_ft_home": 8,
-          "clean_sheets_home": 4
-        },
-        "away": {
-          "played": 11,
-          "win": 6,
-          "draw": 3,
-          "lose": 2,
-          "goals": {
-            "for": 20,
-            "against": 10
-          },
-          "form_visitor": "WWDWD",
-          "btts_away_matches": 6,
-          "avg_corners_away_per_game": 3.73,
-          "aproveitamento_away": 63.6,
-          "over_2_5_goals_away": 7,
-          "over_0_5_ht_away": 6,
-          "over_0_5_ft_away": 8,
-          "clean_sheets_away": 4
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -825,23 +825,23 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-ec-vitoria.png"
         },
         "points": 26,
-        "goalsDiff": -9,
+        "goalsDiff": -11,
         "group": "Brazil Serie A 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 21,
+          "played": 22,
           "win": 7,
           "draw": 5,
-          "lose": 9,
+          "lose": 10,
           "goals": {
             "for": 22,
-            "against": 31
+            "against": 33
           },
-          "form": "LWDLL",
+          "form": "WDLLL",
           "btts_matches": 8,
-          "avg_corners_per_game": 4.19,
-          "aproveitamento": 41.3,
+          "avg_corners_per_game": 4.05,
+          "aproveitamento": 39.4,
           "over_2_5_goals": 8,
           "over_0_5_ht": 7,
           "over_0_5_ft": 11,
@@ -866,18 +866,18 @@
           "clean_sheets_home": 7
         },
         "away": {
-          "played": 11,
+          "played": 12,
           "win": 0,
           "draw": 4,
-          "lose": 7,
+          "lose": 8,
           "goals": {
             "for": 7,
-            "against": 24
+            "against": 26
           },
-          "form_visitor": "DLLDL",
+          "form_visitor": "LLDLL",
           "btts_away_matches": 6,
-          "avg_corners_away_per_game": 4.45,
-          "aproveitamento_away": 12.1,
+          "avg_corners_away_per_game": 4.17,
+          "aproveitamento_away": 11.1,
           "over_2_5_goals_away": 5,
           "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 4,
@@ -1379,7 +1379,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 12,
         "jogador-assists": 4,
-        "jogador-partidas": 20,
+        "jogador-partidas": 21,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-cr-flamengo.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-pedro-guilherme-abreu-dos-santos.png"
       },
@@ -1514,7 +1514,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 5,
         "jogador-assists": 7,
-        "jogador-partidas": 20,
+        "jogador-partidas": 21,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-cr-flamengo.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-samuel-lino.png"
       },
