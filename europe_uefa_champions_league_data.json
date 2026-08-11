@@ -276,6 +276,74 @@
       {
         "rank": 5,
         "team": {
+          "id": 105,
+          "name": "Fenerbahçe",
+          "logo": "https://cdn.footystats.org/img/teams/turkey-fenerbahce.png"
+        },
+        "points": 10,
+        "goalsDiff": 4,
+        "group": "Europe UEFA Champions League 20262027",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 4,
+          "win": 3,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 5,
+            "against": 1
+          },
+          "form": "WDWW",
+          "btts_matches": 1,
+          "avg_corners_per_game": 6.5,
+          "aproveitamento": 83.3,
+          "over_2_5_goals": 0,
+          "over_0_5_ht": 3,
+          "over_0_5_ft": 1,
+          "clean_sheets": 3
+        },
+        "home": {
+          "played": 2,
+          "win": 2,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 3,
+            "against": 0
+          },
+          "form_home": "WW",
+          "avg_corners_home_per_game": 6.5,
+          "aproveitamento_home": 100.0,
+          "btts_home_matches": 0,
+          "over_2_5_goals_home": 0,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 0,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 2,
+          "win": 1,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 2,
+            "against": 1
+          },
+          "form_visitor": "DW",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 6.5,
+          "aproveitamento_away": 66.7,
+          "over_2_5_goals_away": 0,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 6,
+        "team": {
           "id": 58,
           "name": "Hapoel Be'er Sheva FC",
           "logo": "https://cdn.footystats.org/img/teams/israel-hapoel-beer-sheva-fc.png"
@@ -342,7 +410,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "team": {
           "id": 1362,
           "name": "FC Avan Academy",
@@ -352,7 +420,7 @@
         "goalsDiff": 1,
         "group": "Europe UEFA Champions League 20262027",
         "status": "same",
-        "description": "Copa Sul-Americana",
+        "description": "",
         "all": {
           "played": 6,
           "win": 3,
@@ -410,7 +478,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "team": {
           "id": 5408,
           "name": "FK Kairat Almaty",
@@ -478,7 +546,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "team": {
           "id": 1231,
           "name": "FK Kauno Žalgiris",
@@ -546,7 +614,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "team": {
           "id": 12956,
           "name": "CS Universitatea Craiova",
@@ -609,74 +677,6 @@
           "over_2_5_goals_away": 1,
           "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 1,
-          "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 10,
-        "team": {
-          "id": 105,
-          "name": "Fenerbahçe",
-          "logo": "https://cdn.footystats.org/img/teams/turkey-fenerbahce.png"
-        },
-        "points": 7,
-        "goalsDiff": 3,
-        "group": "Europe UEFA Champions League 20262027",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 3,
-          "win": 2,
-          "draw": 1,
-          "lose": 0,
-          "goals": {
-            "for": 4,
-            "against": 1
-          },
-          "form": "WDW",
-          "btts_matches": 1,
-          "avg_corners_per_game": 6.67,
-          "aproveitamento": 77.8,
-          "over_2_5_goals": 0,
-          "over_0_5_ht": 3,
-          "over_0_5_ft": 0,
-          "clean_sheets": 2
-        },
-        "home": {
-          "played": 2,
-          "win": 2,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 3,
-            "against": 0
-          },
-          "form_home": "WW",
-          "avg_corners_home_per_game": 6.5,
-          "aproveitamento_home": 100.0,
-          "btts_home_matches": 0,
-          "over_2_5_goals_home": 0,
-          "over_0_5_ht_home": 2,
-          "over_0_5_ft_home": 0,
-          "clean_sheets_home": 2
-        },
-        "away": {
-          "played": 1,
-          "win": 0,
-          "draw": 1,
-          "lose": 0,
-          "goals": {
-            "for": 1,
-            "against": 1
-          },
-          "form_visitor": "D",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 7.0,
-          "aproveitamento_away": 33.3,
-          "over_2_5_goals_away": 0,
-          "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 0,
           "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -893,40 +893,40 @@
           "logo": "https://cdn.footystats.org/img/teams/austria-sk-sturm-graz.png"
         },
         "points": 6,
-        "goalsDiff": 4,
+        "goalsDiff": 3,
         "group": "Europe UEFA Champions League 20262027",
         "status": "same",
         "description": "",
         "all": {
-          "played": 3,
+          "played": 4,
           "win": 2,
           "draw": 0,
-          "lose": 1,
+          "lose": 2,
           "goals": {
             "for": 6,
-            "against": 2
+            "against": 3
           },
-          "form": "WWL",
+          "form": "WWLL",
           "btts_matches": 0,
-          "avg_corners_per_game": 2.67,
-          "aproveitamento": 66.7,
+          "avg_corners_per_game": 3.75,
+          "aproveitamento": 50.0,
           "over_2_5_goals": 1,
           "over_0_5_ht": 1,
           "over_0_5_ft": 2,
           "clean_sheets": 2
         },
         "home": {
-          "played": 1,
+          "played": 2,
           "win": 1,
           "draw": 0,
-          "lose": 0,
+          "lose": 1,
           "goals": {
             "for": 4,
-            "against": 0
+            "against": 1
           },
-          "form_home": "W",
-          "avg_corners_home_per_game": 4.0,
-          "aproveitamento_home": 100.0,
+          "form_home": "WL",
+          "avg_corners_home_per_game": 5.5,
+          "aproveitamento_home": 50.0,
           "btts_home_matches": 0,
           "over_2_5_goals_home": 1,
           "over_0_5_ht_home": 1,
@@ -3442,6 +3442,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/bosnia-and-herzegovina-mario-kvesic.png"
       },
       {
+        "jogador-nome": "Anderson Souza Conceição",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 4,
+        "jogador-assists": 0,
+        "jogador-partidas": 4,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/turkey-fenerbahce.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-anderson-souza-conceicao.png"
+      },
+      {
         "jogador-nome": "Joy-Lance Mickels",
         "jogador-posicao": "Forward",
         "jogador-gols": 3,
@@ -3485,15 +3494,6 @@
         "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/croatia-gnk-dinamo-zagreb.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/croatia-lukas-kacavenda.png"
-      },
-      {
-        "jogador-nome": "Anderson Souza Conceição",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 3,
-        "jogador-assists": 0,
-        "jogador-partidas": 3,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/turkey-fenerbahce.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-anderson-souza-conceicao.png"
       },
       {
         "jogador-nome": "Carlos Henrique França Freires",
