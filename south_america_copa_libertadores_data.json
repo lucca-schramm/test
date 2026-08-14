@@ -552,27 +552,27 @@
           "name": "Liga Deportiva Universitaria de Quito",
           "logo": "https://cdn.footystats.org/img/teams/ecuador-liga-deportiva-universitaria-de-quito.png"
         },
-        "points": 12,
+        "points": 13,
         "goalsDiff": 3,
         "group": "South America Copa Libertadores 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 6,
+          "played": 7,
           "win": 4,
-          "draw": 0,
+          "draw": 1,
           "lose": 2,
           "goals": {
-            "for": 8,
-            "against": 5
+            "for": 9,
+            "against": 6
           },
-          "form": "WLLWW",
-          "btts_matches": 1,
-          "avg_corners_per_game": 3.5,
-          "aproveitamento": 66.7,
+          "form": "LLWWD",
+          "btts_matches": 2,
+          "avg_corners_per_game": 3.71,
+          "aproveitamento": 61.9,
           "over_2_5_goals": 1,
           "over_0_5_ht": 2,
-          "over_0_5_ft": 3,
+          "over_0_5_ft": 4,
           "clean_sheets": 3
         },
         "home": {
@@ -594,21 +594,21 @@
           "clean_sheets_home": 2
         },
         "away": {
-          "played": 3,
+          "played": 4,
           "win": 1,
-          "draw": 0,
+          "draw": 1,
           "lose": 2,
           "goals": {
-            "for": 1,
-            "against": 3
+            "for": 2,
+            "against": 4
           },
-          "form_visitor": "WLL",
-          "btts_away_matches": 0,
-          "avg_corners_away_per_game": 2.67,
+          "form_visitor": "WLLD",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 3.25,
           "aproveitamento_away": 33.3,
           "over_2_5_goals_away": 0,
           "over_0_5_ht_away": 0,
-          "over_0_5_ft_away": 1,
+          "over_0_5_ft_away": 2,
           "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -620,44 +620,44 @@
           "name": "Mirassol Futebol Clube",
           "logo": "https://cdn.footystats.org/img/teams/brazil-mirassol-futebol-clube.png"
         },
-        "points": 12,
+        "points": 13,
         "goalsDiff": 3,
         "group": "South America Copa Libertadores 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 6,
+          "played": 7,
           "win": 4,
-          "draw": 0,
+          "draw": 1,
           "lose": 2,
           "goals": {
-            "for": 7,
-            "against": 4
+            "for": 8,
+            "against": 5
           },
-          "form": "LWWWL",
-          "btts_matches": 1,
-          "avg_corners_per_game": 4.17,
-          "aproveitamento": 66.7,
+          "form": "WWWLD",
+          "btts_matches": 2,
+          "avg_corners_per_game": 4.57,
+          "aproveitamento": 61.9,
           "over_2_5_goals": 1,
-          "over_0_5_ht": 2,
+          "over_0_5_ht": 3,
           "over_0_5_ft": 4,
           "clean_sheets": 3
         },
         "home": {
-          "played": 3,
+          "played": 4,
           "win": 3,
-          "draw": 0,
+          "draw": 1,
           "lose": 0,
           "goals": {
-            "for": 5,
-            "against": 0
+            "for": 6,
+            "against": 1
           },
-          "form_home": "WWW",
-          "avg_corners_home_per_game": 6.33,
-          "aproveitamento_home": 100.0,
-          "btts_home_matches": 0,
+          "form_home": "WWWD",
+          "avg_corners_home_per_game": 6.5,
+          "aproveitamento_home": 83.3,
+          "btts_home_matches": 1,
           "over_2_5_goals_home": 0,
-          "over_0_5_ht_home": 1,
+          "over_0_5_ht_home": 2,
           "over_0_5_ft_home": 3,
           "clean_sheets_home": 3
         },
