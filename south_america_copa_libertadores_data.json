@@ -208,6 +208,74 @@
       {
         "rank": 4,
         "team": {
+          "id": 710,
+          "name": "CA Rosario Central",
+          "logo": "https://cdn.footystats.org/img/teams/argentina-ca-rosario-central.png"
+        },
+        "points": 14,
+        "goalsDiff": 8,
+        "group": "South America Copa Libertadores 2026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 7,
+          "win": 4,
+          "draw": 2,
+          "lose": 1,
+          "goals": {
+            "for": 9,
+            "against": 1
+          },
+          "form": "WWWLD",
+          "btts_matches": 0,
+          "avg_corners_per_game": 6.14,
+          "aproveitamento": 66.7,
+          "over_2_5_goals": 2,
+          "over_0_5_ht": 2,
+          "over_0_5_ft": 4,
+          "clean_sheets": 6
+        },
+        "home": {
+          "played": 4,
+          "win": 2,
+          "draw": 2,
+          "lose": 0,
+          "goals": {
+            "for": 5,
+            "against": 0
+          },
+          "form_home": "DWWD",
+          "avg_corners_home_per_game": 7.5,
+          "aproveitamento_home": 66.7,
+          "btts_home_matches": 0,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 2,
+          "clean_sheets_home": 4
+        },
+        "away": {
+          "played": 3,
+          "win": 2,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 4,
+            "against": 1
+          },
+          "form_visitor": "WWL",
+          "btts_away_matches": 0,
+          "avg_corners_away_per_game": 4.33,
+          "aproveitamento_away": 66.7,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 5,
+        "team": {
           "id": 2194,
           "name": "CD Universidad Católica",
           "logo": "https://cdn.footystats.org/img/teams/chile-cd-universidad-catolica.png"
@@ -216,7 +284,7 @@
         "goalsDiff": 4,
         "group": "South America Copa Libertadores 2026",
         "status": "same",
-        "description": "Copa Libertadores",
+        "description": "Copa Sul-Americana",
         "all": {
           "played": 7,
           "win": 4,
@@ -274,7 +342,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "team": {
           "id": 6675,
           "name": "Club Cerro Porteño",
@@ -342,7 +410,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "team": {
           "id": 2140,
           "name": "Club Deportes Tolima SA",
@@ -352,7 +420,7 @@
         "goalsDiff": 2,
         "group": "South America Copa Libertadores 2026",
         "status": "same",
-        "description": "Copa Sul-Americana",
+        "description": "",
         "all": {
           "played": 10,
           "win": 4,
@@ -404,74 +472,6 @@
           "aproveitamento_away": 26.7,
           "over_2_5_goals_away": 2,
           "over_0_5_ht_away": 0,
-          "over_0_5_ft_away": 2,
-          "clean_sheets_away": 2
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 7,
-        "team": {
-          "id": 710,
-          "name": "CA Rosario Central",
-          "logo": "https://cdn.footystats.org/img/teams/argentina-ca-rosario-central.png"
-        },
-        "points": 13,
-        "goalsDiff": 8,
-        "group": "South America Copa Libertadores 2026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 6,
-          "win": 4,
-          "draw": 1,
-          "lose": 1,
-          "goals": {
-            "for": 9,
-            "against": 1
-          },
-          "form": "WWWWL",
-          "btts_matches": 0,
-          "avg_corners_per_game": 5.17,
-          "aproveitamento": 72.2,
-          "over_2_5_goals": 2,
-          "over_0_5_ht": 2,
-          "over_0_5_ft": 4,
-          "clean_sheets": 5
-        },
-        "home": {
-          "played": 3,
-          "win": 2,
-          "draw": 1,
-          "lose": 0,
-          "goals": {
-            "for": 5,
-            "against": 0
-          },
-          "form_home": "DWW",
-          "avg_corners_home_per_game": 6.0,
-          "aproveitamento_home": 77.8,
-          "btts_home_matches": 0,
-          "over_2_5_goals_home": 1,
-          "over_0_5_ht_home": 1,
-          "over_0_5_ft_home": 2,
-          "clean_sheets_home": 3
-        },
-        "away": {
-          "played": 3,
-          "win": 2,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 4,
-            "against": 1
-          },
-          "form_visitor": "WWL",
-          "btts_away_matches": 0,
-          "avg_corners_away_per_game": 4.33,
-          "aproveitamento_away": 66.7,
-          "over_2_5_goals_away": 1,
-          "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 2,
           "clean_sheets_away": 2
         },
@@ -824,28 +824,28 @@
           "name": "SC Corinthians Paulista",
           "logo": "https://cdn.footystats.org/img/teams/brazil-sc-corinthians-paulista.png"
         },
-        "points": 11,
+        "points": 12,
         "goalsDiff": 4,
         "group": "South America Copa Libertadores 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 6,
+          "played": 7,
           "win": 3,
-          "draw": 2,
+          "draw": 3,
           "lose": 1,
           "goals": {
             "for": 8,
             "against": 4
           },
-          "form": "WWDDL",
+          "form": "WDDLD",
           "btts_matches": 2,
-          "avg_corners_per_game": 5.0,
-          "aproveitamento": 61.1,
+          "avg_corners_per_game": 4.29,
+          "aproveitamento": 57.1,
           "over_2_5_goals": 0,
           "over_0_5_ht": 1,
           "over_0_5_ft": 4,
-          "clean_sheets": 3
+          "clean_sheets": 4
         },
         "home": {
           "played": 3,
@@ -866,22 +866,22 @@
           "clean_sheets_home": 2
         },
         "away": {
-          "played": 3,
+          "played": 4,
           "win": 1,
-          "draw": 2,
+          "draw": 3,
           "lose": 0,
           "goals": {
             "for": 4,
             "against": 2
           },
-          "form_visitor": "WDD",
+          "form_visitor": "WDDD",
           "btts_away_matches": 2,
-          "avg_corners_away_per_game": 4.0,
-          "aproveitamento_away": 55.6,
+          "avg_corners_away_per_game": 3.0,
+          "aproveitamento_away": 50.0,
           "over_2_5_goals_away": 0,
           "over_0_5_ht_away": 0,
           "over_0_5_ft_away": 3,
-          "clean_sheets_away": 1
+          "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -3314,7 +3314,7 @@
         "jogador-posicao": "Defender",
         "jogador-gols": 3,
         "jogador-assists": 1,
-        "jogador-partidas": 6,
+        "jogador-partidas": 7,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-sc-corinthians-paulista.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-gustavo-henrique.png"
       },
