@@ -8,46 +8,46 @@
           "name": "Criciuma EC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-criciuma-ec.png"
         },
-        "points": 40,
-        "goalsDiff": 9,
+        "points": 43,
+        "goalsDiff": 10,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 21,
-          "win": 11,
+          "played": 22,
+          "win": 12,
           "draw": 7,
           "lose": 3,
           "goals": {
-            "for": 23,
+            "for": 24,
             "against": 14
           },
-          "form": "WWWDL",
+          "form": "WWDLW",
           "btts_matches": 9,
-          "avg_corners_per_game": 6.48,
-          "aproveitamento": 63.5,
+          "avg_corners_per_game": 6.59,
+          "aproveitamento": 65.2,
           "over_2_5_goals": 4,
-          "over_0_5_ht": 11,
+          "over_0_5_ht": 12,
           "over_0_5_ft": 11,
-          "clean_sheets": 10
+          "clean_sheets": 11
         },
         "home": {
-          "played": 10,
-          "win": 6,
+          "played": 11,
+          "win": 7,
           "draw": 4,
           "lose": 0,
           "goals": {
-            "for": 12,
+            "for": 13,
             "against": 4
           },
-          "form_home": "DWWWD",
-          "avg_corners_home_per_game": 6.6,
-          "aproveitamento_home": 73.3,
+          "form_home": "WWWDW",
+          "avg_corners_home_per_game": 6.82,
+          "aproveitamento_home": 75.8,
           "btts_home_matches": 4,
           "over_2_5_goals_home": 1,
-          "over_0_5_ht_home": 6,
+          "over_0_5_ht_home": 7,
           "over_0_5_ft_home": 5,
-          "clean_sheets_home": 6
+          "clean_sheets_home": 7
         },
         "away": {
           "played": 11,
@@ -140,6 +140,74 @@
       {
         "rank": 3,
         "team": {
+          "id": 645,
+          "name": "Vila Nova FC",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-vila-nova-fc.png"
+        },
+        "points": 37,
+        "goalsDiff": 4,
+        "group": "Brazil Serie B 2026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 22,
+          "win": 11,
+          "draw": 4,
+          "lose": 7,
+          "goals": {
+            "for": 29,
+            "against": 25
+          },
+          "form": "LWLLW",
+          "btts_matches": 11,
+          "avg_corners_per_game": 4.91,
+          "aproveitamento": 56.1,
+          "over_2_5_goals": 9,
+          "over_0_5_ht": 10,
+          "over_0_5_ft": 10,
+          "clean_sheets": 5
+        },
+        "home": {
+          "played": 10,
+          "win": 7,
+          "draw": 2,
+          "lose": 1,
+          "goals": {
+            "for": 18,
+            "against": 11
+          },
+          "form_home": "WWWWL",
+          "avg_corners_home_per_game": 6.1,
+          "aproveitamento_home": 76.7,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 6,
+          "over_0_5_ft_home": 5,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 12,
+          "win": 4,
+          "draw": 2,
+          "lose": 6,
+          "goals": {
+            "for": 11,
+            "against": 14
+          },
+          "form_visitor": "LLLLW",
+          "btts_away_matches": 4,
+          "avg_corners_away_per_game": 3.92,
+          "aproveitamento_away": 38.9,
+          "over_2_5_goals_away": 3,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 5,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 4,
+        "team": {
           "id": 2601,
           "name": "Fortaleza EC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-fortaleza-ec.png"
@@ -206,7 +274,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "team": {
           "id": 2662,
           "name": "Operário Ferroviário EC",
@@ -216,7 +284,7 @@
         "goalsDiff": 1,
         "group": "Brazil Serie B 2026",
         "status": "same",
-        "description": "Copa Libertadores",
+        "description": "Copa Sul-Americana",
         "all": {
           "played": 21,
           "win": 10,
@@ -274,7 +342,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "team": {
           "id": 614,
           "name": "SC do Recife",
@@ -338,74 +406,6 @@
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 4,
           "clean_sheets_away": 5
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 6,
-        "team": {
-          "id": 645,
-          "name": "Vila Nova FC",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-vila-nova-fc.png"
-        },
-        "points": 34,
-        "goalsDiff": 2,
-        "group": "Brazil Serie B 2026",
-        "status": "same",
-        "description": "Copa Sul-Americana",
-        "all": {
-          "played": 21,
-          "win": 10,
-          "draw": 4,
-          "lose": 7,
-          "goals": {
-            "for": 27,
-            "against": 25
-          },
-          "form": "LLWLL",
-          "btts_matches": 11,
-          "avg_corners_per_game": 5.0,
-          "aproveitamento": 54.0,
-          "over_2_5_goals": 9,
-          "over_0_5_ht": 9,
-          "over_0_5_ft": 9,
-          "clean_sheets": 4
-        },
-        "home": {
-          "played": 10,
-          "win": 7,
-          "draw": 2,
-          "lose": 1,
-          "goals": {
-            "for": 18,
-            "against": 11
-          },
-          "form_home": "WWWWL",
-          "avg_corners_home_per_game": 6.1,
-          "aproveitamento_home": 76.7,
-          "btts_home_matches": 7,
-          "over_2_5_goals_home": 6,
-          "over_0_5_ht_home": 6,
-          "over_0_5_ft_home": 5,
-          "clean_sheets_home": 2
-        },
-        "away": {
-          "played": 11,
-          "win": 3,
-          "draw": 2,
-          "lose": 6,
-          "goals": {
-            "for": 9,
-            "against": 14
-          },
-          "form_visitor": "LLLLL",
-          "btts_away_matches": 4,
-          "avg_corners_away_per_game": 4.0,
-          "aproveitamento_away": 33.3,
-          "over_2_5_goals_away": 3,
-          "over_0_5_ht_away": 3,
-          "over_0_5_ft_away": 4,
-          "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -553,23 +553,23 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-goias-ec.png"
         },
         "points": 32,
-        "goalsDiff": -4,
+        "goalsDiff": -5,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 21,
+          "played": 22,
           "win": 9,
           "draw": 5,
-          "lose": 7,
+          "lose": 8,
           "goals": {
             "for": 22,
-            "against": 26
+            "against": 27
           },
-          "form": "DWDLW",
+          "form": "WDLWL",
           "btts_matches": 8,
-          "avg_corners_per_game": 4.62,
-          "aproveitamento": 50.8,
+          "avg_corners_per_game": 4.5,
+          "aproveitamento": 48.5,
           "over_2_5_goals": 7,
           "over_0_5_ht": 9,
           "over_0_5_ft": 9,
@@ -594,18 +594,18 @@
           "clean_sheets_home": 5
         },
         "away": {
-          "played": 11,
+          "played": 12,
           "win": 3,
           "draw": 4,
-          "lose": 4,
+          "lose": 5,
           "goals": {
             "for": 12,
-            "against": 15
+            "against": 16
           },
-          "form_visitor": "DWDWL",
+          "form_visitor": "WDWLL",
           "btts_away_matches": 6,
-          "avg_corners_away_per_game": 3.82,
-          "aproveitamento_away": 39.4,
+          "avg_corners_away_per_game": 3.67,
+          "aproveitamento_away": 36.1,
           "over_2_5_goals_away": 4,
           "over_0_5_ht_away": 6,
           "over_0_5_ft_away": 3,
@@ -621,40 +621,40 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-ac-goianiense.png"
         },
         "points": 32,
-        "goalsDiff": 3,
+        "goalsDiff": 1,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 21,
+          "played": 22,
           "win": 8,
           "draw": 8,
-          "lose": 5,
+          "lose": 6,
           "goals": {
             "for": 24,
-            "against": 21
+            "against": 23
           },
-          "form": "WDWWD",
+          "form": "DWWDL",
           "btts_matches": 12,
-          "avg_corners_per_game": 5.48,
-          "aproveitamento": 50.8,
+          "avg_corners_per_game": 5.91,
+          "aproveitamento": 48.5,
           "over_2_5_goals": 8,
           "over_0_5_ht": 10,
           "over_0_5_ft": 10,
           "clean_sheets": 6
         },
         "home": {
-          "played": 11,
+          "played": 12,
           "win": 5,
           "draw": 4,
-          "lose": 2,
+          "lose": 3,
           "goals": {
             "for": 15,
-            "against": 10
+            "against": 12
           },
-          "form_home": "DWWDW",
-          "avg_corners_home_per_game": 6.45,
-          "aproveitamento_home": 57.6,
+          "form_home": "WWDWL",
+          "avg_corners_home_per_game": 7.17,
+          "aproveitamento_home": 52.8,
           "btts_home_matches": 6,
           "over_2_5_goals_home": 5,
           "over_0_5_ht_home": 6,
@@ -888,6 +888,74 @@
       {
         "rank": 14,
         "team": {
+          "id": 2592,
+          "name": "Cuiabá EC",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-cuiaba-ec.png"
+        },
+        "points": 29,
+        "goalsDiff": 2,
+        "group": "Brazil Serie B 2026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 22,
+          "win": 6,
+          "draw": 11,
+          "lose": 5,
+          "goals": {
+            "for": 19,
+            "against": 17
+          },
+          "form": "LLDDW",
+          "btts_matches": 8,
+          "avg_corners_per_game": 5.18,
+          "aproveitamento": 43.9,
+          "over_2_5_goals": 4,
+          "over_0_5_ht": 6,
+          "over_0_5_ft": 8,
+          "clean_sheets": 9
+        },
+        "home": {
+          "played": 11,
+          "win": 3,
+          "draw": 6,
+          "lose": 2,
+          "goals": {
+            "for": 9,
+            "against": 8
+          },
+          "form_home": "WDWLD",
+          "avg_corners_home_per_game": 5.27,
+          "aproveitamento_home": 45.5,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 4,
+          "clean_sheets_home": 5
+        },
+        "away": {
+          "played": 11,
+          "win": 3,
+          "draw": 5,
+          "lose": 3,
+          "goals": {
+            "for": 10,
+            "against": 9
+          },
+          "form_visitor": "LDLDW",
+          "btts_away_matches": 4,
+          "avg_corners_away_per_game": 5.09,
+          "aproveitamento_away": 42.4,
+          "over_2_5_goals_away": 3,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 4
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 15,
+        "team": {
           "id": 644,
           "name": "Clube Náutico Capibaribe",
           "logo": "https://cdn.footystats.org/img/teams/brazil-clube-nautico-capibaribe.png"
@@ -954,74 +1022,6 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 15,
-        "team": {
-          "id": 2592,
-          "name": "Cuiabá EC",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-cuiaba-ec.png"
-        },
-        "points": 26,
-        "goalsDiff": 0,
-        "group": "Brazil Serie B 2026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 21,
-          "win": 5,
-          "draw": 11,
-          "lose": 5,
-          "goals": {
-            "for": 16,
-            "against": 16
-          },
-          "form": "DLLDD",
-          "btts_matches": 7,
-          "avg_corners_per_game": 5.19,
-          "aproveitamento": 41.3,
-          "over_2_5_goals": 3,
-          "over_0_5_ht": 5,
-          "over_0_5_ft": 7,
-          "clean_sheets": 9
-        },
-        "home": {
-          "played": 11,
-          "win": 3,
-          "draw": 6,
-          "lose": 2,
-          "goals": {
-            "for": 9,
-            "against": 8
-          },
-          "form_home": "WDWLD",
-          "avg_corners_home_per_game": 5.27,
-          "aproveitamento_home": 45.5,
-          "btts_home_matches": 4,
-          "over_2_5_goals_home": 1,
-          "over_0_5_ht_home": 3,
-          "over_0_5_ft_home": 4,
-          "clean_sheets_home": 5
-        },
-        "away": {
-          "played": 10,
-          "win": 2,
-          "draw": 5,
-          "lose": 3,
-          "goals": {
-            "for": 7,
-            "against": 8
-          },
-          "form_visitor": "WLDLD",
-          "btts_away_matches": 3,
-          "avg_corners_away_per_game": 5.1,
-          "aproveitamento_away": 36.7,
-          "over_2_5_goals_away": 2,
-          "over_0_5_ht_away": 2,
-          "over_0_5_ft_away": 3,
-          "clean_sheets_away": 4
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
         "rank": 16,
         "team": {
           "id": 642,
@@ -1029,44 +1029,44 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-ceara-sc.png"
         },
         "points": 25,
-        "goalsDiff": -3,
+        "goalsDiff": -5,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 21,
+          "played": 22,
           "win": 6,
           "draw": 7,
-          "lose": 8,
+          "lose": 9,
           "goals": {
-            "for": 22,
-            "against": 25
+            "for": 23,
+            "against": 28
           },
-          "form": "DDLWW",
-          "btts_matches": 10,
-          "avg_corners_per_game": 5.71,
-          "aproveitamento": 39.7,
-          "over_2_5_goals": 6,
+          "form": "DLWWL",
+          "btts_matches": 11,
+          "avg_corners_per_game": 5.64,
+          "aproveitamento": 37.9,
+          "over_2_5_goals": 7,
           "over_0_5_ht": 6,
-          "over_0_5_ft": 8,
+          "over_0_5_ft": 9,
           "clean_sheets": 5
         },
         "home": {
-          "played": 11,
+          "played": 12,
           "win": 4,
           "draw": 3,
-          "lose": 4,
+          "lose": 5,
           "goals": {
-            "for": 12,
-            "against": 11
+            "for": 13,
+            "against": 14
           },
-          "form_home": "WLDLW",
-          "avg_corners_home_per_game": 6.0,
-          "aproveitamento_home": 45.5,
-          "btts_home_matches": 5,
-          "over_2_5_goals_home": 4,
+          "form_home": "LDLWL",
+          "avg_corners_home_per_game": 5.83,
+          "aproveitamento_home": 41.7,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 5,
           "over_0_5_ht_home": 5,
-          "over_0_5_ft_home": 3,
+          "over_0_5_ft_home": 4,
           "clean_sheets_home": 3
         },
         "away": {
@@ -1424,7 +1424,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 9,
         "jogador-assists": 0,
-        "jogador-partidas": 17,
+        "jogador-partidas": 18,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ac-goianiense.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-gustavo-coutinho-silva-lopes.png"
       },
@@ -1451,7 +1451,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 6,
         "jogador-assists": 0,
-        "jogador-partidas": 11,
+        "jogador-partidas": 12,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-goias-ec.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-carlos-eduardo-de-sousa-leopoldino.png"
       },
@@ -1469,7 +1469,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 5,
         "jogador-assists": 4,
-        "jogador-partidas": 20,
+        "jogador-partidas": 21,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-vila-nova-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-janderson-santos-de-souza.png"
       },
@@ -1505,7 +1505,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 5,
         "jogador-assists": 2,
-        "jogador-partidas": 19,
+        "jogador-partidas": 20,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-goias-ec.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-anselmo-ramon-alves-erculano.png"
       },
