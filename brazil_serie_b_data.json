@@ -281,44 +281,44 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-operario-ferroviario-ec.png"
         },
         "points": 35,
-        "goalsDiff": 1,
+        "goalsDiff": 0,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "Copa Sul-Americana",
         "all": {
-          "played": 21,
+          "played": 22,
           "win": 10,
           "draw": 5,
-          "lose": 6,
+          "lose": 7,
           "goals": {
-            "for": 29,
-            "against": 28
+            "for": 30,
+            "against": 30
           },
-          "form": "WDWLL",
-          "btts_matches": 12,
-          "avg_corners_per_game": 5.1,
-          "aproveitamento": 55.6,
-          "over_2_5_goals": 14,
+          "form": "DWLLL",
+          "btts_matches": 13,
+          "avg_corners_per_game": 5.14,
+          "aproveitamento": 53.0,
+          "over_2_5_goals": 15,
           "over_0_5_ht": 12,
-          "over_0_5_ft": 12,
+          "over_0_5_ft": 13,
           "clean_sheets": 8
         },
         "home": {
-          "played": 11,
+          "played": 12,
           "win": 6,
           "draw": 3,
-          "lose": 2,
+          "lose": 3,
           "goals": {
-            "for": 16,
-            "against": 14
+            "for": 17,
+            "against": 16
           },
-          "form_home": "WWWWL",
-          "avg_corners_home_per_game": 6.73,
-          "aproveitamento_home": 63.6,
-          "btts_home_matches": 6,
-          "over_2_5_goals_home": 6,
+          "form_home": "WWWLL",
+          "avg_corners_home_per_game": 6.67,
+          "aproveitamento_home": 58.3,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 7,
           "over_0_5_ht_home": 6,
-          "over_0_5_ft_home": 8,
+          "over_0_5_ft_home": 9,
           "clean_sheets_home": 5
         },
         "away": {
@@ -1092,6 +1092,74 @@
       {
         "rank": 17,
         "team": {
+          "id": 621,
+          "name": "Avai FC",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-avai-fc.png"
+        },
+        "points": 23,
+        "goalsDiff": -6,
+        "group": "Brazil Serie B 2026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 22,
+          "win": 6,
+          "draw": 5,
+          "lose": 11,
+          "goals": {
+            "for": 23,
+            "against": 29
+          },
+          "form": "DWLLW",
+          "btts_matches": 11,
+          "avg_corners_per_game": 3.91,
+          "aproveitamento": 34.8,
+          "over_2_5_goals": 10,
+          "over_0_5_ht": 7,
+          "over_0_5_ft": 13,
+          "clean_sheets": 6
+        },
+        "home": {
+          "played": 11,
+          "win": 4,
+          "draw": 3,
+          "lose": 4,
+          "goals": {
+            "for": 12,
+            "against": 11
+          },
+          "form_home": "LWWWL",
+          "avg_corners_home_per_game": 5.0,
+          "aproveitamento_home": 45.5,
+          "btts_home_matches": 4,
+          "over_2_5_goals_home": 4,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 5,
+          "clean_sheets_home": 5
+        },
+        "away": {
+          "played": 11,
+          "win": 2,
+          "draw": 2,
+          "lose": 7,
+          "goals": {
+            "for": 11,
+            "against": 18
+          },
+          "form_visitor": "LLDLW",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 2.82,
+          "aproveitamento_away": 24.2,
+          "over_2_5_goals_away": 6,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 8,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 18,
+        "team": {
           "id": 1055,
           "name": "Londrina EC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-londrina-ec.png"
@@ -1154,74 +1222,6 @@
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 5,
           "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 18,
-        "team": {
-          "id": 621,
-          "name": "Avai FC",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-avai-fc.png"
-        },
-        "points": 20,
-        "goalsDiff": -7,
-        "group": "Brazil Serie B 2026",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 21,
-          "win": 5,
-          "draw": 5,
-          "lose": 11,
-          "goals": {
-            "for": 21,
-            "against": 28
-          },
-          "form": "WDWLL",
-          "btts_matches": 10,
-          "avg_corners_per_game": 4.1,
-          "aproveitamento": 31.7,
-          "over_2_5_goals": 9,
-          "over_0_5_ht": 7,
-          "over_0_5_ft": 12,
-          "clean_sheets": 6
-        },
-        "home": {
-          "played": 11,
-          "win": 4,
-          "draw": 3,
-          "lose": 4,
-          "goals": {
-            "for": 12,
-            "against": 11
-          },
-          "form_home": "LWWWL",
-          "avg_corners_home_per_game": 5.0,
-          "aproveitamento_home": 45.5,
-          "btts_home_matches": 4,
-          "over_2_5_goals_home": 4,
-          "over_0_5_ht_home": 5,
-          "over_0_5_ft_home": 5,
-          "clean_sheets_home": 5
-        },
-        "away": {
-          "played": 10,
-          "win": 1,
-          "draw": 2,
-          "lose": 7,
-          "goals": {
-            "for": 9,
-            "against": 17
-          },
-          "form_visitor": "LLLDL",
-          "btts_away_matches": 6,
-          "avg_corners_away_per_game": 3.1,
-          "aproveitamento_away": 16.7,
-          "over_2_5_goals_away": 5,
-          "over_0_5_ht_away": 2,
-          "over_0_5_ft_away": 7,
-          "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1397,7 +1397,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 10,
         "jogador-assists": 1,
-        "jogador-partidas": 19,
+        "jogador-partidas": 20,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-operario-ferroviario-ec.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-gabriel-boschilia.png"
       },
@@ -1487,7 +1487,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 5,
         "jogador-assists": 3,
-        "jogador-partidas": 18,
+        "jogador-partidas": 19,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-operario-ferroviario-ec.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-pablo-felipe-teixeira.png"
       },
