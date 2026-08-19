@@ -4,6 +4,74 @@
       {
         "rank": 1,
         "team": {
+          "id": 746,
+          "name": "CS Independiente Rivadavia",
+          "logo": "https://cdn.footystats.org/img/teams/argentina-cs-independiente-rivadavia.png"
+        },
+        "points": 18,
+        "goalsDiff": 9,
+        "group": "South America Copa Libertadores 2026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 8,
+          "win": 5,
+          "draw": 3,
+          "lose": 0,
+          "goals": {
+            "for": 16,
+            "against": 7
+          },
+          "form": "DWWDD",
+          "btts_matches": 6,
+          "avg_corners_per_game": 4.25,
+          "aproveitamento": 75.0,
+          "over_2_5_goals": 4,
+          "over_0_5_ht": 5,
+          "over_0_5_ft": 6,
+          "clean_sheets": 2
+        },
+        "home": {
+          "played": 4,
+          "win": 2,
+          "draw": 2,
+          "lose": 0,
+          "goals": {
+            "for": 7,
+            "against": 3
+          },
+          "form_home": "WWDD",
+          "avg_corners_home_per_game": 5.5,
+          "aproveitamento_home": 66.7,
+          "btts_home_matches": 3,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 4,
+          "win": 3,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 9,
+            "against": 4
+          },
+          "form_visitor": "WWWD",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 3.0,
+          "aproveitamento_away": 83.3,
+          "over_2_5_goals_away": 3,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 3,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 2,
+        "team": {
           "id": 612,
           "name": "CR Flamengo",
           "logo": "https://cdn.footystats.org/img/teams/brazil-cr-flamengo.png"
@@ -66,74 +134,6 @@
           "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 3,
           "clean_sheets_away": 2
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 2,
-        "team": {
-          "id": 746,
-          "name": "CS Independiente Rivadavia",
-          "logo": "https://cdn.footystats.org/img/teams/argentina-cs-independiente-rivadavia.png"
-        },
-        "points": 17,
-        "goalsDiff": 9,
-        "group": "South America Copa Libertadores 2026",
-        "status": "same",
-        "description": "Copa Libertadores",
-        "all": {
-          "played": 7,
-          "win": 5,
-          "draw": 2,
-          "lose": 0,
-          "goals": {
-            "for": 15,
-            "against": 6
-          },
-          "form": "WDWWD",
-          "btts_matches": 5,
-          "avg_corners_per_game": 3.86,
-          "aproveitamento": 81.0,
-          "over_2_5_goals": 4,
-          "over_0_5_ht": 5,
-          "over_0_5_ft": 5,
-          "clean_sheets": 2
-        },
-        "home": {
-          "played": 3,
-          "win": 2,
-          "draw": 1,
-          "lose": 0,
-          "goals": {
-            "for": 6,
-            "against": 2
-          },
-          "form_home": "WWD",
-          "avg_corners_home_per_game": 5.0,
-          "aproveitamento_home": 77.8,
-          "btts_home_matches": 2,
-          "over_2_5_goals_home": 1,
-          "over_0_5_ht_home": 2,
-          "over_0_5_ft_home": 2,
-          "clean_sheets_home": 1
-        },
-        "away": {
-          "played": 4,
-          "win": 3,
-          "draw": 1,
-          "lose": 0,
-          "goals": {
-            "for": 9,
-            "against": 4
-          },
-          "form_visitor": "WWWD",
-          "btts_away_matches": 3,
-          "avg_corners_away_per_game": 3.0,
-          "aproveitamento_away": 83.3,
-          "over_2_5_goals_away": 3,
-          "over_0_5_ht_away": 3,
-          "over_0_5_ft_away": 3,
-          "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1228,6 +1228,74 @@
       {
         "rank": 19,
         "team": {
+          "id": 617,
+          "name": "Fluminense FC",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-fluminense-fc.png"
+        },
+        "points": 10,
+        "goalsDiff": 0,
+        "group": "South America Copa Libertadores 2026",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 8,
+          "win": 2,
+          "draw": 4,
+          "lose": 2,
+          "goals": {
+            "for": 8,
+            "against": 8
+          },
+          "form": "DWWDD",
+          "btts_matches": 5,
+          "avg_corners_per_game": 3.75,
+          "aproveitamento": 41.7,
+          "over_2_5_goals": 3,
+          "over_0_5_ht": 3,
+          "over_0_5_ft": 4,
+          "clean_sheets": 2
+        },
+        "home": {
+          "played": 4,
+          "win": 2,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 6,
+            "against": 4
+          },
+          "form_home": "LWWD",
+          "avg_corners_home_per_game": 3.75,
+          "aproveitamento_home": 58.3,
+          "btts_home_matches": 3,
+          "over_2_5_goals_home": 3,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 2,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 4,
+          "win": 0,
+          "draw": 3,
+          "lose": 1,
+          "goals": {
+            "for": 2,
+            "against": 4
+          },
+          "form_visitor": "DLDD",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 3.75,
+          "aproveitamento_away": 25.0,
+          "over_2_5_goals_away": 0,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 20,
+        "team": {
           "id": 2848,
           "name": "Carabobo FC",
           "logo": "https://cdn.footystats.org/img/teams/venezuela-carabobo-fc.png"
@@ -1294,7 +1362,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 20,
+        "rank": 21,
         "team": {
           "id": 2882,
           "name": "Universidad Central de Venezuela FC",
@@ -1362,7 +1430,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 21,
+        "rank": 22,
         "team": {
           "id": 704,
           "name": "CA Lanús",
@@ -1426,74 +1494,6 @@
           "over_0_5_ht_away": 0,
           "over_0_5_ft_away": 0,
           "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 22,
-        "team": {
-          "id": 617,
-          "name": "Fluminense FC",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-fluminense-fc.png"
-        },
-        "points": 9,
-        "goalsDiff": 0,
-        "group": "South America Copa Libertadores 2026",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 7,
-          "win": 2,
-          "draw": 3,
-          "lose": 2,
-          "goals": {
-            "for": 7,
-            "against": 7
-          },
-          "form": "LDWWD",
-          "btts_matches": 4,
-          "avg_corners_per_game": 3.71,
-          "aproveitamento": 42.9,
-          "over_2_5_goals": 3,
-          "over_0_5_ht": 3,
-          "over_0_5_ft": 3,
-          "clean_sheets": 2
-        },
-        "home": {
-          "played": 4,
-          "win": 2,
-          "draw": 1,
-          "lose": 1,
-          "goals": {
-            "for": 6,
-            "against": 4
-          },
-          "form_home": "LWWD",
-          "avg_corners_home_per_game": 3.75,
-          "aproveitamento_home": 58.3,
-          "btts_home_matches": 3,
-          "over_2_5_goals_home": 3,
-          "over_0_5_ht_home": 3,
-          "over_0_5_ft_home": 2,
-          "clean_sheets_home": 1
-        },
-        "away": {
-          "played": 3,
-          "win": 0,
-          "draw": 2,
-          "lose": 1,
-          "goals": {
-            "for": 1,
-            "against": 3
-          },
-          "form_visitor": "DLD",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 3.67,
-          "aproveitamento_away": 22.2,
-          "over_2_5_goals_away": 0,
-          "over_0_5_ht_away": 0,
-          "over_0_5_ft_away": 1,
-          "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -3748,9 +3748,9 @@
       {
         "jogador-nome": "Alex Adrián Arce Barrios",
         "jogador-posicao": "Forward",
-        "jogador-gols": 8,
+        "jogador-gols": 9,
         "jogador-assists": 0,
-        "jogador-partidas": 6,
+        "jogador-partidas": 7,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/argentina-cs-independiente-rivadavia.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/paraguay-alex-adrian-arce-barrios.png"
       },
