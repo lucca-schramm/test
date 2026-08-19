@@ -140,6 +140,74 @@
       {
         "rank": 3,
         "team": {
+          "id": 4321,
+          "name": "CSD Independiente del Valle",
+          "logo": "https://cdn.footystats.org/img/teams/ecuador-csd-independiente-del-valle.png"
+        },
+        "points": 16,
+        "goalsDiff": 6,
+        "group": "South America Copa Libertadores 2026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 7,
+          "win": 5,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 12,
+            "against": 6
+          },
+          "form": "WLWWW",
+          "btts_matches": 3,
+          "avg_corners_per_game": 7.0,
+          "aproveitamento": 76.2,
+          "over_2_5_goals": 3,
+          "over_0_5_ht": 4,
+          "over_0_5_ft": 4,
+          "clean_sheets": 3
+        },
+        "home": {
+          "played": 3,
+          "win": 3,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 8,
+            "against": 2
+          },
+          "form_home": "WWW",
+          "avg_corners_home_per_game": 9.0,
+          "aproveitamento_home": 100.0,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 4,
+          "win": 2,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 4,
+            "against": 4
+          },
+          "form_visitor": "DWLW",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 5.5,
+          "aproveitamento_away": 58.3,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 4,
+        "team": {
           "id": 2137,
           "name": "Deportivo Independiente Medellín",
           "logo": "https://cdn.footystats.org/img/teams/colombia-deportivo-independiente-medellin.png"
@@ -206,7 +274,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "team": {
           "id": 710,
           "name": "CA Rosario Central",
@@ -216,7 +284,7 @@
         "goalsDiff": 8,
         "group": "South America Copa Libertadores 2026",
         "status": "same",
-        "description": "Copa Libertadores",
+        "description": "Copa Sul-Americana",
         "all": {
           "played": 7,
           "win": 4,
@@ -270,74 +338,6 @@
           "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 2,
           "clean_sheets_away": 2
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 5,
-        "team": {
-          "id": 2194,
-          "name": "CD Universidad Católica",
-          "logo": "https://cdn.footystats.org/img/teams/chile-cd-universidad-catolica.png"
-        },
-        "points": 14,
-        "goalsDiff": 4,
-        "group": "South America Copa Libertadores 2026",
-        "status": "same",
-        "description": "Copa Sul-Americana",
-        "all": {
-          "played": 7,
-          "win": 4,
-          "draw": 2,
-          "lose": 1,
-          "goals": {
-            "for": 9,
-            "against": 5
-          },
-          "form": "WDWWD",
-          "btts_matches": 4,
-          "avg_corners_per_game": 4.29,
-          "aproveitamento": 66.7,
-          "over_2_5_goals": 3,
-          "over_0_5_ht": 3,
-          "over_0_5_ft": 4,
-          "clean_sheets": 3
-        },
-        "home": {
-          "played": 3,
-          "win": 1,
-          "draw": 1,
-          "lose": 1,
-          "goals": {
-            "for": 3,
-            "against": 2
-          },
-          "form_home": "LDW",
-          "avg_corners_home_per_game": 6.67,
-          "aproveitamento_home": 44.4,
-          "btts_home_matches": 1,
-          "over_2_5_goals_home": 1,
-          "over_0_5_ht_home": 0,
-          "over_0_5_ft_home": 2,
-          "clean_sheets_home": 2
-        },
-        "away": {
-          "played": 4,
-          "win": 3,
-          "draw": 1,
-          "lose": 0,
-          "goals": {
-            "for": 6,
-            "against": 3
-          },
-          "form_visitor": "WWWD",
-          "btts_away_matches": 3,
-          "avg_corners_away_per_game": 2.5,
-          "aproveitamento_away": 83.3,
-          "over_2_5_goals_away": 2,
-          "over_0_5_ht_away": 3,
-          "over_0_5_ft_away": 2,
-          "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -417,40 +417,40 @@
           "logo": "https://cdn.footystats.org/img/teams/colombia-club-deportes-tolima-sa.png"
         },
         "points": 14,
-        "goalsDiff": 2,
+        "goalsDiff": 1,
         "group": "South America Copa Libertadores 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 10,
+          "played": 11,
           "win": 4,
           "draw": 2,
-          "lose": 4,
+          "lose": 5,
           "goals": {
             "for": 10,
-            "against": 8
+            "against": 9
           },
-          "form": "LWWLD",
+          "form": "WWLDL",
           "btts_matches": 1,
-          "avg_corners_per_game": 4.3,
-          "aproveitamento": 46.7,
+          "avg_corners_per_game": 4.36,
+          "aproveitamento": 42.4,
           "over_2_5_goals": 4,
           "over_0_5_ht": 2,
           "over_0_5_ft": 5,
           "clean_sheets": 6
         },
         "home": {
-          "played": 5,
+          "played": 6,
           "win": 3,
           "draw": 1,
-          "lose": 1,
+          "lose": 2,
           "goals": {
             "for": 8,
-            "against": 1
+            "against": 2
           },
-          "form_home": "LWDWW",
-          "avg_corners_home_per_game": 4.6,
-          "aproveitamento_home": 66.7,
+          "form_home": "WDWWL",
+          "avg_corners_home_per_game": 4.67,
+          "aproveitamento_home": 55.6,
           "btts_home_matches": 0,
           "over_2_5_goals_home": 2,
           "over_0_5_ht_home": 2,
@@ -480,67 +480,67 @@
       {
         "rank": 8,
         "team": {
-          "id": 4321,
-          "name": "CSD Independiente del Valle",
-          "logo": "https://cdn.footystats.org/img/teams/ecuador-csd-independiente-del-valle.png"
+          "id": 2194,
+          "name": "CD Universidad Católica",
+          "logo": "https://cdn.footystats.org/img/teams/chile-cd-universidad-catolica.png"
         },
-        "points": 13,
-        "goalsDiff": 5,
+        "points": 14,
+        "goalsDiff": 1,
         "group": "South America Copa Libertadores 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 6,
+          "played": 8,
           "win": 4,
-          "draw": 1,
-          "lose": 1,
+          "draw": 2,
+          "lose": 2,
           "goals": {
-            "for": 11,
-            "against": 6
+            "for": 9,
+            "against": 8
           },
-          "form": "WWLWW",
-          "btts_matches": 3,
-          "avg_corners_per_game": 7.67,
-          "aproveitamento": 72.2,
-          "over_2_5_goals": 3,
+          "form": "DWWDL",
+          "btts_matches": 4,
+          "avg_corners_per_game": 4.38,
+          "aproveitamento": 58.3,
+          "over_2_5_goals": 4,
           "over_0_5_ht": 3,
           "over_0_5_ft": 4,
-          "clean_sheets": 2
+          "clean_sheets": 3
         },
         "home": {
-          "played": 3,
-          "win": 3,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 8,
-            "against": 2
-          },
-          "form_home": "WWW",
-          "avg_corners_home_per_game": 9.0,
-          "aproveitamento_home": 100.0,
-          "btts_home_matches": 2,
-          "over_2_5_goals_home": 2,
-          "over_0_5_ht_home": 2,
-          "over_0_5_ft_home": 3,
-          "clean_sheets_home": 1
-        },
-        "away": {
-          "played": 3,
+          "played": 4,
           "win": 1,
           "draw": 1,
-          "lose": 1,
+          "lose": 2,
           "goals": {
             "for": 3,
-            "against": 4
+            "against": 5
           },
-          "form_visitor": "DWL",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 6.33,
-          "aproveitamento_away": 44.4,
-          "over_2_5_goals_away": 1,
-          "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 1,
+          "form_home": "LDWL",
+          "avg_corners_home_per_game": 6.25,
+          "aproveitamento_home": 33.3,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 0,
+          "over_0_5_ft_home": 2,
+          "clean_sheets_home": 2
+        },
+        "away": {
+          "played": 4,
+          "win": 3,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 6,
+            "against": 3
+          },
+          "form_visitor": "WWWD",
+          "btts_away_matches": 3,
+          "avg_corners_away_per_game": 2.5,
+          "aproveitamento_away": 83.3,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 2,
           "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -684,6 +684,74 @@
       {
         "rank": 11,
         "team": {
+          "id": 709,
+          "name": "Estudiantes de La Plata",
+          "logo": "https://cdn.footystats.org/img/teams/argentina-estudiantes-de-la-plata.png"
+        },
+        "points": 13,
+        "goalsDiff": 4,
+        "group": "South America Copa Libertadores 2026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 8,
+          "win": 3,
+          "draw": 4,
+          "lose": 1,
+          "goals": {
+            "for": 10,
+            "against": 6
+          },
+          "form": "DLWDW",
+          "btts_matches": 5,
+          "avg_corners_per_game": 5.25,
+          "aproveitamento": 54.2,
+          "over_2_5_goals": 2,
+          "over_0_5_ht": 4,
+          "over_0_5_ft": 5,
+          "clean_sheets": 2
+        },
+        "home": {
+          "played": 4,
+          "win": 2,
+          "draw": 2,
+          "lose": 0,
+          "goals": {
+            "for": 5,
+            "against": 3
+          },
+          "form_home": "WDWD",
+          "avg_corners_home_per_game": 8.0,
+          "aproveitamento_home": 66.7,
+          "btts_home_matches": 3,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 3,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 4,
+          "win": 1,
+          "draw": 2,
+          "lose": 1,
+          "goals": {
+            "for": 5,
+            "against": 3
+          },
+          "form_visitor": "DDLW",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 2.5,
+          "aproveitamento_away": 41.7,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 12,
+        "team": {
           "id": 619,
           "name": "SE Palmeiras",
           "logo": "https://cdn.footystats.org/img/teams/brazil-se-palmeiras.png"
@@ -750,7 +818,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "team": {
           "id": 613,
           "name": "Cruzeiro EC",
@@ -818,7 +886,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "team": {
           "id": 624,
           "name": "SC Corinthians Paulista",
@@ -886,7 +954,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 14,
+        "rank": 15,
         "team": {
           "id": 2210,
           "name": "CD Coquimbo Unido",
@@ -954,7 +1022,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 15,
+        "rank": 16,
         "team": {
           "id": 749,
           "name": "CA Platense",
@@ -1022,7 +1090,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 16,
+        "rank": 17,
         "team": {
           "id": 2804,
           "name": "Club Sporting Cristal SAC",
@@ -1032,7 +1100,7 @@
         "goalsDiff": -3,
         "group": "South America Copa Libertadores 2026",
         "status": "same",
-        "description": "",
+        "description": "Rebaixamento",
         "all": {
           "played": 10,
           "win": 3,
@@ -1090,7 +1158,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 17,
+        "rank": 18,
         "team": {
           "id": 4322,
           "name": "Barcelona SC",
@@ -1154,74 +1222,6 @@
           "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 1,
           "clean_sheets_away": 2
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 18,
-        "team": {
-          "id": 709,
-          "name": "Estudiantes de La Plata",
-          "logo": "https://cdn.footystats.org/img/teams/argentina-estudiantes-de-la-plata.png"
-        },
-        "points": 10,
-        "goalsDiff": 1,
-        "group": "South America Copa Libertadores 2026",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 7,
-          "win": 2,
-          "draw": 4,
-          "lose": 1,
-          "goals": {
-            "for": 7,
-            "against": 6
-          },
-          "form": "DDLWD",
-          "btts_matches": 5,
-          "avg_corners_per_game": 5.86,
-          "aproveitamento": 47.6,
-          "over_2_5_goals": 1,
-          "over_0_5_ht": 3,
-          "over_0_5_ft": 4,
-          "clean_sheets": 1
-        },
-        "home": {
-          "played": 4,
-          "win": 2,
-          "draw": 2,
-          "lose": 0,
-          "goals": {
-            "for": 5,
-            "against": 3
-          },
-          "form_home": "WDWD",
-          "avg_corners_home_per_game": 8.0,
-          "aproveitamento_home": 66.7,
-          "btts_home_matches": 3,
-          "over_2_5_goals_home": 1,
-          "over_0_5_ht_home": 2,
-          "over_0_5_ft_home": 3,
-          "clean_sheets_home": 1
-        },
-        "away": {
-          "played": 3,
-          "win": 0,
-          "draw": 2,
-          "lose": 1,
-          "goals": {
-            "for": 2,
-            "against": 3
-          },
-          "form_visitor": "DDL",
-          "btts_away_matches": 2,
-          "avg_corners_away_per_game": 3.0,
-          "aproveitamento_away": 22.2,
-          "over_2_5_goals_away": 0,
-          "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 1,
-          "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -3759,7 +3759,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 6,
         "jogador-assists": 0,
-        "jogador-partidas": 6,
+        "jogador-partidas": 7,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/ecuador-csd-independiente-del-valle.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/paraguay-carlos-gonzalez-espinola.png"
       },
@@ -3894,7 +3894,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 3,
         "jogador-assists": 0,
-        "jogador-partidas": 6,
+        "jogador-partidas": 7,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/argentina-estudiantes-de-la-plata.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/argentina-tiago-palacios.png"
       },
