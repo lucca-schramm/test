@@ -276,6 +276,74 @@
       {
         "rank": 5,
         "team": {
+          "id": 694,
+          "name": "Clube de Regatas Brasil",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-clube-de-regatas-brasil.png"
+        },
+        "points": 36,
+        "goalsDiff": 2,
+        "group": "Brazil Serie B 2026",
+        "status": "same",
+        "description": "Copa Sul-Americana",
+        "all": {
+          "played": 23,
+          "win": 10,
+          "draw": 6,
+          "lose": 7,
+          "goals": {
+            "for": 34,
+            "against": 32
+          },
+          "form": "WWWDW",
+          "btts_matches": 12,
+          "avg_corners_per_game": 5.09,
+          "aproveitamento": 52.2,
+          "over_2_5_goals": 12,
+          "over_0_5_ht": 15,
+          "over_0_5_ft": 11,
+          "clean_sheets": 7
+        },
+        "home": {
+          "played": 11,
+          "win": 4,
+          "draw": 3,
+          "lose": 4,
+          "goals": {
+            "for": 18,
+            "against": 14
+          },
+          "form_home": "DDWWD",
+          "avg_corners_home_per_game": 6.09,
+          "aproveitamento_home": 45.5,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 7,
+          "over_0_5_ft_home": 5,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 12,
+          "win": 6,
+          "draw": 3,
+          "lose": 3,
+          "goals": {
+            "for": 16,
+            "against": 18
+          },
+          "form_visitor": "WLWWW",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 4.17,
+          "aproveitamento_away": 58.3,
+          "over_2_5_goals_away": 6,
+          "over_0_5_ht_away": 8,
+          "over_0_5_ft_away": 6,
+          "clean_sheets_away": 4
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 6,
+        "team": {
           "id": 2662,
           "name": "Operário Ferroviário EC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-operario-ferroviario-ec.png"
@@ -342,7 +410,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "team": {
           "id": 614,
           "name": "SC do Recife",
@@ -352,7 +420,7 @@
         "goalsDiff": 7,
         "group": "Brazil Serie B 2026",
         "status": "same",
-        "description": "Copa Sul-Americana",
+        "description": "",
         "all": {
           "played": 23,
           "win": 8,
@@ -410,7 +478,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "team": {
           "id": 2712,
           "name": "Grêmio Novorizontino",
@@ -478,47 +546,47 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "team": {
           "id": 677199,
           "name": "Athletic Club (Minas Gerais)",
           "logo": "https://cdn.footystats.org/img/teams/brazil-athletic-club-minas-gerais.png"
         },
         "points": 34,
-        "goalsDiff": 5,
+        "goalsDiff": 3,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 22,
+          "played": 23,
           "win": 8,
           "draw": 10,
-          "lose": 4,
+          "lose": 5,
           "goals": {
             "for": 24,
-            "against": 19
+            "against": 21
           },
-          "form": "DWDWW",
+          "form": "WDWWL",
           "btts_matches": 13,
-          "avg_corners_per_game": 4.36,
-          "aproveitamento": 51.5,
+          "avg_corners_per_game": 4.26,
+          "aproveitamento": 49.3,
           "over_2_5_goals": 6,
           "over_0_5_ht": 9,
           "over_0_5_ft": 11,
           "clean_sheets": 6
         },
         "home": {
-          "played": 11,
+          "played": 12,
           "win": 5,
           "draw": 4,
-          "lose": 2,
+          "lose": 3,
           "goals": {
             "for": 11,
-            "against": 7
+            "against": 9
           },
-          "form_home": "DWLWW",
-          "avg_corners_home_per_game": 5.64,
-          "aproveitamento_home": 57.6,
+          "form_home": "WLWWL",
+          "avg_corners_home_per_game": 5.33,
+          "aproveitamento_home": 52.8,
           "btts_home_matches": 5,
           "over_2_5_goals_home": 2,
           "over_0_5_ht_home": 5,
@@ -542,74 +610,6 @@
           "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 6,
           "clean_sheets_away": 2
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 9,
-        "team": {
-          "id": 694,
-          "name": "Clube de Regatas Brasil",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-clube-de-regatas-brasil.png"
-        },
-        "points": 33,
-        "goalsDiff": 0,
-        "group": "Brazil Serie B 2026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 22,
-          "win": 9,
-          "draw": 6,
-          "lose": 7,
-          "goals": {
-            "for": 32,
-            "against": 32
-          },
-          "form": "WWWWD",
-          "btts_matches": 12,
-          "avg_corners_per_game": 5.0,
-          "aproveitamento": 50.0,
-          "over_2_5_goals": 12,
-          "over_0_5_ht": 14,
-          "over_0_5_ft": 10,
-          "clean_sheets": 6
-        },
-        "home": {
-          "played": 11,
-          "win": 4,
-          "draw": 3,
-          "lose": 4,
-          "goals": {
-            "for": 18,
-            "against": 14
-          },
-          "form_home": "DDWWD",
-          "avg_corners_home_per_game": 6.09,
-          "aproveitamento_home": 45.5,
-          "btts_home_matches": 6,
-          "over_2_5_goals_home": 6,
-          "over_0_5_ht_home": 7,
-          "over_0_5_ft_home": 5,
-          "clean_sheets_home": 3
-        },
-        "away": {
-          "played": 11,
-          "win": 5,
-          "draw": 3,
-          "lose": 3,
-          "goals": {
-            "for": 14,
-            "against": 18
-          },
-          "form_visitor": "DWLWW",
-          "btts_away_matches": 6,
-          "avg_corners_away_per_game": 3.91,
-          "aproveitamento_away": 54.5,
-          "over_2_5_goals_away": 6,
-          "over_0_5_ht_away": 7,
-          "over_0_5_ft_away": 5,
-          "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1368,9 +1368,9 @@
       {
         "jogador-nome": "Mikael Filipe Viana de Sousa",
         "jogador-posicao": "Forward",
-        "jogador-gols": 14,
+        "jogador-gols": 15,
         "jogador-assists": 3,
-        "jogador-partidas": 21,
+        "jogador-partidas": 22,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-clube-de-regatas-brasil.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-mikael-filipe-viana-de-sousa.png"
       },
@@ -1474,6 +1474,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-romulo-azevedo-simao.png"
       },
       {
+        "jogador-nome": "Adailson Freire Pereira da Silva",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 5,
+        "jogador-assists": 5,
+        "jogador-partidas": 21,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-clube-de-regatas-brasil.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-adailson-freire-pereira-da-silva.png"
+      },
+      {
         "jogador-nome": "Rai da Silva Pessanha",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 5,
@@ -1535,15 +1544,6 @@
         "jogador-partidas": 16,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-botafogo-fc-ribeirao-preto.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-hygor-cleber-garcia-silva.png"
-      },
-      {
-        "jogador-nome": "Adailson Freire Pereira da Silva",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 4,
-        "jogador-assists": 5,
-        "jogador-partidas": 20,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-clube-de-regatas-brasil.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-adailson-freire-pereira-da-silva.png"
       }
     ]
   }
