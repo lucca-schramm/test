@@ -212,45 +212,45 @@
           "name": "Fluminense FC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-fluminense-fc.png"
         },
-        "points": 38,
-        "goalsDiff": 6,
+        "points": 41,
+        "goalsDiff": 7,
         "group": "Brazil Serie A 2026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 23,
-          "win": 10,
+          "played": 24,
+          "win": 11,
           "draw": 8,
           "lose": 5,
           "goals": {
-            "for": 34,
-            "against": 28
+            "for": 36,
+            "against": 29
           },
-          "form": "DDDDW",
-          "btts_matches": 17,
-          "avg_corners_per_game": 5.74,
-          "aproveitamento": 55.1,
-          "over_2_5_goals": 11,
+          "form": "DDDWW",
+          "btts_matches": 18,
+          "avg_corners_per_game": 5.96,
+          "aproveitamento": 56.9,
+          "over_2_5_goals": 12,
           "over_0_5_ht": 12,
-          "over_0_5_ft": 15,
+          "over_0_5_ft": 16,
           "clean_sheets": 4
         },
         "home": {
-          "played": 12,
-          "win": 8,
+          "played": 13,
+          "win": 9,
           "draw": 3,
           "lose": 1,
           "goals": {
-            "for": 21,
-            "against": 13
+            "for": 23,
+            "against": 14
           },
-          "form_home": "DWDDW",
-          "avg_corners_home_per_game": 6.08,
-          "aproveitamento_home": 75.0,
-          "btts_home_matches": 9,
-          "over_2_5_goals_home": 8,
+          "form_home": "WDDWW",
+          "avg_corners_home_per_game": 6.46,
+          "aproveitamento_home": 76.9,
+          "btts_home_matches": 10,
+          "over_2_5_goals_home": 9,
           "over_0_5_ht_home": 6,
-          "over_0_5_ft_home": 9,
+          "over_0_5_ft_home": 10,
           "clean_sheets_home": 3
         },
         "away": {
@@ -1165,25 +1165,25 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-clube-do-remo.png"
         },
         "points": 23,
-        "goalsDiff": -10,
+        "goalsDiff": -11,
         "group": "Brazil Serie A 2026",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 23,
+          "played": 24,
           "win": 5,
           "draw": 8,
-          "lose": 10,
+          "lose": 11,
           "goals": {
-            "for": 27,
-            "against": 37
+            "for": 28,
+            "against": 39
           },
-          "form": "LWLDD",
-          "btts_matches": 13,
-          "avg_corners_per_game": 4.39,
-          "aproveitamento": 33.3,
-          "over_2_5_goals": 11,
-          "over_0_5_ht": 11,
+          "form": "WLDDL",
+          "btts_matches": 14,
+          "avg_corners_per_game": 4.29,
+          "aproveitamento": 31.9,
+          "over_2_5_goals": 12,
+          "over_0_5_ht": 12,
           "over_0_5_ft": 9,
           "clean_sheets": 3
         },
@@ -1206,20 +1206,20 @@
           "clean_sheets_home": 2
         },
         "away": {
-          "played": 12,
+          "played": 13,
           "win": 2,
           "draw": 3,
-          "lose": 7,
+          "lose": 8,
           "goals": {
-            "for": 12,
-            "against": 24
+            "for": 13,
+            "against": 26
           },
-          "form_visitor": "WWLLD",
-          "btts_away_matches": 6,
-          "avg_corners_away_per_game": 4.08,
-          "aproveitamento_away": 25.0,
-          "over_2_5_goals_away": 7,
-          "over_0_5_ht_away": 4,
+          "form_visitor": "WLLDL",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 3.92,
+          "aproveitamento_away": 23.1,
+          "over_2_5_goals_away": 8,
+          "over_0_5_ht_away": 5,
           "over_0_5_ft_away": 4,
           "clean_sheets_away": 1
         },
@@ -1447,6 +1447,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/argentina-jonathan-calleri.png"
       },
       {
+        "jogador-nome": "Jandir Breno Souza Silva",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 7,
+        "jogador-assists": 1,
+        "jogador-partidas": 20,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-clube-do-remo.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-jandir-breno-souza-silva.png"
+      },
+      {
         "jogador-nome": "Arthur Mendonça Cabral",
         "jogador-posicao": "Forward",
         "jogador-gols": 7,
@@ -1508,15 +1517,6 @@
         "jogador-partidas": 18,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-sao-paulo-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-luciano-da-rocha-neves.png"
-      },
-      {
-        "jogador-nome": "Jandir Breno Souza Silva",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 6,
-        "jogador-assists": 1,
-        "jogador-partidas": 19,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-clube-do-remo.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-jandir-breno-souza-silva.png"
       },
       {
         "jogador-nome": "Kaio Jorge Pinto Ramos",
