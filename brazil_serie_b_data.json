@@ -1024,6 +1024,74 @@
       {
         "rank": 16,
         "team": {
+          "id": 642,
+          "name": "Ceará SC",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-ceara-sc.png"
+        },
+        "points": 28,
+        "goalsDiff": -5,
+        "group": "Brazil Serie B 2026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 24,
+          "win": 7,
+          "draw": 7,
+          "lose": 10,
+          "goals": {
+            "for": 25,
+            "against": 30
+          },
+          "form": "WWLLW",
+          "btts_matches": 12,
+          "avg_corners_per_game": 5.62,
+          "aproveitamento": 38.9,
+          "over_2_5_goals": 8,
+          "over_0_5_ht": 7,
+          "over_0_5_ft": 10,
+          "clean_sheets": 5
+        },
+        "home": {
+          "played": 13,
+          "win": 5,
+          "draw": 3,
+          "lose": 5,
+          "goals": {
+            "for": 15,
+            "against": 15
+          },
+          "form_home": "DLWLW",
+          "avg_corners_home_per_game": 6.0,
+          "aproveitamento_home": 46.2,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 6,
+          "over_0_5_ft_home": 5,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 11,
+          "win": 2,
+          "draw": 4,
+          "lose": 5,
+          "goals": {
+            "for": 10,
+            "against": 15
+          },
+          "form_visitor": "LLDWL",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 5.18,
+          "aproveitamento_away": 30.3,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 5,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 17,
+        "team": {
           "id": 621,
           "name": "Avai FC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-avai-fc.png"
@@ -1032,7 +1100,7 @@
         "goalsDiff": -5,
         "group": "Brazil Serie B 2026",
         "status": "same",
-        "description": "",
+        "description": "Rebaixamento",
         "all": {
           "played": 23,
           "win": 7,
@@ -1090,74 +1158,6 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 17,
-        "team": {
-          "id": 642,
-          "name": "Ceará SC",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-ceara-sc.png"
-        },
-        "points": 25,
-        "goalsDiff": -6,
-        "group": "Brazil Serie B 2026",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 23,
-          "win": 6,
-          "draw": 7,
-          "lose": 10,
-          "goals": {
-            "for": 23,
-            "against": 29
-          },
-          "form": "LWWLL",
-          "btts_matches": 11,
-          "avg_corners_per_game": 5.52,
-          "aproveitamento": 36.2,
-          "over_2_5_goals": 7,
-          "over_0_5_ht": 6,
-          "over_0_5_ft": 9,
-          "clean_sheets": 5
-        },
-        "home": {
-          "played": 12,
-          "win": 4,
-          "draw": 3,
-          "lose": 5,
-          "goals": {
-            "for": 13,
-            "against": 14
-          },
-          "form_home": "LDLWL",
-          "avg_corners_home_per_game": 5.83,
-          "aproveitamento_home": 41.7,
-          "btts_home_matches": 6,
-          "over_2_5_goals_home": 5,
-          "over_0_5_ht_home": 5,
-          "over_0_5_ft_home": 4,
-          "clean_sheets_home": 3
-        },
-        "away": {
-          "played": 11,
-          "win": 2,
-          "draw": 4,
-          "lose": 5,
-          "goals": {
-            "for": 10,
-            "against": 15
-          },
-          "form_visitor": "LLDWL",
-          "btts_away_matches": 5,
-          "avg_corners_away_per_game": 5.18,
-          "aproveitamento_away": 30.3,
-          "over_2_5_goals_away": 2,
-          "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 5,
-          "clean_sheets_away": 2
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
         "rank": 18,
         "team": {
           "id": 1055,
@@ -1165,25 +1165,25 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-londrina-ec.png"
         },
         "points": 21,
-        "goalsDiff": -6,
+        "goalsDiff": -7,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 23,
+          "played": 24,
           "win": 5,
           "draw": 6,
-          "lose": 12,
+          "lose": 13,
           "goals": {
-            "for": 28,
-            "against": 34
+            "for": 29,
+            "against": 36
           },
-          "form": "LLLLD",
-          "btts_matches": 12,
-          "avg_corners_per_game": 5.48,
-          "aproveitamento": 30.4,
-          "over_2_5_goals": 14,
-          "over_0_5_ht": 8,
+          "form": "LLLDL",
+          "btts_matches": 13,
+          "avg_corners_per_game": 5.29,
+          "aproveitamento": 29.2,
+          "over_2_5_goals": 15,
+          "over_0_5_ht": 9,
           "over_0_5_ft": 10,
           "clean_sheets": 5
         },
@@ -1206,20 +1206,20 @@
           "clean_sheets_home": 5
         },
         "away": {
-          "played": 12,
+          "played": 13,
           "win": 2,
           "draw": 2,
-          "lose": 8,
+          "lose": 9,
           "goals": {
-            "for": 13,
-            "against": 20
+            "for": 14,
+            "against": 22
           },
-          "form_visitor": "DDLLL",
-          "btts_away_matches": 7,
-          "avg_corners_away_per_game": 4.67,
-          "aproveitamento_away": 22.2,
-          "over_2_5_goals_away": 8,
-          "over_0_5_ht_away": 3,
+          "form_visitor": "DLLLL",
+          "btts_away_matches": 8,
+          "avg_corners_away_per_game": 4.38,
+          "aproveitamento_away": 20.5,
+          "over_2_5_goals_away": 9,
+          "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 5,
           "clean_sheets_away": 0
         },
