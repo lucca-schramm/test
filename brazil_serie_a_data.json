@@ -412,6 +412,74 @@
       {
         "rank": 7,
         "team": {
+          "id": 620,
+          "name": "CA Mineiro",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-ca-mineiro.png"
+        },
+        "points": 33,
+        "goalsDiff": 3,
+        "group": "Brazil Serie A 2026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 23,
+          "win": 9,
+          "draw": 6,
+          "lose": 8,
+          "goals": {
+            "for": 30,
+            "against": 27
+          },
+          "form": "DWDWD",
+          "btts_matches": 10,
+          "avg_corners_per_game": 4.96,
+          "aproveitamento": 47.8,
+          "over_2_5_goals": 11,
+          "over_0_5_ht": 12,
+          "over_0_5_ft": 10,
+          "clean_sheets": 6
+        },
+        "home": {
+          "played": 10,
+          "win": 5,
+          "draw": 4,
+          "lose": 1,
+          "goals": {
+            "for": 17,
+            "against": 13
+          },
+          "form_home": "LDWDW",
+          "avg_corners_home_per_game": 5.2,
+          "aproveitamento_home": 63.3,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 8,
+          "over_0_5_ft_home": 6,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 13,
+          "win": 4,
+          "draw": 2,
+          "lose": 7,
+          "goals": {
+            "for": 13,
+            "against": 14
+          },
+          "form_visitor": "LWWDD",
+          "btts_away_matches": 4,
+          "avg_corners_away_per_game": 4.77,
+          "aproveitamento_away": 35.9,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 4,
+          "over_0_5_ft_away": 4,
+          "clean_sheets_away": 3
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 8,
+        "team": {
           "id": 635,
           "name": "Clube Atlético Bragantino",
           "logo": "https://cdn.footystats.org/img/teams/brazil-clube-atletico-bragantino.png"
@@ -474,74 +542,6 @@
           "over_0_5_ht_away": 4,
           "over_0_5_ft_away": 6,
           "clean_sheets_away": 3
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 8,
-        "team": {
-          "id": 620,
-          "name": "CA Mineiro",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-ca-mineiro.png"
-        },
-        "points": 32,
-        "goalsDiff": 3,
-        "group": "Brazil Serie A 2026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 22,
-          "win": 9,
-          "draw": 5,
-          "lose": 8,
-          "goals": {
-            "for": 30,
-            "against": 27
-          },
-          "form": "WDWDW",
-          "btts_matches": 10,
-          "avg_corners_per_game": 4.95,
-          "aproveitamento": 48.5,
-          "over_2_5_goals": 11,
-          "over_0_5_ht": 12,
-          "over_0_5_ft": 10,
-          "clean_sheets": 5
-        },
-        "home": {
-          "played": 10,
-          "win": 5,
-          "draw": 4,
-          "lose": 1,
-          "goals": {
-            "for": 17,
-            "against": 13
-          },
-          "form_home": "LDWDW",
-          "avg_corners_home_per_game": 5.2,
-          "aproveitamento_home": 63.3,
-          "btts_home_matches": 6,
-          "over_2_5_goals_home": 6,
-          "over_0_5_ht_home": 8,
-          "over_0_5_ft_home": 6,
-          "clean_sheets_home": 3
-        },
-        "away": {
-          "played": 12,
-          "win": 4,
-          "draw": 1,
-          "lose": 7,
-          "goals": {
-            "for": 13,
-            "against": 14
-          },
-          "form_visitor": "WLWWD",
-          "btts_away_matches": 4,
-          "avg_corners_away_per_game": 4.75,
-          "aproveitamento_away": 36.1,
-          "over_2_5_goals_away": 5,
-          "over_0_5_ht_away": 4,
-          "over_0_5_ft_away": 4,
-          "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1028,46 +1028,46 @@
           "name": "SC Internacional",
           "logo": "https://cdn.footystats.org/img/teams/brazil-sc-internacional.png"
         },
-        "points": 24,
+        "points": 25,
         "goalsDiff": -4,
         "group": "Brazil Serie A 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 23,
+          "played": 24,
           "win": 5,
-          "draw": 9,
+          "draw": 10,
           "lose": 9,
           "goals": {
             "for": 24,
             "against": 28
           },
-          "form": "LLDDD",
+          "form": "LDDDD",
           "btts_matches": 13,
-          "avg_corners_per_game": 6.43,
-          "aproveitamento": 34.8,
+          "avg_corners_per_game": 6.42,
+          "aproveitamento": 34.7,
           "over_2_5_goals": 8,
           "over_0_5_ht": 9,
           "over_0_5_ft": 10,
-          "clean_sheets": 5
+          "clean_sheets": 6
         },
         "home": {
-          "played": 12,
+          "played": 13,
           "win": 3,
-          "draw": 4,
+          "draw": 5,
           "lose": 5,
           "goals": {
             "for": 14,
             "against": 13
           },
-          "form_home": "WWLDD",
-          "avg_corners_home_per_game": 6.5,
-          "aproveitamento_home": 36.1,
+          "form_home": "WLDDD",
+          "avg_corners_home_per_game": 6.46,
+          "aproveitamento_home": 35.9,
           "btts_home_matches": 7,
           "over_2_5_goals_home": 4,
           "over_0_5_ht_home": 7,
           "over_0_5_ft_home": 5,
-          "clean_sheets_home": 3
+          "clean_sheets_home": 4
         },
         "away": {
           "played": 11,
@@ -1496,7 +1496,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 6,
         "jogador-assists": 3,
-        "jogador-partidas": 22,
+        "jogador-partidas": 23,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-sc-internacional.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/colombia-johan-stiven-carbonero-balanta.png"
       },
