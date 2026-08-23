@@ -824,45 +824,45 @@
           "name": "São Bernardo FC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-sao-bernardo-fc.png"
         },
-        "points": 31,
+        "points": 32,
         "goalsDiff": 6,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 23,
+          "played": 24,
           "win": 8,
-          "draw": 7,
+          "draw": 8,
           "lose": 8,
           "goals": {
-            "for": 32,
-            "against": 26
+            "for": 33,
+            "against": 27
           },
-          "form": "LLWLD",
-          "btts_matches": 14,
-          "avg_corners_per_game": 4.87,
-          "aproveitamento": 44.9,
+          "form": "LWLDD",
+          "btts_matches": 15,
+          "avg_corners_per_game": 4.83,
+          "aproveitamento": 44.4,
           "over_2_5_goals": 11,
           "over_0_5_ht": 11,
-          "over_0_5_ft": 12,
+          "over_0_5_ft": 13,
           "clean_sheets": 5
         },
         "home": {
-          "played": 12,
+          "played": 13,
           "win": 2,
-          "draw": 5,
+          "draw": 6,
           "lose": 5,
           "goals": {
-            "for": 13,
-            "against": 14
+            "for": 14,
+            "against": 15
           },
-          "form_home": "LDDLL",
-          "avg_corners_home_per_game": 5.75,
-          "aproveitamento_home": 30.6,
-          "btts_home_matches": 6,
+          "form_home": "DDLLD",
+          "avg_corners_home_per_game": 5.62,
+          "aproveitamento_home": 30.8,
+          "btts_home_matches": 7,
           "over_2_5_goals_home": 4,
           "over_0_5_ht_home": 6,
-          "over_0_5_ft_home": 4,
+          "over_0_5_ft_home": 5,
           "clean_sheets_home": 3
         },
         "away": {
@@ -960,27 +960,27 @@
           "name": "Clube Náutico Capibaribe",
           "logo": "https://cdn.footystats.org/img/teams/brazil-clube-nautico-capibaribe.png"
         },
-        "points": 30,
+        "points": 31,
         "goalsDiff": 1,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 23,
+          "played": 24,
           "win": 8,
-          "draw": 6,
+          "draw": 7,
           "lose": 9,
           "goals": {
-            "for": 27,
-            "against": 26
+            "for": 28,
+            "against": 27
           },
-          "form": "WDDDW",
-          "btts_matches": 9,
-          "avg_corners_per_game": 6.48,
-          "aproveitamento": 43.5,
+          "form": "DDDWD",
+          "btts_matches": 10,
+          "avg_corners_per_game": 6.33,
+          "aproveitamento": 43.1,
           "over_2_5_goals": 8,
           "over_0_5_ht": 7,
-          "over_0_5_ft": 12,
+          "over_0_5_ft": 13,
           "clean_sheets": 7
         },
         "home": {
@@ -1002,27 +1002,95 @@
           "clean_sheets_home": 5
         },
         "away": {
-          "played": 12,
+          "played": 13,
           "win": 3,
-          "draw": 4,
+          "draw": 5,
           "lose": 5,
           "goals": {
-            "for": 17,
-            "against": 18
+            "for": 18,
+            "against": 19
           },
-          "form_visitor": "LLLDD",
-          "btts_away_matches": 7,
-          "avg_corners_away_per_game": 4.67,
-          "aproveitamento_away": 36.1,
+          "form_visitor": "LLDDD",
+          "btts_away_matches": 8,
+          "avg_corners_away_per_game": 4.54,
+          "aproveitamento_away": 35.9,
           "over_2_5_goals_away": 5,
           "over_0_5_ht_away": 3,
-          "over_0_5_ft_away": 8,
+          "over_0_5_ft_away": 9,
           "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
         "rank": 16,
+        "team": {
+          "id": 621,
+          "name": "Avai FC",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-avai-fc.png"
+        },
+        "points": 29,
+        "goalsDiff": -3,
+        "group": "Brazil Serie B 2026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 24,
+          "win": 8,
+          "draw": 5,
+          "lose": 11,
+          "goals": {
+            "for": 27,
+            "against": 30
+          },
+          "form": "LLWWW",
+          "btts_matches": 12,
+          "avg_corners_per_game": 4.0,
+          "aproveitamento": 40.3,
+          "over_2_5_goals": 11,
+          "over_0_5_ht": 7,
+          "over_0_5_ft": 15,
+          "clean_sheets": 7
+        },
+        "home": {
+          "played": 12,
+          "win": 5,
+          "draw": 3,
+          "lose": 4,
+          "goals": {
+            "for": 14,
+            "against": 12
+          },
+          "form_home": "WWWLW",
+          "avg_corners_home_per_game": 5.08,
+          "aproveitamento_home": 50.0,
+          "btts_home_matches": 5,
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 6,
+          "clean_sheets_home": 5
+        },
+        "away": {
+          "played": 12,
+          "win": 3,
+          "draw": 2,
+          "lose": 7,
+          "goals": {
+            "for": 13,
+            "against": 18
+          },
+          "form_visitor": "LDLWW",
+          "btts_away_matches": 7,
+          "avg_corners_away_per_game": 2.92,
+          "aproveitamento_away": 30.6,
+          "over_2_5_goals_away": 6,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 9,
+          "clean_sheets_away": 2
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 17,
         "team": {
           "id": 642,
           "name": "Ceará SC",
@@ -1032,7 +1100,7 @@
         "goalsDiff": -5,
         "group": "Brazil Serie B 2026",
         "status": "same",
-        "description": "",
+        "description": "Rebaixamento",
         "all": {
           "played": 24,
           "win": 7,
@@ -1086,74 +1154,6 @@
           "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 5,
           "clean_sheets_away": 2
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 17,
-        "team": {
-          "id": 621,
-          "name": "Avai FC",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-avai-fc.png"
-        },
-        "points": 26,
-        "goalsDiff": -5,
-        "group": "Brazil Serie B 2026",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 23,
-          "win": 7,
-          "draw": 5,
-          "lose": 11,
-          "goals": {
-            "for": 25,
-            "against": 30
-          },
-          "form": "WLLWW",
-          "btts_matches": 12,
-          "avg_corners_per_game": 4.0,
-          "aproveitamento": 37.7,
-          "over_2_5_goals": 11,
-          "over_0_5_ht": 7,
-          "over_0_5_ft": 14,
-          "clean_sheets": 6
-        },
-        "home": {
-          "played": 12,
-          "win": 5,
-          "draw": 3,
-          "lose": 4,
-          "goals": {
-            "for": 14,
-            "against": 12
-          },
-          "form_home": "WWWLW",
-          "avg_corners_home_per_game": 5.08,
-          "aproveitamento_home": 50.0,
-          "btts_home_matches": 5,
-          "over_2_5_goals_home": 5,
-          "over_0_5_ht_home": 5,
-          "over_0_5_ft_home": 6,
-          "clean_sheets_home": 5
-        },
-        "away": {
-          "played": 11,
-          "win": 2,
-          "draw": 2,
-          "lose": 7,
-          "goals": {
-            "for": 11,
-            "against": 18
-          },
-          "form_visitor": "LLDLW",
-          "btts_away_matches": 7,
-          "avg_corners_away_per_game": 2.82,
-          "aproveitamento_away": 24.2,
-          "over_2_5_goals_away": 6,
-          "over_0_5_ht_away": 2,
-          "over_0_5_ft_away": 8,
-          "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1301,40 +1301,40 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-associacao-atletica-ponte-preta.png"
         },
         "points": 10,
-        "goalsDiff": -32,
+        "goalsDiff": -34,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 23,
+          "played": 24,
           "win": 2,
           "draw": 4,
-          "lose": 17,
+          "lose": 18,
           "goals": {
             "for": 16,
-            "against": 48
+            "against": 50
           },
-          "form": "LDLDL",
+          "form": "DLDLL",
           "btts_matches": 12,
-          "avg_corners_per_game": 4.78,
-          "aproveitamento": 14.5,
+          "avg_corners_per_game": 4.83,
+          "aproveitamento": 13.9,
           "over_2_5_goals": 12,
           "over_0_5_ht": 10,
           "over_0_5_ft": 5,
           "clean_sheets": 2
         },
         "home": {
-          "played": 12,
+          "played": 13,
           "win": 1,
           "draw": 4,
-          "lose": 7,
+          "lose": 8,
           "goals": {
             "for": 9,
-            "against": 19
+            "against": 21
           },
-          "form_home": "LLLDD",
-          "avg_corners_home_per_game": 5.5,
-          "aproveitamento_home": 19.4,
+          "form_home": "LLDDL",
+          "avg_corners_home_per_game": 5.54,
+          "aproveitamento_home": 17.9,
           "btts_home_matches": 8,
           "over_2_5_goals_home": 5,
           "over_0_5_ht_home": 6,
