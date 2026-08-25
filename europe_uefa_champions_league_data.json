@@ -1704,32 +1704,32 @@
       {
         "rank": 26,
         "team": {
-          "id": 23,
-          "name": "Celtic FC",
-          "logo": "https://cdn.footystats.org/img/teams/scotland-celtic-fc.png"
+          "id": 595,
+          "name": "LASK Linz",
+          "logo": "https://cdn.footystats.org/img/teams/austria-lask-linz.png"
         },
         "points": 3,
-        "goalsDiff": 3,
+        "goalsDiff": 1,
         "group": "Europe UEFA Champions League 20262027",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 1,
+          "played": 2,
           "win": 1,
           "draw": 0,
-          "lose": 0,
+          "lose": 1,
           "goals": {
-            "for": 3,
-            "against": 0
+            "for": 5,
+            "against": 4
           },
-          "form": "W",
-          "btts_matches": 0,
-          "avg_corners_per_game": 8.0,
-          "aproveitamento": 100.0,
-          "over_2_5_goals": 1,
+          "form": "LW",
+          "btts_matches": 1,
+          "avg_corners_per_game": 6.5,
+          "aproveitamento": 50.0,
+          "over_2_5_goals": 2,
           "over_0_5_ht": 1,
           "over_0_5_ft": 1,
-          "clean_sheets": 1
+          "clean_sheets": 0
         },
         "home": {
           "played": 1,
@@ -1737,32 +1737,32 @@
           "draw": 0,
           "lose": 0,
           "goals": {
-            "for": 3,
-            "against": 0
+            "for": 5,
+            "against": 1
           },
           "form_home": "W",
-          "avg_corners_home_per_game": 8.0,
+          "avg_corners_home_per_game": 10.0,
           "aproveitamento_home": 100.0,
-          "btts_home_matches": 0,
+          "btts_home_matches": 1,
           "over_2_5_goals_home": 1,
           "over_0_5_ht_home": 1,
           "over_0_5_ft_home": 1,
-          "clean_sheets_home": 1
+          "clean_sheets_home": 0
         },
         "away": {
-          "played": 0,
+          "played": 1,
           "win": 0,
           "draw": 0,
-          "lose": 0,
+          "lose": 1,
           "goals": {
             "for": 0,
-            "against": 0
+            "against": 3
           },
-          "form_visitor": "",
+          "form_visitor": "L",
           "btts_away_matches": 0,
-          "avg_corners_away_per_game": 0,
-          "aproveitamento_away": 0,
-          "over_2_5_goals_away": 0,
+          "avg_corners_away_per_game": 3.0,
+          "aproveitamento_away": 0.0,
+          "over_2_5_goals_away": 1,
           "over_0_5_ht_away": 0,
           "over_0_5_ft_away": 0,
           "clean_sheets_away": 0
@@ -1908,6 +1908,74 @@
       {
         "rank": 29,
         "team": {
+          "id": 23,
+          "name": "Celtic FC",
+          "logo": "https://cdn.footystats.org/img/teams/scotland-celtic-fc.png"
+        },
+        "points": 3,
+        "goalsDiff": -1,
+        "group": "Europe UEFA Champions League 20262027",
+        "status": "same",
+        "description": "Rebaixamento",
+        "all": {
+          "played": 2,
+          "win": 1,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 4,
+            "against": 5
+          },
+          "form": "WL",
+          "btts_matches": 1,
+          "avg_corners_per_game": 6.5,
+          "aproveitamento": 50.0,
+          "over_2_5_goals": 2,
+          "over_0_5_ht": 2,
+          "over_0_5_ft": 1,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 1,
+          "win": 1,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 3,
+            "against": 0
+          },
+          "form_home": "W",
+          "avg_corners_home_per_game": 8.0,
+          "aproveitamento_home": 100.0,
+          "btts_home_matches": 0,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 1,
+            "against": 5
+          },
+          "form_visitor": "L",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 5.0,
+          "aproveitamento_away": 0.0,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 1,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 30,
+        "team": {
           "id": 1089,
           "name": "Riga FC",
           "logo": "https://cdn.footystats.org/img/teams/latvia-riga-fc.png"
@@ -1974,7 +2042,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 30,
+        "rank": 31,
         "team": {
           "id": 104,
           "name": "FK Vardar Skopje",
@@ -2042,7 +2110,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 31,
+        "rank": 32,
         "team": {
           "id": 411,
           "name": "Kuopion Palloseura",
@@ -2110,7 +2178,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 32,
+        "rank": 33,
         "team": {
           "id": 2493,
           "name": "Floriana FC",
@@ -2178,7 +2246,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 33,
+        "rank": 34,
         "team": {
           "id": 86,
           "name": "AC Sparta Praha",
@@ -2246,7 +2314,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 34,
+        "rank": 35,
         "team": {
           "id": 335,
           "name": "Viking FK",
@@ -2314,7 +2382,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 35,
+        "rank": 36,
         "team": {
           "id": 1101,
           "name": "AEK Athens FC",
@@ -2382,7 +2450,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 36,
+        "rank": 37,
         "team": {
           "id": 2572,
           "name": "Royal Union Saint-Gilloise",
@@ -2450,7 +2518,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 37,
+        "rank": 38,
         "team": {
           "id": 88,
           "name": "Tallinna FC Flora",
@@ -2518,7 +2586,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 38,
+        "rank": 39,
         "team": {
           "id": 6994,
           "name": "KF Drita",
@@ -2586,7 +2654,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 39,
+        "rank": 40,
         "team": {
           "id": 888,
           "name": "FC Thun",
@@ -2654,7 +2722,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 40,
+        "rank": 41,
         "team": {
           "id": 993,
           "name": "Győri ETO FC",
@@ -2722,7 +2790,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 41,
+        "rank": 42,
         "team": {
           "id": 785,
           "name": "KS Górnik Zabrze",
@@ -2790,7 +2858,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 42,
+        "rank": 43,
         "team": {
           "id": 116,
           "name": "Olympiakos CFP",
@@ -2858,7 +2926,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 43,
+        "rank": 44,
         "team": {
           "id": 3289,
           "name": "Inter Club d'Escaldes",
@@ -2926,7 +2994,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 44,
+        "rank": 45,
         "team": {
           "id": 3542,
           "name": "FK Borac Banja Luka",
@@ -2994,7 +3062,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 45,
+        "rank": 46,
         "team": {
           "id": 9976,
           "name": "CS Petrocub Hînceşti",
@@ -3062,7 +3130,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 46,
+        "rank": 47,
         "team": {
           "id": 4029,
           "name": "FC Atert Bissen",
@@ -3130,7 +3198,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 47,
+        "rank": 48,
         "team": {
           "id": 9977,
           "name": "SP Tre Fiori",
@@ -3198,7 +3266,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 48,
+        "rank": 49,
         "team": {
           "id": 69,
           "name": "The New Saints FC",
@@ -3266,7 +3334,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 49,
+        "rank": 50,
         "team": {
           "id": 977,
           "name": "FK Sutjeska Nikšić",
@@ -3329,74 +3397,6 @@
           "over_2_5_goals_away": 1,
           "over_0_5_ht_away": 0,
           "over_0_5_ft_away": 1,
-          "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 50,
-        "team": {
-          "id": 595,
-          "name": "LASK Linz",
-          "logo": "https://cdn.footystats.org/img/teams/austria-lask-linz.png"
-        },
-        "points": 0,
-        "goalsDiff": -3,
-        "group": "Europe UEFA Champions League 20262027",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 1,
-          "win": 0,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 0,
-            "against": 3
-          },
-          "form": "L",
-          "btts_matches": 0,
-          "avg_corners_per_game": 3.0,
-          "aproveitamento": 0.0,
-          "over_2_5_goals": 1,
-          "over_0_5_ht": 0,
-          "over_0_5_ft": 0,
-          "clean_sheets": 0
-        },
-        "home": {
-          "played": 0,
-          "win": 0,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 0,
-            "against": 0
-          },
-          "form_home": "",
-          "avg_corners_home_per_game": 0,
-          "aproveitamento_home": 0,
-          "btts_home_matches": 0,
-          "over_2_5_goals_home": 0,
-          "over_0_5_ht_home": 0,
-          "over_0_5_ft_home": 0,
-          "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 1,
-          "win": 0,
-          "draw": 0,
-          "lose": 1,
-          "goals": {
-            "for": 0,
-            "against": 3
-          },
-          "form_visitor": "L",
-          "btts_away_matches": 0,
-          "avg_corners_away_per_game": 3.0,
-          "aproveitamento_away": 0.0,
-          "over_2_5_goals_away": 1,
-          "over_0_5_ht_away": 0,
-          "over_0_5_ft_away": 0,
           "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
