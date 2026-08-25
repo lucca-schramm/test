@@ -208,6 +208,74 @@
       {
         "rank": 4,
         "team": {
+          "id": 2712,
+          "name": "Grêmio Novorizontino",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-gremio-novorizontino.png"
+        },
+        "points": 40,
+        "goalsDiff": 18,
+        "group": "Brazil Serie B 2026",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 24,
+          "win": 11,
+          "draw": 7,
+          "lose": 6,
+          "goals": {
+            "for": 39,
+            "against": 21
+          },
+          "form": "WLDWW",
+          "btts_matches": 11,
+          "avg_corners_per_game": 6.04,
+          "aproveitamento": 55.6,
+          "over_2_5_goals": 13,
+          "over_0_5_ht": 11,
+          "over_0_5_ft": 15,
+          "clean_sheets": 9
+        },
+        "home": {
+          "played": 11,
+          "win": 6,
+          "draw": 2,
+          "lose": 3,
+          "goals": {
+            "for": 17,
+            "against": 11
+          },
+          "form_home": "WWLLW",
+          "avg_corners_home_per_game": 7.18,
+          "aproveitamento_home": 60.6,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 7,
+          "over_0_5_ht_home": 5,
+          "over_0_5_ft_home": 9,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 13,
+          "win": 5,
+          "draw": 5,
+          "lose": 3,
+          "goals": {
+            "for": 22,
+            "against": 10
+          },
+          "form_visitor": "LLWDW",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 5.08,
+          "aproveitamento_away": 51.3,
+          "over_2_5_goals_away": 6,
+          "over_0_5_ht_away": 6,
+          "over_0_5_ft_away": 6,
+          "clean_sheets_away": 6
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 5,
+        "team": {
           "id": 2601,
           "name": "Fortaleza EC",
           "logo": "https://cdn.footystats.org/img/teams/brazil-fortaleza-ec.png"
@@ -216,7 +284,7 @@
         "goalsDiff": 6,
         "group": "Brazil Serie B 2026",
         "status": "same",
-        "description": "Copa Libertadores",
+        "description": "Copa Sul-Americana",
         "all": {
           "played": 24,
           "win": 11,
@@ -274,75 +342,75 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "team": {
-          "id": 2712,
-          "name": "Grêmio Novorizontino",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-gremio-novorizontino.png"
+          "id": 614,
+          "name": "SC do Recife",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-sc-do-recife.png"
         },
-        "points": 37,
-        "goalsDiff": 15,
+        "points": 38,
+        "goalsDiff": 10,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "Copa Sul-Americana",
         "all": {
-          "played": 23,
-          "win": 10,
-          "draw": 7,
-          "lose": 6,
+          "played": 24,
+          "win": 9,
+          "draw": 11,
+          "lose": 4,
           "goals": {
-            "for": 35,
-            "against": 20
+            "for": 32,
+            "against": 22
           },
-          "form": "LWLDW",
-          "btts_matches": 10,
-          "avg_corners_per_game": 6.09,
-          "aproveitamento": 53.6,
-          "over_2_5_goals": 12,
-          "over_0_5_ht": 10,
-          "over_0_5_ft": 14,
+          "form": "DWWLW",
+          "btts_matches": 14,
+          "avg_corners_per_game": 4.75,
+          "aproveitamento": 52.8,
+          "over_2_5_goals": 10,
+          "over_0_5_ht": 9,
+          "over_0_5_ft": 16,
           "clean_sheets": 9
         },
         "home": {
-          "played": 11,
-          "win": 6,
-          "draw": 2,
-          "lose": 3,
+          "played": 13,
+          "win": 5,
+          "draw": 7,
+          "lose": 1,
           "goals": {
-            "for": 17,
-            "against": 11
+            "for": 22,
+            "against": 14
           },
-          "form_home": "WWLLW",
-          "avg_corners_home_per_game": 7.18,
-          "aproveitamento_home": 60.6,
-          "btts_home_matches": 6,
-          "over_2_5_goals_home": 7,
-          "over_0_5_ht_home": 5,
-          "over_0_5_ft_home": 9,
-          "clean_sheets_home": 3
+          "form_home": "DDDWW",
+          "avg_corners_home_per_game": 5.46,
+          "aproveitamento_home": 56.4,
+          "btts_home_matches": 9,
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 6,
+          "over_0_5_ft_home": 11,
+          "clean_sheets_home": 4
         },
         "away": {
-          "played": 12,
+          "played": 11,
           "win": 4,
-          "draw": 5,
+          "draw": 4,
           "lose": 3,
           "goals": {
-            "for": 18,
-            "against": 9
+            "for": 10,
+            "against": 8
           },
-          "form_visitor": "WLLWD",
-          "btts_away_matches": 4,
-          "avg_corners_away_per_game": 5.08,
-          "aproveitamento_away": 47.2,
-          "over_2_5_goals_away": 5,
-          "over_0_5_ht_away": 5,
+          "form_visitor": "LLDWL",
+          "btts_away_matches": 5,
+          "avg_corners_away_per_game": 3.91,
+          "aproveitamento_away": 48.5,
+          "over_2_5_goals_away": 4,
+          "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 5,
-          "clean_sheets_away": 6
+          "clean_sheets_away": 5
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "team": {
           "id": 694,
           "name": "Clube de Regatas Brasil",
@@ -352,7 +420,7 @@
         "goalsDiff": 2,
         "group": "Brazil Serie B 2026",
         "status": "same",
-        "description": "Copa Sul-Americana",
+        "description": "",
         "all": {
           "played": 23,
           "win": 10,
@@ -410,7 +478,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "team": {
           "id": 2662,
           "name": "Operário Ferroviário EC",
@@ -478,74 +546,6 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 8,
-        "team": {
-          "id": 614,
-          "name": "SC do Recife",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-sc-do-recife.png"
-        },
-        "points": 35,
-        "goalsDiff": 7,
-        "group": "Brazil Serie B 2026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 23,
-          "win": 8,
-          "draw": 11,
-          "lose": 4,
-          "goals": {
-            "for": 29,
-            "against": 22
-          },
-          "form": "DDWWL",
-          "btts_matches": 14,
-          "avg_corners_per_game": 4.74,
-          "aproveitamento": 50.7,
-          "over_2_5_goals": 9,
-          "over_0_5_ht": 8,
-          "over_0_5_ft": 15,
-          "clean_sheets": 8
-        },
-        "home": {
-          "played": 12,
-          "win": 4,
-          "draw": 7,
-          "lose": 1,
-          "goals": {
-            "for": 19,
-            "against": 14
-          },
-          "form_home": "DDDDW",
-          "avg_corners_home_per_game": 5.5,
-          "aproveitamento_home": 52.8,
-          "btts_home_matches": 9,
-          "over_2_5_goals_home": 5,
-          "over_0_5_ht_home": 5,
-          "over_0_5_ft_home": 10,
-          "clean_sheets_home": 3
-        },
-        "away": {
-          "played": 11,
-          "win": 4,
-          "draw": 4,
-          "lose": 3,
-          "goals": {
-            "for": 10,
-            "against": 8
-          },
-          "form_visitor": "LLDWL",
-          "btts_away_matches": 5,
-          "avg_corners_away_per_game": 3.91,
-          "aproveitamento_away": 48.5,
-          "over_2_5_goals_away": 4,
-          "over_0_5_ht_away": 3,
-          "over_0_5_ft_away": 5,
-          "clean_sheets_away": 5
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
         "rank": 9,
         "team": {
           "id": 677199,
@@ -553,44 +553,44 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-athletic-club-minas-gerais.png"
         },
         "points": 34,
-        "goalsDiff": 3,
+        "goalsDiff": 0,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 23,
+          "played": 24,
           "win": 8,
           "draw": 10,
-          "lose": 5,
+          "lose": 6,
           "goals": {
-            "for": 24,
-            "against": 21
+            "for": 25,
+            "against": 25
           },
-          "form": "WDWWL",
-          "btts_matches": 13,
-          "avg_corners_per_game": 4.26,
-          "aproveitamento": 49.3,
-          "over_2_5_goals": 6,
+          "form": "DWWLL",
+          "btts_matches": 14,
+          "avg_corners_per_game": 4.46,
+          "aproveitamento": 47.2,
+          "over_2_5_goals": 7,
           "over_0_5_ht": 9,
-          "over_0_5_ft": 11,
+          "over_0_5_ft": 12,
           "clean_sheets": 6
         },
         "home": {
-          "played": 12,
+          "played": 13,
           "win": 5,
           "draw": 4,
-          "lose": 3,
+          "lose": 4,
           "goals": {
-            "for": 11,
-            "against": 9
+            "for": 12,
+            "against": 13
           },
-          "form_home": "WLWWL",
-          "avg_corners_home_per_game": 5.33,
-          "aproveitamento_home": 52.8,
-          "btts_home_matches": 5,
-          "over_2_5_goals_home": 2,
+          "form_home": "LWWLL",
+          "avg_corners_home_per_game": 5.62,
+          "aproveitamento_home": 48.7,
+          "btts_home_matches": 6,
+          "over_2_5_goals_home": 3,
           "over_0_5_ht_home": 5,
-          "over_0_5_ft_home": 5,
+          "over_0_5_ft_home": 6,
           "clean_sheets_home": 4
         },
         "away": {
@@ -1233,24 +1233,24 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-america-fc-minas-gerais.png"
         },
         "points": 11,
-        "goalsDiff": -23,
+        "goalsDiff": -26,
         "group": "Brazil Serie B 2026",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 23,
+          "played": 24,
           "win": 2,
           "draw": 5,
-          "lose": 16,
+          "lose": 17,
           "goals": {
             "for": 16,
-            "against": 39
+            "against": 42
           },
-          "form": "LWLLL",
+          "form": "WLLLL",
           "btts_matches": 12,
-          "avg_corners_per_game": 5.22,
-          "aproveitamento": 15.9,
-          "over_2_5_goals": 13,
+          "avg_corners_per_game": 5.42,
+          "aproveitamento": 15.3,
+          "over_2_5_goals": 14,
           "over_0_5_ht": 8,
           "over_0_5_ft": 7,
           "clean_sheets": 3
@@ -1274,19 +1274,19 @@
           "clean_sheets_home": 2
         },
         "away": {
-          "played": 12,
+          "played": 13,
           "win": 1,
           "draw": 2,
-          "lose": 9,
+          "lose": 10,
           "goals": {
             "for": 8,
-            "against": 22
+            "against": 25
           },
           "form_visitor": "LLLLL",
           "btts_away_matches": 5,
-          "avg_corners_away_per_game": 5.17,
-          "aproveitamento_away": 13.9,
-          "over_2_5_goals_away": 7,
+          "avg_corners_away_per_game": 5.54,
+          "aproveitamento_away": 12.8,
+          "over_2_5_goals_away": 8,
           "over_0_5_ht_away": 3,
           "over_0_5_ft_away": 4,
           "clean_sheets_away": 1
@@ -1402,6 +1402,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-gabriel-boschilia.png"
       },
       {
+        "jogador-nome": "Pedro Henrique Perotti",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 10,
+        "jogador-assists": 0,
+        "jogador-partidas": 23,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-sc-do-recife.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-pedro-henrique-perotti.png"
+      },
+      {
         "jogador-nome": "Chrystian Amaral Barletta de Almeida",
         "jogador-posicao": "Forward",
         "jogador-gols": 9,
@@ -1409,15 +1418,6 @@
         "jogador-partidas": 19,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-sc-do-recife.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-chrystian-barletta.png"
-      },
-      {
-        "jogador-nome": "Pedro Henrique Perotti",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 9,
-        "jogador-assists": 0,
-        "jogador-partidas": 22,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-sc-do-recife.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-pedro-henrique-perotti.png"
       },
       {
         "jogador-nome": "Gustavo Coutinho Silva Lopes",
