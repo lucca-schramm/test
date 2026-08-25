@@ -144,27 +144,27 @@
           "name": "CA Paranaense",
           "logo": "https://cdn.footystats.org/img/teams/brazil-ca-paranaense.png"
         },
-        "points": 41,
-        "goalsDiff": 11,
+        "points": 44,
+        "goalsDiff": 12,
         "group": "Brazil Serie A 2026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 23,
-          "win": 12,
+          "played": 24,
+          "win": 13,
           "draw": 5,
           "lose": 6,
           "goals": {
-            "for": 31,
-            "against": 20
+            "for": 34,
+            "against": 22
           },
-          "form": "WWDWD",
-          "btts_matches": 11,
-          "avg_corners_per_game": 4.83,
-          "aproveitamento": 59.4,
-          "over_2_5_goals": 9,
-          "over_0_5_ht": 11,
-          "over_0_5_ft": 13,
+          "form": "WDWDW",
+          "btts_matches": 12,
+          "avg_corners_per_game": 4.71,
+          "aproveitamento": 61.1,
+          "over_2_5_goals": 10,
+          "over_0_5_ht": 12,
+          "over_0_5_ft": 14,
           "clean_sheets": 8
         },
         "home": {
@@ -186,21 +186,21 @@
           "clean_sheets_home": 5
         },
         "away": {
-          "played": 11,
-          "win": 4,
+          "played": 12,
+          "win": 5,
           "draw": 2,
           "lose": 5,
           "goals": {
-            "for": 11,
-            "against": 13
+            "for": 14,
+            "against": 15
           },
-          "form_visitor": "LWWDW",
-          "btts_away_matches": 5,
-          "avg_corners_away_per_game": 3.73,
-          "aproveitamento_away": 42.4,
-          "over_2_5_goals_away": 5,
-          "over_0_5_ht_away": 4,
-          "over_0_5_ft_away": 5,
+          "form_visitor": "WWDWW",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 3.58,
+          "aproveitamento_away": 47.2,
+          "over_2_5_goals_away": 6,
+          "over_0_5_ht_away": 5,
+          "over_0_5_ft_away": 6,
           "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -689,44 +689,44 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-botafogo-fr.png"
         },
         "points": 30,
-        "goalsDiff": 1,
+        "goalsDiff": 0,
         "group": "Brazil Serie A 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 22,
+          "played": 23,
           "win": 8,
           "draw": 6,
-          "lose": 8,
+          "lose": 9,
           "goals": {
-            "for": 35,
-            "against": 34
+            "for": 37,
+            "against": 37
           },
-          "form": "WDWDL",
-          "btts_matches": 16,
-          "avg_corners_per_game": 4.05,
-          "aproveitamento": 45.5,
-          "over_2_5_goals": 15,
+          "form": "DWDLL",
+          "btts_matches": 17,
+          "avg_corners_per_game": 4.43,
+          "aproveitamento": 43.5,
+          "over_2_5_goals": 16,
           "over_0_5_ht": 11,
-          "over_0_5_ft": 13,
+          "over_0_5_ft": 14,
           "clean_sheets": 3
         },
         "home": {
-          "played": 10,
+          "played": 11,
           "win": 4,
           "draw": 4,
-          "lose": 2,
+          "lose": 3,
           "goals": {
-            "for": 18,
-            "against": 14
+            "for": 20,
+            "against": 17
           },
-          "form_home": "LWWDD",
-          "avg_corners_home_per_game": 5.0,
-          "aproveitamento_home": 53.3,
-          "btts_home_matches": 7,
-          "over_2_5_goals_home": 8,
+          "form_home": "WWDDL",
+          "avg_corners_home_per_game": 5.73,
+          "aproveitamento_home": 48.5,
+          "btts_home_matches": 8,
+          "over_2_5_goals_home": 9,
           "over_0_5_ht_home": 5,
-          "over_0_5_ft_home": 6,
+          "over_0_5_ft_home": 7,
           "clean_sheets_home": 2
         },
         "away": {
@@ -1366,6 +1366,15 @@
   "artilharia": {
     "brazil_serie_a": [
       {
+        "jogador-nome": "Kevin Stiven Viveros Rodallega",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 16,
+        "jogador-assists": 3,
+        "jogador-partidas": 23,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ca-paranaense.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/colombia-kevin-stiven-viveros-rodallega.png"
+      },
+      {
         "jogador-nome": "Pedro Guilherme Abreu dos Santos",
         "jogador-posicao": "Forward",
         "jogador-gols": 15,
@@ -1373,15 +1382,6 @@
         "jogador-partidas": 23,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-cr-flamengo.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-pedro-guilherme-abreu-dos-santos.png"
-      },
-      {
-        "jogador-nome": "Kevin Stiven Viveros Rodallega",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 14,
-        "jogador-assists": 3,
-        "jogador-partidas": 22,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-ca-paranaense.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/colombia-kevin-stiven-viveros-rodallega.png"
       },
       {
         "jogador-nome": "Carlos Vinícius Alves Morais",
