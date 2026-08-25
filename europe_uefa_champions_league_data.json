@@ -412,6 +412,74 @@
       {
         "rank": 7,
         "team": {
+          "id": 332,
+          "name": "FK Bodo - Glimt",
+          "logo": "https://cdn.footystats.org/img/teams/norway-fk-bodo-glimt.png"
+        },
+        "points": 10,
+        "goalsDiff": 6,
+        "group": "Europe UEFA Champions League 20262027",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 4,
+          "win": 3,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 12,
+            "against": 6
+          },
+          "form": "DWWW",
+          "btts_matches": 3,
+          "avg_corners_per_game": 4.0,
+          "aproveitamento": 83.3,
+          "over_2_5_goals": 4,
+          "over_0_5_ht": 3,
+          "over_0_5_ft": 4,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 2,
+          "win": 2,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 6,
+            "against": 2
+          },
+          "form_home": "WW",
+          "avg_corners_home_per_game": 7.0,
+          "aproveitamento_home": 100.0,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 2,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 2,
+          "win": 1,
+          "draw": 1,
+          "lose": 0,
+          "goals": {
+            "for": 6,
+            "against": 4
+          },
+          "form_visitor": "DW",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 1.0,
+          "aproveitamento_away": 66.7,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 8,
+        "team": {
           "id": 1362,
           "name": "FC Avan Academy",
           "logo": "https://cdn.footystats.org/img/teams/armenia-fc-avan-academy.png"
@@ -478,7 +546,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "team": {
           "id": 5408,
           "name": "FK Kairat Almaty",
@@ -546,7 +614,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "team": {
           "id": 1231,
           "name": "FK Kauno Žalgiris",
@@ -610,74 +678,6 @@
           "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 1,
           "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 10,
-        "team": {
-          "id": 332,
-          "name": "FK Bodo - Glimt",
-          "logo": "https://cdn.footystats.org/img/teams/norway-fk-bodo-glimt.png"
-        },
-        "points": 7,
-        "goalsDiff": 3,
-        "group": "Europe UEFA Champions League 20262027",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 3,
-          "win": 2,
-          "draw": 1,
-          "lose": 0,
-          "goals": {
-            "for": 9,
-            "against": 6
-          },
-          "form": "DWW",
-          "btts_matches": 3,
-          "avg_corners_per_game": 4.0,
-          "aproveitamento": 77.8,
-          "over_2_5_goals": 3,
-          "over_0_5_ht": 2,
-          "over_0_5_ft": 3,
-          "clean_sheets": 0
-        },
-        "home": {
-          "played": 1,
-          "win": 1,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 3,
-            "against": 2
-          },
-          "form_home": "W",
-          "avg_corners_home_per_game": 10.0,
-          "aproveitamento_home": 100.0,
-          "btts_home_matches": 1,
-          "over_2_5_goals_home": 1,
-          "over_0_5_ht_home": 0,
-          "over_0_5_ft_home": 1,
-          "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 2,
-          "win": 1,
-          "draw": 1,
-          "lose": 0,
-          "goals": {
-            "for": 6,
-            "against": 4
-          },
-          "form_visitor": "DW",
-          "btts_away_matches": 2,
-          "avg_corners_away_per_game": 1.0,
-          "aproveitamento_away": 66.7,
-          "over_2_5_goals_away": 2,
-          "over_0_5_ht_away": 2,
-          "over_0_5_ft_away": 2,
-          "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1641,24 +1641,24 @@
           "logo": "https://cdn.footystats.org/img/teams/netherlands-nijmegen-eendracht-combinatie.png"
         },
         "points": 4,
-        "goalsDiff": -1,
+        "goalsDiff": -4,
         "group": "Europe UEFA Champions League 20262027",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 3,
+          "played": 4,
           "win": 1,
           "draw": 1,
-          "lose": 1,
+          "lose": 2,
           "goals": {
             "for": 3,
-            "against": 4
+            "against": 7
           },
-          "form": "DWL",
+          "form": "DWLL",
           "btts_matches": 2,
-          "avg_corners_per_game": 4.0,
-          "aproveitamento": 44.4,
-          "over_2_5_goals": 2,
+          "avg_corners_per_game": 3.5,
+          "aproveitamento": 33.3,
+          "over_2_5_goals": 3,
           "over_0_5_ht": 0,
           "over_0_5_ft": 2,
           "clean_sheets": 1
@@ -1682,19 +1682,19 @@
           "clean_sheets_home": 0
         },
         "away": {
-          "played": 1,
+          "played": 2,
           "win": 0,
           "draw": 1,
-          "lose": 0,
+          "lose": 1,
           "goals": {
             "for": 0,
-            "against": 0
+            "against": 3
           },
-          "form_visitor": "D",
+          "form_visitor": "DL",
           "btts_away_matches": 0,
           "avg_corners_away_per_game": 2.0,
-          "aproveitamento_away": 33.3,
-          "over_2_5_goals_away": 0,
+          "aproveitamento_away": 16.7,
+          "over_2_5_goals_away": 1,
           "over_0_5_ht_away": 0,
           "over_0_5_ft_away": 0,
           "clean_sheets_away": 1
@@ -3708,7 +3708,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 2,
         "jogador-assists": 1,
-        "jogador-partidas": 3,
+        "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/norway-fk-bodo-glimt.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/norway-andreas-klausen-helmersen.png"
       },
