@@ -140,6 +140,74 @@
       {
         "rank": 3,
         "team": {
+          "id": 982,
+          "name": "ŠK Slovan Bratislava",
+          "logo": "https://cdn.footystats.org/img/teams/slovakia-sk-slovan-bratislava.png"
+        },
+        "points": 14,
+        "goalsDiff": 6,
+        "group": "Europe UEFA Champions League 20262027",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 6,
+          "win": 4,
+          "draw": 2,
+          "lose": 0,
+          "goals": {
+            "for": 10,
+            "against": 4
+          },
+          "form": "DWWDW",
+          "btts_matches": 4,
+          "avg_corners_per_game": 3.33,
+          "aproveitamento": 77.8,
+          "over_2_5_goals": 2,
+          "over_0_5_ht": 4,
+          "over_0_5_ft": 3,
+          "clean_sheets": 2
+        },
+        "home": {
+          "played": 3,
+          "win": 1,
+          "draw": 2,
+          "lose": 0,
+          "goals": {
+            "for": 4,
+            "against": 2
+          },
+          "form_home": "DWD",
+          "avg_corners_home_per_game": 2.33,
+          "aproveitamento_home": 55.6,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 0,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 3,
+          "win": 3,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 6,
+            "against": 2
+          },
+          "form_visitor": "WWW",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 4.33,
+          "aproveitamento_away": 100.0,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 2,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 4,
+        "team": {
           "id": 105,
           "name": "Fenerbahçe",
           "logo": "https://cdn.footystats.org/img/teams/turkey-fenerbahce.png"
@@ -206,7 +274,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "team": {
           "id": 58,
           "name": "Hapoel Be'er Sheva FC",
@@ -216,7 +284,7 @@
         "goalsDiff": 2,
         "group": "Europe UEFA Champions League 20262027",
         "status": "same",
-        "description": "Copa Libertadores",
+        "description": "Copa Sul-Americana",
         "all": {
           "played": 6,
           "win": 4,
@@ -274,7 +342,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "team": {
           "id": 122,
           "name": "GNK Dinamo Zagreb",
@@ -338,74 +406,6 @@
           "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 1,
           "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 6,
-        "team": {
-          "id": 982,
-          "name": "ŠK Slovan Bratislava",
-          "logo": "https://cdn.footystats.org/img/teams/slovakia-sk-slovan-bratislava.png"
-        },
-        "points": 11,
-        "goalsDiff": 5,
-        "group": "Europe UEFA Champions League 20262027",
-        "status": "same",
-        "description": "Copa Sul-Americana",
-        "all": {
-          "played": 5,
-          "win": 3,
-          "draw": 2,
-          "lose": 0,
-          "goals": {
-            "for": 8,
-            "against": 3
-          },
-          "form": "WDWWD",
-          "btts_matches": 3,
-          "avg_corners_per_game": 2.4,
-          "aproveitamento": 73.3,
-          "over_2_5_goals": 1,
-          "over_0_5_ht": 3,
-          "over_0_5_ft": 2,
-          "clean_sheets": 2
-        },
-        "home": {
-          "played": 3,
-          "win": 1,
-          "draw": 2,
-          "lose": 0,
-          "goals": {
-            "for": 4,
-            "against": 2
-          },
-          "form_home": "DWD",
-          "avg_corners_home_per_game": 2.33,
-          "aproveitamento_home": 55.6,
-          "btts_home_matches": 2,
-          "over_2_5_goals_home": 0,
-          "over_0_5_ht_home": 2,
-          "over_0_5_ft_home": 1,
-          "clean_sheets_home": 1
-        },
-        "away": {
-          "played": 2,
-          "win": 2,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 4,
-            "against": 1
-          },
-          "form_visitor": "WW",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 2.5,
-          "aproveitamento_away": 100.0,
-          "over_2_5_goals_away": 1,
-          "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 1,
-          "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
@@ -1301,43 +1301,43 @@
           "logo": "https://cdn.footystats.org/img/teams/slovenia-nk-celje.png"
         },
         "points": 6,
-        "goalsDiff": 1,
+        "goalsDiff": 0,
         "group": "Europe UEFA Champions League 20262027",
         "status": "same",
         "description": "Rebaixamento",
         "all": {
-          "played": 5,
+          "played": 6,
           "win": 1,
           "draw": 3,
-          "lose": 1,
+          "lose": 2,
           "goals": {
-            "for": 9,
-            "against": 8
+            "for": 10,
+            "against": 10
           },
-          "form": "DDLWD",
-          "btts_matches": 4,
-          "avg_corners_per_game": 5.2,
-          "aproveitamento": 40.0,
-          "over_2_5_goals": 3,
-          "over_0_5_ht": 4,
+          "form": "DLWDL",
+          "btts_matches": 5,
+          "avg_corners_per_game": 5.17,
+          "aproveitamento": 33.3,
+          "over_2_5_goals": 4,
+          "over_0_5_ht": 5,
           "over_0_5_ft": 3,
           "clean_sheets": 1
         },
         "home": {
-          "played": 2,
+          "played": 3,
           "win": 1,
           "draw": 1,
-          "lose": 0,
+          "lose": 1,
           "goals": {
-            "for": 4,
-            "against": 2
+            "for": 5,
+            "against": 4
           },
-          "form_home": "DW",
-          "avg_corners_home_per_game": 8.0,
-          "aproveitamento_home": 66.7,
-          "btts_home_matches": 1,
-          "over_2_5_goals_home": 1,
-          "over_0_5_ht_home": 1,
+          "form_home": "DWL",
+          "avg_corners_home_per_game": 7.0,
+          "aproveitamento_home": 44.4,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 2,
           "over_0_5_ft_home": 2,
           "clean_sheets_home": 1
         },
@@ -3573,7 +3573,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 4,
         "jogador-assists": 1,
-        "jogador-partidas": 5,
+        "jogador-partidas": 6,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/slovenia-nk-celje.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/bosnia-and-herzegovina-mario-kvesic.png"
       },
@@ -3668,11 +3668,20 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/morocco-amine-benchaib.png"
       },
       {
+        "jogador-nome": "Svit Sešlar",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 2,
+        "jogador-assists": 1,
+        "jogador-partidas": 6,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/slovenia-nk-celje.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/slovenia-svit-seslar.png"
+      },
+      {
         "jogador-nome": "Suleiman Camara Sanneh",
         "jogador-posicao": "Forward",
         "jogador-gols": 2,
         "jogador-assists": 1,
-        "jogador-partidas": 3,
+        "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/slovakia-sk-slovan-bratislava.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/spain-suleiman-camara-sanneh.png"
       },
@@ -3711,15 +3720,6 @@
         "jogador-partidas": 6,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/israel-hapoel-beer-sheva-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/jamaica-jovan-romario-east.png"
-      },
-      {
-        "jogador-nome": "Andreas Klausen Helmersen",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 2,
-        "jogador-assists": 1,
-        "jogador-partidas": 4,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/norway-fk-bodo-glimt.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/norway-andreas-klausen-helmersen.png"
       }
     ]
   }
