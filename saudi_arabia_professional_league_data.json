@@ -616,6 +616,74 @@
       {
         "rank": 10,
         "team": {
+          "id": 5089,
+          "name": "Al Hazm",
+          "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-hazm.png"
+        },
+        "points": 4,
+        "goalsDiff": -1,
+        "group": "Saudi Arabia Professional League 20262027",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 4,
+          "win": 1,
+          "draw": 1,
+          "lose": 2,
+          "goals": {
+            "for": 5,
+            "against": 6
+          },
+          "form": "WLLD",
+          "btts_matches": 3,
+          "avg_corners_per_game": 2.75,
+          "aproveitamento": 33.3,
+          "over_2_5_goals": 2,
+          "over_0_5_ht": 2,
+          "over_0_5_ft": 2,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 2,
+          "win": 0,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 1,
+            "against": 2
+          },
+          "form_home": "LD",
+          "avg_corners_home_per_game": 3.5,
+          "aproveitamento_home": 16.7,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 0,
+          "over_0_5_ht_home": 0,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 2,
+          "win": 1,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 4,
+            "against": 4
+          },
+          "form_visitor": "WL",
+          "btts_away_matches": 2,
+          "avg_corners_away_per_game": 2.0,
+          "aproveitamento_away": 50.0,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 11,
+        "team": {
           "id": 5071,
           "name": "Al Feiha",
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-feiha.png"
@@ -682,7 +750,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 11,
+        "rank": 12,
         "team": {
           "id": 5088,
           "name": "Al Riyadh SC",
@@ -750,75 +818,75 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "team": {
-          "id": 5089,
-          "name": "Al Hazm",
-          "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-hazm.png"
+          "id": 5067,
+          "name": "Al Shabab FC Riyadh",
+          "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-shabab-fc-riyadh.png"
         },
         "points": 3,
-        "goalsDiff": -1,
+        "goalsDiff": -2,
         "group": "Saudi Arabia Professional League 20262027",
         "status": "same",
         "description": "",
         "all": {
-          "played": 3,
-          "win": 1,
-          "draw": 0,
-          "lose": 2,
-          "goals": {
-            "for": 4,
-            "against": 5
-          },
-          "form": "WLL",
-          "btts_matches": 2,
-          "avg_corners_per_game": 2.67,
-          "aproveitamento": 33.3,
-          "over_2_5_goals": 2,
-          "over_0_5_ht": 2,
-          "over_0_5_ft": 1,
-          "clean_sheets": 0
-        },
-        "home": {
-          "played": 1,
+          "played": 4,
           "win": 0,
-          "draw": 0,
+          "draw": 3,
           "lose": 1,
           "goals": {
-            "for": 0,
-            "against": 1
+            "for": 5,
+            "against": 7
           },
-          "form_home": "L",
-          "avg_corners_home_per_game": 4.0,
-          "aproveitamento_home": 0.0,
-          "btts_home_matches": 0,
-          "over_2_5_goals_home": 0,
-          "over_0_5_ht_home": 0,
-          "over_0_5_ft_home": 0,
+          "form": "LDDD",
+          "btts_matches": 3,
+          "avg_corners_per_game": 7.5,
+          "aproveitamento": 25.0,
+          "over_2_5_goals": 2,
+          "over_0_5_ht": 2,
+          "over_0_5_ft": 2,
+          "clean_sheets": 1
+        },
+        "home": {
+          "played": 2,
+          "win": 0,
+          "draw": 1,
+          "lose": 1,
+          "goals": {
+            "for": 4,
+            "against": 6
+          },
+          "form_home": "LD",
+          "avg_corners_home_per_game": 8.0,
+          "aproveitamento_home": 16.7,
+          "btts_home_matches": 2,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 1,
           "clean_sheets_home": 0
         },
         "away": {
           "played": 2,
-          "win": 1,
-          "draw": 0,
-          "lose": 1,
+          "win": 0,
+          "draw": 2,
+          "lose": 0,
           "goals": {
-            "for": 4,
-            "against": 4
+            "for": 1,
+            "against": 1
           },
-          "form_visitor": "WL",
-          "btts_away_matches": 2,
-          "avg_corners_away_per_game": 2.0,
-          "aproveitamento_away": 50.0,
-          "over_2_5_goals_away": 2,
-          "over_0_5_ht_away": 2,
+          "form_visitor": "DD",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 7.0,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 0,
+          "over_0_5_ht_away": 0,
           "over_0_5_ft_away": 1,
-          "clean_sheets_away": 0
+          "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "team": {
           "id": 5077,
           "name": "Al Khaleej Saihat",
@@ -880,74 +948,6 @@
           "aproveitamento_away": 33.3,
           "over_2_5_goals_away": 0,
           "over_0_5_ht_away": 1,
-          "over_0_5_ft_away": 0,
-          "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 14,
-        "team": {
-          "id": 5067,
-          "name": "Al Shabab FC Riyadh",
-          "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-shabab-fc-riyadh.png"
-        },
-        "points": 2,
-        "goalsDiff": -2,
-        "group": "Saudi Arabia Professional League 20262027",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 3,
-          "win": 0,
-          "draw": 2,
-          "lose": 1,
-          "goals": {
-            "for": 4,
-            "against": 6
-          },
-          "form": "LDD",
-          "btts_matches": 2,
-          "avg_corners_per_game": 7.33,
-          "aproveitamento": 22.2,
-          "over_2_5_goals": 2,
-          "over_0_5_ht": 2,
-          "over_0_5_ft": 1,
-          "clean_sheets": 1
-        },
-        "home": {
-          "played": 2,
-          "win": 0,
-          "draw": 1,
-          "lose": 1,
-          "goals": {
-            "for": 4,
-            "against": 6
-          },
-          "form_home": "LD",
-          "avg_corners_home_per_game": 8.0,
-          "aproveitamento_home": 16.7,
-          "btts_home_matches": 2,
-          "over_2_5_goals_home": 2,
-          "over_0_5_ht_home": 2,
-          "over_0_5_ft_home": 1,
-          "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 1,
-          "win": 0,
-          "draw": 1,
-          "lose": 0,
-          "goals": {
-            "for": 0,
-            "against": 0
-          },
-          "form_visitor": "D",
-          "btts_away_matches": 0,
-          "avg_corners_away_per_game": 6.0,
-          "aproveitamento_away": 33.3,
-          "over_2_5_goals_away": 0,
-          "over_0_5_ht_away": 0,
           "over_0_5_ft_away": 0,
           "clean_sheets_away": 1
         },
