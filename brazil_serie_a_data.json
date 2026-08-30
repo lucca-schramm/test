@@ -485,26 +485,26 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-clube-atletico-bragantino.png"
         },
         "points": 35,
-        "goalsDiff": 5,
+        "goalsDiff": 4,
         "group": "Brazil Serie A 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 23,
+          "played": 24,
           "win": 10,
           "draw": 5,
-          "lose": 8,
+          "lose": 9,
           "goals": {
-            "for": 28,
-            "against": 23
+            "for": 29,
+            "against": 25
           },
-          "form": "DDLDW",
-          "btts_matches": 10,
-          "avg_corners_per_game": 5.57,
-          "aproveitamento": 50.7,
-          "over_2_5_goals": 8,
+          "form": "DLDWL",
+          "btts_matches": 11,
+          "avg_corners_per_game": 5.62,
+          "aproveitamento": 48.6,
+          "over_2_5_goals": 9,
           "over_0_5_ht": 12,
-          "over_0_5_ft": 11,
+          "over_0_5_ft": 12,
           "clean_sheets": 8
         },
         "home": {
@@ -526,21 +526,21 @@
           "clean_sheets_home": 5
         },
         "away": {
-          "played": 11,
+          "played": 12,
           "win": 4,
           "draw": 3,
-          "lose": 4,
+          "lose": 5,
           "goals": {
-            "for": 11,
-            "against": 12
+            "for": 12,
+            "against": 14
           },
-          "form_visitor": "WLWDD",
-          "btts_away_matches": 5,
-          "avg_corners_away_per_game": 4.91,
-          "aproveitamento_away": 45.5,
-          "over_2_5_goals_away": 3,
+          "form_visitor": "LWDDL",
+          "btts_away_matches": 6,
+          "avg_corners_away_per_game": 5.08,
+          "aproveitamento_away": 41.7,
+          "over_2_5_goals_away": 4,
           "over_0_5_ht_away": 4,
-          "over_0_5_ft_away": 6,
+          "over_0_5_ft_away": 7,
           "clean_sheets_away": 3
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -684,6 +684,74 @@
       {
         "rank": 11,
         "team": {
+          "id": 618,
+          "name": "São Paulo FC",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-sao-paulo-fc.png"
+        },
+        "points": 30,
+        "goalsDiff": 1,
+        "group": "Brazil Serie A 2026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 24,
+          "win": 8,
+          "draw": 6,
+          "lose": 10,
+          "goals": {
+            "for": 29,
+            "against": 28
+          },
+          "form": "DLDLW",
+          "btts_matches": 15,
+          "avg_corners_per_game": 6.38,
+          "aproveitamento": 41.7,
+          "over_2_5_goals": 10,
+          "over_0_5_ht": 10,
+          "over_0_5_ft": 13,
+          "clean_sheets": 4
+        },
+        "home": {
+          "played": 11,
+          "win": 6,
+          "draw": 3,
+          "lose": 2,
+          "goals": {
+            "for": 18,
+            "against": 10
+          },
+          "form_home": "DDLDW",
+          "avg_corners_home_per_game": 7.64,
+          "aproveitamento_home": 63.6,
+          "btts_home_matches": 7,
+          "over_2_5_goals_home": 5,
+          "over_0_5_ht_home": 7,
+          "over_0_5_ft_home": 6,
+          "clean_sheets_home": 3
+        },
+        "away": {
+          "played": 13,
+          "win": 2,
+          "draw": 3,
+          "lose": 8,
+          "goals": {
+            "for": 11,
+            "against": 18
+          },
+          "form_visitor": "LLDLL",
+          "btts_away_matches": 8,
+          "avg_corners_away_per_game": 5.31,
+          "aproveitamento_away": 23.1,
+          "over_2_5_goals_away": 5,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 7,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 12,
+        "team": {
           "id": 615,
           "name": "Botafogo FR",
           "logo": "https://cdn.footystats.org/img/teams/brazil-botafogo-fr.png"
@@ -750,7 +818,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "team": {
           "id": 610,
           "name": "EC Vitória",
@@ -813,74 +881,6 @@
           "over_2_5_goals_away": 6,
           "over_0_5_ht_away": 2,
           "over_0_5_ft_away": 5,
-          "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 13,
-        "team": {
-          "id": 618,
-          "name": "São Paulo FC",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-sao-paulo-fc.png"
-        },
-        "points": 27,
-        "goalsDiff": 0,
-        "group": "Brazil Serie A 2026",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 23,
-          "win": 7,
-          "draw": 6,
-          "lose": 10,
-          "goals": {
-            "for": 27,
-            "against": 27
-          },
-          "form": "LDLDL",
-          "btts_matches": 14,
-          "avg_corners_per_game": 6.26,
-          "aproveitamento": 39.1,
-          "over_2_5_goals": 9,
-          "over_0_5_ht": 9,
-          "over_0_5_ft": 13,
-          "clean_sheets": 4
-        },
-        "home": {
-          "played": 10,
-          "win": 5,
-          "draw": 3,
-          "lose": 2,
-          "goals": {
-            "for": 16,
-            "against": 9
-          },
-          "form_home": "WDDLD",
-          "avg_corners_home_per_game": 7.5,
-          "aproveitamento_home": 60.0,
-          "btts_home_matches": 6,
-          "over_2_5_goals_home": 4,
-          "over_0_5_ht_home": 6,
-          "over_0_5_ft_home": 6,
-          "clean_sheets_home": 3
-        },
-        "away": {
-          "played": 13,
-          "win": 2,
-          "draw": 3,
-          "lose": 8,
-          "goals": {
-            "for": 11,
-            "against": 18
-          },
-          "form_visitor": "LLDLL",
-          "btts_away_matches": 8,
-          "avg_corners_away_per_game": 5.31,
-          "aproveitamento_away": 23.1,
-          "over_2_5_goals_away": 5,
-          "over_0_5_ht_away": 3,
-          "over_0_5_ft_away": 7,
           "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1429,6 +1429,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-breno-lopes.png"
       },
       {
+        "jogador-nome": "Luciano da Rocha Neves",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 7,
+        "jogador-assists": 2,
+        "jogador-partidas": 20,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-sao-paulo-fc.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-luciano-da-rocha-neves.png"
+      },
+      {
         "jogador-nome": "Danilo dos Santos de Oliveira",
         "jogador-posicao": "Midfielder",
         "jogador-gols": 7,
@@ -1517,15 +1526,6 @@
         "jogador-partidas": 21,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-cruzeiro-ec.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-matheus-fellipe-costa-pereira.png"
-      },
-      {
-        "jogador-nome": "Luciano da Rocha Neves",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 6,
-        "jogador-assists": 2,
-        "jogador-partidas": 19,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-sao-paulo-fc.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-luciano-da-rocha-neves.png"
       },
       {
         "jogador-nome": "Pedro Rocha Neves",
