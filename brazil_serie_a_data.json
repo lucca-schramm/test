@@ -76,46 +76,46 @@
           "name": "CR Flamengo",
           "logo": "https://cdn.footystats.org/img/teams/brazil-cr-flamengo.png"
         },
-        "points": 45,
-        "goalsDiff": 24,
+        "points": 48,
+        "goalsDiff": 27,
         "group": "Brazil Serie A 2026",
         "status": "same",
         "description": "Copa Libertadores",
         "all": {
-          "played": 23,
-          "win": 13,
+          "played": 24,
+          "win": 14,
           "draw": 6,
           "lose": 4,
           "goals": {
-            "for": 45,
+            "for": 48,
             "against": 21
           },
-          "form": "DDWWL",
+          "form": "DWWLW",
           "btts_matches": 12,
-          "avg_corners_per_game": 4.43,
-          "aproveitamento": 65.2,
-          "over_2_5_goals": 14,
-          "over_0_5_ht": 14,
-          "over_0_5_ft": 18,
-          "clean_sheets": 9
+          "avg_corners_per_game": 4.46,
+          "aproveitamento": 66.7,
+          "over_2_5_goals": 15,
+          "over_0_5_ht": 15,
+          "over_0_5_ft": 19,
+          "clean_sheets": 10
         },
         "home": {
-          "played": 10,
-          "win": 6,
+          "played": 11,
+          "win": 7,
           "draw": 3,
           "lose": 1,
           "goals": {
-            "for": 19,
+            "for": 22,
             "against": 8
           },
-          "form_home": "DLWDW",
-          "avg_corners_home_per_game": 5.5,
-          "aproveitamento_home": 70.0,
+          "form_home": "LWDWW",
+          "avg_corners_home_per_game": 5.45,
+          "aproveitamento_home": 72.7,
           "btts_home_matches": 4,
-          "over_2_5_goals_home": 5,
-          "over_0_5_ht_home": 6,
-          "over_0_5_ft_home": 9,
-          "clean_sheets_home": 5
+          "over_2_5_goals_home": 6,
+          "over_0_5_ht_home": 7,
+          "over_0_5_ft_home": 10,
+          "clean_sheets_home": 6
         },
         "away": {
           "played": 13,
@@ -757,24 +757,24 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-botafogo-fr.png"
         },
         "points": 30,
-        "goalsDiff": 0,
+        "goalsDiff": -3,
         "group": "Brazil Serie A 2026",
         "status": "same",
         "description": "",
         "all": {
-          "played": 23,
+          "played": 24,
           "win": 8,
           "draw": 6,
-          "lose": 9,
+          "lose": 10,
           "goals": {
             "for": 37,
-            "against": 37
+            "against": 40
           },
-          "form": "DWDLL",
+          "form": "WDLLL",
           "btts_matches": 17,
-          "avg_corners_per_game": 4.43,
-          "aproveitamento": 43.5,
-          "over_2_5_goals": 16,
+          "avg_corners_per_game": 4.38,
+          "aproveitamento": 41.7,
+          "over_2_5_goals": 17,
           "over_0_5_ht": 11,
           "over_0_5_ft": 14,
           "clean_sheets": 3
@@ -798,19 +798,19 @@
           "clean_sheets_home": 2
         },
         "away": {
-          "played": 12,
+          "played": 13,
           "win": 4,
           "draw": 2,
-          "lose": 6,
+          "lose": 7,
           "goals": {
             "for": 17,
-            "against": 20
+            "against": 23
           },
-          "form_visitor": "DDLWL",
+          "form_visitor": "DLWLL",
           "btts_away_matches": 9,
-          "avg_corners_away_per_game": 3.25,
-          "aproveitamento_away": 38.9,
-          "over_2_5_goals_away": 7,
+          "avg_corners_away_per_game": 3.23,
+          "aproveitamento_away": 35.9,
+          "over_2_5_goals_away": 8,
           "over_0_5_ht_away": 6,
           "over_0_5_ft_away": 7,
           "clean_sheets_away": 1
@@ -1379,7 +1379,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 15,
         "jogador-assists": 4,
-        "jogador-partidas": 23,
+        "jogador-partidas": 24,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-cr-flamengo.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-pedro-guilherme-abreu-dos-santos.png"
       },
@@ -1400,6 +1400,15 @@
         "jogador-partidas": 18,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-fluminense-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-john-kennedy.png"
+      },
+      {
+        "jogador-nome": "Samuel Dias Lino",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 8,
+        "jogador-assists": 7,
+        "jogador-partidas": 24,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-cr-flamengo.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-samuel-lino.png"
       },
       {
         "jogador-nome": "José Manuel López",
@@ -1442,7 +1451,7 @@
         "jogador-posicao": "Midfielder",
         "jogador-gols": 7,
         "jogador-assists": 2,
-        "jogador-partidas": 16,
+        "jogador-partidas": 17,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-botafogo-fr.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-danilo-oliveira.png"
       },
@@ -1478,7 +1487,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 7,
         "jogador-assists": 1,
-        "jogador-partidas": 19,
+        "jogador-partidas": 20,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-botafogo-fr.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-arthur-cabral.png"
       },
@@ -1490,15 +1499,6 @@
         "jogador-partidas": 1,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-chapecoense-af.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/-jogador_42458.png"
-      },
-      {
-        "jogador-nome": "Samuel Dias Lino",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 6,
-        "jogador-assists": 7,
-        "jogador-partidas": 23,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-cr-flamengo.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-samuel-lino.png"
       },
       {
         "jogador-nome": "Neymar da Silva Santos Junior",
