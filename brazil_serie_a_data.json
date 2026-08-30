@@ -281,26 +281,26 @@
           "logo": "https://cdn.footystats.org/img/teams/brazil-cruzeiro-ec.png"
         },
         "points": 39,
-        "goalsDiff": 1,
+        "goalsDiff": -1,
         "group": "Brazil Serie A 2026",
         "status": "same",
         "description": "Copa Sul-Americana",
         "all": {
-          "played": 24,
+          "played": 25,
           "win": 11,
           "draw": 6,
-          "lose": 7,
+          "lose": 8,
           "goals": {
-            "for": 34,
-            "against": 33
+            "for": 35,
+            "against": 36
           },
-          "form": "LWWWW",
-          "btts_matches": 16,
-          "avg_corners_per_game": 5.38,
-          "aproveitamento": 54.2,
-          "over_2_5_goals": 15,
+          "form": "WWWWL",
+          "btts_matches": 17,
+          "avg_corners_per_game": 5.28,
+          "aproveitamento": 52.0,
+          "over_2_5_goals": 16,
           "over_0_5_ht": 13,
-          "over_0_5_ft": 15,
+          "over_0_5_ft": 16,
           "clean_sheets": 5
         },
         "home": {
@@ -322,21 +322,21 @@
           "clean_sheets_home": 3
         },
         "away": {
-          "played": 11,
+          "played": 12,
           "win": 5,
           "draw": 2,
-          "lose": 4,
+          "lose": 5,
           "goals": {
-            "for": 13,
-            "against": 18
+            "for": 14,
+            "against": 21
           },
-          "form_visitor": "WDWWW",
-          "btts_away_matches": 7,
-          "avg_corners_away_per_game": 5.0,
-          "aproveitamento_away": 51.5,
-          "over_2_5_goals_away": 7,
+          "form_visitor": "DWWWL",
+          "btts_away_matches": 8,
+          "avg_corners_away_per_game": 4.83,
+          "aproveitamento_away": 47.2,
+          "over_2_5_goals_away": 8,
           "over_0_5_ht_away": 6,
-          "over_0_5_ft_away": 7,
+          "over_0_5_ft_away": 8,
           "clean_sheets_away": 2
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1024,6 +1024,74 @@
       {
         "rank": 16,
         "team": {
+          "id": 625,
+          "name": "CR Vasco da Gama",
+          "logo": "https://cdn.footystats.org/img/teams/brazil-cr-vasco-da-gama.png"
+        },
+        "points": 25,
+        "goalsDiff": -12,
+        "group": "Brazil Serie A 2026",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 24,
+          "win": 6,
+          "draw": 7,
+          "lose": 11,
+          "goals": {
+            "for": 27,
+            "against": 39
+          },
+          "form": "DDLLW",
+          "btts_matches": 16,
+          "avg_corners_per_game": 5.46,
+          "aproveitamento": 34.7,
+          "over_2_5_goals": 14,
+          "over_0_5_ht": 6,
+          "over_0_5_ft": 12,
+          "clean_sheets": 2
+        },
+        "home": {
+          "played": 13,
+          "win": 6,
+          "draw": 2,
+          "lose": 5,
+          "goals": {
+            "for": 16,
+            "against": 18
+          },
+          "form_home": "LLDLW",
+          "avg_corners_home_per_game": 6.31,
+          "aproveitamento_home": 51.3,
+          "btts_home_matches": 8,
+          "over_2_5_goals_home": 8,
+          "over_0_5_ht_home": 3,
+          "over_0_5_ft_home": 7,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 11,
+          "win": 0,
+          "draw": 5,
+          "lose": 6,
+          "goals": {
+            "for": 11,
+            "against": 21
+          },
+          "form_visitor": "DLLDL",
+          "btts_away_matches": 8,
+          "avg_corners_away_per_game": 4.45,
+          "aproveitamento_away": 15.2,
+          "over_2_5_goals_away": 6,
+          "over_0_5_ht_away": 3,
+          "over_0_5_ft_away": 5,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 17,
+        "team": {
           "id": 630,
           "name": "SC Internacional",
           "logo": "https://cdn.footystats.org/img/teams/brazil-sc-internacional.png"
@@ -1032,7 +1100,7 @@
         "goalsDiff": -4,
         "group": "Brazil Serie A 2026",
         "status": "same",
-        "description": "",
+        "description": "Rebaixamento",
         "all": {
           "played": 24,
           "win": 5,
@@ -1090,7 +1158,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 17,
+        "rank": 18,
         "team": {
           "id": 2721,
           "name": "Mirassol Futebol Clube",
@@ -1158,7 +1226,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 18,
+        "rank": 19,
         "team": {
           "id": 2594,
           "name": "Clube do Remo",
@@ -1221,74 +1289,6 @@
           "over_2_5_goals_away": 8,
           "over_0_5_ht_away": 5,
           "over_0_5_ft_away": 4,
-          "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 19,
-        "team": {
-          "id": 625,
-          "name": "CR Vasco da Gama",
-          "logo": "https://cdn.footystats.org/img/teams/brazil-cr-vasco-da-gama.png"
-        },
-        "points": 22,
-        "goalsDiff": -14,
-        "group": "Brazil Serie A 2026",
-        "status": "same",
-        "description": "Rebaixamento",
-        "all": {
-          "played": 23,
-          "win": 5,
-          "draw": 7,
-          "lose": 11,
-          "goals": {
-            "for": 24,
-            "against": 38
-          },
-          "form": "LDDLL",
-          "btts_matches": 15,
-          "avg_corners_per_game": 5.22,
-          "aproveitamento": 31.9,
-          "over_2_5_goals": 13,
-          "over_0_5_ht": 5,
-          "over_0_5_ft": 11,
-          "clean_sheets": 2
-        },
-        "home": {
-          "played": 12,
-          "win": 5,
-          "draw": 2,
-          "lose": 5,
-          "goals": {
-            "for": 13,
-            "against": 17
-          },
-          "form_home": "WLLDL",
-          "avg_corners_home_per_game": 5.92,
-          "aproveitamento_home": 47.2,
-          "btts_home_matches": 7,
-          "over_2_5_goals_home": 7,
-          "over_0_5_ht_home": 2,
-          "over_0_5_ft_home": 6,
-          "clean_sheets_home": 1
-        },
-        "away": {
-          "played": 11,
-          "win": 0,
-          "draw": 5,
-          "lose": 6,
-          "goals": {
-            "for": 11,
-            "against": 21
-          },
-          "form_visitor": "DLLDL",
-          "btts_away_matches": 8,
-          "avg_corners_away_per_game": 4.45,
-          "aproveitamento_away": 15.2,
-          "over_2_5_goals_away": 6,
-          "over_0_5_ht_away": 3,
-          "over_0_5_ft_away": 5,
           "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1510,6 +1510,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-neymar.png"
       },
       {
+        "jogador-nome": "Matheus Fellipe Costa Pereira",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 6,
+        "jogador-assists": 3,
+        "jogador-partidas": 22,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-cruzeiro-ec.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-matheus-fellipe-costa-pereira.png"
+      },
+      {
         "jogador-nome": "Johan Stiven Carbonero Balanta",
         "jogador-posicao": "Forward",
         "jogador-gols": 6,
@@ -1517,15 +1526,6 @@
         "jogador-partidas": 23,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-sc-internacional.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/colombia-johan-stiven-carbonero-balanta.png"
-      },
-      {
-        "jogador-nome": "Matheus Fellipe Costa Pereira",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 6,
-        "jogador-assists": 2,
-        "jogador-partidas": 21,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/brazil-cruzeiro-ec.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/brazil-matheus-fellipe-costa-pereira.png"
       },
       {
         "jogador-nome": "Pedro Rocha Neves",
