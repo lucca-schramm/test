@@ -72,6 +72,74 @@
       {
         "rank": 2,
         "team": {
+          "id": 42,
+          "name": "SC Freiburg",
+          "logo": "https://cdn.footystats.org/img/teams/germany-sc-freiburg.png"
+        },
+        "points": 3,
+        "goalsDiff": 3,
+        "group": "Germany Bundesliga 20262027",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 1,
+          "win": 1,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 4,
+            "against": 1
+          },
+          "form": "W",
+          "btts_matches": 1,
+          "avg_corners_per_game": 6.0,
+          "aproveitamento": 100.0,
+          "over_2_5_goals": 1,
+          "over_0_5_ht": 1,
+          "over_0_5_ft": 1,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 1,
+          "win": 1,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 4,
+            "against": 1
+          },
+          "form_home": "W",
+          "avg_corners_home_per_game": 6.0,
+          "aproveitamento_home": 100.0,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 1,
+          "over_0_5_ht_home": 1,
+          "over_0_5_ft_home": 1,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 0,
+          "win": 0,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 0,
+            "against": 0
+          },
+          "form_visitor": "",
+          "btts_away_matches": 0,
+          "avg_corners_away_per_game": 0,
+          "aproveitamento_away": 0,
+          "over_2_5_goals_away": 0,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 0,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 3,
+        "team": {
           "id": 46,
           "name": "Rasen Ballsport Leipzig",
           "logo": "https://cdn.footystats.org/img/teams/germany-rasen-ballsport-leipzig.png"
@@ -138,7 +206,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "team": {
           "id": 33,
           "name": "BVB 09 Borussia Dortmund",
@@ -206,7 +274,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "team": {
           "id": 41,
           "name": "1. FC Köln",
@@ -216,7 +284,7 @@
         "goalsDiff": 1,
         "group": "Germany Bundesliga 20262027",
         "status": "same",
-        "description": "Copa Libertadores",
+        "description": "Copa Sul-Americana",
         "all": {
           "played": 1,
           "win": 1,
@@ -274,7 +342,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "team": {
           "id": 6326,
           "name": "SV 07 Elversberg",
@@ -342,7 +410,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "team": {
           "id": 541,
           "name": "1. FC Union Berlin",
@@ -352,7 +420,7 @@
         "goalsDiff": 0,
         "group": "Germany Bundesliga 20262027",
         "status": "same",
-        "description": "Copa Sul-Americana",
+        "description": "",
         "all": {
           "played": 1,
           "win": 0,
@@ -410,7 +478,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "team": {
           "id": 44,
           "name": "Eintracht Frankfurt",
@@ -478,7 +546,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "team": {
           "id": 34,
           "name": "1. FSV Mainz 05",
@@ -546,7 +614,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "team": {
           "id": 53,
           "name": "SC Paderborn 07",
@@ -614,7 +682,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "team": {
           "id": 35,
           "name": "FC Schalke 04",
@@ -682,143 +750,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 11,
-        "team": {
-          "id": 37,
-          "name": "SV Werder Bremen",
-          "logo": "https://cdn.footystats.org/img/teams/germany-sv-werder-bremen.png"
-        },
-        "points": 0,
-        "goalsDiff": 0,
-        "group": "Germany Bundesliga 20262027",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 0,
-          "win": 0,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 0,
-            "against": 0
-          },
-          "form": "",
-          "btts_matches": 0,
-          "avg_corners_per_game": 0,
-          "aproveitamento": 0,
-          "over_2_5_goals": 0,
-          "over_0_5_ht": 0,
-          "over_0_5_ft": 0,
-          "clean_sheets": 0
-        },
-        "home": {
-          "played": 0,
-          "win": 0,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 0,
-            "against": 0
-          },
-          "form_home": "",
-          "avg_corners_home_per_game": 0,
-          "aproveitamento_home": 0,
-          "btts_home_matches": 0,
-          "over_2_5_goals_home": 0,
-          "over_0_5_ht_home": 0,
-          "over_0_5_ft_home": 0,
-          "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 0,
-          "win": 0,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 0,
-            "against": 0
-          },
-          "form_visitor": "",
-          "btts_away_matches": 0,
-          "avg_corners_away_per_game": 0,
-          "aproveitamento_away": 0,
-          "over_2_5_goals_away": 0,
-          "over_0_5_ht_away": 0,
-          "over_0_5_ft_away": 0,
-          "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
         "rank": 12,
-        "team": {
-          "id": 42,
-          "name": "SC Freiburg",
-          "logo": "https://cdn.footystats.org/img/teams/germany-sc-freiburg.png"
-        },
-        "points": 0,
-        "goalsDiff": 0,
-        "group": "Germany Bundesliga 20262027",
-        "status": "same",
-        "description": "",
-        "all": {
-          "played": 0,
-          "win": 0,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 0,
-            "against": 0
-          },
-          "form": "",
-          "btts_matches": 0,
-          "avg_corners_per_game": 0,
-          "aproveitamento": 0,
-          "over_2_5_goals": 0,
-          "over_0_5_ht": 0,
-          "over_0_5_ft": 0,
-          "clean_sheets": 0
-        },
-        "home": {
-          "played": 0,
-          "win": 0,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 0,
-            "against": 0
-          },
-          "form_home": "",
-          "avg_corners_home_per_game": 0,
-          "aproveitamento_home": 0,
-          "btts_home_matches": 0,
-          "over_2_5_goals_home": 0,
-          "over_0_5_ht_home": 0,
-          "over_0_5_ft_home": 0,
-          "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 0,
-          "win": 0,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 0,
-            "against": 0
-          },
-          "form_visitor": "",
-          "btts_away_matches": 0,
-          "avg_corners_away_per_game": 0,
-          "aproveitamento_away": 0,
-          "over_2_5_goals_away": 0,
-          "over_0_5_ht_away": 0,
-          "over_0_5_ft_away": 0,
-          "clean_sheets_away": 0
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 13,
         "team": {
           "id": 50,
           "name": "FC Augsburg",
@@ -886,7 +818,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 14,
+        "rank": 13,
         "team": {
           "id": 40,
           "name": "Bayer 04 Leverkusen",
@@ -954,7 +886,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 15,
+        "rank": 14,
         "team": {
           "id": 49,
           "name": "TSG 1899 Hoffenheim",
@@ -1022,7 +954,7 @@
         "update": "2025-09-23T00:00:00+00:00"
       },
       {
-        "rank": 16,
+        "rank": 15,
         "team": {
           "id": 36,
           "name": "Hamburger SV",
@@ -1085,6 +1017,74 @@
           "over_2_5_goals_away": 0,
           "over_0_5_ht_away": 0,
           "over_0_5_ft_away": 0,
+          "clean_sheets_away": 0
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 16,
+        "team": {
+          "id": 37,
+          "name": "SV Werder Bremen",
+          "logo": "https://cdn.footystats.org/img/teams/germany-sv-werder-bremen.png"
+        },
+        "points": 0,
+        "goalsDiff": -3,
+        "group": "Germany Bundesliga 20262027",
+        "status": "same",
+        "description": "",
+        "all": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 1,
+            "against": 4
+          },
+          "form": "L",
+          "btts_matches": 1,
+          "avg_corners_per_game": 5.0,
+          "aproveitamento": 0.0,
+          "over_2_5_goals": 1,
+          "over_0_5_ht": 0,
+          "over_0_5_ft": 1,
+          "clean_sheets": 0
+        },
+        "home": {
+          "played": 0,
+          "win": 0,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 0,
+            "against": 0
+          },
+          "form_home": "",
+          "avg_corners_home_per_game": 0,
+          "aproveitamento_home": 0,
+          "btts_home_matches": 0,
+          "over_2_5_goals_home": 0,
+          "over_0_5_ht_home": 0,
+          "over_0_5_ft_home": 0,
+          "clean_sheets_home": 0
+        },
+        "away": {
+          "played": 1,
+          "win": 0,
+          "draw": 0,
+          "lose": 1,
+          "goals": {
+            "for": 1,
+            "against": 4
+          },
+          "form_visitor": "L",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 5.0,
+          "aproveitamento_away": 0.0,
+          "over_2_5_goals_away": 1,
+          "over_0_5_ht_away": 0,
+          "over_0_5_ft_away": 1,
           "clean_sheets_away": 0
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -1230,6 +1230,15 @@
   "artilharia": {
     "germany_bundesliga": [
       {
+        "jogador-nome": "Yuito Suzuki",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 3,
+        "jogador-assists": 0,
+        "jogador-partidas": 1,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-sc-freiburg.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/japan-yuito-suzuki.png"
+      },
+      {
         "jogador-nome": "Younes Ebnoutalib",
         "jogador-posicao": "Forward",
         "jogador-gols": 3,
@@ -1264,6 +1273,15 @@
         "jogador-partidas": 1,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-1-fc-union-berlin.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/austria-leopold-querfeld.png"
+      },
+      {
+        "jogador-nome": "Igor Matanovic",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 1,
+        "jogador-assists": 1,
+        "jogador-partidas": 1,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-sc-freiburg.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/germany-igor-matanovic.png"
       },
       {
         "jogador-nome": "William Cole Campbell",
@@ -1383,31 +1401,13 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/france-david-mokwa-ntusu.png"
       },
       {
-        "jogador-nome": "Christian Michel Kofane",
-        "jogador-posicao": "Forward",
+        "jogador-nome": "Dariusz Stalmach",
+        "jogador-posicao": "Midfielder",
         "jogador-gols": 1,
         "jogador-assists": 0,
         "jogador-partidas": 1,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-bayer-04-leverkusen.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/cameroon-christian-michel-kofane.png"
-      },
-      {
-        "jogador-nome": "Bote Baku",
-        "jogador-posicao": "Defender",
-        "jogador-gols": 1,
-        "jogador-assists": 0,
-        "jogador-partidas": 1,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-rasen-ballsport-leipzig.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/germany-bote-baku.png"
-      },
-      {
-        "jogador-nome": "Antonio Eromonsele Nordby Nusa",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 1,
-        "jogador-assists": 0,
-        "jogador-partidas": 1,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-rasen-ballsport-leipzig.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/norway-antonio-nusa.png"
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/germany-sv-werder-bremen.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/poland-dariusz-stalmach.png"
       }
     ]
   }
