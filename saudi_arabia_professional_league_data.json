@@ -4,6 +4,74 @@
       {
         "rank": 1,
         "team": {
+          "id": 5066,
+          "name": "Al Hilal FC Riyadh",
+          "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-hilal-fc-riyadh.png"
+        },
+        "points": 12,
+        "goalsDiff": 12,
+        "group": "Saudi Arabia Professional League 20262027",
+        "status": "same",
+        "description": "Copa Libertadores",
+        "all": {
+          "played": 4,
+          "win": 4,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 15,
+            "against": 3
+          },
+          "form": "WWWW",
+          "btts_matches": 2,
+          "avg_corners_per_game": 4.25,
+          "aproveitamento": 100.0,
+          "over_2_5_goals": 4,
+          "over_0_5_ht": 4,
+          "over_0_5_ft": 3,
+          "clean_sheets": 2
+        },
+        "home": {
+          "played": 2,
+          "win": 2,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 7,
+            "against": 2
+          },
+          "form_home": "WW",
+          "avg_corners_home_per_game": 5.0,
+          "aproveitamento_home": 100.0,
+          "btts_home_matches": 1,
+          "over_2_5_goals_home": 2,
+          "over_0_5_ht_home": 2,
+          "over_0_5_ft_home": 2,
+          "clean_sheets_home": 1
+        },
+        "away": {
+          "played": 2,
+          "win": 2,
+          "draw": 0,
+          "lose": 0,
+          "goals": {
+            "for": 8,
+            "against": 1
+          },
+          "form_visitor": "WW",
+          "btts_away_matches": 1,
+          "avg_corners_away_per_game": 3.5,
+          "aproveitamento_away": 100.0,
+          "over_2_5_goals_away": 2,
+          "over_0_5_ht_away": 2,
+          "over_0_5_ft_away": 1,
+          "clean_sheets_away": 1
+        },
+        "update": "2025-09-23T00:00:00+00:00"
+      },
+      {
+        "rank": 2,
+        "team": {
           "id": 5069,
           "name": "Al Nassr FC",
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-nassr-fc.png"
@@ -65,74 +133,6 @@
           "over_2_5_goals_away": 2,
           "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 2,
-          "clean_sheets_away": 1
-        },
-        "update": "2025-09-23T00:00:00+00:00"
-      },
-      {
-        "rank": 2,
-        "team": {
-          "id": 5066,
-          "name": "Al Hilal FC Riyadh",
-          "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-hilal-fc-riyadh.png"
-        },
-        "points": 9,
-        "goalsDiff": 9,
-        "group": "Saudi Arabia Professional League 20262027",
-        "status": "same",
-        "description": "Copa Libertadores",
-        "all": {
-          "played": 3,
-          "win": 3,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 12,
-            "against": 3
-          },
-          "form": "WWW",
-          "btts_matches": 2,
-          "avg_corners_per_game": 4.67,
-          "aproveitamento": 100.0,
-          "over_2_5_goals": 3,
-          "over_0_5_ht": 3,
-          "over_0_5_ft": 2,
-          "clean_sheets": 1
-        },
-        "home": {
-          "played": 1,
-          "win": 1,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 4,
-            "against": 2
-          },
-          "form_home": "W",
-          "avg_corners_home_per_game": 7.0,
-          "aproveitamento_home": 100.0,
-          "btts_home_matches": 1,
-          "over_2_5_goals_home": 1,
-          "over_0_5_ht_home": 1,
-          "over_0_5_ft_home": 1,
-          "clean_sheets_home": 0
-        },
-        "away": {
-          "played": 2,
-          "win": 2,
-          "draw": 0,
-          "lose": 0,
-          "goals": {
-            "for": 8,
-            "against": 1
-          },
-          "form_visitor": "WW",
-          "btts_away_matches": 1,
-          "avg_corners_away_per_game": 3.5,
-          "aproveitamento_away": 100.0,
-          "over_2_5_goals_away": 2,
-          "over_0_5_ht_away": 2,
-          "over_0_5_ft_away": 1,
           "clean_sheets_away": 1
         },
         "update": "2025-09-23T00:00:00+00:00"
@@ -417,24 +417,24 @@
           "logo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-ahli-sc-jeddah.png"
         },
         "points": 6,
-        "goalsDiff": 3,
+        "goalsDiff": 0,
         "group": "Saudi Arabia Professional League 20262027",
         "status": "same",
         "description": "",
         "all": {
-          "played": 3,
+          "played": 4,
           "win": 2,
           "draw": 0,
-          "lose": 1,
+          "lose": 2,
           "goals": {
             "for": 6,
-            "against": 3
+            "against": 6
           },
-          "form": "WWL",
+          "form": "WWLL",
           "btts_matches": 1,
-          "avg_corners_per_game": 3.33,
-          "aproveitamento": 66.7,
-          "over_2_5_goals": 2,
+          "avg_corners_per_game": 3.5,
+          "aproveitamento": 50.0,
+          "over_2_5_goals": 3,
           "over_0_5_ht": 2,
           "over_0_5_ft": 2,
           "clean_sheets": 2
@@ -458,19 +458,19 @@
           "clean_sheets_home": 1
         },
         "away": {
-          "played": 2,
+          "played": 3,
           "win": 1,
           "draw": 0,
-          "lose": 1,
+          "lose": 2,
           "goals": {
             "for": 2,
-            "against": 3
+            "against": 6
           },
-          "form_visitor": "WL",
+          "form_visitor": "WLL",
           "btts_away_matches": 1,
           "avg_corners_away_per_game": 4.0,
-          "aproveitamento_away": 50.0,
-          "over_2_5_goals_away": 1,
+          "aproveitamento_away": 33.3,
+          "over_2_5_goals_away": 2,
           "over_0_5_ht_away": 1,
           "over_0_5_ft_away": 1,
           "clean_sheets_away": 1
@@ -1234,7 +1234,7 @@
         "jogador-posicao": "Forward",
         "jogador-gols": 4,
         "jogador-assists": 0,
-        "jogador-partidas": 3,
+        "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-ahli-sc-jeddah.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/england-ivan-toney.png"
       },
@@ -1246,6 +1246,15 @@
         "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-ittihad-fc-jeddah.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/netherlands-steven-bergwijn.png"
+      },
+      {
+        "jogador-nome": "Sergej Milinković-Savić",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 3,
+        "jogador-assists": 1,
+        "jogador-partidas": 4,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-hilal-fc-riyadh.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/serbia-sergej-milinkovic-savic.png"
       },
       {
         "jogador-nome": "Teddy Lia Okou",
@@ -1266,6 +1275,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/france-moussa-dembele.png"
       },
       {
+        "jogador-nome": "Sultan Madash",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 2,
+        "jogador-assists": 2,
+        "jogador-partidas": 4,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-hilal-fc-riyadh.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/saudi-arabia-sultan-madash.png"
+      },
+      {
         "jogador-nome": "Sadio Mané",
         "jogador-posicao": "Forward",
         "jogador-gols": 2,
@@ -1273,6 +1291,15 @@
         "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-nassr-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/senegal-sadio-mane.png"
+      },
+      {
+        "jogador-nome": "Rúben Diogo da Silva Neves",
+        "jogador-posicao": "Midfielder",
+        "jogador-gols": 2,
+        "jogador-assists": 2,
+        "jogador-partidas": 4,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-hilal-fc-riyadh.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/portugal-ruben-neves.png"
       },
       {
         "jogador-nome": "João Félix Sequeira",
@@ -1284,6 +1311,15 @@
         "jogador-foto": "https://cdn.footystats.org/img/players/portugal-joao-felix.png"
       },
       {
+        "jogador-nome": "Crysencio Jilbert Sylverio Cirro Summerville",
+        "jogador-posicao": "Forward",
+        "jogador-gols": 2,
+        "jogador-assists": 2,
+        "jogador-partidas": 4,
+        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-hilal-fc-riyadh.png",
+        "jogador-foto": "https://cdn.footystats.org/img/players/netherlands-crysencio-summerville.png"
+      },
+      {
         "jogador-nome": "Ângelo Gabriel Borges Damaceno",
         "jogador-posicao": "Forward",
         "jogador-gols": 2,
@@ -1291,24 +1327,6 @@
         "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-nassr-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/brazil-angelo-gabriel.png"
-      },
-      {
-        "jogador-nome": "Sergej Milinković-Savić",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 2,
-        "jogador-assists": 1,
-        "jogador-partidas": 3,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-hilal-fc-riyadh.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/serbia-sergej-milinkovic-savic.png"
-      },
-      {
-        "jogador-nome": "Rúben Diogo da Silva Neves",
-        "jogador-posicao": "Midfielder",
-        "jogador-gols": 2,
-        "jogador-assists": 1,
-        "jogador-partidas": 3,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-hilal-fc-riyadh.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/portugal-ruben-neves.png"
       },
       {
         "jogador-nome": "Iker Kortajarena Canellada",
@@ -1327,15 +1345,6 @@
         "jogador-partidas": 4,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-neom-sc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/france-alexandre-lacazette.png"
-      },
-      {
-        "jogador-nome": "Sultan Madash",
-        "jogador-posicao": "Forward",
-        "jogador-gols": 2,
-        "jogador-assists": 0,
-        "jogador-partidas": 3,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-hilal-fc-riyadh.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/saudi-arabia-sultan-madash.png"
       },
       {
         "jogador-nome": "Samuel de Almeida Costa",
@@ -1399,15 +1408,6 @@
         "jogador-partidas": 3,
         "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-nassr-fc.png",
         "jogador-foto": "https://cdn.footystats.org/img/players/portugal-cristiano-ronaldo.png"
-      },
-      {
-        "jogador-nome": "Abdullah Al Amri",
-        "jogador-posicao": "Defender",
-        "jogador-gols": 2,
-        "jogador-assists": 0,
-        "jogador-partidas": 3,
-        "jogador-escudo": "https://cdn.footystats.org/img/teams/saudi-arabia-al-nassr-fc.png",
-        "jogador-foto": "https://cdn.footystats.org/img/players/saudi-arabia-abdullah-al-amri.png"
       }
     ]
   }
